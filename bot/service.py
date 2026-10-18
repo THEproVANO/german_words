@@ -11,18 +11,18 @@ from aiogram import Bot
 from aiogram.exceptions import TelegramForbiddenError
 
 from . import db, keyboards, words
-from .config import (DAILY_QUIZ_SIZE, DAY_END_MIN, DAY_START_MIN, QUIZ_HOUR, TICK_SECONDS,
-                     WEEKLY_QUIZ_SIZE, WORDS_PER_DAY)
+from .config import DAILY_QUIZ_SIZE, QUIZ_HOUR, TICK_SECONDS, WEEKLY_QUIZ_SIZE
 
 log = logging.getLogger(__name__)
 
 # Не даём планировщику и обработчикам одновременно менять данные одного пользователя
 user_locks: defaultdict[int, asyncio.Lock] = defaultdict(asyncio.Lock)
 
-SLOTS = [
-    DAY_START_MIN + round(k * (DAY_END_MIN - DAY_START_MIN) / (WORDS_PER_DAY - 1))
-    for k in range(WORDS_PER_DAY)
-]
+
+def slots(user: sqlite3.Row) -> list[int]:
+    """Время отправки слов (в минутах от полуночи) по настройкам пользователя."""
+    times = range(user["day_start"] * 60, user["day_end"] * 60 + 1, user["interval_min"])
+    return list(times)[: user["words_per_day"]]
 
 
 def local_now(user: sqlite3.Row) -> datetime:
@@ -35,10 +35,19 @@ def study_date(local: datetime) -> date:
     return d + timedelta(days=1) if local.hour >= QUIZ_HOUR else d
 
 
-def slot_index(local: datetime) -> int:
-    """Сколько слотов рассылки уже наступило сегодня (0..WORDS_PER_DAY)."""
+def slot_index(user: sqlite3.Row, local: datetime) -> int:
+    """Сколько слотов рассылки уже наступило сегодня."""
     minutes = local.hour * 60 + local.minute
-    return sum(1 for s in SLOTS if s <= minutes)
+    return sum(1 for s in slots(user) if s <= minutes)
+
+
+def reset_schedule(user_id: int) -> None:
+    """Считает уже наступившие сегодня слоты отправленными, чтобы после смены
+    настроек или регистрации слова не пришли все разом."""
+    user = db.get_user(user_id)
+    local = local_now(user)
+    db.update_user(user_id, last_slot_date=local.date().isoformat(),
+                   last_slot_idx=slot_index(user, local))
 
 
 # --- слова ---
@@ -171,7 +180,7 @@ async def process_user(bot: Bot, user: sqlite3.Row) -> None:
     if db.get_active_quiz(user["id"]):
         return
     local = local_now(user)
-    idx = slot_index(local)
+    idx = slot_index(user, local)
     today = local.date().isoformat()
     if idx == 0 or (user["last_slot_date"] == today and user["last_slot_idx"] >= idx):
         return

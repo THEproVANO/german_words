@@ -1,7 +1,7 @@
 import sqlite3
 from datetime import date, datetime, timezone
 
-from .config import DB_PATH, LEVELS
+from .config import DAY_END, DAY_START, DB_PATH, INTERVAL, LEVELS, WORDS_PER_DAY
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS users (
@@ -62,6 +62,14 @@ conn = sqlite3.connect(DB_PATH)
 conn.row_factory = sqlite3.Row
 conn.execute("PRAGMA journal_mode=WAL")
 conn.executescript(SCHEMA)
+
+# Колонки, добавленные после первого запуска: дописываем их в уже существующую базу
+_user_columns = {r["name"] for r in conn.execute("PRAGMA table_info(users)")}
+for _name, _default in (("interval_min", INTERVAL), ("words_per_day", WORDS_PER_DAY),
+                        ("day_start", DAY_START), ("day_end", DAY_END)):
+    if _name not in _user_columns:
+        conn.execute(f"ALTER TABLE users ADD COLUMN {_name} INTEGER NOT NULL DEFAULT {_default}")
+conn.commit()
 
 
 def now_utc() -> str:

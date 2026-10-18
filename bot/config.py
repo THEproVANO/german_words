@@ -13,10 +13,16 @@ DATA_DIR = ROOT / "data"
 LEVELS = ["A1", "A2", "B1", "B2"]
 LANGUAGES = {"de": "🇩🇪 Немецкий"}
 
-# Расписание слов: WORDS_PER_DAY штук, равномерно с DAY_START до DAY_END
+# Расписание слов по умолчанию: по одному слову каждые INTERVAL минут с DAY_START до DAY_END,
+# но не больше WORDS_PER_DAY в день. Пользователь может изменить это в профиле
+INTERVAL = 30
 WORDS_PER_DAY = 15
-DAY_START_MIN = 9 * 60
-DAY_END_MIN = 21 * 60
+DAY_START = 9
+DAY_END = 21
+INTERVAL_OPTIONS = {30: "каждые 30 минут", 60: "каждый час", 120: "каждые 2 часа"}
+WORDS_PER_DAY_OPTIONS = [5, 10, 15, 20, 25, 30]
+DAY_START_OPTIONS = [6, 7, 8, 9, 10, 11, 12]
+DAY_END_OPTIONS = [17, 18, 19, 20, 21]
 
 # Время дневного теста. Слова, полученные после этого часа, относятся к следующему дню
 QUIZ_HOUR = 22
