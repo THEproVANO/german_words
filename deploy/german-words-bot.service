@@ -1,0 +1,14 @@
+[Unit]
+Description=German words Telegram bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=bot
+WorkingDirectory=/home/bot/german_words
+ExecStart=/home/bot/german_words/.venv/bin/python -m bot
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
