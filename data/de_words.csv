@@ -2381,3 +2381,1583 @@ B1;noun;das;Zeichen;Zeichen;;;;знак, сигнал;Das ist ein gutes **Zeiche
 B1;noun;der;Zettel;Zettel;;;;записка, листок;Ich schreibe es auf einen **Zettel**.;Я запишу это на листок.
 B1;noun;die;Zusammenarbeit;-;;;;сотрудничество;Vielen Dank für die gute **Zusammenarbeit**!;Спасибо за плодотворное сотрудничество!
 B1;noun;der;Zuschuss;Zuschüsse;;;;дотация, надбавка;Die Firma zahlt einen **Zuschuss** zum Essen.;Фирма доплачивает за питание.
+B2;noun;die;Abhängigkeit;Abhängigkeiten;;;;зависимость;Die **Abhängigkeit** vom Handy ist ein großes Problem.;Зависимость от телефона — большая проблема.
+B2;noun;der;Ablauf;Abläufe;;;;ход, процесс, порядок;Der **Ablauf** der Veranstaltung ist genau geplant.;Ход мероприятия точно спланирован.
+B2;noun;die;Abmachung;Abmachungen;;;;договорённость;Wir haben eine **Abmachung**.;У нас есть договорённость.
+B2;noun;die;Abneigung;Abneigungen;;;;неприязнь;Er hat eine **Abneigung** gegen Fisch.;У него неприязнь к рыбе.
+B2;noun;der;Absatz;Absätze;;;;абзац, каблук, сбыт;Lesen Sie den zweiten **Absatz**.;Прочитайте второй абзац.
+B2;noun;der;Abschied;Abschiede;;;;прощание;Der **Abschied** fiel uns schwer.;Прощание далось нам тяжело.
+B2;noun;der;Abstand;Abstände;;;;расстояние, интервал;Bitte halten Sie **Abstand**!;Пожалуйста, соблюдайте дистанцию!
+B2;noun;die;Abteilungsleiterin;Abteilungsleiterinnen;;;;начальница отдела;Die **Abteilungsleiterin** hat die Besprechung abgesagt.;Начальница отдела отменила совещание.
+B2;noun;die;Achtung;-;;;;уважение, внимание;Ich habe große **Achtung** vor seiner Leistung.;Я очень уважаю его достижение.
+B2;noun;die;Akzeptanz;-;;;;признание, принятие;Die **Akzeptanz** der neuen Regeln ist gering.;Новые правила мало кто принимает.
+B2;noun;die;Analyse;Analysen;;;;анализ;Die **Analyse** der Daten dauert eine Woche.;Анализ данных займёт неделю.
+B2;noun;der;Anbieter;Anbieter;;;;поставщик (услуг), провайдер;Ich wechsle den **Anbieter** für Strom.;Я меняю поставщика электроэнергии.
+B2;noun;das;Andenken;Andenken;;;;память, сувенир;Das Foto ist ein schönes **Andenken** an die Reise.;Фото — прекрасная память о поездке.
+B2;noun;die;Annahme;Annahmen;;;;предположение, приём;Deine **Annahme** ist falsch.;Твоё предположение неверно.
+B2;noun;der;Anreiz;Anreize;;;;стимул;Ein höheres Gehalt ist ein guter **Anreiz**.;Более высокая зарплата — хороший стимул.
+B2;noun;der;Ansatz;Ansätze;;;;подход, начало;Das ist ein interessanter **Ansatz**.;Это интересный подход.
+B2;noun;der;Anstieg;Anstiege;;;;рост, подъём;Der **Anstieg** der Preise ist besorgniserregend.;Рост цен вызывает беспокойство.
+B2;noun;der;Anteil;Anteile;;;;доля;Der **Anteil** der Frauen in Führungspositionen steigt.;Доля женщин на руководящих должностях растёт.
+B2;noun;die;Anwendung;Anwendungen;;;;применение, приложение;Die **Anwendung** ist ganz einfach.;Применение совсем простое.
+B2;noun;die;Arbeitsbedingungen;pl;;;;условия труда;Die **Arbeitsbedingungen** haben sich verbessert.;Условия труда улучшились.
+B2;noun;der;Aspekt;Aspekte;;;;аспект;Das ist ein wichtiger **Aspekt**.;Это важный аспект.
+B2;noun;der;Aufbau;-;;;;строение, структура, построение;Der **Aufbau** des Textes ist logisch.;Структура текста логична.
+B2;noun;die;Auffassung;Auffassungen;;;;мнение, понимание;Ich bin der **Auffassung**, dass wir handeln müssen.;Я считаю, что мы должны действовать.
+B2;noun;der;Aufschwung;Aufschwünge;;;;подъём (экономический);Die Wirtschaft erlebt einen **Aufschwung**.;Экономика переживает подъём.
+B2;noun;der;Aufstieg;Aufstiege;;;;подъём, карьерный рост;Er hofft auf einen beruflichen **Aufstieg**.;Он надеется на карьерный рост.
+B2;noun;der;Ausbau;-;;;;расширение, развитие;Der **Ausbau** des Internets ist wichtig.;Развитие интернета важно.
+B2;noun;die;Auseinandersetzung;Auseinandersetzungen;;;;спор, столкновение, разбор;Es gab eine heftige **Auseinandersetzung**.;Произошёл бурный спор.
+B2;noun;die;Ausstattung;Ausstattungen;;;;оснащение, оборудование;Die **Ausstattung** der Wohnung ist modern.;Оснащение квартиры современное.
+B2;noun;die;Auswirkung;Auswirkungen;;;;последствие, влияние;Das hat negative **Auswirkungen** auf die Umwelt.;Это негативно влияет на окружающую среду.
+B2;noun;die;Bedrohung;Bedrohungen;;;;угроза;Der Klimawandel ist eine globale **Bedrohung**.;Изменение климата — глобальная угроза.
+B2;noun;die;Begabung;Begabungen;;;;одарённость, талант;Sie hat eine besondere **Begabung** für Sprachen.;У неё особый талант к языкам.
+B2;noun;die;Begründung;Begründungen;;;;обоснование;Ohne **Begründung** wurde mein Antrag abgelehnt.;Моё заявление отклонили без объяснения причин.
+B2;noun;der;Beleg;Belege;;;;квитанция, подтверждение;Bitte heben Sie alle **Belege** auf.;Пожалуйста, сохраняйте все квитанции.
+B2;noun;die;Belastung;Belastungen;;;;нагрузка, бремя;Die **Belastung** im Job ist sehr hoch.;Нагрузка на работе очень высокая.
+B2;noun;die;Belohnung;Belohnungen;;;;награда, вознаграждение;Als **Belohnung** gibt es ein Eis.;В награду будет мороженое.
+B2;noun;die;Benachrichtigung;Benachrichtigungen;;;;уведомление;Ich habe eine **Benachrichtigung** von der App bekommen.;Я получил уведомление от приложения.
+B2;noun;die;Beobachtung;Beobachtungen;;;;наблюдение;Das ist eine interessante **Beobachtung**.;Это интересное наблюдение.
+B2;noun;die;Bereitschaft;-;;;;готовность;Er zeigt große **Bereitschaft** zu helfen.;Он проявляет большую готовность помочь.
+B2;noun;die;Beschäftigung;Beschäftigungen;;;;занятость, занятие;Sie sucht eine neue **Beschäftigung**.;Она ищет новую работу.
+B2;noun;die;Besorgnis;-;;;;озабоченность;Die Lage gibt Anlass zur **Besorgnis**.;Ситуация вызывает озабоченность.
+B2;noun;der;Bestandteil;Bestandteile;;;;составная часть;Sport ist ein fester **Bestandteil** meines Lebens.;Спорт — неотъемлемая часть моей жизни.
+B2;noun;die;Bestätigung;Bestätigungen;;;;подтверждение;Sie bekommen eine **Bestätigung** per E-Mail.;Вы получите подтверждение по электронной почте.
+B2;noun;die;Beteiligung;Beteiligungen;;;;участие;Die **Beteiligung** an der Wahl war hoch.;Явка на выборах была высокой.
+B2;noun;die;Betreuung;-;;;;присмотр, сопровождение;Die **Betreuung** der Kinder ist gesichert.;Присмотр за детьми обеспечен.
+B2;noun;die;Beurteilung;Beurteilungen;;;;оценка, отзыв;Die **Beurteilung** durch den Chef war positiv.;Оценка начальника была положительной.
+B2;noun;die;Bewertung;Bewertungen;;;;оценка, отзыв;Das Hotel hat sehr gute **Bewertungen**.;У отеля очень хорошие отзывы.
+B2;noun;das;Bewusstsein;-;;;;сознание, осознание;Das **Bewusstsein** für Umweltschutz wächst.;Осознание важности защиты окружающей среды растёт.
+B2;noun;die;Bilanz;Bilanzen;;;;баланс, итог;Wir ziehen eine positive **Bilanz**.;Мы подводим положительный итог.
+B2;noun;die;Branche;Branchen;;;;отрасль;In welcher **Branche** arbeiten Sie?;В какой отрасли вы работаете?
+B2;noun;die;Bürokratie;-;;;;бюрократия;Die **Bürokratie** in Deutschland ist kompliziert.;Бюрократия в Германии сложная.
+B2;noun;die;Debatte;Debatten;;;;дебаты;Im Parlament gab es eine lange **Debatte**.;В парламенте прошли долгие дебаты.
+B2;noun;die;Dienstleistung;Dienstleistungen;;;;услуга;Wir bieten verschiedene **Dienstleistungen** an.;Мы предлагаем различные услуги.
+B2;noun;die;Digitalisierung;-;;;;цифровизация;Die **Digitalisierung** verändert die Arbeitswelt.;Цифровизация меняет мир труда.
+B2;noun;die;Distanz;Distanzen;;;;дистанция;Er hält **Distanz** zu seinen Kollegen.;Он держит дистанцию с коллегами.
+B2;noun;der;Durchbruch;Durchbrüche;;;;прорыв;Der Film war sein **Durchbruch**.;Фильм стал его прорывом.
+B2;noun;die;Durchführung;-;;;;проведение, осуществление;Die **Durchführung** des Projekts war schwierig.;Реализация проекта была сложной.
+B2;noun;die;Ebene;Ebenen;;;;уровень, равнина;Das Problem muss auf politischer **Ebene** gelöst werden.;Проблему нужно решать на политическом уровне.
+B2;noun;die;Effizienz;-;;;;эффективность;Wir müssen die **Effizienz** steigern.;Нам нужно повысить эффективность.
+B2;noun;der;Ehrgeiz;-;;;;честолюбие, амбиции;Sie hat viel **Ehrgeiz**.;У неё много амбиций.
+B2;noun;die;Eigenschaft;Eigenschaften;;;;свойство, качество;Welche **Eigenschaften** sind für den Job wichtig?;Какие качества важны для этой работы?
+B2;noun;die;Einbildung;Einbildungen;;;;воображение, самомнение;Das ist reine **Einbildung**.;Это чистое воображение.
+B2;noun;der;Einfluss;Einflüsse;;;;влияние;Er hat großen **Einfluss** auf seine Freunde.;Он сильно влияет на своих друзей.
+B2;noun;die;Einigung;Einigungen;;;;соглашение, согласие;Die Parteien haben eine **Einigung** erzielt.;Стороны достигли соглашения.
+B2;noun;die;Einschränkung;Einschränkungen;;;;ограничение;Es gibt keine **Einschränkungen**.;Ограничений нет.
+B2;noun;die;Einsicht;Einsichten;;;;понимание, осознание;Er kam zu der **Einsicht**, dass er sich irrte.;Он пришёл к пониманию, что ошибался.
+B2;noun;der;Einsatz;Einsätze;;;;применение, усердие, вызов;Danke für deinen **Einsatz**!;Спасибо за твоё усердие!
+B2;noun;die;Empörung;-;;;;возмущение;Die Nachricht löste **Empörung** aus.;Новость вызвала возмущение.
+B2;noun;das;Engagement;Engagements;;;;вовлечённость, участие;Sein soziales **Engagement** ist bewundernswert.;Его общественная деятельность достойна восхищения.
+B2;noun;der;Engpass;Engpässe;;;;узкое место, дефицит;Es gibt einen **Engpass** bei Medikamenten.;Есть дефицит лекарств.
+B2;noun;die;Entlastung;Entlastungen;;;;облегчение (нагрузки);Die neue Kollegin ist eine große **Entlastung**.;Новая коллега сильно снимает нагрузку.
+B2;noun;die;Entschädigung;Entschädigungen;;;;компенсация;Die Passagiere bekommen eine **Entschädigung**.;Пассажиры получают компенсацию.
+B2;noun;die;Entspannung;-;;;;расслабление, разрядка;Yoga hilft bei der **Entspannung**.;Йога помогает расслабиться.
+B2;noun;die;Erfindung;Erfindungen;;;;изобретение;Das Internet ist eine großartige **Erfindung**.;Интернет — великое изобретение.
+B2;noun;die;Erkenntnis;Erkenntnisse;;;;познание, вывод;Die Studie bringt neue **Erkenntnisse**.;Исследование даёт новые знания.
+B2;noun;die;Erleichterung;Erleichterungen;;;;облегчение;Was für eine **Erleichterung**!;Какое облегчение!
+B2;noun;die;Ermäßigung;Ermäßigungen;;;;скидка;Studenten bekommen eine **Ermäßigung**.;Студенты получают скидку.
+B2;noun;die;Ernte;Ernten;;;;урожай;Die **Ernte** war dieses Jahr gut.;Урожай в этом году был хорошим.
+B2;noun;die;Erscheinung;Erscheinungen;;;;явление, внешность;Das ist eine typische **Erscheinung** unserer Zeit.;Это типичное явление нашего времени.
+B2;noun;der;Ersatz;-;;;;замена;Wir brauchen einen **Ersatz** für den kranken Kollegen.;Нам нужна замена для заболевшего коллеги.
+B2;noun;die;Erwerbstätigkeit;-;;;;трудовая деятельность;Die **Erwerbstätigkeit** von Frauen steigt.;Занятость женщин растёт.
+B2;noun;die;Existenz;Existenzen;;;;существование;Die Firma kämpft um ihre **Existenz**.;Фирма борется за выживание.
+B2;noun;der;Experte;Experten;;;;эксперт;Die **Experten** sind sich nicht einig.;Эксперты не единодушны.
+B2;noun;der;Faktor;Faktoren;;;;фактор;Zeit ist ein wichtiger **Faktor**.;Время — важный фактор.
+B2;noun;die;Fassung;Fassungen;;;;редакция, версия, самообладание;Er verlor die **Fassung**.;Он потерял самообладание.
+B2;noun;das;Feedback;Feedbacks;;;;обратная связь;Danke für dein **Feedback**!;Спасибо за обратную связь!
+B2;noun;die;Fehlzeit;Fehlzeiten;;;;пропуски (работы, учёбы);Er hat viele **Fehlzeiten**.;У него много пропусков.
+B2;noun;die;Forderung;Forderungen;;;;требование;Die Gewerkschaft stellt neue **Forderungen**.;Профсоюз выдвигает новые требования.
+B2;noun;die;Förderung;Förderungen;;;;поддержка, содействие;Die **Förderung** von Talenten ist wichtig.;Поддержка талантов важна.
+B2;noun;die;Fusion;Fusionen;;;;слияние (компаний);Die **Fusion** der beiden Firmen ist geplant.;Планируется слияние двух фирм.
+B2;noun;die;Gefährdung;Gefährdungen;;;;угроза, опасность;Das ist eine **Gefährdung** der Sicherheit.;Это угроза безопасности.
+B2;noun;das;Gegenargument;Gegenargumente;;;;контраргумент;Hast du ein **Gegenargument**?;У тебя есть контраргумент?
+B2;noun;das;Gehirn;Gehirne;;;;мозг;Das **Gehirn** braucht viel Energie.;Мозгу нужно много энергии.
+B2;noun;die;Gelassenheit;-;;;;невозмутимость, спокойствие;Er reagierte mit großer **Gelassenheit**.;Он отреагировал с большим спокойствием.
+B2;noun;die;Gemeinschaft;Gemeinschaften;;;;сообщество, общность;Die **Gemeinschaft** im Dorf ist sehr stark.;Сообщество в деревне очень сплочённое.
+B2;noun;die;Gerechtigkeit;-;;;;справедливость;Er kämpft für soziale **Gerechtigkeit**.;Он борется за социальную справедливость.
+B2;noun;das;Gerücht;Gerüchte;;;;слух;Das ist nur ein **Gerücht**.;Это всего лишь слух.
+B2;noun;das;Geschlecht;Geschlechter;;;;пол (мужской/женский), род;Bitte geben Sie Ihr **Geschlecht** an.;Пожалуйста, укажите свой пол.
+B2;noun;die;Gestaltung;Gestaltungen;;;;оформление, организация;Die **Gestaltung** der Webseite ist modern.;Дизайн сайта современный.
+B2;noun;die;Gewalt;Gewalten;;;;насилие, власть;Wir sind gegen jede Form von **Gewalt**.;Мы против любого насилия.
+B2;noun;die;Gewissheit;Gewissheiten;;;;уверенность, определённость;Ich habe jetzt **Gewissheit**.;Теперь я знаю наверняка.
+B2;noun;die;Gleichgültigkeit;-;;;;равнодушие;Seine **Gleichgültigkeit** ärgert mich.;Его равнодушие меня злит.
+B2;noun;die;Globalisierung;-;;;;глобализация;Die **Globalisierung** hat Vor- und Nachteile.;У глобализации есть плюсы и минусы.
+B2;noun;der;Grundsatz;Grundsätze;;;;принцип;Das ist eine Frage des **Grundsatzes**.;Это вопрос принципа.
+B2;noun;die;Gründung;Gründungen;;;;основание, создание;Die **Gründung** der Firma war 1990.;Фирма была основана в 1990 году.
+B2;noun;das;Gutachten;Gutachten;;;;заключение (эксперта);Das **Gutachten** bestätigt den Schaden.;Экспертное заключение подтверждает ущерб.
+B2;noun;das;Hindernis;Hindernisse;;;;препятствие;Es gibt viele **Hindernisse** auf dem Weg.;На пути много препятствий.
+B2;noun;der;Hintergrund;Hintergründe;;;;фон, предыстория;Was ist der **Hintergrund** dieser Entscheidung?;Какова подоплёка этого решения?
+B2;noun;die;Hypothek;Hypotheken;;;;ипотека;Wir haben eine **Hypothek** auf das Haus aufgenommen.;Мы взяли ипотеку на дом.
+B2;noun;die;Identität;Identitäten;;;;личность, идентичность;Bitte weisen Sie Ihre **Identität** nach.;Пожалуйста, подтвердите свою личность.
+B2;noun;die;Initiative;Initiativen;;;;инициатива;Er hat die **Initiative** ergriffen.;Он проявил инициативу.
+B2;noun;die;Innovation;Innovationen;;;;инновация;Die Firma investiert in **Innovationen**.;Фирма инвестирует в инновации.
+B2;noun;die;Institution;Institutionen;;;;учреждение, институт;Die Schule ist eine wichtige **Institution**.;Школа — важный институт общества.
+B2;noun;die;Investition;Investitionen;;;;инвестиция;Das ist eine gute **Investition**.;Это хорошее вложение.
+B2;noun;die;Kampagne;Kampagnen;;;;кампания;Die **Kampagne** war sehr erfolgreich.;Кампания была очень успешной.
+B2;noun;der;Kampf;Kämpfe;;;;борьба, бой;Der **Kampf** gegen den Klimawandel ist wichtig.;Борьба с изменением климата важна.
+B2;noun;die;Kapazität;Kapazitäten;;;;мощность, вместимость;Das Krankenhaus hat keine freien **Kapazitäten**.;У больницы нет свободных мест.
+B2;noun;die;Karriere;Karrieren;;;;карьера;Sie hat eine steile **Karriere** gemacht.;Она сделала стремительную карьеру.
+B2;noun;die;Klage;Klagen;;;;иск, жалоба;Er hat eine **Klage** gegen die Firma eingereicht.;Он подал иск против фирмы.
+B2;noun;die;Kommunikation;-;;;;коммуникация, общение;Gute **Kommunikation** ist im Team wichtig.;Хорошая коммуникация важна в команде.
+B2;noun;die;Konkurrenz;-;;;;конкуренция, конкуренты;Die **Konkurrenz** ist groß.;Конкуренция большая.
+B2;noun;die;Konsequenz;Konsequenzen;;;;последствие, последовательность;Das hat ernste **Konsequenzen**.;Это имеет серьёзные последствия.
+B2;noun;der;Konsument;Konsumenten;;;;потребитель;Die **Konsumenten** achten auf den Preis.;Потребители обращают внимание на цену.
+B2;noun;der;Kontrast;Kontraste;;;;контраст;Der **Kontrast** zwischen Stadt und Land ist groß.;Контраст между городом и деревней большой.
+B2;noun;die;Kooperation;Kooperationen;;;;сотрудничество;Die **Kooperation** mit der Uni läuft gut.;Сотрудничество с университетом идёт хорошо.
+B2;noun;die;Kraft;Kräfte;;;;сила;Ich habe keine **Kraft** mehr.;У меня больше нет сил.
+B2;noun;das;Kriterium;Kriterien;;;;критерий;Nach welchen **Kriterien** wählen Sie aus?;По каким критериям вы выбираете?
+B2;noun;die;Kündigungsfrist;Kündigungsfristen;;;;срок уведомления об увольнении;Die **Kündigungsfrist** beträgt drei Monate.;Срок уведомления об увольнении — три месяца.
+B2;noun;der;Lebensstandard;Lebensstandards;;;;уровень жизни;Der **Lebensstandard** ist hier hoch.;Уровень жизни здесь высокий.
+B2;noun;der;Lebensunterhalt;-;;;;средства к существованию;Er verdient seinen **Lebensunterhalt** als Taxifahrer.;Он зарабатывает на жизнь таксистом.
+B2;noun;die;Lebenserwartung;-;;;;продолжительность жизни;Die **Lebenserwartung** steigt.;Продолжительность жизни растёт.
+B2;noun;die;Lebensqualität;-;;;;качество жизни;Die **Lebensqualität** in der Stadt ist hoch.;Качество жизни в городе высокое.
+B2;noun;der;Leser;Leser;;;;читатель;Die **Leser** lieben diesen Autor.;Читатели любят этого автора.
+B2;noun;die;Mahnung;Mahnungen;;;;напоминание (об оплате);Ich habe eine **Mahnung** bekommen.;Я получил напоминание об оплате.
+B2;noun;die;Maßnahme;Maßnahmen;;;;мера, мероприятие;Die Regierung ergreift neue **Maßnahmen**.;Правительство принимает новые меры.
+B2;noun;der;Maßstab;Maßstäbe;;;;масштаб, мерило;Er setzt hohe **Maßstäbe**.;Он задаёт высокую планку.
+B2;noun;der;Menschenverstand;-;;;;здравый смысл;Das sagt einem der gesunde **Menschenverstand**.;Это подсказывает здравый смысл.
+B2;noun;die;Mentalität;Mentalitäten;;;;менталитет;Die **Mentalität** der Menschen ist hier anders.;Менталитет людей здесь другой.
+B2;noun;das;Misstrauen;-;;;;недоверие;Sein **Misstrauen** ist verständlich.;Его недоверие понятно.
+B2;noun;die;Mitbestimmung;-;;;;участие в принятии решений;Die Mitarbeiter wollen mehr **Mitbestimmung**.;Сотрудники хотят больше участвовать в принятии решений.
+B2;noun;das;Mitgefühl;-;;;;сочувствие;Ich habe großes **Mitgefühl** mit den Opfern.;Я глубоко сочувствую пострадавшим.
+B2;noun;die;Mobilität;-;;;;мобильность;**Mobilität** ist heute sehr wichtig.;Мобильность сегодня очень важна.
+B2;noun;das;Motiv;Motive;;;;мотив;Was war das **Motiv** für die Tat?;Каков был мотив преступления?
+B2;noun;die;Nachhaltigkeit;-;;;;устойчивость, экологичность;**Nachhaltigkeit** ist ein wichtiges Thema.;Устойчивое развитие — важная тема.
+B2;noun;der;Nachwuchs;-;;;;потомство, молодая смена;Die Firma sucht **Nachwuchs**.;Фирма ищет молодые кадры.
+B2;noun;die;Neigung;Neigungen;;;;склонность, наклон;Er hat eine **Neigung** zur Übertreibung.;Он склонен к преувеличениям.
+B2;noun;die;Notwendigkeit;Notwendigkeiten;;;;необходимость;Ich sehe keine **Notwendigkeit** dafür.;Я не вижу в этом необходимости.
+B2;noun;der;Nutzen;-;;;;польза;Welchen **Nutzen** hat das?;Какая от этого польза?
+B2;noun;die;Orientierung;Orientierungen;;;;ориентация, ориентир;Die Karte dient zur **Orientierung**.;Карта служит для ориентации.
+B2;noun;der;Pendler;Pendler;;;;человек, ежедневно ездящий на работу в другой город;Viele **Pendler** fahren täglich nach Frankfurt.;Многие ежедневно ездят на работу во Франкфурт.
+B2;noun;die;Perspektive;Perspektiven;;;;перспектива;Junge Leute brauchen eine **Perspektive**.;Молодым людям нужна перспектива.
+B2;noun;das;Prinzip;Prinzipien;;;;принцип;Im **Prinzip** hast du recht.;В принципе ты прав.
+B2;noun;die;Priorität;Prioritäten;;;;приоритет;Die Gesundheit hat **Priorität**.;Здоровье в приоритете.
+B2;noun;das;Privatleben;-;;;;личная жизнь;Er spricht nicht über sein **Privatleben**.;Он не говорит о своей личной жизни.
+B2;noun;die;Prognose;Prognosen;;;;прогноз;Die **Prognose** für das nächste Jahr ist gut.;Прогноз на следующий год хороший.
+B2;noun;die;Provision;Provisionen;;;;комиссионные;Der Makler bekommt eine **Provision**.;Маклер получает комиссионные.
+B2;noun;die;Psychologie;-;;;;психология;Sie studiert **Psychologie**.;Она изучает психологию.
+B2;noun;die;Quelle;Quellen;;;;источник;Bitte nennen Sie die **Quelle**.;Пожалуйста, укажите источник.
+B2;noun;der;Rahmen;Rahmen;;;;рамка, рамки;Das ist im **Rahmen** des Möglichen.;Это в пределах возможного.
+B2;noun;der;Rassismus;-;;;;расизм;Wir müssen gegen **Rassismus** kämpfen.;Мы должны бороться с расизмом.
+B2;noun;die;Rechtfertigung;Rechtfertigungen;;;;оправдание;Dafür gibt es keine **Rechtfertigung**.;Этому нет оправдания.
+B2;noun;die;Regelung;Regelungen;;;;регулирование, правило;Die neue **Regelung** gilt ab Januar.;Новое правило действует с января.
+B2;noun;das;Risiko;Risiken;;;;риск;Das **Risiko** ist zu groß.;Риск слишком велик.
+B2;noun;der;Rückgang;Rückgänge;;;;спад, снижение;Es gibt einen **Rückgang** der Geburten.;Наблюдается снижение рождаемости.
+B2;noun;der;Rückschlag;Rückschläge;;;;неудача, откат;Nach dem **Rückschlag** gab er nicht auf.;После неудачи он не сдался.
+B2;noun;der;Ruhestand;-;;;;пенсия (выход на пенсию);Mein Vater ist im **Ruhestand**.;Мой отец на пенсии.
+B2;noun;die;Sanierung;Sanierungen;;;;реконструкция, оздоровление;Die **Sanierung** des Gebäudes dauert ein Jahr.;Реконструкция здания длится год.
+B2;noun;der;Schwerpunkt;Schwerpunkte;;;;основное направление, акцент;Der **Schwerpunkt** liegt auf der Praxis.;Акцент делается на практике.
+B2;noun;das;Selbstbewusstsein;-;;;;уверенность в себе;Sie hat viel **Selbstbewusstsein**.;Она очень уверена в себе.
+B2;noun;die;Selbstständigkeit;-;;;;самостоятельность;Kinder sollen **Selbstständigkeit** lernen.;Дети должны учиться самостоятельности.
+B2;noun;die;Sorgfalt;-;;;;тщательность;Bitte arbeiten Sie mit **Sorgfalt**.;Пожалуйста, работайте тщательно.
+B2;noun;der;Spielraum;Spielräume;;;;свобода действий, запас;Wir haben wenig finanziellen **Spielraum**.;У нас мало финансовой свободы.
+B2;noun;die;Stellungnahme;Stellungnahmen;;;;заявление (позиция), комментарий;Die Firma gab eine **Stellungnahme** ab.;Фирма выступила с заявлением.
+B2;noun;die;Steuererklärung;Steuererklärungen;;;;налоговая декларация;Ich muss meine **Steuererklärung** machen.;Мне нужно подать налоговую декларацию.
+B2;noun;die;Strategie;Strategien;;;;стратегия;Wir brauchen eine neue **Strategie**.;Нам нужна новая стратегия.
+B2;noun;die;Struktur;Strukturen;;;;структура;Die **Struktur** des Textes ist klar.;Структура текста ясна.
+B2;noun;die;Studie;Studien;;;;исследование;Eine neue **Studie** zeigt interessante Ergebnisse.;Новое исследование показывает интересные результаты.
+B2;noun;die;Sucht;Süchte;;;;зависимость, мания;Spielen kann zur **Sucht** werden.;Игра может стать зависимостью.
+B2;noun;die;Tendenz;Tendenzen;;;;тенденция;Die **Tendenz** ist steigend.;Тенденция к росту.
+B2;noun;die;Theorie;Theorien;;;;теория;In der **Theorie** klingt das gut.;В теории это звучит хорошо.
+B2;noun;der;Umfang;-;;;;объём;Der **Umfang** der Arbeit ist groß.;Объём работы большой.
+B2;noun;der;Umstand;Umstände;;;;обстоятельство;Unter diesen **Umständen** kann ich nicht kommen.;При таких обстоятельствах я не могу прийти.
+A1;noun;das;Licht;Lichter;;;;свет;Mach bitte das **Licht** an.;Включи, пожалуйста, свет.
+B2;noun;die;Umsetzung;Umsetzungen;;;;реализация, воплощение;Die **Umsetzung** des Plans ist schwierig.;Реализация плана сложная.
+B2;noun;die;Umstellung;Umstellungen;;;;перестройка, переход;Die **Umstellung** auf das neue System dauert.;Переход на новую систему занимает время.
+B2;noun;die;Ungeduld;-;;;;нетерпение;Seine **Ungeduld** nervt alle.;Его нетерпение всех раздражает.
+B2;noun;die;Ungerechtigkeit;Ungerechtigkeiten;;;;несправедливость;Das ist eine große **Ungerechtigkeit**.;Это большая несправедливость.
+B2;noun;die;Unsicherheit;Unsicherheiten;;;;неуверенность, ненадёжность;Es gibt viel **Unsicherheit** auf dem Arbeitsmarkt.;На рынке труда много неопределённости.
+B2;noun;das;Urteil;Urteile;;;;приговор, суждение;Das **Urteil** fällt nächste Woche.;Приговор вынесут на следующей неделе.
+B2;noun;die;Veranlagung;Veranlagungen;;;;предрасположенность;Das ist eine genetische **Veranlagung**.;Это генетическая предрасположенность.
+B2;noun;die;Verbesserung;Verbesserungen;;;;улучшение;Das ist eine deutliche **Verbesserung**.;Это явное улучшение.
+B2;noun;die;Verfügung;Verfügungen;;;;распоряжение;Ich stehe Ihnen zur **Verfügung**.;Я в вашем распоряжении.
+B2;noun;die;Vergütung;Vergütungen;;;;вознаграждение, оплата;Die **Vergütung** ist sehr gut.;Оплата очень хорошая.
+B2;noun;die;Verhandlung;Verhandlungen;;;;переговоры, судебное заседание;Die **Verhandlungen** dauern noch an.;Переговоры ещё продолжаются.
+B2;noun;die;Verkehrsberuhigung;-;;;;снижение интенсивности движения;In der Innenstadt gibt es **Verkehrsberuhigung**.;В центре города ограничено движение транспорта.
+B2;noun;die;Vermutung;Vermutungen;;;;предположение;Meine **Vermutung** war richtig.;Моё предположение было верным.
+B2;noun;die;Vernunft;-;;;;разум, благоразумие;Komm doch zur **Vernunft**!;Образумься же!
+B2;noun;die;Veröffentlichung;Veröffentlichungen;;;;публикация;Die **Veröffentlichung** des Buches ist im Herbst.;Публикация книги осенью.
+B2;noun;die;Verpflichtung;Verpflichtungen;;;;обязательство;Ich habe viele **Verpflichtungen**.;У меня много обязательств.
+B2;noun;die;Versorgung;-;;;;снабжение, обеспечение;Die medizinische **Versorgung** ist gut.;Медицинское обслуживание хорошее.
+B2;noun;die;Verständigung;-;;;;взаимопонимание, связь;Die **Verständigung** war schwierig.;Объясниться было трудно.
+B2;noun;der;Vertreter;Vertreter;;;;представитель, заместитель;Er ist der **Vertreter** des Chefs.;Он заместитель начальника.
+B2;noun;die;Verwaltung;Verwaltungen;;;;управление, администрация;Die **Verwaltung** ist im zweiten Stock.;Администрация на третьем этаже.
+B2;noun;die;Verzögerung;Verzögerungen;;;;задержка;Es gibt eine **Verzögerung** bei der Lieferung.;Есть задержка с доставкой.
+B2;noun;die;Vielfalt;-;;;;многообразие;Die **Vielfalt** der Kulturen ist faszinierend.;Многообразие культур завораживает.
+B2;noun;das;Vorbild;Vorbilder;;;;пример для подражания;Mein Vater ist mein **Vorbild**.;Мой отец — мой пример для подражания.
+B2;noun;der;Vorgang;Vorgänge;;;;процесс, событие;Der **Vorgang** wird überprüft.;Процесс проверяется.
+B2;noun;die;Vorgehensweise;Vorgehensweisen;;;;образ действий;Die **Vorgehensweise** ist klar.;Порядок действий ясен.
+B2;noun;der;Vorwurf;Vorwürfe;;;;упрёк, обвинение;Er macht mir ständig **Vorwürfe**.;Он постоянно меня упрекает.
+B2;noun;die;Wahrnehmung;Wahrnehmungen;;;;восприятие;Die **Wahrnehmung** ist bei jedem anders.;Восприятие у всех разное.
+B2;noun;die;Wahrscheinlichkeit;Wahrscheinlichkeiten;;;;вероятность;Die **Wahrscheinlichkeit** ist gering.;Вероятность мала.
+B2;noun;der;Wandel;-;;;;перемена, изменение;Die Gesellschaft ist im **Wandel**.;Общество меняется.
+B2;noun;die;Weltanschauung;Weltanschauungen;;;;мировоззрение;Jeder hat seine eigene **Weltanschauung**.;У каждого своё мировоззрение.
+B2;noun;der;Widerspruch;Widersprüche;;;;противоречие, возражение;Das ist ein **Widerspruch**.;Это противоречие.
+B2;noun;der;Widerstand;Widerstände;;;;сопротивление;Es gibt **Widerstand** gegen den Plan.;Есть сопротивление этому плану.
+B2;noun;der;Wohlstand;-;;;;благосостояние;Das Land lebt im **Wohlstand**.;Страна живёт в достатке.
+B2;noun;die;Wohltätigkeit;-;;;;благотворительность;Das Geld geht an die **Wohltätigkeit**.;Деньги идут на благотворительность.
+B2;noun;der;Wortschatz;Wortschätze;;;;словарный запас;Ich möchte meinen **Wortschatz** erweitern.;Я хочу расширить свой словарный запас.
+B2;noun;der;Zeitdruck;-;;;;нехватка времени, спешка;Ich arbeite oft unter **Zeitdruck**.;Я часто работаю в условиях нехватки времени.
+B2;noun;der;Zeitraum;Zeiträume;;;;период, промежуток времени;In diesem **Zeitraum** bin ich im Urlaub.;В этот период я в отпуске.
+B2;noun;der;Zufall;Zufälle;;;;случайность;Was für ein **Zufall**!;Какое совпадение!
+B2;noun;die;Zufriedenheit;-;;;;удовлетворённость;Die **Zufriedenheit** der Kunden ist uns wichtig.;Удовлетворённость клиентов для нас важна.
+B2;noun;der;Zugang;Zugänge;;;;доступ, вход;Alle haben **Zugang** zum Internet.;У всех есть доступ к интернету.
+B2;noun;die;Zukunftsangst;Zukunftsängste;;;;страх перед будущим;Viele junge Leute haben **Zukunftsangst**.;Многие молодые люди боятся будущего.
+B2;noun;die;Zulassung;Zulassungen;;;;допуск, регистрация;Für das Studium brauchen Sie eine **Zulassung**.;Для учёбы вам нужен допуск.
+B2;noun;die;Zunahme;Zunahmen;;;;увеличение;Es gibt eine **Zunahme** an Verkehr.;Движение транспорта усиливается.
+B2;noun;die;Zurückhaltung;-;;;;сдержанность;Er reagierte mit **Zurückhaltung**.;Он отреагировал сдержанно.
+B2;noun;der;Zusammenhalt;-;;;;сплочённость;Der **Zusammenhalt** in der Familie ist stark.;Семья очень сплочённая.
+B2;noun;die;Zusammensetzung;Zusammensetzungen;;;;состав;Die **Zusammensetzung** des Teams ist gut.;Состав команды хороший.
+B2;noun;der;Zuschlag;Zuschläge;;;;надбавка, доплата;Für den Schnellzug zahlt man einen **Zuschlag**.;За скорый поезд нужно доплатить.
+B2;noun;die;Zuständigkeit;Zuständigkeiten;;;;компетенция, ответственность;Das liegt nicht in meiner **Zuständigkeit**.;Это не в моей компетенции.
+B2;noun;die;Zustimmung;Zustimmungen;;;;согласие, одобрение;Wir brauchen Ihre **Zustimmung**.;Нам нужно ваше согласие.
+B2;noun;der;Zuwachs;Zuwächse;;;;прирост;Die Firma verzeichnet einen **Zuwachs** an Kunden.;Фирма отмечает прирост клиентов.
+B2;noun;der;Zweig;Zweige;;;;ветка, отрасль;Der Vogel sitzt auf einem **Zweig**.;Птица сидит на ветке.
+B2;noun;der;Arbeitsmarkt;Arbeitsmärkte;;;;рынок труда;Die Lage auf dem **Arbeitsmarkt** ist gut.;Ситуация на рынке труда хорошая.
+B2;noun;die;Arbeitskraft;Arbeitskräfte;;;;рабочая сила, работник;Es fehlen qualifizierte **Arbeitskräfte**.;Не хватает квалифицированных работников.
+B2;noun;der;Ausschuss;Ausschüsse;;;;комиссия, комитет;Der **Ausschuss** berät über das Gesetz.;Комиссия обсуждает закон.
+B2;noun;der;Bundestag;-;;;;бундестаг;Der **Bundestag** hat das Gesetz beschlossen.;Бундестаг принял закон.
+B2;noun;der;Bundeskanzler;Bundeskanzler;;;;федеральный канцлер;Der **Bundeskanzler** hält eine Rede.;Федеральный канцлер выступает с речью.
+B2;noun;das;Parlament;Parlamente;;;;парламент;Das **Parlament** stimmt heute ab.;Парламент сегодня голосует.
+B2;noun;der;Politiker;Politiker;;;;политик;Viele **Politiker** waren anwesend.;Присутствовало много политиков.
+B2;noun;die;Opposition;Oppositionen;;;;оппозиция;Die **Opposition** kritisiert die Regierung.;Оппозиция критикует правительство.
+B2;noun;die;Verfassung;Verfassungen;;;;конституция, состояние;Die **Verfassung** schützt die Grundrechte.;Конституция защищает основные права.
+B2;noun;das;Grundrecht;Grundrechte;;;;основное право;Meinungsfreiheit ist ein **Grundrecht**.;Свобода слова — основное право.
+B2;noun;die;Meinungsfreiheit;-;;;;свобода слова;Die **Meinungsfreiheit** ist sehr wichtig.;Свобода слова очень важна.
+B2;noun;die;Behinderung;Behinderungen;;;;инвалидность, помеха;Menschen mit **Behinderung** brauchen Unterstützung.;Людям с инвалидностью нужна поддержка.
+B2;noun;die;Armut;-;;;;бедность;Viele Kinder leben in **Armut**.;Многие дети живут в бедности.
+B2;noun;der;Reichtum;Reichtümer;;;;богатство;Der **Reichtum** ist ungleich verteilt.;Богатство распределено неравномерно.
+B2;noun;die;Flucht;Fluchten;;;;бегство;Die Familie ist auf der **Flucht**.;Семья в бегах.
+B2;noun;der;Flüchtling;Flüchtlinge;;;;беженец;Viele **Flüchtlinge** suchen Schutz.;Многие беженцы ищут защиты.
+B2;noun;die;Einwanderung;Einwanderungen;;;;иммиграция;Die **Einwanderung** ist ein politisches Thema.;Иммиграция — политическая тема.
+B2;noun;die;Auswanderung;Auswanderungen;;;;эмиграция;Die **Auswanderung** nach Amerika war früher häufig.;Раньше эмиграция в Америку была частой.
+B2;noun;die;Minderheit;Minderheiten;;;;меньшинство;Die **Minderheit** hat auch Rechte.;У меньшинства тоже есть права.
+B2;noun;die;Diskriminierung;Diskriminierungen;;;;дискриминация;**Diskriminierung** ist verboten.;Дискриминация запрещена.
+B2;noun;die;Gleichstellung;-;;;;равноправие;Die **Gleichstellung** von Mann und Frau ist gesetzlich geregelt.;Равноправие мужчин и женщин закреплено законом.
+B2;noun;die;Sozialversicherung;Sozialversicherungen;;;;социальное страхование;Die Beiträge zur **Sozialversicherung** steigen.;Взносы в социальное страхование растут.
+B2;noun;die;Arbeitslosenversicherung;-;;;;страхование по безработице;Er bekommt Geld von der **Arbeitslosenversicherung**.;Он получает деньги из страхования по безработице.
+B2;noun;die;Pflegeversicherung;-;;;;страхование на случай ухода;Die **Pflegeversicherung** zahlt einen Teil der Kosten.;Страхование на случай ухода оплачивает часть расходов.
+B2;noun;die;Haftpflichtversicherung;Haftpflichtversicherungen;;;;страхование ответственности;Eine **Haftpflichtversicherung** ist sehr wichtig.;Страхование гражданской ответственности очень важно.
+B2;noun;das;Bruttogehalt;Bruttogehälter;;;;зарплата брутто;Mein **Bruttogehalt** beträgt 3000 Euro.;Моя зарплата брутто — 3000 евро.
+B2;noun;das;Nettogehalt;Nettogehälter;;;;зарплата нетто (на руки);Das **Nettogehalt** ist deutlich niedriger.;Зарплата на руки заметно ниже.
+B2;noun;der;Haushaltsplan;Haushaltspläne;;;;бюджет (план);Die Stadt hat den **Haushaltsplan** beschlossen.;Город утвердил бюджет.
+B2;noun;die;Inflation;Inflationen;;;;инфляция;Die **Inflation** ist gestiegen.;Инфляция выросла.
+B2;noun;die;Aktie;Aktien;;;;акция (ценная бумага);Er investiert in **Aktien**.;Он вкладывает деньги в акции.
+B2;noun;die;Börse;Börsen;;;;биржа;Die Kurse an der **Börse** sind gefallen.;Курсы на бирже упали.
+B2;noun;das;Vermögen;Vermögen;;;;состояние, имущество;Er hat ein großes **Vermögen** geerbt.;Он унаследовал большое состояние.
+B2;noun;das;Erbe;-;;;;наследство;Sie hat das **Erbe** ihrer Großmutter angetreten.;Она вступила в наследство бабушки.
+B2;noun;die;Rendite;Renditen;;;;доходность;Die **Rendite** ist sehr gering.;Доходность очень низкая.
+B2;noun;die;Wirtschaftskrise;Wirtschaftskrisen;;;;экономический кризис;Die **Wirtschaftskrise** trifft viele Firmen.;Экономический кризис затрагивает многие фирмы.
+B2;verb;;abbauen;;;baute ab;hat abgebaut;сокращать, разбирать;Die Firma **baut** Stellen **ab**.;Фирма сокращает рабочие места.
+B2;verb;;abbrechen;;er bricht ab;brach ab;hat abgebrochen;прерывать, бросать;Er hat sein Studium **abgebrochen**.;Он бросил учёбу.
+B2;verb;;abschaffen;;;schaffte ab;hat abgeschafft;отменять, упразднять;Die Gebühren wurden **abgeschafft**.;Сборы были отменены.
+B2;verb;;abschätzen;;;schätzte ab;hat abgeschätzt;оценивать;Die Folgen kann man noch nicht **abschätzen**.;Последствия пока нельзя оценить.
+B2;verb;;abstimmen;;;stimmte ab;hat abgestimmt;голосовать, согласовывать;Wir **stimmen** über den Vorschlag **ab**.;Мы голосуем за предложение.
+B2;verb;;abwarten;;;wartete ab;hat abgewartet;выжидать;Wir müssen **abwarten**, was passiert.;Нам нужно подождать, что произойдёт.
+B2;verb;;abweichen;;;wich ab;ist abgewichen;отклоняться;Die Ergebnisse **weichen** stark voneinander **ab**.;Результаты сильно отличаются друг от друга.
+B2;verb;;andeuten;;;deutete an;hat angedeutet;намекать;Er hat **angedeutet**, dass er kündigen will.;Он намекнул, что хочет уволиться.
+B2;verb;;anfordern;;;forderte an;hat angefordert;запрашивать;Sie können weitere Informationen **anfordern**.;Вы можете запросить дополнительную информацию.
+B2;verb;;angeben;;er gibt an;gab an;hat angegeben;указывать, хвастаться;Bitte **geben** Sie Ihre Adresse **an**.;Пожалуйста, укажите свой адрес.
+B2;verb;;angreifen;;;griff an;hat angegriffen;нападать;Der Hund hat das Kind **angegriffen**.;Собака напала на ребёнка.
+B2;verb;;anhalten;;er hält an;hielt an;hat angehalten;останавливать(ся), продолжаться;Der Regen **hält** schon seit Tagen **an**.;Дождь не прекращается уже несколько дней.
+B2;verb;;ankündigen;;;kündigte an;hat angekündigt;объявлять, анонсировать;Die Regierung hat neue Gesetze **angekündigt**.;Правительство объявило о новых законах.
+B2;verb;;anlegen;;;legte an;hat angelegt;вкладывать, создавать, причаливать;Ich möchte mein Geld sicher **anlegen**.;Я хочу надёжно вложить свои деньги.
+B2;verb;;annehmen;;er nimmt an;nahm an;hat angenommen;принимать, предполагать;Ich **nehme** an, dass er recht hat.;Я предполагаю, что он прав.
+B2;verb;;anpassen;;;passte an;hat angepasst;приспосабливать, подгонять;Wir müssen die Preise **anpassen**.;Нам нужно скорректировать цены.
+B2;verb;;anregen;;;regte an;hat angeregt;стимулировать, побуждать;Der Film **regt** zum Nachdenken **an**.;Фильм заставляет задуматься.
+B2;verb;;anstreben;;;strebte an;hat angestrebt;стремиться к;Er **strebt** eine Karriere in der Politik **an**.;Он стремится к карьере в политике.
+B2;verb;;anwenden;;;wandte an;hat angewandt;применять;Wie **wendet** man diese Regel **an**?;Как применяется это правило?
+B2;verb;;aufdecken;;;deckte auf;hat aufgedeckt;раскрывать, разоблачать;Der Journalist hat einen Skandal **aufgedeckt**.;Журналист раскрыл скандал.
+B2;verb;;aufgeben;;er gibt auf;gab auf;hat aufgegeben;сдаваться, бросать, сдавать (багаж);Gib nicht **auf**!;Не сдавайся!
+B2;verb;;aufklären;;;klärte auf;hat aufgeklärt;разъяснять, раскрывать;Die Polizei hat den Fall **aufgeklärt**.;Полиция раскрыла дело.
+B2;verb;;auflösen;;;löste auf;hat aufgelöst;растворять, распускать;Die Band hat sich **aufgelöst**.;Группа распалась.
+B2;verb;;aufrechterhalten;;er erhält aufrecht;erhielt aufrecht;hat aufrechterhalten;поддерживать, сохранять;Wir müssen den Kontakt **aufrechterhalten**.;Нам нужно поддерживать контакт.
+B2;verb;;aufweisen;;;wies auf;hat aufgewiesen;обнаруживать, иметь;Das Produkt **weist** einige Mängel **auf**.;У продукта есть некоторые недостатки.
+B2;verb;;ausbauen;;;baute aus;hat ausgebaut;расширять, развивать;Die Stadt **baut** das Radwegenetz **aus**.;Город расширяет сеть велодорожек.
+B2;verb;;ausbilden;;;bildete aus;hat ausgebildet;обучать, готовить (специалистов);Die Firma **bildet** junge Leute **aus**.;Фирма обучает молодых людей профессии.
+B2;verb;;ausgleichen;;;glich aus;hat ausgeglichen;компенсировать, выравнивать;Sport **gleicht** den Stress **aus**.;Спорт компенсирует стресс.
+B2;verb;;auslösen;;;löste aus;hat ausgelöst;вызывать, запускать;Die Nachricht hat Panik **ausgelöst**.;Новость вызвала панику.
+B2;verb;;ausnutzen;;;nutzte aus;hat ausgenutzt;использовать (в своих интересах);Er hat meine Gutmütigkeit **ausgenutzt**.;Он воспользовался моей добротой.
+B2;verb;;ausüben;;;übte aus;hat ausgeübt;заниматься (профессией), оказывать;Welchen Beruf **üben** Sie **aus**?;Какой профессией вы занимаетесь?
+B2;verb;;sich auswirken;;;wirkte sich aus;hat sich ausgewirkt;сказываться;Der Stress **wirkt sich** auf die Gesundheit **aus**.;Стресс сказывается на здоровье.
+B2;verb;;auszeichnen;;;zeichnete aus;hat ausgezeichnet;награждать, отличать;Der Film wurde mit einem Preis **ausgezeichnet**.;Фильм был удостоен премии.
+B2;verb;;beauftragen;;;beauftragte;hat beauftragt;поручать;Ich habe einen Anwalt **beauftragt**.;Я нанял адвоката.
+B2;verb;;bedrohen;;;bedrohte;hat bedroht;угрожать;Der Klimawandel **bedroht** viele Tierarten.;Изменение климата угрожает многим видам животных.
+B2;verb;;beeinflussen;;;beeinflusste;hat beeinflusst;влиять;Werbung **beeinflusst** unser Verhalten.;Реклама влияет на наше поведение.
+B2;verb;;beeindrucken;;;beeindruckte;hat beeindruckt;производить впечатление;Seine Rede hat mich sehr **beeindruckt**.;Его речь произвела на меня большое впечатление.
+B2;verb;;beenden;;;beendete;hat beendet;заканчивать;Wir **beenden** die Sitzung um 17 Uhr.;Мы заканчиваем заседание в 17 часов.
+B2;verb;;befürchten;;;befürchtete;hat befürchtet;опасаться;Ich **befürchte**, dass es zu spät ist.;Боюсь, что уже слишком поздно.
+B2;verb;;befürworten;;;befürwortete;hat befürwortet;поддерживать, одобрять;Die Mehrheit **befürwortet** den Plan.;Большинство поддерживает план.
+B2;verb;;begeistern;;;begeisterte;hat begeistert;восхищать, воодушевлять;Das Konzert hat alle **begeistert**.;Концерт всех восхитил.
+B2;verb;;begrenzen;;;begrenzte;hat begrenzt;ограничивать;Die Zahl der Plätze ist **begrenzt**.;Число мест ограничено.
+B2;verb;;beinhalten;;;beinhaltete;hat beinhaltet;содержать, включать;Der Preis **beinhaltet** das Frühstück.;Цена включает завтрак.
+B2;verb;;belegen;;;belegte;hat belegt;подтверждать, занимать, записываться (на курс);Die Studie **belegt** diese These.;Исследование подтверждает этот тезис.
+B2;verb;;belohnen;;;belohnte;hat belohnt;вознаграждать;Gute Arbeit wird **belohnt**.;Хорошая работа вознаграждается.
+B2;verb;;benachrichtigen;;;benachrichtigte;hat benachrichtigt;уведомлять;Wir **benachrichtigen** Sie per E-Mail.;Мы уведомим вас по электронной почте.
+B2;verb;;benachteiligen;;;benachteiligte;hat benachteiligt;ущемлять;Frauen werden oft **benachteiligt**.;Женщин часто ущемляют.
+B2;verb;;berücksichtigen;;;berücksichtigte;hat berücksichtigt;учитывать;Wir **berücksichtigen** Ihre Wünsche.;Мы учитываем ваши пожелания.
+B2;verb;;beschäftigen;;;beschäftigte;hat beschäftigt;занимать, давать работу;Die Firma **beschäftigt** 200 Mitarbeiter.;На фирме работает 200 сотрудников.
+B2;verb;;sich beschäftigen;;;beschäftigte sich;hat sich beschäftigt;заниматься (чем-то);Ich **beschäftige mich** mit Geschichte.;Я занимаюсь историей.
+B2;verb;;beschleunigen;;;beschleunigte;hat beschleunigt;ускорять;Wir müssen den Prozess **beschleunigen**.;Нам нужно ускорить процесс.
+B2;verb;;beschränken;;;beschränkte;hat beschränkt;ограничивать;Wir **beschränken** uns auf das Wichtigste.;Мы ограничимся самым важным.
+B2;verb;;beseitigen;;;beseitigte;hat beseitigt;устранять;Die Mängel wurden **beseitigt**.;Недостатки были устранены.
+B2;verb;;besorgen;;;besorgte;hat besorgt;доставать, покупать;Kannst du noch Brot **besorgen**?;Можешь ещё купить хлеба?
+B2;verb;;bestrafen;;;bestrafte;hat bestraft;наказывать;Der Täter wurde **bestraft**.;Преступник был наказан.
+B2;verb;;betonen;;;betonte;hat betont;подчёркивать;Er **betonte**, wie wichtig das Thema ist.;Он подчеркнул, насколько важна эта тема.
+B2;verb;;betrachten;;;betrachtete;hat betrachtet;рассматривать;Man muss das Problem von allen Seiten **betrachten**.;Проблему нужно рассмотреть со всех сторон.
+B2;verb;;betragen;;er beträgt;betrug;hat betragen;составлять (о сумме);Die Miete **beträgt** 800 Euro.;Арендная плата составляет 800 евро.
+B2;verb;;betreffen;;er betrifft;betraf;hat betroffen;касаться;Das **betrifft** uns alle.;Это касается всех нас.
+B2;verb;;betreiben;;;betrieb;hat betrieben;заниматься, управлять (предприятием);Er **betreibt** ein kleines Hotel.;Он держит небольшой отель.
+B2;verb;;betrügen;;;betrog;hat betrogen;обманывать;Er hat seine Frau **betrogen**.;Он изменил жене.
+B2;verb;;beurteilen;;;beurteilte;hat beurteilt;оценивать, судить;Das kann ich nicht **beurteilen**.;Я не могу об этом судить.
+B2;verb;;bevorzugen;;;bevorzugte;hat bevorzugt;предпочитать;Ich **bevorzuge** frische Produkte.;Я предпочитаю свежие продукты.
+B2;verb;;bewältigen;;;bewältigte;hat bewältigt;справляться;Wir haben die Krise **bewältigt**.;Мы справились с кризисом.
+B2;verb;;bewirken;;;bewirkte;hat bewirkt;вызывать, добиваться;Kleine Änderungen können viel **bewirken**.;Небольшие изменения могут многого добиться.
+B2;verb;;bewundern;;;bewunderte;hat bewundert;восхищаться;Ich **bewundere** deinen Mut.;Я восхищаюсь твоей смелостью.
+B2;verb;;bezweifeln;;;bezweifelte;hat bezweifelt;сомневаться;Ich **bezweifle**, dass er kommt.;Я сомневаюсь, что он придёт.
+B2;verb;;bilden;;;bildete;hat gebildet;образовывать, формировать;Bitte **bilden** Sie Gruppen.;Пожалуйста, разделитесь на группы.
+B2;verb;;dienen;;;diente;hat gedient;служить;Das Gebäude **dient** als Schule.;Здание служит школой.
+B2;verb;;drohen;;;drohte;hat gedroht;угрожать;Er **droht** mit Kündigung.;Он грозит увольнением.
+B2;verb;;durchsetzen;;;setzte durch;hat durchgesetzt;проводить, добиваться;Er hat seine Meinung **durchgesetzt**.;Он настоял на своём.
+B2;verb;;eingehen;;;ging ein;ist eingegangen;поступать, вступать, погибать (о растении);Ihre Zahlung ist bei uns **eingegangen**.;Ваш платёж поступил к нам.
+B2;verb;;eingreifen;;;griff ein;hat eingegriffen;вмешиваться;Die Polizei musste **eingreifen**.;Полиции пришлось вмешаться.
+B2;verb;;einschätzen;;;schätzte ein;hat eingeschätzt;оценивать;Wie **schätzen** Sie die Lage **ein**?;Как вы оцениваете ситуацию?
+B2;verb;;einschränken;;;schränkte ein;hat eingeschränkt;ограничивать;Wir müssen unsere Ausgaben **einschränken**.;Нам нужно сократить расходы.
+B2;verb;;einsparen;;;sparte ein;hat eingespart;экономить, сберегать;So kann man viel Energie **einsparen**.;Так можно сэкономить много энергии.
+B2;verb;;einstellen;;;stellte ein;hat eingestellt;нанимать, настраивать, прекращать;Die Firma **stellt** neue Leute **ein**.;Фирма нанимает новых людей.
+B2;verb;;empfinden;;;empfand;hat empfunden;ощущать, чувствовать;Wie **empfindest** du die Situation?;Как ты воспринимаешь ситуацию?
+B2;verb;;entgegenkommen;;;kam entgegen;ist entgegengekommen;идти навстречу;Wir **kommen** Ihnen beim Preis **entgegen**.;Мы пойдём вам навстречу в цене.
+B2;verb;;entlasten;;;entlastete;hat entlastet;разгружать, облегчать;Die neue Software **entlastet** die Mitarbeiter.;Новая программа разгружает сотрудников.
+B2;verb;;entnehmen;;er entnimmt;entnahm;hat entnommen;брать, узнавать (из текста);Das können Sie der Tabelle **entnehmen**.;Это вы можете увидеть в таблице.
+B2;verb;;erfassen;;;erfasste;hat erfasst;охватывать, регистрировать;Alle Daten werden elektronisch **erfasst**.;Все данные регистрируются электронно.
+B2;verb;;erfordern;;;erforderte;hat erfordert;требовать;Die Arbeit **erfordert** viel Geduld.;Работа требует много терпения.
+B2;verb;;erheben;;;erhob;hat erhoben;поднимать, взимать;Die Stadt **erhebt** eine neue Steuer.;Город вводит новый налог.
+B2;verb;;erhöhen;;;erhöhte;hat erhöht;повышать;Die Preise wurden **erhöht**.;Цены повысили.
+B2;verb;;erleichtern;;;erleichterte;hat erleichtert;облегчать;Die App **erleichtert** den Alltag.;Приложение облегчает повседневную жизнь.
+B2;verb;;erläutern;;;erläuterte;hat erläutert;разъяснять;Können Sie das genauer **erläutern**?;Можете разъяснить это подробнее?
+B2;verb;;ermitteln;;;ermittelte;hat ermittelt;расследовать, выяснять;Die Polizei **ermittelt** in dem Fall.;Полиция расследует это дело.
+B2;verb;;ermutigen;;;ermutigte;hat ermutigt;ободрять;Sie hat mich **ermutigt**, weiterzumachen.;Она подбодрила меня продолжать.
+B2;verb;;erneuern;;;erneuerte;hat erneuert;обновлять;Das Dach muss **erneuert** werden.;Крышу нужно обновить.
+B2;verb;;erstellen;;;erstellte;hat erstellt;создавать, составлять;Ich **erstelle** eine Liste.;Я составляю список.
+B2;verb;;erweitern;;;erweiterte;hat erweitert;расширять;Die Firma **erweitert** ihr Angebot.;Фирма расширяет ассортимент.
+B2;verb;;erzielen;;;erzielte;hat erzielt;достигать;Wir haben gute Ergebnisse **erzielt**.;Мы достигли хороших результатов.
+B2;verb;;fortsetzen;;;setzte fort;hat fortgesetzt;продолжать;Wir **setzen** das Gespräch morgen **fort**.;Мы продолжим разговор завтра.
+B2;verb;;gefährden;;;gefährdete;hat gefährdet;подвергать опасности;Rauchen **gefährdet** die Gesundheit.;Курение угрожает здоровью.
+B2;verb;;gestalten;;;gestaltete;hat gestaltet;оформлять, организовывать;Wie **gestaltest** du deine Freizeit?;Как ты проводишь свободное время?
+B2;verb;;gewährleisten;;;gewährleistete;hat gewährleistet;гарантировать, обеспечивать;Die Sicherheit muss **gewährleistet** sein.;Безопасность должна быть обеспечена.
+B2;verb;;hervorheben;;;hob hervor;hat hervorgehoben;подчёркивать, выделять;Der Lehrer **hob** die wichtigsten Punkte **hervor**.;Учитель выделил самые важные пункты.
+B2;verb;;hinterlassen;;er hinterlässt;hinterließ;hat hinterlassen;оставлять (после себя);Er hat eine Nachricht **hinterlassen**.;Он оставил сообщение.
+B2;verb;;hinzufügen;;;fügte hinzu;hat hinzugefügt;добавлять;Möchten Sie noch etwas **hinzufügen**?;Хотите что-нибудь добавить?
+B2;verb;;hindern;;;hinderte;hat gehindert;мешать, препятствовать;Niemand kann mich daran **hindern**.;Никто не может мне в этом помешать.
+B2;verb;;integrieren;;;integrierte;hat integriert;интегрировать;Die neuen Kollegen wurden gut **integriert**.;Новые коллеги хорошо влились в коллектив.
+B2;verb;;investieren;;;investierte;hat investiert;инвестировать;Die Firma **investiert** in neue Technologien.;Фирма инвестирует в новые технологии.
+B2;verb;;klarkommen;;;kam klar;ist klargekommen;справляться, ладить;Ich **komme** mit meinem Chef gut **klar**.;Я хорошо лажу со своим начальником.
+B2;verb;;kombinieren;;;kombinierte;hat kombiniert;комбинировать;Man kann die Farben gut **kombinieren**.;Эти цвета хорошо сочетаются.
+B2;verb;;kommunizieren;;;kommunizierte;hat kommuniziert;общаться, сообщать;Wir **kommunizieren** meistens per E-Mail.;Мы общаемся в основном по электронной почте.
+B2;verb;;konfrontieren;;;konfrontierte;hat konfrontiert;сталкивать, противопоставлять;Er wurde mit der Wahrheit **konfrontiert**.;Его поставили перед правдой.
+B2;verb;;kritisieren;;;kritisierte;hat kritisiert;критиковать;Die Opposition **kritisiert** die Regierung.;Оппозиция критикует правительство.
+B2;verb;;leisten;;;leistete;hat geleistet;выполнять, оказывать;Sie hat gute Arbeit **geleistet**.;Она хорошо поработала.
+B2;verb;;lenken;;;lenkte;hat gelenkt;управлять, направлять;Er **lenkt** das Gespräch auf ein anderes Thema.;Он переводит разговор на другую тему.
+B2;verb;;mitteilen;;;teilte mit;hat mitgeteilt;сообщать;Wir **teilen** Ihnen das Ergebnis morgen **mit**.;Мы сообщим вам результат завтра.
+B2;verb;;nachweisen;;;wies nach;hat nachgewiesen;доказывать, подтверждать;Sie müssen Ihre Deutschkenntnisse **nachweisen**.;Вы должны подтвердить знание немецкого.
+B2;verb;;neigen;;;neigte;hat geneigt;быть склонным (zu);Er **neigt** zu Übertreibungen.;Он склонен к преувеличениям.
+B2;verb;;profitieren;;;profitierte;hat profitiert;извлекать пользу;Alle **profitieren** von der neuen Regel.;Все выигрывают от нового правила.
+B2;verb;;realisieren;;;realisierte;hat realisiert;осуществлять, осознавать;Wir haben das Projekt **realisiert**.;Мы реализовали проект.
+B2;verb;;recherchieren;;;recherchierte;hat recherchiert;искать информацию, исследовать;Ich habe im Internet **recherchiert**.;Я искал информацию в интернете.
+B2;verb;;regeln;;;regelte;hat geregelt;регулировать, улаживать;Das Gesetz **regelt** die Arbeitszeit.;Закон регулирует рабочее время.
+B2;verb;;reduzieren;;;reduzierte;hat reduziert;сокращать, уменьшать;Wir müssen die Kosten **reduzieren**.;Нам нужно сократить расходы.
+B2;verb;;schildern;;;schilderte;hat geschildert;описывать, изображать;Bitte **schildern** Sie den Unfall.;Пожалуйста, опишите аварию.
+B2;verb;;schaden;;;schadete;hat geschadet;вредить;Zu viel Zucker **schadet** der Gesundheit.;Слишком много сахара вредит здоровью.
+B2;verb;;scheitern;;;scheiterte;ist gescheitert;терпеть неудачу, проваливаться;Das Projekt ist **gescheitert**.;Проект провалился.
+B2;verb;;senken;;;senkte;hat gesenkt;снижать;Die Firma **senkt** die Preise.;Фирма снижает цены.
+B2;verb;;sichern;;;sicherte;hat gesichert;обеспечивать, сохранять;**Sichern** Sie Ihre Daten regelmäßig.;Регулярно сохраняйте свои данные.
+B2;verb;;stammen;;;stammte;hat gestammt;происходить;Das Wort **stammt** aus dem Lateinischen.;Это слово происходит из латыни.
+B2;verb;;steigern;;;steigerte;hat gesteigert;повышать;Wir wollen den Umsatz **steigern**.;Мы хотим увеличить оборот.
+B2;verb;;streben;;;strebte;hat gestrebt;стремиться;Er **strebt** nach Erfolg.;Он стремится к успеху.
+B2;verb;;überwachen;;;überwachte;hat überwacht;контролировать, следить;Die Kameras **überwachen** den Platz.;Камеры следят за площадью.
+B2;verb;;überwinden;;;überwand;hat überwunden;преодолевать;Er hat seine Angst **überwunden**.;Он преодолел свой страх.
+B2;verb;;umfassen;;;umfasste;hat umfasst;охватывать, включать;Der Kurs **umfasst** 20 Stunden.;Курс включает 20 часов.
+B2;verb;;umsetzen;;;setzte um;hat umgesetzt;реализовывать;Wir **setzen** die Idee sofort **um**.;Мы сразу реализуем эту идею.
+B2;verb;;unterlassen;;er unterlässt;unterließ;hat unterlassen;воздерживаться;Bitte **unterlassen** Sie das Rauchen.;Пожалуйста, воздержитесь от курения.
+B2;verb;;unternehmen;;er unternimmt;unternahm;hat unternommen;предпринимать;Was **unternehmen** wir am Wochenende?;Что мы будем делать на выходных?
+B2;verb;;unterziehen;;;unterzog;hat unterzogen;подвергать (sich einer Operation unterziehen);Er musste sich einer Operation **unterziehen**.;Ему пришлось перенести операцию.
+B2;verb;;veranlassen;;er veranlasst;veranlasste;hat veranlasst;побуждать, распорядиться;Was hat dich dazu **veranlasst**?;Что тебя к этому побудило?
+B2;verb;;verarbeiten;;;verarbeitete;hat verarbeitet;обрабатывать, переживать;Ich muss das erst **verarbeiten**.;Мне нужно сначала это переварить.
+B2;verb;;verdrängen;;;verdrängte;hat verdrängt;вытеснять;Online-Shops **verdrängen** kleine Läden.;Интернет-магазины вытесняют маленькие магазины.
+B2;verb;;verfügen;;;verfügte;hat verfügt;располагать (über);Das Hotel **verfügt** über 100 Zimmer.;Отель располагает 100 номерами.
+B2;verb;;vergrößern;;;vergrößerte;hat vergrößert;увеличивать;Die Firma will ihr Büro **vergrößern**.;Фирма хочет расширить офис.
+B2;verb;;verhandeln;;;verhandelte;hat verhandelt;вести переговоры;Wir **verhandeln** über den Preis.;Мы ведём переговоры о цене.
+B2;verb;;verknüpfen;;;verknüpfte;hat verknüpft;связывать;Das eine ist mit dem anderen **verknüpft**.;Одно связано с другим.
+B2;verb;;verlangen;;;verlangte;hat verlangt;требовать;Er **verlangt** eine Erklärung.;Он требует объяснений.
+B2;verb;;verlängern;;;verlängerte;hat verlängert;продлевать;Ich muss meinen Pass **verlängern**.;Мне нужно продлить паспорт.
+B2;verb;;vermitteln;;;vermittelte;hat vermittelt;посредничать, передавать (знания);Der Lehrer **vermittelt** Wissen.;Учитель передаёт знания.
+B2;verb;;vernachlässigen;;;vernachlässigte;hat vernachlässigt;пренебрегать;Er **vernachlässigt** seine Familie.;Он пренебрегает своей семьёй.
+B2;verb;;verringern;;;verringerte;hat verringert;уменьшать;Wir müssen den Verbrauch **verringern**.;Нам нужно сократить потребление.
+B2;verb;;versorgen;;;versorgte;hat versorgt;снабжать, обеспечивать;Die Stadt **versorgt** die Bürger mit Wasser.;Город снабжает жителей водой.
+B2;verb;;verteidigen;;;verteidigte;hat verteidigt;защищать;Er **verteidigt** seine Meinung.;Он отстаивает своё мнение.
+B2;verb;;verteilen;;;verteilte;hat verteilt;распределять, раздавать;Der Lehrer **verteilt** die Tests.;Учитель раздаёт тесты.
+B2;verb;;verwalten;;;verwaltete;hat verwaltet;управлять, вести;Er **verwaltet** das Geld der Familie.;Он распоряжается семейными деньгами.
+B2;verb;;verweisen;;;verwies;hat verwiesen;ссылаться, отсылать;Ich **verweise** auf meine E-Mail von gestern.;Ссылаюсь на своё вчерашнее письмо.
+B2;verb;;verwenden;;;verwendete;hat verwendet;использовать;Welche Materialien **verwenden** Sie?;Какие материалы вы используете?
+B2;verb;;verwirklichen;;;verwirklichte;hat verwirklicht;осуществлять;Er hat seinen Traum **verwirklicht**.;Он осуществил свою мечту.
+B2;verb;;vorbeugen;;;beugte vor;hat vorgebeugt;предупреждать, предотвращать;Sport **beugt** Krankheiten **vor**.;Спорт предотвращает болезни.
+B2;verb;;vorgehen;;;ging vor;ist vorgegangen;действовать, происходить, спешить (о часах);Wie sollen wir jetzt **vorgehen**?;Как нам теперь действовать?
+B2;verb;;vorhersagen;;;sagte vorher;hat vorhergesagt;предсказывать;Niemand kann die Zukunft **vorhersagen**.;Никто не может предсказать будущее.
+B2;verb;;vorlegen;;;legte vor;hat vorgelegt;предъявлять, представлять;Bitte **legen** Sie Ihren Ausweis **vor**.;Пожалуйста, предъявите удостоверение.
+B2;verb;;vorwerfen;;er wirft vor;warf vor;hat vorgeworfen;упрекать;Er **wirft** mir **vor**, dass ich zu spät komme.;Он упрекает меня в том, что я опаздываю.
+B2;verb;;wahrnehmen;;er nimmt wahr;nahm wahr;hat wahrgenommen;воспринимать, использовать (возможность);Ich habe den Termin nicht **wahrgenommen**.;Я не явился на приём.
+B2;verb;;widmen;;;widmete;hat gewidmet;посвящать;Er **widmet** sein Leben der Musik.;Он посвящает свою жизнь музыке.
+B2;verb;;zugreifen;;;griff zu;hat zugegriffen;брать, получать доступ;Bitte **greifen** Sie **zu**!;Угощайтесь, пожалуйста!
+B2;verb;;zurechtkommen;;;kam zurecht;ist zurechtgekommen;справляться;Kommst du allein **zurecht**?;Ты справишься сам?
+B2;verb;;zurückführen;;;führte zurück;hat zurückgeführt;объяснять (чем-то), возвращать;Der Unfall ist auf Müdigkeit **zurückzuführen**.;Авария объясняется усталостью.
+B2;verb;;zusammenhängen;;;hing zusammen;hat zusammengehangen;быть связанным;Das **hängt** mit dem Wetter **zusammen**.;Это связано с погодой.
+B2;verb;;sich auseinandersetzen;;;setzte sich auseinander;hat sich auseinandergesetzt;разбираться (с чем-то), спорить;Wir müssen **uns** mit dem Problem **auseinandersetzen**.;Нам нужно разобраться с этой проблемой.
+B2;verb;;sich bewähren;;;bewährte sich;hat sich bewährt;оправдывать себя;Die Methode hat **sich bewährt**.;Метод себя оправдал.
+B2;verb;;sich durchsetzen;;;setzte sich durch;hat sich durchgesetzt;утвердиться, пробиться;Die neue Technik hat **sich durchgesetzt**.;Новая техника утвердилась.
+B2;verb;;sich einsetzen;;;setzte sich ein;hat sich eingesetzt;выступать за, хлопотать;Sie **setzt sich** für Tierschutz **ein**.;Она выступает за защиту животных.
+B2;verb;;sich engagieren;;;engagierte sich;hat sich engagiert;участвовать, заниматься (общественной деятельностью);Er **engagiert sich** im Sportverein.;Он активно участвует в жизни спортклуба.
+B2;verb;;sich entschließen;;;entschloss sich;hat sich entschlossen;решиться;Ich habe **mich entschlossen**, umzuziehen.;Я решился переехать.
+B2;verb;;sich ergeben;;er ergibt sich;ergab sich;hat sich ergeben;получаться, сдаваться;Daraus **ergibt sich** ein neues Problem.;Из этого вытекает новая проблема.
+B2;verb;;sich etablieren;;;etablierte sich;hat sich etabliert;утвердиться;Die Firma hat **sich** am Markt **etabliert**.;Фирма утвердилась на рынке.
+B2;verb;;sich herausstellen;;;stellte sich heraus;hat sich herausgestellt;оказаться, выясниться;Es hat **sich herausgestellt**, dass er recht hatte.;Оказалось, что он был прав.
+B2;verb;;sich verschlechtern;;;verschlechterte sich;hat sich verschlechtert;ухудшаться;Sein Zustand hat **sich verschlechtert**.;Его состояние ухудшилось.
+B2;verb;;sich verbessern;;;verbesserte sich;hat sich verbessert;улучшаться;Mein Deutsch hat **sich** sehr **verbessert**.;Мой немецкий сильно улучшился.
+B2;verb;;sich vergewissern;;;vergewisserte sich;hat sich vergewissert;удостовериться;Ich möchte **mich vergewissern**, dass alles stimmt.;Я хочу удостовериться, что всё правильно.
+B2;verb;;sich zurückziehen;;;zog sich zurück;hat sich zurückgezogen;уходить, удаляться;Er hat **sich** aus der Politik **zurückgezogen**.;Он ушёл из политики.
+B2;adj;;abwechslungsreich;;;;;разнообразный;Meine Arbeit ist sehr **abwechslungsreich**.;Моя работа очень разнообразная.
+B2;adj;;angemessen;;;;;соответствующий, уместный;Der Preis ist **angemessen**.;Цена адекватная.
+B2;adj;;anspruchsvoll;;;;;требовательный, сложный;Das ist eine **anspruchsvolle** Aufgabe.;Это сложная задача.
+B2;adj;;aufwendig;;;;;затратный, трудоёмкий;Die Renovierung war sehr **aufwendig**.;Ремонт был очень затратным.
+B2;adj;;ausgeglichen;;;;;уравновешенный;Sie ist ein **ausgeglichener** Mensch.;Она уравновешенный человек.
+B2;adj;;ausreichend;;;;;достаточный;Wir haben **ausreichend** Zeit.;У нас достаточно времени.
+B2;adj;;bedeutend;;;;;значительный, выдающийся;Er ist ein **bedeutender** Wissenschaftler.;Он выдающийся учёный.
+B2;adj;;bedenklich;;;;;сомнительный, внушающий опасения;Die Situation ist **bedenklich**.;Ситуация внушает опасения.
+B2;adj;;begeistert;;;;;восхищённый;Ich bin von dem Buch **begeistert**.;Я в восторге от этой книги.
+B2;adj;;begrenzt;;;;;ограниченный;Die Plätze sind **begrenzt**.;Количество мест ограничено.
+B2;adj;;beliebig;;;;;любой, произвольный;Sie können eine **beliebige** Farbe wählen.;Вы можете выбрать любой цвет.
+B2;adj;;bemerkenswert;;;;;примечательный;Das ist eine **bemerkenswerte** Leistung.;Это примечательное достижение.
+B2;adj;;benachteiligt;;;;;ущемлённый;**Benachteiligte** Kinder brauchen mehr Hilfe.;Детям из неблагополучных семей нужно больше помощи.
+B2;adj;;berechtigt;;;;;обоснованный, имеющий право;Ihre Kritik ist **berechtigt**.;Ваша критика обоснована.
+B2;adj;;beruhigend;;;;;успокаивающий;Das ist eine **beruhigende** Nachricht.;Это успокаивающая новость.
+B2;adj;;beschränkt;;;;;ограниченный;Die Teilnehmerzahl ist **beschränkt**.;Число участников ограничено.
+B2;adj;;besorgt;;;;;обеспокоенный;Die Eltern sind sehr **besorgt**.;Родители очень обеспокоены.
+B2;adj;;beständig;;;;;постоянный, устойчивый;Das Wetter bleibt **beständig**.;Погода остаётся устойчивой.
+B2;adj;;betroffen;;;;;затронутый, потрясённый;Viele Menschen sind von der Krise **betroffen**.;Кризис затронул многих людей.
+B2;adj;;dankbar;;;;;благодарный;Ich bin dir sehr **dankbar**.;Я тебе очень благодарен.
+B2;adj;;dauerhaft;;;;;долговременный, постоянный;Wir suchen eine **dauerhafte** Lösung.;Мы ищем долгосрочное решение.
+B2;adj;;effektiv;;;;;эффективный;Die Methode ist sehr **effektiv**.;Метод очень эффективный.
+B2;adj;;effizient;;;;;эффективный, рациональный;Wir müssen **effizienter** arbeiten.;Нам нужно работать эффективнее.
+B2;adj;;eigenständig;;;;;самостоятельный;Sie arbeitet sehr **eigenständig**.;Она работает очень самостоятельно.
+B2;adj;;eindrucksvoll;;;;;впечатляющий;Das war eine **eindrucksvolle** Rede.;Это была впечатляющая речь.
+B2;adj;;einflussreich;;;;;влиятельный;Er ist ein **einflussreicher** Politiker.;Он влиятельный политик.
+B2;adj;;einheitlich;;;;;единый, однородный;Wir brauchen eine **einheitliche** Regelung.;Нам нужно единое правило.
+B2;adj;;empfindlich;;;;;чувствительный;Meine Haut ist sehr **empfindlich**.;У меня очень чувствительная кожа.
+B2;adj;;engagiert;;;;;увлечённый, активный;Sie ist eine sehr **engagierte** Lehrerin.;Она очень увлечённая учительница.
+B2;adj;;entscheidend;;;;;решающий;Das ist der **entscheidende** Punkt.;Это решающий момент.
+B2;adj;;entschlossen;;;;;решительный;Er ist fest **entschlossen**, das zu schaffen.;Он твёрдо намерен этого добиться.
+B2;adj;;entspannt;;;;;расслабленный;Im Urlaub bin ich ganz **entspannt**.;В отпуске я совершенно расслаблен.
+B2;adj;;erheblich;;;;;значительный;Die Kosten sind **erheblich** gestiegen.;Расходы значительно выросли.
+B2;adj;;erfahren;;;;;опытный;Er ist ein **erfahrener** Arzt.;Он опытный врач.
+B2;adj;;ergänzend;;;;;дополнительный;Hier finden Sie **ergänzende** Informationen.;Здесь вы найдёте дополнительную информацию.
+B2;adj;;erschöpft;;;;;измождённый, истощённый;Nach der Arbeit bin ich völlig **erschöpft**.;После работы я совершенно без сил.
+B2;adj;;erstaunlich;;;;;удивительный;Das ist **erstaunlich**!;Это удивительно!
+B2;adj;;fähig;;;;;способный;Er ist zu allem **fähig**.;Он способен на всё.
+B2;adj;;fehlerhaft;;;;;ошибочный, неисправный;Das Produkt ist **fehlerhaft**.;Изделие бракованное.
+B2;adj;;feindlich;;;;;враждебный;Die Stimmung war **feindlich**.;Атмосфера была враждебной.
+B2;adj;;fragwürdig;;;;;сомнительный;Seine Methoden sind **fragwürdig**.;Его методы сомнительны.
+B2;adj;;gegenwärtig;;;;;нынешний, в настоящее время;Die **gegenwärtige** Lage ist schwierig.;Нынешняя ситуация сложная.
+B2;adj;;geistig;;;;;умственный, духовный;Rätsel halten **geistig** fit.;Головоломки поддерживают умственную форму.
+B2;adj;;gelassen;;;;;невозмутимый, спокойный;Er blieb ganz **gelassen**.;Он оставался совершенно спокойным.
+B2;adj;;gelegentlich;;;;;случайный, время от времени;Ich trinke nur **gelegentlich** Alkohol.;Я лишь изредка пью алкоголь.
+B2;adj;;gemeinnützig;;;;;общественно полезный, некоммерческий;Das ist eine **gemeinnützige** Organisation.;Это некоммерческая организация.
+B2;adj;;geplant;;;;;запланированный;Die **geplante** Reise fällt aus.;Запланированная поездка отменяется.
+B2;adj;;geschickt;;;;;ловкий, умелый;Er ist handwerklich sehr **geschickt**.;У него золотые руки.
+B2;adj;;gewaltig;;;;;огромный, мощный;Das ist ein **gewaltiger** Unterschied.;Это огромная разница.
+B2;adj;;gewissenhaft;;;;;добросовестный;Sie arbeitet sehr **gewissenhaft**.;Она работает очень добросовестно.
+B2;adj;;gleichgültig;;;;;равнодушный;Das ist mir **gleichgültig**.;Мне это безразлично.
+B2;adj;;glaubwürdig;;;;;заслуживающий доверия;Der Zeuge ist sehr **glaubwürdig**.;Свидетель заслуживает доверия.
+B2;adj;;großzügig;;;;;щедрый;Er ist sehr **großzügig**.;Он очень щедрый.
+B2;adj;;grundsätzlich;;;;;принципиальный, в принципе;**Grundsätzlich** bin ich einverstanden.;В принципе я согласен.
+B2;adj;;gründlich;;;;;основательный, тщательный;Er hat das Zimmer **gründlich** geputzt.;Он тщательно убрал комнату.
+B2;adj;;harmlos;;;;;безобидный;Der Hund ist ganz **harmlos**.;Собака совершенно безобидная.
+B2;adj;;heftig;;;;;сильный, бурный;Es gab einen **heftigen** Streit.;Произошла бурная ссора.
+B2;adj;;herausfordernd;;;;;сложный, требующий усилий;Die neue Stelle ist sehr **herausfordernd**.;Новая должность очень сложная.
+B2;adj;;herkömmlich;;;;;традиционный, обычный;Das ist günstiger als die **herkömmliche** Methode.;Это дешевле, чем традиционный метод.
+B2;adj;;hilflos;;;;;беспомощный;Ich fühlte mich völlig **hilflos**.;Я чувствовал себя совершенно беспомощным.
+B2;adj;;hochwertig;;;;;высококачественный;Wir verwenden nur **hochwertige** Materialien.;Мы используем только высококачественные материалы.
+B2;adj;;irrelevant;;;;;несущественный;Das ist für uns **irrelevant**.;Для нас это несущественно.
+B2;adj;;kompetent;;;;;компетентный;Die Beratung war sehr **kompetent**.;Консультация была очень компетентной.
+B2;adj;;konsequent;;;;;последовательный;Man muss bei der Erziehung **konsequent** sein.;В воспитании нужно быть последовательным.
+B2;adj;;kontrovers;;;;;спорный;Das Thema ist sehr **kontrovers**.;Тема очень спорная.
+B2;adj;;körperlich;;;;;физический, телесный;Die Arbeit ist **körperlich** anstrengend.;Работа физически тяжёлая.
+B2;adj;;kostspielig;;;;;дорогостоящий;Das ist ein **kostspieliges** Hobby.;Это дорогостоящее хобби.
+B2;adj;;kurzfristig;;;;;краткосрочный, в последний момент;Der Termin wurde **kurzfristig** abgesagt.;Встречу отменили в последний момент.
+B2;adj;;langfristig;;;;;долгосрочный;Wir planen **langfristig**.;Мы планируем на долгую перспективу.
+B2;adj;;leistungsfähig;;;;;производительный, работоспособный;Der Computer ist sehr **leistungsfähig**.;Компьютер очень мощный.
+B2;adj;;maßgeblich;;;;;решающий, определяющий;Er war **maßgeblich** am Erfolg beteiligt.;Он сыграл решающую роль в успехе.
+B2;adj;;mangelhaft;;;;;неудовлетворительный, с недостатками;Die Qualität ist **mangelhaft**.;Качество неудовлетворительное.
+B2;adj;;minderjährig;;;;;несовершеннолетний;**Minderjährige** dürfen keinen Alkohol kaufen.;Несовершеннолетним нельзя покупать алкоголь.
+B2;adj;;missverständlich;;;;;двусмысленный;Die Formulierung ist **missverständlich**.;Формулировка двусмысленная.
+B2;adj;;mühsam;;;;;трудный, кропотливый;Das war eine **mühsame** Arbeit.;Это была кропотливая работа.
+B2;adj;;nachvollziehbar;;;;;понятный, объяснимый;Seine Reaktion ist **nachvollziehbar**.;Его реакция понятна.
+B2;adj;;naheliegend;;;;;очевидный, напрашивающийся;Die Lösung ist **naheliegend**.;Решение напрашивается само собой.
+B2;adj;;neutral;;;;;нейтральный;Ich bleibe in diesem Streit **neutral**.;Я остаюсь нейтральным в этом споре.
+B2;adj;;oberflächlich;;;;;поверхностный;Er ist sehr **oberflächlich**.;Он очень поверхностный.
+B2;adj;;objektiv;;;;;объективный;Versuche, **objektiv** zu bleiben.;Постарайся оставаться объективным.
+B2;adj;;subjektiv;;;;;субъективный;Das ist nur meine **subjektive** Meinung.;Это лишь моё субъективное мнение.
+B2;adj;;offensichtlich;;;;;очевидный;Das ist doch **offensichtlich**!;Это же очевидно!
+B2;adj;;optimistisch;;;;;оптимистичный;Ich bin **optimistisch**.;Я настроен оптимистично.
+B2;adj;;pessimistisch;;;;;пессимистичный;Sei nicht so **pessimistisch**!;Не будь таким пессимистом!
+B2;adj;;pflichtbewusst;;;;;сознательный, ответственный;Er ist sehr **pflichtbewusst**.;Он очень ответственный.
+B2;adj;;problematisch;;;;;проблематичный;Das ist ziemlich **problematisch**.;Это довольно проблематично.
+B2;adj;;produktiv;;;;;продуктивный;Heute war ich sehr **produktiv**.;Сегодня я был очень продуктивным.
+B2;adj;;rechtlich;;;;;правовой, юридический;Das ist **rechtlich** nicht erlaubt.;Это юридически не разрешено.
+B2;adj;;rücksichtslos;;;;;бесцеремонный, безжалостный;Er fährt sehr **rücksichtslos**.;Он ездит очень бесцеремонно.
+B2;adj;;rücksichtsvoll;;;;;внимательный (к другим), деликатный;Sie ist sehr **rücksichtsvoll**.;Она очень деликатная.
+B2;adj;;sachlich;;;;;деловой, объективный;Bleiben Sie bitte **sachlich**.;Пожалуйста, придерживайтесь фактов.
+B2;adj;;selbstbewusst;;;;;уверенный в себе;Sie tritt sehr **selbstbewusst** auf.;Она держится очень уверенно.
+B2;adj;;seltsam;;;;;странный;Das ist ein **seltsames** Gefühl.;Это странное чувство.
+B2;adj;;sensibel;;;;;чувствительный, ранимый;Er ist ein sehr **sensibler** Mensch.;Он очень ранимый человек.
+B2;adj;;skeptisch;;;;;скептический;Ich bin da eher **skeptisch**.;Я отношусь к этому скорее скептически.
+B2;adj;;sorgfältig;;;;;тщательный, аккуратный;Bitte lesen Sie den Vertrag **sorgfältig**.;Пожалуйста, внимательно прочитайте договор.
+B2;adj;;stabil;;;;;стабильный, прочный;Die Lage ist **stabil**.;Ситуация стабильная.
+B2;adj;;stressig;;;;;напряжённый;Die Woche war sehr **stressig**.;Неделя была очень напряжённой.
+B2;adv;;durchaus;;;;;вполне, совершенно;Das ist **durchaus** möglich.;Это вполне возможно.
+B2;adj;;tolerant;;;;;терпимый;Wir sollten **tolerant** sein.;Нам следует быть терпимыми.
+B2;adj;;überflüssig;;;;;лишний, ненужный;Das ist völlig **überflüssig**.;Это совершенно лишнее.
+B2;adj;;überfordert;;;;;перегруженный, не справляющийся;Ich fühle mich **überfordert**.;Я чувствую, что не справляюсь.
+B2;adj;;übertrieben;;;;;преувеличенный;Das ist doch **übertrieben**!;Это же преувеличение!
+B2;adj;;überzeugend;;;;;убедительный;Seine Argumente sind **überzeugend**.;Его аргументы убедительны.
+B2;adj;;umfangreich;;;;;обширный, объёмный;Das ist ein **umfangreiches** Projekt.;Это масштабный проект.
+B2;adj;;umstritten;;;;;спорный;Das Gesetz ist sehr **umstritten**.;Этот закон очень спорный.
+B2;adj;;unabdingbar;;;;;непременный, необходимый;Deutschkenntnisse sind **unabdingbar**.;Знание немецкого обязательно.
+B2;adj;;unangenehm;;;;;неприятный;Das ist mir sehr **unangenehm**.;Мне это очень неприятно.
+B2;adj;;unbefristet;;;;;бессрочный;Ich habe einen **unbefristeten** Vertrag.;У меня бессрочный договор.
+B2;adj;;befristet;;;;;срочный, ограниченный по сроку;Der Vertrag ist auf ein Jahr **befristet**.;Договор ограничен одним годом.
+B2;adj;;unerwartet;;;;;неожиданный;Das kam völlig **unerwartet**.;Это было совершенно неожиданно.
+B2;adj;;unfair;;;;;несправедливый, нечестный;Das ist total **unfair**!;Это совершенно несправедливо!
+B2;adj;;ungeduldig;;;;;нетерпеливый;Sei nicht so **ungeduldig**!;Не будь таким нетерпеливым!
+B2;adj;;ungewiss;;;;;неопределённый;Die Zukunft ist **ungewiss**.;Будущее неопределённо.
+B2;adj;;unmöglich;;;;;невозможный;Das ist **unmöglich**!;Это невозможно!
+B2;adj;;unnötig;;;;;ненужный;Mach dir keine **unnötigen** Sorgen.;Не беспокойся понапрасну.
+B2;adj;;unsicher;;;;;неуверенный, ненадёжный;Ich bin mir **unsicher**.;Я не уверен.
+B2;adj;;unterhaltsam;;;;;занимательный, развлекательный;Der Abend war sehr **unterhaltsam**.;Вечер был очень занимательным.
+B2;adj;;unverzichtbar;;;;;незаменимый;Das Handy ist heute **unverzichtbar**.;Без телефона сегодня не обойтись.
+B2;adj;;unzufrieden;;;;;недовольный;Viele Kunden sind **unzufrieden**.;Многие клиенты недовольны.
+B2;adj;;unzuverlässig;;;;;ненадёжный;Er ist sehr **unzuverlässig**.;Он очень ненадёжный.
+B2;adj;;veraltet;;;;;устаревший;Die Technik ist **veraltet**.;Техника устарела.
+B2;adj;;verantwortungsvoll;;;;;ответственный;Das ist eine **verantwortungsvolle** Aufgabe.;Это ответственная задача.
+B2;adj;;verbindlich;;;;;обязательный, любезный;Die Anmeldung ist **verbindlich**.;Регистрация обязательна к исполнению.
+B2;adj;;vergleichbar;;;;;сравнимый;Die Preise sind **vergleichbar**.;Цены сопоставимы.
+B2;adj;;verfügbar;;;;;доступный, имеющийся в наличии;Das Produkt ist sofort **verfügbar**.;Товар доступен сразу.
+B2;adj;;vertraut;;;;;знакомый, близкий;Die Stimme kommt mir **vertraut** vor.;Голос кажется мне знакомым.
+B2;adj;;verwirrt;;;;;растерянный, сбитый с толку;Ich bin total **verwirrt**.;Я совершенно сбит с толку.
+B2;adj;;verzweifelt;;;;;отчаявшийся;Sie war völlig **verzweifelt**.;Она была в полном отчаянии.
+B2;adj;;vielfältig;;;;;многообразный;Das Angebot ist sehr **vielfältig**.;Предложение очень разнообразное.
+B2;adj;;vielversprechend;;;;;многообещающий;Das ist ein **vielversprechender** Anfang.;Это многообещающее начало.
+B2;adj;;voraussichtlich;;;;;предположительно, ожидаемый;Der Zug kommt **voraussichtlich** um 10 Uhr an.;Поезд предположительно прибудет в 10 часов.
+B2;adj;;vorhanden;;;;;имеющийся;Alle Unterlagen sind **vorhanden**.;Все документы в наличии.
+B2;adj;;vorläufig;;;;;временный, предварительный;Das ist nur eine **vorläufige** Lösung.;Это лишь временное решение.
+B2;adj;;vorwiegend;;;;;преимущественно;Im Norden ist es **vorwiegend** bewölkt.;На севере преимущественно облачно.
+B2;adj;;wachsend;;;;;растущий;Es gibt eine **wachsende** Nachfrage.;Есть растущий спрос.
+B2;adj;;wählerisch;;;;;разборчивый, привередливый;Beim Essen ist er sehr **wählerisch**.;В еде он очень привередлив.
+B2;adj;;wirtschaftlich;;;;;экономический, экономичный;Die **wirtschaftliche** Lage ist gut.;Экономическое положение хорошее.
+B2;adj;;wissenschaftlich;;;;;научный;Das ist **wissenschaftlich** bewiesen.;Это научно доказано.
+B2;adj;;zahlreich;;;;;многочисленный;**Zahlreiche** Gäste kamen zur Feier.;На праздник пришло много гостей.
+B2;adj;;zeitgemäß;;;;;современный, отвечающий времени;Das Design ist nicht mehr **zeitgemäß**.;Дизайн уже не соответствует времени.
+B2;adj;;zielstrebig;;;;;целеустремлённый;Sie ist sehr **zielstrebig**.;Она очень целеустремлённая.
+B2;adj;;zögerlich;;;;;нерешительный;Er reagierte nur **zögerlich**.;Он отреагировал нерешительно.
+B2;adj;;zurückhaltend;;;;;сдержанный;Er ist eher **zurückhaltend**.;Он скорее сдержанный.
+B2;adj;;zuversichtlich;;;;;уверенный, полный надежды;Ich bin **zuversichtlich**, dass es klappt.;Я уверен, что всё получится.
+B2;adj;;zwangsläufig;;;;;неизбежный, вынужденно;Das führt **zwangsläufig** zu Problemen.;Это неизбежно приведёт к проблемам.
+B2;adj;;ehrgeizig;;;;;честолюбивый;Sie ist sehr **ehrgeizig**.;Она очень честолюбивая.
+B2;adj;;eifersüchtig;;;;;ревнивый;Er ist sehr **eifersüchtig**.;Он очень ревнивый.
+B2;adj;;einsam;;;;;одинокий;Viele alte Menschen sind **einsam**.;Многие пожилые люди одиноки.
+B2;adj;;gutmütig;;;;;добродушный;Er ist ein **gutmütiger** Mensch.;Он добродушный человек.
+B2;adj;;hartnäckig;;;;;упорный, настойчивый;Er ist sehr **hartnäckig**.;Он очень настойчивый.
+B2;adj;;humorvoll;;;;;с чувством юмора;Mein Chef ist sehr **humorvoll**.;У моего начальника отличное чувство юмора.
+B2;adj;;launisch;;;;;капризный, переменчивый;Sie ist manchmal etwas **launisch**.;Она порой немного капризна.
+B2;adj;;schüchtern;;;;;застенчивый;Das Kind ist sehr **schüchtern**.;Ребёнок очень застенчивый.
+B2;adj;;selbstsüchtig;;;;;эгоистичный;Er ist sehr **selbstsüchtig**.;Он очень эгоистичный.
+B2;adj;;spontan;;;;;спонтанный;Wir sind **spontan** ans Meer gefahren.;Мы спонтанно поехали на море.
+B2;adj;;tüchtig;;;;;дельный, работящий;Sie ist eine **tüchtige** Mitarbeiterin.;Она дельная сотрудница.
+B2;adj;;vertrauenswürdig;;;;;заслуживающий доверия;Er wirkt **vertrauenswürdig**.;Он внушает доверие.
+B2;adj;;vielseitig;;;;;разносторонний;Sie ist sehr **vielseitig** interessiert.;У неё очень разносторонние интересы.
+B2;adj;;weltoffen;;;;;открытый миру;Berlin ist eine **weltoffene** Stadt.;Берлин — открытый миру город.
+B2;adj;;akut;;;;;острый (о болезни, проблеме);Das Problem ist **akut**.;Проблема острая.
+B2;adj;;chronisch;;;;;хронический;Er leidet an einer **chronischen** Krankheit.;Он страдает хроническим заболеванием.
+B2;adj;;ansteckend;;;;;заразный;Die Krankheit ist sehr **ansteckend**.;Болезнь очень заразная.
+B2;adj;;erblich;;;;;наследственный;Die Krankheit ist **erblich**.;Это заболевание наследственное.
+B2;adj;;psychisch;;;;;психический;Er hat **psychische** Probleme.;У него психологические проблемы.
+B2;adj;;seelisch;;;;;душевный;Sie ist **seelisch** sehr belastet.;На ней большой душевный груз.
+B2;adj;;schwanger;;;;;беременная;Sie ist im dritten Monat **schwanger**.;Она на третьем месяце беременности.
+B2;adj;;behindert;;;;;с инвалидностью;Das Gebäude ist für **behinderte** Menschen zugänglich.;Здание доступно для людей с инвалидностью.
+B2;adj;;barrierefrei;;;;;безбарьерный;Der Bahnhof ist **barrierefrei**.;Вокзал безбарьерный.
+B2;adj;;digital;;;;;цифровой;Wir leben im **digitalen** Zeitalter.;Мы живём в цифровую эпоху.
+B2;adj;;virtuell;;;;;виртуальный;Das Treffen findet **virtuell** statt.;Встреча проходит виртуально.
+B2;adj;;global;;;;;глобальный;Das ist ein **globales** Problem.;Это глобальная проблема.
+B2;adj;;kommunal;;;;;коммунальный, муниципальный;Die **kommunalen** Wahlen sind im Mai.;Муниципальные выборы в мае.
+B2;adj;;staatlich;;;;;государственный;Er studiert an einer **staatlichen** Universität.;Он учится в государственном университете.
+B2;adj;;gesellschaftlich;;;;;общественный;Das ist ein **gesellschaftliches** Problem.;Это общественная проблема.
+B2;adj;;kulturell;;;;;культурный;Die Stadt hat ein großes **kulturelles** Angebot.;В городе богатая культурная жизнь.
+B2;adj;;ökologisch;;;;;экологический;Wir kaufen **ökologische** Produkte.;Мы покупаем экологичные продукты.
+B2;adj;;erneuerbar;;;;;возобновляемый;**Erneuerbare** Energien werden immer wichtiger.;Возобновляемые источники энергии становятся всё важнее.
+B2;adj;;historisch;;;;;исторический;Das ist ein **historisches** Ereignis.;Это историческое событие.
+B2;adj;;medizinisch;;;;;медицинский;Er braucht **medizinische** Hilfe.;Ему нужна медицинская помощь.
+B2;adj;;juristisch;;;;;юридический;Das ist ein **juristisches** Problem.;Это юридическая проблема.
+B2;adj;;zwischenmenschlich;;;;;межличностный;**Zwischenmenschliche** Beziehungen sind wichtig.;Межличностные отношения важны.
+B2;adj;;emotional;;;;;эмоциональный;Sie reagierte sehr **emotional**.;Она отреагировала очень эмоционально.
+B2;adj;;rational;;;;;рациональный;Lass uns **rational** bleiben.;Давай оставаться рациональными.
+B2;adj;;logisch;;;;;логичный;Das ist doch **logisch**!;Это же логично!
+B2;adj;;relevant;;;;;релевантный, значимый;Diese Information ist sehr **relevant**.;Эта информация очень важна.
+B2;adj;;präzise;;;;;точный;Bitte antworten Sie **präzise**.;Пожалуйста, отвечайте точно.
+B2;adj;;vage;;;;;расплывчатый;Seine Antwort war sehr **vage**.;Его ответ был очень расплывчатым.
+B2;adj;;komplex;;;;;сложный, комплексный;Das Thema ist sehr **komplex**.;Тема очень сложная.
+B2;adj;;nüchtern;;;;;трезвый, натощак;Bitte kommen Sie **nüchtern** zur Blutabnahme.;Пожалуйста, приходите сдавать кровь натощак.
+B2;adv;;allmählich;;;;;постепенно;Es wird **allmählich** dunkel.;Постепенно темнеет.
+B2;adv;;andernfalls;;;;;в противном случае;Bitte zahlen Sie bis Freitag, **andernfalls** kommt eine Mahnung.;Пожалуйста, оплатите до пятницы, иначе придёт напоминание.
+B2;adv;;ausnahmsweise;;;;;в виде исключения;**Ausnahmsweise** darfst du heute länger aufbleiben.;В виде исключения сегодня можешь лечь позже.
+B2;adv;;äußerst;;;;;крайне;Das ist **äußerst** wichtig.;Это крайне важно.
+B2;adv;;beinahe;;;;;почти, чуть не;Ich hätte **beinahe** den Zug verpasst.;Я чуть не опоздал на поезд.
+B2;adv;;bekanntlich;;;;;как известно;**Bekanntlich** ist Rauchen schädlich.;Как известно, курение вредно.
+B2;adv;;bestenfalls;;;;;в лучшем случае;Das dauert **bestenfalls** zwei Wochen.;Это займёт в лучшем случае две недели.
+B2;adv;;schlimmstenfalls;;;;;в худшем случае;**Schlimmstenfalls** müssen wir von vorne anfangen.;В худшем случае нам придётся начать сначала.
+B2;adv;;dennoch;;;;;тем не менее;Es war schwer, **dennoch** haben wir es geschafft.;Было трудно, тем не менее мы справились.
+B2;adv;;derzeit;;;;;в настоящее время;**Derzeit** ist das Büro geschlossen.;В настоящее время офис закрыт.
+B2;adv;;durchweg;;;;;сплошь, без исключения;Die Kritiken waren **durchweg** positiv.;Отзывы были сплошь положительными.
+B2;adv;;eher;;;;;скорее, раньше;Ich trinke **eher** Tee als Kaffee.;Я скорее пью чай, чем кофе.
+B2;adv;;einigermaßen;;;;;более или менее, в некоторой степени;Mir geht es **einigermaßen** gut.;Я чувствую себя более-менее хорошо.
+B2;adv;;folglich;;;;;следовательно;Er war krank, **folglich** konnte er nicht kommen.;Он был болен, следовательно, не смог прийти.
+B2;adv;;gewissermaßen;;;;;в некотором роде;Das ist **gewissermaßen** ein Kompliment.;В каком-то смысле это комплимент.
+B2;adv;;größtenteils;;;;;большей частью;Die Arbeit ist **größtenteils** erledigt.;Работа большей частью выполнена.
+B2;adv;;hauptsächlich;;;;;главным образом;Ich lese **hauptsächlich** Romane.;Я читаю главным образом романы.
+B2;adv;;hierbei;;;;;при этом;**Hierbei** muss man vorsichtig sein.;При этом нужно быть осторожным.
+B2;adv;;hingegen;;;;;напротив, зато;Er ist laut, seine Schwester **hingegen** sehr ruhig.;Он шумный, а его сестра, напротив, очень спокойная.
+B2;adv;;infolgedessen;;;;;вследствие этого;Es regnete, **infolgedessen** fiel das Spiel aus.;Шёл дождь, вследствие чего игру отменили.
+B2;adv;;insbesondere;;;;;в особенности;Ich mag Obst, **insbesondere** Äpfel.;Я люблю фрукты, особенно яблоки.
+B2;adv;;jederzeit;;;;;в любое время;Du kannst mich **jederzeit** anrufen.;Ты можешь звонить мне в любое время.
+B2;adv;;keineswegs;;;;;никоим образом, отнюдь;Das ist **keineswegs** sicher.;Это отнюдь не точно.
+B2;adv;;kürzlich;;;;;недавно;Ich habe ihn **kürzlich** getroffen.;Я недавно его встретил.
+B2;adv;;mittlerweile;;;;;между тем, теперь уже;**Mittlerweile** wohne ich in Berlin.;Теперь я уже живу в Берлине.
+B2;adv;;nachträglich;;;;;задним числом, впоследствии;Alles Gute **nachträglich** zum Geburtstag!;С прошедшим днём рождения!
+B2;adv;;notfalls;;;;;в крайнем случае;**Notfalls** nehmen wir ein Taxi.;В крайнем случае возьмём такси.
+B2;adv;;offenbar;;;;;очевидно, по-видимому;Er hat das **offenbar** vergessen.;Он, по-видимому, об этом забыл.
+B2;adv;;schätzungsweise;;;;;приблизительно;Es kamen **schätzungsweise** 1000 Menschen.;Пришло приблизительно 1000 человек.
+B2;adv;;sozusagen;;;;;так сказать;Er ist **sozusagen** der Chef hier.;Он здесь, так сказать, начальник.
+B2;adv;;stets;;;;;всегда, постоянно;Er ist **stets** freundlich.;Он всегда приветлив.
+B2;adv;;teils;;;;;частично;Das Wetter war **teils** sonnig, teils bewölkt.;Погода была то солнечной, то облачной.
+B2;adv;;überwiegend;;;;;преимущественно;Die Kunden sind **überwiegend** zufrieden.;Клиенты преимущественно довольны.
+B2;adv;;umso;;;;;тем (более);Je früher, **umso** besser.;Чем раньше, тем лучше.
+B2;adv;;ursprünglich;;;;;первоначально;**Ursprünglich** wollten wir nach Italien fahren.;Первоначально мы хотели поехать в Италию.
+B2;adv;;vergeblich;;;;;напрасно;Ich habe **vergeblich** gewartet.;Я напрасно ждал.
+B2;adv;;vermutlich;;;;;вероятно;Er kommt **vermutlich** morgen.;Он, вероятно, придёт завтра.
+B2;adv;;vielmehr;;;;;скорее, наоборот;Es ist kein Problem, **vielmehr** eine Chance.;Это не проблема, а скорее шанс.
+B2;adv;;völlig;;;;;полностью, совершенно;Ich bin **völlig** erschöpft.;Я совершенно измотан.
+B2;adv;;weitgehend;;;;;в значительной степени;Das Problem ist **weitgehend** gelöst.;Проблема в значительной степени решена.
+B2;adv;;zeitweise;;;;;временами;**Zeitweise** regnet es.;Временами идёт дождь.
+B2;adv;;zuvor;;;;;прежде, ранее;Ich habe ihn nie **zuvor** gesehen.;Я никогда раньше его не видел.
+B2;adv;;zweifellos;;;;;несомненно;Er ist **zweifellos** der Beste.;Он, несомненно, лучший.
+B2;adv;;zwischendurch;;;;;в промежутках, между делом;**Zwischendurch** esse ich einen Apfel.;Между делом я съедаю яблоко.
+B2;adv;;demnächst;;;;;в ближайшее время;Das neue Geschäft öffnet **demnächst**.;Новый магазин откроется в ближайшее время.
+B2;adv;;neuerdings;;;;;с недавних пор;**Neuerdings** fährt er mit dem Rad zur Arbeit.;С недавних пор он ездит на работу на велосипеде.
+B2;adv;;bislang;;;;;до сих пор;**Bislang** gibt es keine Informationen.;До сих пор информации нет.
+B2;adv;;sicherheitshalber;;;;;на всякий случай;**Sicherheitshalber** nehme ich einen Schirm mit.;На всякий случай я возьму зонт.
+B2;adv;;vorübergehend;;;;;временно;Das Geschäft ist **vorübergehend** geschlossen.;Магазин временно закрыт.
+B2;adv;;womöglich;;;;;возможно, чего доброго;Er hat es **womöglich** vergessen.;Он, возможно, забыл.
+B2;adv;;zumindest;;;;;по крайней мере;Ruf **zumindest** an!;По крайней мере, позвони!
+B2;adv;;zugleich;;;;;одновременно;Er ist Lehrer und **zugleich** Musiker.;Он учитель и одновременно музыкант.
+B2;adv;;seither;;;;;с тех пор;**Seither** haben wir uns nicht gesehen.;С тех пор мы не виделись.
+B2;conj;;sofern;;;;;если, поскольку;**Sofern** nichts dazwischenkommt, komme ich.;Если ничего не помешает, я приду.
+B2;conj;;soweit;;;;;насколько;**Soweit** ich weiß, ist er im Urlaub.;Насколько я знаю, он в отпуске.
+B2;conj;;wohingegen;;;;;тогда как;Er mag Kaffee, **wohingegen** sie Tee bevorzugt.;Он любит кофе, тогда как она предпочитает чай.
+B2;conj;;zumal;;;;;тем более что;Ich bleibe zu Hause, **zumal** es regnet.;Я останусь дома, тем более что идёт дождь.
+B2;conj;;geschweige denn;;;;;не говоря уже о;Er kann kaum laufen, **geschweige denn** rennen.;Он едва может ходить, не говоря уже о беге.
+B2;conj;;insofern;;;;;в том смысле, поскольку;Er hat recht, **insofern** als das Problem neu ist.;Он прав в том смысле, что проблема новая.
+B2;conj;;wenngleich;;;;;хотя;**Wenngleich** es schwer war, haben wir es geschafft.;Хотя это было трудно, мы справились.
+B2;prep;;anhand;;;;;на основании, с помощью;**Anhand** des Beispiels erkläre ich die Regel.;На примере я объясню правило.
+B2;prep;;anlässlich;;;;;по случаю;**Anlässlich** seines Geburtstags gab es eine Feier.;По случаю его дня рождения был праздник.
+B2;prep;;dank;;;;;благодаря;**Dank** deiner Hilfe haben wir es geschafft.;Благодаря твоей помощи мы справились.
+B2;prep;;einschließlich;;;;;включая;Der Preis gilt **einschließlich** Mehrwertsteuer.;Цена указана с учётом НДС.
+B2;prep;;hinsichtlich;;;;;относительно;**Hinsichtlich** des Preises gibt es keine Probleme.;Относительно цены проблем нет.
+B2;prep;;infolge;;;;;вследствие;**Infolge** des Sturms fiel der Strom aus.;Вследствие бури отключилось электричество.
+B2;prep;;mangels;;;;;за неимением;**Mangels** Beweisen wurde er freigesprochen.;За недостатком улик его оправдали.
+B2;prep;;mittels;;;;;посредством;Die Zahlung erfolgt **mittels** Überweisung.;Оплата производится посредством перевода.
+B2;prep;;ungeachtet;;;;;несмотря на;**Ungeachtet** der Kritik machte er weiter.;Несмотря на критику, он продолжал.
+B2;prep;;zugunsten;;;;;в пользу;Das Konzert findet **zugunsten** der Kinderhilfe statt.;Концерт проходит в пользу детского фонда.
+B2;prep;;zwecks;;;;;с целью;**Zwecks** Anmeldung kommen Sie bitte ins Büro.;Для регистрации приходите, пожалуйста, в офис.
+B2;prep;;seitens;;;;;со стороны;**Seitens** der Firma gibt es keine Einwände.;Со стороны фирмы возражений нет.
+B2;prep;;entgegen;;;;;вопреки;**Entgegen** allen Erwartungen hat er gewonnen.;Вопреки всем ожиданиям он победил.
+B2;prep;;gemäß;;;;;согласно;**Gemäß** dem Vertrag zahlen Sie monatlich.;Согласно договору, вы платите ежемесячно.
+B2;prep;;samt;;;;;вместе с;Er kam **samt** seiner Familie.;Он пришёл вместе со всей семьёй.
+B2;prep;;binnen;;;;;в течение;Bitte antworten Sie **binnen** einer Woche.;Пожалуйста, ответьте в течение недели.
+B2;prep;;abzüglich;;;;;за вычетом;Der Preis **abzüglich** Rabatt beträgt 80 Euro.;Цена за вычетом скидки составляет 80 евро.
+B2;prep;;zuzüglich;;;;;плюс, с добавлением;Die Miete beträgt 700 Euro **zuzüglich** Nebenkosten.;Аренда — 700 евро плюс коммунальные платежи.
+B2;noun;die;Arbeitsatmosphäre;-;;;;рабочая атмосфера;Die **Arbeitsatmosphäre** ist sehr angenehm.;Рабочая атмосфера очень приятная.
+B2;noun;der;Arbeitsablauf;Arbeitsabläufe;;;;рабочий процесс;Wir optimieren die **Arbeitsabläufe**.;Мы оптимизируем рабочие процессы.
+B2;noun;die;Aufstiegsmöglichkeit;Aufstiegsmöglichkeiten;;;;возможность карьерного роста;Die Firma bietet gute **Aufstiegsmöglichkeiten**.;Фирма предлагает хорошие возможности для роста.
+B2;noun;die;Beförderung;Beförderungen;;;;повышение (по службе), перевозка;Er hat eine **Beförderung** bekommen.;Его повысили.
+B2;noun;der;Betriebsrat;Betriebsräte;;;;производственный совет;Der **Betriebsrat** vertritt die Mitarbeiter.;Производственный совет представляет интересы сотрудников.
+B2;noun;der;Dienstleister;Dienstleister;;;;поставщик услуг;Wir arbeiten mit einem externen **Dienstleister**.;Мы работаем с внешним подрядчиком.
+B2;noun;die;Dienstreise;Dienstreisen;;;;служебная командировка;Die Kosten der **Dienstreise** übernimmt die Firma.;Расходы на командировку берёт на себя фирма.
+B2;noun;die;Einarbeitung;Einarbeitungen;;;;ввод в должность, адаптация;Die **Einarbeitung** dauert vier Wochen.;Ввод в должность длится четыре недели.
+B2;noun;die;Fachkenntnis;Fachkenntnisse;;;;профессиональное знание;Für die Stelle braucht man gute **Fachkenntnisse**.;Для этой должности нужны хорошие профессиональные знания.
+B2;noun;die;Führungskraft;Führungskräfte;;;;руководитель;Sie ist eine erfahrene **Führungskraft**.;Она опытный руководитель.
+B2;noun;die;Geschäftsführung;Geschäftsführungen;;;;руководство (компании);Die **Geschäftsführung** hat entschieden.;Руководство приняло решение.
+B2;noun;der;Geschäftspartner;Geschäftspartner;;;;деловой партнёр;Wir treffen heute unsere **Geschäftspartner**.;Сегодня мы встречаемся с деловыми партнёрами.
+B2;noun;die;Gleitzeit;-;;;;скользящий график;Bei uns gibt es **Gleitzeit**.;У нас скользящий график.
+B2;noun;das;Homeoffice;Homeoffices;;;;удалённая работа (из дома);Ich arbeite zwei Tage pro Woche im **Homeoffice**.;Два дня в неделю я работаю из дома.
+B2;noun;die;Kompetenz;Kompetenzen;;;;компетенция;Soziale **Kompetenz** ist im Beruf wichtig.;Социальная компетентность важна в профессии.
+B2;noun;die;Leitung;Leitungen;;;;руководство, линия, провод;Sie übernimmt die **Leitung** des Projekts.;Она берёт на себя руководство проектом.
+B2;noun;der;Mindestlohn;Mindestlöhne;;;;минимальная зарплата;Der **Mindestlohn** wurde erhöht.;Минимальную зарплату повысили.
+B2;noun;die;Mitarbeiterin;Mitarbeiterinnen;;;;сотрудница;Die neue **Mitarbeiterin** fängt morgen an.;Новая сотрудница выходит завтра.
+B2;noun;das;Personal;-;;;;персонал;Das **Personal** ist sehr freundlich.;Персонал очень приветливый.
+B2;noun;die;Personalabteilung;Personalabteilungen;;;;отдел кадров;Schicken Sie die Bewerbung an die **Personalabteilung**.;Отправьте резюме в отдел кадров.
+B2;noun;die;Präsentation;Präsentationen;;;;презентация;Morgen halte ich eine **Präsentation**.;Завтра я провожу презентацию.
+B2;noun;das;Protokoll;Protokolle;;;;протокол;Wer schreibt heute das **Protokoll**?;Кто сегодня ведёт протокол?
+B2;noun;der;Schichtdienst;Schichtdienste;;;;сменная работа;Krankenschwestern arbeiten im **Schichtdienst**.;Медсёстры работают посменно.
+B2;noun;die;Stellenbeschreibung;Stellenbeschreibungen;;;;описание должности;Lesen Sie die **Stellenbeschreibung** genau.;Внимательно прочитайте описание должности.
+B2;noun;der;Tarifvertrag;Tarifverträge;;;;коллективный договор;Der neue **Tarifvertrag** gilt ab Juli.;Новый коллективный договор действует с июля.
+B2;noun;die;Teilzeit;-;;;;неполный рабочий день;Sie arbeitet in **Teilzeit**.;Она работает неполный день.
+B2;noun;die;Vollzeit;-;;;;полный рабочий день;Ich arbeite **Vollzeit**.;Я работаю полный день.
+B2;noun;der;Urlaubsanspruch;Urlaubsansprüche;;;;право на отпуск;Mein **Urlaubsanspruch** beträgt 30 Tage.;Мне положено 30 дней отпуска.
+B2;noun;die;Vereinbarkeit;-;;;;совместимость;Die **Vereinbarkeit** von Familie und Beruf ist schwierig.;Совмещать семью и работу сложно.
+B2;noun;die;Verhandlungsbasis;-;;;;основа для переговоров (торг);Der Preis ist **Verhandlungsbasis**.;Цена обсуждаема.
+B2;noun;die;Weiterentwicklung;Weiterentwicklungen;;;;дальнейшее развитие;Die Firma investiert in die **Weiterentwicklung** der Mitarbeiter.;Фирма инвестирует в развитие сотрудников.
+B2;noun;die;Zielgruppe;Zielgruppen;;;;целевая аудитория;Junge Leute sind unsere **Zielgruppe**.;Молодёжь — наша целевая аудитория.
+B2;noun;die;Zuverlässigkeit;-;;;;надёжность;**Zuverlässigkeit** ist mir sehr wichtig.;Надёжность для меня очень важна.
+B2;noun;die;App;Apps;;;;приложение;Ich habe eine neue **App** installiert.;Я установил новое приложение.
+B2;noun;der;Algorithmus;Algorithmen;;;;алгоритм;Der **Algorithmus** entscheidet, was wir sehen.;Алгоритм решает, что мы видим.
+B2;noun;der;Datenschutz;-;;;;защита данных;Der **Datenschutz** ist in Deutschland sehr streng.;Защита данных в Германии очень строгая.
+B2;noun;die;Festplatte;Festplatten;;;;жёсткий диск;Die **Festplatte** ist voll.;Жёсткий диск заполнен.
+B2;noun;die;Funktion;Funktionen;;;;функция;Das Handy hat viele **Funktionen**.;У телефона много функций.
+B2;noun;der;Hacker;Hacker;;;;хакер;**Hacker** haben die Daten gestohlen.;Хакеры украли данные.
+B2;noun;die;Künstliche Intelligenz;-;;;;искусственный интеллект;**Künstliche Intelligenz** verändert die Welt.;Искусственный интеллект меняет мир.
+B2;noun;der;Nutzer;Nutzer;;;;пользователь;Die App hat Millionen **Nutzer**.;У приложения миллионы пользователей.
+B2;noun;die;Plattform;Plattformen;;;;платформа;Die **Plattform** verbindet Käufer und Verkäufer.;Платформа связывает покупателей и продавцов.
+B2;noun;der;Server;Server;;;;сервер;Der **Server** ist abgestürzt.;Сервер упал.
+B2;noun;die;Software;Softwares;;;;программное обеспечение;Wir brauchen eine neue **Software**.;Нам нужна новая программа.
+B2;noun;der;Speicher;Speicher;;;;память (устройства), склад;Der **Speicher** meines Handys ist voll.;Память моего телефона заполнена.
+B2;noun;die;Technologie;Technologien;;;;технология;Neue **Technologien** entwickeln sich schnell.;Новые технологии быстро развиваются.
+B2;noun;das;Update;Updates;;;;обновление;Bitte installieren Sie das **Update**.;Пожалуйста, установите обновление.
+B2;noun;der;Virus;Viren;;;;вирус;Der Computer hat einen **Virus**.;У компьютера вирус.
+B2;noun;die;Verschlüsselung;Verschlüsselungen;;;;шифрование;Die **Verschlüsselung** schützt die Daten.;Шифрование защищает данные.
+B2;noun;der;Zugriff;Zugriffe;;;;доступ;Ich habe keinen **Zugriff** auf meine E-Mails.;У меня нет доступа к почте.
+B2;noun;die;Abwehrkraft;Abwehrkräfte;;;;иммунитет (защитные силы);Vitamine stärken die **Abwehrkräfte**.;Витамины укрепляют иммунитет.
+B2;noun;das;Immunsystem;Immunsysteme;;;;иммунная система;Sport stärkt das **Immunsystem**.;Спорт укрепляет иммунную систему.
+B2;noun;die;Beschwerden;pl;;;;недомогание, боли;Haben Sie **Beschwerden**?;У вас есть жалобы на здоровье?
+B2;noun;die;Diagnose;Diagnosen;;;;диагноз;Die **Diagnose** war ein Schock.;Диагноз стал шоком.
+B2;noun;die;Therapie;Therapien;;;;терапия;Die **Therapie** dauert mehrere Wochen.;Терапия длится несколько недель.
+B2;noun;die;Heilung;Heilungen;;;;излечение, заживление;Die **Heilung** braucht Zeit.;Для выздоровления нужно время.
+B2;noun;die;Vorsorge;-;;;;профилактика;**Vorsorge** ist besser als Nachsorge.;Профилактика лучше лечения.
+B2;noun;die;Vorsorgeuntersuchung;Vorsorgeuntersuchungen;;;;профилактический осмотр;Gehen Sie regelmäßig zur **Vorsorgeuntersuchung**.;Регулярно проходите профилактический осмотр.
+B2;noun;der;Facharzt;Fachärzte;;;;врач-специалист;Der Hausarzt überweist mich zum **Facharzt**.;Семейный врач направляет меня к специалисту.
+B2;noun;die;Notaufnahme;Notaufnahmen;;;;приёмный покой;Er wurde in die **Notaufnahme** gebracht.;Его доставили в приёмный покой.
+B2;noun;die;Intensivstation;Intensivstationen;;;;реанимация;Der Patient liegt auf der **Intensivstation**.;Пациент лежит в реанимации.
+B2;noun;die;Krankenversicherung;Krankenversicherungen;;;;медицинская страховка;In Deutschland ist die **Krankenversicherung** Pflicht.;В Германии медицинская страховка обязательна.
+B2;noun;die;Zuzahlung;Zuzahlungen;;;;доплата;Für Medikamente gibt es eine **Zuzahlung**.;За лекарства нужно доплачивать.
+B2;noun;das;Übergewicht;-;;;;лишний вес;**Übergewicht** ist ein Risiko für das Herz.;Лишний вес — риск для сердца.
+B2;noun;der;Bewegungsmangel;-;;;;недостаток движения;**Bewegungsmangel** macht krank.;Недостаток движения вредит здоровью.
+B2;noun;die;Erschöpfung;-;;;;истощение, изнеможение;Er leidet an **Erschöpfung**.;Он страдает от истощения.
+B2;noun;das;Burnout;Burnouts;;;;выгорание;Viele Lehrer leiden unter **Burnout**.;Многие учителя страдают от выгорания.
+B2;noun;die;Depression;Depressionen;;;;депрессия;Sie leidet an einer **Depression**.;Она страдает от депрессии.
+B2;noun;die;Schlafstörung;Schlafstörungen;;;;нарушение сна;Stress kann zu **Schlafstörungen** führen.;Стресс может привести к нарушениям сна.
+B2;noun;die;Ausgewogenheit;-;;;;сбалансированность;Achten Sie auf die **Ausgewogenheit** Ihrer Ernährung.;Следите за сбалансированностью питания.
+B2;noun;das;Vitamin;Vitamine;;;;витамин;Obst enthält viele **Vitamine**.;Фрукты содержат много витаминов.
+B2;noun;das;Wohlbefinden;-;;;;хорошее самочувствие;Sport fördert das **Wohlbefinden**.;Спорт улучшает самочувствие.
+B2;noun;die;Lebensweise;Lebensweisen;;;;образ жизни;Eine gesunde **Lebensweise** ist wichtig.;Здоровый образ жизни важен.
+B2;noun;der;Ausgleich;Ausgleiche;;;;компенсация, баланс;Sport ist ein guter **Ausgleich** zur Arbeit.;Спорт — хороший противовес работе.
+B2;noun;die;Work-Life-Balance;-;;;;баланс работы и личной жизни;Eine gute **Work-Life-Balance** ist wichtig.;Хороший баланс работы и личной жизни важен.
+B2;noun;die;Artenvielfalt;-;;;;биоразнообразие;Die **Artenvielfalt** ist bedroht.;Биоразнообразие под угрозой.
+B2;noun;der;Ausstoß;-;;;;выброс;Der **Ausstoß** von CO2 muss sinken.;Выбросы CO2 должны сократиться.
+B2;noun;die;Dürre;Dürren;;;;засуха;Die **Dürre** hat die Ernte zerstört.;Засуха уничтожила урожай.
+B2;noun;die;Überschwemmung;Überschwemmungen;;;;наводнение;Nach dem Regen gab es eine **Überschwemmung**.;После дождя произошло наводнение.
+B2;noun;das;Hochwasser;Hochwasser;;;;паводок;Das **Hochwasser** hat viele Häuser beschädigt.;Паводок повредил много домов.
+B2;noun;die;Katastrophe;Katastrophen;;;;катастрофа;Das war eine **Katastrophe**.;Это была катастрофа.
+B2;noun;die;Erderwärmung;-;;;;глобальное потепление;Die **Erderwärmung** ist ein ernstes Problem.;Глобальное потепление — серьёзная проблема.
+B2;noun;der;Treibhauseffekt;-;;;;парниковый эффект;Der **Treibhauseffekt** verändert das Klima.;Парниковый эффект меняет климат.
+B2;noun;das;Kraftwerk;Kraftwerke;;;;электростанция;Das alte **Kraftwerk** wird abgeschaltet.;Старую электростанцию закрывают.
+B2;noun;die;Solarenergie;-;;;;солнечная энергия;**Solarenergie** ist umweltfreundlich.;Солнечная энергия экологична.
+B2;noun;die;Windkraft;-;;;;энергия ветра;Deutschland setzt auf **Windkraft**.;Германия делает ставку на энергию ветра.
+B2;noun;der;Rohstoff;Rohstoffe;;;;сырьё;**Rohstoffe** werden immer knapper.;Сырья становится всё меньше.
+B2;noun;die;Ressource;Ressourcen;;;;ресурс;Wir müssen **Ressourcen** sparen.;Мы должны экономить ресурсы.
+B2;noun;das;Recycling;-;;;;переработка отходов;**Recycling** schont die Umwelt.;Переработка отходов бережёт окружающую среду.
+B2;noun;der;Pfand;Pfänder;;;;залог (за тару);Auf die Flasche gibt es 25 Cent **Pfand**.;За бутылку можно вернуть 25 центов залога.
+B2;noun;der;Naturschutz;-;;;;охрана природы;Er engagiert sich für den **Naturschutz**.;Он участвует в охране природы.
+B2;noun;das;Naturschutzgebiet;Naturschutzgebiete;;;;заповедник;Im **Naturschutzgebiet** darf man nicht campen.;В заповеднике нельзя ставить палатки.
+B2;noun;der;Lebensraum;Lebensräume;;;;среда обитания;Viele Tiere verlieren ihren **Lebensraum**.;Многие животные теряют среду обитания.
+B2;noun;der;Verkehrslärm;-;;;;шум транспорта;Der **Verkehrslärm** stört mich nachts.;Шум транспорта мешает мне ночью.
+B2;noun;der;Feinstaub;-;;;;мелкодисперсная пыль;In der Stadt ist viel **Feinstaub** in der Luft.;В городском воздухе много мелкой пыли.
+B2;noun;die;Luftverschmutzung;-;;;;загрязнение воздуха;Die **Luftverschmutzung** in Großstädten ist ein Problem.;Загрязнение воздуха в крупных городах — проблема.
+B2;noun;der;Verzicht;Verzichte;;;;отказ;Der **Verzicht** auf das Auto fällt mir schwer.;Мне трудно отказаться от машины.
+B2;noun;die;Berichterstattung;-;;;;освещение (в СМИ);Die **Berichterstattung** war einseitig.;Освещение было односторонним.
+B2;noun;die;Presse;-;;;;пресса;Die **Presse** berichtet ausführlich darüber.;Пресса подробно об этом сообщает.
+B2;noun;die;Pressefreiheit;-;;;;свобода прессы;Die **Pressefreiheit** ist ein hohes Gut.;Свобода прессы — большая ценность.
+B2;noun;der;Leserbrief;Leserbriefe;;;;письмо читателя;Ich habe einen **Leserbrief** geschrieben.;Я написал письмо в редакцию.
+B2;noun;der;Kommentar;Kommentare;;;;комментарий;Lies die **Kommentare** nicht!;Не читай комментарии!
+B2;noun;die;Nachrichtensendung;Nachrichtensendungen;;;;выпуск новостей;Die **Nachrichtensendung** beginnt um 20 Uhr.;Выпуск новостей начинается в 20 часов.
+B2;noun;die;Reportage;Reportagen;;;;репортаж;Ich habe eine spannende **Reportage** gesehen.;Я посмотрел интересный репортаж.
+B2;noun;die;Dokumentation;Dokumentationen;;;;документальный фильм, документация;Die **Dokumentation** über Afrika war toll.;Документальный фильм об Африке был отличным.
+B2;noun;die;Auflage;Auflagen;;;;тираж, условие;Die Zeitung hat eine hohe **Auflage**.;У газеты большой тираж.
+B2;noun;die;Fake News;pl;;;;фейковые новости;**Fake News** verbreiten sich schnell.;Фейковые новости быстро распространяются.
+B2;noun;die;Manipulation;Manipulationen;;;;манипуляция;Das ist reine **Manipulation**.;Это чистая манипуляция.
+B2;noun;die;Einschaltquote;Einschaltquoten;;;;рейтинг (телепередачи);Die Sendung hat hohe **Einschaltquoten**.;У передачи высокие рейтинги.
+B2;noun;der;Follower;Follower;;;;подписчик;Sie hat viele **Follower**.;У неё много подписчиков.
+B2;noun;das;Abonnement;Abonnements;;;;подписка, абонемент;Ich habe mein **Abonnement** gekündigt.;Я отменил подписку.
+B2;noun;der;Anwalt;Anwälte;;;;адвокат;Mein **Anwalt** kümmert sich darum.;Этим занимается мой адвокат.
+B2;noun;der;Richter;Richter;;;;судья;Der **Richter** hat das Urteil verkündet.;Судья огласил приговор.
+B2;noun;der;Angeklagte;Angeklagten;;;;обвиняемый;Der **Angeklagte** schweigt.;Обвиняемый молчит.
+B2;noun;der;Beweis;Beweise;;;;доказательство;Es gibt keine **Beweise**.;Доказательств нет.
+B2;noun;das;Gefängnis;Gefängnisse;;;;тюрьма;Er musste ins **Gefängnis**.;Ему пришлось сесть в тюрьму.
+B2;noun;die;Geldstrafe;Geldstrafen;;;;денежный штраф;Er bekam eine **Geldstrafe**.;Его оштрафовали.
+B2;noun;das;Bußgeld;Bußgelder;;;;штраф (административный);Für zu schnelles Fahren gibt es ein **Bußgeld**.;За превышение скорости полагается штраф.
+B2;noun;der;Verdacht;Verdachte;;;;подозрение;Er steht unter **Verdacht**.;Он под подозрением.
+B2;noun;der;Verdächtige;Verdächtigen;;;;подозреваемый;Die Polizei hat den **Verdächtigen** festgenommen.;Полиция задержала подозреваемого.
+B2;noun;die;Ermittlung;Ermittlungen;;;;расследование;Die **Ermittlungen** laufen.;Идёт расследование.
+B2;noun;der;Betrug;-;;;;мошенничество, обман;Das ist **Betrug**!;Это мошенничество!
+B2;noun;die;Kriminalität;-;;;;преступность;Die **Kriminalität** ist gesunken.;Преступность снизилась.
+B2;noun;der;Mieterschutz;-;;;;защита прав арендаторов;Der **Mieterschutz** ist in Deutschland stark.;Права арендаторов в Германии хорошо защищены.
+B2;noun;der;Mietvertrag;Mietverträge;;;;договор аренды;Ich habe den **Mietvertrag** unterschrieben.;Я подписал договор аренды.
+B2;noun;die;Mieterhöhung;Mieterhöhungen;;;;повышение арендной платы;Wir haben eine **Mieterhöhung** bekommen.;Нам повысили арендную плату.
+B2;noun;die;Eigentumswohnung;Eigentumswohnungen;;;;квартира в собственности;Sie haben eine **Eigentumswohnung** gekauft.;Они купили квартиру в собственность.
+B2;noun;der;Makler;Makler;;;;маклер, риелтор;Der **Makler** zeigt uns die Wohnung.;Риелтор показывает нам квартиру.
+B2;noun;die;Besichtigung;Besichtigungen;;;;осмотр;Die **Besichtigung** der Wohnung ist am Samstag.;Осмотр квартиры в субботу.
+B2;noun;der;Grundriss;Grundrisse;;;;планировка;Der **Grundriss** der Wohnung ist praktisch.;Планировка квартиры практичная.
+B2;noun;die;Wohnfläche;Wohnflächen;;;;жилая площадь;Die **Wohnfläche** beträgt 80 Quadratmeter.;Жилая площадь составляет 80 квадратных метров.
+B2;noun;der;Quadratmeter;Quadratmeter;;;;квадратный метр;Die Wohnung hat 60 **Quadratmeter**.;В квартире 60 квадратных метров.
+B2;noun;die;Wohnungsnot;-;;;;нехватка жилья;In Großstädten herrscht **Wohnungsnot**.;В крупных городах острая нехватка жилья.
+B2;noun;die;Sozialwohnung;Sozialwohnungen;;;;социальное жильё;Es gibt zu wenige **Sozialwohnungen**.;Социального жилья слишком мало.
+B2;noun;der;Schimmel;-;;;;плесень;Im Bad ist **Schimmel**.;В ванной плесень.
+B2;noun;der;Lärm;-;;;;шум;Der **Lärm** von der Baustelle ist unerträglich.;Шум со стройки невыносим.
+B2;noun;die;Nachtruhe;-;;;;ночная тишина;Ab 22 Uhr gilt die **Nachtruhe**.;С 22 часов действует режим тишины.
+B2;noun;die;Bildungschance;Bildungschancen;;;;возможности получения образования;Alle Kinder sollen gleiche **Bildungschancen** haben.;У всех детей должны быть равные возможности в образовании.
+B2;noun;das;Bildungssystem;Bildungssysteme;;;;система образования;Das **Bildungssystem** muss reformiert werden.;Систему образования нужно реформировать.
+B2;noun;die;Ganztagsschule;Ganztagsschulen;;;;школа полного дня;Meine Tochter besucht eine **Ganztagsschule**.;Моя дочь ходит в школу полного дня.
+B2;noun;der;Lehrplan;Lehrpläne;;;;учебный план;Das steht nicht im **Lehrplan**.;Этого нет в учебной программе.
+B2;noun;die;Fachhochschule;Fachhochschulen;;;;высшая профессиональная школа;Er studiert an einer **Fachhochschule**.;Он учится в высшей профессиональной школе.
+B2;noun;der;Bachelor;Bachelors;;;;бакалавр;Sie hat einen **Bachelor** in Biologie.;У неё степень бакалавра биологии.
+B2;noun;der;Master;Master;;;;магистр;Nach dem Bachelor mache ich den **Master**.;После бакалавриата я пойду в магистратуру.
+B2;noun;die;Doktorarbeit;Doktorarbeiten;;;;докторская диссертация;Er schreibt seine **Doktorarbeit**.;Он пишет диссертацию.
+B2;noun;die;Hausarbeit;Hausarbeiten;;;;курсовая работа, работа по дому;Ich muss eine **Hausarbeit** schreiben.;Мне нужно написать курсовую работу.
+B2;noun;das;Referat;Referate;;;;доклад, реферат;Morgen halte ich ein **Referat**.;Завтра я делаю доклад.
+B2;noun;die;Quellenangabe;Quellenangaben;;;;указание источника;Vergiss die **Quellenangaben** nicht!;Не забудь указать источники!
+B2;noun;die;Anerkennung;Anerkennungen;;;;признание;Die **Anerkennung** meines Abschlusses dauert lange.;Признание моего диплома длится долго.
+B2;noun;die;Lernmethode;Lernmethoden;;;;метод обучения;Jeder hat seine eigene **Lernmethode**.;У каждого свой метод обучения.
+B2;noun;der;Lernerfolg;Lernerfolge;;;;успех в учёбе;Regelmäßiges Üben führt zum **Lernerfolg**.;Регулярные занятия ведут к успеху в учёбе.
+B2;noun;der;Muttersprachler;Muttersprachler;;;;носитель языка;Ich übe mit einem **Muttersprachler**.;Я занимаюсь с носителем языка.
+B2;noun;der;Dialekt;Dialekte;;;;диалект;In Bayern spricht man einen starken **Dialekt**.;В Баварии говорят на сильном диалекте.
+B2;noun;die;Umgangssprache;Umgangssprachen;;;;разговорный язык;Das ist **Umgangssprache**.;Это разговорное выражение.
+B2;noun;die;Redewendung;Redewendungen;;;;оборот речи, идиома;Diese **Redewendung** kenne ich nicht.;Я не знаю этого выражения.
+B2;noun;das;Sprichwort;Sprichwörter;;;;пословица;Wie heißt das **Sprichwort**?;Как звучит эта пословица?
+B2;noun;die;Grammatik;Grammatiken;;;;грамматика;Die deutsche **Grammatik** ist schwer.;Немецкая грамматика трудная.
+B2;noun;der;Akzent;Akzente;;;;акцент;Er spricht mit einem leichten **Akzent**.;Он говорит с лёгким акцентом.
+B2;verb;;abgrenzen;;;grenzte ab;hat abgegrenzt;разграничивать;Man muss sich auch mal **abgrenzen**.;Иногда нужно и отгородиться.
+B2;verb;;abhalten;;er hält ab;hielt ab;hat abgehalten;удерживать, проводить (собрание);Das Wetter **hält** mich nicht vom Joggen **ab**.;Погода не мешает мне бегать.
+B2;verb;;ablenken;;;lenkte ab;hat abgelenkt;отвлекать;Das Handy **lenkt** mich beim Lernen **ab**.;Телефон отвлекает меня от учёбы.
+B2;verb;;abraten;;er rät ab;riet ab;hat abgeraten;отговаривать;Ich **rate** dir davon **ab**.;Я тебе это не советую.
+B2;verb;;absehen;;er sieht ab;sah ab;hat abgesehen;предвидеть, не учитывать;Das Ende ist noch nicht **abzusehen**.;Конца пока не видно.
+B2;verb;;absichern;;;sicherte ab;hat abgesichert;страховать, обеспечивать;Wir sollten uns finanziell **absichern**.;Нам следует финансово подстраховаться.
+B2;verb;;abstürzen;;;stürzte ab;ist abgestürzt;разбиться (падая), зависнуть (о компьютере);Mein Computer ist schon wieder **abgestürzt**.;Мой компьютер снова завис.
+B2;verb;;abwägen;;;wog ab;hat abgewogen;взвешивать (за и против);Wir müssen die Vor- und Nachteile **abwägen**.;Нам нужно взвесить все за и против.
+B2;verb;;abwechseln;;;wechselte ab;hat abgewechselt;чередоваться;Wir **wechseln** uns beim Fahren **ab**.;Мы по очереди ведём машину.
+B2;verb;;anfallen;;er fällt an;fiel an;ist angefallen;возникать (о расходах);Es **fallen** keine zusätzlichen Kosten **an**.;Дополнительных расходов не возникает.
+B2;verb;;anfertigen;;;fertigte an;hat angefertigt;изготавливать;Ich lasse ein Kleid **anfertigen**.;Мне шьют платье на заказ.
+B2;verb;;angehen;;;ging an;ist angegangen;касаться, браться (за дело);Das **geht** dich nichts **an**!;Это тебя не касается!
+B2;verb;;sich angewöhnen;;;gewöhnte sich an;hat sich angewöhnt;приобрести привычку;Ich habe **mir angewöhnt**, früh aufzustehen.;Я привык рано вставать.
+B2;verb;;sich abgewöhnen;;;gewöhnte sich ab;hat sich abgewöhnt;отвыкнуть, бросить (привычку);Ich habe **mir** das Rauchen **abgewöhnt**.;Я бросил курить.
+B2;verb;;anlehnen;;;lehnte an;hat angelehnt;прислонять;**Lehn** das Fahrrad an die Wand.;Прислони велосипед к стене.
+B2;verb;;anmerken;;;merkte an;hat angemerkt;замечать, делать замечание;Ich möchte noch etwas **anmerken**.;Я хотел бы ещё кое-что заметить.
+B2;verb;;anschaffen;;;schaffte an;hat angeschafft;приобретать;Wir haben uns ein neues Auto **angeschafft**.;Мы приобрели новую машину.
+B2;verb;;anschließen;;;schloss an;hat angeschlossen;подключать, присоединяться;Kannst du den Drucker **anschließen**?;Можешь подключить принтер?
+B2;verb;;ansteigen;;;stieg an;ist angestiegen;расти, подниматься;Die Temperaturen **steigen** weiter **an**.;Температура продолжает расти.
+B2;verb;;anstoßen;;er stößt an;stieß an;hat angestoßen;чокаться, толкать, инициировать;Lasst uns auf das neue Jahr **anstoßen**!;Давайте выпьем за Новый год!
+B2;verb;;antreten;;er tritt an;trat an;hat angetreten;приступать, выступать;Er **tritt** seine neue Stelle im Mai **an**.;Он приступает к новой работе в мае.
+B2;verb;;anvertrauen;;;vertraute an;hat anvertraut;доверять (что-то кому-то);Sie hat mir ein Geheimnis **anvertraut**.;Она доверила мне тайну.
+B2;verb;;aufbewahren;;;bewahrte auf;hat aufbewahrt;хранить;Bitte **bewahren** Sie die Quittung gut **auf**.;Пожалуйста, хорошо сохраните квитанцию.
+B2;verb;;aufbringen;;;brachte auf;hat aufgebracht;собирать (средства), находить (силы);Ich kann das Geld nicht **aufbringen**.;Я не могу собрать эти деньги.
+B2;verb;;aufführen;;;führte auf;hat aufgeführt;ставить (спектакль), перечислять;Das Theater **führt** ein neues Stück **auf**.;Театр ставит новую пьесу.
+B2;verb;;aufgreifen;;;griff auf;hat aufgegriffen;подхватывать (идею);Ich möchte Ihre Idee **aufgreifen**.;Я хотел бы подхватить вашу идею.
+B2;verb;;aufheitern;;;heiterte auf;hat aufgeheitert;развеселить, проясниться;Der Witz hat mich **aufgeheitert**.;Шутка меня развеселила.
+B2;verb;;aufholen;;;holte auf;hat aufgeholt;наверстывать;Ich muss den Stoff **aufholen**.;Мне нужно наверстать материал.
+B2;verb;;auflisten;;;listete auf;hat aufgelistet;перечислять, составлять список;Bitte **listen** Sie alle Kosten **auf**.;Пожалуйста, перечислите все расходы.
+B2;verb;;aufmuntern;;;munterte auf;hat aufgemuntert;подбодрить;Ich wollte dich nur **aufmuntern**.;Я просто хотел тебя подбодрить.
+B2;verb;;aufrufen;;;rief auf;hat aufgerufen;вызывать, призывать;Die Partei **ruft** zum Protest **auf**.;Партия призывает к протесту.
+B2;verb;;aufschieben;;;schob auf;hat aufgeschoben;откладывать;**Schieb** die Arbeit nicht immer **auf**!;Не откладывай всё время работу!
+B2;verb;;auftauchen;;;tauchte auf;ist aufgetaucht;появляться, всплывать;Plötzlich ist er wieder **aufgetaucht**.;Вдруг он снова объявился.
+B2;verb;;auftreten;;er tritt auf;trat auf;ist aufgetreten;выступать, возникать;Die Band **tritt** heute Abend **auf**.;Группа выступает сегодня вечером.
+B2;verb;;aufwenden;;;wandte auf;hat aufgewandt;затрачивать;Wir haben viel Zeit **aufgewandt**.;Мы затратили много времени.
+B2;verb;;ausbrechen;;er bricht aus;brach aus;ist ausgebrochen;вспыхивать, вырываться;Im Wald ist ein Feuer **ausgebrochen**.;В лесу вспыхнул пожар.
+B2;verb;;ausdenken;;;dachte aus;hat ausgedacht;придумывать (sich);Das hast du dir nur **ausgedacht**!;Ты это просто выдумал!
+B2;verb;;ausfallen;;er fällt aus;fiel aus;ist ausgefallen;отменяться, выходить из строя;Der Unterricht **fällt** heute **aus**.;Занятия сегодня отменяются.
+B2;verb;;ausführen;;;führte aus;hat ausgeführt;выполнять, выгуливать;Er **führt** jeden Abend den Hund **aus**.;Он каждый вечер выгуливает собаку.
+B2;verb;;ausgrenzen;;;grenzte aus;hat ausgegrenzt;исключать, изолировать;Niemand sollte **ausgegrenzt** werden.;Никого не следует исключать из общества.
+B2;verb;;aushalten;;er hält aus;hielt aus;hat ausgehalten;выдерживать;Ich kann den Lärm nicht mehr **aushalten**.;Я больше не могу выносить этот шум.
+B2;verb;;auskommen;;;kam aus;ist ausgekommen;обходиться, ладить;Wir **kommen** mit dem Geld gut **aus**.;Нам хватает денег.
+B2;verb;;auslachen;;;lachte aus;hat ausgelacht;высмеивать;Sie haben ihn **ausgelacht**.;Они его высмеяли.
+B2;verb;;auslassen;;er lässt aus;ließ aus;hat ausgelassen;пропускать;Du hast ein Wort **ausgelassen**.;Ты пропустил слово.
+B2;verb;;ausrechnen;;;rechnete aus;hat ausgerechnet;вычислять;Kannst du das schnell **ausrechnen**?;Можешь быстро это подсчитать?
+B2;verb;;ausreden;;;redete aus;hat ausgeredet;договорить;Lass mich bitte **ausreden**!;Дай мне, пожалуйста, договорить!
+B2;verb;;ausschließen;;;schloss aus;hat ausgeschlossen;исключать;Das kann ich nicht **ausschließen**.;Я не могу этого исключить.
+B2;verb;;ausstatten;;;stattete aus;hat ausgestattet;оснащать;Die Küche ist modern **ausgestattet**.;Кухня современно оборудована.
+B2;verb;;aussterben;;er stirbt aus;starb aus;ist ausgestorben;вымирать;Viele Tierarten sind **ausgestorben**.;Многие виды животных вымерли.
+B2;verb;;austauschen;;;tauschte aus;hat ausgetauscht;обмениваться, заменять;Wir **tauschen** Erfahrungen **aus**.;Мы обмениваемся опытом.
+B2;verb;;auswandern;;;wanderte aus;ist ausgewandert;эмигрировать;Sie sind nach Kanada **ausgewandert**.;Они эмигрировали в Канаду.
+B2;verb;;auswerten;;;wertete aus;hat ausgewertet;анализировать, оценивать;Wir **werten** die Umfrage **aus**.;Мы анализируем опрос.
+B2;verb;;beibringen;;;brachte bei;hat beigebracht;учить, обучать;Mein Vater hat mir Schwimmen **beigebracht**.;Папа научил меня плавать.
+B2;verb;;beichten;;;beichtete;hat gebeichtet;признаваться, исповедоваться;Ich muss dir etwas **beichten**.;Мне нужно тебе кое в чём признаться.
+B2;verb;;beitreten;;er tritt bei;trat bei;ist beigetreten;вступать (в организацию);Er ist dem Verein **beigetreten**.;Он вступил в клуб.
+B2;verb;;bekämpfen;;;bekämpfte;hat bekämpft;бороться;Wir müssen die Armut **bekämpfen**.;Мы должны бороться с бедностью.
+B2;verb;;bekanntgeben;;er gibt bekannt;gab bekannt;hat bekanntgegeben;объявлять;Die Ergebnisse werden morgen **bekanntgegeben**.;Результаты объявят завтра.
+B2;verb;;belästigen;;;belästigte;hat belästigt;докучать, приставать;Bitte **belästigen** Sie mich nicht!;Пожалуйста, не приставайте ко мне!
+B2;verb;;beleidigen;;;beleidigte;hat beleidigt;оскорблять;Er hat mich **beleidigt**.;Он меня оскорбил.
+B2;verb;;beneiden;;;beneidete;hat beneidet;завидовать;Ich **beneide** dich um deinen Job.;Я завидую твоей работе.
+B2;verb;;berechnen;;;berechnete;hat berechnet;рассчитывать, начислять;Wir **berechnen** keine Gebühr.;Мы не взимаем плату.
+B2;verb;;bereuen;;;bereute;hat bereut;сожалеть, раскаиваться;Ich **bereue** nichts.;Я ни о чём не жалею.
+B2;verb;;besiegen;;;besiegte;hat besiegt;побеждать (кого-то);Sie haben den Gegner **besiegt**.;Они победили соперника.
+B2;verb;;beteiligen;;;beteiligte;hat beteiligt;привлекать к участию;Alle Mitarbeiter wurden am Gewinn **beteiligt**.;Все сотрудники получили долю прибыли.
+B2;verb;;bewahren;;;bewahrte;hat bewahrt;сохранять;**Bewahren** Sie Ruhe!;Сохраняйте спокойствие!
+B2;verb;;bezeugen;;;bezeugte;hat bezeugt;свидетельствовать;Das kann ich **bezeugen**.;Я могу это засвидетельствовать.
+B2;verb;;blamieren;;;blamierte;hat blamiert;опозорить (sich — опозориться);Ich habe mich total **blamiert**.;Я полностью опозорился.
+B2;verb;;bremsen;;;bremste;hat gebremst;тормозить;Der Fahrer hat zu spät **gebremst**.;Водитель затормозил слишком поздно.
+B2;verb;;dulden;;;duldete;hat geduldet;терпеть, допускать;Das werde ich nicht **dulden**.;Я этого не потерплю.
+B2;verb;;durchfallen;;er fällt durch;fiel durch;ist durchgefallen;провалиться (на экзамене);Er ist durch die Prüfung **durchgefallen**.;Он провалил экзамен.
+B2;verb;;durchhalten;;er hält durch;hielt durch;hat durchgehalten;выдержать, продержаться;Du musst noch ein bisschen **durchhalten**.;Тебе нужно ещё немного продержаться.
+B2;verb;;durchlesen;;er liest durch;las durch;hat durchgelesen;прочитать (целиком);**Lies** den Vertrag genau **durch**.;Внимательно прочитай договор.
+B2;verb;;durchsuchen;;;durchsuchte;hat durchsucht;обыскивать;Die Polizei hat die Wohnung **durchsucht**.;Полиция обыскала квартиру.
+B2;verb;;einbeziehen;;;bezog ein;hat einbezogen;включать, привлекать;Wir sollten alle Mitarbeiter **einbeziehen**.;Нам следует вовлечь всех сотрудников.
+B2;verb;;einbrechen;;er bricht ein;brach ein;ist eingebrochen;вламываться;Bei uns wurde **eingebrochen**.;К нам вломились.
+B2;verb;;eindringen;;;drang ein;ist eingedrungen;проникать;Wasser ist in den Keller **eingedrungen**.;Вода проникла в подвал.
+B2;verb;;einleiten;;;leitete ein;hat eingeleitet;начинать, вводить;Die Polizei hat Ermittlungen **eingeleitet**.;Полиция начала расследование.
+B2;verb;;einräumen;;;räumte ein;hat eingeräumt;убирать (на место), признавать;Er hat seinen Fehler **eingeräumt**.;Он признал свою ошибку.
+B2;verb;;einreisen;;;reiste ein;ist eingereist;въезжать (в страну);Er ist mit einem Visum **eingereist**.;Он въехал по визе.
+B2;verb;;einschlagen;;er schlägt ein;schlug ein;hat eingeschlagen;выбирать (путь), разбивать;Sie hat eine Karriere als Ärztin **eingeschlagen**.;Она выбрала карьеру врача.
+B2;verb;;einsehen;;er sieht ein;sah ein;hat eingesehen;осознавать, признавать;Ich **sehe** ein, dass ich mich geirrt habe.;Я признаю, что ошибся.
+B2;verb;;eintreffen;;er trifft ein;traf ein;ist eingetroffen;прибывать;Die Gäste sind **eingetroffen**.;Гости прибыли.
+B2;verb;;einwandern;;;wanderte ein;ist eingewandert;иммигрировать;Seine Eltern sind aus der Türkei **eingewandert**.;Его родители иммигрировали из Турции.
+B2;verb;;empören;;;empörte;hat empört;возмущать;Die Entscheidung hat viele **empört**.;Решение возмутило многих.
+B2;verb;;entfernen;;;entfernte;hat entfernt;удалять;Der Fleck lässt sich nicht **entfernen**.;Пятно не выводится.
+B2;verb;;entgehen;;;entging;ist entgangen;ускользать, упускать;Dir ist nichts **entgangen**.;Ты ничего не пропустил.
+B2;verb;;entkommen;;;entkam;ist entkommen;убегать, ускользать;Der Dieb ist **entkommen**.;Вор сбежал.
+B2;verb;;entlarven;;;entlarvte;hat entlarvt;разоблачать;Der Betrüger wurde **entlarvt**.;Мошенника разоблачили.
+B2;verb;;entschädigen;;;entschädigte;hat entschädigt;компенсировать;Die Firma hat die Kunden **entschädigt**.;Фирма компенсировала убытки клиентам.
+B2;verb;;entwerfen;;er entwirft;entwarf;hat entworfen;разрабатывать, набрасывать;Sie **entwirft** Kleider.;Она создаёт эскизы платьев.
+B2;verb;;erarbeiten;;;erarbeitete;hat erarbeitet;разрабатывать, вырабатывать;Wir haben gemeinsam eine Lösung **erarbeitet**.;Мы вместе выработали решение.
+B2;verb;;erben;;;erbte;hat geerbt;наследовать;Sie hat das Haus von ihrer Oma **geerbt**.;Она унаследовала дом от бабушки.
+B2;verb;;ergreifen;;;ergriff;hat ergriffen;хватать, принимать (меры);Die Regierung **ergreift** Maßnahmen.;Правительство принимает меры.
+B2;verb;;erleiden;;;erlitt;hat erlitten;терпеть, переносить (ущерб);Er hat einen Herzinfarkt **erlitten**.;Он перенёс инфаркт.
+B2;verb;;ermahnen;;;ermahnte;hat ermahnt;увещевать, делать замечание;Der Lehrer **ermahnt** die Schüler.;Учитель делает ученикам замечание.
+B2;verb;;erobern;;;eroberte;hat erobert;завоёвывать;Das Produkt hat den Markt **erobert**.;Продукт завоевал рынок.
+B2;verb;;erschweren;;;erschwerte;hat erschwert;затруднять;Der Regen **erschwert** die Arbeit.;Дождь затрудняет работу.
+B2;verb;;erstatten;;;erstattete;hat erstattet;возмещать;Die Kosten werden **erstattet**.;Расходы будут возмещены.
+B2;verb;;ertragen;;er erträgt;ertrug;hat ertragen;выносить, терпеть;Ich kann den Schmerz nicht **ertragen**.;Я не могу вынести эту боль.
+B2;verb;;erwerben;;er erwirbt;erwarb;hat erworben;приобретать;Er hat ein Grundstück **erworben**.;Он приобрёл земельный участок.
+B2;verb;;erziehen;;;erzog;hat erzogen;воспитывать;Sie hat ihre Kinder allein **erzogen**.;Она воспитала детей одна.
+B2;verb;;fälschen;;;fälschte;hat gefälscht;подделывать;Der Pass war **gefälscht**.;Паспорт был поддельным.
+B2;verb;;festlegen;;;legte fest;hat festgelegt;устанавливать, определять;Wir müssen einen Termin **festlegen**.;Нам нужно назначить дату.
+B2;verb;;festnehmen;;er nimmt fest;nahm fest;hat festgenommen;задерживать, арестовывать;Die Polizei hat den Dieb **festgenommen**.;Полиция задержала вора.
+B2;verb;;fliehen;;;floh;ist geflohen;бежать, спасаться бегством;Sie sind vor dem Krieg **geflohen**.;Они бежали от войны.
+B2;verb;;formulieren;;;formulierte;hat formuliert;формулировать;Wie soll ich das **formulieren**?;Как мне это сформулировать?
+B2;verb;;fürchten;;;fürchtete;hat gefürchtet;бояться;Ich **fürchte**, du hast recht.;Боюсь, ты прав.
+B2;verb;;gedenken;;;gedachte;hat gedacht;чтить память;Wir **gedenken** der Opfer.;Мы чтим память жертв.
+B2;verb;;gehorchen;;;gehorchte;hat gehorcht;слушаться;Der Hund **gehorcht** aufs Wort.;Собака слушается с полуслова.
+B2;verb;;gelingen;;;gelang;ist gelungen;удаваться;Der Kuchen ist mir gut **gelungen**.;Пирог мне удался.
+B2;verb;;genehmigen;;;genehmigte;hat genehmigt;разрешать, утверждать;Mein Urlaub wurde **genehmigt**.;Мой отпуск утвердили.
+B2;verb;;gönnen;;;gönnte;hat gegönnt;не жалеть, позволить (себе);**Gönn** dir mal eine Pause!;Позволь себе отдохнуть!
+B2;verb;;haften;;;haftete;hat gehaftet;нести ответственность;Eltern **haften** für ihre Kinder.;Родители несут ответственность за детей.
+B2;verb;;herausfinden;;;fand heraus;hat herausgefunden;выяснять;Ich habe **herausgefunden**, wer das war.;Я выяснил, кто это был.
+B2;verb;;herausfordern;;;forderte heraus;hat herausgefordert;бросать вызов;Die Aufgabe **fordert** mich **heraus**.;Задача бросает мне вызов.
+B2;verb;;hervorrufen;;;rief hervor;hat hervorgerufen;вызывать;Das Medikament kann Allergien **hervorrufen**.;Лекарство может вызвать аллергию.
+B2;verb;;hinnehmen;;er nimmt hin;nahm hin;hat hingenommen;мириться, принимать;Das kann ich nicht einfach **hinnehmen**.;С этим я не могу просто смириться.
+B2;verb;;hinterfragen;;;hinterfragte;hat hinterfragt;подвергать сомнению;Man sollte alles kritisch **hinterfragen**.;Всё нужно критически осмысливать.
+B2;verb;;klarstellen;;;stellte klar;hat klargestellt;прояснять, уточнять;Ich möchte etwas **klarstellen**.;Я хочу кое-что прояснить.
+B2;verb;;kürzen;;;kürzte;hat gekürzt;сокращать, урезать;Das Budget wurde **gekürzt**.;Бюджет урезали.
+B2;verb;;lästern;;;lästerte;hat gelästert;сплетничать, злословить;Sie **lästern** über den Chef.;Они злословят о начальнике.
+B2;verb;;loben;;;lobte;hat gelobt;хвалить;Der Chef hat mich **gelobt**.;Начальник меня похвалил.
+B2;verb;;meiden;;;mied;hat gemieden;избегать;Er **meidet** große Menschenmengen.;Он избегает больших скоплений людей.
+B2;verb;;missbrauchen;;;missbrauchte;hat missbraucht;злоупотреблять;Er hat ihr Vertrauen **missbraucht**.;Он злоупотребил её доверием.
+B2;verb;;missverstehen;;;missverstand;hat missverstanden;неправильно понять;Du hast mich **missverstanden**.;Ты меня неправильно понял.
+B2;verb;;motivieren;;;motivierte;hat motiviert;мотивировать;Der Trainer **motiviert** das Team.;Тренер мотивирует команду.
+B2;verb;;nachgeben;;er gibt nach;gab nach;hat nachgegeben;уступать;Am Ende hat er **nachgegeben**.;В конце концов он уступил.
+B2;verb;;nachholen;;;holte nach;hat nachgeholt;наверстывать;Wir **holen** die Feier nächste Woche **nach**.;Мы отметим праздник на следующей неделе.
+B2;verb;;nachlassen;;er lässt nach;ließ nach;hat nachgelassen;ослабевать;Die Schmerzen **lassen** langsam **nach**.;Боль постепенно стихает.
+B2;verb;;nachvollziehen;;;vollzog nach;hat nachvollzogen;понимать, прослеживать;Das kann ich gut **nachvollziehen**.;Я могу это хорошо понять.
+B2;verb;;offenbaren;;;offenbarte;hat offenbart;раскрывать, обнаруживать;Er hat mir seine Gefühle **offenbart**.;Он открыл мне свои чувства.
+B2;verb;;optimieren;;;optimierte;hat optimiert;оптимизировать;Wir müssen die Prozesse **optimieren**.;Нам нужно оптимизировать процессы.
+B2;verb;;plaudern;;;plauderte;hat geplaudert;болтать;Wir haben stundenlang **geplaudert**.;Мы болтали часами.
+B2;verb;;prägen;;;prägte;hat geprägt;формировать, оказывать влияние;Die Kindheit **prägt** den Menschen.;Детство формирует человека.
+B2;verb;;präsentieren;;;präsentierte;hat präsentiert;представлять;Sie **präsentiert** die Ergebnisse.;Она представляет результаты.
+B2;verb;;provozieren;;;provozierte;hat provoziert;провоцировать;Lass dich nicht **provozieren**!;Не поддавайся на провокации!
+B2;verb;;rauben;;;raubte;hat geraubt;грабить, отнимать;Der Lärm **raubt** mir den Schlaf.;Шум лишает меня сна.
+B2;verb;;rechtfertigen;;;rechtfertigte;hat gerechtfertigt;оправдывать;Das lässt sich nicht **rechtfertigen**.;Этому нет оправдания.
+B2;verb;;reklamieren;;;reklamierte;hat reklamiert;предъявлять претензию;Ich möchte diese Ware **reklamieren**.;Я хочу предъявить претензию по этому товару.
+B2;verb;;renovieren;;;renovierte;hat renoviert;ремонтировать;Wir **renovieren** das Bad.;Мы ремонтируем ванную.
+B2;verb;;resultieren;;;resultierte;hat resultiert;вытекать, следовать;Daraus **resultieren** neue Probleme.;Из этого вытекают новые проблемы.
+B2;verb;;schonen;;;schonte;hat geschont;беречь, щадить;Sie sollten Ihr Knie **schonen**.;Вам следует беречь колено.
+B2;verb;;sinken;;;sank;ist gesunken;снижаться, тонуть;Die Preise sind **gesunken**.;Цены снизились.
+B2;verb;;spenden;;;spendete;hat gespendet;жертвовать;Wir **spenden** Geld für Kinder in Not.;Мы жертвуем деньги нуждающимся детям.
+B2;verb;;spüren;;;spürte;hat gespürt;чувствовать, ощущать;Ich **spüre** die Kälte.;Я чувствую холод.
+B2;verb;;stärken;;;stärkte;hat gestärkt;укреплять;Sport **stärkt** das Selbstbewusstsein.;Спорт укрепляет уверенность в себе.
+B2;verb;;stürzen;;;stürzte;ist gestürzt;падать, рушиться;Sie ist auf dem Eis **gestürzt**.;Она упала на льду.
+B2;verb;;tolerieren;;;tolerierte;hat toleriert;терпеть, допускать;Wir **tolerieren** keine Gewalt.;Мы не терпим насилия.
+B2;verb;;trösten;;;tröstete;hat getröstet;утешать;Sie **tröstet** ihre Freundin.;Она утешает подругу.
+B2;verb;;übertreiben;;;übertrieb;hat übertrieben;преувеличивать;Du **übertreibst**!;Ты преувеличиваешь!
+B2;verb;;übertragen;;er überträgt;übertrug;hat übertragen;передавать, транслировать;Das Spiel wird live **übertragen**.;Игра транслируется в прямом эфире.
+B2;verb;;überstehen;;;überstand;hat überstanden;переживать, выдерживать;Wir haben die Krise gut **überstanden**.;Мы хорошо пережили кризис.
+B2;verb;;umschulen;;;schulte um;hat umgeschult;переучиваться;Er hat zum Krankenpfleger **umgeschult**.;Он переучился на медбрата.
+B2;verb;;unterdrücken;;;unterdrückte;hat unterdrückt;подавлять;Sie konnte ein Lachen nicht **unterdrücken**.;Она не смогла сдержать смех.
+B2;verb;;unterhalten;;er unterhält;unterhielt;hat unterhalten;содержать, развлекать;Er **unterhält** die Gäste mit Witzen.;Он развлекает гостей шутками.
+B2;verb;;unterlaufen;;er unterläuft;unterlief;ist unterlaufen;случаться (об ошибке);Mir ist ein Fehler **unterlaufen**.;Я допустил ошибку.
+B2;verb;;unterstellen;;;unterstellte;hat unterstellt;приписывать, подчинять;Willst du mir etwa Lügen **unterstellen**?;Ты что, обвиняешь меня во лжи?
+B2;verb;;verdächtigen;;;verdächtigte;hat verdächtigt;подозревать;Man **verdächtigt** ihn des Diebstahls.;Его подозревают в краже.
+B2;verb;;verdoppeln;;;verdoppelte;hat verdoppelt;удваивать;Die Preise haben sich **verdoppelt**.;Цены удвоились.
+B2;verb;;vereinbaren;;;vereinbarte;hat vereinbart;договариваться, согласовывать;Wir haben einen Termin **vereinbart**.;Мы договорились о встрече.
+B2;verb;;vereinfachen;;;vereinfachte;hat vereinfacht;упрощать;Das neue System **vereinfacht** die Arbeit.;Новая система упрощает работу.
+B2;verb;;verfassen;;;verfasste;hat verfasst;составлять, сочинять;Er hat einen Brief **verfasst**.;Он составил письмо.
+B2;verb;;verfolgen;;;verfolgte;hat verfolgt;преследовать, следить;Ich **verfolge** die Nachrichten.;Я слежу за новостями.
+B2;verb;;vergeben;;er vergibt;vergab;hat vergeben;прощать, распределять;Ich habe ihm **vergeben**.;Я его простил.
+B2;verb;;verhaften;;;verhaftete;hat verhaftet;арестовывать;Der Täter wurde **verhaftet**.;Преступник был арестован.
+B2;verb;;verkürzen;;;verkürzte;hat verkürzt;сокращать;Die Arbeitszeit wurde **verkürzt**.;Рабочее время сократили.
+B2;verb;;verlaufen;;er verläuft;verlief;ist verlaufen;проходить, протекать;Die Operation ist gut **verlaufen**.;Операция прошла хорошо.
+B2;verb;;sich verlaufen;;er verläuft sich;verlief sich;hat sich verlaufen;заблудиться;Wir haben **uns** im Wald **verlaufen**.;Мы заблудились в лесу.
+B2;verb;;verleihen;;;verlieh;hat verliehen;присуждать, давать напрокат;Ihm wurde ein Preis **verliehen**.;Ему присудили премию.
+B2;verb;;vermehren;;;vermehrte;hat vermehrt;увеличивать, размножаться;Die Bakterien **vermehren** sich schnell.;Бактерии быстро размножаются.
+B2;verb;;versagen;;;versagte;hat versagt;отказывать, терпеть неудачу;Die Bremsen haben **versagt**.;Отказали тормоза.
+B2;verb;;versäumen;;;versäumte;hat versäumt;пропускать, упускать;Ich habe den Termin **versäumt**.;Я пропустил встречу.
+B2;verb;;verschwenden;;;verschwendete;hat verschwendet;тратить впустую;**Verschwende** keine Zeit!;Не трать время впустую!
+B2;verb;;versöhnen;;;versöhnte;hat versöhnt;мирить (sich — помириться);Die beiden haben sich wieder **versöhnt**.;Они снова помирились.
+B2;verb;;verstärken;;;verstärkte;hat verstärkt;усиливать;Wir müssen das Team **verstärken**.;Нам нужно усилить команду.
+B2;verb;;verwechseln;;;verwechselte;hat verwechselt;путать;Ich **verwechsle** die Zwillinge immer.;Я всегда путаю близнецов.
+B2;verb;;verzögern;;;verzögerte;hat verzögert;задерживать, затягивать;Die Lieferung **verzögert** sich.;Доставка задерживается.
+B2;verb;;vorantreiben;;;trieb voran;hat vorangetrieben;продвигать;Wir müssen das Projekt **vorantreiben**.;Нам нужно продвигать проект.
+B2;verb;;vorausgehen;;;ging voraus;ist vorausgegangen;предшествовать, идти впереди;Dem Streit **ging** ein Missverständnis **voraus**.;Ссоре предшествовало недоразумение.
+B2;verb;;vorsehen;;er sieht vor;sah vor;hat vorgesehen;предусматривать;Das ist im Plan nicht **vorgesehen**.;Это не предусмотрено планом.
+B2;verb;;wagen;;;wagte;hat gewagt;осмеливаться, рисковать;Wer nicht **wagt**, der nicht gewinnt.;Кто не рискует, тот не пьёт шампанского.
+B2;verb;;weiterleiten;;;leitete weiter;hat weitergeleitet;пересылать;Ich **leite** dir die E-Mail **weiter**.;Я перешлю тебе письмо.
+B2;verb;;wiederherstellen;;;stellte wieder her;hat wiederhergestellt;восстанавливать;Die Daten konnten **wiederhergestellt** werden.;Данные удалось восстановить.
+B2;verb;;zurücktreten;;er tritt zurück;trat zurück;ist zurückgetreten;уходить в отставку, отступать;Der Minister ist **zurückgetreten**.;Министр ушёл в отставку.
+B2;verb;;zusammenbrechen;;er bricht zusammen;brach zusammen;ist zusammengebrochen;рушиться, падать без сил;Das System ist **zusammengebrochen**.;Система рухнула.
+B2;verb;;zustande kommen;;;kam zustande;ist zustande gekommen;состояться, осуществиться;Der Vertrag ist nicht **zustande gekommen**.;Договор не был заключён.
+B2;verb;;zwingen;;;zwang;hat gezwungen;принуждать;Niemand kann dich dazu **zwingen**.;Никто не может тебя заставить.
+B2;noun;die;Abenteuerlust;-;;;;жажда приключений;Seine **Abenteuerlust** ist groß.;У него сильная жажда приключений.
+B2;noun;der;Abgrund;Abgründe;;;;пропасть;Das Auto stand kurz vor dem **Abgrund**.;Машина стояла у самого края пропасти.
+B2;noun;die;Abkürzung;Abkürzungen;;;;сокращение, короткий путь;Wir nehmen eine **Abkürzung** durch den Park.;Мы срежем путь через парк.
+B2;noun;die;Ablenkung;Ablenkungen;;;;отвлечение;Ich brauche ein bisschen **Ablenkung**.;Мне нужно немного отвлечься.
+B2;noun;der;Absturz;Abstürze;;;;падение, крушение;Bei dem **Absturz** gab es keine Überlebenden.;При крушении никто не выжил.
+B2;noun;die;Anfrage;Anfragen;;;;запрос;Vielen Dank für Ihre **Anfrage**.;Спасибо за ваш запрос.
+B2;noun;die;Angelegenheit;Angelegenheiten;;;;дело, вопрос;Das ist meine private **Angelegenheit**.;Это моё личное дело.
+B2;noun;der;Anhang;Anhänge;;;;приложение (к письму);Die Datei finden Sie im **Anhang**.;Файл вы найдёте во вложении.
+B2;noun;der;Anhänger;Anhänger;;;;сторонник, прицеп, брелок;Er ist ein **Anhänger** dieser Partei.;Он сторонник этой партии.
+B2;noun;die;Anlage;Anlagen;;;;установка, сооружение, приложение;Die **Anlage** wird gerade gebaut.;Сооружение сейчас строится.
+B2;noun;die;Anmerkung;Anmerkungen;;;;замечание, примечание;Haben Sie noch **Anmerkungen**?;У вас ещё есть замечания?
+B2;noun;die;Anschaffung;Anschaffungen;;;;приобретение, покупка;Das Auto war eine teure **Anschaffung**.;Машина была дорогой покупкой.
+B2;noun;der;Anschlag;Anschläge;;;;теракт, покушение;Bei dem **Anschlag** wurden viele verletzt.;При теракте многие пострадали.
+B2;noun;die;Ansprache;Ansprachen;;;;речь, обращение;Der Präsident hält eine **Ansprache**.;Президент выступает с обращением.
+B2;noun;der;Ansprechpartner;Ansprechpartner;;;;контактное лицо;Wer ist mein **Ansprechpartner**?;Кто моё контактное лицо?
+B2;noun;der;Anwohner;Anwohner;;;;житель (окрестности);Die **Anwohner** beschweren sich über den Lärm.;Местные жители жалуются на шум.
+B2;noun;der;Applaus;-;;;;аплодисменты;Es gab großen **Applaus**.;Были бурные аплодисменты.
+B2;noun;die;Aufnahme;Aufnahmen;;;;приём, запись, снимок;Die **Aufnahme** in den Verein ist kostenlos.;Вступление в клуб бесплатное.
+B2;noun;die;Aufregung;Aufregungen;;;;волнение;Vor lauter **Aufregung** konnte ich nicht schlafen.;От волнения я не мог заснуть.
+B2;noun;der;Ausblick;Ausblicke;;;;вид, перспектива;Von hier hat man einen tollen **Ausblick**.;Отсюда открывается потрясающий вид.
+B2;noun;der;Ausfall;Ausfälle;;;;отмена, выход из строя;Wegen eines **Ausfalls** fährt der Zug nicht.;Из-за неисправности поезд не идёт.
+B2;noun;der;Auslöser;Auslöser;;;;причина, спусковой механизм;Der **Auslöser** des Streits war eine Kleinigkeit.;Поводом для ссоры стала мелочь.
+B2;noun;die;Ausrüstung;Ausrüstungen;;;;снаряжение;Für die Wanderung braucht man gute **Ausrüstung**.;Для похода нужно хорошее снаряжение.
+B2;noun;die;Aussicht;Aussichten;;;;вид, перспектива;Die **Aussichten** auf einen Job sind gut.;Перспективы найти работу хорошие.
+B2;noun;die;Ausstrahlung;Ausstrahlungen;;;;обаяние, трансляция;Sie hat eine tolle **Ausstrahlung**.;У неё потрясающее обаяние.
+B2;noun;der;Austausch;-;;;;обмен;Der **Austausch** mit Kollegen ist wichtig.;Обмен опытом с коллегами важен.
+B2;noun;die;Bedienung;Bedienungen;;;;обслуживание, официант(ка);Die **Bedienung** war sehr freundlich.;Обслуживание было очень приветливым.
+B2;noun;die;Begleitung;Begleitungen;;;;сопровождение;Kinder dürfen nur in **Begleitung** Erwachsener kommen.;Дети могут приходить только в сопровождении взрослых.
+B2;noun;der;Bekanntenkreis;Bekanntenkreise;;;;круг знакомых;In meinem **Bekanntenkreis** gibt es viele Ärzte.;Среди моих знакомых много врачей.
+B2;noun;die;Beratungsstelle;Beratungsstellen;;;;консультационный центр;Wenden Sie sich an eine **Beratungsstelle**.;Обратитесь в консультационный центр.
+B2;noun;die;Berufserfahrung;Berufserfahrungen;;;;опыт работы;Sie hat fünf Jahre **Berufserfahrung**.;У неё пять лет опыта работы.
+B2;noun;der;Bestand;Bestände;;;;наличие, запас;Der **Bestand** an Waren ist gering.;Запас товаров небольшой.
+B2;noun;der;Besuch;Besuche;;;;посещение, визит;Danke für deinen **Besuch**!;Спасибо, что навестил!
+B2;noun;der;Bettler;Bettler;;;;нищий;Ein **Bettler** sitzt vor dem Supermarkt.;Перед супермаркетом сидит нищий.
+B2;noun;die;Bewährung;-;;;;испытательный срок (условный);Er bekam zwei Jahre auf **Bewährung**.;Ему дали два года условно.
+B2;noun;der;Bezug;Bezüge;;;;отношение, связь, наволочка;In **Bezug** auf Ihre Frage kann ich sagen ...;Относительно вашего вопроса могу сказать...
+B2;noun;die;Blamage;Blamagen;;;;позор, конфуз;Das war eine echte **Blamage**.;Это был настоящий позор.
+B2;noun;die;Bremse;Bremsen;;;;тормоз;Die **Bremsen** funktionieren nicht.;Тормоза не работают.
+B2;noun;der;Briefwechsel;Briefwechsel;;;;переписка;Wir stehen in regem **Briefwechsel**.;Мы ведём оживлённую переписку.
+B2;noun;der;Buchhalter;Buchhalter;;;;бухгалтер;Der **Buchhalter** prüft die Rechnungen.;Бухгалтер проверяет счета.
+B2;noun;die;Clique;Cliquen;;;;компания (друзей);Am Wochenende treffe ich meine **Clique**.;На выходных я встречаюсь со своей компанией.
+B2;noun;der;Dachboden;Dachböden;;;;чердак;Die alten Sachen sind auf dem **Dachboden**.;Старые вещи на чердаке.
+B2;noun;der;Einbrecher;Einbrecher;;;;взломщик;Die **Einbrecher** haben Schmuck gestohlen.;Взломщики украли украшения.
+B2;noun;die;Einkaufsliste;Einkaufslisten;;;;список покупок;Ich schreibe eine **Einkaufsliste**.;Я составляю список покупок.
+B2;noun;der;Einwand;Einwände;;;;возражение;Gibt es **Einwände**?;Есть возражения?
+B2;noun;der;Empfang;Empfänge;;;;приём, ресепшн;Bitte melden Sie sich am **Empfang**.;Пожалуйста, обратитесь на ресепшн.
+B2;noun;der;Entschluss;Entschlüsse;;;;решение;Ich habe einen **Entschluss** gefasst.;Я принял решение.
+B2;noun;der;Entwurf;Entwürfe;;;;проект, черновик;Das ist nur ein erster **Entwurf**.;Это лишь первый набросок.
+B2;noun;die;Errungenschaft;Errungenschaften;;;;достижение;Das Internet ist eine große **Errungenschaft**.;Интернет — великое достижение.
+B2;noun;der;Fachbereich;Fachbereiche;;;;отрасль, факультет;In welchem **Fachbereich** studierst du?;На каком факультете ты учишься?
+B2;noun;die;Fahrlässigkeit;-;;;;халатность, небрежность;Der Unfall war grobe **Fahrlässigkeit**.;Авария произошла по грубой небрежности.
+B2;noun;die;Fehlentscheidung;Fehlentscheidungen;;;;ошибочное решение;Das war eine klare **Fehlentscheidung**.;Это было явно ошибочное решение.
+B2;noun;die;Feindschaft;Feindschaften;;;;вражда;Zwischen den Familien herrscht **Feindschaft**.;Между семьями царит вражда.
+B2;noun;das;Fernweh;-;;;;тяга к дальним странствиям;Im Winter bekomme ich **Fernweh**.;Зимой меня тянет в дальние края.
+B2;noun;das;Heimweh;-;;;;тоска по дому;Im Ausland hatte ich oft **Heimweh**.;За границей я часто скучал по дому.
+B2;noun;die;Festnahme;Festnahmen;;;;задержание;Die Polizei meldet eine **Festnahme**.;Полиция сообщает о задержании.
+B2;noun;der;Fleck;Flecken;;;;пятно;Auf dem Hemd ist ein **Fleck**.;На рубашке пятно.
+B2;noun;die;Gebrauchsanleitung;Gebrauchsanleitungen;;;;инструкция по применению;Die **Gebrauchsanleitung** ist auf Englisch.;Инструкция на английском.
+B2;noun;der;Gegenwert;Gegenwerte;;;;эквивалент;Sie bekommen den **Gegenwert** in bar.;Вы получите эквивалент наличными.
+B2;noun;die;Gesamtheit;-;;;;совокупность;Die Gesellschaft in ihrer **Gesamtheit** ist betroffen.;Затронуто общество в целом.
+B2;noun;der;Geschäftsführer;Geschäftsführer;;;;директор, управляющий;Der **Geschäftsführer** hat gekündigt.;Директор уволился.
+B2;noun;das;Gewerbe;Gewerbe;;;;промысел, бизнес;Er hat ein **Gewerbe** angemeldet.;Он зарегистрировал предпринимательскую деятельность.
+B2;noun;das;Gleichgewicht;-;;;;равновесие;Ich habe das **Gleichgewicht** verloren.;Я потерял равновесие.
+B2;noun;der;Haushaltsartikel;Haushaltsartikel;;;;хозяйственный товар;Im Keller gibt es **Haushaltsartikel**.;В подвале продаются хозтовары.
+B2;noun;die;Herausforderung;Herausforderungen;;;;вызов, сложная задача;Das ist eine große **Herausforderung**.;Это большой вызов.
+B2;noun;die;Hilfsbereitschaft;-;;;;готовность помочь;Danke für deine **Hilfsbereitschaft**!;Спасибо за готовность помочь!
+B2;noun;der;Hinterhof;Hinterhöfe;;;;задний двор;Die Werkstatt ist im **Hinterhof**.;Мастерская на заднем дворе.
+B2;noun;der;Höhepunkt;Höhepunkte;;;;кульминация, пик;Das Konzert war der **Höhepunkt** des Abends.;Концерт стал кульминацией вечера.
+B2;noun;die;Inhaltsangabe;Inhaltsangaben;;;;краткое изложение;Schreiben Sie eine **Inhaltsangabe**.;Напишите краткое изложение.
+B2;noun;das;Inserat;Inserate;;;;объявление;Ich habe ein **Inserat** aufgegeben.;Я дал объявление.
+B2;noun;das;Jugendamt;Jugendämter;;;;управление по делам молодёжи;Das **Jugendamt** kümmert sich um das Kind.;О ребёнке заботится управление по делам молодёжи.
+B2;noun;die;Kehrseite;Kehrseiten;;;;обратная сторона;Das ist die **Kehrseite** der Medaille.;Это обратная сторона медали.
+B2;noun;die;Kleinigkeit;Kleinigkeiten;;;;мелочь;Das ist nur eine **Kleinigkeit**.;Это всего лишь мелочь.
+B2;noun;das;Klischee;Klischees;;;;клише, стереотип;Das ist doch nur ein **Klischee**.;Это же просто стереотип.
+B2;noun;die;Kommunikationsfähigkeit;-;;;;коммуникабельность;**Kommunikationsfähigkeit** ist im Job wichtig.;Коммуникабельность важна в работе.
+B2;noun;der;Kontoauszug;Kontoauszüge;;;;выписка со счёта;Ich drucke meinen **Kontoauszug** aus.;Я распечатываю выписку со счёта.
+B2;noun;die;Kosmetik;-;;;;косметика;Sie benutzt nur natürliche **Kosmetik**.;Она пользуется только натуральной косметикой.
+B2;noun;der;Kratzer;Kratzer;;;;царапина;Das Auto hat einen **Kratzer**.;На машине царапина.
+B2;noun;der;Kummer;-;;;;горе, печаль;Sie hat **Kummer** mit ihrem Sohn.;У неё горе с сыном.
+B2;noun;der;Kündigungsschutz;-;;;;защита от увольнения;Schwangere haben besonderen **Kündigungsschutz**.;Беременные особо защищены от увольнения.
+B2;noun;der;Lebenspartner;Lebenspartner;;;;спутник жизни;Er lebt mit seinem **Lebenspartner** zusammen.;Он живёт вместе со своим партнёром.
+B2;noun;die;Lieferzeit;Lieferzeiten;;;;срок доставки;Die **Lieferzeit** beträgt drei Tage.;Срок доставки — три дня.
+B2;noun;die;Mehrsprachigkeit;-;;;;многоязычие;**Mehrsprachigkeit** ist ein Vorteil.;Многоязычие — это преимущество.
+B2;noun;die;Mitgliedschaft;Mitgliedschaften;;;;членство;Die **Mitgliedschaft** kostet 50 Euro im Jahr.;Членство стоит 50 евро в год.
+B2;noun;der;Mitmensch;Mitmenschen;;;;ближний;Wir sollten unseren **Mitmenschen** helfen.;Нам следует помогать ближним.
+B2;noun;der;Müllcontainer;Müllcontainer;;;;мусорный контейнер;Der **Müllcontainer** ist voll.;Мусорный контейнер полон.
+B2;noun;die;Nachbarschaftshilfe;-;;;;соседская помощь;**Nachbarschaftshilfe** ist hier sehr verbreitet.;Здесь принято помогать соседям.
+B2;noun;das;Nachsehen;-;;;;оставаться ни с чем;Wer zu spät kommt, hat das **Nachsehen**.;Кто опоздал, тот остался ни с чем.
+B2;noun;die;Nebensache;Nebensachen;;;;второстепенное дело;Geld ist für ihn **Nebensache**.;Деньги для него дело второстепенное.
+B2;noun;der;Neuanfang;Neuanfänge;;;;новое начало;Nach der Trennung wagt sie einen **Neuanfang**.;После расставания она решается начать всё заново.
+B2;noun;die;Niederlage;Niederlagen;;;;поражение;Die Mannschaft hat eine **Niederlage** erlitten.;Команда потерпела поражение.
+B2;noun;der;Notausgang;Notausgänge;;;;запасной выход;Der **Notausgang** ist hinten links.;Запасной выход сзади слева.
+B2;noun;die;Öffnung;Öffnungen;;;;открытие, отверстие;Die **Öffnung** der Grenzen war ein historisches Ereignis.;Открытие границ было историческим событием.
+B2;noun;die;Panik;-;;;;паника;Keine **Panik**!;Без паники!
+B2;noun;der;Pfandautomat;Pfandautomaten;;;;автомат для приёма тары;Ich bringe die Flaschen zum **Pfandautomaten**.;Я отношу бутылки в автомат для тары.
+B2;noun;die;Pflegekraft;Pflegekräfte;;;;сиделка, работник по уходу;Es fehlen **Pflegekräfte** in den Krankenhäusern.;В больницах не хватает медперсонала.
+B2;noun;das;Pflegeheim;Pflegeheime;;;;дом престарелых (с уходом);Die Oma lebt in einem **Pflegeheim**.;Бабушка живёт в доме престарелых.
+B2;noun;die;Postfiliale;Postfilialen;;;;почтовое отделение;Das Paket liegt in der **Postfiliale**.;Посылка лежит в почтовом отделении.
+B2;noun;die;Pünktlichkeit;-;;;;пунктуальность;In Deutschland ist **Pünktlichkeit** sehr wichtig.;В Германии пунктуальность очень важна.
+B2;noun;die;Rache;-;;;;месть;Er sinnt auf **Rache**.;Он замышляет месть.
+B2;noun;der;Ratgeber;Ratgeber;;;;советчик, справочник;Ich habe einen **Ratgeber** für Eltern gekauft.;Я купил справочник для родителей.
+B2;noun;der;Rauch;-;;;;дым;Ich rieche **Rauch**.;Я чувствую запах дыма.
+B2;noun;die;Rechtschreibung;-;;;;правописание;Achte auf die **Rechtschreibung**!;Следи за правописанием!
+B2;noun;die;Rede;Reden;;;;речь;Er hat eine tolle **Rede** gehalten.;Он произнёс отличную речь.
+B2;noun;die;Reihenfolge;Reihenfolgen;;;;порядок, последовательность;Bringen Sie die Sätze in die richtige **Reihenfolge**.;Расставьте предложения в правильном порядке.
+B2;noun;der;Rettungsdienst;Rettungsdienste;;;;служба спасения;Der **Rettungsdienst** war schnell vor Ort.;Служба спасения быстро прибыла на место.
+B2;noun;die;Rückerstattung;Rückerstattungen;;;;возврат (денег);Ich warte noch auf die **Rückerstattung**.;Я ещё жду возврата денег.
+B2;noun;die;Rückmeldung;Rückmeldungen;;;;обратная связь, ответ;Ich warte auf Ihre **Rückmeldung**.;Жду вашего ответа.
+B2;noun;der;Rückweg;Rückwege;;;;обратный путь;Auf dem **Rückweg** kaufe ich Brot.;На обратном пути я куплю хлеб.
+B2;noun;der;Rundgang;Rundgänge;;;;обход, экскурсия;Wir machen einen **Rundgang** durch die Altstadt.;Мы совершаем прогулку по старому городу.
+B2;noun;die;Scheidung;Scheidungen;;;;развод;Nach der **Scheidung** zog er aus.;После развода он съехал.
+B2;noun;das;Schicksal;Schicksale;;;;судьба;Das war **Schicksal**.;Это была судьба.
+B2;noun;der;Schlüsselbund;Schlüsselbunde;;;;связка ключей;Ich habe meinen **Schlüsselbund** verloren.;Я потерял связку ключей.
+B2;noun;die;Schwierigkeit;Schwierigkeiten;;;;трудность;Wir haben einige **Schwierigkeiten**.;У нас есть некоторые трудности.
+B2;noun;die;Selbstbeherrschung;-;;;;самообладание;Er hat die **Selbstbeherrschung** verloren.;Он потерял самообладание.
+B2;noun;das;Selbstvertrauen;-;;;;уверенность в себе;Sport gibt mir **Selbstvertrauen**.;Спорт даёт мне уверенность в себе.
+B2;noun;die;Senkung;Senkungen;;;;снижение;Die Regierung plant eine **Senkung** der Steuern.;Правительство планирует снижение налогов.
+B2;noun;die;Sicherung;Sicherungen;;;;предохранитель, сохранение;Die **Sicherung** ist rausgeflogen.;Выбило пробки.
+B2;noun;die;Skepsis;-;;;;скепсис;Ich sehe das mit **Skepsis**.;Я смотрю на это со скепсисом.
+B2;noun;das;Sonderangebot;Sonderangebote;;;;специальное предложение;Heute gibt es Kaffee im **Sonderangebot**.;Сегодня кофе по специальной цене.
+B2;noun;der;Spender;Spender;;;;донор, жертвователь;Wir suchen **Spender** für das Projekt.;Мы ищем спонсоров для проекта.
+B2;noun;die;Sprechweise;Sprechweisen;;;;манера речи;Seine **Sprechweise** ist sehr schnell.;У него очень быстрая манера речи.
+B2;noun;der;Stadtrand;Stadtränder;;;;окраина города;Wir wohnen am **Stadtrand**.;Мы живём на окраине города.
+B2;noun;die;Steigerung;Steigerungen;;;;повышение, рост;Wir erwarten eine **Steigerung** des Umsatzes.;Мы ожидаем роста оборота.
+B2;noun;die;Stornierung;Stornierungen;;;;отмена (бронирования);Die **Stornierung** ist kostenlos.;Отмена бесплатная.
+B2;noun;die;Störung;Störungen;;;;помеха, неполадка;Es gibt eine **Störung** im Netz.;В сети неполадка.
+B2;noun;die;Strafanzeige;Strafanzeigen;;;;заявление о преступлении;Er hat **Strafanzeige** erstattet.;Он подал заявление о преступлении.
+B2;noun;der;Streitpunkt;Streitpunkte;;;;предмет спора;Das Geld ist der größte **Streitpunkt**.;Деньги — главный предмет спора.
+B2;noun;die;Stromrechnung;Stromrechnungen;;;;счёт за электричество;Die **Stromrechnung** ist sehr hoch.;Счёт за электричество очень высокий.
+B2;noun;die;Tagesmutter;Tagesmütter;;;;няня (дневная);Unser Sohn geht zu einer **Tagesmutter**.;Наш сын ходит к дневной няне.
+B2;noun;der;Teilerfolg;Teilerfolge;;;;частичный успех;Das ist zumindest ein **Teilerfolg**.;По крайней мере, это частичный успех.
+B2;noun;die;Trennung;Trennungen;;;;расставание, разделение;Die **Trennung** war schwer für die Kinder.;Расставание было тяжёлым для детей.
+B2;noun;der;Trost;-;;;;утешение;Das ist ein schwacher **Trost**.;Это слабое утешение.
+B2;noun;die;Übereinstimmung;Übereinstimmungen;;;;совпадение, согласие;Es gibt eine **Übereinstimmung** der Meinungen.;Мнения совпадают.
+B2;noun;der;Übergang;Übergänge;;;;переход;Das ist nur eine Lösung für den **Übergang**.;Это лишь временное решение.
+B2;noun;die;Überlegung;Überlegungen;;;;размышление, соображение;Nach langer **Überlegung** habe ich mich entschieden.;После долгих раздумий я решился.
+B2;noun;die;Übersicht;Übersichten;;;;обзор;Hier ist eine **Übersicht** über die Kosten.;Вот обзор расходов.
+B2;noun;die;Überzeugung;Überzeugungen;;;;убеждение;Das ist meine feste **Überzeugung**.;Это моё твёрдое убеждение.
+B2;noun;der;Umgangston;-;;;;тон общения;Der **Umgangston** im Team ist freundlich.;Тон общения в команде дружелюбный.
+B2;noun;der;Umweg;Umwege;;;;обходной путь;Wir haben einen **Umweg** gemacht.;Мы сделали крюк.
+B2;noun;der;Unfallort;Unfallorte;;;;место происшествия;Die Polizei ist am **Unfallort**.;Полиция на месте происшествия.
+B2;noun;die;Unterbrechung;Unterbrechungen;;;;перерыв, прерывание;Nach einer kurzen **Unterbrechung** geht es weiter.;После короткого перерыва продолжим.
+B2;noun;der;Unterhalt;-;;;;алименты, содержание;Er zahlt **Unterhalt** für seine Kinder.;Он платит алименты на детей.
+B2;noun;die;Unvernunft;-;;;;безрассудство;Das war pure **Unvernunft**.;Это было чистое безрассудство.
+B2;noun;der;Urlaubsantrag;Urlaubsanträge;;;;заявление на отпуск;Ich habe den **Urlaubsantrag** abgegeben.;Я подал заявление на отпуск.
+B2;noun;die;Verabschiedung;Verabschiedungen;;;;проводы, принятие (закона);Die **Verabschiedung** des Gesetzes ist im Juni.;Принятие закона в июне.
+B2;noun;die;Verachtung;-;;;;презрение;Er sah ihn mit **Verachtung** an.;Он посмотрел на него с презрением.
+B2;noun;die;Verbreitung;-;;;;распространение;Die **Verbreitung** des Virus muss gestoppt werden.;Распространение вируса нужно остановить.
+B2;noun;der;Verdienst;Verdienste;;;;заработок;Der **Verdienst** ist nicht schlecht.;Заработок неплохой.
+B2;noun;die;Vereinbarung;Vereinbarungen;;;;соглашение;Wir haben eine **Vereinbarung** getroffen.;Мы заключили соглашение.
+B2;noun;die;Verfügbarkeit;-;;;;наличие, доступность;Die **Verfügbarkeit** der Zimmer prüfen wir sofort.;Наличие номеров мы проверим сразу.
+B2;noun;die;Verkehrsregel;Verkehrsregeln;;;;правило дорожного движения;Halte dich an die **Verkehrsregeln**!;Соблюдай правила дорожного движения!
+B2;noun;die;Verlegenheit;Verlegenheiten;;;;смущение, затруднение;Er geriet in **Verlegenheit**.;Он смутился.
+B2;noun;die;Vermeidung;-;;;;избежание;Zur **Vermeidung** von Fehlern lesen Sie bitte genau.;Чтобы избежать ошибок, читайте внимательно.
+B2;noun;die;Vermittlung;Vermittlungen;;;;посредничество;Die **Vermittlung** der Wohnung kostet Geld.;Посредничество при поиске квартиры стоит денег.
+B2;noun;die;Vernachlässigung;-;;;;пренебрежение;Das ist eine **Vernachlässigung** der Pflicht.;Это пренебрежение обязанностями.
+B2;noun;der;Verstand;-;;;;рассудок, ум;Hast du den **Verstand** verloren?;Ты с ума сошёл?
+B2;noun;das;Versprechen;Versprechen;;;;обещание;Ich halte mein **Versprechen**.;Я держу своё обещание.
+B2;noun;die;Verzweiflung;-;;;;отчаяние;Aus **Verzweiflung** rief sie die Polizei.;В отчаянии она позвонила в полицию.
+B2;noun;die;Vorahnung;Vorahnungen;;;;предчувствие;Ich hatte eine schlechte **Vorahnung**.;У меня было дурное предчувствие.
+B2;noun;der;Vorfall;Vorfälle;;;;инцидент;Der **Vorfall** wird untersucht.;Инцидент расследуется.
+B2;noun;die;Vorfreude;-;;;;предвкушение радости;Die **Vorfreude** auf den Urlaub ist groß.;Я с нетерпением жду отпуска.
+B2;noun;der;Vorgänger;Vorgänger;;;;предшественник;Mein **Vorgänger** hat die Firma verlassen.;Мой предшественник ушёл из фирмы.
+B2;noun;der;Nachfolger;Nachfolger;;;;преемник;Wer wird sein **Nachfolger**?;Кто станет его преемником?
+B2;noun;die;Vorlage;Vorlagen;;;;шаблон, предъявление;Nutzen Sie die **Vorlage** für den Brief.;Используйте шаблон для письма.
+B2;noun;die;Vorliebe;Vorlieben;;;;пристрастие;Er hat eine **Vorliebe** für Schokolade.;У него пристрастие к шоколаду.
+B2;noun;der;Vorrang;-;;;;приоритет;Sicherheit hat **Vorrang**.;Безопасность в приоритете.
+B2;noun;der;Vorsatz;Vorsätze;;;;намерение, решение;Ich habe gute **Vorsätze** fürs neue Jahr.;У меня хорошие планы на новый год.
+B2;noun;die;Vorschrift;Vorschriften;;;;предписание, правило;Das ist gegen die **Vorschriften**.;Это противоречит предписаниям.
+B2;noun;die;Vorstellungskraft;-;;;;воображение;Das übersteigt meine **Vorstellungskraft**.;Это выше моего воображения.
+B2;noun;der;Wartebereich;Wartebereiche;;;;зона ожидания;Bitte warten Sie im **Wartebereich**.;Пожалуйста, подождите в зоне ожидания.
+B2;noun;die;Warteschlange;Warteschlangen;;;;очередь;Die **Warteschlange** ist sehr lang.;Очередь очень длинная.
+B2;noun;der;Wechsel;Wechsel;;;;смена, перемена;Ein **Wechsel** des Jobs kann gut sein.;Смена работы может пойти на пользу.
+B2;noun;der;Wegweiser;Wegweiser;;;;указатель;Folgen Sie dem **Wegweiser**.;Следуйте указателю.
+B2;noun;der;Wettbewerbsvorteil;Wettbewerbsvorteile;;;;конкурентное преимущество;Gute Sprachkenntnisse sind ein **Wettbewerbsvorteil**.;Хорошее знание языков — конкурентное преимущество.
+B2;noun;die;Wiedervereinigung;-;;;;воссоединение;Die **Wiedervereinigung** Deutschlands war 1990.;Воссоединение Германии произошло в 1990 году.
+B2;noun;die;Willkür;-;;;;произвол;Das ist reine **Willkür**.;Это чистый произвол.
+B2;noun;der;Wohnungsmarkt;Wohnungsmärkte;;;;рынок жилья;Der **Wohnungsmarkt** ist angespannt.;Ситуация на рынке жилья напряжённая.
+B2;noun;die;Zärtlichkeit;Zärtlichkeiten;;;;нежность;Kinder brauchen **Zärtlichkeit**.;Детям нужна нежность.
+B2;noun;der;Zeitaufwand;-;;;;затраты времени;Der **Zeitaufwand** ist enorm.;Затраты времени огромны.
+B2;noun;die;Zeitverschwendung;-;;;;пустая трата времени;Das ist reine **Zeitverschwendung**.;Это пустая трата времени.
+B2;noun;der;Zusammenstoß;Zusammenstöße;;;;столкновение;Es gab einen **Zusammenstoß** zwischen zwei Autos.;Произошло столкновение двух машин.
+B2;noun;das;Zuhause;-;;;;дом, родной очаг;Hier ist mein **Zuhause**.;Здесь мой дом.
+B2;noun;die;Zwischenzeit;-;;;;промежуток времени;In der **Zwischenzeit** können Sie einen Kaffee trinken.;Тем временем вы можете выпить кофе.
+B2;verb;;abdecken;;;deckte ab;hat abgedeckt;покрывать, охватывать;Die Versicherung **deckt** alle Schäden **ab**.;Страховка покрывает все повреждения.
+B2;verb;;abfinden;;;fand ab;hat abgefunden;мириться (sich abfinden mit);Ich habe mich damit **abgefunden**.;Я с этим смирился.
+B2;verb;;ablaufen;;er läuft ab;lief ab;ist abgelaufen;истекать, проходить;Mein Visum **läuft** bald **ab**.;Срок моей визы скоро истекает.
+B2;verb;;ablegen;;;legte ab;hat abgelegt;сдавать (экзамен), снимать (одежду);Sie hat die Prüfung erfolgreich **abgelegt**.;Она успешно сдала экзамен.
+B2;verb;;abmelden;;;meldete ab;hat abgemeldet;снимать с регистрации, выписываться;Ich muss mich beim Amt **abmelden**.;Мне нужно сняться с учёта в ведомстве.
+B2;verb;;abreisen;;;reiste ab;ist abgereist;уезжать;Wir **reisen** morgen früh **ab**.;Мы уезжаем завтра утром.
+B2;verb;;abschicken;;;schickte ab;hat abgeschickt;отправлять;Ich habe den Brief schon **abgeschickt**.;Я уже отправил письмо.
+B2;verb;;absetzen;;;setzte ab;hat abgesetzt;высаживать, снимать, отменять;Kannst du mich am Bahnhof **absetzen**?;Можешь высадить меня у вокзала?
+B2;verb;;abspielen;;;spielte ab;hat abgespielt;воспроизводить (sich — происходить);Was hat sich hier **abgespielt**?;Что здесь произошло?
+B2;verb;;anhören;;;hörte an;hat angehört;выслушивать, звучать (sich);Das **hört** sich gut **an**.;Звучит хорошо.
+B2;verb;;anlocken;;;lockte an;hat angelockt;привлекать;Das Fest **lockt** viele Touristen **an**.;Праздник привлекает много туристов.
+B2;verb;;annähern;;;näherte an;hat angenähert;сближать;Die Positionen haben sich **angenähert**.;Позиции сблизились.
+B2;verb;;anrichten;;;richtete an;hat angerichtet;причинять, сервировать;Der Sturm hat großen Schaden **angerichtet**.;Буря причинила большой ущерб.
+B2;verb;;ansammeln;;;sammelte an;hat angesammelt;накапливать;Im Keller hat sich viel Müll **angesammelt**.;В подвале скопилось много мусора.
+B2;verb;;anstecken;;;steckte an;hat angesteckt;заражать;Er hat mich mit der Grippe **angesteckt**.;Он заразил меня гриппом.
+B2;verb;;anweisen;;;wies an;hat angewiesen;поручать, переводить (деньги);Der Chef hat mich **angewiesen**, das zu erledigen.;Начальник поручил мне это сделать.
+B2;verb;;anzweifeln;;;zweifelte an;hat angezweifelt;ставить под сомнение;Niemand **zweifelt** seine Kompetenz **an**.;Никто не сомневается в его компетентности.
+B2;verb;;aufatmen;;;atmete auf;hat aufgeatmet;облегчённо вздохнуть;Nach der Prüfung konnte ich endlich **aufatmen**.;После экзамена я наконец смог вздохнуть свободно.
+B2;verb;;aufbrechen;;er bricht auf;brach auf;ist aufgebrochen;отправляться в путь, взламывать;Wir **brechen** früh am Morgen **auf**.;Мы отправляемся рано утром.
+B2;verb;;auffassen;;;fasste auf;hat aufgefasst;понимать, воспринимать;Wie soll ich das **auffassen**?;Как мне это понимать?
+B2;verb;;aufhalten;;er hält auf;hielt auf;hat aufgehalten;задерживать (sich — находиться);Ich will dich nicht länger **aufhalten**.;Не хочу тебя больше задерживать.
+B2;verb;;aufkommen;;;kam auf;ist aufgekommen;возникать, оплачивать (für);Wer **kommt** für den Schaden **auf**?;Кто возместит ущерб?
+B2;verb;;auflegen;;;legte auf;hat aufgelegt;класть трубку;Er hat einfach **aufgelegt**.;Он просто повесил трубку.
+B2;verb;;aufsuchen;;;suchte auf;hat aufgesucht;посещать, обращаться к;Sie sollten einen Arzt **aufsuchen**.;Вам следует обратиться к врачу.
+B2;verb;;aufteilen;;;teilte auf;hat aufgeteilt;разделять;Wir **teilen** die Arbeit **auf**.;Мы распределяем работу.
+B2;verb;;aufziehen;;;zog auf;hat aufgezogen;растить, заводить;Sie hat drei Kinder allein **aufgezogen**.;Она одна вырастила троих детей.
+B2;verb;;ausdehnen;;;dehnte aus;hat ausgedehnt;расширять, растягивать;Wir haben den Spaziergang **ausgedehnt**.;Мы продлили прогулку.
+B2;verb;;auseinandergehen;;;ging auseinander;ist auseinandergegangen;расходиться;Die Meinungen **gehen** hier **auseinander**.;Мнения здесь расходятся.
+B2;verb;;ausrutschen;;;rutschte aus;ist ausgerutscht;поскользнуться;Ich bin auf dem Eis **ausgerutscht**.;Я поскользнулся на льду.
+B2;verb;;aussprechen;;er spricht aus;sprach aus;hat ausgesprochen;произносить, высказывать;Wie **spricht** man dieses Wort **aus**?;Как произносится это слово?
+B2;verb;;ausstellen;;;stellte aus;hat ausgestellt;выставлять, выдавать (документ);Der Pass wurde 2020 **ausgestellt**.;Паспорт был выдан в 2020 году.
+B2;verb;;auszahlen;;;zahlte aus;hat ausgezahlt;выплачивать, окупаться (sich);Die harte Arbeit hat sich **ausgezahlt**.;Тяжёлый труд окупился.
+B2;verb;;bedrücken;;;bedrückte;hat bedrückt;угнетать;Was **bedrückt** dich?;Что тебя угнетает?
+B2;verb;;befolgen;;;befolgte;hat befolgt;соблюдать, следовать;Bitte **befolgen** Sie die Anweisungen.;Пожалуйста, следуйте указаниям.
+B2;verb;;befragen;;;befragte;hat befragt;опрашивать;Wir haben 1000 Menschen **befragt**.;Мы опросили 1000 человек.
+B2;verb;;begehen;;;beging;hat begangen;совершать (ошибку, преступление);Er hat einen schweren Fehler **begangen**.;Он совершил серьёзную ошибку.
+B2;verb;;beglückwünschen;;;beglückwünschte;hat beglückwünscht;поздравлять;Wir **beglückwünschen** Sie zum Erfolg.;Поздравляем вас с успехом.
+B2;verb;;behindern;;;behinderte;hat behindert;мешать, препятствовать;Der Schnee **behindert** den Verkehr.;Снег мешает движению.
+B2;verb;;beherrschen;;;beherrschte;hat beherrscht;владеть, господствовать;Sie **beherrscht** drei Sprachen.;Она владеет тремя языками.
+B2;verb;;bekennen;;;bekannte;hat bekannt;признавать (sich zu);Er **bekennt** sich zu seinem Fehler.;Он признаёт свою ошибку.
+B2;verb;;beklagen;;;beklagte;hat beklagt;жаловаться (sich);Er **beklagt** sich über den Lärm.;Он жалуется на шум.
+B2;verb;;berufen;;;berief;hat berufen;ссылаться (sich auf);Ich **berufe** mich auf das Gesetz.;Я ссылаюсь на закон.
+B2;verb;;beschaffen;;;beschaffte;hat beschafft;доставать, добывать;Kannst du mir die Unterlagen **beschaffen**?;Можешь достать мне документы?
+B2;verb;;bestehen auf;;;bestand auf;hat bestanden auf;настаивать на;Ich **bestehe auf** einer Erklärung.;Я настаиваю на объяснении.
+B2;verb;;bestehen aus;;;bestand aus;hat bestanden aus;состоять из;Das Team **besteht aus** fünf Personen.;Команда состоит из пяти человек.
+B2;verb;;beten;;;betete;hat gebetet;молиться;Sie **betet** jeden Abend.;Она молится каждый вечер.
+B2;verb;;beunruhigen;;;beunruhigte;hat beunruhigt;беспокоить, тревожить;Die Nachricht **beunruhigt** mich.;Эта новость меня тревожит.
+B2;verb;;bevorstehen;;;stand bevor;hat bevorgestanden;предстоять;Uns **steht** eine schwere Zeit **bevor**.;Нам предстоит тяжёлое время.
+B2;verb;;bewegen;;;bewog;hat bewogen;побуждать;Was hat dich dazu **bewogen**?;Что тебя к этому побудило?
+B2;verb;;bezwingen;;;bezwang;hat bezwungen;одолеть, покорить;Sie haben den Berg **bezwungen**.;Они покорили гору.
+B2;verb;;dämpfen;;;dämpfte;hat gedämpft;приглушать, тушить (на пару);Das Gemüse wird **gedämpft**.;Овощи готовят на пару.
+B2;verb;;darlegen;;;legte dar;hat dargelegt;излагать;Er hat seine Gründe **dargelegt**.;Он изложил свои причины.
+B2;verb;;dokumentieren;;;dokumentierte;hat dokumentiert;документировать;Alle Schritte werden **dokumentiert**.;Все шаги документируются.
+B2;verb;;dringen;;;drang;ist gedrungen;проникать, настаивать;Wasser **drang** durch das Dach.;Вода проникала через крышу.
+B2;verb;;durchschauen;;;durchschaute;hat durchschaut;видеть насквозь;Ich habe dich **durchschaut**!;Я тебя раскусил!
+B2;verb;;einbauen;;;baute ein;hat eingebaut;встраивать;Wir lassen eine neue Küche **einbauen**.;Нам устанавливают новую кухню.
+B2;verb;;eingestehen;;;gestand ein;hat eingestanden;признаваться;Er musste seinen Fehler **eingestehen**.;Ему пришлось признать ошибку.
+B2;verb;;einlösen;;;löste ein;hat eingelöst;выполнять (обещание), обналичивать;Er hat sein Versprechen **eingelöst**.;Он сдержал своё обещание.
+B2;verb;;einprägen;;;prägte ein;hat eingeprägt;запоминать (sich);Ich habe mir den Weg gut **eingeprägt**.;Я хорошо запомнил дорогу.
+B2;verb;;einsammeln;;;sammelte ein;hat eingesammelt;собирать;Der Lehrer **sammelt** die Hefte **ein**.;Учитель собирает тетради.
+B2;verb;;einspringen;;;sprang ein;ist eingesprungen;заменять, подменять;Kannst du morgen für mich **einspringen**?;Можешь завтра меня подменить?
+B2;verb;;einstufen;;;stufte ein;hat eingestuft;классифицировать, определять уровень;Nach dem Test werden Sie **eingestuft**.;После теста вам определят уровень.
+B2;verb;;eintauchen;;;tauchte ein;ist eingetaucht;погружаться;Wir sind in die Kultur **eingetaucht**.;Мы погрузились в культуру.
+B2;verb;;einteilen;;;teilte ein;hat eingeteilt;распределять;Du musst dir die Zeit gut **einteilen**.;Тебе нужно хорошо распределять время.
+B2;verb;;entgegennehmen;;er nimmt entgegen;nahm entgegen;hat entgegengenommen;принимать (заказ, подарок);Wir **nehmen** Ihre Bestellung gern **entgegen**.;Мы с радостью примем ваш заказ.
+B2;verb;;entkräften;;;entkräftete;hat entkräftet;опровергать;Er konnte die Vorwürfe **entkräften**.;Он смог опровергнуть обвинения.
+B2;verb;;erblicken;;;erblickte;hat erblickt;увидеть, заметить;Sie hat ihn in der Menge **erblickt**.;Она заметила его в толпе.
+B2;verb;;erbringen;;;erbrachte;hat erbracht;приносить, предоставлять;Sie müssen einen Nachweis **erbringen**.;Вам нужно предоставить подтверждение.
+B2;verb;;erkunden;;;erkundete;hat erkundet;исследовать, разведывать;Wir **erkunden** die Stadt zu Fuß.;Мы исследуем город пешком.
+B2;verb;;erlassen;;er erlässt;erließ;hat erlassen;издавать (закон), освобождать (от);Die Regierung hat ein neues Gesetz **erlassen**.;Правительство издало новый закон.
+B2;verb;;ermäßigen;;;ermäßigte;hat ermäßigt;снижать (цену);Für Kinder ist der Eintritt **ermäßigt**.;Для детей вход по сниженной цене.
+B2;verb;;erschöpfen;;;erschöpfte;hat erschöpft;истощать;Die Arbeit hat mich völlig **erschöpft**.;Работа меня совершенно вымотала.
+B2;adj;;abgelaufen;;;;;просроченный;Die Milch ist **abgelaufen**.;Молоко просрочено.
+B2;adj;;abstrakt;;;;;абстрактный;Das ist mir zu **abstrakt**.;Это для меня слишком абстрактно.
+B2;adj;;alltagstauglich;;;;;пригодный для повседневной жизни;Die Schuhe sind sehr **alltagstauglich**.;Эта обувь хорошо подходит на каждый день.
+B2;adj;;altmodisch;;;;;старомодный;Das Kleid ist ziemlich **altmodisch**.;Платье довольно старомодное.
+B2;adj;;angeblich;;;;;якобы, мнимый;Er war **angeblich** krank.;Он якобы был болен.
+B2;adj;;angespannt;;;;;напряжённый;Die Lage ist sehr **angespannt**.;Ситуация очень напряжённая.
+B2;adj;;ängstlich;;;;;боязливый, пугливый;Das Kind ist sehr **ängstlich**.;Ребёнок очень пугливый.
+B2;adj;;anonym;;;;;анонимный;Die Umfrage ist **anonym**.;Опрос анонимный.
+B2;adj;;arrogant;;;;;высокомерный;Er wirkt etwas **arrogant**.;Он кажется немного высокомерным.
+B2;adj;;aufdringlich;;;;;навязчивый;Der Verkäufer war sehr **aufdringlich**.;Продавец был очень навязчивым.
+B2;adj;;aufgeschlossen;;;;;открытый, общительный;Sie ist neuen Ideen gegenüber **aufgeschlossen**.;Она открыта новым идеям.
+B2;adj;;aufrichtig;;;;;искренний;Das war eine **aufrichtige** Entschuldigung.;Это было искреннее извинение.
+B2;adj;;ausdrücklich;;;;;категорический, явный;Er hat es **ausdrücklich** verboten.;Он категорически это запретил.
+B2;adj;;aussichtslos;;;;;безнадёжный;Die Lage ist nicht **aussichtslos**.;Ситуация не безнадёжная.
+B2;adj;;authentisch;;;;;подлинный, аутентичный;Das Restaurant bietet **authentische** italienische Küche.;Ресторан предлагает настоящую итальянскую кухню.
+B2;adj;;befreundet;;;;;дружеский, дружащий;Wir sind seit Jahren **befreundet**.;Мы дружим уже много лет.
+B2;adj;;beleidigt;;;;;обиженный;Sie ist **beleidigt**, weil ich nicht angerufen habe.;Она обиделась, потому что я не позвонил.
+B2;adj;;benötigt;;;;;необходимый;Alle **benötigten** Unterlagen liegen vor.;Все необходимые документы имеются.
+B2;adj;;bescheuert;;;;;дурацкий (разг.);Das ist doch **bescheuert**!;Это же дурость!
+B2;adj;;bevorstehend;;;;;предстоящий;Die **bevorstehende** Prüfung macht mir Angst.;Предстоящий экзамен меня пугает.
+B2;adj;;bewölkt;;;;;облачный;Morgen ist es **bewölkt**.;Завтра будет облачно.
+B2;adj;;bitter;;;;;горький;Der Kaffee ist sehr **bitter**.;Кофе очень горький.
+B2;adj;;dauernd;;;;;постоянный, всё время;Er ist **dauernd** am Handy.;Он постоянно в телефоне.
+B2;adj;;dezent;;;;;сдержанный, неброский;Sie trägt ein **dezentes** Make-up.;У неё неброский макияж.
+B2;adj;;diskret;;;;;тактичный, сдержанный;Bitte seien Sie **diskret**.;Пожалуйста, будьте деликатны.
+B2;adj;;durchgehend;;;;;непрерывный;Das Geschäft ist **durchgehend** geöffnet.;Магазин работает без перерыва.
+B2;adj;;eigenartig;;;;;своеобразный, странный;Das ist ein **eigenartiges** Gefühl.;Это странное чувство.
+B2;adj;;eingebildet;;;;;самодовольный, мнимый;Er ist ziemlich **eingebildet**.;Он довольно самодовольный.
+B2;adj;;einseitig;;;;;односторонний;Die Ernährung ist zu **einseitig**.;Питание слишком однообразное.
+B2;adj;;einverstanden;;;;;согласный;Bist du damit **einverstanden**?;Ты с этим согласен?
+B2;adj;;entbehrlich;;;;;необязательный, без чего можно обойтись;Niemand ist **entbehrlich**.;Без каждого не обойтись.
+B2;adj;;erholsam;;;;;благотворный, дающий отдых;Der Urlaub war sehr **erholsam**.;Отпуск был очень хорошим отдыхом.
+B2;adj;;erwünscht;;;;;желательный;Rauchen ist hier nicht **erwünscht**.;Курить здесь нежелательно.
+B2;adj;;exotisch;;;;;экзотический;Ich mag **exotische** Früchte.;Я люблю экзотические фрукты.
+B2;adj;;fahrlässig;;;;;небрежный, халатный;Das war grob **fahrlässig**.;Это была грубая халатность.
+B2;adj;;fällig;;;;;подлежащий оплате, назревший;Die Miete ist am Ersten **fällig**.;Арендную плату нужно внести первого числа.
+B2;adj;;feucht;;;;;влажный, сырой;Der Keller ist sehr **feucht**.;В подвале очень сыро.
+B2;adj;;förmlich;;;;;официальный, формальный;Der Brief ist sehr **förmlich**.;Письмо очень официальное.
+B2;adj;;frech;;;;;дерзкий, наглый;Sei nicht so **frech**!;Не дерзи!
+B2;adj;;fürsorglich;;;;;заботливый;Sie ist eine sehr **fürsorgliche** Mutter.;Она очень заботливая мать.
+B2;adj;;gebildet;;;;;образованный;Er ist ein sehr **gebildeter** Mann.;Он очень образованный человек.
+B2;adj;;geizig;;;;;скупой;Er ist sehr **geizig**.;Он очень скупой.
+B2;adj;;gemischt;;;;;смешанный;Ich habe **gemischte** Gefühle.;У меня смешанные чувства.
+B2;adj;;geschmackvoll;;;;;со вкусом;Die Wohnung ist **geschmackvoll** eingerichtet.;Квартира обставлена со вкусом.
+B2;adj;;gespannt;;;;;в напряжённом ожидании;Ich bin **gespannt**, wie es weitergeht.;Мне интересно, что будет дальше.
+B2;adj;;gewalttätig;;;;;жестокий, склонный к насилию;Er wurde **gewalttätig**.;Он применил насилие.
+B2;adj;;glatt;;;;;гладкий, скользкий;Die Straße ist **glatt**.;Дорога скользкая.
+B2;adj;;gleichberechtigt;;;;;равноправный;Mann und Frau sind **gleichberechtigt**.;Мужчина и женщина равноправны.
+B2;adj;;herzlos;;;;;бессердечный;Wie kannst du so **herzlos** sein?;Как ты можешь быть таким бессердечным?
+B2;adj;;hinreichend;;;;;достаточный;Das ist **hinreichend** bekannt.;Это достаточно известно.
+B2;adj;;illegal;;;;;незаконный;Das ist **illegal**.;Это незаконно.
+B2;adj;;legal;;;;;законный;Ist das überhaupt **legal**?;Это вообще законно?
+B2;adj;;irreführend;;;;;вводящий в заблуждение;Die Werbung ist **irreführend**.;Реклама вводит в заблуждение.
+B2;adj;;kinderfreundlich;;;;;удобный для детей;Das Hotel ist sehr **kinderfreundlich**.;Отель очень удобен для семей с детьми.
+B2;adj;;kleinlich;;;;;мелочный;Sei nicht so **kleinlich**!;Не будь таким мелочным!
+B2;adj;;knapp;;;;;скудный, едва;Das Geld ist **knapp**.;Денег в обрез.
+B2;adj;;kompromissbereit;;;;;готовый к компромиссу;Beide Seiten sind **kompromissbereit**.;Обе стороны готовы к компромиссу.
+B2;adj;;leistungsstark;;;;;мощный, высокопроизводительный;Der Motor ist sehr **leistungsstark**.;Двигатель очень мощный.
+B2;adj;;lösbar;;;;;разрешимый;Das Problem ist **lösbar**.;Проблема разрешима.
+B2;adj;;malerisch;;;;;живописный;Das Dorf ist sehr **malerisch**.;Деревня очень живописная.
+B2;adj;;misstrauisch;;;;;недоверчивый;Er ist allen gegenüber **misstrauisch**.;Он ко всем относится с недоверием.
+B2;adj;;mitfühlend;;;;;сочувствующий;Sie ist sehr **mitfühlend**.;Она очень сочувствующая.
+B2;adj;;nachdenklich;;;;;задумчивый;Der Film hat mich **nachdenklich** gemacht.;Фильм заставил меня задуматься.
+B2;adj;;nachlässig;;;;;небрежный;Er arbeitet sehr **nachlässig**.;Он работает очень небрежно.
+B2;adj;;neidisch;;;;;завистливый;Ich bin ein bisschen **neidisch**.;Я немного завидую.
+B2;adj;;offenherzig;;;;;открытый, откровенный;Sie ist ein **offenherziger** Mensch.;Она открытый человек.
+B2;adj;;planmäßig;;;;;плановый, по расписанию;Der Zug fährt **planmäßig** ab.;Поезд отправляется по расписанию.
+B2;adj;;rätselhaft;;;;;загадочный;Sein Verhalten ist **rätselhaft**.;Его поведение загадочно.
+B2;adj;;rechthaberisch;;;;;упрямо считающий себя правым;Er ist sehr **rechthaberisch**.;Он всегда считает себя правым.
+B2;adj;;reif;;;;;зрелый, спелый;Die Tomaten sind **reif**.;Помидоры спелые.
+B2;adj;;schadenfroh;;;;;злорадный;Sei nicht so **schadenfroh**!;Не злорадствуй!
+B2;adj;;scheinbar;;;;;кажущийся, мнимо;Das Problem ist nur **scheinbar** einfach.;Проблема лишь кажется простой.
+B2;adj;;schlagfertig;;;;;находчивый (в ответах);Sie ist sehr **schlagfertig**.;Она за словом в карман не лезет.
+B2;adj;;selbstkritisch;;;;;самокритичный;Er ist sehr **selbstkritisch**.;Он очень самокритичен.
+B2;adj;;sinnlos;;;;;бессмысленный;Das ist völlig **sinnlos**.;Это совершенно бессмысленно.
+B2;adj;;spürbar;;;;;ощутимый;Die Veränderung ist **spürbar**.;Изменение ощутимо.
+B2;adj;;stur;;;;;упрямый;Er ist so **stur**!;Он такой упрямый!
+B2;adj;;tabu;;;;;запретный;Das Thema ist **tabu**.;Эта тема под запретом.
+B2;adj;;taktvoll;;;;;тактичный;Er hat sehr **taktvoll** reagiert.;Он отреагировал очень тактично.
+B2;adj;;tatkräftig;;;;;деятельный, энергичный;Danke für die **tatkräftige** Unterstützung!;Спасибо за активную поддержку!
+B2;adj;;trostlos;;;;;безотрадный, унылый;Die Gegend ist ziemlich **trostlos**.;Местность довольно унылая.
+B2;adj;;überraschend;;;;;неожиданный;Das kam sehr **überraschend**.;Это было очень неожиданно.
+B2;adj;;überschaubar;;;;;обозримый, небольшой;Die Kosten sind **überschaubar**.;Расходы невелики.
+B2;adj;;umständlich;;;;;обстоятельный, сложный, неудобный;Das ist viel zu **umständlich**.;Это слишком сложно.
+B2;adj;;unbeliebt;;;;;непопулярный;Der neue Chef ist sehr **unbeliebt**.;Новый начальник очень непопулярен.
+B2;adj;;unentschlossen;;;;;нерешительный;Ich bin noch **unentschlossen**.;Я ещё не решил.
+B2;adj;;unersetzlich;;;;;незаменимый;Sie ist für uns **unersetzlich**.;Она для нас незаменима.
+B2;adj;;unvermeidlich;;;;;неизбежный;Ein Streit war **unvermeidlich**.;Ссоры было не избежать.
+B2;adj;;unverschämt;;;;;бессовестный, наглый;Das ist eine **unverschämte** Frage!;Это наглый вопрос!
+B2;adj;;unwahrscheinlich;;;;;маловероятный;Das ist sehr **unwahrscheinlich**.;Это очень маловероятно.
+B2;adj;;verlässlich;;;;;надёжный;Er ist ein **verlässlicher** Partner.;Он надёжный партнёр.
+B2;adj;;verpflichtet;;;;;обязанный;Sie sind **verpflichtet**, das zu melden.;Вы обязаны сообщить об этом.
+B2;adj;;verschwiegen;;;;;молчаливый, умеющий хранить тайну;Er ist sehr **verschwiegen**.;Он умеет хранить тайны.
+B2;adj;;verwöhnt;;;;;избалованный;Das Kind ist sehr **verwöhnt**.;Ребёнок очень избалован.
+B2;adj;;wohlhabend;;;;;состоятельный;Die Familie ist sehr **wohlhabend**.;Семья очень состоятельная.
+B2;adj;;zeitaufwendig;;;;;времязатратный;Das ist sehr **zeitaufwendig**.;Это занимает много времени.
+B2;adj;;zerbrechlich;;;;;хрупкий;Vorsicht, das ist **zerbrechlich**!;Осторожно, это хрупкое!
+B2;adj;;zugänglich;;;;;доступный;Das Museum ist für alle **zugänglich**.;Музей доступен для всех.
+B2;adj;;zutreffend;;;;;соответствующий действительности;Bitte kreuzen Sie **Zutreffendes** an.;Пожалуйста, отметьте нужное.
+B2;verb;;fortbilden;;;bildete fort;hat fortgebildet;повышать квалификацию (sich);Ich **bilde** mich regelmäßig **fort**.;Я регулярно повышаю квалификацию.
+B2;verb;;freisprechen;;er spricht frei;sprach frei;hat freigesprochen;оправдывать (в суде);Der Angeklagte wurde **freigesprochen**.;Обвиняемого оправдали.
+B2;verb;;herabsetzen;;;setzte herab;hat herabgesetzt;снижать, принижать;Die Preise wurden **herabgesetzt**.;Цены снизили.
+B2;verb;;heranwachsen;;er wächst heran;wuchs heran;ist herangewachsen;подрастать;Die Kinder **wachsen** auf dem Land **heran**.;Дети растут в деревне.
+B2;verb;;herausbringen;;;brachte heraus;hat herausgebracht;выпускать (продукт);Die Firma **bringt** ein neues Modell **heraus**.;Фирма выпускает новую модель.
+B2;verb;;herausgeben;;er gibt heraus;gab heraus;hat herausgegeben;издавать, выдавать сдачу;Können Sie mir auf 50 Euro **herausgeben**?;Можете дать сдачу с 50 евро?
+B2;verb;;hervorgehen;;;ging hervor;ist hervorgegangen;следовать, вытекать;Daraus **geht** klar **hervor**, dass er recht hat.;Из этого ясно следует, что он прав.
+B2;verb;;hinauswerfen;;er wirft hinaus;warf hinaus;hat hinausgeworfen;выгонять;Man hat ihn aus der Wohnung **hinausgeworfen**.;Его выгнали из квартиры.
+B2;verb;;hineinpassen;;;passte hinein;hat hineingepasst;помещаться;Alles **passt** in den Koffer **hinein**.;Всё помещается в чемодан.
+B2;verb;;irritieren;;;irritierte;hat irritiert;сбивать с толку, раздражать;Sein Verhalten hat mich **irritiert**.;Его поведение сбило меня с толку.
+B2;verb;;jammern;;;jammerte;hat gejammert;ныть, жаловаться;Hör auf zu **jammern**!;Хватит ныть!
+B2;verb;;kapieren;;;kapierte;hat kapiert;понимать (разг.);Hast du das **kapiert**?;Ты это понял?
+B2;verb;;kassieren;;;kassierte;hat kassiert;получать (деньги), получить (штраф);Er hat einen Strafzettel **kassiert**.;Он получил штраф.
+B2;verb;;kränken;;;kränkte;hat gekränkt;обижать;Seine Worte haben mich **gekränkt**.;Его слова меня обидели.
+B2;verb;;lauten;;;lautete;hat gelautet;гласить;Wie **lautet** Ihre Adresse?;Какой у вас адрес?
+B2;verb;;löschen;;;löschte;hat gelöscht;тушить, удалять;Ich habe die Datei **gelöscht**.;Я удалил файл.
+B2;verb;;mahnen;;;mahnte;hat gemahnt;напоминать, предостерегать;Die Bank **mahnt** mich wegen der Rechnung.;Банк напоминает мне о счёте.
+B2;verb;;manipulieren;;;manipulierte;hat manipuliert;манипулировать;Die Daten wurden **manipuliert**.;Данные были подделаны.
+B2;verb;;markieren;;;markierte;hat markiert;отмечать, маркировать;**Markieren** Sie die richtige Antwort.;Отметьте правильный ответ.
+B2;verb;;nachlesen;;er liest nach;las nach;hat nachgelesen;перечитывать, справляться;Das kannst du im Internet **nachlesen**.;Об этом можно прочитать в интернете.
+B2;verb;;niederlassen;;er lässt sich nieder;ließ sich nieder;hat sich niedergelassen;поселиться, открыть практику;Der Arzt hat sich in Berlin **niedergelassen**.;Врач открыл практику в Берлине.
+B2;verb;;nörgeln;;;nörgelte;hat genörgelt;брюзжать;Er **nörgelt** ständig.;Он постоянно брюзжит.
+B2;verb;;quälen;;;quälte;hat gequält;мучить;Die Frage **quält** mich.;Этот вопрос меня мучает.
+B2;verb;;rasen;;;raste;ist gerast;мчаться;Das Auto ist durch die Stadt **gerast**.;Машина промчалась через город.
+B2;verb;;reizen;;;reizte;hat gereizt;раздражать, привлекать;Die Aufgabe **reizt** mich sehr.;Эта задача меня очень привлекает.
+B2;verb;;rügen;;;rügte;hat gerügt;порицать, делать выговор;Der Chef hat ihn **gerügt**.;Начальник сделал ему выговор.
+B2;verb;;sanieren;;;sanierte;hat saniert;реконструировать, оздоравливать;Das alte Haus wird **saniert**.;Старый дом реконструируют.
+B2;verb;;schwanken;;;schwankte;hat geschwankt;колебаться;Die Preise **schwanken** stark.;Цены сильно колеблются.
+B2;verb;;signalisieren;;;signalisierte;hat signalisiert;сигнализировать, давать понять;Er hat Interesse **signalisiert**.;Он дал понять, что заинтересован.
+B2;verb;;spekulieren;;;spekulierte;hat spekuliert;спекулировать, гадать;Wir können nur **spekulieren**.;Мы можем только гадать.
+B2;verb;;sperren;;;sperrte;hat gesperrt;блокировать, перекрывать;Die Straße ist **gesperrt**.;Дорога перекрыта.
+B2;verb;;stagnieren;;;stagnierte;hat stagniert;стагнировать;Die Wirtschaft **stagniert**.;Экономика стагнирует.
+B2;verb;;stornieren;;;stornierte;hat storniert;отменять (бронь, заказ);Ich möchte meine Buchung **stornieren**.;Я хочу отменить бронирование.
+B2;verb;;strapazieren;;;strapazierte;hat strapaziert;утомлять, испытывать (терпение);Du **strapazierst** meine Geduld.;Ты испытываешь моё терпение.
+B2;verb;;tadeln;;;tadelte;hat getadelt;порицать;Der Lehrer **tadelt** den Schüler.;Учитель порицает ученика.
+B2;verb;;täuschen;;;täuschte;hat getäuscht;обманывать (sich — ошибаться);Da hast du dich **getäuscht**.;Тут ты ошибся.
+B2;verb;;überfallen;;er überfällt;überfiel;hat überfallen;нападать;Die Bank wurde **überfallen**.;На банк было совершено нападение.
+B2;verb;;überfordern;;;überforderte;hat überfordert;перегружать;Die Aufgabe **überfordert** ihn.;Задача ему не по силам.
+B2;verb;;übergeben;;er übergibt;übergab;hat übergeben;передавать, вручать;Er hat mir die Schlüssel **übergeben**.;Он передал мне ключи.
+B2;verb;;überlassen;;er überlässt;überließ;hat überlassen;оставлять (на усмотрение);Ich **überlasse** dir die Entscheidung.;Я оставляю решение за тобой.
+B2;verb;;überschätzen;;;überschätzte;hat überschätzt;переоценивать;Er **überschätzt** sich.;Он себя переоценивает.
+B2;verb;;unterschätzen;;;unterschätzte;hat unterschätzt;недооценивать;**Unterschätze** ihn nicht!;Не недооценивай его!
+B2;verb;;umbauen;;;baute um;hat umgebaut;перестраивать;Wir **bauen** das Haus **um**.;Мы перестраиваем дом.
+B2;verb;;umdenken;;;dachte um;hat umgedacht;переосмыслить;Wir müssen **umdenken**.;Нам нужно изменить образ мышления.
+B2;verb;;umkehren;;;kehrte um;ist umgekehrt;поворачивать обратно;Wir mussten wegen des Wetters **umkehren**.;Из-за погоды нам пришлось повернуть назад.
+B2;verb;;umleiten;;;leitete um;hat umgeleitet;перенаправлять;Der Verkehr wird **umgeleitet**.;Движение перенаправляется.
+B2;verb;;umstellen;;;stellte um;hat umgestellt;переставлять, переводить (на что-то);Wir **stellen** auf ein neues System **um**.;Мы переходим на новую систему.
+B2;verb;;umtauschen;;;tauschte um;hat umgetauscht;обменивать (товар);Kann ich die Hose **umtauschen**?;Могу я обменять брюки?
+B2;verb;;unterbringen;;;brachte unter;hat untergebracht;размещать;Die Gäste werden im Hotel **untergebracht**.;Гостей разместят в отеле.
+B2;verb;;untergehen;;;ging unter;ist untergegangen;тонуть, садиться (о солнце);Die Sonne **geht** um 20 Uhr **unter**.;Солнце садится в 20 часов.
+B2;verb;;verbreiten;;;verbreitete;hat verbreitet;распространять;Die Nachricht hat sich schnell **verbreitet**.;Новость быстро распространилась.
+B2;verb;;verdeutlichen;;;verdeutlichte;hat verdeutlicht;пояснять;Ein Beispiel soll das **verdeutlichen**.;Пример должен это пояснить.
+B2;verb;;verfehlen;;;verfehlte;hat verfehlt;не достичь, промахнуться;Er hat das Ziel knapp **verfehlt**.;Он чуть не достиг цели.
+B2;verb;;vergeuden;;;vergeudete;hat vergeudet;растрачивать;**Vergeude** nicht deine Zeit!;Не трать время впустую!
+B2;verb;;verheimlichen;;;verheimlichte;hat verheimlicht;скрывать;Er hat mir etwas **verheimlicht**.;Он что-то от меня скрыл.
+B2;verb;;verkraften;;;verkraftete;hat verkraftet;справляться, переносить;Sie hat den Verlust nicht **verkraftet**.;Она не смогла пережить потерю.
+B2;verb;;verlagern;;;verlagerte;hat verlagert;переносить, перемещать;Die Produktion wurde ins Ausland **verlagert**.;Производство перенесли за границу.
+B2;verb;;vermarkten;;;vermarktete;hat vermarktet;продвигать на рынке;Das Produkt wird gut **vermarktet**.;Продукт хорошо продвигается на рынке.
+B2;verb;;verschweigen;;;verschwieg;hat verschwiegen;умалчивать;Er hat die Wahrheit **verschwiegen**.;Он умолчал правду.
+B2;verb;;verstoßen;;er verstößt;verstieß;hat verstoßen;нарушать (gegen);Das **verstößt** gegen die Regeln.;Это нарушает правила.
+B2;verb;;vertagen;;;vertagte;hat vertagt;откладывать (заседание);Die Sitzung wurde **vertagt**.;Заседание перенесли.
+B2;verb;;vervollständigen;;;vervollständigte;hat vervollständigt;дополнять, завершать;Bitte **vervollständigen** Sie die Sätze.;Пожалуйста, дополните предложения.
+B2;verb;;verweigern;;;verweigerte;hat verweigert;отказывать, отказываться;Er hat die Aussage **verweigert**.;Он отказался давать показания.
+B2;verb;;verwöhnen;;;verwöhnte;hat verwöhnt;баловать;Die Großeltern **verwöhnen** die Enkel.;Бабушка и дедушка балуют внуков.
+B2;verb;;vorankommen;;;kam voran;ist vorangekommen;продвигаться;Wir **kommen** gut **voran**.;Мы хорошо продвигаемся.
+B2;verb;;vorbeikommen;;;kam vorbei;ist vorbeigekommen;заходить, заглядывать;**Komm** doch mal **vorbei**!;Заходи как-нибудь!
+B2;verb;;vorführen;;;führte vor;hat vorgeführt;демонстрировать;Er **führt** das neue Gerät **vor**.;Он демонстрирует новое устройство.
+B2;verb;;vorgeben;;er gibt vor;gab vor;hat vorgegeben;задавать, делать вид;Er **gibt** vor, krank zu sein.;Он делает вид, что болен.
+B2;verb;;vormerken;;;merkte vor;hat vorgemerkt;записать, отметить (заранее);Ich **merke** Sie für Dienstag **vor**.;Я запишу вас на вторник.
+B2;verb;;wegwerfen;;er wirft weg;warf weg;hat weggeworfen;выбрасывать;**Wirf** das nicht **weg**!;Не выбрасывай это!
+B2;verb;;weitergeben;;er gibt weiter;gab weiter;hat weitergegeben;передавать дальше;Ich **gebe** die Information **weiter**.;Я передам информацию дальше.
+B2;verb;;widerlegen;;;widerlegte;hat widerlegt;опровергать;Die These wurde **widerlegt**.;Тезис был опровергнут.
+B2;verb;;wiedergeben;;er gibt wieder;gab wieder;hat wiedergegeben;передавать, воспроизводить;Geben Sie den Inhalt mit eigenen Worten **wieder**.;Перескажите содержание своими словами.
+B2;verb;;zerreißen;;;zerriss;hat zerrissen;разрывать;Sie hat den Brief **zerrissen**.;Она разорвала письмо.
+B2;verb;;zitieren;;;zitierte;hat zitiert;цитировать;Er **zitiert** gern Goethe.;Он любит цитировать Гёте.
+B2;verb;;zuordnen;;;ordnete zu;hat zugeordnet;соотносить;**Ordnen** Sie die Bilder den Texten **zu**.;Соотнесите картинки с текстами.
+B2;verb;;zurückhalten;;er hält zurück;hielt zurück;hat zurückgehalten;сдерживать (sich — сдерживаться);Ich konnte mich nicht **zurückhalten**.;Я не смог сдержаться.
+B2;verb;;zusagen;;;sagte zu;hat zugesagt;соглашаться, нравиться;Er hat mir seine Hilfe **zugesagt**.;Он пообещал мне помощь.
+B2;verb;;zuschauen;;;schaute zu;hat zugeschaut;наблюдать, смотреть;Ich **schaue** beim Kochen **zu**.;Я смотрю, как готовят.
+B2;verb;;zuspitzen;;;spitzte zu;hat zugespitzt;обостряться (sich);Die Lage hat sich **zugespitzt**.;Ситуация обострилась.
+B2;verb;;zutrauen;;;traute zu;hat zugetraut;считать способным;Das hätte ich ihm nicht **zugetraut**.;Я не думал, что он на такое способен.
+B2;noun;die;Achtsamkeit;-;;;;осознанность, внимательность;**Achtsamkeit** hilft gegen Stress.;Осознанность помогает против стресса.
+B2;noun;die;Altersvorsorge;-;;;;пенсионные накопления;Man sollte früh an die **Altersvorsorge** denken.;О пенсионных накоплениях стоит думать заранее.
+B2;noun;die;Anpassung;Anpassungen;;;;адаптация, корректировка;Die **Anpassung** an das neue Land dauert.;Адаптация к новой стране требует времени.
+B2;noun;die;Arbeitsteilung;-;;;;разделение труда;Bei uns gibt es eine klare **Arbeitsteilung**.;У нас чёткое разделение обязанностей.
+B2;noun;der;Aufenthaltstitel;Aufenthaltstitel;;;;разрешение на пребывание;Ihr **Aufenthaltstitel** läuft bald ab.;Срок вашего разрешения на пребывание скоро истекает.
+B2;noun;die;Ausländerbehörde;Ausländerbehörden;;;;ведомство по делам иностранцев;Ich habe einen Termin bei der **Ausländerbehörde**.;У меня запись в ведомство по делам иностранцев.
+B2;noun;die;Barriere;Barrieren;;;;барьер;Sprache kann eine **Barriere** sein.;Язык может быть барьером.
+B2;noun;die;Bescheidenheit;-;;;;скромность;**Bescheidenheit** ist eine Tugend.;Скромность — добродетель.
+B2;noun;die;Bürgerinitiative;Bürgerinitiativen;;;;гражданская инициатива;Eine **Bürgerinitiative** kämpft gegen den Bau.;Гражданская инициатива борется против строительства.
+B2;noun;das;Bürgeramt;Bürgerämter;;;;управа, бюро по работе с гражданами;Die Ummeldung macht man im **Bürgeramt**.;Перерегистрацию оформляют в бюро по работе с гражданами.
+B2;noun;die;Chancengleichheit;-;;;;равенство возможностей;Wir fordern **Chancengleichheit** für alle.;Мы требуем равных возможностей для всех.
+B2;noun;der;Ehrenamtliche;Ehrenamtlichen;;;;волонтёр;Viele **Ehrenamtliche** helfen im Tierheim.;Многие волонтёры помогают в приюте для животных.
+B2;noun;die;Einbürgerung;Einbürgerungen;;;;натурализация (получение гражданства);Er hat die **Einbürgerung** beantragt.;Он подал заявление на получение гражданства.
+B2;noun;der;Einbürgerungstest;Einbürgerungstests;;;;тест на гражданство;Sie hat den **Einbürgerungstest** bestanden.;Она сдала тест на гражданство.
+B2;noun;die;Eingewöhnung;-;;;;привыкание, адаптация;Die **Eingewöhnung** im Kindergarten dauert zwei Wochen.;Адаптация в детском саду длится две недели.
+B2;noun;die;Fairness;-;;;;честность, справедливость;**Fairness** ist im Sport wichtig.;Честная игра важна в спорте.
+B2;noun;die;Fluggesellschaft;Fluggesellschaften;;;;авиакомпания;Welche **Fluggesellschaft** fliegt nach Moskau?;Какая авиакомпания летает в Москву?
+B2;noun;die;Freizügigkeit;-;;;;свобода передвижения;In der EU gilt die **Freizügigkeit**.;В ЕС действует свобода передвижения.
+B2;noun;die;Fremdenfeindlichkeit;-;;;;ксенофобия;Wir sind gegen **Fremdenfeindlichkeit**.;Мы против ксенофобии.
+B2;noun;das;Führungszeugnis;Führungszeugnisse;;;;справка о несудимости;Für die Stelle brauchen Sie ein **Führungszeugnis**.;Для этой должности нужна справка о несудимости.
+B2;noun;die;Gesetzgebung;-;;;;законодательство;Die **Gesetzgebung** wurde geändert.;Законодательство было изменено.
+B2;noun;die;Gewerbefreiheit;-;;;;свобода предпринимательства;In Deutschland gilt die **Gewerbefreiheit**.;В Германии действует свобода предпринимательства.
+B2;noun;die;Haushaltskasse;Haushaltskassen;;;;семейный бюджет;Die **Haushaltskasse** ist leer.;Семейный бюджет пуст.
+B2;noun;der;Hausrat;-;;;;домашнее имущество;Die Versicherung zahlt für den **Hausrat**.;Страховка покрывает домашнее имущество.
+B2;noun;die;Höflichkeitsform;Höflichkeitsformen;;;;вежливая форма;Im Deutschen benutzt man „Sie“ als **Höflichkeitsform**.;В немецком «Sie» используют как вежливую форму.
+B2;noun;der;Interessenkonflikt;Interessenkonflikte;;;;конфликт интересов;Hier gibt es einen **Interessenkonflikt**.;Здесь налицо конфликт интересов.
+B2;noun;die;Jugendarbeitslosigkeit;-;;;;безработица среди молодёжи;Die **Jugendarbeitslosigkeit** ist gesunken.;Безработица среди молодёжи снизилась.
+B2;noun;die;Konsumgesellschaft;Konsumgesellschaften;;;;общество потребления;Wir leben in einer **Konsumgesellschaft**.;Мы живём в обществе потребления.
+B2;noun;die;Lebensgemeinschaft;Lebensgemeinschaften;;;;гражданский брак, сожительство;Sie leben in einer **Lebensgemeinschaft**.;Они живут в гражданском браке.
+B2;noun;der;Leistungsdruck;-;;;;давление (необходимость высоких результатов);Schüler stehen unter großem **Leistungsdruck**.;На школьников оказывают сильное давление.
+B2;noun;das;Lieferdatum;Lieferdaten;;;;дата поставки;Das **Lieferdatum** ist der 15. Mai.;Дата поставки — 15 мая.
+B2;noun;die;Massentierhaltung;-;;;;промышленное животноводство;Viele kritisieren die **Massentierhaltung**.;Многие критикуют промышленное животноводство.
+B2;noun;die;Meinungsverschiedenheit;Meinungsverschiedenheiten;;;;разногласие;Wir hatten eine kleine **Meinungsverschiedenheit**.;У нас было небольшое разногласие.
+B2;noun;das;Mobbing;-;;;;травля, моббинг;**Mobbing** am Arbeitsplatz ist ein ernstes Problem.;Травля на работе — серьёзная проблема.
+B2;noun;der;Nebenjob;Nebenjobs;;;;подработка;Er hat einen **Nebenjob** als Kellner.;У него подработка официантом.
+B2;noun;der;Niedriglohn;Niedriglöhne;;;;низкая зарплата;Viele arbeiten für einen **Niedriglohn**.;Многие работают за низкую зарплату.
+B2;noun;der;Notstand;Notstände;;;;чрезвычайное положение;Es herrscht ein **Notstand** in der Pflege.;В сфере ухода за больными критическая ситуация.
+B2;noun;der;Ökostrom;-;;;;зелёная электроэнергия;Wir beziehen **Ökostrom**.;Мы пользуемся зелёной электроэнергией.
+B2;noun;die;Pflegestufe;Pflegestufen;;;;степень нуждаемости в уходе;Meine Oma hat **Pflegestufe** 2.;У моей бабушки вторая степень нуждаемости в уходе.
+B2;noun;die;Privatsphäre;-;;;;частная жизнь;Jeder hat ein Recht auf **Privatsphäre**.;Каждый имеет право на частную жизнь.
+B2;noun;die;Rechtsberatung;Rechtsberatungen;;;;юридическая консультация;Ich brauche eine **Rechtsberatung**.;Мне нужна юридическая консультация.
+B2;noun;der;Schulabschluss;Schulabschlüsse;;;;школьный аттестат;Ohne **Schulabschluss** ist es schwer, Arbeit zu finden.;Без школьного аттестата трудно найти работу.
+B2;noun;die;Schulpflicht;-;;;;обязательное школьное обучение;In Deutschland gibt es eine **Schulpflicht**.;В Германии школьное обучение обязательно.
+B2;noun;der;Schwarzfahrer;Schwarzfahrer;;;;безбилетник;**Schwarzfahrer** müssen 60 Euro zahlen.;Безбилетники должны заплатить 60 евро.
+B2;noun;die;Schwarzarbeit;-;;;;работа «вчёрную», нелегальная работа;**Schwarzarbeit** ist verboten.;Нелегальная работа запрещена.
+B2;noun;die;Selbstverwirklichung;-;;;;самореализация;Für viele ist der Beruf **Selbstverwirklichung**.;Для многих профессия — самореализация.
+B2;noun;der;Sozialstaat;Sozialstaaten;;;;социальное государство;Deutschland ist ein **Sozialstaat**.;Германия — социальное государство.
+B2;noun;die;Sozialhilfe;-;;;;социальное пособие;Er lebt von **Sozialhilfe**.;Он живёт на социальное пособие.
+B2;noun;das;Stadtviertel;Stadtviertel;;;;квартал, район города;Das ist ein ruhiges **Stadtviertel**.;Это тихий район.
+B2;noun;die;Stellenausschreibung;Stellenausschreibungen;;;;объявление о вакансии;Ich habe die **Stellenausschreibung** gelesen.;Я прочитал объявление о вакансии.
+B2;noun;die;Steuerklasse;Steuerklassen;;;;налоговый класс;Nach der Heirat ändert sich die **Steuerklasse**.;После свадьбы меняется налоговый класс.
+B2;noun;der;Stromverbrauch;-;;;;потребление электроэнергии;Unser **Stromverbrauch** ist gesunken.;Наше потребление электроэнергии снизилось.
+B2;noun;der;Strukturwandel;-;;;;структурные изменения;Die Region erlebt einen **Strukturwandel**.;В регионе происходят структурные изменения.
+B2;noun;die;Teilzeitstelle;Teilzeitstellen;;;;работа на неполный день;Sie sucht eine **Teilzeitstelle**.;Она ищет работу на неполный день.
+B2;noun;der;Tierschutz;-;;;;защита животных;Sie engagiert sich im **Tierschutz**.;Она занимается защитой животных.
+B2;noun;das;Tierheim;Tierheime;;;;приют для животных;Wir haben die Katze aus dem **Tierheim** geholt.;Мы взяли кошку из приюта.
+B2;noun;die;Ummeldung;Ummeldungen;;;;перерегистрация (адреса);Nach dem Umzug ist eine **Ummeldung** nötig.;После переезда нужна перерегистрация.
+B2;noun;die;Umschulung;Umschulungen;;;;переобучение;Er macht eine **Umschulung** zum Altenpfleger.;Он переучивается на сиделку для пожилых.
+B2;noun;die;Unabhängigkeit;-;;;;независимость;Finanzielle **Unabhängigkeit** ist mir wichtig.;Финансовая независимость для меня важна.
+B2;noun;das;Verantwortungsbewusstsein;-;;;;чувство ответственности;Er hat ein starkes **Verantwortungsbewusstsein**.;У него сильно развито чувство ответственности.
+B2;noun;die;Verbraucherzentrale;Verbraucherzentralen;;;;центр защиты прав потребителей;Die **Verbraucherzentrale** berät kostenlos.;Центр защиты прав потребителей консультирует бесплатно.
+B2;noun;die;Verkehrswende;-;;;;транспортная реформа (переход к экологичному транспорту);Die Stadt plant eine **Verkehrswende**.;Город планирует транспортную реформу.
+B2;noun;die;Verschwendung;Verschwendungen;;;;расточительство;Das ist eine **Verschwendung** von Lebensmitteln.;Это расточительство продуктов.
+B2;noun;die;Vollmacht;Vollmachten;;;;доверенность;Ich gebe dir eine **Vollmacht**.;Я дам тебе доверенность.
+B2;noun;die;Wegwerfgesellschaft;-;;;;общество одноразового потребления;Wir leben in einer **Wegwerfgesellschaft**.;Мы живём в обществе, где всё выбрасывают.
+B2;noun;die;Wahlbeteiligung;-;;;;явка на выборах;Die **Wahlbeteiligung** war niedrig.;Явка на выборах была низкой.
+B2;noun;das;Wahlrecht;-;;;;избирательное право;Ab 18 hat man das **Wahlrecht**.;С 18 лет у человека есть право голоса.
+B2;noun;das;Wohngeld;-;;;;жилищное пособие;Sie bekommt **Wohngeld** vom Staat.;Она получает жилищное пособие от государства.
+B2;noun;die;Zivilcourage;-;;;;гражданское мужество;Er hat **Zivilcourage** gezeigt.;Он проявил гражданское мужество.
+B2;noun;die;Zuwanderung;-;;;;иммиграция;Deutschland braucht **Zuwanderung**.;Германии нужна иммиграция.
+B2;noun;die;Zweitwohnung;Zweitwohnungen;;;;вторая квартира;Er hat eine **Zweitwohnung** in Berlin.;У него вторая квартира в Берлине.
+B2;noun;die;Zwischenprüfung;Zwischenprüfungen;;;;промежуточный экзамен;Die **Zwischenprüfung** war schwer.;Промежуточный экзамен был трудным.
+B2;noun;der;Zwiespalt;-;;;;внутренний разлад, дилемма;Ich bin in einem **Zwiespalt**.;Я в затруднительном положении.
+B2;noun;der;Alltagsstress;-;;;;повседневный стресс;Yoga hilft mir gegen den **Alltagsstress**.;Йога помогает мне справляться с повседневным стрессом.
+B2;noun;die;Ausdauer;-;;;;выносливость, упорство;Für einen Marathon braucht man **Ausdauer**.;Для марафона нужна выносливость.
+B2;noun;die;Entfaltung;-;;;;развитие, раскрытие;Kinder brauchen Raum zur freien **Entfaltung**.;Детям нужно пространство для свободного развития.
+B2;noun;die;Gelegenheitsarbeit;Gelegenheitsarbeiten;;;;случайная работа;Er lebt von **Gelegenheitsarbeiten**.;Он живёт случайными заработками.
+B2;noun;die;Kreativität;-;;;;креативность;Der Job erfordert viel **Kreativität**.;Работа требует много креативности.
+B2;noun;die;Lebensfreude;-;;;;жизнерадостность;Sie strahlt viel **Lebensfreude** aus.;Она излучает жизнерадостность.
+B2;noun;der;Leistungssport;-;;;;большой спорт;Er hat früher **Leistungssport** gemacht.;Раньше он занимался профессиональным спортом.
+B2;noun;die;Selbstdisziplin;-;;;;самодисциплина;Beim Lernen braucht man **Selbstdisziplin**.;Для учёбы нужна самодисциплина.
+B2;noun;die;Teamfähigkeit;-;;;;умение работать в команде;**Teamfähigkeit** ist eine wichtige Eigenschaft.;Умение работать в команде — важное качество.
+B2;noun;die;Belastbarkeit;-;;;;стрессоустойчивость;Wir erwarten hohe **Belastbarkeit**.;Мы ожидаем высокой стрессоустойчивости.
+B2;noun;die;Zielstrebigkeit;-;;;;целеустремлённость;Mit **Zielstrebigkeit** erreicht man viel.;Целеустремлённостью можно многого достичь.
+B2;noun;die;Wertschätzung;-;;;;признание, уважение;Mitarbeiter brauchen **Wertschätzung**.;Сотрудникам нужно признание.
+B2;noun;die;Zuneigung;-;;;;симпатия, привязанность;Er zeigt ihr seine **Zuneigung**.;Он проявляет к ней симпатию.
+B2;noun;die;Verbundenheit;-;;;;привязанность, связь;Ich fühle eine tiefe **Verbundenheit** mit meiner Heimat.;Я чувствую глубокую связь с родиной.
