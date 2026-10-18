@@ -14,7 +14,7 @@
 | pos | noun, verb, adj, adv, prep, pron, conj, num, part, interj |
 | article | der / die / das (только для существительных) |
 | word | Bahnhof, fahren, sich freuen |
-| plural | Bahnhöfe (`-` если нет мн. ч.) |
+| plural | Bahnhöfe (`-` — нет мн. ч., `pl` — только мн. ч.) |
 | praesens | er fährt (только если корень меняется) |
 | praeteritum / perfekt | fuhr / ist gefahren |
 | translations | ехать, ездить |

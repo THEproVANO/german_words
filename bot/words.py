@@ -54,6 +54,8 @@ def format_card(w: sqlite3.Row) -> str:
     if w["pos"] == "noun":
         if w["plural"] == "-":
             head += ", <i>нет мн. ч.</i>"
+        elif w["plural"] == "pl":
+            head += ", <i>только мн. ч.</i>"
         elif w["plural"]:
             head += f", die {e(w['plural'])}"
     elif w["pos"] == "verb":
