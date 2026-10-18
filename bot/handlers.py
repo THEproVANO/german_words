@@ -3,36 +3,26 @@ from aiogram.filters import CommandStart
 from aiogram.types import CallbackQuery, Message
 
 from . import db, keyboards, service
-from .config import (DAILY_QUIZ_SIZE, DEFAULT_TZ, INTERVAL_OPTIONS, LANGUAGES, QUIZ_HOUR,
+from .config import (DAILY_QUIZ_SIZE, DEFAULT_TZ, DEFAULT_TZ_BY_UI, LANGUAGES, QUIZ_HOUR,
                      TIMEZONES, WEEKLY_QUIZ_SIZE)
+from .i18n import CHOOSE_UI, UI_LANGUAGES, all_variants, city, t
 
 router = Router()
 
 
 def schedule_text(user) -> str:
-    return (f"{INTERVAL_OPTIONS[user['interval_min']]} с {user['day_start']}:00 "
-            f"до {user['day_end']}:00, не больше {user['words_per_day']} в день")
+    lang = user["ui_lang"]
+    return t(lang, "schedule", interval=t(lang, f"every_{user['interval_min']}"),
+             start=user["day_start"], end=user["day_end"], limit=user["words_per_day"])
 
 
 def rules_text(user) -> str:
-    return (
-        "ℹ️ <b>Как работает бот</b>\n\n"
-        f"📩 <b>Новые слова</b> приходят по одному: {schedule_text(user)}. "
-        "Слова выбираются случайно из твоего уровня и всех уровней ниже и не повторяются. "
-        "Каждое полученное слово считается изученным.\n\n"
-        "➕ <b>«Ещё слово»</b> присылает новое слово вне очереди, в дневной лимит оно не входит.\n\n"
-        f"📝 <b>Тест дня</b> в {QUIZ_HOUR}:00: до {DAILY_QUIZ_SIZE} случайных слов из полученных "
-        "за день. Бот пишет перевод, а ты вводишь слово по-немецки: существительные без "
-        "артикля, глаголы в инфинитиве. Регистр не важен, вместо ä, ö, ü, ß можно писать "
-        "ae, oe, ue, ss. После второй ошибки бот покажет подсказку, после третьей можно "
-        "посмотреть ответ, но тогда слово спросят ещё раз в конце теста.\n\n"
-        f"🏆 <b>Недельный тест</b> по воскресеньям сразу после теста дня: до {WEEKLY_QUIZ_SIZE} "
-        "слов за неделю.\n\n"
-        "⛔ Пока тест не пройден, новые слова не приходят. Расписание продолжится "
-        "сразу после прохождения теста.\n\n"
-        "⚙️ В профиле можно изменить интервал, количество слов в день, время рассылки, "
-        "часовой пояс и уровень, а также поставить бота на паузу."
-    )
+    return t(user["ui_lang"], "rules", schedule=schedule_text(user), quiz_hour=QUIZ_HOUR,
+             daily=DAILY_QUIZ_SIZE, weekly=WEEKLY_QUIZ_SIZE)
+
+
+def tz_label(lang: str, tz: str) -> str:
+    return f"{city(lang, tz)} ({TIMEZONES[tz]})" if tz in TIMEZONES else tz
 
 
 @router.message(CommandStart())
@@ -43,25 +33,46 @@ async def cmd_start(message: Message, bot: Bot) -> None:
     if user["blocked"]:
         db.update_user(user_id, blocked=0)
     if user["level"]:
-        await message.answer("С возвращением! 👋", reply_markup=keyboards.main_menu)
+        lang = user["ui_lang"]
+        await message.answer(t(lang, "welcome_back"), reply_markup=keyboards.main_menu(lang))
         quiz = db.get_active_quiz(user_id)
         if quiz:
-            await service.send_question(bot, user_id, quiz["id"])
+            await service.send_question(bot, user, quiz["id"])
         return
-    await message.answer(
-        "Привет! 👋 Я помогу выучить иностранные слова.\n\nКакой язык будем изучать?",
-        reply_markup=keyboards.languages,
-    )
+    await message.answer(CHOOSE_UI, reply_markup=keyboards.ui_languages)
+
+
+@router.callback_query(F.data.startswith("ui:"))
+async def choose_ui(call: CallbackQuery) -> None:
+    lang = call.data.split(":")[1]
+    if lang not in UI_LANGUAGES:
+        await call.answer()
+        return
+    user = db.get_user(call.from_user.id)
+    if not user:
+        await call.answer()
+        return
+    if user["level"]:
+        # Смена языка из профиля
+        db.update_user(user["id"], ui_lang=lang)
+        await call.message.edit_text(t(lang, "ui_set", name=UI_LANGUAGES[lang]))
+        await call.message.answer(t(lang, "welcome_back"), reply_markup=keyboards.main_menu(lang))
+    else:
+        # Первая настройка: заодно подставляем часовой пояс, типичный для этого языка
+        db.update_user(user["id"], ui_lang=lang, tz=DEFAULT_TZ_BY_UI[lang])
+        await call.message.edit_text(t(lang, "welcome"), reply_markup=keyboards.languages(lang))
+    await call.answer()
 
 
 @router.callback_query(F.data.startswith("lang:"))
 async def choose_language(call: CallbackQuery) -> None:
     lang = call.data.split(":")[1]
+    ui = db.get_user(call.from_user.id)["ui_lang"]
     if lang not in LANGUAGES:
-        await call.answer("Английский появится позже 🙂", show_alert=True)
+        await call.answer(t(ui, "en_later"), show_alert=True)
         return
     db.update_user(call.from_user.id, lang=lang)
-    await call.message.edit_text(f"Язык: {LANGUAGES[lang]}\n\nВыбери свой уровень:",
+    await call.message.edit_text(t(ui, "lang_chosen", language=t(ui, f"learn_{lang}")),
                                  reply_markup=keyboards.levels)
     await call.answer()
 
@@ -73,76 +84,91 @@ async def choose_level(call: CallbackQuery, bot: Bot) -> None:
     async with service.user_locks[user_id]:
         user = db.get_user(user_id)
         if not user or not user["lang"]:
-            await call.answer("Сначала выбери язык: /start", show_alert=True)
+            await call.answer(t(user["ui_lang"] if user else "ru", "choose_lang_first"),
+                              show_alert=True)
             return
+        lang = user["ui_lang"]
         first_time = user["level"] is None
         db.update_user(user_id, level=level)
-        await call.message.edit_text(f"Уровень: <b>{level}</b> ✅")
+        await call.message.edit_text(t(lang, "level_set", level=level))
         await call.answer()
         if not first_time:
             return
         user = db.get_user(user_id)
-        await bot.send_message(user_id, rules_text(user), reply_markup=keyboards.main_menu)
+        await bot.send_message(user_id, rules_text(user), reply_markup=keyboards.main_menu(lang))
         # Первое слово сразу, следующее — в ближайший слот по расписанию
         service.reset_schedule(user_id)
-        await bot.send_message(user_id, "Вот твоё первое слово:")
+        await bot.send_message(user_id, t(lang, "first_word"))
         await service.send_new_word(bot, user)
 
 
-@router.message(F.text == keyboards.BTN_MORE)
+@router.message(F.text.in_(all_variants("btn_more")))
 async def more_word(message: Message, bot: Bot) -> None:
     user_id = message.from_user.id
     async with service.user_locks[user_id]:
         user = db.get_user(user_id)
         if not user or not user["level"]:
-            await message.answer("Сначала настрой бота: /start")
+            await message.answer(t(user["ui_lang"] if user else "ru", "setup_first"))
             return
+        lang = user["ui_lang"]
         quiz = db.get_active_quiz(user_id)
         if quiz:
-            await message.answer("Сначала пройди тест 📝")
-            await service.send_question(bot, user_id, quiz["id"])
+            await message.answer(t(lang, "quiz_first"))
+            await service.send_question(bot, user, quiz["id"])
             return
         if not await service.send_new_word(bot, user):
-            await message.answer("Все слова этого уровня уже изучены 🎉 Выбери уровень выше в профиле.")
+            await message.answer(t(lang, "all_learned"))
 
 
 def profile_text(user) -> str:
+    lang = user["ui_lang"]
     learned, total = db.progress(user)
     if user["paused"]:
-        status = "⏸ на паузе"
+        status = t(lang, "status_paused")
     elif db.get_active_quiz(user["id"]):
-        status = "📝 ждёт прохождения теста"
+        status = t(lang, "status_quiz")
     else:
-        status = "✅ активен"
-    return (
-        "👤 <b>Профиль</b>\n\n"
-        f"Язык: {LANGUAGES.get(user['lang'], '—')}\n"
-        f"Уровень: <b>{user['level']}</b>\n"
-        f"Изучено слов: <b>{learned}</b> из {total}\n"
-        f"Рассылка: {schedule_text(user)}\n"
-        f"Часовой пояс: {TIMEZONES.get(user['tz'], user['tz'])}\n"
-        f"Статус: {status}"
-    )
+        status = t(lang, "status_active")
+    return t(lang, "profile", language=t(lang, f"learn_{user['lang']}"), level=user["level"],
+             learned=learned, total=total, schedule=schedule_text(user),
+             tz=tz_label(lang, user["tz"]), ui=UI_LANGUAGES[lang], status=status)
 
 
-@router.message(F.text == keyboards.BTN_PROFILE)
+@router.message(F.text.in_(all_variants("btn_profile")))
 async def show_profile(message: Message) -> None:
     user = db.get_user(message.from_user.id)
     if not user or not user["level"]:
-        await message.answer("Сначала настрой бота: /start")
+        await message.answer(t(user["ui_lang"] if user else "ru", "setup_first"))
         return
-    await message.answer(profile_text(user), reply_markup=keyboards.profile(bool(user["paused"])))
+    await message.answer(profile_text(user),
+                         reply_markup=keyboards.profile(user["ui_lang"], bool(user["paused"])))
 
 
-@router.callback_query(F.data == "profile:level")
-async def profile_level(call: CallbackQuery) -> None:
-    await call.message.answer("Выбери уровень:", reply_markup=keyboards.levels)
-    await call.answer()
-
-
-@router.callback_query(F.data == "profile:tz")
-async def profile_tz(call: CallbackQuery) -> None:
-    await call.message.answer("Выбери часовой пояс:", reply_markup=keyboards.timezones)
+@router.callback_query(F.data.startswith("profile:"))
+async def profile_action(call: CallbackQuery) -> None:
+    action = call.data.split(":")[1]
+    user = db.get_user(call.from_user.id)
+    lang = user["ui_lang"]
+    if action == "pause":
+        db.update_user(user["id"], paused=0 if user["paused"] else 1)
+        user = db.get_user(user["id"])
+        await call.message.edit_text(profile_text(user),
+                                     reply_markup=keyboards.profile(lang, bool(user["paused"])))
+        await call.answer(t(lang, "pause_on" if user["paused"] else "pause_off"))
+        return
+    if action == "help":
+        await call.message.answer(rules_text(user))
+    elif action == "ui":
+        await call.message.answer(CHOOSE_UI, reply_markup=keyboards.ui_languages)
+    else:
+        text, markup = {
+            "level": ("ask_level", keyboards.levels),
+            "tz": ("ask_tz", keyboards.timezones(lang)),
+            "interval": ("ask_interval", keyboards.intervals(lang)),
+            "limit": ("ask_limit", keyboards.words_per_day),
+            "hours": ("ask_start", keyboards.day_starts),
+        }[action]
+        await call.message.answer(t(lang, text), reply_markup=markup)
     await call.answer()
 
 
@@ -153,32 +179,8 @@ async def choose_tz(call: CallbackQuery) -> None:
         async with service.user_locks[call.from_user.id]:
             db.update_user(call.from_user.id, tz=tz)
             service.reset_schedule(call.from_user.id)
-        await call.message.edit_text(f"Часовой пояс: {TIMEZONES[tz]} ✅")
-    await call.answer()
-
-
-@router.callback_query(F.data == "profile:help")
-async def profile_help(call: CallbackQuery) -> None:
-    await call.message.answer(rules_text(db.get_user(call.from_user.id)))
-    await call.answer()
-
-
-@router.callback_query(F.data == "profile:interval")
-async def profile_interval(call: CallbackQuery) -> None:
-    await call.message.answer("Как часто присылать слова?", reply_markup=keyboards.intervals)
-    await call.answer()
-
-
-@router.callback_query(F.data == "profile:limit")
-async def profile_limit(call: CallbackQuery) -> None:
-    await call.message.answer("Сколько слов присылать в день?",
-                              reply_markup=keyboards.words_per_day)
-    await call.answer()
-
-
-@router.callback_query(F.data == "profile:hours")
-async def profile_hours(call: CallbackQuery) -> None:
-    await call.message.answer("С какого часа присылать слова?", reply_markup=keyboards.day_starts)
+        lang = db.get_user(call.from_user.id)["ui_lang"]
+        await call.message.edit_text(t(lang, "tz_set", tz=tz_label(lang, tz)))
     await call.answer()
 
 
@@ -186,10 +188,11 @@ async def profile_hours(call: CallbackQuery) -> None:
 async def change_setting(call: CallbackQuery) -> None:
     _, name, value = call.data.split(":")
     user_id = call.from_user.id
+    lang = db.get_user(user_id)["ui_lang"]
     if name == "start":
         # Время рассылки выбирается в два шага: сначала начало, потом конец
         db.update_user(user_id, day_start=int(value))
-        await call.message.edit_text(f"Начало: {value}:00\n\nДо какого часа присылать слова?",
+        await call.message.edit_text(t(lang, "ask_end", start=value),
                                      reply_markup=keyboards.day_ends)
         await call.answer()
         return
@@ -197,18 +200,8 @@ async def change_setting(call: CallbackQuery) -> None:
     async with service.user_locks[user_id]:
         db.update_user(user_id, **{column: int(value)})
         service.reset_schedule(user_id)
-    await call.message.edit_text(f"✅ Рассылка: {schedule_text(db.get_user(user_id))}")
+    await call.message.edit_text(t(lang, "schedule_set", schedule=schedule_text(db.get_user(user_id))))
     await call.answer()
-
-
-@router.callback_query(F.data == "profile:pause")
-async def toggle_pause(call: CallbackQuery) -> None:
-    user = db.get_user(call.from_user.id)
-    db.update_user(user["id"], paused=0 if user["paused"] else 1)
-    user = db.get_user(user["id"])
-    await call.message.edit_text(profile_text(user),
-                                 reply_markup=keyboards.profile(bool(user["paused"])))
-    await call.answer("Пауза включена" if user["paused"] else "Продолжаем!")
 
 
 @router.callback_query(F.data.startswith("reveal:"))
@@ -225,8 +218,10 @@ async def text_answer(message: Message, bot: Bot) -> None:
     user_id = message.from_user.id
     async with service.user_locks[user_id]:
         quiz = db.get_active_quiz(user_id)
+        user = db.get_user(user_id)
         if not quiz:
-            await message.answer("Сейчас нет активного теста. Используй кнопки меню 👇",
-                                 reply_markup=keyboards.main_menu)
+            lang = user["ui_lang"] if user else "ru"
+            reply_markup = keyboards.main_menu(lang) if user and user["level"] else None
+            await message.answer(t(lang, "no_quiz"), reply_markup=reply_markup)
             return
-        await service.handle_answer(bot, db.get_user(user_id), quiz, message.text)
+        await service.handle_answer(bot, user, quiz, message.text)

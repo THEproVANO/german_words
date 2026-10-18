@@ -69,6 +69,8 @@ for _name, _default in (("interval_min", INTERVAL), ("words_per_day", WORDS_PER_
                         ("day_start", DAY_START), ("day_end", DAY_END)):
     if _name not in _user_columns:
         conn.execute(f"ALTER TABLE users ADD COLUMN {_name} INTEGER NOT NULL DEFAULT {_default}")
+if "ui_lang" not in _user_columns:
+    conn.execute("ALTER TABLE users ADD COLUMN ui_lang TEXT NOT NULL DEFAULT 'ru'")
 conn.commit()
 
 

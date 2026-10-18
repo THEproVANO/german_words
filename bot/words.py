@@ -5,19 +5,7 @@ import sqlite3
 
 from . import db
 from .config import DATA_DIR, LEVELS
-
-POS_NAMES = {
-    "noun": "существительное",
-    "verb": "глагол",
-    "adj": "прилагательное",
-    "adv": "наречие",
-    "prep": "предлог",
-    "pron": "местоимение",
-    "conj": "союз",
-    "num": "числительное",
-    "part": "частица",
-    "interj": "междометие",
-}
+from .i18n import POS_NAMES, pos_name, t
 
 FIELDS = ["level", "pos", "article", "word", "plural", "praesens", "praeteritum",
           "perfekt", "translations", "example", "example_ru"]
@@ -32,7 +20,7 @@ def load_words() -> int:
         with path.open(encoding="utf-8") as f:
             for n, row in enumerate(csv.DictReader(f, delimiter=";"), start=2):
                 row = {k: (row.get(k) or "").strip() for k in FIELDS}
-                if row["level"] not in LEVELS or row["pos"] not in POS_NAMES:
+                if row["level"] not in LEVELS or row["pos"] not in POS_NAMES["ru"]:
                     raise ValueError(f"{path.name}, строка {n}: неверный уровень или часть речи")
                 if not (row["word"] and row["translations"] and row["example"]):
                     raise ValueError(f"{path.name}, строка {n}: не заполнены обязательные поля")
@@ -48,14 +36,14 @@ def _bold(text: str) -> str:
     return re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", html.escape(text))
 
 
-def format_card(w: sqlite3.Row) -> str:
+def format_card(w: sqlite3.Row, lang: str) -> str:
     e = html.escape
     head = f"<b>{e(w['article'] + ' ' if w['article'] else '')}{e(w['word'])}</b>"
     if w["pos"] == "noun":
         if w["plural"] == "-":
-            head += ", <i>нет мн. ч.</i>"
+            head += f", <i>{t(lang, 'no_plural')}</i>"
         elif w["plural"] == "pl":
-            head += ", <i>только мн. ч.</i>"
+            head += f", <i>{t(lang, 'plural_only')}</i>"
         elif w["plural"]:
             head += f", die {e(w['plural'])}"
     elif w["pos"] == "verb":
@@ -66,7 +54,7 @@ def format_card(w: sqlite3.Row) -> str:
             head += " — " + " — ".join(e(f) for f in forms)
 
     return (
-        f"<i>{POS_NAMES[w['pos']]}</i> · {w['level']}\n"
+        f"<i>{pos_name(lang, w['pos'])}</i> · {w['level']}\n"
         f"{head}\n"
         f"🇷🇺 {e(w['translations'])}\n\n"
         f"{_bold(w['example'])}\n"
@@ -100,9 +88,6 @@ def hint(w: sqlite3.Row, long: bool = False) -> str:
     return word[:shown] + "…"
 
 
-def quiz_question(w: sqlite3.Row, number: int, total: int) -> str:
-    return (
-        f"Вопрос {number}/{total}\n"
-        f"🇷🇺 <b>{html.escape(w['translations'])}</b> ({POS_NAMES[w['pos']]})\n"
-        f"Начинается на: <code>{html.escape(hint(w))}</code>"
-    )
+def quiz_question(w: sqlite3.Row, number: int, total: int, lang: str) -> str:
+    return t(lang, "question", n=number, total=total, tr=html.escape(w["translations"]),
+             pos=pos_name(lang, w["pos"]), hint=html.escape(hint(w)))

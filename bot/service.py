@@ -11,6 +11,7 @@ from aiogram import Bot
 from aiogram.exceptions import TelegramForbiddenError
 
 from . import db, keyboards, words
+from .i18n import t
 from .config import DAILY_QUIZ_SIZE, QUIZ_HOUR, TICK_SECONDS, WEEKLY_QUIZ_SIZE
 
 log = logging.getLogger(__name__)
@@ -58,22 +59,20 @@ async def send_new_word(bot: Bot, user: sqlite3.Row) -> bool:
     if word is None:
         return False
     db.mark_sent(user["id"], word["id"], study_date(local_now(user)))
-    await bot.send_message(user["id"], words.format_card(word))
+    lang = user["ui_lang"]
+    await bot.send_message(user["id"], words.format_card(word, lang))
     if db.pick_new_word(user) is None:
-        await bot.send_message(
-            user["id"],
-            f"🎉 Это было последнее слово уровня {user['level']}! "
-            "Выбери уровень выше в профиле, чтобы продолжить.",
-        )
+        await bot.send_message(user["id"], t(lang, "last_word", level=user["level"]))
     return True
 
 
 # --- тесты ---
 
-async def send_question(bot: Bot, user_id: int, quiz_id: int) -> None:
+async def send_question(bot: Bot, user: sqlite3.Row, quiz_id: int) -> None:
     item = db.current_item(quiz_id)
     done, total = db.quiz_counts(quiz_id)
-    await bot.send_message(user_id, words.quiz_question(db.get_word(item["word_id"]), done + 1, total))
+    question = words.quiz_question(db.get_word(item["word_id"]), done + 1, total, user["ui_lang"])
+    await bot.send_message(user["id"], question)
 
 
 async def start_quiz(bot: Bot, user: sqlite3.Row, kind: str, d: date, word_ids: list[int]) -> bool:
@@ -83,16 +82,10 @@ async def start_quiz(bot: Bot, user: sqlite3.Row, kind: str, d: date, word_ids: 
     quiz_id = db.create_quiz(user["id"], kind, d, word_ids)
     if not word_ids:
         return False
-    if kind == "daily":
-        intro = f"📝 <b>Тест дня</b>: {len(word_ids)} слов из изученных сегодня."
-    else:
-        intro = f"🏆 <b>Недельный тест</b>: {len(word_ids)} слов из изученных за неделю."
-    await bot.send_message(
-        user["id"],
-        f"{intro}\n\nНапиши слово по-немецки: существительные — без артикля, "
-        "глаголы — в инфинитиве.\nПока тест не пройден, новые слова не приходят.",
-    )
-    await send_question(bot, user["id"], quiz_id)
+    lang = user["ui_lang"]
+    intro = t(lang, "quiz_daily" if kind == "daily" else "quiz_weekly", n=len(word_ids))
+    await bot.send_message(user["id"], f"{intro}\n\n{t(lang, 'quiz_rules')}")
+    await send_question(bot, user, quiz_id)
     return True
 
 
@@ -117,28 +110,26 @@ async def ensure_quizzes(bot: Bot, user: sqlite3.Row) -> None:
 
 async def finish_quiz(bot: Bot, user: sqlite3.Row, quiz: sqlite3.Row) -> None:
     db.finish_quiz(quiz["id"])
-    if quiz["kind"] == "daily":
-        text = "🎉 Тест дня пройден! Молодец."
-    else:
-        text = "🏆 Недельный тест пройден! Отличная работа."
-    await bot.send_message(user["id"], text)
+    lang = user["ui_lang"]
+    await bot.send_message(user["id"], t(lang, f"{quiz['kind']}_done"))
     if quiz["kind"] == "daily":
         if await start_weekly_if_due(bot, user, date.fromisoformat(quiz["study_date"])):
             return
     await ensure_quizzes(bot, user)
     if not db.get_active_quiz(user["id"]):
-        await bot.send_message(user["id"], "Новые слова снова будут приходить по расписанию.")
+        await bot.send_message(user["id"], t(lang, "resume"))
 
 
 async def handle_answer(bot: Bot, user: sqlite3.Row, quiz: sqlite3.Row, text: str) -> None:
+    lang = user["ui_lang"]
     item = db.current_item(quiz["id"])
     word = db.get_word(item["word_id"])
     if words.is_correct(text, word):
         db.mark_item_done(item["id"])
         full = f"{word['article']} {word['word']}".strip()
-        await bot.send_message(user["id"], f"✅ Верно! <b>{full}</b>")
+        await bot.send_message(user["id"], t(lang, "correct", word=full))
         if db.current_item(quiz["id"]):
-            await send_question(bot, user["id"], quiz["id"])
+            await send_question(bot, user, quiz["id"])
         else:
             await finish_quiz(bot, user, quiz)
         return
@@ -146,16 +137,12 @@ async def handle_answer(bot: Bot, user: sqlite3.Row, quiz: sqlite3.Row, text: st
     attempts = item["attempts"] + 1
     db.set_attempts(item["id"], attempts)
     if attempts == 1:
-        await bot.send_message(user["id"], "❌ Неверно, попробуй ещё раз.")
+        await bot.send_message(user["id"], t(lang, "wrong1"))
     elif attempts == 2:
-        await bot.send_message(
-            user["id"], f"❌ Неверно. Подсказка: <code>{words.hint(word, long=True)}</code>"
-        )
+        await bot.send_message(user["id"], t(lang, "wrong2", hint=words.hint(word, long=True)))
     else:
-        await bot.send_message(
-            user["id"], "❌ Неверно. Попробуй ещё раз или посмотри ответ.",
-            reply_markup=keyboards.reveal(item["id"]),
-        )
+        await bot.send_message(user["id"], t(lang, "wrong3"),
+                               reply_markup=keyboards.reveal(lang, item["id"]))
 
 
 async def reveal_answer(bot: Bot, user: sqlite3.Row, item_id: int) -> None:
@@ -165,12 +152,9 @@ async def reveal_answer(bot: Bot, user: sqlite3.Row, item_id: int) -> None:
         return
     word = db.get_word(item["word_id"])
     db.move_item_to_end(item["id"], quiz["id"])
-    await bot.send_message(
-        user["id"],
-        f"Правильный ответ:\n\n{words.format_card(word)}\n\n"
-        "Это слово спросим ещё раз в конце теста.",
-    )
-    await send_question(bot, user["id"], quiz["id"])
+    lang = user["ui_lang"]
+    await bot.send_message(user["id"], t(lang, "revealed", card=words.format_card(word, lang)))
+    await send_question(bot, user, quiz["id"])
 
 
 # --- планировщик ---
