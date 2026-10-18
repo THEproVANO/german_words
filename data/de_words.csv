@@ -647,3 +647,672 @@ A1;interj;;hallo;;;;;привет, алло;**Hallo**, wie geht's?;Привет,
 A1;interj;;tschüss;;;;;пока;**Tschüss**, bis morgen!;Пока, до завтра!
 A1;interj;;Entschuldigung;;;;;извините;**Entschuldigung**, wo ist der Bahnhof?;Извините, где вокзал?
 A1;interj;;Achtung;;;;;внимание;**Achtung**, der Zug fährt ab!;Внимание, поезд отправляется!
+A2;noun;die;Ausbildung;Ausbildungen;;;;профессиональное обучение, образование;Er macht eine **Ausbildung** als Koch.;Он учится на повара.
+A2;noun;der;Arbeitsplatz;Arbeitsplätze;;;;рабочее место;Mein **Arbeitsplatz** ist im zweiten Stock.;Моё рабочее место на третьем этаже.
+A2;noun;der;Arbeitgeber;Arbeitgeber;;;;работодатель;Mein **Arbeitgeber** zahlt gut.;Мой работодатель хорошо платит.
+A2;noun;der;Arbeitnehmer;Arbeitnehmer;;;;работник, наёмный сотрудник;Die **Arbeitnehmer** haben 30 Tage Urlaub.;У работников 30 дней отпуска.
+A2;noun;die;Stelle;Stellen;;;;место, должность, вакансия;Ich suche eine neue **Stelle**.;Я ищу новую работу.
+A2;noun;die;Bewerbung;Bewerbungen;;;;заявление (о приёме на работу), резюме;Ich schicke meine **Bewerbung** per E-Mail.;Я отправляю своё резюме по электронной почте.
+A2;noun;der;Lebenslauf;Lebensläufe;;;;резюме, биография;Bitte schicken Sie uns Ihren **Lebenslauf**.;Пожалуйста, пришлите нам своё резюме.
+A2;noun;das;Gehalt;Gehälter;;;;зарплата, оклад;Das **Gehalt** kommt am Monatsende.;Зарплата приходит в конце месяца.
+A2;noun;der;Lohn;Löhne;;;;заработная плата;Der **Lohn** ist leider sehr niedrig.;Зарплата, к сожалению, очень низкая.
+A2;noun;die;Erfahrung;Erfahrungen;;;;опыт;Haben Sie **Erfahrung** in diesem Beruf?;У вас есть опыт в этой профессии?
+A2;noun;die;Besprechung;Besprechungen;;;;совещание;Die **Besprechung** dauert eine Stunde.;Совещание длится час.
+A2;noun;die;Pause;Pausen;;;;перерыв;Um zwölf Uhr machen wir **Pause**.;В двенадцать часов у нас перерыв.
+A2;noun;die;Kantine;Kantinen;;;;столовая (на работе);Mittags esse ich in der **Kantine**.;В обед я ем в столовой.
+A2;noun;der;Feierabend;Feierabende;;;;конец рабочего дня;Endlich **Feierabend**!;Наконец-то конец рабочего дня!
+A2;noun;der;Kunde;Kunden;;;;клиент, покупатель;Der **Kunde** möchte mit dem Chef sprechen.;Клиент хочет поговорить с начальником.
+A2;noun;der;Verkäufer;Verkäufer;;;;продавец;Der **Verkäufer** hilft mir gern.;Продавец охотно мне помогает.
+A2;noun;der;Koch;Köche;;;;повар;Der **Koch** macht eine tolle Suppe.;Повар готовит отличный суп.
+A2;noun;der;Kellner;Kellner;;;;официант;Der **Kellner** bringt die Rechnung.;Официант приносит счёт.
+A2;noun;der;Fahrer;Fahrer;;;;водитель;Der **Fahrer** wartet vor dem Hotel.;Водитель ждёт перед отелем.
+A2;noun;der;Handwerker;Handwerker;;;;ремесленник, мастер;Morgen kommt ein **Handwerker** und repariert die Heizung.;Завтра придёт мастер и починит отопление.
+A2;noun;der;Ingenieur;Ingenieure;;;;инженер;Mein Bruder ist **Ingenieur** bei Siemens.;Мой брат инженер в компании Siemens.
+A2;noun;der;Mechaniker;Mechaniker;;;;механик;Der **Mechaniker** repariert mein Auto.;Механик ремонтирует мою машину.
+A2;noun;der;Krankenpfleger;Krankenpfleger;;;;медбрат;Er arbeitet als **Krankenpfleger** im Krankenhaus.;Он работает медбратом в больнице.
+A2;noun;der;Rentner;Rentner;;;;пенсионер;Mein Vater ist schon **Rentner**.;Мой отец уже на пенсии.
+A2;noun;die;Rente;Renten;;;;пенсия;Mit 67 geht man in **Rente**.;В 67 лет выходят на пенсию.
+A2;noun;der;Vertrag;Verträge;;;;договор;Ich unterschreibe den **Vertrag** morgen.;Я подпишу договор завтра.
+A2;noun;die;Unterschrift;Unterschriften;;;;подпись;Hier fehlt noch Ihre **Unterschrift**.;Здесь не хватает вашей подписи.
+A2;noun;das;Unternehmen;Unternehmen;;;;предприятие, компания;Das **Unternehmen** hat 500 Mitarbeiter.;На предприятии 500 сотрудников.
+A2;noun;der;Mitarbeiter;Mitarbeiter;;;;сотрудник;Alle **Mitarbeiter** haben heute frei.;У всех сотрудников сегодня выходной.
+A2;noun;die;Abteilung;Abteilungen;;;;отдел;In welcher **Abteilung** arbeiten Sie?;В каком отделе вы работаете?
+A2;noun;die;Aufgabe;Aufgaben;;;;задание, задача;Das ist eine schwierige **Aufgabe**.;Это трудное задание.
+A2;noun;das;Projekt;Projekte;;;;проект;Wir arbeiten an einem neuen **Projekt**.;Мы работаем над новым проектом.
+A2;noun;der;Drucker;Drucker;;;;принтер;Der **Drucker** funktioniert nicht.;Принтер не работает.
+A2;noun;das;Internet;-;;;;интернет;Ich suche die Informationen im **Internet**.;Я ищу информацию в интернете.
+A2;noun;die;Information;Informationen;;;;информация;Wo bekomme ich weitere **Informationen**?;Где я могу получить больше информации?
+A2;noun;die;Nachricht;Nachrichten;;;;сообщение, новость;Ich habe deine **Nachricht** bekommen.;Я получил твоё сообщение.
+A2;noun;die;Datei;Dateien;;;;файл;Ich schicke dir die **Datei** per E-Mail.;Я пришлю тебе файл по почте.
+A2;noun;das;Passwort;Passwörter;;;;пароль;Ich habe mein **Passwort** vergessen.;Я забыл свой пароль.
+A2;noun;der;Bildschirm;Bildschirme;;;;экран, монитор;Der **Bildschirm** ist zu klein.;Экран слишком маленький.
+A2;noun;die;Tastatur;Tastaturen;;;;клавиатура;Die **Tastatur** hat keine deutschen Buchstaben.;На клавиатуре нет немецких букв.
+A2;noun;das;Programm;Programme;;;;программа;Welches **Programm** benutzt du?;Какой программой ты пользуешься?
+A2;noun;die;Sendung;Sendungen;;;;передача (по ТВ, радио);Die **Sendung** beginnt um 20 Uhr.;Передача начинается в 20 часов.
+A2;noun;das;Radio;Radios;;;;радио;Im Auto höre ich immer **Radio**.;В машине я всегда слушаю радио.
+A2;noun;die;Zeitschrift;Zeitschriften;;;;журнал;Ich lese gern **Zeitschriften** über Reisen.;Я люблю читать журналы о путешествиях.
+A2;noun;die;Werbung;-;;;;реклама;Im Fernsehen gibt es zu viel **Werbung**.;По телевизору слишком много рекламы.
+A2;noun;das;Fach;Fächer;;;;предмет (школьный), специальность;Mathe ist mein liebstes **Fach**.;Математика — мой любимый предмет.
+A2;noun;die;Klasse;Klassen;;;;класс;Meine Tochter geht in die dritte **Klasse**.;Моя дочь ходит в третий класс.
+A2;noun;der;Schüler;Schüler;;;;школьник, ученик;Die **Schüler** schreiben heute einen Test.;Ученики сегодня пишут тест.
+A2;noun;das;Zeugnis;Zeugnisse;;;;аттестат, свидетельство, табель;Er hat ein sehr gutes **Zeugnis**.;У него очень хороший аттестат.
+A2;noun;die;Note;Noten;;;;оценка, нота;Ich habe eine gute **Note** in Mathe bekommen.;Я получил хорошую оценку по математике.
+A2;noun;der;Test;Tests;;;;тест;Morgen schreiben wir einen **Test**.;Завтра мы пишем тест.
+A2;noun;die;Hausaufgabe;Hausaufgaben;;;;домашнее задание;Hast du deine **Hausaufgaben** gemacht?;Ты сделал домашнее задание?
+A2;noun;der;Kindergarten;Kindergärten;;;;детский сад;Mein Sohn geht in den **Kindergarten**.;Мой сын ходит в детский сад.
+A2;noun;das;Studium;Studien;;;;учёба (в вузе);Nach dem **Studium** möchte ich im Ausland arbeiten.;После учёбы я хочу работать за границей.
+A2;noun;die;Bibliothek;Bibliotheken;;;;библиотека;Ich leihe Bücher in der **Bibliothek** aus.;Я беру книги в библиотеке.
+A2;noun;das;Wörterbuch;Wörterbücher;;;;словарь;Schau im **Wörterbuch** nach!;Посмотри в словаре!
+A2;noun;die;Bedeutung;Bedeutungen;;;;значение;Was ist die **Bedeutung** von diesem Wort?;Какое значение у этого слова?
+A2;noun;der;Fehler;Fehler;;;;ошибка;Ich mache noch viele **Fehler**.;Я ещё делаю много ошибок.
+A2;noun;das;Beispiel;Beispiele;;;;пример;Können Sie ein **Beispiel** geben?;Можете привести пример?
+A2;noun;die;Idee;Ideen;;;;идея;Ich habe eine gute **Idee**!;У меня есть хорошая идея!
+A2;noun;die;Meinung;Meinungen;;;;мнение;Was ist deine **Meinung**?;Каково твоё мнение?
+A2;noun;der;Grund;Gründe;;;;причина, основание;Aus welchem **Grund** kommst du nicht?;По какой причине ты не придёшь?
+A2;noun;das;Ziel;Ziele;;;;цель;Mein **Ziel** ist das Zertifikat B1.;Моя цель — сертификат B1.
+A2;noun;der;Wunsch;Wünsche;;;;желание;Hast du einen **Wunsch** zum Geburtstag?;У тебя есть желание на день рождения?
+A2;noun;der;Plan;Pläne;;;;план;Was sind deine **Pläne** für den Sommer?;Какие у тебя планы на лето?
+A2;noun;die;Möglichkeit;Möglichkeiten;;;;возможность;Es gibt viele **Möglichkeiten**.;Есть много возможностей.
+A2;noun;die;Lösung;Lösungen;;;;решение;Wir finden bestimmt eine **Lösung**.;Мы наверняка найдём решение.
+A2;noun;das;Ergebnis;Ergebnisse;;;;результат;Das **Ergebnis** ist sehr gut.;Результат очень хороший.
+A2;noun;die;Erlaubnis;Erlaubnisse;;;;разрешение;Du brauchst die **Erlaubnis** von deinen Eltern.;Тебе нужно разрешение родителей.
+A2;noun;das;Glück;-;;;;счастье, удача;Viel **Glück** bei der Prüfung!;Удачи на экзамене!
+A2;noun;die;Angst;Ängste;;;;страх;Ich habe **Angst** vor Hunden.;Я боюсь собак.
+A2;noun;die;Freude;Freuden;;;;радость;Das macht mir große **Freude**.;Это доставляет мне большую радость.
+A2;noun;die;Liebe;-;;;;любовь;**Liebe** ist das Wichtigste im Leben.;Любовь — самое важное в жизни.
+A2;noun;der;Spaß;Späße;;;;удовольствие, веселье, шутка;Das Spiel macht viel **Spaß**.;Эта игра очень весёлая.
+A2;noun;die;Lust;-;;;;желание, охота;Hast du **Lust** auf ein Eis?;Хочешь мороженого?
+A2;noun;der;Ärger;-;;;;неприятности, досада;Ich hatte heute viel **Ärger** im Büro.;У меня сегодня было много неприятностей в офисе.
+A2;noun;die;Sorge;Sorgen;;;;забота, беспокойство;Mach dir keine **Sorgen**!;Не беспокойся!
+A2;noun;das;Gefühl;Gefühle;;;;чувство;Ich habe ein gutes **Gefühl**.;У меня хорошее предчувствие.
+A2;noun;der;Streit;Streite;;;;ссора, спор;Die Kinder haben oft **Streit**.;Дети часто ссорятся.
+A2;noun;das;Ausland;-;;;;заграница;Ich möchte im **Ausland** studieren.;Я хочу учиться за границей.
+A2;noun;der;Ausländer;Ausländer;;;;иностранец;In der Stadt leben viele **Ausländer**.;В городе живёт много иностранцев.
+A2;noun;die;Heimat;-;;;;родина;Meine **Heimat** ist Russland.;Моя родина — Россия.
+A2;noun;die;Grenze;Grenzen;;;;граница;Wir fahren über die **Grenze** nach Polen.;Мы едем через границу в Польшу.
+A2;noun;der;Koffer;Koffer;;;;чемодан;Mein **Koffer** ist zu schwer.;Мой чемодан слишком тяжёлый.
+A2;noun;das;Gepäck;-;;;;багаж;Wo kann ich mein **Gepäck** abgeben?;Где можно сдать багаж?
+A2;noun;der;Rucksack;Rucksäcke;;;;рюкзак;Ich nehme nur einen **Rucksack** mit.;Я беру с собой только рюкзак.
+A2;noun;die;Unterkunft;Unterkünfte;;;;жильё (во время поездки);Wir suchen eine billige **Unterkunft**.;Мы ищем дешёвое жильё.
+A2;noun;die;Jugendherberge;Jugendherbergen;;;;молодёжная турбаза, хостел;Wir übernachten in einer **Jugendherberge**.;Мы ночуем в хостеле.
+A2;noun;die;Übernachtung;Übernachtungen;;;;ночёвка;Eine **Übernachtung** kostet 80 Euro.;Одна ночь стоит 80 евро.
+A2;noun;das;Doppelzimmer;Doppelzimmer;;;;двухместный номер;Ich möchte ein **Doppelzimmer** reservieren.;Я хотел бы забронировать двухместный номер.
+A2;noun;das;Einzelzimmer;Einzelzimmer;;;;одноместный номер;Haben Sie noch ein **Einzelzimmer** frei?;У вас ещё есть свободный одноместный номер?
+A2;noun;die;Rezeption;Rezeptionen;;;;стойка регистрации, ресепшн;Den Schlüssel bekommen Sie an der **Rezeption**.;Ключ вы получите на ресепшене.
+A2;noun;die;Reservierung;Reservierungen;;;;бронирование;Ich habe eine **Reservierung** auf den Namen Müller.;У меня бронь на фамилию Мюллер.
+A2;noun;das;Reisebüro;Reisebüros;;;;турагентство;Wir buchen die Reise im **Reisebüro**.;Мы бронируем поездку в турагентстве.
+A2;noun;der;Ausflug;Ausflüge;;;;экскурсия, поездка (на день);Am Sonntag machen wir einen **Ausflug** an den See.;В воскресенье мы едем на озеро.
+A2;noun;die;Sehenswürdigkeit;Sehenswürdigkeiten;;;;достопримечательность;Berlin hat viele **Sehenswürdigkeiten**.;В Берлине много достопримечательностей.
+A2;noun;die;Führung;Führungen;;;;экскурсия (с гидом);Die **Führung** durch das Museum dauert eine Stunde.;Экскурсия по музею длится час.
+A2;noun;der;Tourist;Touristen;;;;турист;Im Sommer kommen viele **Touristen** in die Stadt.;Летом в город приезжает много туристов.
+A2;noun;die;Landschaft;Landschaften;;;;пейзаж, ландшафт;Die **Landschaft** hier ist wunderschön.;Пейзаж здесь чудесный.
+A2;noun;die;Insel;Inseln;;;;остров;Wir machen Urlaub auf einer **Insel**.;Мы отдыхаем на острове.
+A2;noun;der;Fluss;Flüsse;;;;река;Der Rhein ist ein langer **Fluss**.;Рейн — длинная река.
+A2;noun;die;Küste;Küsten;;;;побережье;Wir fahren an die **Küste**.;Мы едем на побережье.
+A2;noun;das;Zelt;Zelte;;;;палатка;Wir schlafen im **Zelt**.;Мы спим в палатке.
+A2;noun;die;Autobahn;Autobahnen;;;;автобан, автомагистраль;Auf der **Autobahn** gibt es einen Stau.;На автобане пробка.
+A2;noun;der;Stau;Staus;;;;пробка (на дороге);Ich stehe seit einer Stunde im **Stau**.;Я уже час стою в пробке.
+A2;noun;der;Verkehr;-;;;;движение (транспорта);Am Morgen ist viel **Verkehr**.;Утром сильное движение.
+A2;noun;die;Tankstelle;Tankstellen;;;;заправка;Wir müssen zur **Tankstelle**, der Tank ist fast leer.;Нам нужно на заправку, бак почти пустой.
+A2;noun;der;Führerschein;Führerscheine;;;;водительские права;Ich mache gerade den **Führerschein**.;Я сейчас получаю водительские права.
+A2;noun;die;Verspätung;Verspätungen;;;;опоздание, задержка;Der Zug hat 20 Minuten **Verspätung**.;Поезд опаздывает на 20 минут.
+A2;noun;der;Anschluss;Anschlüsse;;;;пересадка, подключение;Ich habe meinen **Anschluss** verpasst.;Я опоздал на пересадку.
+A2;noun;die;Rückfahrkarte;Rückfahrkarten;;;;билет туда и обратно;Eine **Rückfahrkarte** nach Bonn, bitte.;Билет до Бонна и обратно, пожалуйста.
+A2;noun;der;Schalter;Schalter;;;;окошко (кассы), выключатель;Fahrkarten gibt es am **Schalter**.;Билеты продаются в кассе.
+A2;noun;der;Automat;Automaten;;;;автомат;Ich ziehe die Fahrkarte am **Automaten**.;Я покупаю билет в автомате.
+A2;noun;der;Eingang;Eingänge;;;;вход;Wir treffen uns am **Eingang**.;Встречаемся у входа.
+A2;noun;der;Ausgang;Ausgänge;;;;выход;Wo ist der **Ausgang**?;Где выход?
+A2;noun;das;Erdgeschoss;Erdgeschosse;;;;первый этаж;Die Küche ist im **Erdgeschoss**.;Кухня на первом этаже.
+A2;noun;der;Keller;Keller;;;;подвал;Die Fahrräder stehen im **Keller**.;Велосипеды стоят в подвале.
+A2;noun;die;Heizung;Heizungen;;;;отопление, батарея;Die **Heizung** ist kaputt.;Отопление сломалось.
+A2;noun;der;Strom;-;;;;электричество, ток;Der **Strom** ist sehr teuer geworden.;Электричество очень подорожало.
+A2;noun;die;Nebenkosten;pl;;;;коммунальные платежи;Die Miete beträgt 600 Euro plus **Nebenkosten**.;Аренда составляет 600 евро плюс коммунальные платежи.
+A2;noun;der;Vermieter;Vermieter;;;;арендодатель;Der **Vermieter** wohnt im Erdgeschoss.;Арендодатель живёт на первом этаже.
+A2;noun;der;Mieter;Mieter;;;;арендатор, жилец;Alle **Mieter** müssen die Treppe putzen.;Все жильцы должны мыть лестницу.
+A2;noun;der;Umzug;Umzüge;;;;переезд;Der **Umzug** war sehr anstrengend.;Переезд был очень утомительным.
+A2;noun;die;Möbel;pl;;;;мебель;Wir brauchen neue **Möbel**.;Нам нужна новая мебель.
+A2;noun;das;Regal;Regale;;;;полка, стеллаж;Die Bücher stehen im **Regal**.;Книги стоят на полке.
+A2;noun;der;Teppich;Teppiche;;;;ковёр;Der **Teppich** ist sehr alt.;Ковёр очень старый.
+A2;noun;der;Spiegel;Spiegel;;;;зеркало;Im Bad hängt ein großer **Spiegel**.;В ванной висит большое зеркало.
+A2;noun;die;Wand;Wände;;;;стена;Ich hänge das Bild an die **Wand**.;Я вешаю картину на стену.
+A2;noun;der;Boden;Böden;;;;пол, земля;Das Buch liegt auf dem **Boden**.;Книга лежит на полу.
+A2;noun;die;Decke;Decken;;;;потолок, одеяло, плед;Mir ist kalt, gib mir bitte eine **Decke**.;Мне холодно, дай мне, пожалуйста, плед.
+A2;noun;das;Kissen;Kissen;;;;подушка;Das **Kissen** ist sehr weich.;Подушка очень мягкая.
+A2;noun;die;Waschmaschine;Waschmaschinen;;;;стиральная машина;Die **Waschmaschine** ist im Keller.;Стиральная машина в подвале.
+A2;noun;der;Müll;-;;;;мусор;Kannst du bitte den **Müll** rausbringen?;Можешь вынести мусор?
+A2;noun;die;Mülltonne;Mülltonnen;;;;мусорный бак;Die **Mülltonne** steht im Hof.;Мусорный бак стоит во дворе.
+A2;noun;der;Hof;Höfe;;;;двор;Die Kinder spielen im **Hof**.;Дети играют во дворе.
+A2;noun;die;Umwelt;-;;;;окружающая среда;Wir müssen die **Umwelt** schützen.;Мы должны защищать окружающую среду.
+A2;noun;die;Natur;-;;;;природа;Ich bin gern in der **Natur**.;Я люблю бывать на природе.
+A2;noun;das;Klima;Klimas;;;;климат;Das **Klima** in Spanien ist warm.;Климат в Испании тёплый.
+A2;noun;der;Himmel;Himmel;;;;небо;Der **Himmel** ist heute ganz blau.;Небо сегодня совсем голубое.
+A2;noun;die;Wolke;Wolken;;;;облако;Am Himmel sind viele **Wolken**.;На небе много облаков.
+A2;noun;das;Gewitter;Gewitter;;;;гроза;Heute Abend gibt es ein **Gewitter**.;Сегодня вечером будет гроза.
+A2;noun;die;Temperatur;Temperaturen;;;;температура;Die **Temperatur** fällt unter null.;Температура опускается ниже нуля.
+A2;noun;die;Luft;-;;;;воздух;Hier ist die **Luft** sehr frisch.;Здесь очень свежий воздух.
+A2;noun;die;Pflanze;Pflanzen;;;;растение;Ich gieße jeden Tag die **Pflanzen**.;Я каждый день поливаю растения.
+A2;noun;der;Vogel;Vögel;;;;птица;Im Garten singen die **Vögel**.;В саду поют птицы.
+A2;noun;das;Pferd;Pferde;;;;лошадь;Meine Tochter reitet gern **Pferd**.;Моя дочь любит кататься на лошади.
+A2;noun;die;Kuh;Kühe;;;;корова;Auf der Wiese stehen viele **Kühe**.;На лугу стоит много коров.
+A2;noun;die;Wiese;Wiesen;;;;луг;Wir machen ein Picknick auf der **Wiese**.;Мы устраиваем пикник на лугу.
+A2;noun;das;Feld;Felder;;;;поле;Der Bauer arbeitet auf dem **Feld**.;Фермер работает в поле.
+A2;noun;der;Bauernhof;Bauernhöfe;;;;ферма;Meine Großeltern haben einen **Bauernhof**.;У моих бабушки и дедушки есть ферма.
+A2;noun;die;Gesellschaft;Gesellschaften;;;;общество, компания;Die **Gesellschaft** wird immer älter.;Общество становится всё старше.
+A2;noun;die;Politik;-;;;;политика;Ich interessiere mich nicht für **Politik**.;Я не интересуюсь политикой.
+A2;noun;der;Staat;Staaten;;;;государство;Der **Staat** bezahlt die Schule.;Государство оплачивает школу.
+A2;noun;die;Regierung;Regierungen;;;;правительство;Die **Regierung** plant neue Gesetze.;Правительство планирует новые законы.
+A2;noun;das;Gesetz;Gesetze;;;;закон;Das ist gegen das **Gesetz**.;Это противозаконно.
+A2;noun;die;Wahl;Wahlen;;;;выбор, выборы;Im September sind **Wahlen**.;В сентябре выборы.
+A2;noun;die;Steuer;Steuern;;;;налог;Wir zahlen viele **Steuern**.;Мы платим много налогов.
+A2;noun;die;Versicherung;Versicherungen;;;;страховка, страхование;Die **Versicherung** zahlt den Schaden.;Страховка покрывает ущерб.
+A2;noun;die;Krankenkasse;Krankenkassen;;;;больничная касса (медстраховка);Bei welcher **Krankenkasse** sind Sie?;В какой больничной кассе вы застрахованы?
+A2;noun;das;Konto;Konten;;;;счёт (в банке);Ich möchte ein **Konto** eröffnen.;Я хотел бы открыть счёт.
+A2;noun;die;Kreditkarte;Kreditkarten;;;;кредитная карта;Kann ich mit **Kreditkarte** bezahlen?;Могу я заплатить кредитной картой?
+A2;noun;das;Bargeld;-;;;;наличные;Ich habe kein **Bargeld** dabei.;У меня нет с собой наличных.
+A2;noun;die;Quittung;Quittungen;;;;квитанция, чек;Brauchen Sie eine **Quittung**?;Вам нужен чек?
+A2;noun;der;Kassenzettel;Kassenzettel;;;;кассовый чек;Bitte heben Sie den **Kassenzettel** auf.;Пожалуйста, сохраните кассовый чек.
+A2;noun;die;Gebühr;Gebühren;;;;сбор, плата;Die **Gebühr** beträgt 20 Euro.;Сбор составляет 20 евро.
+A2;noun;der;Rabatt;Rabatte;;;;скидка;Für Studenten gibt es 10 Prozent **Rabatt**.;Для студентов скидка 10 процентов.
+A2;noun;die;Qualität;Qualitäten;;;;качество;Die **Qualität** ist sehr gut.;Качество очень хорошее.
+A2;noun;die;Marke;Marken;;;;марка, бренд;Welche **Marke** ist das?;Какой это бренд?
+A2;noun;die;Packung;Packungen;;;;упаковка, пачка;Eine **Packung** Milch, bitte.;Пачку молока, пожалуйста.
+A2;noun;die;Dose;Dosen;;;;банка (консервная);Ich kaufe eine **Dose** Tomaten.;Я покупаю банку помидоров.
+A2;noun;das;Stück;Stücke;;;;кусок, штука;Möchtest du ein **Stück** Kuchen?;Хочешь кусок пирога?
+A2;noun;das;Kilo;Kilos;;;;килограмм;Ein **Kilo** Äpfel kostet drei Euro.;Килограмм яблок стоит три евро.
+A2;noun;der;Liter;Liter;;;;литр;Ich trinke zwei **Liter** Wasser am Tag.;Я пью два литра воды в день.
+A2;noun;das;Gramm;Gramm;;;;грамм;Ich brauche 200 **Gramm** Butter.;Мне нужно 200 граммов масла.
+A2;noun;das;Rezept;Rezepte;;;;рецепт;Der Arzt gibt mir ein **Rezept**.;Врач выписывает мне рецепт.
+A2;noun;die;Erkältung;Erkältungen;;;;простуда;Ich habe eine starke **Erkältung**.;У меня сильная простуда.
+A2;noun;der;Husten;-;;;;кашель;Gegen **Husten** hilft Tee mit Honig.;От кашля помогает чай с мёдом.
+A2;noun;der;Schnupfen;-;;;;насморк;Ich habe **Schnupfen**.;У меня насморк.
+A2;noun;die;Grippe;-;;;;грипп;Er liegt mit **Grippe** im Bett.;Он лежит в постели с гриппом.
+A2;noun;die;Verletzung;Verletzungen;;;;травма, ранение;Die **Verletzung** ist nicht schlimm.;Травма несерьёзная.
+A2;noun;der;Notarzt;Notärzte;;;;врач скорой помощи;Ruf schnell den **Notarzt**!;Быстро вызови скорую!
+A2;noun;der;Notfall;Notfälle;;;;экстренный случай;Im **Notfall** rufen Sie die 112 an.;В экстренном случае звоните по номеру 112.
+A2;noun;die;Krankmeldung;Krankmeldungen;;;;больничный лист;Ich bringe die **Krankmeldung** zum Chef.;Я отнесу больничный начальнику.
+A2;noun;die;Sprechstunde;Sprechstunden;;;;приёмные часы;Die **Sprechstunde** ist von 8 bis 12 Uhr.;Приём с 8 до 12 часов.
+A2;noun;die;Versichertenkarte;Versichertenkarten;;;;карточка медстраховки;Bitte zeigen Sie Ihre **Versichertenkarte**.;Пожалуйста, покажите вашу страховую карточку.
+A2;verb;;abholen;;;holte ab;hat abgeholt;забирать (кого-то, что-то);Ich **hole** dich vom Bahnhof **ab**.;Я заберу тебя с вокзала.
+A2;verb;;absagen;;;sagte ab;hat abgesagt;отменять;Ich muss den Termin leider **absagen**.;К сожалению, мне нужно отменить встречу.
+A2;verb;;abgeben;;er gibt ab;gab ab;hat abgegeben;сдавать, отдавать;Bitte **geben** Sie den Test jetzt **ab**.;Пожалуйста, сдайте тест сейчас.
+A2;verb;;anbieten;;;bot an;hat angeboten;предлагать;Darf ich Ihnen etwas zu trinken **anbieten**?;Могу я предложить вам что-нибудь выпить?
+A2;verb;;ändern;;;änderte;hat geändert;изменять;Wir müssen den Plan **ändern**.;Нам нужно изменить план.
+A2;verb;;sich anmelden;;;meldete sich an;hat sich angemeldet;записываться, регистрироваться;Ich **melde mich** für den Kurs **an**.;Я записываюсь на курс.
+A2;verb;;anziehen;;;zog an;hat angezogen;надевать;**Zieh** dir eine Jacke **an**!;Надень куртку!
+A2;verb;;ausziehen;;;zog aus;hat ausgezogen;снимать (одежду), выезжать (из квартиры);Bitte **ziehen** Sie die Schuhe **aus**.;Пожалуйста, снимите обувь.
+A2;verb;;sich ärgern;;;ärgerte sich;hat sich geärgert;злиться, сердиться;Ich **ärgere mich** über den Stau.;Я злюсь из-за пробки.
+A2;verb;;aufräumen;;;räumte auf;hat aufgeräumt;убирать, наводить порядок;**Räum** bitte dein Zimmer **auf**!;Убери, пожалуйста, свою комнату!
+A2;verb;;ausgeben;;er gibt aus;gab aus;hat ausgegeben;тратить (деньги);Ich **gebe** viel Geld für Bücher **aus**.;Я трачу много денег на книги.
+A2;verb;;ausgehen;;;ging aus;ist ausgegangen;выходить (развлекаться);Am Freitag **gehen** wir **aus**.;В пятницу мы идём развлекаться.
+A2;verb;;aussehen;;er sieht aus;sah aus;hat ausgesehen;выглядеть;Du **siehst** heute toll **aus**!;Ты сегодня отлично выглядишь!
+A2;verb;;sich ausruhen;;;ruhte sich aus;hat sich ausgeruht;отдыхать;Am Wochenende **ruhe** ich **mich aus**.;На выходных я отдыхаю.
+A2;verb;;sich bedanken;;;bedankte sich;hat sich bedankt;благодарить;Ich möchte **mich** für die Hilfe **bedanken**.;Я хочу поблагодарить за помощь.
+A2;verb;;bedeuten;;;bedeutete;hat bedeutet;означать;Was **bedeutet** dieses Wort?;Что означает это слово?
+A2;verb;;sich beeilen;;;beeilte sich;hat sich beeilt;торопиться;Wir müssen **uns beeilen**!;Нам нужно поторопиться!
+A2;verb;;behalten;;er behält;behielt;hat behalten;оставлять себе, сохранять;Sie können das Buch **behalten**.;Можете оставить книгу себе.
+A2;verb;;beraten;;er berät;beriet;hat beraten;консультировать, советовать;Der Verkäufer **berät** die Kunden.;Продавец консультирует покупателей.
+A2;verb;;berichten;;;berichtete;hat berichtet;сообщать, докладывать;Die Zeitung **berichtet** über den Unfall.;Газета сообщает об аварии.
+A2;verb;;beschreiben;;;beschrieb;hat beschrieben;описывать;Können Sie den Mann **beschreiben**?;Можете описать этого мужчину?
+A2;verb;;sich beschweren;;;beschwerte sich;hat sich beschwert;жаловаться;Ich möchte **mich** über das Zimmer **beschweren**.;Я хочу пожаловаться на номер.
+A2;verb;;bestehen;;;bestand;hat bestanden;сдать (экзамен), состоять;Ich habe die Prüfung **bestanden**!;Я сдал экзамен!
+A2;verb;;besichtigen;;;besichtigte;hat besichtigt;осматривать (достопримечательности);Morgen **besichtigen** wir die Altstadt.;Завтра мы осматриваем старый город.
+A2;verb;;sich bewerben;;er bewirbt sich;bewarb sich;hat sich beworben;подавать заявление (на работу);Ich **bewerbe mich** um eine Stelle als Kellner.;Я подаю заявление на должность официанта.
+A2;verb;;bieten;;;bot;hat geboten;предлагать, предоставлять;Die Stadt **bietet** viele Freizeitmöglichkeiten.;Город предлагает много возможностей для досуга.
+A2;verb;;braten;;er brät;briet;hat gebraten;жарить;Ich **brate** das Fleisch in der Pfanne.;Я жарю мясо на сковороде.
+A2;verb;;buchen;;;buchte;hat gebucht;бронировать;Wir haben einen Flug nach Rom **gebucht**.;Мы забронировали рейс в Рим.
+A2;verb;;diskutieren;;;diskutierte;hat diskutiert;обсуждать, дискутировать;Wir **diskutieren** über das Problem.;Мы обсуждаем проблему.
+A2;verb;;drucken;;;druckte;hat gedruckt;печатать (на принтере);Kannst du das Dokument **drucken**?;Можешь распечатать документ?
+A2;verb;;einladen;;er lädt ein;lud ein;hat eingeladen;приглашать;Ich **lade** dich zum Essen **ein**.;Я приглашаю тебя на обед.
+A2;verb;;einpacken;;;packte ein;hat eingepackt;упаковывать;Soll ich das Geschenk **einpacken**?;Мне упаковать подарок?
+A2;verb;;einziehen;;;zog ein;ist eingezogen;въезжать (в квартиру);Wir **ziehen** nächsten Monat in die neue Wohnung **ein**.;В следующем месяце мы въезжаем в новую квартиру.
+A2;verb;;empfehlen;;er empfiehlt;empfahl;hat empfohlen;рекомендовать;Können Sie mir ein Restaurant **empfehlen**?;Можете порекомендовать мне ресторан?
+A2;verb;;entscheiden;;;entschied;hat entschieden;решать;Du musst **entscheiden**.;Ты должен решить.
+A2;verb;;sich entschuldigen;;;entschuldigte sich;hat sich entschuldigt;извиняться;Ich **entschuldige mich** für die Verspätung.;Я извиняюсь за опоздание.
+A2;verb;;erreichen;;;erreichte;hat erreicht;достигать, застать (кого-то);Ich kann ihn telefonisch nicht **erreichen**.;Я не могу дозвониться до него.
+A2;verb;;sich erinnern;;;erinnerte sich;hat sich erinnert;помнить, вспоминать;**Erinnerst** du **dich** an unseren Urlaub?;Ты помнишь наш отпуск?
+A2;verb;;sich erkälten;;;erkältete sich;hat sich erkältet;простужаться;Ich habe **mich erkältet**.;Я простудился.
+A2;verb;;erlauben;;;erlaubte;hat erlaubt;разрешать;Meine Eltern **erlauben** mir das nicht.;Мои родители мне этого не разрешают.
+A2;verb;;erleben;;;erlebte;hat erlebt;переживать, испытывать;Im Urlaub haben wir viel **erlebt**.;В отпуске мы пережили много интересного.
+A2;verb;;fehlen;;;fehlte;hat gefehlt;отсутствовать, не хватать;Wer **fehlt** heute?;Кого сегодня нет?
+A2;verb;;festhalten;;er hält fest;hielt fest;hat festgehalten;держать, держаться;Bitte **halten** Sie sich gut **fest**!;Пожалуйста, держитесь крепче!
+A2;verb;;sich fühlen;;;fühlte sich;hat sich gefühlt;чувствовать себя;Ich **fühle mich** heute nicht gut.;Я сегодня плохо себя чувствую.
+A2;verb;;führen;;;führte;hat geführt;вести, руководить;Der Weg **führt** durch den Wald.;Дорога ведёт через лес.
+A2;verb;;gewinnen;;;gewann;hat gewonnen;выигрывать, побеждать;Unsere Mannschaft hat **gewonnen**!;Наша команда выиграла!
+A2;verb;;gratulieren;;;gratulierte;hat gratuliert;поздравлять;Ich **gratuliere** dir zum Geburtstag!;Поздравляю тебя с днём рождения!
+A2;verb;;grillen;;;grillte;hat gegrillt;жарить на гриле;Am Wochenende **grillen** wir im Garten.;На выходных мы жарим шашлыки в саду.
+A2;verb;;halten;;er hält;hielt;hat gehalten;держать, останавливаться;Der Bus **hält** direkt vor dem Haus.;Автобус останавливается прямо перед домом.
+A2;verb;;heiraten;;;heiratete;hat geheiratet;жениться, выходить замуж;Wir **heiraten** im Sommer.;Мы женимся летом.
+A2;verb;;sich interessieren;;;interessierte sich;hat sich interessiert;интересоваться;Ich **interessiere mich** für Kunst.;Я интересуюсь искусством.
+A2;verb;;kennenlernen;;;lernte kennen;hat kennengelernt;знакомиться;Wir haben uns im Urlaub **kennengelernt**.;Мы познакомились в отпуске.
+A2;verb;;klingeln;;;klingelte;hat geklingelt;звонить (в дверь), звенеть;Es hat an der Tür **geklingelt**.;В дверь позвонили.
+A2;verb;;sich konzentrieren;;;konzentrierte sich;hat sich konzentriert;сосредоточиться;Ich kann **mich** nicht **konzentrieren**.;Я не могу сосредоточиться.
+A2;verb;;sich kümmern;;;kümmerte sich;hat sich gekümmert;заботиться;Ich **kümmere mich** um die Kinder.;Я забочусь о детях.
+A2;verb;;landen;;;landete;ist gelandet;приземляться;Das Flugzeug ist pünktlich **gelandet**.;Самолёт приземлился вовремя.
+A2;verb;;leihen;;;lieh;hat geliehen;одалживать;Kannst du mir dein Fahrrad **leihen**?;Можешь одолжить мне свой велосипед?
+A2;verb;;mitnehmen;;er nimmt mit;nahm mit;hat mitgenommen;брать с собой;**Nimm** einen Regenschirm **mit**!;Возьми с собой зонт!
+A2;verb;;nachfragen;;;fragte nach;hat nachgefragt;переспрашивать, уточнять;Ich **frage** morgen noch einmal **nach**.;Я завтра ещё раз уточню.
+A2;verb;;parken;;;parkte;hat geparkt;парковать;Wo kann ich hier **parken**?;Где здесь можно припарковаться?
+A2;verb;;planen;;;plante;hat geplant;планировать;Wir **planen** eine Reise nach Italien.;Мы планируем поездку в Италию.
+A2;verb;;probieren;;;probierte;hat probiert;пробовать;**Probier** mal den Kuchen!;Попробуй-ка пирог!
+A2;verb;;reden;;;redete;hat geredet;говорить, разговаривать;Wir müssen **reden**.;Нам нужно поговорить.
+A2;verb;;regnen;;;regnete;hat geregnet;идти (о дожде);Es **regnet** schon den ganzen Tag.;Дождь идёт уже весь день.
+A2;verb;;reparieren;;;reparierte;hat repariert;ремонтировать;Kannst du mein Fahrrad **reparieren**?;Можешь починить мой велосипед?
+A2;verb;;reservieren;;;reservierte;hat reserviert;бронировать, резервировать;Ich möchte einen Tisch für vier Personen **reservieren**.;Я хотел бы забронировать столик на четверых.
+A2;verb;;retten;;;rettete;hat gerettet;спасать;Der Arzt hat ihm das Leben **gerettet**.;Врач спас ему жизнь.
+A2;verb;;rufen;;;rief;hat gerufen;звать, кричать;Die Mutter **ruft** die Kinder zum Essen.;Мама зовёт детей есть.
+A2;verb;;schaffen;;;schaffte;hat geschafft;справиться, успеть;Wir haben es **geschafft**!;У нас получилось!
+A2;verb;;schenken;;;schenkte;hat geschenkt;дарить;Was **schenkst** du deiner Mutter?;Что ты подаришь своей маме?
+A2;verb;;schneiden;;;schnitt;hat geschnitten;резать, стричь;**Schneid** bitte das Brot.;Нарежь, пожалуйста, хлеб.
+A2;verb;;schneien;;;schneite;hat geschneit;идти (о снеге);Heute **schneit** es.;Сегодня идёт снег.
+A2;verb;;sparen;;;sparte;hat gespart;экономить, копить;Ich **spare** für ein neues Auto.;Я коплю на новую машину.
+A2;verb;;spazieren gehen;;;ging spazieren;ist spazieren gegangen;гулять;Wir **gehen** im Park **spazieren**.;Мы гуляем в парке.
+A2;verb;;sterben;;er stirbt;starb;ist gestorben;умирать;Sein Großvater ist letztes Jahr **gestorben**.;Его дедушка умер в прошлом году.
+A2;verb;;stimmen;;;stimmte;hat gestimmt;быть верным, соответствовать;Das **stimmt** nicht!;Это неправда!
+A2;verb;;stören;;;störte;hat gestört;мешать, беспокоить;**Störe** ich?;Я не помешаю?
+A2;verb;;teilnehmen;;er nimmt teil;nahm teil;hat teilgenommen;участвовать;Ich **nehme** an dem Kurs **teil**.;Я участвую в этом курсе.
+A2;verb;;telefonieren;;;telefonierte;hat telefoniert;разговаривать по телефону;Er **telefoniert** gerade mit seiner Mutter.;Он сейчас разговаривает по телефону с мамой.
+A2;verb;;tragen;;er trägt;trug;hat getragen;носить, нести;Sie **trägt** ein schönes Kleid.;На ней красивое платье.
+A2;verb;;übernachten;;;übernachtete;hat übernachtet;ночевать;Wir **übernachten** im Hotel.;Мы ночуем в отеле.
+A2;verb;;überweisen;;;überwies;hat überwiesen;переводить (деньги);Ich **überweise** das Geld morgen.;Я переведу деньги завтра.
+A2;verb;;umziehen;;;zog um;ist umgezogen;переезжать;Wir **ziehen** nächste Woche **um**.;Мы переезжаем на следующей неделе.
+A2;verb;;unterschreiben;;;unterschrieb;hat unterschrieben;подписывать;Bitte **unterschreiben** Sie hier.;Пожалуйста, подпишите здесь.
+A2;verb;;sich unterhalten;;er unterhält sich;unterhielt sich;hat sich unterhalten;беседовать;Wir haben **uns** lange **unterhalten**.;Мы долго беседовали.
+A2;verb;;verdienen;;;verdiente;hat verdient;зарабатывать, заслуживать;Er **verdient** gut.;Он хорошо зарабатывает.
+A2;verb;;vergleichen;;;verglich;hat verglichen;сравнивать;**Vergleichen** Sie die Preise.;Сравните цены.
+A2;verb;;verlieren;;;verlor;hat verloren;терять, проигрывать;Ich habe meinen Schlüssel **verloren**.;Я потерял свой ключ.
+A2;verb;;verpassen;;;verpasste;hat verpasst;пропустить, опоздать (на транспорт);Ich habe den Bus **verpasst**.;Я опоздал на автобус.
+A2;verb;;verschieben;;;verschob;hat verschoben;переносить (на другое время);Können wir den Termin **verschieben**?;Мы можем перенести встречу?
+A2;verb;;versprechen;;er verspricht;versprach;hat versprochen;обещать;Ich **verspreche** dir, ich komme pünktlich.;Обещаю тебе, я приду вовремя.
+A2;verb;;versuchen;;;versuchte;hat versucht;пытаться, пробовать;Ich **versuche** es noch einmal.;Я попробую ещё раз.
+A2;verb;;vorbereiten;;;bereitete vor;hat vorbereitet;подготавливать;Ich **bereite** mich auf die Prüfung **vor**.;Я готовлюсь к экзамену.
+A2;verb;;vorstellen;;;stellte vor;hat vorgestellt;представлять (кого-то);Darf ich Ihnen meine Frau **vorstellen**?;Позвольте представить вам мою жену.
+A2;verb;;wählen;;;wählte;hat gewählt;выбирать, набирать (номер);**Wählen** Sie die Nummer 110.;Наберите номер 110.
+A2;verb;;wechseln;;;wechselte;hat gewechselt;менять, обменивать;Ich möchte Geld **wechseln**.;Я хотел бы обменять деньги.
+A2;verb;;wecken;;;weckte;hat geweckt;будить;**Weck** mich bitte um sieben Uhr.;Разбуди меня, пожалуйста, в семь часов.
+A2;verb;;weinen;;;weinte;hat geweint;плакать;Warum **weinst** du?;Почему ты плачешь?
+A2;verb;;sich wünschen;;;wünschte sich;hat sich gewünscht;желать, хотеть (в подарок);Was **wünschst** du **dir** zum Geburtstag?;Что ты хочешь на день рождения?
+A2;verb;;zuhören;;;hörte zu;hat zugehört;слушать (внимательно);Bitte **hör** mir **zu**!;Пожалуйста, послушай меня!
+A2;verb;;ziehen;;;zog;hat/ist gezogen;тянуть, переезжать;Sie ist nach Berlin **gezogen**.;Она переехала в Берлин.
+A2;verb;;zurückgeben;;er gibt zurück;gab zurück;hat zurückgegeben;возвращать (что-то);Ich **gebe** dir das Buch morgen **zurück**.;Я верну тебе книгу завтра.
+A2;verb;;zurückkommen;;;kam zurück;ist zurückgekommen;возвращаться;Wann **kommst** du **zurück**?;Когда ты вернёшься?
+A2;adj;;angenehm;;;;;приятный;Das Wetter ist heute sehr **angenehm**.;Погода сегодня очень приятная.
+A2;adj;;anstrengend;;;;;утомительный;Der Tag war sehr **anstrengend**.;День был очень утомительным.
+A2;adj;;ärgerlich;;;;;досадный, раздражённый;Das ist wirklich **ärgerlich**!;Это действительно досадно!
+A2;adj;;arm;;;;;бедный;Die Familie ist sehr **arm**.;Эта семья очень бедная.
+A2;adj;;reich;;;;;богатый;Er ist sehr **reich**.;Он очень богат.
+A2;adj;;aktiv;;;;;активный;Meine Oma ist noch sehr **aktiv**.;Моя бабушка ещё очень активная.
+A2;adj;;bequem;;;;;удобный;Die Schuhe sind sehr **bequem**.;Эти туфли очень удобные.
+A2;adj;;bereit;;;;;готовый;Bist du **bereit**?;Ты готов?
+A2;adj;;berühmt;;;;;знаменитый;Er ist ein **berühmter** Schauspieler.;Он знаменитый актёр.
+A2;adj;;besonders;;;;;особый, особенно;Das Essen war **besonders** gut.;Еда была особенно хорошей.
+A2;adj;;bestimmt;;;;;определённый, наверняка;Er kommt **bestimmt** gleich.;Он наверняка сейчас придёт.
+A2;adj;;blöd;;;;;глупый, дурацкий;So ein **blöder** Fehler!;Какая дурацкая ошибка!
+A2;adj;;böse;;;;;злой, сердитый;Bist du mir **böse**?;Ты на меня сердишься?
+A2;adj;;breit;;;;;широкий;Die Straße ist sehr **breit**.;Улица очень широкая.
+A2;adj;;dick;;;;;толстый;Das Buch ist sehr **dick**.;Книга очень толстая.
+A2;adj;;dünn;;;;;тонкий, худой;Er ist sehr **dünn** geworden.;Он очень похудел.
+A2;adj;;dringend;;;;;срочный;Ich muss **dringend** mit dir sprechen.;Мне срочно нужно с тобой поговорить.
+A2;adj;;einfach;;;;;простой, просто;Die Aufgabe ist ganz **einfach**.;Задание совсем простое.
+A2;adj;;eng;;;;;узкий, тесный;Die Hose ist zu **eng**.;Брюки слишком тесные.
+A2;adj;;fantastisch;;;;;фантастический;Der Urlaub war **fantastisch**!;Отпуск был фантастическим!
+A2;adj;;faul;;;;;ленивый;Am Sonntag bin ich gern **faul**.;В воскресенье я люблю полениться.
+A2;adj;;fit;;;;;в хорошей форме;Ich mache Sport, um **fit** zu bleiben.;Я занимаюсь спортом, чтобы оставаться в форме.
+A2;adj;;fleißig;;;;;прилежный, усердный;Sie ist eine **fleißige** Schülerin.;Она прилежная ученица.
+A2;adj;;frisch;;;;;свежий;Das Brot ist ganz **frisch**.;Хлеб совсем свежий.
+A2;adj;;froh;;;;;радостный, довольный;Ich bin **froh**, dass du da bist.;Я рад, что ты здесь.
+A2;adj;;gefährlich;;;;;опасный;Diese Straße ist sehr **gefährlich**.;Эта улица очень опасная.
+A2;adj;;geduldig;;;;;терпеливый;Unser Lehrer ist sehr **geduldig**.;Наш учитель очень терпеливый.
+A2;adj;;gemütlich;;;;;уютный;Eure Wohnung ist sehr **gemütlich**.;Ваша квартира очень уютная.
+A2;adj;;genau;;;;;точный, точно;Das weiß ich nicht **genau**.;Я точно не знаю.
+A2;adj;;gerade;;;;;прямой, как раз;Ich habe **gerade** keine Zeit.;У меня как раз сейчас нет времени.
+A2;adj;;gleich;;;;;одинаковый;Wir haben die **gleiche** Jacke.;У нас одинаковые куртки.
+A2;adj;;günstig;;;;;выгодный, недорогой;Das Hotel ist sehr **günstig**.;Отель очень недорогой.
+A2;adj;;hart;;;;;твёрдый, жёсткий, тяжёлый;Das Brot ist ganz **hart**.;Хлеб совсем чёрствый.
+A2;adj;;hässlich;;;;;некрасивый, уродливый;Das Haus ist ziemlich **hässlich**.;Этот дом довольно уродливый.
+A2;adj;;hübsch;;;;;хорошенький, симпатичный;Sie ist ein sehr **hübsches** Mädchen.;Она очень симпатичная девушка.
+A2;adj;;intelligent;;;;;умный;Er ist sehr **intelligent**.;Он очень умный.
+A2;adj;;interessant;;;;;интересный;Das Buch ist sehr **interessant**.;Книга очень интересная.
+A2;adj;;klug;;;;;умный;Sie ist ein **kluges** Kind.;Она умный ребёнок.
+A2;adj;;komisch;;;;;странный, смешной;Das ist aber **komisch**!;Как странно!
+A2;adj;;kompliziert;;;;;сложный;Das Formular ist sehr **kompliziert**.;Бланк очень сложный.
+A2;adj;;korrekt;;;;;правильный, корректный;Die Antwort ist **korrekt**.;Ответ правильный.
+A2;adj;;kostenlos;;;;;бесплатный;Der Eintritt ist **kostenlos**.;Вход бесплатный.
+A2;adj;;kühl;;;;;прохладный;Am Abend wird es **kühl**.;Вечером становится прохладно.
+A2;adj;;langweilig;;;;;скучный;Der Film war sehr **langweilig**.;Фильм был очень скучным.
+A2;adj;;lustig;;;;;весёлый, смешной;Mein Onkel ist sehr **lustig**.;Мой дядя очень весёлый.
+A2;adj;;modern;;;;;современный;Die Wohnung ist sehr **modern**.;Квартира очень современная.
+A2;adj;;nass;;;;;мокрый;Meine Schuhe sind ganz **nass**.;Мои туфли совсем мокрые.
+A2;adj;;trocken;;;;;сухой;Die Wäsche ist schon **trocken**.;Бельё уже сухое.
+A2;adj;;neugierig;;;;;любопытный;Sei nicht so **neugierig**!;Не будь таким любопытным!
+A2;adj;;normal;;;;;нормальный, обычный;Das ist ganz **normal**.;Это совершенно нормально.
+A2;adj;;nervös;;;;;нервный;Vor der Prüfung bin ich immer **nervös**.;Перед экзаменом я всегда нервничаю.
+A2;adj;;nützlich;;;;;полезный;Das ist ein sehr **nützlicher** Tipp.;Это очень полезный совет.
+A2;adj;;öffentlich;;;;;общественный, публичный;Ich fahre mit **öffentlichen** Verkehrsmitteln.;Я езжу на общественном транспорте.
+A2;adj;;persönlich;;;;;личный, лично;Ich möchte mit ihm **persönlich** sprechen.;Я хочу поговорить с ним лично.
+A2;adj;;praktisch;;;;;практичный, удобный;Die Tasche ist sehr **praktisch**.;Сумка очень практичная.
+A2;adj;;privat;;;;;частный, личный;Das ist meine **private** Nummer.;Это мой личный номер.
+A2;adj;;sauer;;;;;кислый, сердитый;Er ist **sauer** auf mich.;Он на меня злится.
+A2;adj;;scharf;;;;;острый;Das Essen ist sehr **scharf**.;Еда очень острая.
+A2;adj;;schmutzig;;;;;грязный;Deine Hose ist **schmutzig**.;Твои брюки грязные.
+A2;adj;;schrecklich;;;;;ужасный;Das Wetter ist **schrecklich**.;Погода ужасная.
+A2;adj;;schwach;;;;;слабый;Nach der Grippe bin ich noch **schwach**.;После гриппа я ещё слабый.
+A2;adj;;stark;;;;;сильный;Er ist sehr **stark**.;Он очень сильный.
+A2;adj;;schwierig;;;;;трудный;Die Prüfung war sehr **schwierig**.;Экзамен был очень трудным.
+A2;adj;;selten;;;;;редкий, редко;Wir sehen uns nur **selten**.;Мы видимся только редко.
+A2;adj;;sicher;;;;;безопасный, уверенный, наверняка;Bist du **sicher**?;Ты уверен?
+A2;adj;;spannend;;;;;захватывающий;Der Krimi ist sehr **spannend**.;Детектив очень захватывающий.
+A2;adj;;sportlich;;;;;спортивный;Mein Bruder ist sehr **sportlich**.;Мой брат очень спортивный.
+A2;adj;;still;;;;;тихий, спокойный;Seid bitte **still**!;Тише, пожалуйста!
+A2;adj;;stolz;;;;;гордый;Ich bin **stolz** auf dich.;Я горжусь тобой.
+A2;adj;;süß;;;;;сладкий, милый;Der Kuchen ist sehr **süß**.;Пирог очень сладкий.
+A2;adj;;sympathisch;;;;;симпатичный, приятный;Der neue Kollege ist sehr **sympathisch**.;Новый коллега очень приятный.
+A2;adj;;tief;;;;;глубокий;Der See ist sehr **tief**.;Озеро очень глубокое.
+A2;adj;;typisch;;;;;типичный;Das ist **typisch** deutsch.;Это типично по-немецки.
+A2;adj;;unbedingt;;;;;обязательно;Du musst den Film **unbedingt** sehen!;Ты обязательно должен посмотреть этот фильм!
+A2;adj;;ungesund;;;;;вредный (для здоровья);Rauchen ist sehr **ungesund**.;Курение очень вредно.
+A2;adj;;verboten;;;;;запрещённый;Rauchen ist hier **verboten**.;Здесь курить запрещено.
+A2;adj;;verletzt;;;;;раненый, травмированный;Bei dem Unfall wurde niemand **verletzt**.;При аварии никто не пострадал.
+A2;adj;;verliebt;;;;;влюблённый;Sie ist **verliebt**.;Она влюблена.
+A2;adj;;verrückt;;;;;сумасшедший;Bist du **verrückt**?;Ты с ума сошёл?
+A2;adj;;wach;;;;;бодрствующий, проснувшийся;Bist du schon **wach**?;Ты уже проснулся?
+A2;adj;;wahr;;;;;правдивый, верный;Das ist nicht **wahr**!;Это неправда!
+A2;adj;;weich;;;;;мягкий;Das Bett ist sehr **weich**.;Кровать очень мягкая.
+A2;adj;;wunderbar;;;;;чудесный;Das ist eine **wunderbare** Idee!;Это чудесная идея!
+A2;adj;;zufrieden;;;;;довольный;Ich bin mit meiner Arbeit **zufrieden**.;Я доволен своей работой.
+A2;adj;;zentral;;;;;центральный;Die Wohnung liegt sehr **zentral**.;Квартира расположена в самом центре.
+A2;adj;;deutsch;;;;;немецкий;Ich lese ein **deutsches** Buch.;Я читаю немецкую книгу.
+A2;adj;;international;;;;;международный;Das ist eine **internationale** Firma.;Это международная фирма.
+A2;adj;;durstig;;;;;испытывающий жажду;Ich bin sehr **durstig**.;Мне очень хочется пить.
+A2;adj;;hungrig;;;;;голодный;Die Kinder sind **hungrig**.;Дети голодны.
+A2;adj;;satt;;;;;сытый;Danke, ich bin schon **satt**.;Спасибо, я уже сыт.
+A2;adj;;fett;;;;;жирный;Das Essen ist zu **fett**.;Еда слишком жирная.
+A2;adj;;gemeinsam;;;;;общий, совместный, вместе;Wir kochen **gemeinsam**.;Мы готовим вместе.
+A2;adj;;ehrlich;;;;;честный;Sei bitte **ehrlich**!;Будь, пожалуйста, честным!
+A2;adj;;höflich;;;;;вежливый;Der Kellner ist sehr **höflich**.;Официант очень вежливый.
+A2;adj;;unhöflich;;;;;невежливый;Das war sehr **unhöflich**.;Это было очень невежливо.
+A2;adj;;ähnlich;;;;;похожий;Du bist deiner Mutter sehr **ähnlich**.;Ты очень похож на свою маму.
+A2;adj;;verschieden;;;;;различный, разный;Die Geschwister sind sehr **verschieden**.;Братья и сёстры очень разные.
+A2;adj;;fremdsprachig;;;;;иноязычный;Hier gibt es viele **fremdsprachige** Bücher.;Здесь много книг на иностранных языках.
+A2;adv;;außerdem;;;;;кроме того;**Außerdem** ist das Hotel sehr billig.;Кроме того, отель очень дешёвый.
+A2;adv;;also;;;;;итак, значит;**Also**, was machen wir jetzt?;Итак, что мы теперь делаем?
+A2;adv;;deshalb;;;;;поэтому;Ich war krank, **deshalb** bin ich nicht gekommen.;Я был болен, поэтому не пришёл.
+A2;adv;;trotzdem;;;;;тем не менее, всё равно;Es regnet, **trotzdem** gehen wir spazieren.;Идёт дождь, но мы всё равно идём гулять.
+A2;adv;;sonst;;;;;иначе, в остальном;Beeil dich, **sonst** verpassen wir den Zug.;Поторопись, иначе мы опоздаем на поезд.
+A2;adv;;endlich;;;;;наконец;**Endlich** ist Wochenende!;Наконец-то выходные!
+A2;adv;;plötzlich;;;;;вдруг, внезапно;**Plötzlich** ging das Licht aus.;Вдруг погас свет.
+A2;adv;;meistens;;;;;чаще всего, обычно;**Meistens** fahre ich mit dem Rad.;Обычно я езжу на велосипеде.
+A2;adv;;normalerweise;;;;;обычно;**Normalerweise** stehe ich um sieben auf.;Обычно я встаю в семь.
+A2;adv;;regelmäßig;;;;;регулярно;Ich mache **regelmäßig** Sport.;Я регулярно занимаюсь спортом.
+A2;adv;;täglich;;;;;ежедневно;Die Zeitung erscheint **täglich**.;Газета выходит ежедневно.
+A2;adv;;damals;;;;;тогда (в прошлом);**Damals** wohnten wir in Moskau.;Тогда мы жили в Москве.
+A2;adv;;früher;;;;;раньше;**Früher** habe ich geraucht.;Раньше я курил.
+A2;adv;;inzwischen;;;;;тем временем, уже;**Inzwischen** spreche ich gut Deutsch.;Теперь я уже хорошо говорю по-немецки.
+A2;adv;;neulich;;;;;недавно;Ich habe ihn **neulich** im Supermarkt gesehen.;Я недавно видел его в супермаркете.
+A2;adv;;vorher;;;;;до этого, заранее;Ruf bitte **vorher** an.;Позвони, пожалуйста, заранее.
+A2;adv;;nachher;;;;;потом, после;Wir sehen uns **nachher**.;Увидимся позже.
+A2;adv;;übermorgen;;;;;послезавтра;**Übermorgen** fliege ich nach Rom.;Послезавтра я лечу в Рим.
+A2;adv;;vorgestern;;;;;позавчера;**Vorgestern** war ich beim Arzt.;Позавчера я был у врача.
+A2;adv;;irgendwann;;;;;когда-нибудь;**Irgendwann** möchte ich nach Japan reisen.;Когда-нибудь я хочу поехать в Японию.
+A2;adv;;irgendwo;;;;;где-то, где-нибудь;Mein Handy ist **irgendwo** hier.;Мой телефон где-то здесь.
+A2;adv;;nirgends;;;;;нигде;Ich finde meine Brille **nirgends**.;Я нигде не могу найти свои очки.
+A2;adv;;woanders;;;;;в другом месте;Lass uns **woanders** essen.;Давай поедим в другом месте.
+A2;adv;;hin;;;;;туда;Wo gehst du **hin**?;Куда ты идёшь?
+A2;adv;;her;;;;;сюда;Komm bitte **her**!;Иди сюда, пожалуйста!
+A2;adv;;drinnen;;;;;внутри;Wir bleiben heute **drinnen**.;Сегодня мы останемся внутри.
+A2;adv;;vorne;;;;;впереди;Ich sitze gern **vorne**.;Я люблю сидеть впереди.
+A2;adv;;hinten;;;;;сзади;Die Toiletten sind **hinten** rechts.;Туалеты сзади справа.
+A2;adv;;fast;;;;;почти;Ich bin **fast** fertig.;Я почти готов.
+A2;adv;;kaum;;;;;едва, почти не;Ich habe **kaum** geschlafen.;Я почти не спал.
+A2;adv;;ziemlich;;;;;довольно;Es ist **ziemlich** kalt heute.;Сегодня довольно холодно.
+A2;adv;;etwa;;;;;примерно, около;Die Reise dauert **etwa** drei Stunden.;Поездка длится примерно три часа.
+A2;adv;;eigentlich;;;;;собственно, вообще-то;**Eigentlich** habe ich keine Lust.;Вообще-то мне не хочется.
+A2;adv;;hoffentlich;;;;;надеюсь;**Hoffentlich** regnet es morgen nicht.;Надеюсь, завтра не будет дождя.
+A2;adv;;wahrscheinlich;;;;;вероятно;Er kommt **wahrscheinlich** später.;Он, вероятно, придёт позже.
+A2;adv;;sicherlich;;;;;наверняка, конечно;Das ist **sicherlich** richtig.;Это, наверняка, правильно.
+A2;adv;;gern geschehen;;;;;пожалуйста (в ответ на спасибо);Danke! — **Gern geschehen**!;Спасибо! — Не за что!
+A2;adv;;allerdings;;;;;однако, впрочем;Das Hotel ist schön, **allerdings** teuer.;Отель красивый, однако дорогой.
+A2;adv;;jedenfalls;;;;;во всяком случае;Ich komme **jedenfalls** morgen.;Во всяком случае, я приду завтра.
+A2;adv;;übrigens;;;;;кстати;**Übrigens**, ich habe einen neuen Job.;Кстати, у меня новая работа.
+A2;adv;;sogar;;;;;даже;Er spricht **sogar** Chinesisch.;Он говорит даже по-китайски.
+A2;adv;;zuletzt;;;;;в последний раз, в конце;Wann hast du ihn **zuletzt** gesehen?;Когда ты видел его в последний раз?
+A2;adv;;zum Beispiel;;;;;например;Ich mag Obst, **zum Beispiel** Äpfel.;Я люблю фрукты, например яблоки.
+A2;conj;;ob;;;;;ли (в косвенном вопросе);Ich weiß nicht, **ob** er kommt.;Я не знаю, придёт ли он.
+A2;conj;;obwohl;;;;;хотя;**Obwohl** es regnet, gehe ich joggen.;Хотя идёт дождь, я иду на пробежку.
+A2;conj;;damit;;;;;чтобы (с другим подлежащим);Ich spreche langsam, **damit** du mich verstehst.;Я говорю медленно, чтобы ты меня понял.
+A2;conj;;bevor;;;;;прежде чем, перед тем как;**Bevor** ich schlafen gehe, lese ich.;Перед сном я читаю.
+A2;conj;;nachdem;;;;;после того как;**Nachdem** wir gegessen hatten, gingen wir spazieren.;После того как мы поели, мы пошли гулять.
+A2;conj;;während;;;;;в то время как, пока;**Während** ich koche, hört er Musik.;Пока я готовлю, он слушает музыку.
+A2;conj;;bis;;;;;пока не, до тех пор пока;Warte, **bis** ich zurückkomme.;Подожди, пока я не вернусь.
+A2;conj;;seitdem;;;;;с тех пор как;**Seitdem** ich hier wohne, fahre ich Rad.;С тех пор как я здесь живу, я езжу на велосипеде.
+A2;conj;;sobald;;;;;как только;Ich rufe dich an, **sobald** ich zu Hause bin.;Я позвоню тебе, как только буду дома.
+A2;conj;;entweder ... oder;;;;;либо ... либо;Wir fahren **entweder** ans Meer **oder** in die Berge.;Мы поедем либо на море, либо в горы.
+A2;conj;;sowohl ... als auch;;;;;как ... так и;Er spricht **sowohl** Englisch **als auch** Französisch.;Он говорит как по-английски, так и по-французски.
+A2;conj;;weder ... noch;;;;;ни ... ни;Ich habe **weder** Zeit **noch** Geld.;У меня нет ни времени, ни денег.
+A2;prep;;wegen;;;;;из-за;**Wegen** des Regens bleiben wir zu Hause.;Из-за дождя мы остаёмся дома.
+A2;prep;;trotz;;;;;несмотря на;**Trotz** des Regens gehen wir spazieren.;Несмотря на дождь, мы идём гулять.
+A2;prep;;außer;;;;;кроме;**Außer** mir war niemand da.;Кроме меня, там никого не было.
+A2;prep;;durch;;;;;через, сквозь;Wir gehen **durch** den Park.;Мы идём через парк.
+A2;prep;;entlang;;;;;вдоль;Gehen Sie die Straße **entlang**.;Идите вдоль улицы.
+A2;prep;;gegenüber;;;;;напротив;Die Bank ist **gegenüber** der Post.;Банк напротив почты.
+A2;prep;;innerhalb;;;;;в течение, внутри;Bitte bezahlen Sie **innerhalb** von zwei Wochen.;Пожалуйста, оплатите в течение двух недель.
+A2;prep;;statt;;;;;вместо;**Statt** Kaffee trinke ich Tee.;Вместо кофе я пью чай.
+A2;pron;;sich;;;;;себя, себе;Er wäscht **sich**.;Он умывается.
+A2;pron;;selbst;;;;;сам;Das habe ich **selbst** gemacht.;Это я сделал сам.
+A2;pron;;einander;;;;;друг друга;Wir helfen **einander**.;Мы помогаем друг другу.
+A2;pron;;irgendetwas;;;;;что-нибудь;Möchtest du **irgendetwas** essen?;Хочешь что-нибудь поесть?
+A2;pron;;beide;;;;;оба;**Beide** Kinder gehen in die Schule.;Оба ребёнка ходят в школу.
+A2;pron;;manche;;;;;некоторые;**Manche** Leute mögen keinen Kaffee.;Некоторые люди не любят кофе.
+A2;pron;;mehrere;;;;;несколько;Ich war schon **mehrere** Male in Berlin.;Я уже несколько раз был в Берлине.
+A2;pron;;einige;;;;;некоторые, несколько;Ich habe **einige** Fragen.;У меня есть несколько вопросов.
+A2;interj;;Herzlichen Glückwunsch;;;;;поздравляю;**Herzlichen Glückwunsch** zum Geburtstag!;Поздравляю с днём рождения!
+A2;interj;;Gute Besserung;;;;;выздоравливай;**Gute Besserung**! Werd schnell wieder gesund!;Поправляйся! Выздоравливай скорее!
+A2;interj;;Viel Erfolg;;;;;удачи, успехов;**Viel Erfolg** bei der Prüfung!;Успехов на экзамене!
+A2;interj;;Prost;;;;;будем здоровы (тост);**Prost**! Auf dein Wohl!;Будем! За твоё здоровье!
+A2;noun;der;Onkel;Onkel;;;;дядя;Mein **Onkel** wohnt in Österreich.;Мой дядя живёт в Австрии.
+A2;noun;die;Tante;Tanten;;;;тётя;Meine **Tante** kommt uns morgen besuchen.;Моя тётя приедет к нам завтра.
+A2;noun;der;Cousin;Cousins;;;;двоюродный брат;Mein **Cousin** studiert in München.;Мой двоюродный брат учится в Мюнхене.
+A2;noun;die;Cousine;Cousinen;;;;двоюродная сестра;Meine **Cousine** heiratet im Mai.;Моя двоюродная сестра выходит замуж в мае.
+A2;noun;der;Enkel;Enkel;;;;внук;Die Oma spielt mit ihrem **Enkel**.;Бабушка играет со своим внуком.
+A2;noun;die;Großeltern;pl;;;;бабушка и дедушка;Meine **Großeltern** wohnen auf dem Land.;Мои бабушка и дедушка живут в деревне.
+A2;noun;der;Ehemann;Ehemänner;;;;муж, супруг;Ihr **Ehemann** ist Arzt.;Её муж — врач.
+A2;noun;die;Ehefrau;Ehefrauen;;;;жена, супруга;Seine **Ehefrau** arbeitet als Lehrerin.;Его жена работает учительницей.
+A2;noun;die;Ehe;Ehen;;;;брак;Ihre **Ehe** ist sehr glücklich.;Их брак очень счастливый.
+A2;noun;die;Beziehung;Beziehungen;;;;отношения;Sie haben eine gute **Beziehung**.;У них хорошие отношения.
+A2;noun;die;Jugend;-;;;;молодость, молодёжь;In meiner **Jugend** habe ich viel Sport gemacht.;В молодости я много занимался спортом.
+A2;noun;der;Jugendliche;Jugendlichen;;;;подросток;Für **Jugendliche** ist der Eintritt billiger.;Для подростков вход дешевле.
+A2;noun;der;Erwachsene;Erwachsenen;;;;взрослый;Der Film ist nur für **Erwachsene**.;Фильм только для взрослых.
+A2;noun;die;Person;Personen;;;;человек, персона;Ein Tisch für drei **Personen**, bitte.;Столик на троих, пожалуйста.
+A2;noun;der;Bewohner;Bewohner;;;;житель;Die **Bewohner** des Hauses sind sehr freundlich.;Жители этого дома очень дружелюбные.
+A2;noun;der;Bürger;Bürger;;;;гражданин;Alle **Bürger** dürfen wählen.;Все граждане имеют право голосовать.
+A2;noun;die;Staatsangehörigkeit;Staatsangehörigkeiten;;;;гражданство;Welche **Staatsangehörigkeit** haben Sie?;Какое у вас гражданство?
+A2;noun;der;Wohnort;Wohnorte;;;;место жительства;Bitte geben Sie Ihren **Wohnort** an.;Пожалуйста, укажите ваше место жительства.
+A2;noun;der;Familienstand;-;;;;семейное положение;**Familienstand**: ledig.;Семейное положение: не женат.
+A2;noun;der;Vorname;Vornamen;;;;имя;Wie ist Ihr **Vorname**?;Как ваше имя?
+A2;noun;der;Nachname;Nachnamen;;;;фамилия;Wie schreibt man Ihren **Nachnamen**?;Как пишется ваша фамилия?
+A2;noun;die;Postleitzahl;Postleitzahlen;;;;почтовый индекс;Wie ist die **Postleitzahl** von Bonn?;Какой почтовый индекс у Бонна?
+A2;noun;die;Hausnummer;Hausnummern;;;;номер дома;Wie ist Ihre **Hausnummer**?;Какой у вас номер дома?
+A2;noun;die;Anmeldung;Anmeldungen;;;;регистрация, запись;Die **Anmeldung** für den Kurs ist online.;Запись на курс проходит онлайн.
+A2;noun;der;Antrag;Anträge;;;;заявление, ходатайство;Ich habe einen **Antrag** auf Kindergeld gestellt.;Я подал заявление на детское пособие.
+A2;noun;die;Behörde;Behörden;;;;ведомство, орган власти;Die **Behörde** ist nur vormittags geöffnet.;Ведомство открыто только до обеда.
+A2;noun;das;Dokument;Dokumente;;;;документ;Bringen Sie bitte alle **Dokumente** mit.;Пожалуйста, принесите все документы.
+A2;noun;die;Kopie;Kopien;;;;копия;Ich brauche eine **Kopie** von Ihrem Pass.;Мне нужна копия вашего паспорта.
+A2;noun;das;Visum;Visa;;;;виза;Brauche ich ein **Visum** für Deutschland?;Мне нужна виза в Германию?
+A2;noun;die;Wartenummer;Wartenummern;;;;номер в очереди;Ziehen Sie bitte eine **Wartenummer**.;Пожалуйста, возьмите талон в очередь.
+A2;noun;die;Öffnungszeit;Öffnungszeiten;;;;часы работы;Wie sind die **Öffnungszeiten**?;Какие часы работы?
+A2;noun;der;Briefkasten;Briefkästen;;;;почтовый ящик;Der Brief liegt im **Briefkasten**.;Письмо лежит в почтовом ящике.
+A2;noun;die;Briefmarke;Briefmarken;;;;почтовая марка;Ich brauche eine **Briefmarke** für diesen Brief.;Мне нужна марка для этого письма.
+A2;noun;der;Absender;Absender;;;;отправитель;Auf dem Paket steht kein **Absender**.;На посылке не указан отправитель.
+A2;noun;der;Empfänger;Empfänger;;;;получатель;Der **Empfänger** wohnt nicht mehr hier.;Получатель здесь больше не живёт.
+A2;noun;die;Karte;Karten;;;;карта, открытка, билет;Ich schreibe dir eine **Karte** aus dem Urlaub.;Я напишу тебе открытку из отпуска.
+A2;noun;die;Ansichtskarte;Ansichtskarten;;;;открытка с видом;Wir kaufen eine **Ansichtskarte** von Berlin.;Мы покупаем открытку с видом Берлина.
+A2;noun;der;Anruf;Anrufe;;;;звонок;Danke für deinen **Anruf**!;Спасибо за твой звонок!
+A2;noun;der;Anrufbeantworter;Anrufbeantworter;;;;автоответчик;Sprechen Sie bitte auf den **Anrufbeantworter**.;Пожалуйста, оставьте сообщение на автоответчике.
+A2;noun;die;Vorwahl;Vorwahlen;;;;телефонный код;Die **Vorwahl** von Berlin ist 030.;Телефонный код Берлина — 030.
+A2;noun;das;Gespräch;Gespräche;;;;разговор, беседа;Das **Gespräch** war sehr interessant.;Разговор был очень интересным.
+A2;noun;die;Entschuldigung;Entschuldigungen;;;;извинение;Ich bitte um **Entschuldigung**.;Прошу прощения.
+A2;noun;der;Gruß;Grüße;;;;привет (передать);Viele **Grüße** an deine Familie!;Большой привет твоей семье!
+A2;noun;der;Glückwunsch;Glückwünsche;;;;поздравление;Ich schicke dir meine besten **Glückwünsche**.;Шлю тебе свои лучшие поздравления.
+A2;noun;die;Feier;Feiern;;;;торжество, праздник;Die **Feier** beginnt um 19 Uhr.;Торжество начинается в 19 часов.
+A2;noun;die;Kerze;Kerzen;;;;свеча;Auf dem Kuchen sind zehn **Kerzen**.;На торте десять свечей.
+A2;noun;das;Eis;-;;;;мороженое, лёд;Im Sommer esse ich gern **Eis**.;Летом я люблю есть мороженое.
+A2;noun;das;Brötchen;Brötchen;;;;булочка;Zum Frühstück esse ich zwei **Brötchen**.;На завтрак я ем две булочки.
+A2;noun;die;Marmelade;Marmeladen;;;;варенье, джем;Ich esse Brot mit **Marmelade**.;Я ем хлеб с вареньем.
+A2;noun;der;Honig;-;;;;мёд;Tee mit **Honig** hilft gegen Husten.;Чай с мёдом помогает от кашля.
+A2;noun;der;Joghurt;Joghurts;;;;йогурт;Zum Frühstück esse ich einen **Joghurt**.;На завтрак я ем йогурт.
+A2;noun;die;Sahne;-;;;;сливки;Möchtest du den Kuchen mit **Sahne**?;Хочешь торт со сливками?
+A2;noun;das;Öl;Öle;;;;масло (растительное), нефть;Gib ein bisschen **Öl** in die Pfanne.;Налей немного масла на сковороду.
+A2;noun;der;Pfeffer;-;;;;перец (пряность);Die Suppe braucht noch etwas **Pfeffer**.;Супу нужно ещё немного перца.
+A2;noun;die;Zwiebel;Zwiebeln;;;;лук (репчатый);Ich schneide die **Zwiebeln**.;Я режу лук.
+A2;noun;die;Karotte;Karotten;;;;морковь;Kaninchen essen gern **Karotten**.;Кролики любят морковь.
+A2;noun;die;Gurke;Gurken;;;;огурец;Für den Salat brauche ich eine **Gurke**.;Для салата мне нужен огурец.
+A2;noun;die;Paprika;Paprikas;;;;болгарский перец;Die rote **Paprika** ist sehr süß.;Красный перец очень сладкий.
+A2;noun;der;Pilz;Pilze;;;;гриб;Im Herbst sammeln wir **Pilze**.;Осенью мы собираем грибы.
+A2;noun;die;Birne;Birnen;;;;груша, лампочка;Die **Birne** ist sehr saftig.;Груша очень сочная.
+A2;noun;die;Orange;Orangen;;;;апельсин;Ich presse **Orangen** für Saft.;Я выжимаю апельсины на сок.
+A2;noun;die;Zitrone;Zitronen;;;;лимон;Tee mit **Zitrone**, bitte.;Чай с лимоном, пожалуйста.
+A2;noun;die;Erdbeere;Erdbeeren;;;;клубника;Im Juni gibt es frische **Erdbeeren**.;В июне продаётся свежая клубника.
+A2;noun;die;Kirsche;Kirschen;;;;вишня, черешня;Im Garten wachsen **Kirschen**.;В саду растёт вишня.
+A2;noun;das;Rindfleisch;-;;;;говядина;Ich esse lieber **Rindfleisch** als Schweinefleisch.;Я предпочитаю говядину свинине.
+A2;noun;das;Schweinefleisch;-;;;;свинина;Er isst kein **Schweinefleisch**.;Он не ест свинину.
+A2;noun;das;Steak;Steaks;;;;стейк;Ich nehme das **Steak**, bitte.;Я возьму стейк, пожалуйста.
+A2;noun;die;Pfanne;Pfannen;;;;сковорода;Ich brate die Eier in der **Pfanne**.;Я жарю яйца на сковороде.
+A2;noun;der;Topf;Töpfe;;;;кастрюля;Die Suppe kocht im **Topf**.;Суп варится в кастрюле.
+A2;noun;der;Backofen;Backöfen;;;;духовка;Der Kuchen ist im **Backofen**.;Пирог в духовке.
+A2;noun;die;Spülmaschine;Spülmaschinen;;;;посудомоечная машина;Stell die Teller in die **Spülmaschine**.;Поставь тарелки в посудомойку.
+A2;noun;die;Mahlzeit;Mahlzeiten;;;;приём пищи;Das Frühstück ist die wichtigste **Mahlzeit**.;Завтрак — самый важный приём пищи.
+A2;noun;die;Vorspeise;Vorspeisen;;;;закуска;Als **Vorspeise** nehme ich eine Suppe.;На закуску я возьму суп.
+A2;noun;die;Hauptspeise;Hauptspeisen;;;;основное блюдо;Was möchten Sie als **Hauptspeise**?;Что вы хотите на основное блюдо?
+A2;noun;der;Nachtisch;Nachtische;;;;десерт;Zum **Nachtisch** gibt es Eis.;На десерт мороженое.
+A2;noun;das;Gericht;Gerichte;;;;блюдо, суд;Das ist ein typisches deutsches **Gericht**.;Это типичное немецкое блюдо.
+A2;noun;das;Trinkgeld;Trinkgelder;;;;чаевые;In Deutschland gibt man etwa zehn Prozent **Trinkgeld**.;В Германии оставляют примерно десять процентов чаевых.
+A2;noun;der;Geschmack;Geschmäcker;;;;вкус;Die Suppe hat einen komischen **Geschmack**.;У супа странный вкус.
+A2;noun;der;Appetit;-;;;;аппетит;Guten **Appetit**!;Приятного аппетита!
+A2;noun;die;Diät;Diäten;;;;диета;Ich mache gerade eine **Diät**.;Я сейчас на диете.
+A2;noun;das;Gewicht;Gewichte;;;;вес;Ich möchte mein **Gewicht** halten.;Я хочу сохранить свой вес.
+A2;noun;die;Mannschaft;Mannschaften;;;;команда;Unsere **Mannschaft** hat gewonnen.;Наша команда победила.
+A2;noun;der;Verein;Vereine;;;;клуб, общество, объединение;Ich spiele Fußball in einem **Verein**.;Я играю в футбол в клубе.
+A2;noun;das;Training;Trainings;;;;тренировка;Das **Training** ist am Dienstag.;Тренировка во вторник.
+A2;noun;das;Fitnessstudio;Fitnessstudios;;;;фитнес-клуб;Ich gehe dreimal pro Woche ins **Fitnessstudio**.;Я хожу в спортзал три раза в неделю.
+A2;noun;die;Ausstellung;Ausstellungen;;;;выставка;Die **Ausstellung** ist bis Mai geöffnet.;Выставка открыта до мая.
+A2;noun;die;Kunst;Künste;;;;искусство;Ich interessiere mich für moderne **Kunst**.;Я интересуюсь современным искусством.
+A2;noun;der;Roman;Romane;;;;роман;Ich lese gerade einen spannenden **Roman**.;Я сейчас читаю захватывающий роман.
+A2;noun;der;Krimi;Krimis;;;;детектив;Am Sonntag sehe ich gern einen **Krimi**.;В воскресенье я люблю смотреть детектив.
+A2;noun;die;Geschichte;Geschichten;;;;история, рассказ;Erzähl mir eine **Geschichte**!;Расскажи мне историю!
+A2;noun;das;Lied;Lieder;;;;песня;Das ist mein liebstes **Lied**.;Это моя любимая песня.
+A2;noun;der;Sänger;Sänger;;;;певец;Der **Sänger** ist sehr bekannt.;Этот певец очень известен.
+A2;noun;der;Schauspieler;Schauspieler;;;;актёр;Er ist ein bekannter **Schauspieler**.;Он известный актёр.
+A2;noun;das;Instrument;Instrumente;;;;инструмент (музыкальный);Spielst du ein **Instrument**?;Ты играешь на каком-нибудь инструменте?
+A2;noun;die;Gitarre;Gitarren;;;;гитара;Er spielt **Gitarre** in einer Band.;Он играет на гитаре в группе.
+A2;noun;das;Klavier;Klaviere;;;;пианино;Meine Tochter lernt **Klavier**.;Моя дочь учится играть на пианино.
+A2;noun;die;Eintrittskarte;Eintrittskarten;;;;входной билет;Die **Eintrittskarte** kostet 15 Euro.;Входной билет стоит 15 евро.
+A2;noun;der;Eintritt;Eintritte;;;;вход, входная плата;Der **Eintritt** ist frei.;Вход свободный.
+A2;noun;die;Veranstaltung;Veranstaltungen;;;;мероприятие;Die **Veranstaltung** findet im Park statt.;Мероприятие проходит в парке.
+A2;noun;der;Regenschirm;Regenschirme;;;;зонт;Vergiss deinen **Regenschirm** nicht!;Не забудь свой зонт!
+A2;noun;die;Mütze;Mützen;;;;шапка;Im Winter trage ich eine **Mütze**.;Зимой я ношу шапку.
+A2;noun;der;Schal;Schals;;;;шарф;Der **Schal** ist sehr warm.;Шарф очень тёплый.
+A2;noun;der;Handschuh;Handschuhe;;;;перчатка;Ich habe meine **Handschuhe** verloren.;Я потерял свои перчатки.
+A2;noun;der;Stiefel;Stiefel;;;;сапог;Im Winter trage ich warme **Stiefel**.;Зимой я ношу тёплые сапоги.
+A2;noun;der;Anzug;Anzüge;;;;костюм;Zur Hochzeit trägt er einen **Anzug**.;На свадьбу он надевает костюм.
+A2;noun;die;Kette;Ketten;;;;цепочка, цепь;Sie trägt eine goldene **Kette**.;На ней золотая цепочка.
+A2;noun;der;Ring;Ringe;;;;кольцо;Er hat ihr einen **Ring** geschenkt.;Он подарил ей кольцо.
+A2;noun;die;Uhrzeit;Uhrzeiten;;;;время (на часах);Kannst du mir die **Uhrzeit** sagen?;Можешь сказать, который час?
+A2;noun;der;Moment;Momente;;;;момент;Einen **Moment**, bitte!;Минуточку, пожалуйста!
+A2;noun;der;Anfang;Anfänge;;;;начало;Am **Anfang** war alles schwer.;В начале всё было трудно.
+A2;noun;das;Ende;Enden;;;;конец;Am **Ende** des Films weint sie.;В конце фильма она плачет.
+A2;noun;die;Mitte;Mitten;;;;середина;Wir treffen uns **Mitte** Mai.;Мы встретимся в середине мая.
+A2;noun;das;Jahrhundert;Jahrhunderte;;;;век, столетие;Das Haus ist aus dem 18. **Jahrhundert**.;Дом построен в 18 веке.
+A2;noun;die;Zukunft;-;;;;будущее;Was planst du für die **Zukunft**?;Что ты планируешь на будущее?
+A2;noun;die;Vergangenheit;-;;;;прошлое;Das ist **Vergangenheit**.;Это в прошлом.
+A2;noun;die;Gegenwart;-;;;;настоящее (время);Wir leben in der **Gegenwart**.;Мы живём в настоящем.
+A2;noun;die;Gruppe;Gruppen;;;;группа;Wir arbeiten in **Gruppen**.;Мы работаем в группах.
+A2;noun;die;Teilnahme;-;;;;участие;Die **Teilnahme** ist kostenlos.;Участие бесплатное.
+A2;noun;der;Teilnehmer;Teilnehmer;;;;участник;Der Kurs hat zwölf **Teilnehmer**.;На курсе двенадцать участников.
+A2;noun;die;Erklärung;Erklärungen;;;;объяснение;Danke für die **Erklärung**!;Спасибо за объяснение!
+A2;noun;die;Übung;Übungen;;;;упражнение;Machen Sie bitte **Übung** drei.;Выполните, пожалуйста, упражнение три.
+A2;noun;die;Regel;Regeln;;;;правило;Das ist gegen die **Regeln**.;Это против правил.
+A2;noun;die;Ordnung;Ordnungen;;;;порядок;Alles in **Ordnung**?;Всё в порядке?
+A2;noun;die;Sache;Sachen;;;;вещь, дело;Pack deine **Sachen** ein!;Собери свои вещи!
+A2;noun;das;Ding;Dinge;;;;вещь, штука;Was ist das für ein **Ding**?;Что это за штука?
+A2;noun;der;Gegenstand;Gegenstände;;;;предмет;Im Fundbüro gibt es viele **Gegenstände**.;В бюро находок много предметов.
+A2;noun;das;Fundbüro;Fundbüros;;;;бюро находок;Fragen Sie im **Fundbüro** nach.;Спросите в бюро находок.
+A2;noun;der;Schaden;Schäden;;;;ущерб, повреждение;Der **Schaden** ist nicht groß.;Ущерб небольшой.
+A2;noun;die;Feuerwehr;Feuerwehren;;;;пожарная команда;Ruf die **Feuerwehr**!;Вызови пожарных!
+A2;noun;das;Feuer;Feuer;;;;огонь, пожар;Haben Sie **Feuer**?;У вас есть огонь (прикурить)?
+A2;noun;die;Gefahr;Gefahren;;;;опасность;Hier besteht **Gefahr**!;Здесь опасно!
+A2;noun;die;Sicherheit;Sicherheiten;;;;безопасность, уверенность;Die **Sicherheit** der Kinder ist wichtig.;Безопасность детей важна.
+A2;noun;der;Dieb;Diebe;;;;вор;Der **Dieb** hat meine Tasche gestohlen.;Вор украл мою сумку.
+A2;noun;die;Wahrheit;Wahrheiten;;;;правда;Sag mir die **Wahrheit**!;Скажи мне правду!
+A2;noun;die;Lüge;Lügen;;;;ложь;Das ist eine **Lüge**!;Это ложь!
+A2;noun;das;Geheimnis;Geheimnisse;;;;тайна, секрет;Das ist ein **Geheimnis**.;Это секрет.
+A2;noun;der;Witz;Witze;;;;шутка, анекдот;Er erzählt gern **Witze**.;Он любит рассказывать анекдоты.
+A2;noun;die;Überraschung;Überraschungen;;;;сюрприз;Das ist eine schöne **Überraschung**!;Это приятный сюрприз!
+A2;noun;der;Erfolg;Erfolge;;;;успех;Der Film war ein großer **Erfolg**.;Фильм имел большой успех.
+A2;noun;der;Vorteil;Vorteile;;;;преимущество;Das hat viele **Vorteile**.;У этого много преимуществ.
+A2;noun;der;Nachteil;Nachteile;;;;недостаток;Was sind die **Nachteile**?;Каковы недостатки?
+A2;noun;der;Unterschied;Unterschiede;;;;разница;Was ist der **Unterschied**?;В чём разница?
+A2;noun;die;Hälfte;Hälften;;;;половина;Ich gebe dir die **Hälfte**.;Я дам тебе половину.
+A2;noun;der;Teil;Teile;;;;часть;Der erste **Teil** des Films war besser.;Первая часть фильма была лучше.
+A2;noun;die;Mehrheit;Mehrheiten;;;;большинство;Die **Mehrheit** ist dafür.;Большинство за.
+A2;noun;das;Prozent;Prozente;;;;процент;Die Preise sind um fünf **Prozent** gestiegen.;Цены выросли на пять процентов.
+A2;noun;die;Zahl;Zahlen;;;;число, цифра;Schreiben Sie die **Zahl** in Worten.;Напишите число прописью.
+A2;noun;der;Meter;Meter;;;;метр;Das Haus ist 100 **Meter** von hier.;Дом в 100 метрах отсюда.
+A2;noun;der;Kilometer;Kilometer;;;;километр;Bis zur Arbeit sind es fünf **Kilometer**.;До работы пять километров.
+A2;noun;die;Entfernung;Entfernungen;;;;расстояние;Die **Entfernung** ist nicht so groß.;Расстояние не такое большое.
+A2;noun;die;Richtung;Richtungen;;;;направление;In welche **Richtung** müssen wir gehen?;В каком направлении нам нужно идти?
+A2;noun;der;Norden;-;;;;север;Hamburg liegt im **Norden**.;Гамбург находится на севере.
+A2;noun;der;Süden;-;;;;юг;Im **Süden** ist es wärmer.;На юге теплее.
+A2;noun;der;Osten;-;;;;восток;Die Sonne geht im **Osten** auf.;Солнце встаёт на востоке.
+A2;noun;der;Westen;-;;;;запад;Köln liegt im **Westen** von Deutschland.;Кёльн находится на западе Германии.
+A2;noun;die;Gegend;Gegenden;;;;местность, район;Die **Gegend** ist sehr ruhig.;Местность очень тихая.
+A2;noun;der;Stadtteil;Stadtteile;;;;район города;In welchem **Stadtteil** wohnst du?;В каком районе ты живёшь?
+A2;noun;die;Brücke;Brücken;;;;мост;Wir gehen über die **Brücke**.;Мы идём через мост.
+A2;noun;das;Gebäude;Gebäude;;;;здание;Das **Gebäude** ist sehr modern.;Здание очень современное.
+A2;noun;das;Hochhaus;Hochhäuser;;;;высотный дом;Wir wohnen in einem **Hochhaus**.;Мы живём в высотке.
+A2;noun;der;Spielplatz;Spielplätze;;;;детская площадка;Die Kinder sind auf dem **Spielplatz**.;Дети на детской площадке.
+A2;noun;der;Zoo;Zoos;;;;зоопарк;Am Sonntag gehen wir in den **Zoo**.;В воскресенье мы идём в зоопарк.
+A2;noun;der;Flohmarkt;Flohmärkte;;;;блошиный рынок;Ich habe den Stuhl auf dem **Flohmarkt** gekauft.;Я купил этот стул на блошином рынке.
+A2;noun;das;Kaufhaus;Kaufhäuser;;;;универмаг;Im **Kaufhaus** gibt es alles.;В универмаге есть всё.
+A2;noun;die;Metzgerei;Metzgereien;;;;мясная лавка;Das Fleisch kaufe ich in der **Metzgerei**.;Мясо я покупаю в мясной лавке.
+A2;noun;der;Friseur;Friseure;;;;парикмахер, парикмахерская;Ich gehe morgen zum **Friseur**.;Завтра я иду в парикмахерскую.
+A2;noun;die;Werkstatt;Werkstätten;;;;мастерская, автосервис;Das Auto ist in der **Werkstatt**.;Машина в автосервисе.
+A2;noun;die;Reinigung;Reinigungen;;;;химчистка, уборка;Ich bringe den Anzug in die **Reinigung**.;Я отнесу костюм в химчистку.
+A2;verb;;bauen;;;baute;hat gebaut;строить;Wir **bauen** ein Haus.;Мы строим дом.
+A2;verb;;baden;;;badete;hat gebadet;купаться, принимать ванну;Die Kinder **baden** im See.;Дети купаются в озере.
+A2;verb;;bemerken;;;bemerkte;hat bemerkt;замечать;Ich habe den Fehler nicht **bemerkt**.;Я не заметил ошибку.
+A2;verb;;bestätigen;;;bestätigte;hat bestätigt;подтверждать;Bitte **bestätigen** Sie den Termin.;Пожалуйста, подтвердите встречу.
+A2;verb;;sich bewegen;;;bewegte sich;hat sich bewegt;двигаться;Du musst **dich** mehr **bewegen**.;Тебе нужно больше двигаться.
+A2;verb;;drücken;;;drückte;hat gedrückt;нажимать, давить;**Drücken** Sie den grünen Knopf.;Нажмите зелёную кнопку.
+A2;verb;;eintragen;;er trägt ein;trug ein;hat eingetragen;вписывать, заносить;**Tragen** Sie Ihren Namen hier **ein**.;Впишите своё имя сюда.
+A2;verb;;entdecken;;;entdeckte;hat entdeckt;открывать, обнаруживать;Wir haben ein tolles Restaurant **entdeckt**.;Мы обнаружили отличный ресторан.
+A2;verb;;erfahren;;er erfährt;erfuhr;hat erfahren;узнавать;Wann **erfahre** ich das Ergebnis?;Когда я узнаю результат?
+A2;verb;;erkennen;;;erkannte;hat erkannt;узнавать, распознавать;Ich habe dich nicht **erkannt**.;Я тебя не узнал.
+A2;verb;;essen gehen;;;ging essen;ist essen gegangen;сходить поесть (в ресторан);Wollen wir heute **essen gehen**?;Пойдём сегодня поесть в ресторан?
+A2;verb;;folgen;;;folgte;ist gefolgt;следовать;Bitte **folgen** Sie mir.;Пожалуйста, следуйте за мной.
+A2;verb;;frühstücken;;;frühstückte;hat gefrühstückt;завтракать;Wir **frühstücken** um acht Uhr.;Мы завтракаем в восемь часов.
+A2;verb;;sich gewöhnen;;;gewöhnte sich;hat sich gewöhnt;привыкать;Ich habe **mich** an das Wetter **gewöhnt**.;Я привык к погоде.
+A2;verb;;hoffen;;;hoffte;hat gehofft;надеяться;Ich **hoffe**, du kommst bald.;Надеюсь, ты скоро придёшь.
+A2;verb;;informieren;;;informierte;hat informiert;информировать;Bitte **informieren** Sie mich rechtzeitig.;Пожалуйста, сообщите мне заранее.
+A2;verb;;kontrollieren;;;kontrollierte;hat kontrolliert;проверять, контролировать;Im Zug werden die Fahrkarten **kontrolliert**.;В поезде проверяют билеты.
+A2;verb;;korrigieren;;;korrigierte;hat korrigiert;исправлять;Der Lehrer **korrigiert** die Tests.;Учитель проверяет тесты.
+A2;verb;;sich legen;;;legte sich;hat sich gelegt;ложиться;Ich **lege mich** ein bisschen hin.;Я немного прилягу.
+A2;verb;;lösen;;;löste;hat gelöst;решать (задачу);Wir müssen das Problem **lösen**.;Нам нужно решить проблему.
+A2;verb;;melden;;;meldete;hat gemeldet;сообщать, заявлять;Ich muss den Unfall der Polizei **melden**.;Мне нужно сообщить об аварии в полицию.
+A2;verb;;nennen;;;nannte;hat genannt;называть;Wir **nennen** ihn Max.;Мы зовём его Макс.
+A2;verb;;operieren;;;operierte;hat operiert;оперировать;Der Arzt muss das Knie **operieren**.;Врачу нужно прооперировать колено.
+A2;verb;;passieren;;;passierte;ist passiert;случаться;Was ist **passiert**?;Что случилось?
+A2;verb;;prüfen;;;prüfte;hat geprüft;проверять;Bitte **prüfen** Sie die Rechnung.;Пожалуйста, проверьте счёт.
+A2;verb;;sammeln;;;sammelte;hat gesammelt;собирать, коллекционировать;Er **sammelt** Briefmarken.;Он собирает марки.
+A2;verb;;schauen;;;schaute;hat geschaut;смотреть;**Schau** mal, da ist ein Vogel!;Смотри, там птица!
+A2;verb;;schlagen;;er schlägt;schlug;hat geschlagen;бить, ударять;Man darf Kinder nicht **schlagen**.;Детей нельзя бить.
+A2;verb;;schützen;;;schützte;hat geschützt;защищать;Die Creme **schützt** vor der Sonne.;Крем защищает от солнца.
+A2;verb;;springen;;;sprang;ist gesprungen;прыгать;Das Kind **springt** ins Wasser.;Ребёнок прыгает в воду.
+A2;verb;;steigen;;;stieg;ist gestiegen;подниматься, расти;Die Preise **steigen** jedes Jahr.;Цены растут каждый год.
+A2;verb;;sich streiten;;;stritt sich;hat sich gestritten;ссориться, спорить;Die Kinder **streiten sich** oft.;Дети часто ссорятся.
+A2;verb;;tauschen;;;tauschte;hat getauscht;менять, обменивать;Können wir die Plätze **tauschen**?;Мы можем поменяться местами?
+A2;verb;;trennen;;;trennte;hat getrennt;разделять, сортировать;In Deutschland **trennt** man den Müll.;В Германии мусор сортируют.
+A2;verb;;sich umziehen;;;zog sich um;hat sich umgezogen;переодеваться;Ich muss **mich** noch **umziehen**.;Мне ещё нужно переодеться.
+A2;verb;;unterrichten;;;unterrichtete;hat unterrichtet;преподавать;Sie **unterrichtet** Deutsch an einer Schule.;Она преподаёт немецкий в школе.
+A2;verb;;verlassen;;er verlässt;verließ;hat verlassen;покидать;Er hat das Haus um acht Uhr **verlassen**.;Он вышел из дома в восемь часов.
+A2;verb;;sich verletzen;;;verletzte sich;hat sich verletzt;пораниться, травмироваться;Ich habe **mich** beim Sport **verletzt**.;Я получил травму на спорте.
+A2;verb;;vermieten;;;vermietete;hat vermietet;сдавать (в аренду);Wir **vermieten** eine Wohnung.;Мы сдаём квартиру.
+A2;verb;;vorschlagen;;er schlägt vor;schlug vor;hat vorgeschlagen;предлагать;Was **schlägst** du **vor**?;Что ты предлагаешь?
