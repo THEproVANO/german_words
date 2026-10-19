@@ -55,18 +55,18 @@ TEXTS = {
     "card_rules_de": {
         "ru": "🗂 <b>Карточка слова</b>: часть речи и уровень; у существительных — артикль и "
               "множественное число; у глаголов — форма 3-го лица (если корень меняется), "
-              "Präteritum и Perfekt (fahren (fährt) — fuhr — ist gefahren); 1–3 перевода и пример "
+              "Präteritum и Perfekt (fahren (er fährt) — fuhr — ist gefahren); 1–3 перевода и пример "
               "с переводом.",
         "en": "🗂 <b>Word card</b>: part of speech and level; for nouns, the article and plural; "
               "for verbs, the 3rd person form (if the stem changes), Präteritum and Perfekt "
-              "(fahren (fährt) — fuhr — ist gefahren); 1–3 translations and an example with "
+              "(fahren (er fährt) — fuhr — ist gefahren); 1–3 translations and an example with "
               "its translation.",
         "fr": "🗂 <b>Fiche du mot</b> : nature et niveau ; pour les noms, l'article et le pluriel ; "
               "pour les verbes, la 3e personne (si le radical change), le Präteritum et le Perfekt "
-              "(fahren (fährt) — fuhr — ist gefahren) ; 1 à 3 traductions et un exemple traduit.",
+              "(fahren (er fährt) — fuhr — ist gefahren) ; 1 à 3 traductions et un exemple traduit.",
         "es": "🗂 <b>Ficha de la palabra</b>: categoría y nivel; en los sustantivos, el artículo y "
               "el plural; en los verbos, la 3.ª persona (si cambia la raíz), el Präteritum y el "
-              "Perfekt (fahren (fährt) — fuhr — ist gefahren); 1–3 traducciones y un ejemplo "
+              "Perfekt (fahren (er fährt) — fuhr — ist gefahren); 1–3 traducciones y un ejemplo "
               "traducido.",
     },
     "card_rules_en": {
