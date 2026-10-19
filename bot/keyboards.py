@@ -84,8 +84,8 @@ def profile(lang: str, paused: bool) -> InlineKeyboardMarkup:
          _button(t(lang, "btn_learn"), "profile:learn")],
         [_button(t(lang, "btn_ui"), "profile:ui")],
         [_button(t(lang, "btn_help"), "profile:help")],
-        [_button(t(lang, "btn_resume" if paused else "btn_pause"), "profile:pause"),
-         _button(t(lang, "btn_restart"), "profile:restart")],
+        [_button(t(lang, "btn_resume" if paused else "btn_pause"), "profile:pause")],
+        [_button(t(lang, "btn_restart"), "profile:restart")],
     ])
 
 
