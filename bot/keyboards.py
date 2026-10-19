@@ -31,7 +31,7 @@ def languages(lang: str) -> InlineKeyboardMarkup:
 
 
 levels = InlineKeyboardMarkup(inline_keyboard=[
-    [_button(lvl, f"level:{lvl}") for lvl in LEVELS],
+    [_button(lvl, f"level:{lvl}") for lvl in LEVELS[i:i + 3]] for i in range(0, len(LEVELS), 3)
 ])
 
 

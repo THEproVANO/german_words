@@ -3961,3 +3961,1003 @@ B2;noun;die;Zielstrebigkeit;-;;;;целеустремлённость;Mit **Ziel
 B2;noun;die;Wertschätzung;-;;;;признание, уважение;Mitarbeiter brauchen **Wertschätzung**.;Сотрудникам нужно признание.
 B2;noun;die;Zuneigung;-;;;;симпатия, привязанность;Er zeigt ihr seine **Zuneigung**.;Он проявляет к ней симпатию.
 B2;noun;die;Verbundenheit;-;;;;привязанность, связь;Ich fühle eine tiefe **Verbundenheit** mit meiner Heimat.;Я чувствую глубокую связь с родиной.
+C1;noun;die;Abwägung;Abwägungen;;;;взвешивание (доводов), оценка;Nach sorgfältiger **Abwägung** haben wir uns dagegen entschieden.;После тщательного взвешивания мы решили против.
+C1;noun;die;Akribie;-;;;;скрупулёзность;Er arbeitet mit großer **Akribie**.;Он работает с большой скрупулёзностью.
+C1;noun;die;Ambivalenz;Ambivalenzen;;;;двойственность;Die **Ambivalenz** seiner Gefühle verwirrt ihn.;Двойственность его чувств сбивает его с толку.
+C1;noun;die;Angemessenheit;-;;;;соразмерность, уместность;Die **Angemessenheit** der Strafe wird diskutiert.;Обсуждается соразмерность наказания.
+C1;noun;die;Annäherung;Annäherungen;;;;сближение;Es gab eine vorsichtige **Annäherung** zwischen den beiden Ländern.;Между двумя странами произошло осторожное сближение.
+C1;noun;die;Anschuldigung;Anschuldigungen;;;;обвинение;Er weist alle **Anschuldigungen** zurück.;Он отвергает все обвинения.
+C1;noun;die;Ausprägung;Ausprägungen;;;;выраженность, проявление;Die Krankheit tritt in unterschiedlicher **Ausprägung** auf.;Болезнь проявляется в разной степени.
+C1;noun;die;Ausnahmesituation;Ausnahmesituationen;;;;чрезвычайная ситуация;Das ist eine **Ausnahmesituation** für alle.;Это исключительная ситуация для всех.
+C1;noun;die;Aussagekraft;-;;;;показательность, убедительность;Die Studie hat nur eine geringe **Aussagekraft**.;Исследование мало о чём говорит.
+C1;noun;die;Authentizität;-;;;;подлинность;Die **Authentizität** des Dokuments wird geprüft.;Подлинность документа проверяется.
+C1;noun;die;Befugnis;Befugnisse;;;;полномочие;Dazu habe ich keine **Befugnis**.;У меня нет на это полномочий.
+C1;noun;die;Begebenheit;Begebenheiten;;;;происшествие, случай;Der Film beruht auf einer wahren **Begebenheit**.;Фильм основан на реальных событиях.
+C1;noun;die;Beharrlichkeit;-;;;;настойчивость, упорство;Mit **Beharrlichkeit** hat sie ihr Ziel erreicht.;Упорством она добилась своей цели.
+C1;noun;die;Beklemmung;Beklemmungen;;;;стеснение в груди, тревога;Ein Gefühl der **Beklemmung** überkam ihn.;Его охватило чувство тревоги.
+C1;noun;der;Beweggrund;Beweggründe;;;;мотив, побуждение;Was waren seine **Beweggründe**?;Каковы были его мотивы?
+C1;noun;die;Bewältigung;-;;;;преодоление, совладание;Die **Bewältigung** der Krise dauert Jahre.;Преодоление кризиса займёт годы.
+C1;noun;die;Bürde;Bürden;;;;бремя;Die Verantwortung ist eine schwere **Bürde**.;Ответственность — тяжёлое бремя.
+C1;noun;der;Defizit;Defizite;;;;дефицит, недостаток;Das Unternehmen hat ein hohes **Defizit**.;У предприятия большой дефицит.
+C1;noun;das;Dilemma;Dilemmata;;;;дилемма;Ich stecke in einem echten **Dilemma**.;Я оказался перед настоящей дилеммой.
+C1;noun;die;Diskrepanz;Diskrepanzen;;;;расхождение, несоответствие;Es gibt eine **Diskrepanz** zwischen Theorie und Praxis.;Существует расхождение между теорией и практикой.
+C1;noun;die;Dynamik;-;;;;динамика;Die **Dynamik** im Team hat sich verändert.;Динамика в команде изменилась.
+C1;noun;die;Eigenverantwortung;-;;;;личная ответственность;Jeder trägt **Eigenverantwortung** für seine Gesundheit.;Каждый сам отвечает за своё здоровье.
+C1;noun;die;Einbuße;Einbußen;;;;потеря, убыток;Die Firma musste große **Einbußen** hinnehmen.;Фирме пришлось смириться с большими потерями.
+C1;noun;die;Eingebung;Eingebungen;;;;внезапная мысль, озарение;Einer plötzlichen **Eingebung** folgend, rief sie ihn an.;Повинуясь внезапному порыву, она позвонила ему.
+C1;noun;die;Einschätzung;Einschätzungen;;;;оценка;Nach meiner **Einschätzung** ist das zu riskant.;По моей оценке, это слишком рискованно.
+C1;noun;die;Empathie;-;;;;эмпатия, сопереживание;Für diesen Beruf braucht man viel **Empathie**.;Для этой профессии нужно много эмпатии.
+C1;noun;die;Entfremdung;-;;;;отчуждение;Die **Entfremdung** zwischen ihnen wurde immer größer.;Отчуждение между ними росло.
+C1;noun;die;Entrüstung;-;;;;негодование;Die Entscheidung löste allgemeine **Entrüstung** aus.;Решение вызвало всеобщее негодование.
+C1;noun;das;Ermessen;-;;;;усмотрение;Das liegt in Ihrem **Ermessen**.;Это на ваше усмотрение.
+C1;noun;die;Erwägung;Erwägungen;;;;рассмотрение, соображение;Wir ziehen diese Möglichkeit in **Erwägung**.;Мы рассматриваем эту возможность.
+C1;noun;die;Faszination;-;;;;очарование, увлечение;Die **Faszination** für das Weltall begleitet ihn seit der Kindheit.;Увлечение космосом сопровождает его с детства.
+C1;noun;die;Fehleinschätzung;Fehleinschätzungen;;;;неверная оценка;Das war eine klare **Fehleinschätzung**.;Это была явная ошибка в оценке.
+C1;noun;die;Fluktuation;Fluktuationen;;;;текучесть (кадров), колебание;Die **Fluktuation** in der Firma ist hoch.;Текучесть кадров в фирме высокая.
+C1;noun;die;Folgerung;Folgerungen;;;;вывод, заключение;Welche **Folgerung** ziehen Sie daraus?;Какой вывод вы из этого делаете?
+C1;noun;die;Fürsorge;-;;;;забота, попечение;Sie kümmert sich mit großer **Fürsorge** um ihre Mutter.;Она с большой заботой ухаживает за матерью.
+C1;noun;das;Gefälle;Gefälle;;;;разрыв, перепад, уклон;Es gibt ein starkes soziales **Gefälle**.;Существует сильное социальное расслоение.
+C1;noun;die;Gepflogenheit;Gepflogenheiten;;;;обычай, привычка;Die lokalen **Gepflogenheiten** sollte man respektieren.;Местные обычаи нужно уважать.
+C1;noun;die;Geringschätzung;-;;;;пренебрежение;Er spricht mit **Geringschätzung** über seine Kollegen.;Он с пренебрежением говорит о коллегах.
+C1;noun;die;Gewissenhaftigkeit;-;;;;добросовестность;Ihre **Gewissenhaftigkeit** wird sehr geschätzt.;Её добросовестность очень ценят.
+C1;noun;die;Glaubwürdigkeit;-;;;;достоверность, доверие;Der Skandal hat seine **Glaubwürdigkeit** zerstört.;Скандал подорвал доверие к нему.
+C1;noun;die;Grauzone;Grauzonen;;;;серая зона;Das bewegt sich rechtlich in einer **Grauzone**.;С юридической точки зрения это серая зона.
+C1;noun;die;Gratwanderung;Gratwanderungen;;;;хождение по лезвию ножа;Das ist eine schwierige **Gratwanderung**.;Это трудное балансирование на грани.
+C1;noun;die;Habgier;-;;;;алчность;Seine **Habgier** kennt keine Grenzen.;Его алчность не знает границ.
+C1;noun;die;Hemmschwelle;Hemmschwellen;;;;психологический барьер;Im Internet ist die **Hemmschwelle** niedriger.;В интернете психологический барьер ниже.
+C1;noun;die;Hingabe;-;;;;самоотдача, преданность;Sie pflegt ihren Garten mit großer **Hingabe**.;Она ухаживает за садом с большой самоотдачей.
+C1;noun;die;Hürde;Hürden;;;;барьер, препятствие;Die Sprache ist die größte **Hürde**.;Язык — самый большой барьер.
+C1;noun;die;Implikation;Implikationen;;;;последствие, подтекст;Die **Implikationen** dieser Entscheidung sind enorm.;Последствия этого решения огромны.
+C1;noun;das;Indiz;Indizien;;;;улика, признак;Das ist ein deutliches **Indiz** für seine Schuld.;Это явная улика его вины.
+C1;noun;die;Integrität;-;;;;честность, неприкосновенность;Niemand zweifelt an ihrer **Integrität**.;Никто не сомневается в её честности.
+C1;noun;die;Intention;Intentionen;;;;намерение;Das war nicht meine **Intention**.;Это не было моим намерением.
+C1;noun;die;Intuition;Intuitionen;;;;интуиция;Ich verlasse mich auf meine **Intuition**.;Я полагаюсь на свою интуицию.
+C1;noun;der;Irrtum;Irrtümer;;;;заблуждение, ошибка;Das ist ein weit verbreiteter **Irrtum**.;Это широко распространённое заблуждение.
+C1;noun;die;Kehrtwende;Kehrtwenden;;;;резкий поворот (в политике, мнении);Die Regierung vollzog eine **Kehrtwende**.;Правительство совершило резкий разворот.
+C1;noun;die;Kernaussage;Kernaussagen;;;;главная мысль;Was ist die **Kernaussage** des Textes?;Какова главная мысль текста?
+C1;noun;die;Kluft;Klüfte;;;;пропасть, разрыв;Die **Kluft** zwischen Arm und Reich wächst.;Пропасть между бедными и богатыми растёт.
+C1;noun;der;Konsens;Konsense;;;;консенсус, согласие;Wir haben einen **Konsens** gefunden.;Мы нашли консенсус.
+C1;noun;die;Kontinuität;-;;;;непрерывность, преемственность;Wir legen Wert auf **Kontinuität**.;Мы ценим преемственность.
+C1;noun;die;Konfrontation;Konfrontationen;;;;конфронтация, столкновение;Er sucht keine **Konfrontation**.;Он не ищет конфронтации.
+C1;noun;die;Korruption;-;;;;коррупция;Die **Korruption** im Land ist ein großes Problem.;Коррупция в стране — большая проблема.
+C1;noun;die;Lebenseinstellung;Lebenseinstellungen;;;;жизненная позиция;Sie hat eine positive **Lebenseinstellung**.;У неё позитивный взгляд на жизнь.
+C1;noun;die;Leichtfertigkeit;-;;;;легкомыслие;Seine **Leichtfertigkeit** hat ihn viel Geld gekostet.;Легкомыслие стоило ему больших денег.
+C1;noun;das;Leitbild;Leitbilder;;;;ориентир, идеал, миссия (компании);Das **Leitbild** des Unternehmens ist Nachhaltigkeit.;Миссия компании — устойчивое развитие.
+C1;noun;die;Missbilligung;-;;;;неодобрение;Sie äußerte ihre **Missbilligung**.;Она выразила своё неодобрение.
+C1;noun;der;Missstand;Missstände;;;;непорядок, злоупотребление;Die Zeitung deckte zahlreiche **Missstände** auf.;Газета вскрыла многочисленные злоупотребления.
+C1;noun;die;Mündigkeit;-;;;;совершеннолетие, самостоятельность;Bildung führt zur **Mündigkeit** der Bürger.;Образование делает граждан самостоятельными.
+C1;noun;die;Nachsicht;-;;;;снисхождение;Ich bitte um Ihre **Nachsicht**.;Прошу вашего снисхождения.
+C1;noun;die;Nuance;Nuancen;;;;нюанс, оттенок;Er versteht jede **Nuance** der Sprache.;Он понимает каждый нюанс языка.
+C1;noun;die;Ohnmacht;-;;;;бессилие, обморок;Ein Gefühl der **Ohnmacht** überkam sie.;Её охватило чувство бессилия.
+C1;noun;die;Paradoxie;Paradoxien;;;;парадоксальность, парадокс;Die **Paradoxie** der Situation ist offensichtlich.;Парадоксальность ситуации очевидна.
+C1;noun;die;Pauschalisierung;Pauschalisierungen;;;;огульное обобщение;Solche **Pauschalisierungen** sind gefährlich.;Такие огульные обобщения опасны.
+C1;noun;die;Pflichterfüllung;-;;;;исполнение долга;Er sieht seine Arbeit als **Pflichterfüllung**.;Он воспринимает свою работу как исполнение долга.
+C1;noun;die;Präferenz;Präferenzen;;;;предпочтение;Jeder hat andere **Präferenzen**.;У каждого свои предпочтения.
+C1;noun;die;Prämisse;Prämissen;;;;предпосылка;Unter dieser **Prämisse** stimme ich zu.;При этом условии я согласен.
+C1;noun;die;Rechenschaft;-;;;;отчёт, ответ;Er muss für seine Taten **Rechenschaft** ablegen.;Он должен ответить за свои поступки.
+C1;noun;die;Resignation;-;;;;смирение, покорность судьбе;In seiner Stimme lag **Resignation**.;В его голосе слышалась покорность судьбе.
+C1;noun;der;Respekt;-;;;;уважение;Er genießt großen **Respekt**.;Он пользуется большим уважением.
+C1;noun;die;Rivalität;Rivalitäten;;;;соперничество;Zwischen den beiden Clubs herrscht eine alte **Rivalität**.;Между двумя клубами давнее соперничество.
+C1;noun;die;Rücksichtnahme;-;;;;внимание, уважение к другим;Gegenseitige **Rücksichtnahme** ist wichtig.;Взаимное уважение важно.
+C1;noun;der;Scharfsinn;-;;;;проницательность;Mit großem **Scharfsinn** löste er das Rätsel.;С большой проницательностью он разгадал загадку.
+C1;noun;die;Schattenseite;Schattenseiten;;;;обратная (теневая) сторона;Der Erfolg hat auch seine **Schattenseiten**.;У успеха есть и обратная сторона.
+C1;noun;die;Scheu;-;;;;робость, боязнь;Er hat keine **Scheu**, Fragen zu stellen.;Он не стесняется задавать вопросы.
+C1;noun;die;Schlussfolgerung;Schlussfolgerungen;;;;вывод;Zu welcher **Schlussfolgerung** sind Sie gekommen?;К какому выводу вы пришли?
+C1;noun;die;Selbstüberschätzung;-;;;;переоценка себя;**Selbstüberschätzung** führt oft zu Fehlern.;Переоценка себя часто ведёт к ошибкам.
+C1;noun;die;Sensibilität;-;;;;чувствительность;Das Thema erfordert viel **Sensibilität**.;Тема требует большой деликатности.
+C1;noun;die;Solidarität;-;;;;солидарность;Wir zeigen **Solidarität** mit den Opfern.;Мы проявляем солидарность с пострадавшими.
+C1;noun;die;Sorgfaltspflicht;Sorgfaltspflichten;;;;обязанность проявлять осмотрительность;Der Arzt hat seine **Sorgfaltspflicht** verletzt.;Врач нарушил обязанность проявлять должную осмотрительность.
+C1;noun;die;Spannweite;Spannweiten;;;;размах, диапазон;Die **Spannweite** der Meinungen ist groß.;Разброс мнений велик.
+C1;noun;der;Stellenwert;-;;;;значение, место (в иерархии ценностей);Familie hat für ihn einen hohen **Stellenwert**.;Семья имеет для него большое значение.
+C1;noun;die;Stichhaltigkeit;-;;;;обоснованность, убедительность;Die **Stichhaltigkeit** der Argumente wird bezweifelt.;Обоснованность аргументов ставится под сомнение.
+C1;noun;die;Tatkraft;-;;;;энергичность, деятельность;Mit viel **Tatkraft** hat er die Firma aufgebaut.;С большой энергией он построил фирму.
+C1;noun;die;Teilhabe;-;;;;участие, причастность;Die soziale **Teilhabe** aller Menschen ist das Ziel.;Цель — участие всех людей в жизни общества.
+C1;noun;die;Tragweite;-;;;;значимость, масштаб последствий;Die **Tragweite** dieser Entscheidung war ihm nicht bewusst.;Он не осознавал всей значимости этого решения.
+C1;noun;die;Transparenz;-;;;;прозрачность;Die Bürger fordern mehr **Transparenz**.;Граждане требуют большей прозрачности.
+C1;noun;die;Trägheit;-;;;;инертность, вялость;Gegen die eigene **Trägheit** muss man ankämpfen.;С собственной инертностью нужно бороться.
+C1;noun;die;Überforderung;-;;;;перегрузка, непосильность;Viele Lehrer klagen über **Überforderung**.;Многие учителя жалуются на перегрузку.
+C1;noun;der;Überdruss;-;;;;пресыщение, отвращение;Bis zum **Überdruss** hat er das Lied gehört.;Он слушал эту песню до отвращения.
+C1;noun;die;Überheblichkeit;-;;;;высокомерие;Seine **Überheblichkeit** macht ihn unbeliebt.;Высокомерие делает его непопулярным.
+C1;noun;die;Umsicht;-;;;;осмотрительность;Sie handelte mit großer **Umsicht**.;Она действовала очень осмотрительно.
+C1;noun;die;Unbefangenheit;-;;;;непредвзятость, непосредственность;Kinder gehen mit großer **Unbefangenheit** auf andere zu.;Дети подходят к другим с большой непосредственностью.
+C1;noun;das;Unbehagen;-;;;;неловкость, тревога;Die Situation bereitete mir **Unbehagen**.;Ситуация вызывала у меня тревогу.
+C1;noun;das;Unverständnis;-;;;;непонимание;Die Entscheidung stieß auf **Unverständnis**.;Решение встретило непонимание.
+C1;noun;die;Unvoreingenommenheit;-;;;;непредвзятость;Ein Richter muss **Unvoreingenommenheit** zeigen.;Судья должен проявлять непредвзятость.
+C1;noun;der;Unwille;-;;;;недовольство, нежелание;Er reagierte mit **Unwillen** auf die Kritik.;Он отреагировал на критику с недовольством.
+C1;noun;die;Urteilskraft;-;;;;способность суждения;Stress beeinträchtigt die **Urteilskraft**.;Стресс ухудшает способность здраво судить.
+C1;noun;die;Verantwortlichkeit;Verantwortlichkeiten;;;;ответственность, зона ответственности;Die **Verantwortlichkeiten** sind klar verteilt.;Зоны ответственности чётко распределены.
+C1;noun;die;Verbindlichkeit;Verbindlichkeiten;;;;обязательность, обязательство (долг);Die Firma hat hohe **Verbindlichkeiten**.;У фирмы большие обязательства.
+C1;noun;die;Verdrängung;-;;;;вытеснение;Die **Verdrängung** kleiner Läden durch Ketten schreitet voran.;Вытеснение маленьких магазинов сетями продолжается.
+C1;noun;die;Vereinsamung;-;;;;изоляция, одиночество;Die **Vereinsamung** älterer Menschen nimmt zu.;Одиночество пожилых людей усиливается.
+C1;noun;die;Verflechtung;Verflechtungen;;;;переплетение, взаимосвязь;Die wirtschaftlichen **Verflechtungen** sind komplex.;Экономические взаимосвязи сложны.
+C1;noun;das;Vergehen;Vergehen;;;;проступок, правонарушение;Das ist ein schweres **Vergehen**.;Это серьёзное правонарушение.
+C1;noun;die;Verharmlosung;Verharmlosungen;;;;преуменьшение (опасности);Das ist eine gefährliche **Verharmlosung** des Problems.;Это опасное преуменьшение проблемы.
+C1;noun;die;Verhältnismäßigkeit;-;;;;соразмерность;Die **Verhältnismäßigkeit** der Maßnahmen muss gewahrt bleiben.;Меры должны оставаться соразмерными.
+C1;noun;die;Verlässlichkeit;-;;;;надёжность;**Verlässlichkeit** ist in einer Partnerschaft entscheidend.;Надёжность в отношениях имеет решающее значение.
+C1;noun;die;Vermessenheit;-;;;;дерзость, самонадеянность;Es wäre **Vermessenheit**, das Ergebnis vorherzusagen.;Было бы самонадеянно предсказывать результат.
+C1;noun;die;Versuchung;Versuchungen;;;;искушение;Er konnte der **Versuchung** nicht widerstehen.;Он не смог устоять перед искушением.
+C1;noun;die;Verwirrung;Verwirrungen;;;;замешательство, путаница;Die neue Regel sorgte für **Verwirrung**.;Новое правило вызвало путаницу.
+C1;noun;der;Vorbehalt;Vorbehalte;;;;оговорка, сомнение;Ich habe gewisse **Vorbehalte** gegen diesen Plan.;У меня есть определённые сомнения насчёт этого плана.
+C1;noun;die;Voreingenommenheit;-;;;;предвзятость;Er urteilt ohne **Voreingenommenheit**.;Он судит без предвзятости.
+C1;noun;der;Vorwand;Vorwände;;;;предлог;Unter einem **Vorwand** verließ er das Treffen.;Под каким-то предлогом он покинул встречу.
+C1;noun;die;Wechselwirkung;Wechselwirkungen;;;;взаимодействие;Es gibt eine **Wechselwirkung** zwischen den Medikamenten.;Эти лекарства взаимодействуют друг с другом.
+C1;noun;der;Werdegang;Werdegänge;;;;жизненный путь, карьера;Erzählen Sie uns von Ihrem beruflichen **Werdegang**.;Расскажите нам о своём профессиональном пути.
+C1;noun;die;Wissbegierde;-;;;;любознательность;Kinder haben eine natürliche **Wissbegierde**.;У детей естественная любознательность.
+C1;noun;die;Zerrissenheit;-;;;;внутренняя раздвоенность;Er spürte eine innere **Zerrissenheit**.;Он чувствовал внутреннюю раздвоенность.
+C1;noun;die;Zurückweisung;Zurückweisungen;;;;отказ, отклонение;Die **Zurückweisung** traf ihn hart.;Отказ сильно его задел.
+C1;noun;die;Zuversicht;-;;;;уверенность, надежда;Wir blicken mit **Zuversicht** in die Zukunft.;Мы с надеждой смотрим в будущее.
+C1;noun;der;Zwang;Zwänge;;;;принуждение, необходимость;Er handelte unter **Zwang**.;Он действовал по принуждению.
+C1;noun;die;Abschreckung;-;;;;сдерживание, устрашение;Hohe Strafen sollen der **Abschreckung** dienen.;Высокие штрафы должны служить сдерживанию.
+C1;noun;der;Ansehensverlust;-;;;;потеря репутации;Der Skandal bedeutete einen großen **Ansehensverlust**.;Скандал стал большой потерей репутации.
+C1;noun;das;Ansehen;-;;;;авторитет, репутация;Er genießt hohes **Ansehen** in der Stadt.;Он пользуется большим авторитетом в городе.
+C1;noun;der;Antrieb;Antriebe;;;;побуждение, привод;Neugier ist ein starker **Antrieb**.;Любопытство — сильный стимул.
+C1;noun;der;Aufschub;Aufschübe;;;;отсрочка;Er bat um einen **Aufschub** der Zahlung.;Он попросил отсрочку платежа.
+C1;noun;der;Ausschlag;Ausschläge;;;;сыпь, решающий фактор;Das gab den **Ausschlag** für meine Entscheidung.;Это стало решающим для моего решения.
+C1;noun;die;Beeinträchtigung;Beeinträchtigungen;;;;ухудшение, нарушение;Lärm führt zu einer **Beeinträchtigung** der Lebensqualität.;Шум ухудшает качество жизни.
+C1;noun;die;Befangenheit;-;;;;пристрастность, скованность;Der Richter wurde wegen **Befangenheit** abgelehnt.;Судье дали отвод из-за пристрастности.
+C1;noun;die;Belange;pl;;;;интересы, дела;Er vertritt die **Belange** der Mieter.;Он представляет интересы арендаторов.
+C1;noun;die;Bemühung;Bemühungen;;;;усилие, старание;Trotz aller **Bemühungen** scheiterte das Projekt.;Несмотря на все усилия, проект провалился.
+C1;noun;die;Bereicherung;Bereicherungen;;;;обогащение;Die neue Kollegin ist eine **Bereicherung** für das Team.;Новая коллега — ценное приобретение для команды.
+C1;noun;die;Beschaffenheit;-;;;;свойство, характер;Die **Beschaffenheit** des Bodens ist ideal.;Почва по своим свойствам идеальна.
+C1;noun;die;Besonnenheit;-;;;;рассудительность;Sie reagierte mit großer **Besonnenheit**.;Она отреагировала очень рассудительно.
+C1;noun;die;Bestrebung;Bestrebungen;;;;стремление;Es gibt **Bestrebungen**, das Gesetz zu ändern.;Есть стремление изменить закон.
+C1;noun;die;Bevormundung;-;;;;опека, навязывание (чужой воли);Viele empfinden das als **Bevormundung**.;Многие воспринимают это как навязывание.
+C1;noun;die;Bewandtnis;Bewandtnisse;;;;обстоятельство, дело;Damit hat es folgende **Bewandtnis**.;Дело обстоит так.
+C1;noun;das;Blickfeld;Blickfelder;;;;поле зрения;Das Thema rückt ins **Blickfeld** der Öffentlichkeit.;Тема попадает в поле зрения общественности.
+C1;noun;der;Drahtzieher;Drahtzieher;;;;закулисный организатор;Wer war der **Drahtzieher** des Plans?;Кто стоял за этим планом?
+C1;noun;der;Eigensinn;-;;;;упрямство, своенравие;Sein **Eigensinn** macht die Zusammenarbeit schwer.;Его упрямство затрудняет сотрудничество.
+C1;noun;die;Einflussnahme;Einflussnahmen;;;;оказание влияния;Eine politische **Einflussnahme** ist nicht erlaubt.;Политическое вмешательство не допускается.
+C1;noun;die;Eintönigkeit;-;;;;однообразие;Die **Eintönigkeit** der Arbeit langweilt ihn.;Однообразие работы ему наскучило.
+C1;noun;das;Einvernehmen;-;;;;согласие;Die Trennung erfolgte in gegenseitigem **Einvernehmen**.;Расставание произошло по обоюдному согласию.
+C1;noun;die;Empfänglichkeit;-;;;;восприимчивость;Kinder haben eine große **Empfänglichkeit** für Sprachen.;У детей большая восприимчивость к языкам.
+C1;noun;die;Entlohnung;Entlohnungen;;;;оплата (труда);Die **Entlohnung** ist leistungsabhängig.;Оплата зависит от результатов.
+C1;noun;die;Entschlossenheit;-;;;;решимость;Sie zeigte große **Entschlossenheit**.;Она проявила большую решимость.
+C1;noun;die;Erschwernis;Erschwernisse;;;;затруднение;Das Wetter stellte eine zusätzliche **Erschwernis** dar.;Погода создала дополнительное затруднение.
+C1;noun;das;Fingerspitzengefühl;-;;;;чутьё, такт;Dafür braucht man viel **Fingerspitzengefühl**.;Для этого нужно большое чутьё.
+C1;noun;das;Fazit;Fazits;;;;вывод, итог;Mein **Fazit**: Es hat sich gelohnt.;Мой вывод: это того стоило.
+C1;noun;die;Gegebenheit;Gegebenheiten;;;;условие, обстоятельство;Wir müssen uns den örtlichen **Gegebenheiten** anpassen.;Нам нужно приспособиться к местным условиям.
+C1;noun;das;Gemüt;Gemüter;;;;душа, нрав;Die Nachricht erhitzte die **Gemüter**.;Новость накалила страсти.
+C1;noun;das;Geschick;-;;;;ловкость, умение;Mit viel **Geschick** löste sie das Problem.;Она очень умело решила проблему.
+C1;noun;die;Gesinnung;Gesinnungen;;;;убеждения, образ мыслей;Seine politische **Gesinnung** ist bekannt.;Его политические убеждения известны.
+C1;noun;die;Grundhaltung;Grundhaltungen;;;;основная позиция, установка;Er hat eine optimistische **Grundhaltung**.;По натуре он оптимист.
+C1;noun;der;Handlungsbedarf;-;;;;необходимость действовать;Es besteht dringender **Handlungsbedarf**.;Необходимо срочно действовать.
+C1;noun;der;Handlungsspielraum;Handlungsspielräume;;;;свобода действий;Unser **Handlungsspielraum** ist begrenzt.;Наша свобода действий ограничена.
+C1;noun;die;Heuchelei;Heucheleien;;;;лицемерие;Das ist pure **Heuchelei**.;Это чистое лицемерие.
+C1;noun;die;Hinterlist;-;;;;коварство;Er handelte mit **Hinterlist**.;Он действовал коварно.
+C1;noun;die;Hochachtung;-;;;;глубокое уважение;Ich habe große **Hochachtung** vor ihrer Leistung.;Я глубоко уважаю её достижение.
+C1;noun;der;Interessent;Interessenten;;;;заинтересованное лицо, потенциальный покупатель;Es gibt viele **Interessenten** für die Wohnung.;На квартиру много желающих.
+C1;noun;die;Klarheit;-;;;;ясность;Wir brauchen **Klarheit** über die Kosten.;Нам нужна ясность насчёт расходов.
+C1;noun;die;Kränkung;Kränkungen;;;;обида, оскорбление;Diese **Kränkung** hat er nie vergessen.;Эту обиду он так и не забыл.
+C1;noun;der;Leichtsinn;-;;;;легкомыслие;Aus **Leichtsinn** ist er ohne Helm gefahren.;По легкомыслию он поехал без шлема.
+C1;noun;das;Lob;-;;;;похвала;Sie bekam viel **Lob** für ihre Arbeit.;Она получила много похвал за свою работу.
+C1;noun;die;Machtergreifung;-;;;;захват власти;Die **Machtergreifung** erfolgte 1933.;Захват власти произошёл в 1933 году.
+C1;noun;die;Mäßigung;-;;;;умеренность;Er rief zur **Mäßigung** auf.;Он призвал к умеренности.
+C1;noun;die;Mehrdeutigkeit;Mehrdeutigkeiten;;;;многозначность;Die **Mehrdeutigkeit** des Satzes führt zu Missverständnissen.;Многозначность фразы приводит к недоразумениям.
+C1;noun;der;Missmut;-;;;;недовольство, дурное настроение;Mit **Missmut** nahm er die Nachricht auf.;Он воспринял новость с недовольством.
+C1;noun;die;Nachwirkung;Nachwirkungen;;;;последствие (долгое);Die **Nachwirkungen** der Krise sind noch spürbar.;Последствия кризиса всё ещё ощутимы.
+C1;noun;die;Neugründung;Neugründungen;;;;новое основание (компании);Die Zahl der **Neugründungen** ist gestiegen.;Число новых компаний выросло.
+C1;noun;die;Offenheit;-;;;;открытость;Ich schätze deine **Offenheit**.;Я ценю твою открытость.
+C1;verb;;abklären;;;klärte ab;hat abgeklärt;выяснять, уточнять;Das muss ich erst mit meinem Chef **abklären**.;Мне нужно сначала уточнить это у начальника.
+C1;verb;;abmildern;;;milderte ab;hat abgemildert;смягчать;Die Maßnahmen sollen die Folgen **abmildern**.;Меры должны смягчить последствия.
+C1;verb;;abrunden;;;rundete ab;hat abgerundet;округлять, дополнять;Ein Dessert **rundet** das Menü **ab**.;Десерт завершает меню.
+C1;verb;;abschweifen;;;schweifte ab;ist abgeschweift;отклоняться (от темы);Bitte **schweifen** Sie nicht vom Thema **ab**.;Пожалуйста, не отклоняйтесь от темы.
+C1;verb;;abspeisen;;;speiste ab;hat abgespeist;отделываться (обещаниями);Er lässt sich nicht mit leeren Versprechungen **abspeisen**.;Его не отделаешься пустыми обещаниями.
+C1;verb;;abverlangen;;;verlangte ab;hat abverlangt;требовать (усилий);Der Job **verlangt** mir viel **ab**.;Работа требует от меня многого.
+C1;verb;;abwenden;;;wandte ab;hat abgewandt;предотвращать, отворачивать;Die Katastrophe konnte gerade noch **abgewandt** werden.;Катастрофу едва удалось предотвратить.
+C1;verb;;abwerten;;;wertete ab;hat abgewertet;обесценивать, принижать;Er **wertet** die Leistung anderer ständig **ab**.;Он постоянно принижает достижения других.
+C1;verb;;anfechten;;er ficht an;focht an;hat angefochten;оспаривать;Er will das Urteil **anfechten**.;Он хочет оспорить приговор.
+C1;verb;;anprangern;;;prangerte an;hat angeprangert;клеймить, осуждать публично;Die Organisation **prangert** die Missstände **an**.;Организация публично осуждает злоупотребления.
+C1;verb;;anstiften;;;stiftete an;hat angestiftet;подстрекать;Wer hat ihn dazu **angestiftet**?;Кто подбил его на это?
+C1;verb;;anvisieren;;;visierte an;hat anvisiert;нацеливаться на;Die Firma **visiert** neue Märkte **an**.;Фирма нацеливается на новые рынки.
+C1;verb;;aufarbeiten;;;arbeitete auf;hat aufgearbeitet;прорабатывать, осмыслять (прошлое);Die Vergangenheit muss **aufgearbeitet** werden.;Прошлое нужно осмыслить.
+C1;verb;;aufbegehren;;;begehrte auf;hat aufbegehrt;восставать, возмущаться;Die Jugend **begehrt** gegen die Regeln **auf**.;Молодёжь восстаёт против правил.
+C1;verb;;aufdrängen;;;drängte auf;hat aufgedrängt;навязывать;Ich will dir meine Meinung nicht **aufdrängen**.;Не хочу навязывать тебе своё мнение.
+C1;verb;;aufwerten;;;wertete auf;hat aufgewertet;повышать ценность;Der neue Park **wertet** das Viertel **auf**.;Новый парк повышает привлекательность района.
+C1;verb;;ausblenden;;;blendete aus;hat ausgeblendet;отключаться от, игнорировать;Er **blendet** die Probleme einfach **aus**.;Он просто закрывает глаза на проблемы.
+C1;verb;;ausloten;;;lotete aus;hat ausgelotet;прощупывать, выяснять;Wir **loten** die Möglichkeiten **aus**.;Мы прощупываем возможности.
+C1;verb;;ausschöpfen;;;schöpfte aus;hat ausgeschöpft;исчерпывать, использовать полностью;Wir haben alle Möglichkeiten **ausgeschöpft**.;Мы исчерпали все возможности.
+C1;verb;;aussetzen;;;setzte aus;hat ausgesetzt;прерывать, подвергать, находить изъян;An allem hat er etwas **auszusetzen**.;Он ко всему придирается.
+C1;verb;;bagatellisieren;;;bagatellisierte;hat bagatellisiert;преуменьшать;Man sollte das Problem nicht **bagatellisieren**.;Не стоит преуменьшать проблему.
+C1;verb;;beanspruchen;;;beanspruchte;hat beansprucht;требовать, занимать;Die Arbeit **beansprucht** viel Zeit.;Работа занимает много времени.
+C1;verb;;beanstanden;;;beanstandete;hat beanstandet;предъявлять претензии;Der Kunde hat die Lieferung **beanstandet**.;Клиент предъявил претензии к поставке.
+C1;verb;;beeinträchtigen;;;beeinträchtigte;hat beeinträchtigt;ухудшать, мешать;Lärm **beeinträchtigt** die Konzentration.;Шум мешает сосредоточиться.
+C1;verb;;begünstigen;;;begünstigte;hat begünstigt;благоприятствовать;Das warme Wetter **begünstigt** das Wachstum.;Тёплая погода благоприятствует росту.
+C1;verb;;beharren;;;beharrte;hat beharrt;настаивать (auf);Er **beharrt** auf seiner Meinung.;Он настаивает на своём мнении.
+C1;verb;;beimessen;;er misst bei;maß bei;hat beigemessen;придавать (значение);Man sollte dem keine große Bedeutung **beimessen**.;Не стоит придавать этому большого значения.
+C1;verb;;beipflichten;;;pflichtete bei;hat beigepflichtet;соглашаться;Da muss ich Ihnen **beipflichten**.;Тут я должен с вами согласиться.
+C1;verb;;bekräftigen;;;bekräftigte;hat bekräftigt;подтверждать, подкреплять;Er **bekräftigte** seine Absicht.;Он подтвердил своё намерение.
+C1;verb;;bemängeln;;;bemängelte;hat bemängelt;критиковать, указывать на недостатки;Die Prüfer **bemängelten** die Sicherheit.;Проверяющие указали на недостатки в безопасности.
+C1;verb;;beschönigen;;;beschönigte;hat beschönigt;приукрашивать;Man sollte die Lage nicht **beschönigen**.;Не стоит приукрашивать ситуацию.
+C1;verb;;bestreiten;;;bestritt;hat bestritten;оспаривать, отрицать, покрывать (расходы);Er **bestreitet** die Vorwürfe.;Он отрицает обвинения.
+C1;verb;;betören;;;betörte;hat betört;очаровывать;Ihre Stimme hat alle **betört**.;Её голос всех очаровал.
+C1;verb;;bevormunden;;;bevormundete;hat bevormundet;опекать (чрезмерно), навязывать свою волю;Ich lasse mich nicht **bevormunden**.;Я не позволю собой командовать.
+C1;verb;;bezwecken;;;bezweckte;hat bezweckt;иметь целью;Was **bezweckst** du damit?;Чего ты этим добиваешься?
+C1;verb;;billigen;;;billigte;hat gebilligt;одобрять;Ich kann dein Verhalten nicht **billigen**.;Я не могу одобрить твоё поведение.
+C1;verb;;brüskieren;;;brüskierte;hat brüskiert;грубо обижать, задевать;Er hat seine Gastgeber **brüskiert**.;Он грубо задел хозяев.
+C1;verb;;dementieren;;;dementierte;hat dementiert;опровергать (официально);Die Regierung **dementierte** die Berichte.;Правительство опровергло сообщения.
+C1;verb;;differenzieren;;;differenzierte;hat differenziert;различать, дифференцировать;Man muss hier genau **differenzieren**.;Здесь нужно чётко различать.
+C1;verb;;dominieren;;;dominierte;hat dominiert;доминировать;Das Thema **dominiert** die Nachrichten.;Эта тема доминирует в новостях.
+C1;verb;;eindämmen;;;dämmte ein;hat eingedämmt;сдерживать, ограничивать;Die Ausbreitung des Virus muss **eingedämmt** werden.;Распространение вируса нужно сдержать.
+C1;verb;;einbüßen;;;büßte ein;hat eingebüßt;утратить, лишиться;Die Partei hat viele Stimmen **eingebüßt**.;Партия потеряла много голосов.
+C1;verb;;eingrenzen;;;grenzte ein;hat eingegrenzt;ограничивать, сужать;Wir müssen das Thema **eingrenzen**.;Нам нужно сузить тему.
+C1;verb;;einlenken;;;lenkte ein;hat eingelenkt;уступать, идти на уступки;Nach langen Verhandlungen **lenkte** er **ein**.;После долгих переговоров он уступил.
+C1;verb;;einschreiten;;;schritt ein;ist eingeschritten;вмешиваться (решительно);Die Polizei musste **einschreiten**.;Полиции пришлось вмешаться.
+C1;verb;;einwilligen;;;willigte ein;hat eingewilligt;соглашаться (на);Er hat in die Operation **eingewilligt**.;Он дал согласие на операцию.
+C1;verb;;entgegenwirken;;;wirkte entgegen;hat entgegengewirkt;противодействовать;Wir wollen dem Fachkräftemangel **entgegenwirken**.;Мы хотим противодействовать нехватке специалистов.
+C1;verb;;entziehen;;;entzog;hat entzogen;лишать, отнимать;Ihm wurde der Führerschein **entzogen**.;У него отобрали права.
+C1;verb;;erachten;;;erachtete;hat erachtet;считать, полагать;Ich **erachte** das als notwendig.;Я считаю это необходимым.
+C1;verb;;ergründen;;;ergründete;hat ergründet;постигать, выяснять;Wir versuchen, die Ursache zu **ergründen**.;Мы пытаемся выяснить причину.
+C1;verb;;erörtern;;;erörterte;hat erörtert;обсуждать (подробно);Wir müssen das Problem ausführlich **erörtern**.;Нам нужно подробно обсудить проблему.
+C1;verb;;erschließen;;;erschloss;hat erschlossen;осваивать, открывать (доступ);Die Firma will neue Märkte **erschließen**.;Фирма хочет освоить новые рынки.
+C1;verb;;erwirken;;;erwirkte;hat erwirkt;добиться (решения);Der Anwalt hat eine einstweilige Verfügung **erwirkt**.;Адвокат добился временного запрета.
+C1;verb;;fesseln;;;fesselte;hat gefesselt;захватывать, приковывать (внимание);Das Buch hat mich von Anfang an **gefesselt**.;Книга захватила меня с самого начала.
+C1;verb;;fingieren;;;fingierte;hat fingiert;инсценировать, симулировать;Der Unfall war **fingiert**.;Авария была инсценирована.
+C1;verb;;florieren;;;florierte;hat floriert;процветать;Das Geschäft **floriert**.;Бизнес процветает.
+C1;verb;;fokussieren;;;fokussierte;hat fokussiert;сосредотачивать (sich — сосредоточиться);Wir sollten uns auf das Wesentliche **fokussieren**.;Нам следует сосредоточиться на главном.
+C1;verb;;gutheißen;;;hieß gut;hat gutgeheißen;одобрять;Das kann ich nicht **gutheißen**.;Я не могу этого одобрить.
+C1;verb;;hadern;;;haderte;hat gehadert;роптать, быть недовольным (mit);Er **hadert** mit seinem Schicksal.;Он ропщет на свою судьбу.
+C1;verb;;herbeiführen;;;führte herbei;hat herbeigeführt;вызывать, приводить к;Wir wollen eine Entscheidung **herbeiführen**.;Мы хотим добиться решения.
+C1;verb;;herunterspielen;;;spielte herunter;hat heruntergespielt;преуменьшать;Er **spielt** das Problem **herunter**.;Он преуменьшает проблему.
+C1;verb;;hinauszögern;;;zögerte hinaus;hat hinausgezögert;затягивать, откладывать;Er **zögert** die Entscheidung immer wieder **hinaus**.;Он всё время откладывает решение.
+C1;verb;;hinterlegen;;;hinterlegte;hat hinterlegt;оставлять на хранение, депонировать;Bitte **hinterlegen** Sie eine Kaution.;Пожалуйста, внесите залог.
+C1;verb;;honorieren;;;honorierte;hat honoriert;вознаграждать, ценить;Gute Leistungen werden **honoriert**.;Хорошая работа вознаграждается.
+C1;verb;;implizieren;;;implizierte;hat impliziert;подразумевать;Was **impliziert** diese Aussage?;Что подразумевает это высказывание?
+C1;verb;;inszenieren;;;inszenierte;hat inszeniert;ставить (спектакль), инсценировать;Er hat das Stück neu **inszeniert**.;Он заново поставил пьесу.
+C1;verb;;intervenieren;;;intervenierte;hat interveniert;вмешиваться;Die Regierung musste **intervenieren**.;Правительству пришлось вмешаться.
+C1;verb;;karikieren;;;karikierte;hat karikiert;высмеивать, изображать карикатурно;Der Film **karikiert** die Politik.;Фильм высмеивает политику.
+C1;verb;;kompensieren;;;kompensierte;hat kompensiert;компенсировать;Er **kompensiert** seine Unsicherheit mit Arroganz.;Он компенсирует неуверенность высокомерием.
+C1;verb;;konkretisieren;;;konkretisierte;hat konkretisiert;конкретизировать;Können Sie Ihren Vorschlag **konkretisieren**?;Можете конкретизировать своё предложение?
+C1;verb;;kursieren;;;kursierte;hat kursiert;ходить (о слухах), циркулировать;Im Internet **kursieren** viele Gerüchte.;В интернете ходит много слухов.
+C1;verb;;lahmlegen;;;legte lahm;hat lahmgelegt;парализовать;Der Streik hat den Verkehr **lahmgelegt**.;Забастовка парализовала транспорт.
+C1;verb;;mäßigen;;;mäßigte;hat gemäßigt;умерять, сдерживать;Bitte **mäßigen** Sie Ihren Ton!;Пожалуйста, сбавьте тон!
+C1;verb;;mitwirken;;;wirkte mit;hat mitgewirkt;участвовать, содействовать;Viele Freiwillige haben an dem Projekt **mitgewirkt**.;В проекте участвовало много добровольцев.
+C1;verb;;monieren;;;monierte;hat moniert;критиковать, делать замечание;Der Chef **monierte** die vielen Fehler.;Начальник указал на множество ошибок.
+C1;verb;;nachgehen;;;ging nach;ist nachgegangen;расследовать, заниматься, отставать (о часах);Die Polizei **geht** jedem Hinweis **nach**.;Полиция проверяет каждую наводку.
+C1;verb;;nachkommen;;;kam nach;ist nachgekommen;выполнять (обязательство), следовать позже;Er ist seinen Pflichten nicht **nachgekommen**.;Он не выполнил своих обязанностей.
+C1;verb;;nahelegen;;;legte nahe;hat nahegelegt;советовать, наводить на мысль;Man hat ihm **nahegelegt**, zu kündigen.;Ему посоветовали уволиться.
+C1;verb;;offenlegen;;;legte offen;hat offengelegt;раскрывать, обнародовать;Die Firma muss ihre Zahlen **offenlegen**.;Фирма должна раскрыть свои показатели.
+C1;verb;;plädieren;;;plädierte;hat plädiert;выступать за, ратовать;Ich **plädiere** für eine schnelle Lösung.;Я выступаю за быстрое решение.
+C1;verb;;polarisieren;;;polarisierte;hat polarisiert;вызывать полярные мнения;Das Thema **polarisiert** die Gesellschaft.;Эта тема раскалывает общество.
+C1;verb;;postulieren;;;postulierte;hat postuliert;постулировать, утверждать;Die Theorie **postuliert** einen direkten Zusammenhang.;Теория утверждает прямую связь.
+C1;verb;;protokollieren;;;protokollierte;hat protokolliert;протоколировать;Alle Änderungen werden **protokolliert**.;Все изменения протоколируются.
+C1;verb;;relativieren;;;relativierte;hat relativiert;смягчать, ставить в контекст;Später **relativierte** er seine Aussage.;Позже он смягчил своё высказывание.
+C1;verb;;resignieren;;;resignierte;hat resigniert;смириться, опустить руки;Nach vielen Absagen hat er **resigniert**.;После многих отказов он опустил руки.
+C1;verb;;revidieren;;;revidierte;hat revidiert;пересматривать;Ich musste meine Meinung **revidieren**.;Мне пришлось пересмотреть своё мнение.
+C1;verb;;rühmen;;;rühmte;hat gerühmt;восхвалять (sich — хвастаться);Er **rühmt** sich seiner Erfolge.;Он хвастается своими успехами.
+C1;verb;;sabotieren;;;sabotierte;hat sabotiert;саботировать;Jemand hat das Projekt **sabotiert**.;Кто-то саботировал проект.
+C1;verb;;schmälern;;;schmälerte;hat geschmälert;умалять, уменьшать;Das **schmälert** seinen Erfolg nicht.;Это не умаляет его успеха.
+C1;verb;;schüren;;;schürte;hat geschürt;разжигать (страх, ненависть);Die Partei **schürt** Ängste.;Партия разжигает страхи.
+C1;verb;;sensibilisieren;;;sensibilisierte;hat sensibilisiert;повышать осведомлённость;Wir wollen die Menschen für das Thema **sensibilisieren**.;Мы хотим привлечь внимание людей к этой теме.
+C1;verb;;sich abzeichnen;;;zeichnete sich ab;hat sich abgezeichnet;вырисовываться;Eine Lösung **zeichnet sich ab**.;Вырисовывается решение.
+C1;verb;;sich anbahnen;;;bahnte sich an;hat sich angebahnt;намечаться, назревать;Eine Krise **bahnt sich an**.;Назревает кризис.
+C1;verb;;sich anmaßen;;er maßt sich an;maßte sich an;hat sich angemaßt;позволять себе, присваивать;Wie kannst du **dir** das **anmaßen**?;Как ты можешь себе такое позволять?
+C1;verb;;sich aneignen;;;eignete sich an;hat sich angeeignet;усваивать, присваивать;Sie hat **sich** das Wissen selbst **angeeignet**.;Она сама овладела этими знаниями.
+C1;verb;;sich behaupten;;;behauptete sich;hat sich behauptet;утвердиться, отстоять себя;Sie konnte **sich** gegen die Konkurrenz **behaupten**.;Она смогла выстоять против конкурентов.
+C1;verb;;sich berufen auf;;;berief sich auf;hat sich berufen auf;ссылаться на;Er **beruft sich auf** das Gesetz.;Он ссылается на закон.
+C1;verb;;sich distanzieren;;;distanzierte sich;hat sich distanziert;дистанцироваться;Die Partei **distanziert sich** von seinen Aussagen.;Партия дистанцируется от его высказываний.
+C1;verb;;sich entfalten;;;entfaltete sich;hat sich entfaltet;раскрываться, развиваться;Hier können sich Talente **entfalten**.;Здесь могут раскрыться таланты.
+C1;verb;;sich erübrigen;;;erübrigte sich;hat sich erübrigt;оказаться излишним;Damit **erübrigt sich** jede weitere Diskussion.;Тем самым дальнейшая дискуссия излишня.
+C1;verb;;sich fügen;;;fügte sich;hat sich gefügt;подчиняться, складываться;Er musste **sich** der Entscheidung **fügen**.;Ему пришлось подчиниться решению.
+C1;verb;;sich gedulden;;;geduldete sich;hat sich geduldet;потерпеть, подождать;Bitte **gedulden** Sie **sich** einen Moment.;Пожалуйста, подождите минутку.
+C1;verb;;sich häufen;;;häufte sich;hat sich gehäuft;учащаться, накапливаться;In letzter Zeit **häufen sich** die Beschwerden.;В последнее время участились жалобы.
+C1;verb;;sich herauskristallisieren;;;kristallisierte sich heraus;hat sich herauskristallisiert;выкристаллизоваться;Langsam **kristallisiert sich** eine Lösung **heraus**.;Постепенно вырисовывается решение.
+C1;verb;;sich niederschlagen;;er schlägt sich nieder;schlug sich nieder;hat sich niedergeschlagen;отражаться (в чём-то);Die Krise **schlägt sich** in den Zahlen **nieder**.;Кризис отражается на показателях.
+C1;verb;;sich rächen;;;rächte sich;hat sich gerächt;мстить, давать о себе знать;Die Faulheit wird **sich rächen**.;Лень ещё даст о себе знать.
+C1;verb;;sich schämen;;;schämte sich;hat sich geschämt;стыдиться;Du solltest **dich schämen**!;Тебе должно быть стыдно!
+C1;verb;;sich sträuben;;;sträubte sich;hat sich gesträubt;противиться;Er **sträubt sich** gegen jede Veränderung.;Он противится любым переменам.
+C1;verb;;sich vergegenwärtigen;;;vergegenwärtigte sich;hat sich vergegenwärtigt;представить себе, осознать;Man muss **sich** die Folgen **vergegenwärtigen**.;Нужно осознать последствия.
+C1;verb;;sich widersetzen;;;widersetzte sich;hat sich widersetzt;сопротивляться;Er **widersetzte sich** der Festnahme.;Он оказал сопротивление при задержании.
+C1;verb;;sich zuspitzen;;;spitzte sich zu;hat sich zugespitzt;обостряться;Der Konflikt **spitzt sich zu**.;Конфликт обостряется.
+C1;verb;;stigmatisieren;;;stigmatisierte;hat stigmatisiert;клеймить, стигматизировать;Psychisch Kranke werden oft **stigmatisiert**.;Психически больных часто стигматизируют.
+C1;verb;;suggerieren;;;suggerierte;hat suggeriert;внушать, создавать впечатление;Die Werbung **suggeriert**, dass das Produkt gesund ist.;Реклама внушает, что продукт полезен.
+C1;verb;;thematisieren;;;thematisierte;hat thematisiert;поднимать тему;Der Film **thematisiert** Einsamkeit im Alter.;Фильм поднимает тему одиночества в старости.
+C1;verb;;tilgen;;;tilgte;hat getilgt;погашать (долг), стирать;Er hat seine Schulden endlich **getilgt**.;Он наконец погасил свои долги.
+C1;verb;;trügen;;;trog;hat getrogen;обманывать (о впечатлении);Der Schein **trügt**.;Внешность обманчива.
+C1;verb;;überblicken;;;überblickte;hat überblickt;охватывать взглядом, обозревать;Die Folgen sind noch nicht zu **überblicken**.;Последствия пока невозможно оценить.
+C1;verb;;überbrücken;;;überbrückte;hat überbrückt;преодолевать, заполнять (паузу);Er jobbt, um die Zeit bis zum Studium zu **überbrücken**.;Он подрабатывает, чтобы скоротать время до учёбы.
+C1;verb;;übergehen;;;überging;hat übergangen;обходить вниманием, игнорировать;Bei der Beförderung wurde er **übergangen**.;При повышении его обошли.
+C1;verb;;überlisten;;;überlistete;hat überlistet;перехитрить;Der Fuchs hat den Bauern **überlistet**.;Лиса перехитрила крестьянина.
+C1;verb;;überspielen;;;überspielte;hat überspielt;скрывать, маскировать;Sie **überspielte** ihre Nervosität mit einem Lächeln.;Она скрыла нервозность за улыбкой.
+C1;verb;;umschreiben;;;umschrieb;hat umschrieben;описывать иными словами;Kannst du das Wort **umschreiben**?;Можешь объяснить это слово другими словами?
+C1;verb;;untergraben;;er untergräbt;untergrub;hat untergraben;подрывать;Solche Aussagen **untergraben** das Vertrauen.;Такие высказывания подрывают доверие.
+C1;verb;;untermauern;;;untermauerte;hat untermauert;подкреплять, обосновывать;Er **untermauerte** seine These mit Fakten.;Он подкрепил свой тезис фактами.
+C1;verb;;unterstreichen;;;unterstrich;hat unterstrichen;подчёркивать;Das **unterstreicht** die Bedeutung des Themas.;Это подчёркивает важность темы.
+C1;verb;;veranschaulichen;;;veranschaulichte;hat veranschaulicht;наглядно показывать;Eine Grafik **veranschaulicht** die Entwicklung.;График наглядно показывает развитие.
+C1;verb;;verankern;;;verankerte;hat verankert;закреплять;Das Recht ist in der Verfassung **verankert**.;Это право закреплено в конституции.
+C1;verb;;verfälschen;;;verfälschte;hat verfälscht;искажать;Die Ergebnisse wurden **verfälscht**.;Результаты были искажены.
+C1;verb;;verfechten;;er verficht;verfocht;hat verfochten;отстаивать;Er **verficht** seine Ideen leidenschaftlich.;Он страстно отстаивает свои идеи.
+C1;verb;;verharmlosen;;;verharmloste;hat verharmlost;преуменьшать (опасность);Man darf die Gefahr nicht **verharmlosen**.;Нельзя преуменьшать опасность.
+C1;verb;;verinnerlichen;;;verinnerlichte;hat verinnerlicht;усваивать, принимать как своё;Er hat die Regeln **verinnerlicht**.;Он усвоил эти правила.
+C1;verb;;verkörpern;;;verkörperte;hat verkörpert;воплощать;Sie **verkörpert** den Erfolg.;Она воплощение успеха.
+C1;verb;;verleiten;;;verleitete;hat verleitet;склонять, подбивать;Das Angebot hat mich zum Kauf **verleitet**.;Предложение подтолкнуло меня к покупке.
+C1;verb;;vernehmen;;er vernimmt;vernahm;hat vernommen;допрашивать, слышать;Die Polizei hat die Zeugen **vernommen**.;Полиция допросила свидетелей.
+C1;verb;;verpönen;;;verpönte;hat verpönt;осуждать, считать неприличным;Rauchen ist hier **verpönt**.;Здесь курение не одобряется.
+C1;verb;;verschärfen;;;verschärfte;hat verschärft;обострять, ужесточать;Die Regierung **verschärft** die Gesetze.;Правительство ужесточает законы.
+C1;verb;;verschleiern;;;verschleierte;hat verschleiert;скрывать, завуалировать;Er versucht, die Wahrheit zu **verschleiern**.;Он пытается скрыть правду.
+C1;verb;;verschmähen;;;verschmähte;hat verschmäht;пренебрегать, отвергать;Er **verschmäht** kein gutes Essen.;Он не отказывается от хорошей еды.
+C1;verb;;versiegen;;;versiegte;ist versiegt;иссякать;Die Quelle ist **versiegt**.;Источник иссяк.
+C1;verb;;vertuschen;;;vertuschte;hat vertuscht;замалчивать, скрывать;Der Skandal wurde lange **vertuscht**.;Скандал долго замалчивали.
+C1;verb;;verwerfen;;er verwirft;verwarf;hat verworfen;отвергать, отклонять;Wir haben den Plan wieder **verworfen**.;Мы снова отказались от этого плана.
+C1;verb;;verzerren;;;verzerrte;hat verzerrt;искажать;Die Medien **verzerren** die Realität.;СМИ искажают реальность.
+C1;verb;;vorbehalten;;er behält vor;behielt vor;hat vorbehalten;оставлять за собой;Änderungen **vorbehalten**.;Возможны изменения.
+C1;verb;;vorenthalten;;er enthält vor;enthielt vor;hat vorenthalten;утаивать, не давать;Man hat ihm wichtige Informationen **vorenthalten**.;От него утаили важную информацию.
+C1;verb;;vorgreifen;;;griff vor;hat vorgegriffen;опережать, забегать вперёд;Ich will der Entscheidung nicht **vorgreifen**.;Не хочу предвосхищать решение.
+C1;verb;;wahren;;;wahrte;hat gewahrt;сохранять, соблюдать;Sie versuchte, die Fassung zu **wahren**.;Она старалась сохранить самообладание.
+C1;verb;;walten;;;waltete;hat gewaltet;царить, действовать;Hier **waltet** die Vernunft.;Здесь царит разум.
+C1;verb;;wettmachen;;;machte wett;hat wettgemacht;наверстать, компенсировать;Er hat seinen Fehler schnell **wettgemacht**.;Он быстро исправил свою ошибку.
+C1;verb;;zermürben;;;zermürbte;hat zermürbt;изматывать;Das lange Warten hat ihn **zermürbt**.;Долгое ожидание его измотало.
+C1;verb;;zurückgreifen;;;griff zurück;hat zurückgegriffen;прибегать (к), использовать;Wir können auf unsere Erfahrung **zurückgreifen**.;Мы можем опереться на наш опыт.
+C1;verb;;zurückweisen;;;wies zurück;hat zurückgewiesen;отклонять, отвергать;Er **weist** die Kritik **zurück**.;Он отвергает критику.
+C1;verb;;zuschreiben;;;schrieb zu;hat zugeschrieben;приписывать;Der Erfolg wird ihm **zugeschrieben**.;Успех приписывают ему.
+C1;verb;;zuspielen;;;spielte zu;hat zugespielt;передавать (тайно), пасовать;Jemand hat der Presse die Dokumente **zugespielt**.;Кто-то передал документы прессе.
+C1;verb;;zustoßen;;er stößt zu;stieß zu;ist zugestoßen;случаться (с кем-то, о беде);Hoffentlich ist ihm nichts **zugestoßen**.;Надеюсь, с ним ничего не случилось.
+C1;verb;;zuwiderhandeln;;;handelte zuwider;hat zuwidergehandelt;нарушать (предписание);Wer dem Verbot **zuwiderhandelt**, muss zahlen.;Кто нарушает запрет, должен платить.
+C1;adj;;abgeklärt;;;;;умудрённый опытом, невозмутимый;Sie wirkt sehr **abgeklärt** für ihr Alter.;Она кажется очень зрелой для своего возраста.
+C1;adj;;abwegig;;;;;нелепый, абсурдный;Der Gedanke ist gar nicht so **abwegig**.;Эта мысль не так уж нелепа.
+C1;adj;;akribisch;;;;;скрупулёзный;Er hat alles **akribisch** dokumentiert.;Он всё скрупулёзно задокументировал.
+C1;adj;;ambivalent;;;;;двойственный;Ich habe **ambivalente** Gefühle dabei.;У меня по этому поводу двойственные чувства.
+C1;adj;;anmaßend;;;;;высокомерный, самонадеянный;Sein Ton war ziemlich **anmaßend**.;Его тон был довольно высокомерным.
+C1;adj;;anschaulich;;;;;наглядный;Sie erklärt alles sehr **anschaulich**.;Она всё очень наглядно объясняет.
+C1;adj;;ausschlaggebend;;;;;решающий;Der Preis war **ausschlaggebend** für meine Entscheidung.;Цена стала решающей для моего решения.
+C1;adj;;ausgewogen;;;;;сбалансированный;Eine **ausgewogene** Ernährung ist wichtig.;Сбалансированное питание важно.
+C1;adj;;ausgiebig;;;;;обстоятельный, обильный;Wir haben **ausgiebig** gefrühstückt.;Мы обильно позавтракали.
+C1;adj;;bahnbrechend;;;;;новаторский, революционный;Das war eine **bahnbrechende** Erfindung.;Это было революционное изобретение.
+C1;adj;;beachtlich;;;;;значительный, внушительный;Sie hat **beachtliche** Fortschritte gemacht.;Она добилась значительных успехов.
+C1;adj;;bedauerlich;;;;;прискорбный, достойный сожаления;Das ist ein **bedauerlicher** Fehler.;Это досадная ошибка.
+C1;adj;;bedenkenlos;;;;;без колебаний;Das Wasser kann man **bedenkenlos** trinken.;Эту воду можно пить без опасений.
+C1;adj;;bedingt;;;;;условный, ограниченный;Das ist nur **bedingt** richtig.;Это верно лишь отчасти.
+C1;adj;;beharrlich;;;;;настойчивый;Er hat **beharrlich** an seinem Ziel gearbeitet.;Он настойчиво работал над своей целью.
+C1;adj;;behutsam;;;;;осторожный, бережный;Sie ging **behutsam** mit dem Kind um.;Она бережно обращалась с ребёнком.
+C1;adj;;beiläufig;;;;;мимоходом, вскользь;Er erwähnte es nur **beiläufig**.;Он упомянул это лишь вскользь.
+C1;adj;;belanglos;;;;;незначительный;Das ist völlig **belanglos**.;Это совершенно несущественно.
+C1;adj;;belastbar;;;;;стрессоустойчивый, выносливый;Wir suchen **belastbare** Mitarbeiter.;Мы ищем стрессоустойчивых сотрудников.
+C1;adj;;beklemmend;;;;;гнетущий;Die Stimmung war **beklemmend**.;Атмосфера была гнетущей.
+C1;adj;;berüchtigt;;;;;печально известный;Das Viertel ist **berüchtigt** für seine Kriminalität.;Район печально известен преступностью.
+C1;adj;;besonnen;;;;;рассудительный;Sie reagierte sehr **besonnen**.;Она отреагировала очень рассудительно.
+C1;adj;;bestechlich;;;;;продажный, подкупный;Der Beamte war **bestechlich**.;Чиновник был продажным.
+C1;adj;;bezeichnend;;;;;характерный, показательный;Das ist **bezeichnend** für seine Haltung.;Это характерно для его позиции.
+C1;adj;;brisant;;;;;острый, взрывоопасный (о теме);Das Thema ist politisch sehr **brisant**.;Тема политически очень острая.
+C1;adj;;derb;;;;;грубый, простецкий;Er hat einen **derben** Humor.;У него грубоватый юмор.
+C1;adj;;dürftig;;;;;скудный, слабый;Die Beweise sind ziemlich **dürftig**.;Доказательства довольно слабые.
+C1;adj;;eigenwillig;;;;;своеобразный, своенравный;Sie hat einen sehr **eigenwilligen** Stil.;У неё очень своеобразный стиль.
+C1;adj;;eindringlich;;;;;настойчивый, убедительный;Er warnte **eindringlich** vor den Gefahren.;Он настойчиво предупреждал об опасностях.
+C1;adj;;einschlägig;;;;;соответствующий, профильный;Sie hat **einschlägige** Berufserfahrung.;У неё есть профильный опыт работы.
+C1;adj;;einvernehmlich;;;;;по обоюдному согласию;Sie haben sich **einvernehmlich** getrennt.;Они расстались по обоюдному согласию.
+C1;adj;;empörend;;;;;возмутительный;Das ist wirklich **empörend**!;Это действительно возмутительно!
+C1;adj;;erbittert;;;;;ожесточённый;Es gab einen **erbitterten** Streit.;Произошёл ожесточённый спор.
+C1;adj;;ergiebig;;;;;продуктивный, плодотворный;Das Gespräch war sehr **ergiebig**.;Разговор был очень плодотворным.
+C1;adj;;erstrebenswert;;;;;желанный, достойный стремления;Reichtum ist für ihn nicht **erstrebenswert**.;Богатство для него не цель.
+C1;adj;;fadenscheinig;;;;;неубедительный (о предлоге);Das ist eine **fadenscheinige** Ausrede.;Это неубедительная отговорка.
+C1;adj;;fundiert;;;;;обоснованный, основательный;Er hat **fundierte** Kenntnisse.;У него основательные знания.
+C1;adj;;gängig;;;;;распространённый, ходовой;Das ist eine **gängige** Methode.;Это распространённый метод.
+C1;adj;;gediegen;;;;;добротный, солидный;Die Möbel sind **gediegen** und teuer.;Мебель добротная и дорогая.
+C1;adj;;gehässig;;;;;злобный, язвительный;Das war ein **gehässiger** Kommentar.;Это был злобный комментарий.
+C1;adj;;geläufig;;;;;привычный, известный;Dieser Ausdruck ist mir nicht **geläufig**.;Это выражение мне не знакомо.
+C1;adj;;gewagt;;;;;рискованный, смелый;Das ist eine **gewagte** These.;Это смелый тезис.
+C1;adj;;gravierend;;;;;серьёзный, существенный;Es gab **gravierende** Fehler.;Были допущены серьёзные ошибки.
+C1;adj;;haltlos;;;;;необоснованный;Die Vorwürfe sind völlig **haltlos**.;Обвинения совершенно необоснованны.
+C1;adj;;handfest;;;;;весомый, ощутимый;Wir brauchen **handfeste** Beweise.;Нам нужны весомые доказательства.
+C1;adj;;heikel;;;;;щекотливый, деликатный;Das ist ein **heikles** Thema.;Это щекотливая тема.
+C1;adj;;herablassend;;;;;снисходительный (свысока);Er sprach **herablassend** mit ihr.;Он разговаривал с ней свысока.
+C1;adj;;hinfällig;;;;;отпавший, недействительный;Damit ist der Plan **hinfällig**.;Тем самым план отпадает.
+C1;adj;;hinlänglich;;;;;достаточный;Das Problem ist **hinlänglich** bekannt.;Проблема достаточно известна.
+C1;adj;;inkonsequent;;;;;непоследовательный;Seine Erziehung ist sehr **inkonsequent**.;Его воспитание очень непоследовательно.
+C1;adj;;kläglich;;;;;жалкий, плачевный;Der Versuch ist **kläglich** gescheitert.;Попытка с треском провалилась.
+C1;adj;;kurzsichtig;;;;;близорукий, недальновидный;Diese Politik ist sehr **kurzsichtig**.;Эта политика очень недальновидна.
+C1;adj;;langwierig;;;;;затяжной, длительный;Das war ein **langwieriger** Prozess.;Это был затяжной процесс.
+C1;adj;;lukrativ;;;;;прибыльный;Das ist ein sehr **lukratives** Geschäft.;Это очень прибыльный бизнес.
+C1;adj;;markant;;;;;характерный, выразительный;Er hat ein **markantes** Gesicht.;У него выразительное лицо.
+C1;adj;;mehrdeutig;;;;;многозначный;Die Aussage ist **mehrdeutig**.;Это высказывание многозначно.
+C1;adj;;mittellos;;;;;неимущий, без средств;Er kam **mittellos** in die Stadt.;Он приехал в город без гроша.
+C1;adj;;mutmaßlich;;;;;предполагаемый;Der **mutmaßliche** Täter wurde festgenommen.;Предполагаемый преступник задержан.
+C1;adj;;nachweislich;;;;;доказуемо, достоверно;Das ist **nachweislich** falsch.;Это доказуемо неверно.
+C1;adj;;nichtig;;;;;ничтожный, недействительный;Der Vertrag ist **nichtig**.;Договор недействителен.
+C1;adj;;offenkundig;;;;;очевидный;Das ist ein **offenkundiger** Widerspruch.;Это очевидное противоречие.
+C1;adj;;penibel;;;;;педантичный;Er ist in allem sehr **penibel**.;Он во всём очень педантичен.
+C1;adj;;plausibel;;;;;правдоподобный, убедительный;Die Erklärung klingt **plausibel**.;Объяснение звучит правдоподобно.
+C1;adj;;prägnant;;;;;ёмкий, чёткий;Fassen Sie den Text **prägnant** zusammen.;Изложите текст кратко и ёмко.
+C1;adj;;prekär;;;;;шаткий, затруднительный;Die finanzielle Lage ist **prekär**.;Финансовое положение шаткое.
+C1;adj;;redlich;;;;;честный, добросовестный;Er hat sich **redlich** bemüht.;Он честно старался.
+C1;adj;;reißerisch;;;;;кричащий, сенсационный;Die Überschrift ist sehr **reißerisch**.;Заголовок очень кричащий.
+C1;adj;;rigoros;;;;;строгий, жёсткий;Die Regeln werden **rigoros** umgesetzt.;Правила строго соблюдаются.
+C1;adj;;sachkundig;;;;;сведущий, компетентный;Wir wurden **sachkundig** beraten.;Нас компетентно проконсультировали.
+C1;adj;;schleichend;;;;;незаметный, постепенный;Das ist ein **schleichender** Prozess.;Это постепенный, незаметный процесс.
+C1;adj;;schlüssig;;;;;логичный, убедительный;Die Argumentation ist **schlüssig**.;Аргументация убедительна.
+C1;adj;;schonungslos;;;;;беспощадный, без прикрас;Er sagte ihr **schonungslos** die Wahrheit.;Он беспощадно сказал ей правду.
+C1;adj;;stichhaltig;;;;;обоснованный, весомый;Haben Sie **stichhaltige** Beweise?;У вас есть весомые доказательства?
+C1;adj;;stringent;;;;;строгий, последовательный;Der Aufsatz ist **stringent** aufgebaut.;Сочинение построено чётко и последовательно.
+C1;adj;;tiefgreifend;;;;;глубокий, коренной;Es gab **tiefgreifende** Veränderungen.;Произошли глубокие изменения.
+C1;adj;;tragfähig;;;;;жизнеспособный, прочный;Wir brauchen eine **tragfähige** Lösung.;Нам нужно жизнеспособное решение.
+C1;adj;;triftig;;;;;веский;Hast du einen **triftigen** Grund?;У тебя есть веская причина?
+C1;adj;;umsichtig;;;;;осмотрительный;Sie handelt immer sehr **umsichtig**.;Она всегда действует очень осмотрительно.
+C1;adj;;unanfechtbar;;;;;неоспоримый;Das Urteil ist **unanfechtbar**.;Приговор обжалованию не подлежит.
+C1;adj;;unbedarft;;;;;наивный, неопытный;Er ist in solchen Dingen ziemlich **unbedarft**.;Он довольно наивен в таких делах.
+C1;adj;;unbeholfen;;;;;неуклюжий;Er bewegt sich etwas **unbeholfen**.;Он двигается немного неуклюже.
+C1;adj;;unentbehrlich;;;;;незаменимый, необходимый;Das Handy ist für ihn **unentbehrlich**.;Телефон для него незаменим.
+C1;adj;;unmissverständlich;;;;;недвусмысленный;Sie gab ihm **unmissverständlich** zu verstehen, dass sie gehen will.;Она недвусмысленно дала ему понять, что хочет уйти.
+C1;adj;;unumgänglich;;;;;неизбежный, необходимый;Eine Reform ist **unumgänglich**.;Реформа неизбежна.
+C1;adj;;unzulänglich;;;;;недостаточный;Die Ausstattung ist **unzulänglich**.;Оснащение недостаточное.
+C1;adj;;verbissen;;;;;упорный, ожесточённый;Er kämpfte **verbissen** um den Sieg.;Он упорно боролся за победу.
+C1;adj;;verhalten;;;;;сдержанный;Die Reaktion war eher **verhalten**.;Реакция была скорее сдержанной.
+C1;adj;;verheerend;;;;;опустошительный, катастрофический;Das Erdbeben hatte **verheerende** Folgen.;Землетрясение имело катастрофические последствия.
+C1;adj;;verlockend;;;;;заманчивый;Das Angebot ist sehr **verlockend**.;Предложение очень заманчивое.
+C1;adj;;vermeintlich;;;;;мнимый, кажущийся;Der **vermeintliche** Experte hatte keine Ahnung.;Мнимый эксперт ничего не понимал.
+C1;adj;;vertretbar;;;;;приемлемый, допустимый;Die Kosten sind noch **vertretbar**.;Расходы ещё приемлемы.
+C1;adj;;vordergründig;;;;;поверхностный, на первый взгляд;**Vordergründig** geht es um Geld.;На первый взгляд, речь идёт о деньгах.
+C1;adj;;wegweisend;;;;;указывающий путь, новаторский;Das war eine **wegweisende** Entscheidung.;Это было определяющее решение.
+C1;adj;;weitreichend;;;;;далеко идущий;Das hat **weitreichende** Konsequenzen.;Это имеет далеко идущие последствия.
+C1;adj;;widersprüchlich;;;;;противоречивый;Die Aussagen sind **widersprüchlich**.;Показания противоречивы.
+C1;adj;;zaghaft;;;;;робкий, нерешительный;Er machte einen **zaghaften** Versuch.;Он предпринял робкую попытку.
+C1;adj;;zermürbend;;;;;изматывающий;Das Warten ist **zermürbend**.;Ожидание изматывает.
+C1;adj;;zielführend;;;;;целесообразный, ведущий к цели;Das ist nicht **zielführend**.;Это ни к чему не приведёт.
+C1;adj;;zwiespältig;;;;;противоречивый, двойственный;Ich habe ein **zwiespältiges** Gefühl.;У меня двойственное чувство.
+C1;adv;;abermals;;;;;снова, ещё раз;Der Termin wurde **abermals** verschoben.;Встречу снова перенесли.
+C1;adv;;allemal;;;;;во всяком случае, вполне;Das reicht **allemal**.;Этого в любом случае хватит.
+C1;adv;;anderweitig;;;;;иным образом, в другом месте;Ich bin leider **anderweitig** beschäftigt.;К сожалению, я занят другим.
+C1;adv;;ansatzweise;;;;;отчасти, в зачаточной форме;Das Problem wurde nur **ansatzweise** gelöst.;Проблема решена лишь отчасти.
+C1;adv;;augenscheinlich;;;;;по-видимому, очевидно;Er war **augenscheinlich** müde.;Он, по-видимому, устал.
+C1;adv;;ausnahmslos;;;;;без исключения;Die Kritiken waren **ausnahmslos** positiv.;Отзывы без исключения были положительными.
+C1;adv;;bedauerlicherweise;;;;;к сожалению;**Bedauerlicherweise** müssen wir absagen.;К сожалению, мы вынуждены отказаться.
+C1;adv;;beizeiten;;;;;заблаговременно;Man sollte sich **beizeiten** um die Rente kümmern.;О пенсии нужно позаботиться заблаговременно.
+C1;adv;;dementsprechend;;;;;соответственно;Er war müde und **dementsprechend** schlecht gelaunt.;Он устал и соответственно был не в духе.
+C1;adv;;demzufolge;;;;;следовательно, согласно этому;**Demzufolge** ist der Vertrag ungültig.;Следовательно, договор недействителен.
+C1;adv;;diesbezüglich;;;;;в этой связи, по этому поводу;**Diesbezüglich** habe ich noch Fragen.;По этому поводу у меня ещё есть вопросы.
+C1;adv;;eingangs;;;;;вначале, в начале;Wie **eingangs** erwähnt, ...;Как упоминалось вначале...
+C1;adv;;erwartungsgemäß;;;;;как и ожидалось;**Erwartungsgemäß** hat er gewonnen.;Как и ожидалось, он победил.
+C1;adv;;fortan;;;;;отныне;**Fortan** wird alles anders.;Отныне всё будет иначе.
+C1;adv;;geflissentlich;;;;;намеренно;Er hat die Frage **geflissentlich** überhört.;Он намеренно пропустил вопрос мимо ушей.
+C1;adv;;gleichwohl;;;;;тем не менее;Es war schwer, **gleichwohl** hat es sich gelohnt.;Было трудно, тем не менее это того стоило.
+C1;adv;;hierzulande;;;;;в нашей стране, здесь;**Hierzulande** ist das unüblich.;У нас это не принято.
+C1;adv;;insofern;;;;;в этом отношении, постольку;**Insofern** hast du recht.;В этом отношении ты прав.
+C1;adv;;letztendlich;;;;;в конечном счёте;**Letztendlich** ist es deine Entscheidung.;В конечном счёте решать тебе.
+C1;adv;;mitnichten;;;;;отнюдь нет;Das ist **mitnichten** so einfach.;Это отнюдь не так просто.
+C1;adv;;nachdrücklich;;;;;настоятельно;Ich rate Ihnen **nachdrücklich** davon ab.;Я настоятельно не советую вам этого.
+C1;adv;;nichtsdestotrotz;;;;;тем не менее;**Nichtsdestotrotz** sollten wir es versuchen.;Тем не менее нам стоит попробовать.
+C1;adv;;schlechthin;;;;;как таковой, по преимуществу;Er ist der Fachmann **schlechthin**.;Он эксперт в полном смысле слова.
+C1;adv;;seinerzeit;;;;;в своё время;**Seinerzeit** war das ganz normal.;В своё время это было совершенно нормально.
+C1;adv;;tunlichst;;;;;по возможности, обязательно;Das solltest du **tunlichst** vermeiden.;Этого тебе лучше всеми силами избегать.
+C1;adv;;unlängst;;;;;недавно;Er hat **unlängst** geheiratet.;Он недавно женился.
+C1;adv;;unweigerlich;;;;;неизбежно;Das führt **unweigerlich** zu Problemen.;Это неизбежно приведёт к проблемам.
+C1;adv;;vorab;;;;;заранее, предварительно;Ich schicke Ihnen **vorab** die Unterlagen.;Я заранее пришлю вам документы.
+C1;adv;;vorrangig;;;;;в первую очередь;Wir kümmern uns **vorrangig** um die Kinder.;В первую очередь мы заботимся о детях.
+C1;adv;;weitestgehend;;;;;в максимальной степени;Die Arbeiten sind **weitestgehend** abgeschlossen.;Работы практически завершены.
+C1;adv;;wohlgemerkt;;;;;заметьте, причём;Er hat, **wohlgemerkt**, nie gefragt.;Он, заметьте, ни разу не спросил.
+C1;adv;;zeitlebens;;;;;всю жизнь;Er hat **zeitlebens** hart gearbeitet.;Он всю жизнь много работал.
+C1;adv;;zugegebenermaßen;;;;;надо признать;**Zugegebenermaßen** war das ein Fehler.;Надо признать, это была ошибка.
+C1;adv;;zusehends;;;;;заметно, на глазах;Sein Zustand verschlechtert sich **zusehends**.;Его состояние заметно ухудшается.
+C1;adv;;eigens;;;;;специально;Er ist **eigens** für das Treffen angereist.;Он приехал специально ради этой встречи.
+C1;adv;;ehedem;;;;;прежде, некогда;**Ehedem** stand hier eine Mühle.;Когда-то здесь стояла мельница.
+C1;adv;;fortwährend;;;;;постоянно;Er unterbricht mich **fortwährend**.;Он постоянно меня перебивает.
+C1;adv;;haargenau;;;;;в точности;Das stimmt **haargenau**.;Это в точности так.
+C1;adv;;inwiefern;;;;;в какой мере;**Inwiefern** betrifft mich das?;В какой мере это касается меня?
+C1;adv;;schlichtweg;;;;;попросту;Das ist **schlichtweg** falsch.;Это попросту неверно.
+C1;adv;;tendenziell;;;;;в тенденции, как правило;**Tendenziell** steigen die Preise.;Цены в целом растут.
+C1;adv;;unterdessen;;;;;тем временем;**Unterdessen** hatte es zu regnen begonnen.;Тем временем начался дождь.
+C1;conj;;indes;;;;;между тем, однако;Er versprach zu kommen, **indes** kam er nicht.;Он обещал прийти, однако не пришёл.
+C1;conj;;ungeachtet dessen;;;;;невзирая на это;**Ungeachtet dessen** hat er weitergemacht.;Невзирая на это, он продолжил.
+C1;conj;;nicht zuletzt;;;;;не в последнюю очередь;Das liegt **nicht zuletzt** an der Erziehung.;Это не в последнюю очередь связано с воспитанием.
+C1;conj;;es sei denn;;;;;разве что, если только не;Ich komme, **es sei denn**, es regnet.;Я приду, разве что пойдёт дождь.
+C1;prep;;anstelle;;;;;вместо;**Anstelle** des Chefs kam sein Stellvertreter.;Вместо начальника пришёл его заместитель.
+C1;prep;;eingedenk;;;;;помня о, учитывая;**Eingedenk** der Risiken haben wir abgelehnt.;Учитывая риски, мы отказались.
+C1;prep;;inmitten;;;;;посреди;Das Haus liegt **inmitten** eines Parks.;Дом находится посреди парка.
+C1;prep;;kraft;;;;;в силу;**Kraft** seines Amtes kann er das entscheiden.;В силу своей должности он может это решить.
+C1;prep;;unweit;;;;;недалеко от;Das Hotel liegt **unweit** des Bahnhofs.;Отель находится недалеко от вокзала.
+C1;prep;;vorbehaltlich;;;;;при условии;**Vorbehaltlich** der Zustimmung beginnen wir im Mai.;При условии одобрения начнём в мае.
+C1;prep;;zuliebe;;;;;ради;Mir **zuliebe** hat er aufgehört zu rauchen.;Ради меня он бросил курить.
+C1;prep;;unbeschadet;;;;;без ущерба для;**Unbeschadet** dieser Regelung gelten die alten Verträge weiter.;Без ущерба для этого правила старые договоры продолжают действовать.
+C1;prep;;ausschließlich;;;;;исключая, за исключением;Der Preis gilt **ausschließlich** Mehrwertsteuer.;Цена указана без НДС.
+C1;noun;die;Abhandlung;Abhandlungen;;;;трактат, научная статья;Er schrieb eine **Abhandlung** über die Philosophie Kants.;Он написал трактат о философии Канта.
+C1;noun;die;Abschottung;-;;;;изоляция, закрытость;Die **Abschottung** des Landes schadet der Wirtschaft.;Изоляция страны вредит экономике.
+C1;noun;die;Abwanderung;-;;;;отток (населения);Die **Abwanderung** junger Menschen ist ein Problem für das Dorf.;Отток молодёжи — проблема для деревни.
+C1;noun;die;Alterung;-;;;;старение;Die **Alterung** der Gesellschaft stellt uns vor Herausforderungen.;Старение общества ставит перед нами сложные задачи.
+C1;noun;der;Anhaltspunkt;Anhaltspunkte;;;;опорная точка, зацепка;Es gibt keine **Anhaltspunkte** für ein Verbrechen.;Нет никаких признаков преступления.
+C1;noun;die;Arbeitsmoral;-;;;;трудовая дисциплина, отношение к работе;Die **Arbeitsmoral** im Team ist hoch.;Отношение к работе в команде хорошее.
+C1;noun;der;Aufruhr;-;;;;волнение, бунт;Die Nachricht versetzte die Stadt in **Aufruhr**.;Новость взбудоражила город.
+C1;noun;die;Ausbeutung;-;;;;эксплуатация;Die **Ausbeutung** der Arbeiter muss aufhören.;Эксплуатация рабочих должна прекратиться.
+C1;noun;die;Ausgrenzung;Ausgrenzungen;;;;исключение (из общества), изоляция;Er hat **Ausgrenzung** in der Schule erlebt.;В школе он сталкивался с изоляцией.
+C1;noun;das;Bauvorhaben;Bauvorhaben;;;;строительный проект;Das **Bauvorhaben** wurde gestoppt.;Строительный проект был остановлен.
+C1;noun;die;Bedürftigkeit;-;;;;нуждаемость;Die Hilfe hängt von der **Bedürftigkeit** ab.;Помощь зависит от степени нуждаемости.
+C1;noun;die;Befragung;Befragungen;;;;опрос;Die **Befragung** ergab interessante Ergebnisse.;Опрос дал интересные результаты.
+C1;noun;die;Beschwichtigung;Beschwichtigungen;;;;успокоение, умиротворение;Seine Worte dienten nur der **Beschwichtigung**.;Его слова служили лишь для успокоения.
+C1;noun;die;Besteuerung;-;;;;налогообложение;Die **Besteuerung** von Erbschaften wird diskutiert.;Обсуждается налогообложение наследства.
+C1;noun;die;Bevölkerungsdichte;-;;;;плотность населения;Die **Bevölkerungsdichte** ist hier sehr hoch.;Плотность населения здесь очень высокая.
+C1;noun;das;Bruttoinlandsprodukt;-;;;;валовой внутренний продукт;Das **Bruttoinlandsprodukt** ist gestiegen.;Валовой внутренний продукт вырос.
+C1;noun;das;Bündnis;Bündnisse;;;;союз, альянс;Die Parteien schlossen ein **Bündnis**.;Партии заключили союз.
+C1;noun;die;Datenerhebung;Datenerhebungen;;;;сбор данных;Die **Datenerhebung** dauert drei Monate.;Сбор данных длится три месяца.
+C1;noun;die;Deregulierung;Deregulierungen;;;;дерегулирование;Die **Deregulierung** des Marktes hat Folgen.;Дерегулирование рынка имеет последствия.
+C1;noun;die;Effektivität;-;;;;эффективность;Die **Effektivität** der Maßnahme ist umstritten.;Эффективность этой меры спорна.
+C1;noun;die;Eindämmung;-;;;;сдерживание;Die **Eindämmung** der Inflation ist das Ziel.;Цель — сдерживание инфляции.
+C1;noun;das;Einkommensgefälle;-;;;;разрыв в доходах;Das **Einkommensgefälle** wird größer.;Разрыв в доходах увеличивается.
+C1;noun;die;Entmündigung;-;;;;лишение дееспособности, опека;Viele empfinden die Regel als **Entmündigung**.;Многие воспринимают это правило как лишение самостоятельности.
+C1;noun;die;Entwicklungshilfe;-;;;;помощь развивающимся странам;Deutschland zahlt viel **Entwicklungshilfe**.;Германия выделяет много помощи развивающимся странам.
+C1;noun;die;Erhebung;Erhebungen;;;;обследование, взимание, восстание;Laut einer **Erhebung** lesen Kinder weniger.;Согласно исследованию, дети стали меньше читать.
+C1;noun;die;Fachliteratur;-;;;;специальная литература;Er liest viel **Fachliteratur**.;Он читает много специальной литературы.
+C1;noun;die;Fallstudie;Fallstudien;;;;практический пример, кейс;Die **Fallstudie** zeigt typische Probleme.;Этот кейс показывает типичные проблемы.
+C1;noun;die;Fehlentwicklung;Fehlentwicklungen;;;;неправильное развитие, перекос;Wir müssen **Fehlentwicklungen** korrigieren.;Нам нужно исправлять перекосы.
+C1;noun;die;Finanzierung;Finanzierungen;;;;финансирование;Die **Finanzierung** des Projekts ist gesichert.;Финансирование проекта обеспечено.
+C1;noun;die;Fördermittel;pl;;;;средства поддержки, гранты;Die Schule hat **Fördermittel** beantragt.;Школа подала заявку на получение грантов.
+C1;noun;die;Gentechnik;-;;;;генная инженерия;Die **Gentechnik** ist umstritten.;Генная инженерия вызывает споры.
+C1;noun;das;Gesundheitswesen;-;;;;здравоохранение;Das **Gesundheitswesen** braucht Reformen.;Здравоохранению нужны реформы.
+C1;noun;die;Gewaltenteilung;-;;;;разделение властей;Die **Gewaltenteilung** ist ein Grundprinzip der Demokratie.;Разделение властей — основной принцип демократии.
+C1;noun;die;Grundversorgung;-;;;;базовое обеспечение;Die medizinische **Grundversorgung** muss gesichert sein.;Базовая медицинская помощь должна быть обеспечена.
+C1;noun;die;Haftung;-;;;;ответственность (юридическая);Für Garderobe wird keine **Haftung** übernommen.;Администрация не несёт ответственности за вещи в гардеробе.
+C1;noun;das;Herkunftsland;Herkunftsländer;;;;страна происхождения;Das **Herkunftsland** muss auf der Verpackung stehen.;Страна происхождения должна быть указана на упаковке.
+C1;noun;die;Hypothese;Hypothesen;;;;гипотеза;Die **Hypothese** wurde bestätigt.;Гипотеза подтвердилась.
+C1;noun;die;Infrastruktur;Infrastrukturen;;;;инфраструктура;Die **Infrastruktur** ist veraltet.;Инфраструктура устарела.
+C1;noun;die;Instanz;Instanzen;;;;инстанция;Der Fall geht in die nächste **Instanz**.;Дело переходит в следующую инстанцию.
+C1;noun;die;Interessenvertretung;Interessenvertretungen;;;;представительство интересов;Die Gewerkschaft ist die **Interessenvertretung** der Arbeitnehmer.;Профсоюз представляет интересы работников.
+C1;noun;die;Kaufkraft;-;;;;покупательная способность;Die **Kaufkraft** der Bürger sinkt.;Покупательная способность граждан снижается.
+C1;noun;die;Kennzahl;Kennzahlen;;;;показатель;Die wichtigsten **Kennzahlen** sind positiv.;Основные показатели положительные.
+C1;noun;die;Koalition;Koalitionen;;;;коалиция;Die **Koalition** ist zerbrochen.;Коалиция распалась.
+C1;noun;die;Konjunktur;Konjunkturen;;;;конъюнктура;Die **Konjunktur** schwächt sich ab.;Экономическая конъюнктура ухудшается.
+C1;noun;das;Kontingent;Kontingente;;;;квота, контингент;Das **Kontingent** an Tickets ist erschöpft.;Квота билетов исчерпана.
+C1;noun;der;Kostenvoranschlag;Kostenvoranschläge;;;;смета;Holen Sie einen **Kostenvoranschlag** ein.;Запросите смету.
+C1;noun;die;Lebenshaltungskosten;pl;;;;стоимость жизни;Die **Lebenshaltungskosten** steigen ständig.;Стоимость жизни постоянно растёт.
+C1;noun;der;Lobbyismus;-;;;;лоббизм;Der **Lobbyismus** beeinflusst die Politik.;Лоббизм влияет на политику.
+C1;noun;das;Machtgefüge;Machtgefüge;;;;расстановка сил;Das politische **Machtgefüge** verändert sich.;Политическая расстановка сил меняется.
+C1;noun;die;Marktwirtschaft;-;;;;рыночная экономика;Deutschland hat eine soziale **Marktwirtschaft**.;В Германии социальная рыночная экономика.
+C1;noun;die;Menschenwürde;-;;;;человеческое достоинство;Die **Menschenwürde** ist unantastbar.;Достоинство человека неприкосновенно.
+C1;noun;die;Mitverantwortung;-;;;;совместная ответственность;Jeder trägt eine **Mitverantwortung**.;Каждый несёт долю ответственности.
+C1;noun;das;Monopol;Monopole;;;;монополия;Die Firma hat ein **Monopol** auf dem Markt.;Фирма — монополист на рынке.
+C1;noun;die;Nachvollziehbarkeit;-;;;;прослеживаемость, понятность;Die **Nachvollziehbarkeit** der Entscheidungen ist wichtig.;Важно, чтобы решения были понятны.
+C1;noun;die;Neuregelung;Neuregelungen;;;;новое регулирование;Die **Neuregelung** tritt im Januar in Kraft.;Новые правила вступают в силу в январе.
+C1;noun;die;Nutzung;Nutzungen;;;;использование;Die **Nutzung** des Parkplatzes ist kostenlos.;Пользование парковкой бесплатное.
+C1;noun;der;Pluralismus;-;;;;плюрализм;Der **Pluralismus** der Meinungen ist wichtig.;Плюрализм мнений важен.
+C1;noun;der;Populismus;-;;;;популизм;Der **Populismus** nimmt zu.;Популизм усиливается.
+C1;noun;die;Privatisierung;Privatisierungen;;;;приватизация;Die **Privatisierung** der Bahn ist umstritten.;Приватизация железной дороги спорна.
+C1;noun;die;Rechtsprechung;-;;;;судебная практика, правосудие;Die **Rechtsprechung** ist unabhängig.;Правосудие независимо.
+C1;noun;der;Rechtsstaat;Rechtsstaaten;;;;правовое государство;Deutschland ist ein **Rechtsstaat**.;Германия — правовое государство.
+C1;noun;die;Rezession;Rezessionen;;;;рецессия, спад;Die Wirtschaft steckt in einer **Rezession**.;Экономика находится в рецессии.
+C1;noun;die;Sanktion;Sanktionen;;;;санкция;Die EU verhängte neue **Sanktionen**.;ЕС ввёл новые санкции.
+C1;noun;das;Schlagwort;Schlagwörter;;;;лозунг, модное словечко;„Nachhaltigkeit“ ist zum **Schlagwort** geworden.;«Устойчивость» стала модным словом.
+C1;noun;die;Sozialleistung;Sozialleistungen;;;;социальная выплата;Er bezieht **Sozialleistungen**.;Он получает социальные выплаты.
+C1;noun;die;Spaltung;Spaltungen;;;;раскол;Es gibt eine **Spaltung** der Gesellschaft.;В обществе наблюдается раскол.
+C1;noun;die;Stichprobe;Stichproben;;;;выборка, выборочная проверка;Die Polizei macht **Stichproben**.;Полиция проводит выборочные проверки.
+C1;noun;die;Subvention;Subventionen;;;;субсидия;Die Landwirtschaft erhält hohe **Subventionen**.;Сельское хозяйство получает большие субсидии.
+C1;noun;die;Teuerung;Teuerungen;;;;подорожание;Die **Teuerung** trifft vor allem Rentner.;Подорожание особенно бьёт по пенсионерам.
+C1;noun;das;Urheberrecht;Urheberrechte;;;;авторское право;Das Foto ist durch das **Urheberrecht** geschützt.;Фото защищено авторским правом.
+C1;noun;die;Verordnung;Verordnungen;;;;постановление, предписание;Die neue **Verordnung** gilt ab sofort.;Новое постановление действует с этого момента.
+C1;noun;die;Versorgungslage;-;;;;ситуация со снабжением;Die **Versorgungslage** hat sich verbessert.;Ситуация со снабжением улучшилась.
+C1;noun;die;Verwertung;Verwertungen;;;;использование, переработка;Die **Verwertung** von Abfällen schont Ressourcen.;Переработка отходов экономит ресурсы.
+C1;noun;das;Wahlprogramm;Wahlprogramme;;;;предвыборная программа;Die Partei stellte ihr **Wahlprogramm** vor.;Партия представила свою предвыборную программу.
+C1;noun;der;Wirtschaftszweig;Wirtschaftszweige;;;;отрасль экономики;Der Tourismus ist ein wichtiger **Wirtschaftszweig**.;Туризм — важная отрасль экономики.
+C1;noun;das;Wohlergehen;-;;;;благополучие;Das **Wohlergehen** der Kinder steht an erster Stelle.;Благополучие детей на первом месте.
+C1;noun;die;Zensur;Zensuren;;;;цензура;In vielen Ländern gibt es **Zensur**.;Во многих странах существует цензура.
+C1;noun;das;Zugeständnis;Zugeständnisse;;;;уступка;Beide Seiten machten **Zugeständnisse**.;Обе стороны пошли на уступки.
+C1;noun;die;Zuwendung;Zuwendungen;;;;внимание, забота, денежное пособие;Kinder brauchen viel **Zuwendung**.;Детям нужно много внимания.
+C1;noun;die;Zwangslage;Zwangslagen;;;;безвыходное положение;Er befindet sich in einer **Zwangslage**.;Он оказался в безвыходном положении.
+C1;noun;die;Angststörung;Angststörungen;;;;тревожное расстройство;Sie leidet an einer **Angststörung**.;Она страдает тревожным расстройством.
+C1;noun;die;Anteilnahme;-;;;;участие, сочувствие;Wir danken für die herzliche **Anteilnahme**.;Благодарим за искреннее сочувствие.
+C1;noun;die;Antriebslosigkeit;-;;;;апатия, отсутствие сил;Ein Symptom der Depression ist **Antriebslosigkeit**.;Один из симптомов депрессии — апатия.
+C1;noun;das;Bedauern;-;;;;сожаление;Zu meinem großen **Bedauern** kann ich nicht kommen.;К моему большому сожалению, я не смогу прийти.
+C1;noun;die;Befindlichkeit;Befindlichkeiten;;;;самочувствие, настроение;Man muss auf die **Befindlichkeiten** aller Rücksicht nehmen.;Нужно учитывать настроения всех.
+C1;noun;die;Bestürzung;-;;;;потрясение, смятение;Die Nachricht löste große **Bestürzung** aus.;Новость вызвала сильное потрясение.
+C1;noun;die;Bewunderung;-;;;;восхищение;Ich habe große **Bewunderung** für sie.;Я ею очень восхищаюсь.
+C1;noun;die;Demut;-;;;;смирение;Er nahm den Preis mit **Demut** entgegen.;Он принял награду со смирением.
+C1;noun;die;Dankbarkeit;-;;;;благодарность;Ich empfinde tiefe **Dankbarkeit**.;Я испытываю глубокую благодарность.
+C1;noun;das;Einfühlungsvermögen;-;;;;способность к сопереживанию;Sie hat viel **Einfühlungsvermögen**.;Она умеет сопереживать.
+C1;noun;die;Ehrfurcht;-;;;;благоговение;Er sprach mit **Ehrfurcht** von seinem Lehrer.;Он с благоговением говорил о своём учителе.
+C1;noun;die;Eitelkeit;Eitelkeiten;;;;тщеславие;Seine **Eitelkeit** ist kaum zu ertragen.;Его тщеславие трудно выносить.
+C1;noun;der;Ekel;-;;;;отвращение;Sie wandte sich mit **Ekel** ab.;Она с отвращением отвернулась.
+C1;noun;die;Empfindlichkeit;Empfindlichkeiten;;;;чувствительность, обидчивость;Seine **Empfindlichkeit** macht Kritik schwierig.;Из-за его обидчивости критиковать его трудно.
+C1;noun;die;Erschütterung;Erschütterungen;;;;потрясение, сотрясение;Der Tod seines Freundes war eine tiefe **Erschütterung**.;Смерть друга стала для него глубоким потрясением.
+C1;noun;die;Feinfühligkeit;-;;;;чуткость;Mit großer **Feinfühligkeit** sprach sie das Thema an.;С большой чуткостью она затронула эту тему.
+C1;noun;die;Fassungslosigkeit;-;;;;растерянность, оцепенение;Die Nachricht sorgte für **Fassungslosigkeit**.;Новость повергла в оцепенение.
+C1;noun;die;Frustration;Frustrationen;;;;разочарование, фрустрация;Seine **Frustration** war deutlich zu spüren.;Его разочарование было явно ощутимо.
+C1;noun;die;Geborgenheit;-;;;;защищённость, уют;Kinder brauchen **Geborgenheit**.;Детям нужно чувство защищённости.
+C1;noun;die;Genugtuung;-;;;;удовлетворение;Das Urteil war eine **Genugtuung** für die Opfer.;Приговор стал удовлетворением для пострадавших.
+C1;noun;die;Gewissensbisse;pl;;;;угрызения совести;Er hatte **Gewissensbisse**.;Его мучила совесть.
+C1;noun;die;Gier;-;;;;жадность, алчность;Die **Gier** nach Geld hat ihn verändert.;Жажда денег изменила его.
+C1;noun;die;Häme;-;;;;злорадство;Er reagierte mit **Häme** auf ihren Misserfolg.;Он злорадствовал по поводу её неудачи.
+C1;noun;die;Hilflosigkeit;-;;;;беспомощность;Ein Gefühl der **Hilflosigkeit** überkam ihn.;Его охватило чувство беспомощности.
+C1;noun;die;Hoffnungslosigkeit;-;;;;безнадёжность;Die **Hoffnungslosigkeit** der Lage war erdrückend.;Безнадёжность ситуации угнетала.
+C1;noun;der;Leidensdruck;-;;;;тяжесть страданий;Erst bei hohem **Leidensdruck** suchen viele Hilfe.;Многие обращаются за помощью, лишь когда страдания становятся невыносимыми.
+C1;noun;die;Melancholie;-;;;;меланхолия;Im Herbst überkommt ihn oft **Melancholie**.;Осенью его часто охватывает меланхолия.
+C1;noun;die;Missgunst;-;;;;зависть, недоброжелательность;Sein Erfolg weckte **Missgunst**.;Его успех вызвал зависть.
+C1;noun;das;Mitleid;-;;;;жалость, сострадание;Ich brauche kein **Mitleid**.;Мне не нужна жалость.
+C1;noun;die;Niedergeschlagenheit;-;;;;подавленность;Nach der Niederlage herrschte **Niedergeschlagenheit**.;После поражения царила подавленность.
+C1;noun;der;Optimismus;-;;;;оптимизм;Sie strahlt viel **Optimismus** aus.;Она излучает оптимизм.
+C1;noun;der;Pessimismus;-;;;;пессимизм;Sein **Pessimismus** steckt alle an.;Его пессимизм заражает всех.
+C1;noun;die;Reue;-;;;;раскаяние;Der Angeklagte zeigte keine **Reue**.;Обвиняемый не проявил раскаяния.
+C1;noun;die;Scham;-;;;;стыд;Vor **Scham** wurde sie rot.;Она покраснела от стыда.
+C1;noun;die;Schadenfreude;-;;;;злорадство;Er konnte seine **Schadenfreude** nicht verbergen.;Он не мог скрыть злорадства.
+C1;noun;die;Schuldgefühle;pl;;;;чувство вины;Sie hat **Schuldgefühle** gegenüber ihren Kindern.;Она испытывает чувство вины перед детьми.
+C1;noun;die;Schwermut;-;;;;тоска, уныние;Eine tiefe **Schwermut** lag über ihm.;Его одолевала глубокая тоска.
+C1;noun;die;Selbstachtung;-;;;;самоуважение;Er hat seine **Selbstachtung** verloren.;Он потерял самоуважение.
+C1;noun;das;Selbstwertgefühl;-;;;;самооценка;Lob stärkt das **Selbstwertgefühl**.;Похвала повышает самооценку.
+C1;noun;die;Sinnsuche;-;;;;поиск смысла;Die **Sinnsuche** beschäftigt viele Menschen.;Многих людей занимает поиск смысла жизни.
+C1;noun;die;Sorglosigkeit;-;;;;беззаботность;Mit großer **Sorglosigkeit** gab er sein Geld aus.;Он беззаботно тратил свои деньги.
+C1;noun;die;Überwindung;-;;;;преодоление (себя);Es kostete mich viel **Überwindung**, ihn anzurufen.;Мне стоило больших усилий позвонить ему.
+C1;noun;die;Ungewissheit;Ungewissheiten;;;;неизвестность;Die **Ungewissheit** ist schlimmer als die Wahrheit.;Неизвестность хуже правды.
+C1;noun;der;Unmut;-;;;;недовольство;Die Entscheidung stieß auf großen **Unmut**.;Решение вызвало сильное недовольство.
+C1;noun;die;Unruhe;Unruhen;;;;беспокойство, волнения;Eine innere **Unruhe** ließ ihn nicht schlafen.;Внутреннее беспокойство не давало ему уснуть.
+C1;noun;die;Verbitterung;-;;;;озлобленность;Die Ungerechtigkeit führte zu **Verbitterung**.;Несправедливость привела к озлобленности.
+C1;noun;die;Verletzlichkeit;-;;;;уязвимость, ранимость;Sie zeigte ihre **Verletzlichkeit**.;Она показала свою ранимость.
+C1;noun;die;Wehmut;-;;;;щемящая грусть, ностальгия;Mit **Wehmut** denke ich an meine Kindheit.;С грустью вспоминаю детство.
+C1;noun;der;Zorn;-;;;;гнев;Er konnte seinen **Zorn** kaum zurückhalten.;Он едва сдерживал гнев.
+C1;noun;die;Abfindung;Abfindungen;;;;выходное пособие, компенсация;Er erhielt eine hohe **Abfindung**.;Он получил большое выходное пособие.
+C1;noun;die;Abmahnung;Abmahnungen;;;;предупреждение (официальное);Nach der dritten Verspätung bekam er eine **Abmahnung**.;После третьего опоздания он получил официальное предупреждение.
+C1;noun;das;Anforderungsprofil;Anforderungsprofile;;;;требования к кандидату;Sie erfüllt das **Anforderungsprofil** perfekt.;Она полностью соответствует требованиям к кандидату.
+C1;noun;die;Arbeitsbelastung;-;;;;рабочая нагрузка;Die **Arbeitsbelastung** ist zu hoch.;Рабочая нагрузка слишком высокая.
+C1;noun;die;Arbeitsunfähigkeit;-;;;;нетрудоспособность;Er legte eine Bescheinigung über seine **Arbeitsunfähigkeit** vor.;Он предъявил справку о нетрудоспособности.
+C1;noun;der;Aufgabenbereich;Aufgabenbereiche;;;;круг обязанностей;Das fällt nicht in meinen **Aufgabenbereich**.;Это не входит в мои обязанности.
+C1;noun;die;Belegschaft;Belegschaften;;;;персонал, коллектив;Die gesamte **Belegschaft** wurde informiert.;Весь коллектив был проинформирован.
+C1;noun;die;Betriebsvereinbarung;Betriebsvereinbarungen;;;;коллективное соглашение на предприятии;Die **Betriebsvereinbarung** regelt die Arbeitszeit.;Соглашение на предприятии регулирует рабочее время.
+C1;noun;die;Dienstleistungsgesellschaft;-;;;;общество услуг;Wir leben in einer **Dienstleistungsgesellschaft**.;Мы живём в обществе услуг.
+C1;noun;die;Eigeninitiative;-;;;;собственная инициатива;Wir erwarten viel **Eigeninitiative**.;Мы ожидаем инициативности.
+C1;noun;die;Erwerbsquote;Erwerbsquoten;;;;доля занятых;Die **Erwerbsquote** der Frauen steigt.;Доля работающих женщин растёт.
+C1;noun;die;Existenzgründung;Existenzgründungen;;;;открытие собственного дела;Die Bank unterstützt **Existenzgründungen**.;Банк поддерживает открытие собственного дела.
+C1;noun;der;Fachkräftemangel;-;;;;нехватка специалистов;Der **Fachkräftemangel** ist ein großes Problem.;Нехватка специалистов — большая проблема.
+C1;noun;die;Führungsposition;Führungspositionen;;;;руководящая должность;Sie strebt eine **Führungsposition** an.;Она стремится к руководящей должности.
+C1;noun;die;Gehaltsvorstellung;Gehaltsvorstellungen;;;;ожидаемая зарплата;Was ist Ihre **Gehaltsvorstellung**?;На какую зарплату вы рассчитываете?
+C1;noun;das;Geschäftsjahr;Geschäftsjahre;;;;финансовый год;Das **Geschäftsjahr** endet im März.;Финансовый год заканчивается в марте.
+C1;noun;der;Gesellschafter;Gesellschafter;;;;совладелец, участник общества;Die **Gesellschafter** haben zugestimmt.;Совладельцы дали согласие.
+C1;noun;die;Insolvenz;Insolvenzen;;;;банкротство, несостоятельность;Die Firma musste **Insolvenz** anmelden.;Фирме пришлось объявить о банкротстве.
+C1;noun;die;Leistungsbereitschaft;-;;;;готовность к работе, мотивация;Wir erwarten hohe **Leistungsbereitschaft**.;Мы ожидаем высокой мотивации.
+C1;noun;die;Lohnfortzahlung;-;;;;сохранение зарплаты (при болезни);Im Krankheitsfall gibt es **Lohnfortzahlung**.;В случае болезни зарплата сохраняется.
+C1;noun;die;Mitarbeiterführung;-;;;;управление персоналом;Gute **Mitarbeiterführung** ist eine Kunst.;Хорошее управление персоналом — это искусство.
+C1;noun;die;Personalentwicklung;-;;;;развитие персонала;Wir investieren in die **Personalentwicklung**.;Мы инвестируем в развитие персонала.
+C1;noun;die;Rentabilität;-;;;;рентабельность;Die **Rentabilität** des Projekts ist fraglich.;Рентабельность проекта под вопросом.
+C1;noun;die;Umstrukturierung;Umstrukturierungen;;;;реструктуризация;Nach der **Umstrukturierung** wurden Stellen abgebaut.;После реструктуризации сократили рабочие места.
+C1;noun;das;Unternehmertum;-;;;;предпринимательство;Das **Unternehmertum** sollte gefördert werden.;Предпринимательство нужно поддерживать.
+C1;noun;die;Wertschöpfung;-;;;;создание стоимости;Die **Wertschöpfung** findet zunehmend im Ausland statt.;Добавленная стоимость всё чаще создаётся за границей.
+C1;noun;die;Zeitarbeit;-;;;;временная работа (через агентство);Viele Menschen arbeiten in **Zeitarbeit**.;Многие работают через кадровые агентства.
+C1;noun;die;Zielvereinbarung;Zielvereinbarungen;;;;соглашение о целях;Jedes Jahr gibt es eine neue **Zielvereinbarung**.;Каждый год заключается новое соглашение о целях.
+C1;noun;die;Abholzung;-;;;;вырубка лесов;Die **Abholzung** des Regenwaldes schreitet voran.;Вырубка тропических лесов продолжается.
+C1;noun;der;Artenschutz;-;;;;охрана видов;Der **Artenschutz** ist dringend nötig.;Охрана видов крайне необходима.
+C1;noun;das;Ausmaß;Ausmaße;;;;масштаб, размер;Das **Ausmaß** der Zerstörung ist enorm.;Масштаб разрушений огромен.
+C1;noun;der;Brennstoff;Brennstoffe;;;;топливо;Fossile **Brennstoffe** schaden dem Klima.;Ископаемое топливо вредит климату.
+C1;noun;der;Emissionshandel;-;;;;торговля квотами на выбросы;Der **Emissionshandel** soll den CO2-Ausstoß senken.;Торговля квотами должна снизить выбросы CO2.
+C1;noun;die;Energiewende;-;;;;энергетический переход;Die **Energiewende** ist ein großes Projekt.;Энергетический переход — большой проект.
+C1;noun;das;Ökosystem;Ökosysteme;;;;экосистема;Das **Ökosystem** ist sehr empfindlich.;Экосистема очень уязвима.
+C1;noun;der;Schadstoff;Schadstoffe;;;;вредное вещество;Das Wasser enthält **Schadstoffe**.;Вода содержит вредные вещества.
+C1;noun;die;Versiegelung;-;;;;запечатывание (почвы асфальтом и т.п.);Die **Versiegelung** der Böden nimmt zu.;Площадь застроенной и заасфальтированной земли растёт.
+C1;noun;der;Raubbau;-;;;;хищническая эксплуатация;Das ist **Raubbau** an der Natur.;Это хищническое отношение к природе.
+C1;noun;die;Aufklärung;-;;;;просвещение, разъяснение, раскрытие;Es braucht mehr **Aufklärung** über die Risiken.;Нужно больше разъяснять риски.
+C1;noun;die;Beweisführung;-;;;;доказательство, аргументация;Die **Beweisführung** ist lückenhaft.;Аргументация неполная.
+C1;noun;die;Darstellung;Darstellungen;;;;изображение, изложение;Die **Darstellung** der Ereignisse ist einseitig.;Изложение событий одностороннее.
+C1;noun;die;Deutung;Deutungen;;;;толкование;Es gibt verschiedene **Deutungen** des Gedichts.;Существуют разные толкования стихотворения.
+C1;noun;der;Diskurs;Diskurse;;;;дискурс, обсуждение;Der öffentliche **Diskurs** hat sich verändert.;Публичный дискурс изменился.
+C1;noun;die;Einordnung;Einordnungen;;;;классификация, контекст;Wir brauchen eine historische **Einordnung**.;Нам нужен исторический контекст.
+C1;noun;der;Forschungsstand;-;;;;состояние исследований;Nach aktuellem **Forschungsstand** ist das unbedenklich.;По современным научным данным это безопасно.
+C1;noun;die;Fragestellung;Fragestellungen;;;;постановка вопроса;Die **Fragestellung** der Arbeit ist klar formuliert.;Исследовательский вопрос работы чётко сформулирован.
+C1;noun;die;Gliederung;Gliederungen;;;;структура, план;Die **Gliederung** des Aufsatzes ist logisch.;Структура сочинения логична.
+C1;noun;die;Grundannahme;Grundannahmen;;;;исходное предположение;Die **Grundannahme** ist falsch.;Исходное предположение неверно.
+C1;noun;die;Herangehensweise;Herangehensweisen;;;;подход;Wir brauchen eine neue **Herangehensweise**.;Нам нужен новый подход.
+C1;noun;das;Konzept;Konzepte;;;;концепция, план;Das **Konzept** überzeugt nicht.;Концепция не убеждает.
+C1;noun;die;Kernthese;Kernthesen;;;;главный тезис;Was ist die **Kernthese** des Autors?;Каков главный тезис автора?
+C1;noun;die;Literaturangabe;Literaturangaben;;;;библиографическая ссылка;Die **Literaturangaben** stehen am Ende.;Список литературы находится в конце.
+C1;noun;die;Methodik;Methodiken;;;;методика;Die **Methodik** der Studie ist umstritten.;Методика исследования спорна.
+C1;noun;die;Objektivität;-;;;;объективность;Journalisten sollten **Objektivität** wahren.;Журналисты должны сохранять объективность.
+C1;noun;das;Phänomen;Phänomene;;;;явление, феномен;Das ist ein weltweites **Phänomen**.;Это мировое явление.
+C1;noun;die;Quellenkritik;-;;;;критика источников;**Quellenkritik** ist im Studium wichtig.;Критический анализ источников важен в учёбе.
+C1;noun;die;Relevanz;-;;;;значимость;Das Thema hat große gesellschaftliche **Relevanz**.;Тема имеет большую общественную значимость.
+C1;noun;die;Schlüsselrolle;Schlüsselrollen;;;;ключевая роль;Bildung spielt eine **Schlüsselrolle**.;Образование играет ключевую роль.
+C1;noun;der;Sachverhalt;Sachverhalte;;;;положение вещей, факты;Bitte schildern Sie den **Sachverhalt**.;Пожалуйста, изложите суть дела.
+C1;noun;die;Sichtweise;Sichtweisen;;;;точка зрения;Jeder hat eine andere **Sichtweise**.;У каждого своя точка зрения.
+C1;noun;die;Subjektivität;-;;;;субъективность;Völlige Objektivität gibt es nicht, etwas **Subjektivität** bleibt immer.;Полной объективности не бывает, доля субъективности остаётся всегда.
+C1;noun;die;Tragödie;Tragödien;;;;трагедия;Der Unfall war eine **Tragödie**.;Авария стала трагедией.
+C1;noun;die;Überlieferung;Überlieferungen;;;;предание, традиция;Nach der **Überlieferung** wurde die Stadt im 9. Jahrhundert gegründet.;По преданию, город был основан в IX веке.
+C1;noun;die;Verallgemeinerung;Verallgemeinerungen;;;;обобщение;Solche **Verallgemeinerungen** sind unfair.;Такие обобщения несправедливы.
+C1;noun;die;Wechselbeziehung;Wechselbeziehungen;;;;взаимосвязь;Es gibt eine **Wechselbeziehung** zwischen Armut und Bildung.;Существует взаимосвязь между бедностью и образованием.
+C1;noun;die;Widerlegung;Widerlegungen;;;;опровержение;Die **Widerlegung** der These gelang ihm nicht.;Опровергнуть тезис ему не удалось.
+C1;noun;die;Wissensgesellschaft;-;;;;общество знаний;In der **Wissensgesellschaft** ist Bildung entscheidend.;В обществе знаний образование имеет решающее значение.
+C1;noun;die;Zusammenfassung;Zusammenfassungen;;;;краткое изложение, резюме;Schreiben Sie eine kurze **Zusammenfassung**.;Напишите краткое изложение.
+C1;noun;die;Aufmachung;Aufmachungen;;;;оформление, подача;Die **Aufmachung** des Buches ist sehr ansprechend.;Оформление книги очень привлекательное.
+C1;noun;die;Bildsprache;-;;;;образный язык;Der Film hat eine starke **Bildsprache**.;У фильма сильный визуальный язык.
+C1;noun;das;Feuilleton;Feuilletons;;;;раздел культуры (в газете);Die Kritik erschien im **Feuilleton**.;Рецензия вышла в разделе культуры.
+C1;noun;die;Gattung;Gattungen;;;;жанр, род;Der Roman ist eine literarische **Gattung**.;Роман — литературный жанр.
+C1;noun;die;Hauptfigur;Hauptfiguren;;;;главный герой;Die **Hauptfigur** ist eine junge Ärztin.;Главная героиня — молодой врач.
+C1;noun;die;Inszenierung;Inszenierungen;;;;постановка;Die neue **Inszenierung** ist sehr modern.;Новая постановка очень современная.
+C1;noun;das;Kunstwerk;Kunstwerke;;;;произведение искусства;Das Museum zeigt bedeutende **Kunstwerke**.;Музей показывает значимые произведения искусства.
+C1;noun;die;Lektüre;Lektüren;;;;чтение, литература для чтения;Das Buch ist eine spannende **Lektüre**.;Эту книгу интересно читать.
+C1;noun;das;Meisterwerk;Meisterwerke;;;;шедевр;Der Film ist ein echtes **Meisterwerk**.;Этот фильм — настоящий шедевр.
+C1;noun;die;Pointe;Pointen;;;;соль (шутки), кульминация;Die **Pointe** des Witzes habe ich nicht verstanden.;Я не понял соль шутки.
+C1;noun;die;Rezension;Rezensionen;;;;рецензия;Die **Rezension** des Buches war positiv.;Рецензия на книгу была положительной.
+C1;noun;die;Satire;Satiren;;;;сатира;Die Sendung ist eine politische **Satire**.;Передача — политическая сатира.
+C1;noun;der;Schriftsteller;Schriftsteller;;;;писатель;Er ist ein bekannter **Schriftsteller**.;Он известный писатель.
+C1;noun;die;Uraufführung;Uraufführungen;;;;премьера (первое исполнение);Die **Uraufführung** fand 1805 statt.;Премьера состоялась в 1805 году.
+C1;noun;die;Verfilmung;Verfilmungen;;;;экранизация;Die **Verfilmung** ist besser als das Buch.;Экранизация лучше книги.
+C1;noun;der;Zeitgeist;-;;;;дух времени;Der Film trifft den **Zeitgeist**.;Фильм отражает дух времени.
+C1;noun;die;Zuschauerzahl;Zuschauerzahlen;;;;число зрителей;Die **Zuschauerzahlen** sind gesunken.;Число зрителей снизилось.
+C1;noun;das;Anliegen;Anliegen;;;;просьба, забота, цель;Was ist Ihr **Anliegen**?;С чем вы пришли?
+C1;noun;die;Eigenart;Eigenarten;;;;особенность, своеобразие;Jede Region hat ihre **Eigenarten**.;У каждого региона свои особенности.
+C1;noun;der;Einfallsreichtum;-;;;;изобретательность;Ihr **Einfallsreichtum** ist beeindruckend.;Её изобретательность впечатляет.
+C1;noun;die;Gewandtheit;-;;;;ловкость, умение;Mit großer **Gewandtheit** beantwortete er die Fragen.;Он очень ловко ответил на вопросы.
+C1;noun;die;Gründlichkeit;-;;;;основательность, тщательность;Deutsche **Gründlichkeit** ist sprichwörtlich.;Немецкая основательность вошла в поговорку.
+C1;noun;die;Hartnäckigkeit;-;;;;упорство;Mit **Hartnäckigkeit** erreichte er sein Ziel.;Упорством он добился своей цели.
+C1;noun;die;Kompromissbereitschaft;-;;;;готовность к компромиссу;Beide Seiten zeigten **Kompromissbereitschaft**.;Обе стороны проявили готовность к компромиссу.
+C1;noun;die;Kritikfähigkeit;-;;;;умение воспринимать критику;**Kritikfähigkeit** ist eine wichtige Eigenschaft.;Умение воспринимать критику — важное качество.
+C1;noun;die;Lernbereitschaft;-;;;;готовность учиться;Wir suchen Bewerber mit hoher **Lernbereitschaft**.;Мы ищем кандидатов, готовых учиться.
+C1;noun;die;Souveränität;-;;;;уверенность, суверенитет;Sie moderierte mit großer **Souveränität**.;Она вела передачу очень уверенно.
+C1;noun;die;Spontaneität;-;;;;спонтанность;Ich mag seine **Spontaneität**.;Мне нравится его спонтанность.
+C1;noun;die;Standhaftigkeit;-;;;;стойкость;Er bewies große **Standhaftigkeit**.;Он проявил большую стойкость.
+C1;noun;die;Verschwiegenheit;-;;;;умение хранить тайну, конфиденциальность;Wir garantieren absolute **Verschwiegenheit**.;Мы гарантируем полную конфиденциальность.
+C1;noun;die;Weitsicht;-;;;;дальновидность;Er hat mit großer **Weitsicht** gehandelt.;Он действовал очень дальновидно.
+C1;verb;;abbilden;;;bildete ab;hat abgebildet;отображать, изображать;Die Statistik **bildet** die Realität nicht richtig **ab**.;Статистика неверно отражает реальность.
+C1;verb;;ableiten;;;leitete ab;hat abgeleitet;выводить (из чего-то);Daraus lässt sich eine Regel **ableiten**.;Из этого можно вывести правило.
+C1;verb;;abstreiten;;;stritt ab;hat abgestritten;отрицать;Er **streitet** alles **ab**.;Он всё отрицает.
+C1;verb;;abtun;;;tat ab;hat abgetan;отмахиваться;Er hat meine Bedenken einfach **abgetan**.;Он просто отмахнулся от моих сомнений.
+C1;verb;;abzielen;;;zielte ab;hat abgezielt;быть направленным (auf);Die Maßnahme **zielt** auf junge Leute **ab**.;Мера направлена на молодёжь.
+C1;verb;;anführen;;;führte an;hat angeführt;приводить (пример), возглавлять;Er **führte** mehrere Gründe **an**.;Он привёл несколько причин.
+C1;verb;;angleichen;;;glich an;hat angeglichen;выравнивать, приводить в соответствие;Die Löhne sollen **angeglichen** werden.;Зарплаты должны быть выровнены.
+C1;verb;;anknüpfen;;;knüpfte an;hat angeknüpft;продолжать, опираться (an);Wir **knüpfen** an das letzte Gespräch **an**.;Мы продолжаем с того, на чём остановились в прошлый раз.
+C1;verb;;aufzeigen;;;zeigte auf;hat aufgezeigt;показывать, выявлять;Die Studie **zeigt** Probleme **auf**.;Исследование выявляет проблемы.
+C1;verb;;ausdifferenzieren;;;differenzierte aus;hat ausdifferenziert;детализировать;Das Modell muss weiter **ausdifferenziert** werden.;Модель нужно дальше детализировать.
+C1;verb;;beibehalten;;er behält bei;behielt bei;hat beibehalten;сохранять;Wir **behalten** die alte Regel **bei**.;Мы сохраняем старое правило.
+C1;verb;;beleuchten;;;beleuchtete;hat beleuchtet;освещать (тему);Der Artikel **beleuchtet** verschiedene Aspekte.;Статья освещает различные аспекты.
+C1;verb;;benennen;;;benannte;hat benannt;называть;Er hat die Probleme klar **benannt**.;Он чётко назвал проблемы.
+C1;verb;;beruhen;;;beruhte;hat beruht;основываться (auf);Der Film **beruht** auf einer wahren Geschichte.;Фильм основан на реальной истории.
+C1;verb;;bewerkstelligen;;;bewerkstelligte;hat bewerkstelligt;осуществить, устроить;Wie hast du das **bewerkstelligt**?;Как ты это устроил?
+C1;verb;;einbetten;;;bettete ein;hat eingebettet;встраивать;Das Thema muss in einen Kontext **eingebettet** werden.;Тему нужно поместить в контекст.
+C1;verb;;einwenden;;;wandte ein;hat eingewandt;возражать;Dagegen lässt sich nichts **einwenden**.;Против этого возразить нечего.
+C1;verb;;ermessen;;er ermisst;ermaß;hat ermessen;оценивать, представлять;Das Ausmaß ist kaum zu **ermessen**.;Масштабы трудно себе представить.
+C1;verb;;folgern;;;folgerte;hat gefolgert;делать вывод;Daraus **folgere** ich, dass er lügt.;Из этого я заключаю, что он лжёт.
+C1;verb;;gegenüberstellen;;;stellte gegenüber;hat gegenübergestellt;сопоставлять;Wir **stellen** die Vor- und Nachteile **gegenüber**.;Мы сопоставляем плюсы и минусы.
+C1;verb;;gewichten;;;gewichtete;hat gewichtet;взвешивать, придавать вес;Die Kriterien werden unterschiedlich **gewichtet**.;Критериям придаётся разный вес.
+C1;verb;;herausarbeiten;;;arbeitete heraus;hat herausgearbeitet;выделять, вырабатывать;**Arbeiten** Sie die wichtigsten Argumente **heraus**.;Выделите главные аргументы.
+C1;verb;;herleiten;;;leitete her;hat hergeleitet;выводить;Die Formel lässt sich leicht **herleiten**.;Формулу легко вывести.
+C1;verb;;interpretieren;;;interpretierte;hat interpretiert;интерпретировать;Wie **interpretieren** Sie das Ergebnis?;Как вы интерпретируете результат?
+C1;verb;;kennzeichnen;;;kennzeichnete;hat gekennzeichnet;обозначать, характеризовать;Die Zeit war von Unsicherheit **gekennzeichnet**.;Это время было отмечено неопределённостью.
+C1;verb;;prognostizieren;;;prognostizierte;hat prognostiziert;прогнозировать;Experten **prognostizieren** ein Wachstum.;Эксперты прогнозируют рост.
+C1;verb;;quantifizieren;;;quantifizierte;hat quantifiziert;выражать в цифрах;Der Schaden lässt sich kaum **quantifizieren**.;Ущерб трудно выразить в цифрах.
+C1;verb;;skizzieren;;;skizzierte;hat skizziert;набросать, обрисовать;Er **skizzierte** kurz seinen Plan.;Он кратко обрисовал свой план.
+C1;verb;;stützen;;;stützte;hat gestützt;поддерживать, опираться (sich auf);Die These **stützt** sich auf neue Daten.;Тезис опирается на новые данные.
+C1;verb;;überspitzen;;;überspitzte;hat überspitzt;утрировать;**Überspitzt** formuliert: Niemand liest mehr Bücher.;Утрируя: никто больше не читает книг.
+C1;verb;;umreißen;;;umriss;hat umrissen;очерчивать;Sie hat die Aufgabe kurz **umrissen**.;Она кратко очертила задачу.
+C1;verb;;unterliegen;;;unterlag;hat unterlegen;подлежать, уступать (в борьбе);Die Daten **unterliegen** dem Datenschutz.;Данные подлежат защите.
+C1;verb;;verifizieren;;;verifizierte;hat verifiziert;проверять, подтверждать;Die Angaben müssen **verifiziert** werden.;Данные необходимо проверить.
+C1;verb;;vermerken;;;vermerkte;hat vermerkt;отмечать, делать пометку;Das wurde im Protokoll **vermerkt**.;Это было отмечено в протоколе.
+C1;verb;;voraussetzen;;;setzte voraus;hat vorausgesetzt;предполагать, требовать;Die Stelle **setzt** Erfahrung **voraus**.;Эта должность требует опыта.
+C1;verb;;vorwegnehmen;;er nimmt vorweg;nahm vorweg;hat vorweggenommen;предвосхищать, забегать вперёд;Um das Ergebnis **vorwegzunehmen**: Es hat geklappt.;Забегая вперёд: всё получилось.
+C1;verb;;widerspiegeln;;;spiegelte wider;hat widergespiegelt;отражать;Die Zahlen **spiegeln** die Krise **wider**.;Цифры отражают кризис.
+C1;verb;;abfedern;;;federte ab;hat abgefedert;смягчать (удар, последствия);Der Staat will die Folgen **abfedern**.;Государство хочет смягчить последствия.
+C1;verb;;abwickeln;;;wickelte ab;hat abgewickelt;осуществлять, проводить (сделку);Die Zahlung wird online **abgewickelt**.;Оплата проводится онлайн.
+C1;verb;;anheben;;;hob an;hat angehoben;повышать, поднимать;Die Steuern werden **angehoben**.;Налоги повышают.
+C1;verb;;ankurbeln;;;kurbelte an;hat angekurbelt;стимулировать, оживлять;Die Regierung will die Wirtschaft **ankurbeln**.;Правительство хочет оживить экономику.
+C1;verb;;auslagern;;;lagerte aus;hat ausgelagert;выносить на аутсорсинг;Die Firma **lagert** die Buchhaltung **aus**.;Фирма передаёт бухгалтерию на аутсорсинг.
+C1;verb;;bewilligen;;;bewilligte;hat bewilligt;утверждать, одобрять (средства);Der Antrag wurde **bewilligt**.;Заявление одобрили.
+C1;verb;;drosseln;;;drosselte;hat gedrosselt;снижать, урезать;Die Produktion wurde **gedrosselt**.;Производство сократили.
+C1;verb;;einbringen;;;brachte ein;hat eingebracht;вносить, приносить;Sie **bringt** viel Erfahrung **ein**.;Она привносит большой опыт.
+C1;verb;;erwirtschaften;;;erwirtschaftete;hat erwirtschaftet;зарабатывать, получать (прибыль);Die Firma hat Gewinne **erwirtschaftet**.;Фирма получила прибыль.
+C1;verb;;fusionieren;;;fusionierte;hat fusioniert;сливаться (о компаниях);Die beiden Banken **fusionieren**.;Два банка сливаются.
+C1;verb;;haushalten;;;haushaltete;hat gehaushaltet;экономно распоряжаться;Wir müssen mit unseren Kräften **haushalten**.;Нам нужно беречь силы.
+C1;verb;;kalkulieren;;;kalkulierte;hat kalkuliert;рассчитывать;Die Kosten wurden falsch **kalkuliert**.;Расходы были рассчитаны неверно.
+C1;verb;;mobilisieren;;;mobilisierte;hat mobilisiert;мобилизовать;Die Partei **mobilisiert** ihre Wähler.;Партия мобилизует своих избирателей.
+C1;verb;;rationalisieren;;;rationalisierte;hat rationalisiert;рационализировать;Die Produktion wird **rationalisiert**.;Производство рационализируют.
+C1;verb;;subventionieren;;;subventionierte;hat subventioniert;субсидировать;Der Staat **subventioniert** die Landwirtschaft.;Государство субсидирует сельское хозяйство.
+C1;verb;;veräußern;;;veräußerte;hat veräußert;продавать, отчуждать;Das Grundstück wurde **veräußert**.;Участок был продан.
+C1;verb;;verbuchen;;;verbuchte;hat verbucht;записывать (на счёт), фиксировать;Die Firma **verbucht** einen Gewinn.;Фирма фиксирует прибыль.
+C1;verb;;verschulden;;;verschuldete;hat verschuldet;задолжать (sich), быть виновником;Viele Familien haben sich **verschuldet**.;Многие семьи влезли в долги.
+C1;verb;;zurückfahren;;er fährt zurück;fuhr zurück;hat zurückgefahren;сокращать (производство);Die Firma **fährt** die Produktion **zurück**.;Фирма сокращает производство.
+C1;verb;;ausplaudern;;;plauderte aus;hat ausgeplaudert;разболтать;Sie hat das Geheimnis **ausgeplaudert**.;Она разболтала тайну.
+C1;verb;;beschwichtigen;;;beschwichtigte;hat beschwichtigt;успокаивать, умиротворять;Er versuchte, die Kunden zu **beschwichtigen**.;Он пытался успокоить клиентов.
+C1;verb;;bestärken;;;bestärkte;hat bestärkt;укреплять (в мнении), поддерживать;Das **bestärkt** mich in meiner Entscheidung.;Это укрепляет меня в моём решении.
+C1;verb;;beteuern;;;beteuerte;hat beteuert;уверять, клясться;Er **beteuerte** seine Unschuld.;Он клялся в своей невиновности.
+C1;verb;;brüllen;;;brüllte;hat gebrüllt;орать, реветь;Er **brüllte** vor Wut.;Он ревел от ярости.
+C1;verb;;dahinterkommen;;;kam dahinter;ist dahintergekommen;докопаться, догадаться;Ich bin endlich **dahintergekommen**, was los ist.;Я наконец понял, в чём дело.
+C1;verb;;einschüchtern;;;schüchterte ein;hat eingeschüchtert;запугивать;Lass dich nicht **einschüchtern**!;Не дай себя запугать!
+C1;verb;;entrüsten;;;entrüstete;hat entrüstet;возмущать (sich — возмущаться);Die Bürger **entrüsteten** sich über die Entscheidung.;Граждане возмущались решением.
+C1;verb;;flüstern;;;flüsterte;hat geflüstert;шептать;Sie **flüsterte** ihm etwas ins Ohr.;Она что-то шепнула ему на ухо.
+C1;verb;;hänseln;;;hänselte;hat gehänselt;дразнить;In der Schule wurde er oft **gehänselt**.;В школе его часто дразнили.
+C1;verb;;herumreden;;;redete herum;hat herumgeredet;ходить вокруг да около;**Rede** nicht lange **herum**!;Не ходи вокруг да около!
+C1;verb;;jubeln;;;jubelte;hat gejubelt;ликовать;Die Fans **jubelten** nach dem Tor.;Болельщики ликовали после гола.
+C1;verb;;klatschen;;;klatschte;hat geklatscht;хлопать, сплетничать;Das Publikum **klatschte** begeistert.;Публика восторженно аплодировала.
+C1;verb;;meckern;;;meckerte;hat gemeckert;ворчать;Er **meckert** über alles.;Он ворчит по любому поводу.
+C1;verb;;munkeln;;;munkelte;hat gemunkelt;шептаться, поговаривать;Man **munkelt**, dass er kündigen will.;Поговаривают, что он хочет уволиться.
+C1;verb;;nuscheln;;;nuschelte;hat genuschelt;бормотать;Er **nuschelt** so, dass man ihn kaum versteht.;Он так бормочет, что его едва понимаешь.
+C1;verb;;prahlen;;;prahlte;hat geprahlt;хвастаться;Er **prahlt** gern mit seinem Auto.;Он любит хвастаться своей машиной.
+C1;verb;;schmeicheln;;;schmeichelte;hat geschmeichelt;льстить;Du willst mir nur **schmeicheln**.;Ты просто хочешь мне польстить.
+C1;verb;;schwärmen;;;schwärmte;hat geschwärmt;восторгаться (von);Sie **schwärmt** von ihrem Urlaub.;Она в восторге от своего отпуска.
+C1;verb;;seufzen;;;seufzte;hat geseufzt;вздыхать;Er **seufzte** tief.;Он глубоко вздохнул.
+C1;verb;;spotten;;;spottete;hat gespottet;насмехаться;Sie **spotten** über seinen Akzent.;Они насмехаются над его акцентом.
+C1;verb;;stammeln;;;stammelte;hat gestammelt;запинаться, лепетать;Vor Aufregung **stammelte** er nur.;От волнения он только лепетал.
+C1;verb;;tuscheln;;;tuschelte;hat getuschelt;шушукаться;Die Kolleginnen **tuscheln** in der Ecke.;Коллеги шушукаются в углу.
+C1;verb;;überhören;;;überhörte;hat überhört;пропускать мимо ушей;Sie hat die Bemerkung **überhört**.;Она пропустила замечание мимо ушей.
+C1;verb;;verhöhnen;;;verhöhnte;hat verhöhnt;глумиться, высмеивать;Er wurde öffentlich **verhöhnt**.;Над ним публично глумились.
+C1;verb;;verleumden;;;verleumdete;hat verleumdet;клеветать;Er wurde in der Presse **verleumdet**.;В прессе его оклеветали.
+C1;verb;;verplappern;;;verplapperte;hat verplappert;проболтаться (sich);Fast hätte ich mich **verplappert**.;Я чуть не проболтался.
+C1;verb;;vertrösten;;;vertröstete;hat vertröstet;кормить обещаниями;Man hat mich auf nächste Woche **vertröstet**.;Мне пообещали ответ на следующей неделе.
+C1;verb;;zurechtweisen;;;wies zurecht;hat zurechtgewiesen;отчитывать, делать выговор;Der Lehrer hat ihn scharf **zurechtgewiesen**.;Учитель строго его отчитал.
+C1;verb;;zureden;;;redete zu;hat zugeredet;уговаривать;Wir haben ihm lange **zugeredet**.;Мы долго его уговаривали.
+C1;verb;;bangen;;;bangte;hat gebangt;тревожиться, бояться (um);Die Familie **bangt** um sein Leben.;Семья боится за его жизнь.
+C1;verb;;erröten;;;errötete;ist errötet;краснеть;Sie **errötete** vor Verlegenheit.;Она покраснела от смущения.
+C1;verb;;erstarren;;;erstarrte;ist erstarrt;оцепенеть, застыть;Vor Schreck **erstarrte** sie.;Она оцепенела от испуга.
+C1;verb;;grübeln;;;grübelte;hat gegrübelt;размышлять, ломать голову;Er **grübelt** über das Problem nach.;Он ломает голову над проблемой.
+C1;verb;;sich sehnen;;;sehnte sich;hat sich gesehnt;тосковать, страстно желать;Sie **sehnt sich** nach Ruhe.;Она мечтает о покое.
+C1;verb;;sich ekeln;;;ekelte sich;hat sich geekelt;испытывать отвращение;Ich **ekle mich** vor Spinnen.;Мне противны пауки.
+C1;verb;;sich empören;;;empörte sich;hat sich empört;возмущаться;Viele **empören sich** über die Preise.;Многие возмущаются ценами.
+C1;verb;;sich grämen;;;grämte sich;hat sich gegrämt;горевать, огорчаться;**Gräm dich** nicht darüber!;Не горюй из-за этого!
+C1;verb;;verzweifeln;;;verzweifelte;ist verzweifelt;отчаиваться;Man könnte daran **verzweifeln**.;От этого можно прийти в отчаяние.
+C1;verb;;zittern;;;zitterte;hat gezittert;дрожать;Er **zitterte** vor Kälte.;Он дрожал от холода.
+C1;verb;;bummeln;;;bummelte;ist gebummelt;гулять, бродить без цели;Wir **bummeln** durch die Altstadt.;Мы бродим по старому городу.
+C1;verb;;dösen;;;döste;hat gedöst;дремать;Er **döst** auf dem Sofa.;Он дремлет на диване.
+C1;verb;;eilen;;;eilte;ist geeilt;спешить;Sie **eilte** zum Bahnhof.;Она спешила на вокзал.
+C1;verb;;schlendern;;;schlenderte;ist geschlendert;прогуливаться;Wir **schlenderten** am Fluss entlang.;Мы прогуливались вдоль реки.
+C1;verb;;stolpern;;;stolperte;ist gestolpert;спотыкаться;Er ist über eine Wurzel **gestolpert**.;Он споткнулся о корень.
+C1;verb;;taumeln;;;taumelte;ist getaumelt;шататься;Er **taumelte** aus der Kneipe.;Он вывалился, шатаясь, из пивной.
+C1;verb;;trödeln;;;trödelte;hat getrödelt;копаться, медлить;**Trödel** nicht so, wir sind spät dran!;Не копайся, мы опаздываем!
+C1;verb;;umherirren;;;irrte umher;ist umhergeirrt;блуждать;Wir sind stundenlang **umhergeirrt**.;Мы часами блуждали.
+C1;verb;;wanken;;;wankte;hat gewankt;шататься, колебаться;Seine Überzeugung **wankt**.;Его убеждённость пошатнулась.
+C1;verb;;anstauen;;;staute an;hat angestaut;накапливаться (sich);Der Ärger hat sich lange **angestaut**.;Раздражение долго копилось.
+C1;verb;;aufblühen;;;blühte auf;ist aufgeblüht;расцветать;Seit dem Umzug ist sie richtig **aufgeblüht**.;После переезда она прямо расцвела.
+C1;verb;;ausharren;;;harrte aus;hat ausgeharrt;выжидать, держаться;Sie **harrten** stundenlang in der Kälte **aus**.;Они часами стояли на холоде.
+C1;verb;;durchschlagen;;er schlägt sich durch;schlug sich durch;hat sich durchgeschlagen;пробиваться, выживать;Er hat sich allein **durchgeschlagen**.;Он пробивался в жизни сам.
+C1;verb;;entgleiten;;;entglitt;ist entglitten;выскальзывать, выходить из-под контроля;Die Situation ist ihm **entglitten**.;Ситуация вышла у него из-под контроля.
+C1;verb;;erlahmen;;;erlahmte;ist erlahmt;ослабевать;Sein Interesse ist schnell **erlahmt**.;Его интерес быстро угас.
+C1;verb;;gedeihen;;;gedieh;ist gediehen;процветать, хорошо расти;Die Pflanzen **gedeihen** prächtig.;Растения прекрасно растут.
+C1;verb;;keimen;;;keimte;hat gekeimt;прорастать, зарождаться;In ihm **keimte** ein Verdacht.;В нём зародилось подозрение.
+C1;verb;;schwinden;;;schwand;ist geschwunden;убывать, исчезать;Die Hoffnung **schwindet**.;Надежда тает.
+C1;verb;;verblassen;;;verblasste;ist verblasst;блёкнуть, тускнеть;Die Erinnerung **verblasst** langsam.;Воспоминание постепенно тускнеет.
+C1;verb;;verkümmern;;;verkümmerte;ist verkümmert;чахнуть, атрофироваться;Ohne Übung **verkümmern** die Fähigkeiten.;Без практики способности атрофируются.
+C1;verb;;verwahrlosen;;;verwahrloste;ist verwahrlost;приходить в запустение;Das Haus ist völlig **verwahrlost**.;Дом пришёл в полное запустение.
+C1;verb;;zerfallen;;er zerfällt;zerfiel;ist zerfallen;распадаться;Das Reich **zerfiel** in viele Staaten.;Империя распалась на множество государств.
+C1;verb;;zunichtemachen;;;machte zunichte;hat zunichtegemacht;сводить на нет;Der Regen hat unsere Pläne **zunichtegemacht**.;Дождь свёл на нет наши планы.
+C1;verb;;bewahrheiten;;;bewahrheitete;hat bewahrheitet;подтверждаться (sich);Seine Befürchtungen haben sich **bewahrheitet**.;Его опасения подтвердились.
+C1;verb;;einbrocken;;;brockte ein;hat eingebrockt;заварить кашу (разг.);Das hast du dir selbst **eingebrockt**.;Ты сам заварил эту кашу.
+C1;verb;;einheimsen;;;heimste ein;hat eingeheimst;пожинать (лавры), получать;Er hat viel Lob **eingeheimst**.;Он снискал много похвал.
+C1;verb;;ergattern;;;ergatterte;hat ergattert;раздобыть;Ich habe noch zwei Karten **ergattert**.;Я раздобыл ещё два билета.
+C1;verb;;verscherzen;;;verscherzte;hat verscherzt;потерять (по своей вине) (sich);Er hat es sich mit dem Chef **verscherzt**.;Он испортил отношения с начальником.
+C1;verb;;vermasseln;;;vermasselte;hat vermasselt;испортить, провалить (разг.);Ich habe die Prüfung **vermasselt**.;Я завалил экзамен.
+C1;verb;;verpatzen;;;verpatzte;hat verpatzt;испортить (разг.);Er hat den Auftritt **verpatzt**.;Он провалил выступление.
+C1;verb;;wegstecken;;;steckte weg;hat weggesteckt;переносить, справляться (с ударом);Diese Niederlage muss man erst mal **wegstecken**.;Такое поражение ещё нужно пережить.
+C1;adj;;aufbrausend;;;;;вспыльчивый;Er hat ein **aufbrausendes** Temperament.;У него вспыльчивый характер.
+C1;adj;;aufgeweckt;;;;;сообразительный, бойкий;Das ist ein sehr **aufgewecktes** Kind.;Это очень сообразительный ребёнок.
+C1;adj;;beherrscht;;;;;сдержанный, владеющий собой;Sie blieb ruhig und **beherrscht**.;Она оставалась спокойной и сдержанной.
+C1;adj;;besserwisserisch;;;;;всезнающий (с претензией);Sein **besserwisserischer** Ton nervt.;Его менторский тон раздражает.
+C1;adj;;bodenständig;;;;;приземлённый, основательный;Sie ist eine sehr **bodenständige** Frau.;Она очень основательная женщина.
+C1;adj;;borniert;;;;;ограниченный, узколобый;So eine **bornierte** Meinung!;Какое узколобое мнение!
+C1;adj;;dickköpfig;;;;;упрямый;Er ist ziemlich **dickköpfig**.;Он довольно упрямый.
+C1;adj;;durchtrieben;;;;;хитрый, пройдошливый;Er ist ein **durchtriebener** Geschäftsmann.;Он хитрый делец.
+C1;adj;;einfühlsam;;;;;чуткий;Sie ist eine sehr **einfühlsame** Ärztin.;Она очень чуткий врач.
+C1;adj;;eingeschüchtert;;;;;запуганный;Das Kind wirkte **eingeschüchtert**.;Ребёнок выглядел запуганным.
+C1;adj;;engstirnig;;;;;ограниченный, узколобый;Sei nicht so **engstirnig**!;Не будь таким ограниченным!
+C1;adj;;feinfühlig;;;;;чуткий, деликатный;Er reagierte sehr **feinfühlig**.;Он отреагировал очень деликатно.
+C1;adj;;gewieft;;;;;ушлый, ловкий;Sie ist eine **gewiefte** Verhandlerin.;Она ловкий переговорщик.
+C1;adj;;gleichmütig;;;;;невозмутимый;Er nahm die Nachricht **gleichmütig** auf.;Он невозмутимо воспринял новость.
+C1;adj;;großspurig;;;;;хвастливый, заносчивый;Er tritt sehr **großspurig** auf.;Он ведёт себя очень заносчиво.
+C1;adj;;gutgläubig;;;;;доверчивый;Sie ist viel zu **gutgläubig**.;Она слишком доверчива.
+C1;adj;;habgierig;;;;;алчный;Der **habgierige** Vermieter erhöht ständig die Miete.;Алчный арендодатель постоянно повышает плату.
+C1;adj;;hinterhältig;;;;;коварный;Das war ein **hinterhältiger** Angriff.;Это было коварное нападение.
+C1;adj;;kaltschnäuzig;;;;;бесцеремонный, циничный;Er reagierte völlig **kaltschnäuzig**.;Он отреагировал совершенно цинично.
+C1;adj;;kleinkariert;;;;;мелочный, ограниченный;Das ist mir zu **kleinkariert**.;Это для меня слишком мелочно.
+C1;adj;;leichtgläubig;;;;;легковерный;Er ist sehr **leichtgläubig**.;Он очень легковерный.
+C1;adj;;nachtragend;;;;;злопамятный;Sie ist überhaupt nicht **nachtragend**.;Она совсем не злопамятная.
+C1;adj;;rechtschaffen;;;;;честный, порядочный;Er ist ein **rechtschaffener** Mann.;Он порядочный человек.
+C1;adj;;reizbar;;;;;раздражительный;Vor Prüfungen ist er immer **reizbar**.;Перед экзаменами он всегда раздражителен.
+C1;adj;;scharfsinnig;;;;;проницательный;Sie ist eine **scharfsinnige** Beobachterin.;Она проницательный наблюдатель.
+C1;adj;;schroff;;;;;резкий, грубый;Seine Antwort war ziemlich **schroff**.;Его ответ был довольно резким.
+C1;adj;;selbstgefällig;;;;;самодовольный;Er lächelte **selbstgefällig**.;Он самодовольно улыбнулся.
+C1;adj;;souverän;;;;;уверенный, независимый;Sie hat die Situation **souverän** gemeistert.;Она уверенно справилась с ситуацией.
+C1;adj;;spießig;;;;;мещанский, обывательский;Er findet seine Nachbarn **spießig**.;Он считает своих соседей обывателями.
+C1;adj;;taktlos;;;;;бестактный;Das war eine **taktlose** Bemerkung.;Это было бестактное замечание.
+C1;adj;;umgänglich;;;;;обходительный, покладистый;Er ist ein sehr **umgänglicher** Mensch.;Он очень покладистый человек.
+C1;adj;;unbeirrt;;;;;невозмутимый, непоколебимый;Sie verfolgte **unbeirrt** ihr Ziel.;Она непоколебимо шла к своей цели.
+C1;adj;;unbeschwert;;;;;беззаботный;Sie hatte eine **unbeschwerte** Kindheit.;У неё было беззаботное детство.
+C1;adj;;ungehobelt;;;;;неотёсанный;Sein Benehmen ist ziemlich **ungehobelt**.;Его манеры довольно неотёсанные.
+C1;adj;;unnahbar;;;;;неприступный;Sie wirkt kühl und **unnahbar**.;Она кажется холодной и неприступной.
+C1;adj;;verschlossen;;;;;замкнутый;Er ist ein eher **verschlossener** Mensch.;Он довольно замкнутый человек.
+C1;adj;;weltfremd;;;;;оторванный от жизни;Seine Ideen sind völlig **weltfremd**.;Его идеи совершенно оторваны от жизни.
+C1;adj;;wortkarg;;;;;немногословный;Ihr Vater ist sehr **wortkarg**.;Её отец очень немногословен.
+C1;adj;;zuvorkommend;;;;;предупредительный, любезный;Das Personal war sehr **zuvorkommend**.;Персонал был очень предупредительным.
+C1;adj;;zwanghaft;;;;;навязчивый;Er hat ein **zwanghaftes** Bedürfnis nach Ordnung.;У него навязчивая потребность в порядке.
+C1;adj;;abgedroschen;;;;;избитый, банальный;Das ist eine **abgedroschene** Phrase.;Это избитая фраза.
+C1;adj;;anrüchig;;;;;сомнительный, пользующийся дурной славой;Das Lokal hat einen **anrüchigen** Ruf.;У этого заведения сомнительная репутация.
+C1;adj;;aufschlussreich;;;;;поучительный, информативный;Das Gespräch war sehr **aufschlussreich**.;Разговор был очень познавательным.
+C1;adj;;ausufernd;;;;;чрезмерный, разрастающийся;Die Bürokratie ist **ausufernd**.;Бюрократия разрослась сверх меры.
+C1;adj;;belastend;;;;;тягостный, обременительный, уличающий;Die Situation ist sehr **belastend**.;Ситуация очень тягостная.
+C1;adj;;bestechend;;;;;подкупающий, впечатляющий;Die Idee ist von **bestechender** Einfachheit.;Идея подкупает своей простотой.
+C1;adj;;dubios;;;;;сомнительный;Das ist ein **dubioses** Angebot.;Это сомнительное предложение.
+C1;adj;;erbärmlich;;;;;жалкий, убогий;Die Unterkunft war in einem **erbärmlichen** Zustand.;Жильё было в убогом состоянии.
+C1;adj;;erdrückend;;;;;подавляющий;Die Beweise sind **erdrückend**.;Доказательства неопровержимы.
+C1;adj;;erhebend;;;;;возвышенный, торжественный;Das war ein **erhebendes** Gefühl.;Это было возвышенное чувство.
+C1;adj;;glimpflich;;;;;благополучный (без серьёзных последствий);Der Unfall ist **glimpflich** ausgegangen.;Авария обошлась без серьёзных последствий.
+C1;adj;;grotesk;;;;;гротескный, нелепый;Die Situation war geradezu **grotesk**.;Ситуация была просто нелепой.
+C1;adj;;haarsträubend;;;;;вопиющий, ужасающий;Das sind **haarsträubende** Zustände.;Это вопиющие условия.
+C1;adj;;hanebüchen;;;;;неслыханный, абсурдный;Das ist ja **hanebüchener** Unsinn!;Это же полная чушь!
+C1;adj;;heillos;;;;;страшный, безнадёжный;Es herrschte ein **heilloses** Durcheinander.;Царил страшный беспорядок.
+C1;adj;;horrend;;;;;непомерный;Die Preise sind **horrend**.;Цены непомерные.
+C1;adj;;lapidar;;;;;краткий, сухой;Er antwortete **lapidar**: „Nein.“;Он коротко ответил: «Нет».
+C1;adj;;lästig;;;;;надоедливый, обременительный;Diese Fliegen sind wirklich **lästig**.;Эти мухи действительно надоедливы.
+C1;adj;;makellos;;;;;безупречный;Sie spricht **makelloses** Deutsch.;Она говорит на безупречном немецком.
+C1;adj;;mäßig;;;;;умеренный, посредственный;Das Essen war nur **mäßig**.;Еда была посредственной.
+C1;adj;;miserabel;;;;;отвратительный;Das Wetter war **miserabel**.;Погода была отвратительной.
+C1;adj;;nichtssagend;;;;;ничего не говорящий, пустой;Er gab eine **nichtssagende** Antwort.;Он дал ничего не значащий ответ.
+C1;adj;;ominös;;;;;зловещий, загадочный;Wer ist dieser **ominöse** Herr X?;Кто этот загадочный господин Икс?
+C1;adj;;prächtig;;;;;великолепный;Das Schloss ist **prächtig**.;Замок великолепен.
+C1;adj;;schäbig;;;;;убогий, подлый;Das war ein **schäbiges** Verhalten.;Это было подлое поведение.
+C1;adj;;skurril;;;;;чудной, странный;Er hat einen **skurrilen** Humor.;У него чудной юмор.
+C1;adj;;stümperhaft;;;;;неумелый, халтурный;Die Reparatur war **stümperhaft**.;Ремонт был сделан халтурно.
+C1;adj;;trügerisch;;;;;обманчивый;Die Ruhe ist **trügerisch**.;Спокойствие обманчиво.
+C1;adj;;unsäglich;;;;;невыразимый, ужасный;Das war eine **unsägliche** Diskussion.;Это была ужасная дискуссия.
+C1;adj;;unverblümt;;;;;откровенный, без обиняков;Sie sagte **unverblümt** ihre Meinung.;Она прямо высказала своё мнение.
+C1;adj;;verfänglich;;;;;каверзный;Das ist eine **verfängliche** Frage.;Это каверзный вопрос.
+C1;adj;;vorbildlich;;;;;образцовый;Sein Verhalten war **vorbildlich**.;Его поведение было образцовым.
+C1;adj;;wohlwollend;;;;;благосклонный;Der Vorschlag wurde **wohlwollend** aufgenommen.;Предложение было встречено благосклонно.
+C1;adj;;zwielichtig;;;;;сомнительный, тёмный (о личности);Er hat **zwielichtige** Freunde.;У него сомнительные друзья.
+C1;adj;;bündig;;;;;сжатый, лаконичный;Er hat kurz und **bündig** geantwortet.;Он ответил кратко и ясно.
+C1;adj;;erschwinglich;;;;;доступный (по цене);Die Wohnungen sind kaum noch **erschwinglich**.;Квартиры уже почти недоступны по цене.
+C1;adj;;etabliert;;;;;признанный, устоявшийся;Das ist eine **etablierte** Methode.;Это признанный метод.
+C1;adj;;flächendeckend;;;;;повсеместный;Das Internet ist noch nicht **flächendeckend** verfügbar.;Интернет ещё доступен не повсеместно.
+C1;adj;;hochkarätig;;;;;первоклассный, высокого уровня;Es kamen viele **hochkarätige** Gäste.;Пришло много высокопоставленных гостей.
+C1;adj;;kostendeckend;;;;;покрывающий расходы;Der Preis ist nicht **kostendeckend**.;Цена не покрывает расходы.
+C1;adj;;marode;;;;;обветшалый, разорённый;Die Brücke ist völlig **marode**.;Мост совершенно обветшал.
+C1;adj;;rentabel;;;;;рентабельный;Das Geschäft ist nicht mehr **rentabel**.;Бизнес больше не рентабелен.
+C1;adj;;richtungsweisend;;;;;определяющий направление;Das Urteil ist **richtungsweisend**.;Это решение суда задаёт направление.
+C1;adj;;sachdienlich;;;;;полезный (для дела);Die Polizei bittet um **sachdienliche** Hinweise.;Полиция просит сообщить полезную информацию.
+C1;adj;;stichprobenartig;;;;;выборочный;Die Taschen werden **stichprobenartig** kontrolliert.;Сумки проверяют выборочно.
+C1;adj;;unbürokratisch;;;;;без бюрократии;Die Hilfe kam schnell und **unbürokratisch**.;Помощь пришла быстро и без бюрократии.
+C1;adj;;zweckmäßig;;;;;целесообразный;Die Einrichtung ist einfach, aber **zweckmäßig**.;Обстановка простая, но функциональная.
+C1;noun;der;Ansturm;-;;;;наплыв, натиск;Am ersten Tag gab es einen großen **Ansturm** auf die Tickets.;В первый день был огромный наплыв желающих купить билеты.
+C1;noun;die;Anlaufstelle;Anlaufstellen;;;;место обращения, пункт помощи;Das Bürgeramt ist die erste **Anlaufstelle**.;Бюро по работе с гражданами — первое место, куда следует обратиться.
+C1;noun;der;Ausnahmezustand;Ausnahmezustände;;;;чрезвычайное положение;Die Regierung rief den **Ausnahmezustand** aus.;Правительство объявило чрезвычайное положение.
+C1;noun;der;Ballungsraum;Ballungsräume;;;;агломерация;Im **Ballungsraum** sind die Mieten hoch.;В агломерации высокая арендная плата.
+C1;noun;die;Bausubstanz;-;;;;состояние здания;Die **Bausubstanz** ist noch gut.;Здание ещё в хорошем состоянии.
+C1;noun;die;Bebauung;Bebauungen;;;;застройка;Die dichte **Bebauung** stört viele Anwohner.;Плотная застройка мешает многим жителям.
+C1;noun;das;Brachland;-;;;;пустырь, залежь;Aus dem **Brachland** wurde ein Park.;Пустырь превратили в парк.
+C1;noun;die;Gentrifizierung;-;;;;джентрификация;Die **Gentrifizierung** verdrängt alte Bewohner.;Джентрификация вытесняет старых жителей.
+C1;noun;das;Gemeinwesen;Gemeinwesen;;;;общество, община;Jeder sollte zum **Gemeinwesen** beitragen.;Каждый должен вносить вклад в общее благо.
+C1;noun;das;Gemeinwohl;-;;;;общее благо;Das dient dem **Gemeinwohl**.;Это служит общему благу.
+C1;noun;die;Kommune;Kommunen;;;;муниципалитет, коммуна;Die **Kommunen** haben kein Geld.;У муниципалитетов нет денег.
+C1;noun;der;Leerstand;-;;;;пустующие помещения;In der Innenstadt gibt es viel **Leerstand**.;В центре много пустующих помещений.
+C1;noun;der;Nahverkehr;-;;;;пригородный и городской транспорт;Der **Nahverkehr** soll ausgebaut werden.;Городской транспорт планируют развивать.
+C1;noun;der;Pendelverkehr;-;;;;маятниковая миграция, челночное сообщение;Der **Pendelverkehr** belastet die Straßen.;Ежедневные поездки на работу перегружают дороги.
+C1;noun;die;Stadtplanung;-;;;;градостроительство;Die **Stadtplanung** muss nachhaltiger werden.;Градостроительство должно стать более экологичным.
+C1;noun;die;Verkehrsanbindung;Verkehrsanbindungen;;;;транспортная доступность;Die Wohnung hat eine gute **Verkehrsanbindung**.;У квартиры хорошая транспортная доступность.
+C1;noun;die;Zersiedelung;-;;;;хаотичная застройка;Die **Zersiedelung** der Landschaft schreitet voran.;Хаотичная застройка территорий продолжается.
+C1;noun;die;Abhängigkeitserkrankung;Abhängigkeitserkrankungen;;;;зависимость (болезнь);**Abhängigkeitserkrankungen** müssen behandelt werden.;Зависимости нужно лечить.
+C1;noun;die;Entzündung;Entzündungen;;;;воспаление;Er hat eine **Entzündung** im Knie.;У него воспаление в колене.
+C1;noun;die;Genesung;-;;;;выздоровление;Wir wünschen Ihnen schnelle **Genesung**!;Желаем вам скорейшего выздоровления!
+C1;noun;die;Heilungschance;Heilungschancen;;;;шанс на излечение;Die **Heilungschancen** sind gut.;Шансы на выздоровление хорошие.
+C1;noun;die;Kur;Kuren;;;;курс лечения (в санатории);Sie fährt zur **Kur** an die Ostsee.;Она едет лечиться на Балтийское море.
+C1;noun;die;Linderung;-;;;;облегчение (боли);Das Medikament verschafft **Linderung**.;Лекарство приносит облегчение.
+C1;noun;die;Prävention;-;;;;профилактика;**Prävention** ist billiger als Behandlung.;Профилактика дешевле лечения.
+C1;noun;der;Rückfall;Rückfälle;;;;рецидив, возврат;Nach einem Jahr hatte er einen **Rückfall**.;Через год у него случился рецидив.
+C1;noun;das;Symptom;Symptome;;;;симптом;Fieber ist ein typisches **Symptom**.;Температура — типичный симптом.
+C1;noun;die;Unverträglichkeit;Unverträglichkeiten;;;;непереносимость;Sie hat eine **Unverträglichkeit** gegen Laktose.;У неё непереносимость лактозы.
+C1;noun;der;Verschleiß;-;;;;износ;Das Gelenk zeigt Zeichen von **Verschleiß**.;Сустав показывает признаки износа.
+C1;noun;das;Auftreten;-;;;;манера держаться, появление;Sein selbstbewusstes **Auftreten** beeindruckte alle.;Его уверенная манера держаться всех впечатлила.
+C1;noun;das;Benehmen;-;;;;поведение, манеры;Sein **Benehmen** war unmöglich.;Его поведение было недопустимым.
+C1;noun;der;Charme;-;;;;обаяние;Er hat viel **Charme**.;У него много обаяния.
+C1;noun;die;Gestik;-;;;;жестикуляция;Seine **Gestik** ist sehr lebhaft.;Он очень оживлённо жестикулирует.
+C1;noun;die;Mimik;-;;;;мимика;An ihrer **Mimik** sah man, dass sie wütend war.;По её мимике было видно, что она злится.
+C1;noun;die;Körpersprache;-;;;;язык тела;Die **Körpersprache** verrät viel.;Язык тела многое выдаёт.
+C1;noun;die;Umgangsform;Umgangsformen;;;;манеры (обычно мн. ч.);Er hat gute **Umgangsformen**.;У него хорошие манеры.
+C1;noun;der;Anstand;-;;;;приличие, порядочность;Das ist eine Frage des **Anstands**.;Это вопрос приличия.
+C1;noun;der;Ausrutscher;Ausrutscher;;;;оплошность, промах;Das war nur ein einmaliger **Ausrutscher**.;Это была лишь единичная оплошность.
+C1;noun;der;Fauxpas;Fauxpas;;;;оплошность, бестактность;Er hat einen peinlichen **Fauxpas** begangen.;Он допустил досадную бестактность.
+C1;noun;das;Fettnäpfchen;Fettnäpfchen;;;;оплошность (ins Fettnäpfchen treten — сесть в лужу);Er tritt in jedes **Fettnäpfchen**.;Он постоянно попадает впросак.
+C1;noun;die;Floskel;Floskeln;;;;пустая фраза, штамп;Das sind nur leere **Floskeln**.;Это лишь пустые фразы.
+C1;noun;die;Höflichkeitsfloskel;Höflichkeitsfloskeln;;;;формула вежливости;„Wie geht's?“ ist oft nur eine **Höflichkeitsfloskel**.;«Как дела?» — часто лишь формула вежливости.
+C1;noun;der;Smalltalk;-;;;;светская беседа;Ich bin nicht gut im **Smalltalk**.;Я не силён в светских беседах.
+C1;noun;die;Anspielung;Anspielungen;;;;намёк;Ich verstehe deine **Anspielung** nicht.;Я не понимаю твоего намёка.
+C1;noun;die;Andeutung;Andeutungen;;;;намёк;Er machte eine vage **Andeutung**.;Он сделал туманный намёк.
+C1;noun;die;Ausflucht;Ausflüchte;;;;увёртка, отговорка;Keine **Ausflüchte**!;Никаких отговорок!
+C1;noun;die;Beteuerung;Beteuerungen;;;;заверение;Trotz aller **Beteuerungen** glaubte ihm niemand.;Несмотря на все заверения, ему никто не поверил.
+C1;noun;die;Bloßstellung;Bloßstellungen;;;;разоблачение, позор;Die öffentliche **Bloßstellung** war demütigend.;Публичное разоблачение было унизительным.
+C1;noun;die;Einwilligung;Einwilligungen;;;;согласие;Dafür brauchen wir Ihre schriftliche **Einwilligung**.;Для этого нам нужно ваше письменное согласие.
+C1;noun;die;Ermahnung;Ermahnungen;;;;увещевание, замечание;Trotz aller **Ermahnungen** kam er zu spät.;Несмотря на все замечания, он опоздал.
+C1;noun;das;Gerede;-;;;;пересуды, болтовня;Gib nichts auf das **Gerede** der Leute.;Не обращай внимания на пересуды.
+C1;noun;der;Klatsch;-;;;;сплетни;Im Dorf verbreitet sich **Klatsch** schnell.;В деревне сплетни распространяются быстро.
+C1;noun;die;Lästerei;Lästereien;;;;злословие;Die ewige **Lästerei** im Büro nervt.;Вечное злословие в офисе раздражает.
+C1;noun;die;Schmeichelei;Schmeicheleien;;;;лесть;Mit **Schmeicheleien** erreichst du nichts.;Лестью ты ничего не добьёшься.
+C1;noun;die;Unterstellung;Unterstellungen;;;;инсинуация, необоснованное обвинение;Das ist eine böswillige **Unterstellung**!;Это злонамеренная клевета!
+C1;noun;die;Verleumdung;Verleumdungen;;;;клевета;Er klagt wegen **Verleumdung**.;Он подаёт в суд за клевету.
+C1;noun;die;Zurechtweisung;Zurechtweisungen;;;;выговор;Er nahm die **Zurechtweisung** schweigend hin.;Он молча выслушал выговор.
+C1;noun;das;Anwesen;Anwesen;;;;поместье, усадьба;Sie leben auf einem großen **Anwesen**.;Они живут в большом поместье.
+C1;noun;die;Behausung;Behausungen;;;;жилище;Die **Behausung** war sehr einfach.;Жилище было очень простым.
+C1;noun;die;Bleibe;Bleiben;;;;пристанище, жильё;Er sucht eine **Bleibe** für die Nacht.;Он ищет ночлег.
+C1;noun;das;Domizil;Domizile;;;;место жительства, резиденция;Sein neues **Domizil** liegt am See.;Его новое жилище находится у озера.
+C1;noun;das;Gerümpel;-;;;;хлам;Der Keller ist voller **Gerümpel**.;Подвал полон хлама.
+C1;noun;das;Inventar;Inventare;;;;инвентарь, имущество;Das **Inventar** gehört zur Wohnung.;Обстановка входит в квартиру.
+C1;noun;der;Krimskrams;-;;;;мелочи, барахло;In der Schublade liegt viel **Krimskrams**.;В ящике много всякой мелочи.
+C1;noun;der;Nachlass;Nachlässe;;;;наследство, скидка;Sie kümmert sich um den **Nachlass** ihres Vaters.;Она занимается наследством отца.
+C1;noun;die;Wohnlage;Wohnlagen;;;;расположение жилья;Das Haus liegt in einer guten **Wohnlage**.;Дом расположен в хорошем районе.
+C1;noun;die;Abreise;Abreisen;;;;отъезд;Am Tag der **Abreise** regnete es.;В день отъезда шёл дождь.
+C1;noun;der;Abstecher;Abstecher;;;;заезд, небольшая поездка (по пути);Wir machten einen **Abstecher** nach Prag.;Мы заехали по пути в Прагу.
+C1;noun;die;Anreise;Anreisen;;;;прибытие, дорога туда;Die **Anreise** erfolgt mit dem Zug.;Добираться будем на поезде.
+C1;noun;die;Fernreise;Fernreisen;;;;дальняя поездка;Sie träumt von einer **Fernreise** nach Asien.;Она мечтает о дальнем путешествии в Азию.
+C1;noun;das;Reisefieber;-;;;;волнение перед поездкой;Vor jedem Urlaub habe ich **Reisefieber**.;Перед каждым отпуском я волнуюсь.
+C1;noun;die;Stippvisite;Stippvisiten;;;;короткий визит;Er kam nur zu einer **Stippvisite** vorbei.;Он заглянул лишь ненадолго.
+C1;noun;die;Wanderlust;-;;;;тяга к путешествиям;Im Frühling packt mich die **Wanderlust**.;Весной меня тянет путешествовать.
+C1;noun;der;Zwischenstopp;Zwischenstopps;;;;промежуточная остановка;Wir haben einen **Zwischenstopp** in Dubai.;У нас пересадка в Дубае.
