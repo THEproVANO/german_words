@@ -3380,3 +3380,262 @@ B1;adj;;solitario;;;;;одинокий, уединённый;Paseamos por una pl
 B1;adj;;talentoso;;;;;талантливый;Es un músico joven muy **talentoso**.;Это очень талантливый молодой музыкант.
 B1;adj;;tenso;;;;;напряжённый;El ambiente en la reunión estaba muy **tenso**.;Атмосфера на собрании была очень напряжённой.
 B1;adj;;tóxico;;;;;токсичный, ядовитый;Esa relación era muy **tóxica** para ella.;Эти отношения были для неё очень токсичными.
+B1;verb;;abandonar;;;abandoné;abandonado;покидать, бросать;Tuvo que **abandonar** su casa por la guerra.;Ему пришлось покинуть свой дом из-за войны.
+B1;verb;;alimentar;;;alimenté;alimentado;кормить, питать;Hay que **alimentar** al gato dos veces al día.;Кота нужно кормить два раза в день.
+B1;verb;;aplicar;;;apliqué;aplicado;применять, наносить;Es fácil **aplicar** esta regla en la práctica.;Это правило легко применить на практике.
+B1;verb;;apretar;;yo aprieto;apreté;apretado;нажимать, сжимать;**Aprieta** este botón para encender la máquina.;Нажми эту кнопку, чтобы включить машину.
+B1;verb;;arrancar;;;arranqué;arrancado;заводить(ся), вырывать;El coche no **arranca** cuando hace frío.;Машина не заводится, когда холодно.
+B1;verb;;atar;;;até;atado;привязывать, завязывать;**Ata** bien al perro antes de entrar.;Хорошо привяжи собаку, прежде чем войти.
+B1;verb;;atropellar;;;atropellé;atropellado;сбивать (машиной);Un coche **atropelló** a un perro en la calle.;Машина сбила собаку на улице.
+B1;verb;;avanzar;;;avancé;avanzado;продвигаться, двигаться вперёд;El proyecto **avanza** muy despacio.;Проект продвигается очень медленно.
+B1;verb;;calmarse;;;me calmé;calmado;успокаиваться;**Cálmate**, todo va a salir bien.;Успокойся, всё будет хорошо.
+B1;verb;;colocar;;;coloqué;colocado;ставить, размещать;**Coloca** los libros en la estantería.;Поставь книги на полку.
+B1;verb;;combinar;;;combiné;combinado;сочетать, комбинировать;Este color **combina** bien con el azul.;Этот цвет хорошо сочетается с синим.
+B1;verb;;comentar;;;comenté;comentado;комментировать, упоминать;Me **comentó** que se va a mudar.;Он упомянул, что собирается переехать.
+B1;verb;;competir;;yo compito;competí;competido;соревноваться, конкурировать;Mi hermano **compite** en un torneo de tenis.;Мой брат участвует в теннисном турнире.
+B1;verb;;completar;;;completé;completado;заполнять, завершать;Hay que **completar** el formulario en inglés.;Нужно заполнить анкету на английском.
+B1;verb;;comunicar;;;comuniqué;comunicado;сообщать, общаться;Nos **comunicaron** la noticia por teléfono.;Нам сообщили новость по телефону.
+B1;verb;;conectar;;;conecté;conectado;подключать, соединять;**Conecta** el ordenador a la red.;Подключи компьютер к сети.
+B1;verb;;contratar;;;contraté;contratado;нанимать;La empresa va a **contratar** a diez personas.;Компания собирается нанять десять человек.
+B1;verb;;controlar;;;controlé;controlado;контролировать;No puedo **controlar** mis nervios antes de un examen.;Я не могу контролировать нервы перед экзаменом.
+B1;verb;;corregir;;yo corrijo;corregí;corregido;исправлять, проверять;La profesora **corrige** los exámenes por la noche.;Учительница проверяет экзамены по вечерам.
+B1;verb;;crear;;;creé;creado;создавать;Quiero **crear** mi propia empresa.;Я хочу создать свою собственную компанию.
+B1;verb;;cubrir;;;cubrí;cubierto;покрывать, накрывать;La nieve **cubre** las montañas en invierno.;Зимой снег покрывает горы.
+B1;verb;;deshacer;;yo deshago;deshice;deshecho;распаковывать, развязывать;Todavía no he **deshecho** la maleta.;Я ещё не распаковал чемодан.
+B1;verb;;dividir;;;dividí;dividido;делить, разделять;Vamos a **dividir** la pizza en ocho partes.;Давай разделим пиццу на восемь частей.
+B1;verb;;educar;;;eduqué;educado;воспитывать, обучать;Es difícil **educar** a los hijos hoy en día.;В наше время трудно воспитывать детей.
+B1;verb;;enfermar;;;enfermé;enfermado;заболеть;Mi abuela **enfermó** el invierno pasado.;Моя бабушка заболела прошлой зимой.
+B1;verb;;escoger;;yo escojo;escogí;escogido;выбирать;Puedes **escoger** el postre que quieras.;Можешь выбрать любой десерт.
+B1;verb;;estropear;;;estropeé;estropeado;портить, ломать;La lluvia **estropeó** nuestras vacaciones.;Дождь испортил нам отпуск.
+B1;verb;;examinar;;;examiné;examinado;осматривать, проверять;El médico me **examinó** la garganta.;Врач осмотрел мне горло.
+B1;verb;;existir;;;existí;existido;существовать;¿Crees que **existen** los fantasmas?;Ты веришь, что призраки существуют?
+B1;verb;;explotar;;;exploté;explotado;взрываться;La bomba **explotó** en medio de la noche.;Бомба взорвалась посреди ночи.
+B1;verb;;expresar;;;expresé;expresado;выражать;Me cuesta **expresar** mis sentimientos.;Мне трудно выражать свои чувства.
+B1;verb;;extrañar;;;extrañé;extrañado;скучать, удивлять;**Extraño** mucho a mi familia.;Я очень скучаю по своей семье.
+B1;verb;;fabricar;;;fabriqué;fabricado;производить, изготавливать;Esta fábrica **fabrica** coches eléctricos.;Этот завод производит электромобили.
+B1;verb;;fiarse;;yo me fío;me fié;fiado;доверять, полагаться;No me **fío** de los desconocidos.;Я не доверяю незнакомцам.
+B1;verb;;formar;;;formé;formado;образовывать, создавать;Los alumnos **formaron** un grupo de teatro.;Ученики создали театральную группу.
+B1;verb;;golpear;;;golpeé;golpeado;ударять, бить;Alguien **golpeó** la puerta muy fuerte.;Кто-то очень сильно стукнул в дверь.
+B1;verb;;gozar;;;gocé;gozado;наслаждаться, обладать;Mi abuelo **goza** de buena salud.;У моего дедушки крепкое здоровье.
+B1;verb;;heredar;;;heredé;heredado;наследовать;**Heredó** la casa de sus padres.;Он унаследовал дом от родителей.
+B1;verb;;hundirse;;;me hundí;hundido;тонуть, погружаться;El barco **se hundió** cerca de la costa.;Корабль затонул недалеко от берега.
+B1;verb;;informar;;;informé;informado;информировать, сообщать;La radio **informa** del tráfico cada hora.;Радио каждый час сообщает о ситуации на дорогах.
+B1;verb;;insistir;;;insistí;insistido;настаивать;Si **insistes**, iré contigo a la fiesta.;Если ты настаиваешь, я пойду с тобой на вечеринку.
+B1;verb;;instalar;;;instalé;instalado;устанавливать;Tengo que **instalar** un programa nuevo.;Мне нужно установить новую программу.
+B1;verb;;insultar;;;insulté;insultado;оскорблять;No está bien **insultar** a la gente.;Нехорошо оскорблять людей.
+B1;verb;;interesar;;;interesé;interesado;интересовать;Me **interesa** mucho la historia de España.;Меня очень интересует история Испании.
+B1;verb;;investigar;;;investigué;investigado;расследовать, исследовать;La policía **investiga** el robo del banco.;Полиция расследует ограбление банка.
+B1;verb;;inventar;;;inventé;inventado;изобретать, выдумывать;¿Quién **inventó** el teléfono?;Кто изобрёл телефон?
+B1;verb;;jurar;;;juré;jurado;клясться;Te **juro** que no lo sabía.;Клянусь, я этого не знал.
+B1;verb;;limitar;;;limité;limitado;ограничивать;Hay que **limitar** el uso del coche en el centro.;Нужно ограничить использование машин в центре.
+B1;verb;;marcar;;;marqué;marcado;забивать (гол), отмечать, набирать (номер);**Marcó** un gol en el último minuto.;Он забил гол на последней минуте.
+B1;verb;;matar;;;maté;matado;убивать;El cazador **mató** un ciervo.;Охотник убил оленя.
+B1;verb;;montar;;;monté;montado;кататься (верхом, на велосипеде), собирать;Me encanta **montar** en bicicleta.;Я обожаю кататься на велосипеде.
+B1;verb;;morder;;yo muerdo;mordí;mordido;кусать;El perro me **mordió** la pierna.;Собака укусила меня за ногу.
+B1;verb;;observar;;;observé;observado;наблюдать;Me gusta **observar** a la gente en el parque.;Мне нравится наблюдать за людьми в парке.
+B1;verb;;ocupar;;;ocupé;ocupado;занимать;Este armario **ocupa** demasiado espacio.;Этот шкаф занимает слишком много места.
+B1;verb;;ocuparse;;;me ocupé;ocupado;заниматься, заботиться;Yo **me ocupo** de los niños esta tarde.;Сегодня днём я займусь детьми.
+B1;verb;;partir;;;partí;partido;разрезать, делить, отправляться;**Parte** el pan en trozos pequeños.;Разрежь хлеб на маленькие кусочки.
+B1;verb;;perseguir;;yo persigo;perseguí;perseguido;преследовать, гнаться;El perro **persigue** al gato por el jardín.;Собака гоняется за кошкой по саду.
+B1;verb;;pisar;;;pisé;pisado;наступать;Perdón, te he **pisado** sin querer.;Извини, я случайно наступил тебе на ногу.
+B1;verb;;plantar;;;planté;plantado;сажать (растения);Este año vamos a **plantar** tomates en el jardín.;В этом году мы посадим помидоры в саду.
+B1;verb;;publicar;;;publiqué;publicado;публиковать;**Publicó** su primera novela a los treinta años.;Он опубликовал свой первый роман в тридцать лет.
+B1;verb;;quemar;;;quemé;quemado;жечь, сжигать;No **quemes** la comida, baja el fuego.;Не сожги еду, убавь огонь.
+B1;verb;;recorrer;;;recorrí;recorrido;объезжать, проходить;Queremos **recorrer** Andalucía en coche.;Мы хотим объехать Андалусию на машине.
+B1;verb;;recuperar;;;recuperé;recuperado;возвращать, восстанавливать;Por fin **recuperé** mi cartera perdida.;Наконец-то я вернул свой потерянный кошелёк.
+B1;verb;;recuperarse;;;me recuperé;recuperado;выздоравливать, приходить в себя;Mi padre ya **se ha recuperado** de la operación.;Мой отец уже оправился после операции.
+B1;verb;;regresar;;;regresé;regresado;возвращаться;**Regresamos** a casa muy tarde.;Мы вернулись домой очень поздно.
+B1;verb;;repartir;;;repartí;repartido;раздавать, разносить;El cartero **reparte** las cartas por la mañana.;Почтальон разносит письма утром.
+B1;verb;;repasar;;;repasé;repasado;повторять (материал), просматривать;Tengo que **repasar** la lección para el examen.;Мне нужно повторить урок к экзамену.
+B1;verb;;representar;;;representé;representado;представлять, изображать;Este cuadro **representa** una batalla famosa.;Эта картина изображает знаменитую битву.
+B1;verb;;rescatar;;;rescaté;rescatado;спасать;Los bomberos **rescataron** a un niño del río.;Пожарные спасли ребёнка из реки.
+B1;verb;;resultar;;;resulté;resultado;оказываться;El examen **resultó** más fácil de lo esperado.;Экзамен оказался легче, чем ожидалось.
+B1;verb;;retirar;;;retiré;retirado;снимать (деньги), убирать;Voy a **retirar** dinero del cajero.;Я сниму деньги в банкомате.
+B1;verb;;rezar;;;recé;rezado;молиться;Mi abuela **reza** todas las noches.;Моя бабушка молится каждый вечер.
+B1;verb;;rodear;;;rodeé;rodeado;окружать;Unas montañas altas **rodean** el pueblo.;Деревню окружают высокие горы.
+B1;verb;;seleccionar;;;seleccioné;seleccionado;отбирать, выбирать;**Selecciona** la opción que prefieras.;Выбери вариант, который тебе больше нравится.
+B1;verb;;separar;;;separé;separado;разделять, отделять;**Separa** la ropa blanca de la de color.;Отдели белое бельё от цветного.
+B1;verb;;separarse;;;me separé;separado;расставаться, разводиться;Sus padres **se separaron** hace dos años.;Его родители расстались два года назад.
+B1;verb;;sobrevivir;;;sobreviví;sobrevivido;выживать;Nadie **sobrevivió** al accidente.;Никто не выжил в аварии.
+B1;verb;;solucionar;;;solucioné;solucionado;решать (проблему);Tenemos que **solucionar** este problema hoy.;Нам нужно решить эту проблему сегодня.
+B1;verb;;sonreír;;yo sonrío;sonreí;sonreído;улыбаться;Mi hija siempre **sonríe** en las fotos.;Моя дочь всегда улыбается на фотографиях.
+B1;verb;;sustituir;;yo sustituyo;sustituí;sustituido;заменять;Ella **sustituye** a la profesora enferma.;Она заменяет заболевшую учительницу.
+B1;verb;;tapar;;;tapé;tapado;накрывать, закрывать;**Tapa** la olla para que hierva antes.;Накрой кастрюлю крышкой, чтобы она быстрее закипела.
+B1;verb;;temblar;;yo tiemblo;temblé;temblado;дрожать;**Tiemblo** de frío, cierra la ventana.;Я дрожу от холода, закрой окно.
+B1;verb;;trasladarse;;;me trasladé;trasladado;переезжать, перемещаться;La empresa **se trasladó** a Barcelona.;Компания переехала в Барселону.
+B1;verb;;tropezar;;yo tropiezo;tropecé;tropezado;спотыкаться;**Tropecé** con una piedra y me caí.;Я споткнулся о камень и упал.
+B1;verb;;vaciar;;yo vacío;vacié;vaciado;опустошать, освобождать;**Vacía** la papelera, por favor.;Опустоши мусорную корзину, пожалуйста.
+B1;verb;;variar;;yo varío;varié;variado;меняться, варьироваться;El precio **varía** según la temporada.;Цена меняется в зависимости от сезона.
+B1;verb;;vestir;;yo visto;vestí;vestido;одевать;La madre **viste** a su bebé.;Мать одевает своего малыша.
+B1;verb;;volverse;;yo me vuelvo;me volví;vuelto;становиться, оборачиваться;**Se volvió** muy famoso después de la película.;После фильма он стал очень знаменитым.
+B1;verb;;alegrar;;;alegré;alegrado;радовать;Tu visita me **alegra** mucho.;Твой визит меня очень радует.
+B1;verb;;alargar;;;alargué;alargado;продлевать, удлинять;Queremos **alargar** las vacaciones unos días.;Мы хотим продлить отпуск на несколько дней.
+B1;verb;;acortar;;;acorté;acortado;укорачивать;Tengo que **acortar** estos pantalones.;Мне нужно укоротить эти брюки.
+B1;verb;;adelantar;;;adelanté;adelantado;обгонять, переносить на более ранний срок;No se puede **adelantar** en esta curva.;На этом повороте обгонять нельзя.
+B1;verb;;arrepentirse;;yo me arrepiento;me arrepentí;arrepentido;раскаиваться, сожалеть;No **me arrepiento** de nada.;Я ни о чём не жалею.
+B1;verb;;asistir;;;asistí;asistido;присутствовать, посещать;Muchos estudiantes **asistieron** a la conferencia.;Много студентов посетили конференцию.
+B1;verb;;atacar;;;ataqué;atacado;нападать, атаковать;El perro **atacó** a un niño en el parque.;Собака напала на ребёнка в парке.
+B1;verb;;cansar;;;cansé;cansado;утомлять;Este trabajo me **cansa** mucho.;Эта работа меня очень утомляет.
+B1;verb;;criar;;yo crío;crie;criado;растить, воспитывать;Mis abuelos me **criaron** en el pueblo.;Меня вырастили бабушка с дедушкой в деревне.
+B1;verb;;desconectar;;;desconecté;desconectado;отключать;**Desconecta** el móvil durante la cena.;Отключи телефон во время ужина.
+B1;verb;;dirigirse;;yo me dirijo;me dirigí;dirigido;направляться, обращаться;El tren **se dirige** a Sevilla.;Поезд направляется в Севилью.
+B1;verb;;disgustar;;;disgusté;disgustado;огорчать, не нравиться;Me **disgusta** su forma de hablar.;Мне не нравится его манера говорить.
+B1;verb;;distribuir;;yo distribuyo;distribuí;distribuido;распределять, раздавать;La ONG **distribuye** comida a los pobres.;Эта организация раздаёт еду бедным.
+B1;verb;;emplear;;;empleé;empleado;использовать, нанимать;La fábrica **emplea** a doscientas personas.;На фабрике работают двести человек.
+B1;verb;;encargar;;;encargué;encargado;заказывать, поручать;Hemos **encargado** una tarta para la fiesta.;Мы заказали торт на праздник.
+B1;verb;;enterarse;;;me enteré;enterado;узнавать;**Me enteré** de la noticia por la radio.;Я узнал новость по радио.
+B1;verb;;escapar;;;escapé;escapado;убегать, сбегать;El ladrón **escapó** por la ventana.;Вор сбежал через окно.
+B1;verb;;estacionar;;;estacioné;estacionado;парковать(ся);Está prohibido **estacionar** aquí.;Здесь запрещено парковаться.
+B1;verb;;hacerse;;yo me hago;me hice;hecho;становиться;Quiere **hacerse** médico como su padre.;Он хочет стать врачом, как его отец.
+B1;verb;;ilusionar;;;ilusioné;ilusionado;воодушевлять, радовать;Me **ilusiona** mucho este viaje.;Я с большим нетерпением жду эту поездку.
+B1;verb;;inscribirse;;;me inscribí;inscrito;записываться, регистрироваться;**Me inscribí** en un curso de cocina.;Я записался на кулинарные курсы.
+B1;verb;;intercambiar;;;intercambié;intercambiado;обмениваться;Vamos a **intercambiar** números de teléfono.;Давай обменяемся номерами телефонов.
+B1;verb;;matricularse;;;me matriculé;matriculado;записываться (на учёбу), зачисляться;**Me matriculé** en la universidad en septiembre.;Я поступил в университет в сентябре.
+B1;verb;;molestarse;;;me molesté;molestado;обижаться, утруждать себя;No **te molestes**, ya lo hago yo.;Не беспокойся, я сам это сделаю.
+B1;verb;;pasarse;;;me pasé;pasado;заходить, перебарщивать;Mañana **me paso** por tu casa.;Завтра я зайду к тебе.
+B1;verb;;pinchar;;;pinché;pinchado;прокалывать, колоть;**Pinchamos** una rueda en la autopista.;Мы прокололи колесо на шоссе.
+B1;verb;;prepararse;;;me preparé;preparado;готовиться;**Me preparo** para el examen de conducir.;Я готовлюсь к экзамену по вождению.
+B1;verb;;preocupar;;;preocupé;preocupado;беспокоить, тревожить;Me **preocupa** la salud de mi madre.;Меня беспокоит здоровье мамы.
+B1;verb;;recargar;;;recargué;recargado;пополнять, перезаряжать;Tengo que **recargar** la tarjeta del metro.;Мне нужно пополнить карту метро.
+B1;verb;;recetar;;;receté;recetado;прописывать (лекарство);El médico me **recetó** unos antibióticos.;Врач прописал мне антибиотики.
+B1;verb;;registrarse;;;me registré;registrado;регистрироваться;Primero debes **registrarte** en la página web.;Сначала тебе нужно зарегистрироваться на сайте.
+B1;verb;;reñir;;yo riño;reñí;reñido;ругать, ссориться;La madre **riñe** a los niños por el desorden.;Мать ругает детей за беспорядок.
+B1;verb;;resfriarse;;yo me resfrío;me resfrié;resfriado;простужаться;**Me resfrié** porque salí sin abrigo.;Я простудился, потому что вышел без пальто.
+B1;verb;;sacudir;;;sacudí;sacudido;трясти, вытряхивать;**Sacude** la alfombra en el balcón.;Вытряхни ковёр на балконе.
+B1;verb;;tumbarse;;;me tumbé;tumbado;ложиться, растягиваться;Me gusta **tumbarme** al sol en la playa.;Я люблю лежать на солнце на пляже.
+B1;verb;;acampar;;;acampé;acampado;разбивать лагерь, жить в палатке;Este verano vamos a **acampar** en la montaña.;Этим летом мы будем жить в палатках в горах.
+B1;verb;;broncearse;;;me bronceé;bronceado;загорать;Ella **se broncea** fácilmente en verano.;Она легко загорает летом.
+B1;verb;;ahogarse;;;me ahogué;ahogado;тонуть, задыхаться;Un niño casi **se ahoga** en la piscina.;Ребёнок чуть не утонул в бассейне.
+B1;verb;;adorar;;;adoré;adorado;обожать;**Adoro** la comida italiana.;Я обожаю итальянскую кухню.
+B1;verb;;confundir;;;confundí;confundido;путать;Siempre **confundo** a los dos hermanos.;Я всегда путаю двух братьев.
+B1;verb;;confundirse;;;me confundí;confundido;ошибаться, путаться;**Me confundí** de calle y llegué tarde.;Я перепутал улицу и опоздал.
+B1;verb;;convertir;;yo convierto;convertí;convertido;превращать;Quieren **convertir** la fábrica en un museo.;Они хотят превратить фабрику в музей.
+B1;verb;;arreglarse;;;me arreglé;arreglado;наряжаться, собираться;Tardo media hora en **arreglarme** por las mañanas.;По утрам я собираюсь полчаса.
+B1;verb;;hornear;;;horneé;horneado;печь (в духовке);Mi madre **hornea** pan los fines de semana.;Мама печёт хлеб по выходным.
+B1;verb;;cocer;;yo cuezo;cocí;cocido;варить;**Cuece** la pasta durante diez minutos.;Вари пасту десять минут.
+B1;verb;;picar;;;piqué;picado;кусать (о насекомых), мелко резать;Un mosquito me **picó** en el brazo.;Меня укусил комар в руку.
+B1;verb;;derretirse;;yo me derrito;me derretí;derretido;таять;El helado **se derrite** con el calor.;Мороженое тает от жары.
+B1;verb;;probarse;;yo me pruebo;me probé;probado;примерять;¿Puedo **probarme** estos pantalones?;Можно мне примерить эти брюки?
+B1;verb;;abrocharse;;;me abroché;abrochado;застёгиваться, пристёгиваться;**Abróchense** los cinturones, por favor.;Пристегните ремни, пожалуйста.
+B1;verb;;atascarse;;;me atasqué;atascado;застревать, засоряться;El fregadero **se ha atascado** otra vez.;Раковина снова засорилась.
+B1;verb;;frenar;;;frené;frenado;тормозить;**Frenó** justo a tiempo delante del semáforo.;Он затормозил как раз вовремя перед светофором.
+B1;verb;;acelerar;;;aceleré;acelerado;ускорять(ся), разгоняться;No **aceleres** tanto, vas muy rápido.;Не разгоняйся так, ты едешь очень быстро.
+B1;verb;;operar;;;operé;operado;оперировать;Mañana **operan** a mi tío de la rodilla.;Завтра моему дяде будут оперировать колено.
+B1;verb;;vacunar;;;vacuné;vacunado;прививать, делать прививку;Hay que **vacunar** al perro cada año.;Собаке нужно делать прививку каждый год.
+B1;verb;;marearse;;;me mareé;mareado;испытывать головокружение, укачивать;**Me mareo** cuando viajo en barco.;Меня укачивает, когда я плыву на корабле.
+B1;verb;;cuidarse;;;me cuidé;cuidado;беречь себя, следить за собой;**Cuídate** mucho y escríbeme pronto.;Береги себя и скорее напиши мне.
+B1;verb;;madrugar;;;madrugué;madrugado;рано вставать;Mañana tengo que **madrugar** para ir al aeropuerto.;Завтра мне нужно рано встать, чтобы поехать в аэропорт.
+B1;verb;;trasnochar;;;trasnoché;trasnochado;поздно ложиться, не спать ночью;Los sábados solemos **trasnochar**.;По субботам мы обычно поздно ложимся.
+B1;verb;;emborracharse;;;me emborraché;emborrachado;напиваться;**Se emborrachó** en la boda de su hermano.;Он напился на свадьбе брата.
+B1;verb;;memorizar;;;memoricé;memorizado;запоминать, заучивать;Tengo que **memorizar** todos estos verbos.;Мне нужно выучить все эти глаголы.
+B1;verb;;deletrear;;;deletreé;deletreado;произносить по буквам;¿Puede **deletrear** su apellido, por favor?;Не могли бы вы произнести свою фамилию по буквам?
+B1;verb;;pronunciar;;;pronuncié;pronunciado;произносить;No sé **pronunciar** bien esta palabra.;Я не умею правильно произносить это слово.
+B1;verb;;resumir;;;resumí;resumido;кратко излагать, подводить итог;**Resume** el texto en diez líneas.;Кратко изложи текст в десяти строках.
+B1;verb;;redactar;;;redacté;redactado;составлять (текст);Tienes que **redactar** una carta formal.;Тебе нужно составить официальное письмо.
+B1;verb;;asustarse;;;me asusté;asustado;пугаться;**Me asusté** al oír un ruido en la cocina.;Я испугался, услышав шум на кухне.
+B1;verb;;avergonzarse;;yo me avergüenzo;me avergoncé;avergonzado;стыдиться;**Me avergüenzo** de lo que dije ayer.;Мне стыдно за то, что я сказал вчера.
+B1;verb;;animar;;;animé;animado;подбадривать, воодушевлять;Mis amigos me **animaron** a cantar.;Друзья уговорили меня спеть.
+B1;verb;;animarse;;;me animé;animado;решаться, воодушевляться;¿**Te animas** a venir al cine?;Не хочешь пойти с нами в кино?
+B1;verb;;aguantar;;;aguanté;aguantado;терпеть, выдерживать;No **aguanto** más este calor.;Я больше не могу терпеть эту жару.
+B1;verb;;fastidiar;;;fastidié;fastidiado;раздражать, досаждать;Me **fastidia** esperar en las colas.;Меня раздражает стоять в очередях.
+B1;verb;;reconciliarse;;;me reconcilié;reconciliado;мириться;Por fin **se reconciliaron** después de la pelea.;Наконец они помирились после ссоры.
+B1;verb;;ligar;;;ligué;ligado;флиртовать, знакомиться;Va a la discoteca para **ligar**.;Он ходит на дискотеку, чтобы знакомиться с девушками.
+B1;verb;;amueblar;;;amueblé;amueblado;обставлять мебелью;Todavía no hemos **amueblado** el salón.;Мы ещё не обставили гостиную.
+B1;verb;;decorar;;;decoré;decorado;украшать;**Decoramos** la casa para la Navidad.;Мы украсили дом к Рождеству.
+B1;verb;;reformar;;;reformé;reformado;ремонтировать, перестраивать;Estamos **reformando** la cocina.;Мы делаем ремонт на кухне.
+B1;verb;;desenchufar;;;desenchufé;desenchufado;выключать из розетки;**Desenchufa** la plancha antes de salir.;Выключи утюг из розетки перед уходом.
+B1;verb;;pulsar;;;pulsé;pulsado;нажимать;**Pulse** el botón verde para empezar.;Нажмите зелёную кнопку, чтобы начать.
+B1;verb;;teclear;;;tecleé;tecleado;печатать на клавиатуре, вводить;**Teclea** tu contraseña y pulsa enter.;Введи свой пароль и нажми enter.
+B1;verb;;chatear;;;chateé;chateado;переписываться в чате;Me paso horas **chateando** con mis amigos.;Я часами переписываюсь с друзьями.
+B1;verb;;reenviar;;yo reenvío;reenvié;reenviado;пересылать;Te **reenvío** el correo de la profesora.;Пересылаю тебе письмо от учительницы.
+B1;verb;;contactar;;;contacté;contactado;связываться;Puede **contactar** con nosotros por correo.;Вы можете связаться с нами по электронной почте.
+B1;verb;;hospedarse;;;me hospedé;hospedado;останавливаться (в гостинице);**Nos hospedamos** en un hotel junto al mar.;Мы остановились в отеле у моря.
+B1;verb;;orientarse;;;me orienté;orientado;ориентироваться;No sé **orientarme** en esta ciudad.;Я не умею ориентироваться в этом городе.
+B1;verb;;explorar;;;exploré;explorado;исследовать, изучать;Nos gusta **explorar** pueblos pequeños.;Нам нравится исследовать маленькие деревни.
+B1;verb;;fotografiar;;yo fotografío;fotografié;fotografiado;фотографировать;Está prohibido **fotografiar** los cuadros.;Фотографировать картины запрещено.
+B1;verb;;regatear;;;regateé;regateado;торговаться;En el mercado puedes **regatear** el precio.;На рынке можно поторговаться.
+B1;verb;;rebajar;;;rebajé;rebajado;снижать (цену);En enero **rebajan** los precios de la ropa.;В январе снижают цены на одежду.
+B1;verb;;dimitir;;;dimití;dimitido;уходить в отставку;El ministro **dimitió** después del escándalo.;Министр ушёл в отставку после скандала.
+B1;verb;;ascender;;yo asciendo;ascendí;ascendido;повышать (в должности), подниматься;A mi hermana la **ascendieron** a directora.;Мою сестру повысили до директора.
+B1;verb;;programar;;;programé;programado;программировать, планировать;Mi hijo aprende a **programar** videojuegos.;Мой сын учится программировать видеоигры.
+B1;verb;;manifestarse;;yo me manifiesto;me manifesté;manifestado;выходить на демонстрацию;Miles de personas **se manifestaron** en Madrid.;Тысячи людей вышли на демонстрацию в Мадриде.
+B1;verb;;gobernar;;yo gobierno;goberné;gobernado;управлять, править;Este partido **gobierna** desde hace cuatro años.;Эта партия правит уже четыре года.
+B1;verb;;obedecer;;yo obedezco;obedecí;obedecido;слушаться, подчиняться;Los niños no siempre **obedecen** a sus padres.;Дети не всегда слушаются родителей.
+B1;verb;;disparar;;;disparé;disparado;стрелять;El policía **disparó** al aire.;Полицейский выстрелил в воздух.
+B1;verb;;inundar;;;inundé;inundado;затапливать;La lluvia **inundó** las calles del centro.;Дождь затопил улицы в центре.
+B1;verb;;malgastar;;;malgasté;malgastado;растрачивать, тратить впустую;No **malgastes** el agua, es un bien escaso.;Не трать воду зря, её мало.
+B1;verb;;cultivar;;;cultivé;cultivado;выращивать;Mis abuelos **cultivan** verduras en el huerto.;Бабушка с дедушкой выращивают овощи в огороде.
+B1;verb;;florecer;;yo florezco;florecí;florecido;цвести;Los almendros **florecen** en febrero.;Миндальные деревья цветут в феврале.
+B1;verb;;ladrar;;;ladré;ladrado;лаять;El perro del vecino **ladra** toda la noche.;Соседская собака лает всю ночь.
+B1;verb;;mojar;;;mojé;mojado;мочить, макать;**Moja** el pan en la sopa.;Обмакни хлеб в суп.
+B1;verb;;tejer;;;tejí;tejido;вязать;Mi abuela me **tejió** una bufanda de lana.;Бабушка связала мне шерстяной шарф.
+B1;verb;;coser;;;cosí;cosido;шить, пришивать;¿Me puedes **coser** este botón?;Ты можешь пришить мне эту пуговицу?
+B1;verb;;empatar;;;empaté;empatado;сыграть вничью;Los dos equipos **empataron** a uno.;Обе команды сыграли вничью один-один.
+B1;verb;;silbar;;;silbé;silbado;свистеть;Mi padre **silba** cuando está contento.;Мой папа свистит, когда доволен.
+B1;verb;;susurrar;;;susurré;susurrado;шептать;Me **susurró** un secreto al oído.;Он прошептал мне на ухо секрет.
+B1;verb;;planear;;;planeé;planeado;планировать;Estamos **planeando** un viaje a México.;Мы планируем поездку в Мексику.
+B1;verb;;sobrar;;;sobré;sobrado;оставаться (лишним), быть в избытке;Ha **sobrado** mucha comida de la fiesta.;После праздника осталось много еды.
+B1;verb;;bastar;;;basté;bastado;хватать, быть достаточно;Con dos horas **basta** para ver el museo.;Двух часов хватит, чтобы осмотреть музей.
+B1;verb;;encajar;;;encajé;encajado;подходить, совпадать;Esta pieza no **encaja** aquí.;Эта деталь сюда не подходит.
+B1;verb;;agitar;;;agité;agitado;встряхивать, трясти;**Agita** la botella antes de abrirla.;Встряхни бутылку, прежде чем её открыть.
+B1;verb;;derramar;;;derramé;derramado;проливать;**Derramé** el café sobre la mesa.;Я пролил кофе на стол.
+B1;verb;;masticar;;;mastiqué;masticado;жевать;**Mastica** bien antes de tragar.;Хорошо жуй, прежде чем глотать.
+B1;verb;;tragar;;;tragué;tragado;глотать;Me duele la garganta al **tragar**.;У меня болит горло, когда я глотаю.
+B1;verb;;agacharse;;;me agaché;agachado;наклоняться, приседать;**Me agaché** para coger el lápiz.;Я наклонился, чтобы поднять карандаш.
+B1;verb;;abrigarse;;;me abrigué;abrigado;тепло одеваться;**Abrígate** bien, hace mucho frío.;Оденься потеплее, очень холодно.
+B1;verb;;desnudarse;;;me desnudé;desnudado;раздеваться;El niño **se desnudó** para bañarse.;Мальчик разделся, чтобы искупаться.
+B1;verb;;cortarse;;;me corté;cortado;порезаться, подстричься;**Me corté** el pelo la semana pasada.;На прошлой неделе я подстригся.
+B1;verb;;apresurarse;;;me apresuré;apresurado;спешить, торопиться;**Apresúrate** o perderemos el tren.;Поторопись, иначе мы опоздаем на поезд.
+B1;verb;;comparar;;;comparé;comparado;сравнивать;No me gusta **comparar** a mis hijos.;Я не люблю сравнивать своих детей.
+B1;verb;;interpretar;;;interpreté;interpretado;толковать, исполнять (роль);Ese actor **interpreta** a un médico en la serie.;Этот актёр играет врача в сериале.
+B1;verb;;significar;;;signifiqué;significado;означать;¿Qué **significa** esta palabra?;Что означает это слово?
+B1;verb;;preguntarse;;;me pregunté;preguntado;задаваться вопросом;**Me pregunto** si vendrá a la fiesta.;Интересно, придёт ли он на праздник.
+B1;verb;;concentrarse;;;me concentré;concentrado;сосредоточиваться;No puedo **concentrarme** con tanto ruido.;Я не могу сосредоточиться при таком шуме.
+B1;verb;;traicionar;;;traicioné;traicionado;предавать;Nunca **traicionaría** a un amigo.;Я никогда не предал бы друга.
+B1;verb;;añorar;;;añoré;añorado;тосковать;**Añoro** los veranos en casa de mis abuelos.;Я тоскую по летним дням у бабушки с дедушкой.
+B1;verb;;atravesar;;yo atravieso;atravesé;atravesado;пересекать, проходить через;Para llegar, hay que **atravesar** el parque.;Чтобы добраться, нужно пройти через парк.
+B1;verb;;torcer;;yo tuerzo;torcí;torcido;поворачивать, сгибать;**Tuerce** a la izquierda en la segunda calle.;Поверни налево на второй улице.
+B1;verb;;detenerse;;yo me detengo;me detuve;detenido;останавливаться;El autobús **se detuvo** delante del hotel.;Автобус остановился перед отелем.
+B1;verb;;continuar;;yo continúo;continué;continuado;продолжать;Después de la pausa **continuamos** con la clase.;После перерыва мы продолжили урок.
+B1;verb;;triunfar;;;triunfé;triunfado;добиться успеха, побеждать;Su primera película **triunfó** en todo el mundo.;Его первый фильм имел успех во всём мире.
+B1;verb;;detestar;;;detesté;detestado;ненавидеть, терпеть не мочь;**Detesto** levantarme temprano los domingos.;Терпеть не могу рано вставать по воскресеньям.
+B1;verb;;aburrir;;;aburrí;aburrido;надоедать, наводить скуку;Esta película me **aburre** mucho.;Этот фильм мне очень скучен.
+B1;verb;;renovar;;yo renuevo;renové;renovado;обновлять, продлевать;Tengo que **renovar** el pasaporte este año.;В этом году мне нужно продлить паспорт.
+B1;verb;;multar;;;multé;multado;штрафовать;Me **multaron** por aparcar mal.;Меня оштрафовали за неправильную парковку.
+B1;verb;;repostar;;;reposté;repostado;заправляться (топливом);Tenemos que **repostar** antes de salir de la ciudad.;Нам нужно заправиться, прежде чем выехать из города.
+B1;verb;;transportar;;;transporté;transportado;перевозить;Este camión **transporta** fruta a Francia.;Этот грузовик перевозит фрукты во Францию.
+B1;verb;;escanear;;;escaneé;escaneado;сканировать;**Escanea** el documento y envíamelo.;Отсканируй документ и пришли мне.
+B1;verb;;actualizar;;;actualicé;actualizado;обновлять;Tienes que **actualizar** la aplicación.;Тебе нужно обновить приложение.
+B1;verb;;atrapar;;;atrapé;atrapado;ловить, поймать;La policía **atrapó** al ladrón en el metro.;Полиция поймала вора в метро.
+B1;adv;;al principio;;;;;сначала, вначале;**Al principio** no entendía nada.;Сначала я ничего не понимал.
+B1;adv;;rara vez;;;;;редко;**Rara vez** salgo por la noche.;Я редко выхожу куда-нибудь вечером.
+B1;adv;;de pronto;;;;;вдруг, внезапно;**De pronto** empezó a llover.;Вдруг пошёл дождь.
+B1;adv;;mientras tanto;;;;;тем временем, пока;Yo cocino y tú, **mientras tanto**, pones la mesa.;Я готовлю, а ты тем временем накрываешь на стол.
+B1;adv;;constantemente;;;;;постоянно;Mi vecino se queja **constantemente** del ruido.;Мой сосед постоянно жалуется на шум.
+B1;adv;;claramente;;;;;ясно, чётко;Por favor, habla más **claramente**.;Пожалуйста, говори чётче.
+B1;adv;;completamente;;;;;полностью, совершенно;Estoy **completamente** de acuerdo contigo.;Я полностью с тобой согласен.
+B1;adv;;simplemente;;;;;просто;**Simplemente** quería darte las gracias.;Я просто хотел тебя поблагодарить.
+B1;adv;;precisamente;;;;;именно, как раз;**Precisamente** hablábamos de ti.;Мы как раз говорили о тебе.
+B1;adv;;dentro de poco;;;;;скоро, вскоре;**Dentro de poco** empiezan las vacaciones.;Скоро начнутся каникулы.
+B1;adv;;de momento;;;;;пока, на данный момент;**De momento** vivo con mis padres.;Пока я живу с родителями.
+B1;adv;;por fin;;;;;наконец;**Por fin** ha llegado el verano.;Наконец-то наступило лето.
+B1;adv;;por lo general;;;;;как правило, обычно;**Por lo general** ceno a las nueve.;Как правило, я ужинаю в девять.
+B1;adv;;en general;;;;;в целом, вообще;**En general**, la gente aquí es muy amable.;В целом люди здесь очень дружелюбные.
+B1;adv;;al menos;;;;;по крайней мере, хотя бы;Llama **al menos** una vez a la semana.;Звони хотя бы раз в неделю.
+B1;adv;;por lo menos;;;;;по меньшей мере, хотя бы;El viaje dura **por lo menos** tres horas.;Поездка длится по меньшей мере три часа.
+B1;adv;;poco a poco;;;;;постепенно, понемногу;**Poco a poco** mi español va mejorando.;Мой испанский понемногу улучшается.
+B1;adv;;en serio;;;;;серьёзно, всерьёз;¿Lo dices **en serio**?;Ты это серьёзно?
+B1;adv;;en voz alta;;;;;вслух, громко;Lee el texto **en voz alta**, por favor.;Прочитай текст вслух, пожалуйста.
+B1;adv;;en voz baja;;;;;тихо, вполголоса;Hablad **en voz baja**, el bebé duerme.;Говорите тише, малыш спит.
+B1;adv;;a mano;;;;;вручную, от руки;Escribí la carta **a mano**.;Я написал письмо от руки.
+B1;adv;;tal vez;;;;;может быть, возможно;**Tal vez** vayamos a la playa mañana.;Может быть, завтра мы поедем на пляж.
+B1;adv;;de memoria;;;;;наизусть;Me sé el poema **de memoria**.;Я знаю это стихотворение наизусть.
+B1;adv;;ni siquiera;;;;;даже не;**Ni siquiera** me dijo adiós.;Он даже не попрощался со мной.
+B1;adv;;habitualmente;;;;;обычно, как правило;**Habitualmente** voy al trabajo en metro.;Обычно я езжу на работу на метро.
+B1;adv;;personalmente;;;;;лично;**Personalmente**, prefiero el campo a la ciudad.;Лично я предпочитаю деревню городу.
+B1;adv;;obviamente;;;;;очевидно, конечно;**Obviamente**, no voy a pagar yo.;Очевидно, платить я не буду.
+B1;adv;;sinceramente;;;;;искренне, честно говоря;**Sinceramente**, no me gusta nada este plan.;Честно говоря, мне совсем не нравится этот план.
+B1;adv;;a diario;;;;;ежедневно, каждый день;Uso el ordenador **a diario**.;Я пользуюсь компьютером каждый день.
+B1;adv;;de todos modos;;;;;всё равно, в любом случае;No tengo hambre, pero **de todos modos** comeré algo.;Я не голоден, но всё равно что-нибудь съем.
+B1;adv;;frecuentemente;;;;;часто;Viajo **frecuentemente** por motivos de trabajo.;Я часто езжу в командировки.
+B1;adv;;absolutamente;;;;;абсолютно, совершенно;No entiendo **absolutamente** nada.;Я совершенно ничего не понимаю.
