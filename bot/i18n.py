@@ -278,11 +278,101 @@ TEXTS = {
         "es": "Las palabras nuevas volverán a llegar según el horario.",
     },
 
+    # --- объём уровня ---
+    "ask_scope": {
+        "ru": "Уровень: <b>{level}</b> ✅\n\nКакие слова присылать?",
+        "en": "Level: <b>{level}</b> ✅\n\nWhich words should I send?",
+        "fr": "Niveau : <b>{level}</b> ✅\n\nQuels mots dois-je envoyer ?",
+        "es": "Nivel: <b>{level}</b> ✅\n\n¿Qué palabras envío?",
+    },
+    "btn_scope_all": {
+        "ru": "📚 {level} и все уровни ниже",
+        "en": "📚 {level} and all lower levels",
+        "fr": "📚 {level} et tous les niveaux inférieurs",
+        "es": "📚 {level} y todos los niveles inferiores",
+    },
+    "btn_scope_only": {
+        "ru": "🎯 Только {level}",
+        "en": "🎯 Only {level}",
+        "fr": "🎯 Seulement {level}",
+        "es": "🎯 Solo {level}",
+    },
+    "scope_all": {"ru": "{level} и ниже", "en": "{level} and below",
+                  "fr": "{level} et inférieurs", "es": "{level} e inferiores"},
+    "scope_only": {"ru": "только {level}", "en": "only {level}", "fr": "seulement {level}",
+                   "es": "solo {level}"},
+
+    # --- сводки после тестов ---
+    "quiz_stats": {
+        "ru": "Результат теста:\n✅ с первой попытки: {first}\n✏️ с ошибками: {mistakes}\n"
+              "👀 ответ подсмотрен: {revealed}",
+        "en": "Quiz result:\n✅ first try: {first}\n✏️ after mistakes: {mistakes}\n"
+              "👀 answer shown: {revealed}",
+        "fr": "Résultat du test :\n✅ du premier coup : {first}\n✏️ après des erreurs : {mistakes}\n"
+              "👀 réponse affichée : {revealed}",
+        "es": "Resultado del test:\n✅ a la primera: {first}\n✏️ tras errores: {mistakes}\n"
+              "👀 respuesta mostrada: {revealed}",
+    },
+    "summary_daily": {
+        "ru": "📊 <b>Итоги дня</b>\nСегодня изучено слов: <b>{today}</b>\n"
+              "Всего изучено: <b>{learned}</b> из {total} ({percent}%)\n\n{stats}",
+        "en": "📊 <b>Today's summary</b>\nWords learned today: <b>{today}</b>\n"
+              "Total learned: <b>{learned}</b> of {total} ({percent}%)\n\n{stats}",
+        "fr": "📊 <b>Bilan du jour</b>\nMots appris aujourd'hui : <b>{today}</b>\n"
+              "Total appris : <b>{learned}</b> sur {total} ({percent} %)\n\n{stats}",
+        "es": "📊 <b>Resumen del día</b>\nPalabras aprendidas hoy: <b>{today}</b>\n"
+              "Total aprendidas: <b>{learned}</b> de {total} ({percent}%)\n\n{stats}",
+    },
+    "summary_weekly": {
+        "ru": "📈 <b>Итоги недели</b>\nИзучено за неделю: <b>{week}</b> (в среднем {avg} в день)\n"
+              "Всего изучено: <b>{learned}</b> из {total} ({percent}%)\n\n"
+              "⚙️ Сейчас: {schedule}.\nЭто до <b>{per_day}</b> слов в день и до <b>{per_week}</b> "
+              "в неделю.\n{forecast}\n\n{stats}",
+        "en": "📈 <b>Weekly summary</b>\nLearned this week: <b>{week}</b> ({avg} a day on average)\n"
+              "Total learned: <b>{learned}</b> of {total} ({percent}%)\n\n"
+              "⚙️ Current settings: {schedule}.\nThat's up to <b>{per_day}</b> words a day and up to "
+              "<b>{per_week}</b> a week.\n{forecast}\n\n{stats}",
+        "fr": "📈 <b>Bilan de la semaine</b>\nMots appris cette semaine : <b>{week}</b> "
+              "({avg} par jour en moyenne)\nTotal appris : <b>{learned}</b> sur {total} ({percent} %)\n\n"
+              "⚙️ Réglages actuels : {schedule}.\nSoit jusqu'à <b>{per_day}</b> mots par jour et jusqu'à "
+              "<b>{per_week}</b> par semaine.\n{forecast}\n\n{stats}",
+        "es": "📈 <b>Resumen de la semana</b>\nAprendidas esta semana: <b>{week}</b> "
+              "({avg} al día de media)\nTotal aprendidas: <b>{learned}</b> de {total} ({percent}%)\n\n"
+              "⚙️ Ajustes actuales: {schedule}.\nEso son hasta <b>{per_day}</b> palabras al día y hasta "
+              "<b>{per_week}</b> a la semana.\n{forecast}\n\n{stats}",
+    },
+    "forecast": {
+        "ru": "🏁 При таком темпе уровень {level} будет пройден примерно через {days} дн. — к {date}.",
+        "en": "🏁 At this pace you'll finish level {level} in about {days} days — by {date}.",
+        "fr": "🏁 À ce rythme, tu termineras le niveau {level} dans environ {days} jours, vers le {date}.",
+        "es": "🏁 A este ritmo terminarás el nivel {level} en unos {days} días, hacia el {date}.",
+    },
+    "forecast_done": {
+        "ru": "🎉 Все слова уровня {level} уже изучены!",
+        "en": "🎉 You've already learned all the words of level {level}!",
+        "fr": "🎉 Tu as déjà appris tous les mots du niveau {level} !",
+        "es": "🎉 ¡Ya has aprendido todas las palabras del nivel {level}!",
+    },
+
+    # --- служебные команды ---
+    "test_no_words": {
+        "ru": "Пока нет слов для теста — сначала получи несколько слов.",
+        "en": "No words for a quiz yet — get a few words first.",
+        "fr": "Pas encore de mots pour un test — reçois d'abord quelques mots.",
+        "es": "Aún no hay palabras para un test: primero recibe algunas palabras.",
+    },
+    "your_id": {
+        "ru": "Твой Telegram ID: <code>{id}</code>",
+        "en": "Your Telegram ID: <code>{id}</code>",
+        "fr": "Ton identifiant Telegram : <code>{id}</code>",
+        "es": "Tu ID de Telegram: <code>{id}</code>",
+    },
+
     # --- описание работы бота ---
     "rules": {
         "ru": "ℹ️ <b>Как работает бот</b>\n\n"
               "📩 <b>Новые слова</b> приходят по одному: {schedule}. Слова выбираются случайно "
-              "из твоего уровня и всех уровней ниже и не повторяются. Каждое полученное слово "
+              "из твоего уровня (и уровней ниже, если ты так выбрал) и не повторяются. Каждое полученное слово "
               "считается изученным.\n\n"
               "➕ <b>«Ещё слово»</b> присылает новое слово вне очереди, в дневной лимит оно "
               "не входит.\n\n"
@@ -299,7 +389,7 @@ TEXTS = {
               "часовой пояс, уровень и язык бота, а также поставить бота на паузу.",
         "en": "ℹ️ <b>How the bot works</b>\n\n"
               "📩 <b>New words</b> arrive one at a time: {schedule}. Words are picked at random "
-              "from your level and all levels below, and they never repeat. Every word you "
+              "from your level (and the levels below, if you chose so), and they never repeat. Every word you "
               "receive counts as learned.\n\n"
               "➕ <b>“One more word”</b> sends an extra word right away; it doesn't count toward "
               "the daily limit.\n\n"
@@ -318,7 +408,7 @@ TEXTS = {
               "🇷🇺 For now, word translations are in Russian only.",
         "fr": "ℹ️ <b>Comment fonctionne le bot</b>\n\n"
               "📩 <b>Les nouveaux mots</b> arrivent un par un : {schedule}. Ils sont choisis au "
-              "hasard dans ton niveau et tous les niveaux inférieurs, sans répétition. Chaque "
+              "hasard dans ton niveau (et les niveaux inférieurs si tu l'as choisi), sans répétition. Chaque "
               "mot reçu compte comme appris.\n\n"
               "➕ <b>« Encore un mot »</b> envoie tout de suite un mot supplémentaire ; il ne "
               "compte pas dans la limite quotidienne.\n\n"
@@ -338,7 +428,7 @@ TEXTS = {
               "🇷🇺 Pour l'instant, les traductions des mots sont uniquement en russe.",
         "es": "ℹ️ <b>Cómo funciona el bot</b>\n\n"
               "📩 <b>Las palabras nuevas</b> llegan de una en una: {schedule}. Se eligen al azar "
-              "de tu nivel y de todos los niveles inferiores, y no se repiten. Cada palabra "
+              "de tu nivel (y de los niveles inferiores, si así lo elegiste), y no se repiten. Cada palabra "
               "recibida cuenta como aprendida.\n\n"
               "➕ <b>«Otra palabra»</b> envía una palabra extra al momento; no cuenta para el "
               "límite diario.\n\n"

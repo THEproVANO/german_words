@@ -1,23 +1,17 @@
 from aiogram import Bot, F, Router
-from aiogram.filters import CommandStart
+from aiogram.filters import Command, CommandStart
 from aiogram.types import CallbackQuery, Message
 
 from . import db, keyboards, service
-from .config import (DAILY_QUIZ_SIZE, DEFAULT_TZ, DEFAULT_TZ_BY_UI, LANGUAGES, QUIZ_HOUR,
-                     TIMEZONES, WEEKLY_QUIZ_SIZE)
+from .config import (ADMIN_IDS, DAILY_QUIZ_SIZE, DEFAULT_TZ, DEFAULT_TZ_BY_UI, LANGUAGES,
+                     LEVELS, QUIZ_HOUR, TIMEZONES, WEEKLY_QUIZ_SIZE)
 from .i18n import CHOOSE_UI, UI_LANGUAGES, all_variants, city, t
 
 router = Router()
 
 
-def schedule_text(user) -> str:
-    lang = user["ui_lang"]
-    return t(lang, "schedule", interval=t(lang, f"every_{user['interval_min']}"),
-             start=user["day_start"], end=user["day_end"], limit=user["words_per_day"])
-
-
 def rules_text(user) -> str:
-    return t(user["ui_lang"], "rules", schedule=schedule_text(user), quiz_hour=QUIZ_HOUR,
+    return t(user["ui_lang"], "rules", schedule=service.schedule_text(user), quiz_hour=QUIZ_HOUR,
              daily=DAILY_QUIZ_SIZE, weekly=WEEKLY_QUIZ_SIZE)
 
 
@@ -32,6 +26,12 @@ async def cmd_start(message: Message, bot: Bot) -> None:
     user = db.get_user(user_id)
     if user["blocked"]:
         db.update_user(user_id, blocked=0)
+    if user["level"] and user["last_slot_date"] is None:
+        # Настройка не закончена: уровень выбран, но не ответил, включать ли уровни ниже
+        lang = user["ui_lang"]
+        await message.answer(t(lang, "ask_scope", level=user["level"]),
+                             reply_markup=keyboards.scope(lang, user["level"]))
+        return
     if user["level"]:
         lang = user["ui_lang"]
         await message.answer(t(lang, "welcome_back"), reply_markup=keyboards.main_menu(lang))
@@ -88,18 +88,68 @@ async def choose_level(call: CallbackQuery, bot: Bot) -> None:
                               show_alert=True)
             return
         lang = user["ui_lang"]
-        first_time = user["level"] is None
         db.update_user(user_id, level=level)
-        await call.message.edit_text(t(lang, "level_set", level=level))
         await call.answer()
-        if not first_time:
+        if level == LEVELS[0]:
+            # Ниже первого уровня ничего нет, спрашивать незачем
+            db.update_user(user_id, include_lower=1)
+            await call.message.edit_text(t(lang, "level_set", level=level))
+            await finish_setup(bot, db.get_user(user_id))
             return
+        await call.message.edit_text(t(lang, "ask_scope", level=level),
+                                     reply_markup=keyboards.scope(lang, level))
+
+
+@router.callback_query(F.data.startswith("scope:"))
+async def choose_scope(call: CallbackQuery, bot: Bot) -> None:
+    include_lower = int(call.data.split(":")[1])
+    user_id = call.from_user.id
+    async with service.user_locks[user_id]:
+        db.update_user(user_id, include_lower=include_lower)
         user = db.get_user(user_id)
-        await bot.send_message(user_id, rules_text(user), reply_markup=keyboards.main_menu(lang))
-        # Первое слово сразу, следующее — в ближайший слот по расписанию
-        service.reset_schedule(user_id)
-        await bot.send_message(user_id, t(lang, "first_word"))
-        await service.send_new_word(bot, user)
+        lang = user["ui_lang"]
+        await call.message.edit_text(
+            f"{t(lang, 'level_set', level=user['level'])}\n{scope_text(user)}")
+        await call.answer()
+        await finish_setup(bot, user)
+
+
+def scope_text(user) -> str:
+    if user["level"] == LEVELS[0]:
+        return user["level"]
+    return t(user["ui_lang"], "scope_all" if user["include_lower"] else "scope_only",
+             level=user["level"])
+
+
+async def finish_setup(bot: Bot, user) -> None:
+    """После первой настройки: правила и первое слово. При смене уровня из профиля — ничего."""
+    if user["last_slot_date"] is not None:
+        return
+    lang = user["ui_lang"]
+    await bot.send_message(user["id"], rules_text(user), reply_markup=keyboards.main_menu(lang))
+    # Первое слово сразу, следующее — в ближайший слот по расписанию
+    service.reset_schedule(user["id"])
+    await bot.send_message(user["id"], t(lang, "first_word"))
+    await service.send_new_word(bot, user)
+
+
+@router.message(Command("id"))
+async def cmd_id(message: Message) -> None:
+    user = db.get_user(message.from_user.id)
+    await message.answer(t(user["ui_lang"] if user else "ru", "your_id", id=message.from_user.id))
+
+
+@router.message(Command("quiz"))
+async def cmd_quiz(message: Message, bot: Bot) -> None:
+    """Пробный тест для администратора: /quiz — за сегодня, /quiz week — за неделю."""
+    user_id = message.from_user.id
+    user = db.get_user(user_id)
+    if user_id not in ADMIN_IDS or not user or not user["level"]:
+        await message.answer(t(user["ui_lang"] if user else "ru", "no_quiz"))
+        return
+    weekly = "week" in (message.text or "")
+    async with service.user_locks[user_id]:
+        await service.start_test(bot, user, weekly)
 
 
 @router.message(F.text.in_(all_variants("btn_more")))
@@ -129,8 +179,8 @@ def profile_text(user) -> str:
         status = t(lang, "status_quiz")
     else:
         status = t(lang, "status_active")
-    return t(lang, "profile", language=t(lang, f"learn_{user['lang']}"), level=user["level"],
-             learned=learned, total=total, schedule=schedule_text(user),
+    return t(lang, "profile", language=t(lang, f"learn_{user['lang']}"), level=scope_text(user),
+             learned=learned, total=total, schedule=service.schedule_text(user),
              tz=tz_label(lang, user["tz"]), ui=UI_LANGUAGES[lang], status=status)
 
 
@@ -200,7 +250,8 @@ async def change_setting(call: CallbackQuery) -> None:
     async with service.user_locks[user_id]:
         db.update_user(user_id, **{column: int(value)})
         service.reset_schedule(user_id)
-    await call.message.edit_text(t(lang, "schedule_set", schedule=schedule_text(db.get_user(user_id))))
+    schedule = service.schedule_text(db.get_user(user_id))
+    await call.message.edit_text(t(lang, "schedule_set", schedule=schedule))
     await call.answer()
 
 

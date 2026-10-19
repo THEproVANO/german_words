@@ -1,10 +1,11 @@
 """Логика рассылки слов и тестов. Общая для планировщика и обработчиков."""
 import asyncio
 import logging
+import math
 import random
 import sqlite3
 from collections import defaultdict
-from datetime import date, datetime, timedelta
+from datetime import date, datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
 from aiogram import Bot
@@ -24,6 +25,12 @@ def slots(user: sqlite3.Row) -> list[int]:
     """Время отправки слов (в минутах от полуночи) по настройкам пользователя."""
     times = range(user["day_start"] * 60, user["day_end"] * 60 + 1, user["interval_min"])
     return list(times)[: user["words_per_day"]]
+
+
+def schedule_text(user: sqlite3.Row) -> str:
+    lang = user["ui_lang"]
+    return t(lang, "schedule", interval=t(lang, f"every_{user['interval_min']}"),
+             start=user["day_start"], end=user["day_end"], limit=user["words_per_day"])
 
 
 def local_now(user: sqlite3.Row) -> datetime:
@@ -76,14 +83,16 @@ async def send_question(bot: Bot, user: sqlite3.Row, quiz_id: int) -> None:
 
 
 async def start_quiz(bot: Bot, user: sqlite3.Row, kind: str, d: date, word_ids: list[int]) -> bool:
-    """Создаёт тест. Возвращает True, если тест начался (были слова)."""
-    size = DAILY_QUIZ_SIZE if kind == "daily" else WEEKLY_QUIZ_SIZE
+    """Создаёт тест. Возвращает True, если тест начался (были слова).
+    kind: daily, weekly или test_daily / test_weekly — пробные тесты по команде /quiz."""
+    weekly = kind.endswith("weekly")
+    size = WEEKLY_QUIZ_SIZE if weekly else DAILY_QUIZ_SIZE
     word_ids = random.sample(word_ids, min(size, len(word_ids)))
     quiz_id = db.create_quiz(user["id"], kind, d, word_ids)
     if not word_ids:
         return False
     lang = user["ui_lang"]
-    intro = t(lang, "quiz_daily" if kind == "daily" else "quiz_weekly", n=len(word_ids))
+    intro = t(lang, "quiz_weekly" if weekly else "quiz_daily", n=len(word_ids))
     await bot.send_message(user["id"], f"{intro}\n\n{t(lang, 'quiz_rules')}")
     await send_question(bot, user, quiz_id)
     return True
@@ -108,10 +117,60 @@ async def ensure_quizzes(bot: Bot, user: sqlite3.Row) -> None:
     await start_weekly_if_due(bot, user, d)
 
 
+async def start_test(bot: Bot, user: sqlite3.Row, weekly: bool) -> None:
+    """Пробный тест по команде /quiz: слова за сегодня или за последние 7 дней."""
+    quiz = db.get_active_quiz(user["id"])
+    if quiz:
+        await send_question(bot, user, quiz["id"])
+        return
+    d = study_date(local_now(user))
+    word_ids = db.words_for_dates(user["id"], d - timedelta(days=6 if weekly else 0), d)
+    if not word_ids:
+        await bot.send_message(user["id"], t(user["ui_lang"], "test_no_words"))
+        return
+    # У пробного теста дата — момент создания, чтобы не занимать место настоящего теста дня
+    await start_quiz(bot, user, "test_weekly" if weekly else "test_daily",
+                     datetime.now(timezone.utc), word_ids)
+
+
+def summary_text(user: sqlite3.Row, quiz: sqlite3.Row) -> str:
+    """Сводка после теста: прогресс, результат теста, а для недельного — темп и прогноз."""
+    lang = user["ui_lang"]
+    first, mistakes, revealed = db.quiz_stats(quiz["id"])
+    stats = t(lang, "quiz_stats", first=first, mistakes=mistakes, revealed=revealed)
+    learned, total = db.progress(user)
+    percent = round(100 * learned / total) if total else 0
+    if quiz["kind"].startswith("test_"):
+        d = study_date(local_now(user))
+    else:
+        d = date.fromisoformat(quiz["study_date"])
+
+    if not quiz["kind"].endswith("weekly"):
+        today = len(db.words_for_dates(user["id"], d, d))
+        return t(lang, "summary_daily", today=today, learned=learned, total=total,
+                 percent=percent, stats=stats)
+
+    week = len(db.words_for_dates(user["id"], d - timedelta(days=6), d))
+    per_day = len(slots(user))
+    remaining = total - learned
+    if remaining <= 0 or per_day == 0:
+        forecast = t(lang, "forecast_done", level=user["level"])
+    else:
+        days = math.ceil(remaining / per_day)
+        finish = (local_now(user).date() + timedelta(days=days)).strftime("%d.%m.%Y")
+        forecast = t(lang, "forecast", level=user["level"], days=days, date=finish)
+    avg = f"{week / 7:.1f}" if lang == "en" else f"{week / 7:.1f}".replace(".", ",")
+    return t(lang, "summary_weekly", week=week, avg=avg, learned=learned,
+             total=total, percent=percent, schedule=schedule_text(user), per_day=per_day,
+             per_week=per_day * 7, forecast=forecast, stats=stats)
+
+
 async def finish_quiz(bot: Bot, user: sqlite3.Row, quiz: sqlite3.Row) -> None:
     db.finish_quiz(quiz["id"])
     lang = user["ui_lang"]
-    await bot.send_message(user["id"], t(lang, f"{quiz['kind']}_done"))
+    done = "weekly_done" if quiz["kind"].endswith("weekly") else "daily_done"
+    await bot.send_message(user["id"], t(lang, done))
+    await bot.send_message(user["id"], summary_text(user, quiz))
     if quiz["kind"] == "daily":
         if await start_weekly_if_due(bot, user, date.fromisoformat(quiz["study_date"])):
             return

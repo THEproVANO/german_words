@@ -69,8 +69,12 @@ for _name, _default in (("interval_min", INTERVAL), ("words_per_day", WORDS_PER_
                         ("day_start", DAY_START), ("day_end", DAY_END)):
     if _name not in _user_columns:
         conn.execute(f"ALTER TABLE users ADD COLUMN {_name} INTEGER NOT NULL DEFAULT {_default}")
+if "include_lower" not in _user_columns:
+    conn.execute("ALTER TABLE users ADD COLUMN include_lower INTEGER NOT NULL DEFAULT 1")
 if "ui_lang" not in _user_columns:
     conn.execute("ALTER TABLE users ADD COLUMN ui_lang TEXT NOT NULL DEFAULT 'ru'")
+if "revealed" not in {r["name"] for r in conn.execute("PRAGMA table_info(quiz_items)")}:
+    conn.execute("ALTER TABLE quiz_items ADD COLUMN revealed INTEGER NOT NULL DEFAULT 0")
 conn.commit()
 
 
@@ -80,6 +84,11 @@ def now_utc() -> str:
 
 def levels_up_to(level: str) -> list[str]:
     return LEVELS[: LEVELS.index(level) + 1]
+
+
+def user_levels(user: sqlite3.Row) -> list[str]:
+    """Уровни, из которых пользователь получает слова: выбранный и, по желанию, все ниже."""
+    return levels_up_to(user["level"]) if user["include_lower"] else [user["level"]]
 
 
 def _in(values: list) -> str:
@@ -109,7 +118,7 @@ def update_user(user_id: int, **fields) -> None:
 def active_users() -> list[sqlite3.Row]:
     return conn.execute(
         "SELECT * FROM users WHERE lang IS NOT NULL AND level IS NOT NULL"
-        " AND paused = 0 AND blocked = 0"
+        " AND last_slot_date IS NOT NULL AND paused = 0 AND blocked = 0"
     ).fetchall()
 
 
@@ -137,8 +146,8 @@ def get_word(word_id: int) -> sqlite3.Row:
 
 
 def pick_new_word(user: sqlite3.Row) -> sqlite3.Row | None:
-    """Случайное ещё не отправленное слово из выбранного уровня и всех уровней ниже."""
-    levels = levels_up_to(user["level"])
+    """Случайное ещё не отправленное слово из уровней пользователя."""
+    levels = user_levels(user)
     return conn.execute(
         f"""SELECT * FROM words
             WHERE lang = ? AND level IN ({_in(levels)})
@@ -158,8 +167,8 @@ def mark_sent(user_id: int, word_id: int, study_date: date) -> None:
 
 
 def progress(user: sqlite3.Row) -> tuple[int, int]:
-    """(изучено, всего) для выбранного уровня."""
-    levels = levels_up_to(user["level"])
+    """(изучено, всего) для уровней пользователя."""
+    levels = user_levels(user)
     total = conn.execute(
         f"SELECT COUNT(*) FROM words WHERE lang = ? AND level IN ({_in(levels)})",
         (user["lang"], *levels),
@@ -239,12 +248,23 @@ def mark_item_done(item_id: int) -> None:
 
 def move_item_to_end(item_id: int, quiz_id: int) -> None:
     conn.execute(
-        """UPDATE quiz_items SET attempts = 0,
+        """UPDATE quiz_items SET attempts = 0, revealed = 1,
                position = (SELECT MAX(position) + 1 FROM quiz_items WHERE quiz_id = ?)
            WHERE id = ?""",
         (quiz_id, item_id),
     )
     conn.commit()
+
+
+def quiz_stats(quiz_id: int) -> tuple[int, int, int]:
+    """(с первой попытки, с ошибками, с подсмотренным ответом)."""
+    row = conn.execute(
+        """SELECT SUM(revealed = 0 AND attempts = 0), SUM(revealed = 0 AND attempts > 0),
+                  SUM(revealed = 1)
+           FROM quiz_items WHERE quiz_id = ?""",
+        (quiz_id,),
+    ).fetchone()
+    return row[0] or 0, row[1] or 0, row[2] or 0
 
 
 def finish_quiz(quiz_id: int) -> None:

@@ -35,6 +35,13 @@ levels = InlineKeyboardMarkup(inline_keyboard=[
 ])
 
 
+def scope(lang: str, level: str) -> InlineKeyboardMarkup:
+    return InlineKeyboardMarkup(inline_keyboard=[
+        [_button(t(lang, "btn_scope_all", level=level), "scope:1")],
+        [_button(t(lang, "btn_scope_only", level=level), "scope:0")],
+    ])
+
+
 def timezones(lang: str) -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(inline_keyboard=[
         [_button(f"{city(lang, tz)} ({offset})", f"tz:{tz}")]

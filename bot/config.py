@@ -7,6 +7,8 @@ ROOT = Path(__file__).resolve().parent.parent
 load_dotenv(ROOT / ".env")
 
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
+# Telegram ID администраторов через запятую: им доступна команда /quiz для проверки тестов
+ADMIN_IDS = {int(x) for x in os.getenv("ADMIN_IDS", "").split(",") if x.strip()}
 DB_PATH = os.getenv("DB_PATH", str(ROOT / "bot.db"))
 DATA_DIR = ROOT / "data"
 
