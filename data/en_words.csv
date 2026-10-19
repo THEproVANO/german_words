@@ -1303,3 +1303,302 @@ A2;noun;;balloon;balloons;;;;воздушный шар;The children played with 
 A2;noun;;news;-;;;;новости;Have you heard the **news**?;Ты слышал новости?
 A2;noun;;information;-;;;;информация;Can you give me some **information** about the tour?;Можете дать мне информацию об экскурсии?
 A2;noun;;advice;-;;;;совет;Can I ask you for some **advice**?;Можно спросить у тебя совета?
+B1;noun;;career;careers;;;;карьера;She wants a **career** in medicine.;Она хочет сделать карьеру в медицине.
+B1;noun;;employer;employers;;;;работодатель;My **employer** pays for my English lessons.;Мой работодатель оплачивает мои уроки английского.
+B1;noun;;employee;employees;;;;сотрудник, работник;The company has over two hundred **employees**.;В компании более двухсот сотрудников.
+B1;noun;;salary;salaries;;;;зарплата, оклад;He asked his boss for a higher **salary**.;Он попросил у начальника более высокую зарплату.
+B1;noun;;colleague;colleagues;;;;коллега;I often have lunch with my **colleagues**.;Я часто обедаю с коллегами.
+B1;noun;;experience;experiences;;;;опыт, впечатление;Do you have any **experience** in sales?;У вас есть опыт в продажах?
+B1;noun;;qualification;qualifications;;;;квалификация;What **qualifications** do you need for this job?;Какая квалификация нужна для этой работы?
+B1;noun;;application;applications;;;;заявление, заявка;I sent my **application** last week.;Я отправил своё заявление на прошлой неделе.
+B1;noun;;applicant;applicants;;;;кандидат, соискатель;There were fifty **applicants** for the position.;На эту должность было пятьдесят кандидатов.
+B1;noun;;position;positions;;;;должность, положение;She applied for the **position** of assistant.;Она подала заявку на должность ассистента.
+B1;noun;;promotion;promotions;;;;повышение (по службе);He got a **promotion** after two years.;Он получил повышение через два года.
+B1;noun;;contract;contracts;;;;контракт, договор;Please read the **contract** carefully before signing.;Пожалуйста, внимательно прочитайте договор перед подписанием.
+B1;noun;;department;departments;;;;отдел;She works in the sales **department**.;Она работает в отделе продаж.
+B1;noun;;deadline;deadlines;;;;крайний срок, дедлайн;The **deadline** for the report is Friday.;Крайний срок сдачи отчёта — пятница.
+B1;noun;;skill;skills;;;;навык, умение;Good communication **skills** are very important.;Хорошие коммуникативные навыки очень важны.
+B1;noun;;profession;professions;;;;профессия;Teaching is a difficult but rewarding **profession**.;Преподавание — трудная, но благодарная профессия.
+B1;noun;;unemployment;-;;;;безработица;**Unemployment** has fallen this year.;В этом году безработица снизилась.
+B1;noun;;income;incomes;;;;доход;Their **income** is not very high.;Их доход не очень высокий.
+B1;noun;;tax;taxes;;;;налог;We pay a lot of **tax** on petrol.;Мы платим большой налог на бензин.
+B1;noun;;client;clients;;;;клиент;The lawyer met her **client** at the office.;Юрист встретилась с клиентом в офисе.
+B1;noun;;staff;-;;;;персонал, сотрудники;All **staff** must wear a uniform.;Весь персонал должен носить форму.
+B1;noun;;industry;industries;;;;промышленность, отрасль;He works in the car **industry**.;Он работает в автомобильной промышленности.
+B1;noun;;trade;trades;;;;торговля;**Trade** between the two countries has grown.;Торговля между двумя странами выросла.
+B1;noun;;retirement;retirements;;;;выход на пенсию, пенсия;My father is looking forward to his **retirement**.;Мой отец с нетерпением ждёт выхода на пенсию.
+B1;noun;;pension;pensions;;;;пенсия;She lives on a small **pension**.;Она живёт на небольшую пенсию.
+B1;noun;;overtime;-;;;;сверхурочная работа;I worked three hours of **overtime** yesterday.;Вчера я отработал три часа сверхурочно.
+B1;noun;;shift;shifts;;;;смена;Nurses often work night **shifts**.;Медсёстры часто работают в ночные смены.
+B1;noun;;training;-;;;;обучение, тренировка;New workers get two weeks of **training**.;Новые работники проходят двухнедельное обучение.
+B1;noun;;responsibility;responsibilities;;;;ответственность, обязанность;It is my **responsibility** to lock the office.;Запирать офис — моя обязанность.
+B1;noun;;task;tasks;;;;задача, задание;I have several **tasks** to finish today.;Мне сегодня нужно закончить несколько задач.
+B1;noun;;owner;owners;;;;владелец;The **owner** of the shop is very friendly.;Владелец магазина очень дружелюбный.
+B1;noun;;union;unions;;;;профсоюз, союз;He joined the workers' **union** last year.;В прошлом году он вступил в профсоюз.
+B1;noun;;agreement;agreements;;;;соглашение, договорённость;Both sides finally reached an **agreement**.;Обе стороны наконец пришли к соглашению.
+B1;noun;;workplace;workplaces;;;;рабочее место;Smoking is not allowed in the **workplace**.;Курение на рабочем месте запрещено.
+B1;noun;;achievement;achievements;;;;достижение;Winning the award was a great **achievement**.;Получение награды было большим достижением.
+B1;noun;;ambition;ambitions;;;;стремление, амбиция;His **ambition** is to become a pilot.;Его стремление — стать пилотом.
+B1;noun;;reference;references;;;;рекомендация, ссылка;My old boss wrote me a good **reference**.;Мой бывший начальник написал мне хорошую рекомендацию.
+B1;noun;;candidate;candidates;;;;кандидат;The best **candidate** will get the job.;Лучший кандидат получит работу.
+B1;noun;;occupation;occupations;;;;род занятий, профессия;Please write your **occupation** on the form.;Пожалуйста, укажите род занятий в анкете.
+B1;noun;;wage;wages;;;;заработная плата;The workers want higher **wages**.;Рабочие хотят более высокой зарплаты.
+B1;noun;;profit;profits;;;;прибыль;The company made a big **profit** this year.;В этом году компания получила большую прибыль.
+B1;noun;;production;productions;;;;производство;**Production** at the factory stopped for a week.;Производство на заводе остановилось на неделю.
+B1;noun;;organization;organizations;;;;организация;She works for a charity **organization**.;Она работает в благотворительной организации.
+B1;noun;;conference;conferences;;;;конференция;He is speaking at a **conference** in Berlin.;Он выступает на конференции в Берлине.
+B1;noun;;strike;strikes;;;;забастовка, удар;The train drivers are on **strike** today.;Машинисты поездов сегодня бастуют.
+B1;noun;;leadership;-;;;;руководство, лидерство;She showed great **leadership** during the crisis.;Она проявила отличные лидерские качества во время кризиса.
+B1;noun;;degree;degrees;;;;учёная степень, диплом, градус;She has a **degree** in economics.;У неё диплом по экономике.
+B1;noun;;diploma;diplomas;;;;диплом;He received his **diploma** last June.;Он получил диплом в июне прошлого года.
+B1;noun;;certificate;certificates;;;;сертификат, свидетельство;You will get a **certificate** at the end of the course.;В конце курса вы получите сертификат.
+B1;noun;;lecture;lectures;;;;лекция;The **lecture** starts at nine o'clock.;Лекция начинается в девять часов.
+B1;noun;;lecturer;lecturers;;;;преподаватель вуза, лектор;Our **lecturer** explains everything very clearly.;Наш преподаватель всё объясняет очень понятно.
+B1;noun;;professor;professors;;;;профессор;The **professor** gave us a lot of homework.;Профессор задал нам много домашней работы.
+B1;noun;;tutor;tutors;;;;репетитор, наставник;I have a maths **tutor** twice a week.;Я занимаюсь с репетитором по математике два раза в неделю.
+B1;noun;;graduate;graduates;;;;выпускник;She is a **graduate** of Oxford University.;Она выпускница Оксфордского университета.
+B1;noun;;graduation;graduations;;;;окончание учёбы, выпускной;My parents came to my **graduation**.;Мои родители пришли на мой выпускной.
+B1;noun;;semester;semesters;;;;семестр;The new **semester** begins in September.;Новый семестр начинается в сентябре.
+B1;noun;;assignment;assignments;;;;задание, письменная работа;I need to finish my history **assignment** tonight.;Мне нужно закончить задание по истории сегодня вечером.
+B1;noun;;essay;essays;;;;сочинение, эссе;We had to write an **essay** about climate change.;Нам нужно было написать эссе об изменении климата.
+B1;noun;;grade;grades;;;;оценка, класс;She always gets good **grades** in science.;Она всегда получает хорошие оценки по естественным наукам.
+B1;noun;;knowledge;-;;;;знание, знания;Her **knowledge** of history is amazing.;Её знания истории поразительны.
+B1;noun;;scholarship;scholarships;;;;стипендия;He won a **scholarship** to study abroad.;Он выиграл стипендию на учёбу за границей.
+B1;noun;;campus;campuses;;;;кампус, студгородок;The library is in the centre of the **campus**.;Библиотека находится в центре кампуса.
+B1;noun;;classmate;classmates;;;;одноклассник;I still meet my old **classmates** sometimes.;Я до сих пор иногда встречаюсь со старыми одноклассниками.
+B1;noun;;kindergarten;kindergartens;;;;детский сад;My son goes to **kindergarten** every morning.;Мой сын каждое утро ходит в детский сад.
+B1;noun;;headteacher;headteachers;;;;директор школы;The **headteacher** spoke to all the parents.;Директор школы поговорил со всеми родителями.
+B1;noun;;curriculum;curricula;;;;учебная программа;Music is part of the school **curriculum**.;Музыка входит в школьную программу.
+B1;noun;;attendance;-;;;;посещаемость;Class **attendance** is very important at this school.;В этой школе посещаемость занятий очень важна.
+B1;noun;;instruction;instructions;;;;инструкция, указание;Read the **instructions** before you start the test.;Прочитайте инструкции перед началом теста.
+B1;noun;;textbook;textbooks;;;;учебник;Open your **textbooks** at page twenty.;Откройте учебники на двадцатой странице.
+B1;noun;;pronunciation;-;;;;произношение;Her English **pronunciation** is excellent.;У неё отличное английское произношение.
+B1;noun;;revision;revisions;;;;повторение (к экзамену), исправление;I need to do some **revision** for my exams.;Мне нужно повторить материал к экзаменам.
+B1;noun;;progress;-;;;;прогресс, успехи;You have made great **progress** this year.;Ты добился больших успехов в этом году.
+B1;noun;;effort;efforts;;;;усилие, старание;He passed the exam with very little **effort**.;Он сдал экзамен почти без усилий.
+B1;noun;;discipline;disciplines;;;;дисциплина;The new teacher has problems with **discipline**.;У нового учителя проблемы с дисциплиной.
+B1;noun;;research;-;;;;исследование, исследования;She is doing **research** into childhood diseases.;Она проводит исследование детских болезней.
+B1;noun;;thesis;theses;;;;диссертация, дипломная работа;He is writing his **thesis** on modern art.;Он пишет дипломную работу о современном искусстве.
+B1;noun;;seminar;seminars;;;;семинар;We discuss the reading in the weekly **seminar**.;Мы обсуждаем прочитанное на еженедельном семинаре.
+B1;noun;;workshop;workshops;;;;мастерская, практикум, семинар;I attended a writing **workshop** last weekend.;В прошлые выходные я посетил писательский семинар.
+B1;noun;;tuition;-;;;;обучение, плата за обучение;**Tuition** at this university is very expensive.;Обучение в этом университете очень дорогое.
+B1;noun;;fee;fees;;;;плата, взнос;The course **fee** includes all books.;Плата за курс включает все книги.
+B1;noun;;intelligence;-;;;;интеллект, ум;He is a man of great **intelligence**.;Он человек большого ума.
+B1;noun;;ability;abilities;;;;способность;She has the **ability** to learn languages quickly.;У неё есть способность быстро учить языки.
+B1;noun;;talent;talents;;;;талант;He has a real **talent** for music.;У него настоящий талант к музыке.
+B1;noun;;literature;-;;;;литература;She studied English **literature** at university.;Она изучала английскую литературу в университете.
+B1;noun;;explanation;explanations;;;;объяснение;Thank you for your clear **explanation**.;Спасибо за ваше понятное объяснение.
+B1;noun;;definition;definitions;;;;определение;Look up the **definition** in a dictionary.;Найди определение в словаре.
+B1;noun;;memory;memories;;;;память, воспоминание;He has a very good **memory** for names.;У него очень хорошая память на имена.
+B1;noun;;concentration;-;;;;сосредоточенность, концентрация;Noise makes **concentration** very difficult.;Из-за шума очень трудно сосредоточиться.
+B1;noun;;symptom;symptoms;;;;симптом;What are the **symptoms** of the flu?;Каковы симптомы гриппа?
+B1;noun;;treatment;treatments;;;;лечение;The new **treatment** helped him a lot.;Новое лечение ему очень помогло.
+B1;noun;;disease;diseases;;;;болезнь, заболевание;Heart **disease** is a serious problem.;Болезни сердца — серьёзная проблема.
+B1;noun;;injury;injuries;;;;травма, ранение;He has a serious knee **injury**.;У него серьёзная травма колена.
+B1;noun;;wound;wounds;;;;рана;The nurse cleaned the **wound** carefully.;Медсестра аккуратно обработала рану.
+B1;noun;;surgeon;surgeons;;;;хирург;The **surgeon** operated on her heart.;Хирург сделал ей операцию на сердце.
+B1;noun;;surgery;surgeries;;;;хирургия, операция;He needs **surgery** on his shoulder.;Ему нужна операция на плече.
+B1;noun;;operation;operations;;;;операция;The **operation** was a success.;Операция прошла успешно.
+B1;noun;;prescription;prescriptions;;;;рецепт (врача);You need a **prescription** for this medicine.;Для этого лекарства нужен рецепт.
+B1;noun;;drug;drugs;;;;лекарство, наркотик;This **drug** is used to treat cancer.;Это лекарство используется для лечения рака.
+B1;noun;;vaccine;vaccines;;;;вакцина;Scientists developed a new **vaccine** against the virus.;Учёные разработали новую вакцину против вируса.
+B1;noun;;infection;infections;;;;инфекция, заражение;She has an ear **infection**.;У неё инфекция уха.
+B1;noun;;virus;viruses;;;;вирус;The **virus** spread quickly around the world.;Вирус быстро распространился по всему миру.
+B1;noun;;allergy;allergies;;;;аллергия;I have an **allergy** to cats.;У меня аллергия на кошек.
+B1;noun;;emergency;emergencies;;;;чрезвычайная ситуация, экстренный случай;In an **emergency**, call this number.;В экстренном случае звоните по этому номеру.
+B1;noun;;clinic;clinics;;;;клиника, поликлиника;She works at a small **clinic** in town.;Она работает в небольшой клинике в городе.
+B1;noun;;pharmacy;pharmacies;;;;аптека;You can buy this at any **pharmacy**.;Это можно купить в любой аптеке.
+B1;noun;;nutrition;-;;;;питание;Good **nutrition** is important for children.;Правильное питание важно для детей.
+B1;noun;;fitness;-;;;;физическая форма;She goes to the gym to improve her **fitness**.;Она ходит в спортзал, чтобы улучшить физическую форму.
+B1;noun;;stress;-;;;;стресс;Too much **stress** can make you ill.;Слишком сильный стресс может довести до болезни.
+B1;noun;;depression;depressions;;;;депрессия;He suffered from **depression** for many years.;Он много лет страдал от депрессии.
+B1;noun;;lung;lungs;;;;лёгкое;Smoking damages your **lungs**.;Курение вредит лёгким.
+B1;noun;;muscle;muscles;;;;мышца;My **muscles** hurt after the training.;После тренировки у меня болят мышцы.
+B1;noun;;bandage;bandages;;;;бинт, повязка;The doctor put a **bandage** on my arm.;Врач наложил повязку мне на руку.
+B1;noun;;recovery;recoveries;;;;выздоровление;We wish you a quick **recovery**.;Желаем вам скорейшего выздоровления.
+B1;noun;;check-up;check-ups;;;;медосмотр;I go for a **check-up** once a year.;Я прохожу медосмотр раз в год.
+B1;noun;;ward;wards;;;;палата, отделение;He is in the children's **ward**.;Он в детском отделении.
+B1;noun;;therapy;therapies;;;;терапия, лечение;She is having **therapy** for her back.;Она проходит лечение спины.
+B1;noun;;condition;conditions;;;;состояние, условие;The patient is in a serious **condition**.;Пациент в тяжёлом состоянии.
+B1;noun;;disability;disabilities;;;;инвалидность, ограниченные возможности;The building is accessible to people with **disabilities**.;Здание доступно для людей с ограниченными возможностями.
+B1;noun;;addiction;addictions;;;;зависимость;**Addiction** to sugar is a real problem.;Зависимость от сахара — реальная проблема.
+B1;noun;;cure;cures;;;;лекарство, средство излечения;There is still no **cure** for the common cold.;От простуды до сих пор нет лекарства.
+B1;noun;;dose;doses;;;;доза;Do not take more than the recommended **dose**.;Не принимайте больше рекомендованной дозы.
+B1;noun;;sickness;-;;;;болезнь, тошнота, укачивание;Travel **sickness** spoiled our holiday.;Укачивание испортило нам отпуск.
+B1;noun;;pregnancy;pregnancies;;;;беременность;She felt tired during her **pregnancy**.;Во время беременности она чувствовала усталость.
+B1;noun;;hygiene;-;;;;гигиена;Good **hygiene** helps prevent disease.;Хорошая гигиена помогает предотвратить болезни.
+B1;noun;;x-ray;x-rays;;;;рентген, рентгеновский снимок;The **x-ray** showed a broken arm.;Рентген показал перелом руки.
+B1;noun;;bruise;bruises;;;;синяк, ушиб;She has a big **bruise** on her leg.;У неё большой синяк на ноге.
+B1;noun;;scar;scars;;;;шрам;He has a small **scar** above his eye.;У него маленький шрам над глазом.
+B1;noun;;destination;destinations;;;;место назначения, направление;Paris is a popular tourist **destination**.;Париж — популярное туристическое направление.
+B1;noun;;accommodation;-;;;;жильё, размещение;The price includes flights and **accommodation**.;Цена включает перелёт и проживание.
+B1;noun;;booking;bookings;;;;бронирование, заказ;You can make a **booking** online.;Вы можете забронировать онлайн.
+B1;noun;;visa;visas;;;;виза;Do I need a **visa** to visit China?;Нужна ли мне виза для поездки в Китай?
+B1;noun;;customs;pl;;;;таможня;We had to wait at **customs** for an hour.;Нам пришлось ждать на таможне час.
+B1;noun;;border;borders;;;;граница;We crossed the **border** into France.;Мы пересекли границу с Францией.
+B1;noun;;departure;departures;;;;отправление, вылет;Our **departure** was delayed by two hours.;Наш вылет задержали на два часа.
+B1;noun;;arrival;arrivals;;;;прибытие;The **arrival** time is half past six.;Время прибытия — половина седьмого.
+B1;noun;;delay;delays;;;;задержка;There was a long **delay** at the airport.;В аэропорту была долгая задержка.
+B1;noun;;crew;crews;;;;экипаж, команда;The **crew** welcomed us on board.;Экипаж поприветствовал нас на борту.
+B1;noun;;attraction;attractions;;;;достопримечательность, аттракцион;The castle is the main tourist **attraction**.;Замок — главная туристическая достопримечательность.
+B1;noun;;excursion;excursions;;;;экскурсия, поездка;We went on an **excursion** to the mountains.;Мы поехали на экскурсию в горы.
+B1;noun;;cruise;cruises;;;;круиз;They went on a **cruise** around the Mediterranean.;Они отправились в круиз по Средиземному морю.
+B1;noun;;resort;resorts;;;;курорт;It is a popular ski **resort**.;Это популярный горнолыжный курорт.
+B1;noun;;voyage;voyages;;;;плавание, морское путешествие;The **voyage** across the ocean took weeks.;Плавание через океан заняло несколько недель.
+B1;noun;;itinerary;itineraries;;;;маршрут, план поездки;Our **itinerary** includes three cities.;Наш маршрут включает три города.
+B1;noun;;route;routes;;;;маршрут, путь;This is the fastest **route** to the coast.;Это самый быстрый путь к побережью.
+B1;noun;;currency;currencies;;;;валюта;What is the local **currency** in Japan?;Какая местная валюта в Японии?
+B1;noun;;exchange;exchanges;;;;обмен;Is there a currency **exchange** near here?;Здесь поблизости есть пункт обмена валюты?
+B1;noun;;hostel;hostels;;;;хостел;We stayed in a cheap **hostel**.;Мы остановились в дешёвом хостеле.
+B1;noun;;traveller;travellers;;;;путешественник;The hotel is popular with young **travellers**.;Отель популярен среди молодых путешественников.
+B1;noun;;jet lag;-;;;;смена часовых поясов, джетлаг;I always suffer from **jet lag** after long flights.;После долгих перелётов я всегда страдаю от джетлага.
+B1;noun;;fare;fares;;;;стоимость проезда;Bus **fares** went up again this year.;В этом году проезд в автобусе снова подорожал.
+B1;noun;;boarding pass;boarding passes;;;;посадочный талон;Please show your **boarding pass** at the gate.;Пожалуйста, покажите посадочный талон у выхода.
+B1;noun;;check-in;check-ins;;;;регистрация;**Check-in** closes forty minutes before the flight.;Регистрация заканчивается за сорок минут до вылета.
+B1;noun;;harbour;harbours;;;;гавань, порт;The boats are in the **harbour**.;Лодки стоят в гавани.
+B1;noun;;landscape;landscapes;;;;пейзаж, ландшафт;The **landscape** in Scotland is beautiful.;Пейзаж в Шотландии прекрасен.
+B1;noun;;adventure;adventures;;;;приключение;Our trip to Africa was a real **adventure**.;Наша поездка в Африку была настоящим приключением.
+B1;noun;;tourism;-;;;;туризм;**Tourism** is important for the local economy.;Туризм важен для местной экономики.
+B1;noun;;vehicle;vehicles;;;;транспортное средство;No **vehicles** are allowed in the town centre.;Въезд транспорта в центр города запрещён.
+B1;noun;;brochure;brochures;;;;брошюра, буклет;The travel agent gave us a **brochure**.;Турагент дал нам буклет.
+B1;noun;;insurance;-;;;;страховка, страхование;Don't forget to buy travel **insurance**.;Не забудь купить туристическую страховку.
+B1;noun;;scenery;-;;;;пейзаж, природа;The **scenery** along the coast is stunning.;Природа вдоль побережья потрясающая.
+B1;noun;;pollution;-;;;;загрязнение;Air **pollution** is a big problem in cities.;Загрязнение воздуха — большая проблема в городах.
+B1;noun;;climate;climates;;;;климат;The **climate** here is mild and wet.;Климат здесь мягкий и влажный.
+B1;noun;;global warming;-;;;;глобальное потепление;**Global warming** is melting the ice at the poles.;Глобальное потепление растапливает лёд на полюсах.
+B1;noun;;waste;-;;;;отходы, трата;Factories produce a lot of toxic **waste**.;Заводы производят много токсичных отходов.
+B1;noun;;recycling;-;;;;переработка (отходов);**Recycling** helps to reduce waste.;Переработка помогает сократить количество отходов.
+B1;noun;;energy;-;;;;энергия;Solar **energy** is clean and cheap.;Солнечная энергия чистая и дешёвая.
+B1;noun;;fuel;fuels;;;;топливо;The new car uses less **fuel**.;Новая машина расходует меньше топлива.
+B1;noun;;resource;resources;;;;ресурс;Water is a precious natural **resource**.;Вода — ценный природный ресурс.
+B1;noun;;species;species;;;;вид (биологический);This **species** of bird is very rare.;Этот вид птиц очень редкий.
+B1;noun;;wildlife;-;;;;дикая природа, животный мир;The park is full of **wildlife**.;В парке много диких животных.
+B1;noun;;rainforest;rainforests;;;;тропический лес;The Amazon **rainforest** is disappearing fast.;Тропические леса Амазонии быстро исчезают.
+B1;noun;;valley;valleys;;;;долина;The village lies in a green **valley**.;Деревня расположена в зелёной долине.
+B1;noun;;cliff;cliffs;;;;скала, утёс;The house stands on top of a **cliff**.;Дом стоит на вершине утёса.
+B1;noun;;cave;caves;;;;пещера;We explored a dark **cave** near the beach.;Мы исследовали тёмную пещеру у пляжа.
+B1;noun;;stream;streams;;;;ручей, поток;A small **stream** runs through the garden.;Через сад протекает маленький ручей.
+B1;noun;;wave;waves;;;;волна;The **waves** were too big for swimming.;Волны были слишком большими для купания.
+B1;noun;;soil;soils;;;;почва;This **soil** is good for growing vegetables.;Эта почва хороша для выращивания овощей.
+B1;noun;;drought;droughts;;;;засуха;The **drought** destroyed most of the crops.;Засуха уничтожила большую часть урожая.
+B1;noun;;flood;floods;;;;наводнение;The **flood** damaged hundreds of homes.;Наводнение повредило сотни домов.
+B1;noun;;earthquake;earthquakes;;;;землетрясение;The **earthquake** lasted only a few seconds.;Землетрясение длилось всего несколько секунд.
+B1;noun;;hurricane;hurricanes;;;;ураган;The **hurricane** hit the coast last night.;Ураган обрушился на побережье прошлой ночью.
+B1;noun;;disaster;disasters;;;;катастрофа, бедствие;The oil spill was an environmental **disaster**.;Разлив нефти стал экологической катастрофой.
+B1;noun;;extinction;-;;;;вымирание, исчезновение;Many animals are in danger of **extinction**.;Многим животным грозит вымирание.
+B1;noun;;habitat;habitats;;;;среда обитания;The forest is a natural **habitat** for bears.;Лес — естественная среда обитания медведей.
+B1;noun;;conservation;-;;;;охрана природы, сохранение;He works for a wildlife **conservation** group.;Он работает в организации по охране дикой природы.
+B1;noun;;crop;crops;;;;урожай, сельскохозяйственная культура;Farmers grow different **crops** every year.;Фермеры каждый год выращивают разные культуры.
+B1;noun;;harvest;harvests;;;;урожай, сбор урожая;This year's **harvest** was very good.;В этом году урожай был очень хороший.
+B1;noun;;agriculture;-;;;;сельское хозяйство;**Agriculture** uses a lot of water.;Сельское хозяйство расходует много воды.
+B1;noun;;plastic;plastics;;;;пластик;We should use less **plastic**.;Нам следует использовать меньше пластика.
+B1;noun;;litter;-;;;;мусор (на улице);There is too much **litter** in the park.;В парке слишком много мусора.
+B1;noun;;shortage;shortages;;;;нехватка, дефицит;There is a **shortage** of clean water.;Не хватает чистой воды.
+B1;noun;;atmosphere;atmospheres;;;;атмосфера;Gases in the **atmosphere** trap heat.;Газы в атмосфере удерживают тепло.
+B1;noun;;emission;emissions;;;;выброс;We need to reduce carbon **emissions**.;Нам нужно сократить выбросы углерода.
+B1;noun;;planet;planets;;;;планета;We have only one **planet**.;У нас только одна планета.
+B1;noun;;creature;creatures;;;;существо;The ocean is full of strange **creatures**.;Океан полон странных существ.
+B1;noun;;branch;branches;;;;ветка, филиал;A bird is sitting on the **branch**.;На ветке сидит птица.
+B1;noun;;root;roots;;;;корень;The tree has very deep **roots**.;У дерева очень глубокие корни.
+B1;noun;;seed;seeds;;;;семя, семечко;Plant the **seeds** in spring.;Посадите семена весной.
+B1;noun;;volcano;volcanoes;;;;вулкан;The **volcano** erupted last year.;Вулкан извергся в прошлом году.
+B1;noun;;greenhouse;greenhouses;;;;теплица, оранжерея;We grow tomatoes in a **greenhouse**.;Мы выращиваем помидоры в теплице.
+B1;noun;;solar panel;solar panels;;;;солнечная батарея;We put **solar panels** on our roof.;Мы установили солнечные батареи на крыше.
+B1;noun;;coal;-;;;;уголь;Burning **coal** pollutes the air.;Сжигание угля загрязняет воздух.
+B1;noun;;tide;tides;;;;прилив, отлив;The **tide** comes in twice a day.;Прилив бывает дважды в день.
+B1;noun;;experiment;experiments;;;;эксперимент, опыт;We did an **experiment** in the lab.;Мы провели эксперимент в лаборатории.
+B1;noun;;laboratory;laboratories;;;;лаборатория;She works in a research **laboratory**.;Она работает в исследовательской лаборатории.
+B1;noun;;discovery;discoveries;;;;открытие;It was an important scientific **discovery**.;Это было важное научное открытие.
+B1;noun;;invention;inventions;;;;изобретение;The telephone was a great **invention**.;Телефон был великим изобретением.
+B1;noun;;inventor;inventors;;;;изобретатель;Edison was a famous American **inventor**.;Эдисон был знаменитым американским изобретателем.
+B1;noun;;device;devices;;;;устройство, прибор;This **device** measures your heart rate.;Это устройство измеряет частоту пульса.
+B1;noun;;equipment;-;;;;оборудование, снаряжение;The lab has very modern **equipment**.;В лаборатории очень современное оборудование.
+B1;noun;;software;-;;;;программное обеспечение;You need to update the **software**.;Тебе нужно обновить программное обеспечение.
+B1;noun;;hardware;-;;;;аппаратное обеспечение, техника;The **hardware** is old but still works.;Техника старая, но всё ещё работает.
+B1;noun;;data;-;;;;данные;We collected **data** from five hundred people.;Мы собрали данные от пятисот человек.
+B1;noun;;theory;theories;;;;теория;Einstein's **theory** changed physics forever.;Теория Эйнштейна навсегда изменила физику.
+B1;noun;;evidence;-;;;;доказательство, доказательства;There is no **evidence** that it works.;Нет доказательств того, что это работает.
+B1;noun;;method;methods;;;;метод, способ;This **method** is quick and cheap.;Этот метод быстрый и дешёвый.
+B1;noun;;process;processes;;;;процесс;Learning a language is a slow **process**.;Изучение языка — медленный процесс.
+B1;noun;;robot;robots;;;;робот;**Robots** do many jobs in factories.;Роботы выполняют много работы на заводах.
+B1;noun;;download;downloads;;;;загрузка, скачивание;The **download** will take a few minutes.;Загрузка займёт несколько минут.
+B1;noun;;user;users;;;;пользователь;The app has millions of **users**.;У приложения миллионы пользователей.
+B1;noun;;network;networks;;;;сеть;The office **network** is down again.;Офисная сеть снова не работает.
+B1;noun;;connection;connections;;;;связь, соединение;The internet **connection** here is very slow.;Интернет-соединение здесь очень медленное.
+B1;noun;;signal;signals;;;;сигнал;There is no phone **signal** in the mountains.;В горах нет сигнала сотовой связи.
+B1;noun;;electricity;-;;;;электричество;The storm cut off the **electricity**.;Из-за грозы отключили электричество.
+B1;noun;;engine;engines;;;;двигатель;The car **engine** will not start.;Двигатель машины не заводится.
+B1;noun;;engineering;-;;;;инженерное дело, машиностроение;She wants to study **engineering** at university.;Она хочет изучать инженерное дело в университете.
+B1;noun;;development;developments;;;;развитие, разработка;The **development** of the new phone took years.;Разработка нового телефона заняла годы.
+B1;noun;;innovation;innovations;;;;инновация, нововведение;The company is famous for its **innovation**.;Компания славится своими инновациями.
+B1;noun;;microscope;microscopes;;;;микроскоп;Look at the cells under the **microscope**.;Рассмотрите клетки под микроскопом.
+B1;noun;;telescope;telescopes;;;;телескоп;We watched the stars through a **telescope**.;Мы наблюдали за звёздами в телескоп.
+B1;noun;;space;spaces;;;;космос, пространство, место;He dreams of travelling into **space**.;Он мечтает полететь в космос.
+B1;noun;;satellite;satellites;;;;спутник;The **satellite** sends pictures back to Earth.;Спутник передаёт снимки на Землю.
+B1;noun;;astronaut;astronauts;;;;астронавт, космонавт;The **astronauts** spent six months in space.;Космонавты провели полгода в космосе.
+B1;noun;;cell;cells;;;;клетка;The human body has billions of **cells**.;В человеческом теле миллиарды клеток.
+B1;noun;;chemical;chemicals;;;;химическое вещество;Some **chemicals** are dangerous to touch.;Некоторые химические вещества опасно трогать.
+B1;noun;;substance;substances;;;;вещество;Water is a very common **substance**.;Вода — очень распространённое вещество.
+B1;noun;;measurement;measurements;;;;измерение, размер;Take careful **measurements** before you start.;Сделай точные измерения, прежде чем начать.
+B1;noun;;calculation;calculations;;;;расчёт, вычисление;My **calculations** show we need more money.;По моим расчётам, нам нужно больше денег.
+B1;noun;;calculator;calculators;;;;калькулятор;You can use a **calculator** in the exam.;На экзамене можно пользоваться калькулятором.
+B1;noun;;gadget;gadgets;;;;гаджет, устройство;He loves buying the latest **gadgets**.;Он обожает покупать новейшие гаджеты.
+B1;noun;;charger;chargers;;;;зарядное устройство;I forgot my phone **charger** at home.;Я забыл зарядку от телефона дома.
+B1;noun;;security;-;;;;безопасность, охрана;Online **security** is very important today.;Безопасность в интернете сегодня очень важна.
+B1;noun;;expert;experts;;;;эксперт, специалист;**Experts** say the problem will get worse.;Эксперты говорят, что проблема усугубится.
+B1;noun;;researcher;researchers;;;;исследователь;**Researchers** have found a new type of plant.;Исследователи обнаружили новый вид растения.
+B1;noun;;media;pl;;;;СМИ, средства массовой информации;The **media** reported the story immediately.;СМИ сразу же сообщили об этой истории.
+B1;noun;;journalism;-;;;;журналистика;She studied **journalism** in London.;Она изучала журналистику в Лондоне.
+B1;noun;;reporter;reporters;;;;репортёр, корреспондент;A **reporter** asked me a few questions.;Репортёр задал мне несколько вопросов.
+B1;noun;;article;articles;;;;статья;I read an interesting **article** about sleep.;Я прочитал интересную статью о сне.
+B1;noun;;headline;headlines;;;;заголовок;The story was in all the **headlines**.;Эта история была во всех заголовках.
+B1;noun;;editor;editors;;;;редактор;The **editor** checks every article.;Редактор проверяет каждую статью.
+B1;noun;;broadcast;broadcasts;;;;трансляция, передача;We watched a live **broadcast** of the match.;Мы смотрели прямую трансляцию матча.
+B1;noun;;channel;channels;;;;канал;What's on the other **channel**?;Что идёт по другому каналу?
+B1;noun;;documentary;documentaries;;;;документальный фильм;We watched a **documentary** about whales.;Мы посмотрели документальный фильм о китах.
+B1;noun;;series;series;;;;сериал, серия;I'm watching a new crime **series**.;Я смотрю новый детективный сериал.
+B1;noun;;episode;episodes;;;;серия, эпизод;I watched the last **episode** last night.;Вчера вечером я посмотрел последнюю серию.
+B1;noun;;audience;audiences;;;;публика, аудитория;The **audience** clapped loudly.;Публика громко аплодировала.
+B1;noun;;viewer;viewers;;;;зритель;The show has millions of **viewers**.;У шоу миллионы зрителей.
+B1;noun;;advertisement;advertisements;;;;реклама, объявление;I saw an **advertisement** for a new car.;Я увидел рекламу новой машины.
+B1;noun;;advertising;-;;;;реклама (сфера);She works in **advertising**.;Она работает в рекламе.
+B1;noun;;commercial;commercials;;;;рекламный ролик;There are too many **commercials** on TV.;По телевизору слишком много рекламы.
+B1;noun;;announcement;announcements;;;;объявление, сообщение;Please listen to this important **announcement**.;Пожалуйста, прослушайте важное объявление.
+B1;noun;;press;-;;;;пресса;The **press** wrote a lot about the scandal.;Пресса много писала о скандале.
+B1;noun;;issue;issues;;;;выпуск (номер), вопрос, проблема;Have you read the latest **issue** of the magazine?;Ты читал последний номер журнала?
+B1;noun;;column;columns;;;;колонка, столбец;She writes a weekly **column** about food.;Она ведёт еженедельную колонку о еде.
+B1;noun;;review;reviews;;;;отзыв, рецензия;The film got great **reviews**.;Фильм получил отличные отзывы.
+B1;noun;;blog;blogs;;;;блог;He writes a **blog** about travelling.;Он ведёт блог о путешествиях.
+B1;noun;;comment;comments;;;;комментарий;Thanks for all your kind **comments**.;Спасибо за все ваши добрые комментарии.
+B1;noun;;follower;followers;;;;подписчик, последователь;She has a million **followers** online.;У неё миллион подписчиков в интернете.
+B1;noun;;podcast;podcasts;;;;подкаст;I listen to a **podcast** on the way to work.;По дороге на работу я слушаю подкаст.
+B1;noun;;link;links;;;;ссылка, связь;Click on the **link** to download the file.;Нажмите на ссылку, чтобы скачать файл.
+B1;noun;;attachment;attachments;;;;вложение;I sent the photos as an **attachment**.;Я отправил фотографии вложением.
+B1;noun;;communication;communications;;;;общение, связь, коммуникация;Good **communication** is the key to success.;Хорошее общение — ключ к успеху.
+B1;noun;;discussion;discussions;;;;обсуждение, дискуссия;We had a long **discussion** about politics.;У нас было долгое обсуждение политики.
+B1;noun;;argument;arguments;;;;спор, аргумент;They had an **argument** about money.;Они поспорили из-за денег.
+B1;noun;;statement;statements;;;;заявление, утверждение;The police made a **statement** this morning.;Полиция сделала заявление сегодня утром.
+B1;noun;;speech;speeches;;;;речь, выступление;The president gave a long **speech**.;Президент произнёс длинную речь.
+B1;noun;;presentation;presentations;;;;презентация, доклад;I have to give a **presentation** tomorrow.;Завтра мне нужно выступить с презентацией.
+B1;noun;;debate;debates;;;;дебаты, дискуссия;There was a TV **debate** between the candidates.;Между кандидатами прошли телевизионные дебаты.
+B1;noun;;rumour;rumours;;;;слух;Don't believe every **rumour** you hear.;Не верь каждому слуху, который слышишь.
+B1;noun;;gossip;-;;;;сплетни;She loves celebrity **gossip**.;Она обожает сплетни о знаменитостях.
+B1;noun;;celebrity;celebrities;;;;знаменитость;The restaurant is popular with **celebrities**.;Ресторан популярен среди знаменитостей.
+B1;noun;;fame;-;;;;слава, известность;He found **fame** and fortune in Hollywood.;Он обрёл славу и богатство в Голливуде.
+B1;noun;;subscription;subscriptions;;;;подписка;I cancelled my magazine **subscription**.;Я отменил подписку на журнал.
+B1;noun;;envelope;envelopes;;;;конверт;Put the letter in an **envelope**.;Положи письмо в конверт.
+B1;noun;;translation;translations;;;;перевод;This **translation** is not very accurate.;Этот перевод не очень точный.
+B1;noun;;translator;translators;;;;переводчик;She works as a **translator** for the UN.;Она работает переводчиком в ООН.
+B1;noun;;accent;accents;;;;акцент;He speaks English with a French **accent**.;Он говорит по-английски с французским акцентом.
+B1;noun;;gesture;gestures;;;;жест;He made a friendly **gesture** with his hand.;Он сделал дружеский жест рукой.
+B1;noun;;expression;expressions;;;;выражение;I don't know this **expression**.;Я не знаю этого выражения.
+B1;noun;;survey;surveys;;;;опрос, исследование;A recent **survey** shows people read less.;Недавний опрос показывает, что люди читают меньше.
+B1;noun;;source;sources;;;;источник;Always check the **source** of the news.;Всегда проверяй источник новостей.
+B1;noun;;censorship;-;;;;цензура;There is strict **censorship** in some countries.;В некоторых странах действует строгая цензура.
+B1;noun;;publicity;-;;;;реклама, огласка;The scandal gave the film a lot of **publicity**.;Скандал принёс фильму большую огласку.
+B1;noun;;campaign;campaigns;;;;кампания;The **campaign** against smoking was successful.;Кампания против курения была успешной.
+B1;noun;;poster;posters;;;;плакат, афиша;There is a **poster** for the concert outside.;Снаружи висит афиша концерта.
+B1;noun;;leaflet;leaflets;;;;листовка, буклет;Someone put a **leaflet** in our letterbox.;Кто-то положил листовку в наш почтовый ящик.
+B1;noun;;signature;signatures;;;;подпись;I need your **signature** here, please.;Пожалуйста, мне нужна ваша подпись здесь.
+B1;noun;;host;hosts;;;;ведущий, хозяин;The **host** of the show is very funny.;Ведущий шоу очень смешной.
+B1;noun;;microphone;microphones;;;;микрофон;Please speak into the **microphone**.;Пожалуйста, говорите в микрофон.
