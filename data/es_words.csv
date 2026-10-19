@@ -1,0 +1,385 @@
+level;pos;article;word;plural;praesens;praeteritum;perfekt;translations;example;example_ru
+A1;verb;;ser;;yo soy;fui;sido;быть, являться;**Soy** profesor de matemáticas.;Я учитель математики.
+A1;verb;;estar;;yo estoy;estuve;estado;быть, находиться;Hoy **estoy** muy cansado.;Сегодня я очень устал.
+A1;verb;;tener;;yo tengo;tuve;tenido;иметь;**Tengo** dos hermanos y una hermana.;У меня два брата и сестра.
+A1;verb;;ir;;yo voy;fui;ido;идти, ехать;Mañana **voy** a Madrid en tren.;Завтра я еду в Мадрид на поезде.
+A1;verb;;hacer;;yo hago;hice;hecho;делать;¿Qué **haces** el fin de semana?;Что ты делаешь в выходные?
+A1;verb;;poder;;yo puedo;pude;podido;мочь;¿**Puedo** abrir la ventana?;Можно мне открыть окно?
+A1;verb;;querer;;yo quiero;quise;querido;хотеть, любить;**Quiero** un café con leche, por favor.;Я хочу кофе с молоком, пожалуйста.
+A1;verb;;hablar;;;hablé;hablado;говорить;¿**Hablas** español?;Ты говоришь по-испански?
+A1;verb;;comer;;;comí;comido;есть, обедать;Normalmente **como** a las dos.;Обычно я обедаю в два часа.
+A1;verb;;vivir;;;viví;vivido;жить;**Vivo** en un piso pequeño.;Я живу в маленькой квартире.
+A1;verb;;decir;;yo digo;dije;dicho;говорить, сказать;Siempre **digo** la verdad.;Я всегда говорю правду.
+A1;verb;;ver;;yo veo;vi;visto;видеть, смотреть;Por la noche **veo** la televisión.;Вечером я смотрю телевизор.
+A1;verb;;dar;;yo doy;di;dado;давать;Te **doy** mi número de teléfono.;Я даю тебе свой номер телефона.
+A1;verb;;saber;;yo sé;supe;sabido;знать, уметь;No **sé** dónde está la estación.;Я не знаю, где вокзал.
+A1;verb;;conocer;;yo conozco;conocí;conocido;знать, быть знакомым;**Conozco** bien esta ciudad.;Я хорошо знаю этот город.
+A1;verb;;venir;;yo vengo;vine;venido;приходить, приезжать;**Vengo** de Rusia.;Я приехал из России.
+A1;verb;;salir;;yo salgo;salí;salido;выходить, уходить;**Salgo** de casa a las ocho.;Я выхожу из дома в восемь.
+A1;verb;;poner;;yo pongo;puse;puesto;класть, ставить;**Pongo** las llaves en la mesa.;Я кладу ключи на стол.
+A1;verb;;traer;;yo traigo;traje;traído;приносить;¿Qué **traes** en la bolsa?;Что ты несёшь в сумке?
+A1;verb;;oír;;yo oigo;oí;oído;слышать;No te **oigo** bien.;Я тебя плохо слышу.
+A1;verb;;llegar;;;llegué;llegado;прибывать, приходить;El tren **llega** a las diez.;Поезд прибывает в десять.
+A1;verb;;pasar;;;pasé;pasado;проходить, проводить, случаться;¿Qué **pasa**?;Что происходит?
+A1;verb;;deber;;;debí;debido;быть должным;**Debes** estudiar más.;Тебе нужно больше заниматься.
+A1;verb;;llevar;;;llevé;llevado;носить, нести;Hoy **llevo** una camisa azul.;Сегодня на мне синяя рубашка.
+A1;verb;;dejar;;;dejé;dejado;оставлять;**Dejo** el coche en el garaje.;Я оставляю машину в гараже.
+A1;verb;;llamar;;;llamé;llamado;звать, звонить;Te **llamo** por la tarde.;Я позвоню тебе днём.
+A1;verb;;llamarse;;;me llamé;llamado;зваться;Me **llamo** Ana.;Меня зовут Ана.
+A1;verb;;pensar;;yo pienso;pensé;pensado;думать;**Pienso** en mi familia.;Я думаю о своей семье.
+A1;verb;;creer;;;creí;creído;верить, считать;**Creo** que va a llover.;Думаю, будет дождь.
+A1;verb;;encontrar;;yo encuentro;encontré;encontrado;находить;No **encuentro** mis gafas.;Я не могу найти свои очки.
+A1;verb;;buscar;;;busqué;buscado;искать;**Busco** un trabajo nuevo.;Я ищу новую работу.
+A1;verb;;trabajar;;;trabajé;trabajado;работать;Mi padre **trabaja** en un banco.;Мой отец работает в банке.
+A1;verb;;estudiar;;;estudié;estudiado;учиться, изучать;**Estudio** español en la universidad.;Я изучаю испанский в университете.
+A1;verb;;aprender;;;aprendí;aprendido;учить, учиться;Quiero **aprender** a nadar.;Я хочу научиться плавать.
+A1;verb;;leer;;;leí;leído;читать;Me gusta **leer** antes de dormir.;Мне нравится читать перед сном.
+A1;verb;;escribir;;;escribí;escrito;писать;**Escribo** un correo a mi jefe.;Я пишу письмо своему начальнику.
+A1;verb;;escuchar;;;escuché;escuchado;слушать;**Escucho** música en el coche.;Я слушаю музыку в машине.
+A1;verb;;mirar;;;miré;mirado;смотреть;**Mira** por la ventana.;Посмотри в окно.
+A1;verb;;beber;;;bebí;bebido;пить;**Bebo** mucha agua en verano.;Летом я пью много воды.
+A1;verb;;tomar;;;tomé;tomado;брать, пить;¿Qué vas a **tomar**?;Что ты будешь пить?
+A1;verb;;comprar;;;compré;comprado;покупать;**Compro** pan todos los días.;Я покупаю хлеб каждый день.
+A1;verb;;pagar;;;pagué;pagado;платить;¿Puedo **pagar** con tarjeta?;Можно заплатить картой?
+A1;verb;;costar;;yo cuesto;costé;costado;стоить;¿Cuánto **cuesta** este libro?;Сколько стоит эта книга?
+A1;verb;;abrir;;;abrí;abierto;открывать;**Abre** la puerta, por favor.;Открой дверь, пожалуйста.
+A1;verb;;cerrar;;yo cierro;cerré;cerrado;закрывать;La tienda **cierra** a las nueve.;Магазин закрывается в девять.
+A1;verb;;empezar;;yo empiezo;empecé;empezado;начинать;La clase **empieza** a las diez.;Урок начинается в десять.
+A1;verb;;terminar;;;terminé;terminado;заканчивать;**Termino** el trabajo a las cinco.;Я заканчиваю работу в пять.
+A1;verb;;entrar;;;entré;entrado;входить;**Entramos** en el restaurante.;Мы входим в ресторан.
+A1;verb;;volver;;yo vuelvo;volví;vuelto;возвращаться;**Vuelvo** a casa a las seis.;Я возвращаюсь домой в шесть.
+A1;verb;;dormir;;yo duermo;dormí;dormido;спать;**Duermo** ocho horas cada noche.;Я сплю восемь часов каждую ночь.
+A1;verb;;jugar;;yo juego;jugué;jugado;играть;Los niños **juegan** en el parque.;Дети играют в парке.
+A1;verb;;preferir;;yo prefiero;preferí;preferido;предпочитать;**Prefiero** el té al café.;Я предпочитаю чай кофе.
+A1;verb;;pedir;;yo pido;pedí;pedido;просить, заказывать;**Pido** una pizza y una cerveza.;Я заказываю пиццу и пиво.
+A1;verb;;repetir;;yo repito;repetí;repetido;повторять;¿Puede **repetir**, por favor?;Можете повторить, пожалуйста?
+A1;verb;;entender;;yo entiendo;entendí;entendido;понимать;No **entiendo** esta palabra.;Я не понимаю это слово.
+A1;verb;;comprender;;;comprendí;comprendido;понимать;¿**Comprendes** la pregunta?;Ты понимаешь вопрос?
+A1;verb;;necesitar;;;necesité;necesitado;нуждаться, нужно;**Necesito** ayuda con los deberes.;Мне нужна помощь с домашним заданием.
+A1;verb;;gustar;;;gusté;gustado;нравиться;Me **gusta** mucho el chocolate.;Мне очень нравится шоколад.
+A1;verb;;encantar;;;encanté;encantado;очень нравиться, обожать;Me **encanta** viajar.;Я обожаю путешествовать.
+A1;verb;;viajar;;;viajé;viajado;путешествовать;Me gusta **viajar** en verano.;Мне нравится путешествовать летом.
+A1;verb;;cocinar;;;cociné;cocinado;готовить (еду);Mi madre **cocina** muy bien.;Моя мама очень хорошо готовит.
+A1;verb;;limpiar;;;limpié;limpiado;убирать, чистить;Los sábados **limpio** la casa.;По субботам я убираю дом.
+A1;verb;;ayudar;;;ayudé;ayudado;помогать;¿Me **ayudas** con la maleta?;Поможешь мне с чемоданом?
+A1;verb;;esperar;;;esperé;esperado;ждать, надеяться;**Espero** el autobús en la parada.;Я жду автобус на остановке.
+A1;verb;;usar;;;usé;usado;использовать;**Uso** el ordenador para trabajar.;Я использую компьютер для работы.
+A1;verb;;cambiar;;;cambié;cambiado;менять;Quiero **cambiar** dinero.;Я хочу обменять деньги.
+A1;verb;;preguntar;;;pregunté;preguntado;спрашивать;**Pregunto** al profesor.;Я спрашиваю учителя.
+A1;verb;;contestar;;;contesté;contestado;отвечать;**Contesta** a mi pregunta, por favor.;Ответь на мой вопрос, пожалуйста.
+A1;verb;;responder;;;respondí;respondido;отвечать;No **respondes** a mis mensajes.;Ты не отвечаешь на мои сообщения.
+A1;verb;;caminar;;;caminé;caminado;ходить пешком, гулять;**Camino** al trabajo cada día.;Я хожу на работу пешком каждый день.
+A1;verb;;andar;;;anduve;andado;ходить, идти;Me gusta **andar** por la playa.;Мне нравится гулять по пляжу.
+A1;verb;;correr;;;corrí;corrido;бегать;**Corro** en el parque por la mañana.;Утром я бегаю в парке.
+A1;verb;;nadar;;;nadé;nadado;плавать;En verano **nado** en el mar.;Летом я плаваю в море.
+A1;verb;;bailar;;;bailé;bailado;танцевать;Ella **baila** muy bien.;Она очень хорошо танцует.
+A1;verb;;cantar;;;canté;cantado;петь;Mi hermano **canta** en un grupo.;Мой брат поёт в группе.
+A1;verb;;tocar;;;toqué;tocado;трогать, играть (на инструменте);**Toco** la guitarra.;Я играю на гитаре.
+A1;verb;;descansar;;;descansé;descansado;отдыхать;Los domingos **descanso** en casa.;По воскресеньям я отдыхаю дома.
+A1;verb;;visitar;;;visité;visitado;посещать, навещать;**Visito** a mis abuelos los domingos.;По воскресеньям я навещаю бабушку с дедушкой.
+A1;verb;;abrazar;;;abracé;abrazado;обнимать;**Abrazo** a mi madre.;Я обнимаю маму.
+A1;verb;;amar;;;amé;amado;любить;Te **amo** con todo mi corazón.;Я люблю тебя всем сердцем.
+A1;verb;;desayunar;;;desayuné;desayunado;завтракать;**Desayuno** a las siete y media.;Я завтракаю в половине восьмого.
+A1;verb;;cenar;;;cené;cenado;ужинать;**Cenamos** a las nueve.;Мы ужинаем в девять.
+A1;verb;;comenzar;;yo comienzo;comencé;comenzado;начинать;El concierto **comienza** a las ocho.;Концерт начинается в восемь.
+A1;verb;;enseñar;;;enseñé;enseñado;учить, показывать;Ella **enseña** inglés en un colegio.;Она преподаёт английский в школе.
+A1;verb;;explicar;;;expliqué;explicado;объяснять;El profesor **explica** la gramática.;Учитель объясняет грамматику.
+A1;verb;;mandar;;;mandé;mandado;посылать, отправлять;Te **mando** una foto.;Я отправляю тебе фото.
+A1;verb;;enviar;;yo envío;envié;enviado;отправлять;**Envío** el paquete por correo.;Я отправляю посылку по почте.
+A1;verb;;recibir;;;recibí;recibido;получать;**Recibo** muchos correos cada día.;Я получаю много писем каждый день.
+A1;verb;;levantarse;;;me levanté;levantado;вставать;Me **levanto** a las siete.;Я встаю в семь.
+A1;verb;;acostarse;;yo me acuesto;me acosté;acostado;ложиться спать;Me **acuesto** a las once.;Я ложусь спать в одиннадцать.
+A1;verb;;despertarse;;yo me despierto;me desperté;despertado;просыпаться;Me **despierto** muy temprano.;Я просыпаюсь очень рано.
+A1;verb;;ducharse;;;me duché;duchado;принимать душ;Me **ducho** por la mañana.;Я принимаю душ утром.
+A1;verb;;lavarse;;;me lavé;lavado;мыться, умываться;Me **lavo** la cara con agua fría.;Я умываюсь холодной водой.
+A1;verb;;vestirse;;yo me visto;me vestí;vestido;одеваться;Me **visto** rápido por la mañana.;Утром я быстро одеваюсь.
+A1;verb;;peinarse;;;me peiné;peinado;причёсываться;Mi hija se **peina** sola.;Моя дочь причёсывается сама.
+A1;verb;;sentarse;;yo me siento;me senté;sentado;садиться;Me **siento** cerca de la ventana.;Я сажусь у окна.
+A1;verb;;quedarse;;;me quedé;quedado;оставаться;Hoy me **quedo** en casa.;Сегодня я остаюсь дома.
+A1;verb;;irse;;yo me voy;me fui;ido;уходить, уезжать;Ya me **voy**, hasta mañana.;Я уже ухожу, до завтра.
+A1;verb;;sentirse;;yo me siento;me sentí;sentido;чувствовать себя;Hoy me **siento** muy bien.;Сегодня я чувствую себя очень хорошо.
+A1;verb;;casarse;;;me casé;casado;жениться, выходить замуж;Mi hermana se **casa** en junio.;Моя сестра выходит замуж в июне.
+A1;verb;;preocuparse;;;me preocupé;preocupado;волноваться, беспокоиться;No te **preocupes**, todo está bien.;Не волнуйся, всё хорошо.
+A1;verb;;afeitarse;;;me afeité;afeitado;бриться;Mi padre se **afeita** cada mañana.;Мой отец бреется каждое утро.
+A1;verb;;bañarse;;;me bañé;bañado;купаться, принимать ванну;Los niños se **bañan** en el mar.;Дети купаются в море.
+A1;verb;;divertirse;;yo me divierto;me divertí;divertido;веселиться, развлекаться;Nos **divertimos** mucho en la fiesta.;Мы очень веселились на празднике.
+A1;verb;;dedicarse;;;me dediqué;dedicado;заниматься (профессионально);¿A qué te **dedicas**?;Чем ты занимаешься?
+A1;verb;;parecer;;yo parezco;parecí;parecido;казаться;Esta casa **parece** muy antigua.;Этот дом кажется очень старым.
+A1;verb;;doler;;yo duelo;dolí;dolido;болеть (о части тела);Me **duele** la cabeza.;У меня болит голова.
+A1;verb;;llover;;;llovió;llovido;идти (о дожде);Hoy **llueve** mucho en Madrid.;Сегодня в Мадриде сильный дождь.
+A1;verb;;nevar;;;nevó;nevado;идти (о снеге);En invierno **nieva** en las montañas.;Зимой в горах идёт снег.
+A1;verb;;haber;;yo he;hube;habido;иметься (hay — есть, имеется);**Hay** un banco cerca de aquí.;Рядом есть банк.
+A1;verb;;conducir;;yo conduzco;conduje;conducido;водить (машину);**Conduzco** al trabajo todos los días.;Я езжу на работу на машине каждый день.
+A1;verb;;seguir;;yo sigo;seguí;seguido;следовать, продолжать;**Sigue** todo recto hasta la plaza.;Иди прямо до площади.
+A1;verb;;girar;;;giré;girado;поворачивать;**Gira** a la derecha en el semáforo.;Поверни направо на светофоре.
+A1;verb;;cruzar;;;crucé;cruzado;переходить, пересекать;**Cruzamos** la calle con cuidado.;Мы осторожно переходим улицу.
+A1;verb;;subir;;;subí;subido;подниматься, садиться (в транспорт);**Subo** al tercer piso.;Я поднимаюсь на третий этаж.
+A1;verb;;bajar;;;bajé;bajado;спускаться, выходить (из транспорта);**Bajo** del autobús en la plaza.;Я выхожу из автобуса на площади.
+A1;verb;;alquilar;;;alquilé;alquilado;снимать, арендовать;**Alquilamos** un coche en el aeropuerto.;Мы арендуем машину в аэропорту.
+A1;verb;;reservar;;;reservé;reservado;бронировать;Quiero **reservar** una mesa para dos.;Я хочу забронировать столик на двоих.
+A1;verb;;preparar;;;preparé;preparado;готовить;**Preparo** la cena para mi familia.;Я готовлю ужин для семьи.
+A1;verb;;lavar;;;lavé;lavado;мыть, стирать;**Lavo** los platos después de comer.;Я мою посуду после еды.
+A1;verb;;vender;;;vendí;vendido;продавать;En esta tienda **venden** fruta fresca.;В этом магазине продают свежие фрукты.
+A1;verb;;perder;;yo pierdo;perdí;perdido;терять, проигрывать;Siempre **pierdo** las llaves.;Я всегда теряю ключи.
+A1;verb;;olvidar;;;olvidé;olvidado;забывать;No **olvides** tu pasaporte.;Не забудь свой паспорт.
+A1;verb;;recordar;;yo recuerdo;recordé;recordado;помнить, вспоминать;No **recuerdo** su nombre.;Я не помню его имени.
+A1;verb;;practicar;;;practiqué;practicado;практиковать, заниматься;**Practico** deporte tres veces por semana.;Я занимаюсь спортом три раза в неделю.
+A1;verb;;ganar;;;gané;ganado;зарабатывать, выигрывать;Mi equipo **gana** casi siempre.;Моя команда почти всегда выигрывает.
+A1;verb;;invitar;;;invité;invitado;приглашать;Te **invito** a mi cumpleaños.;Приглашаю тебя на мой день рождения.
+A1;verb;;celebrar;;;celebré;celebrado;праздновать;**Celebramos** la Navidad en familia.;Мы празднуем Рождество в кругу семьи.
+A1;verb;;fumar;;;fumé;fumado;курить;Aquí no se puede **fumar**.;Здесь нельзя курить.
+A1;verb;;coger;;yo cojo;cogí;cogido;брать, садиться (на транспорт);**Cojo** el metro para ir al trabajo.;Я езжу на работу на метро.
+A1;verb;;dibujar;;;dibujé;dibujado;рисовать;Mi hijo **dibuja** animales.;Мой сын рисует животных.
+A1;verb;;contar;;yo cuento;conté;contado;считать, рассказывать;El niño **cuenta** hasta diez.;Ребёнок считает до десяти.
+A1;verb;;sacar;;;saqué;sacado;доставать, вынимать;**Saco** dinero del cajero.;Я снимаю деньги в банкомате.
+A1;verb;;funcionar;;;funcionó;funcionado;работать (о механизме);El ascensor no **funciona**.;Лифт не работает.
+A1;adj;;bueno;;;;;хороший, добрый;Es un **buen** restaurante.;Это хороший ресторан.
+A1;adj;;malo;;;;;плохой;Hoy hace **mal** tiempo.;Сегодня плохая погода.
+A1;adj;;grande;;;;;большой;Vivimos en una casa **grande**.;Мы живём в большом доме.
+A1;adj;;pequeño;;;;;маленький;Tengo un perro **pequeño**.;У меня маленькая собака.
+A1;adj;;nuevo;;;;;новый;Tengo un móvil **nuevo**.;У меня новый мобильный.
+A1;adj;;viejo;;;;;старый;Este coche es muy **viejo**.;Эта машина очень старая.
+A1;adj;;joven;;;;;молодой;Mi profesora es muy **joven**.;Моя учительница очень молодая.
+A1;adj;;mayor;;;;;старший, пожилой;Mi hermano **mayor** vive en Sevilla.;Мой старший брат живёт в Севилье.
+A1;adj;;menor;;;;;младший;Mi hermana **menor** tiene diez años.;Моей младшей сестре десять лет.
+A1;adj;;alto;;;;;высокий;Mi padre es muy **alto**.;Мой отец очень высокий.
+A1;adj;;bajo;;;;;низкий, невысокий;Mi abuela es **baja** y delgada.;Моя бабушка невысокая и худая.
+A1;adj;;gordo;;;;;толстый;El gato está muy **gordo**.;Кот очень толстый.
+A1;adj;;delgado;;;;;худой, стройный;Mi hermano es alto y **delgado**.;Мой брат высокий и худой.
+A1;adj;;guapo;;;;;красивый, симпатичный;Tu novio es muy **guapo**.;Твой парень очень симпатичный.
+A1;adj;;feo;;;;;некрасивый, уродливый;Este edificio es bastante **feo**.;Это здание довольно некрасивое.
+A1;adj;;bonito;;;;;красивый, милый;¡Qué vestido tan **bonito**!;Какое красивое платье!
+A1;adj;;largo;;;;;длинный;Ella tiene el pelo **largo**.;У неё длинные волосы.
+A1;adj;;corto;;;;;короткий;La película es muy **corta**.;Фильм очень короткий.
+A1;adj;;caro;;;;;дорогой;Este hotel es muy **caro**.;Этот отель очень дорогой.
+A1;adj;;barato;;;;;дешёвый;La fruta aquí es **barata**.;Фрукты здесь дешёвые.
+A1;adj;;caliente;;;;;горячий;La sopa está muy **caliente**.;Суп очень горячий.
+A1;adj;;frío;;;;;холодный;Quiero un agua **fría**, por favor.;Я хочу холодной воды, пожалуйста.
+A1;adj;;fácil;;;;;лёгкий, простой;El examen es muy **fácil**.;Экзамен очень лёгкий.
+A1;adj;;difícil;;;;;трудный, сложный;El español no es **difícil**.;Испанский не сложный.
+A1;adj;;feliz;;;;;счастливый;Estoy muy **feliz** con mi trabajo.;Я очень доволен своей работой.
+A1;adj;;contento;;;;;довольный, радостный;Los niños están **contentos** hoy.;Дети сегодня довольны.
+A1;adj;;triste;;;;;грустный;¿Por qué estás **triste**?;Почему ты грустишь?
+A1;adj;;cansado;;;;;уставший;Estoy **cansado** después del trabajo.;Я устал после работы.
+A1;adj;;enfermo;;;;;больной;Hoy no voy a clase porque estoy **enfermo**.;Сегодня я не иду на занятия, потому что болею.
+A1;adj;;simpático;;;;;приятный, симпатичный;Tu amiga es muy **simpática**.;Твоя подруга очень приятная.
+A1;adj;;antipático;;;;;неприятный, несимпатичный;El camarero es un poco **antipático**.;Официант немного неприятный.
+A1;adj;;inteligente;;;;;умный;Tu hijo es muy **inteligente**.;Твой сын очень умный.
+A1;adj;;tonto;;;;;глупый;No es una pregunta **tonta**.;Это не глупый вопрос.
+A1;adj;;amable;;;;;любезный, добрый;Gracias, eres muy **amable**.;Спасибо, ты очень любезен.
+A1;adj;;alegre;;;;;весёлый, жизнерадостный;Mi abuelo es una persona muy **alegre**.;Мой дедушка очень весёлый человек.
+A1;adj;;serio;;;;;серьёзный;Mi jefe es muy **serio**.;Мой начальник очень серьёзный.
+A1;adj;;trabajador;;;;;трудолюбивый;Ana es una chica muy **trabajadora**.;Ана очень трудолюбивая девушка.
+A1;adj;;perezoso;;;;;ленивый;Mi gato es muy **perezoso**.;Мой кот очень ленивый.
+A1;adj;;rico;;;;;богатый, вкусный;Esta paella está muy **rica**.;Эта паэлья очень вкусная.
+A1;adj;;pobre;;;;;бедный;Es un barrio muy **pobre**.;Это очень бедный район.
+A1;adj;;limpio;;;;;чистый;La habitación está **limpia**.;Комната чистая.
+A1;adj;;sucio;;;;;грязный;Tus zapatos están **sucios**.;Твои ботинки грязные.
+A1;adj;;abierto;;;;;открытый;La farmacia está **abierta** hasta las diez.;Аптека открыта до десяти.
+A1;adj;;cerrado;;;;;закрытый;El museo está **cerrado** los lunes.;Музей закрыт по понедельникам.
+A1;adj;;lleno;;;;;полный;El autobús está **lleno**.;Автобус полный.
+A1;adj;;vacío;;;;;пустой;La nevera está **vacía**.;Холодильник пустой.
+A1;adj;;rápido;;;;;быстрый;El tren es muy **rápido**.;Поезд очень быстрый.
+A1;adj;;lento;;;;;медленный;Mi ordenador es muy **lento**.;Мой компьютер очень медленный.
+A1;adj;;fuerte;;;;;сильный;Mi hermano es muy **fuerte**.;Мой брат очень сильный.
+A1;adj;;débil;;;;;слабый;Después de la gripe estoy **débil**.;После гриппа я слаб.
+A1;adj;;importante;;;;;важный;Mañana tengo una reunión **importante**.;Завтра у меня важная встреча.
+A1;adj;;interesante;;;;;интересный;Es un libro muy **interesante**.;Это очень интересная книга.
+A1;adj;;aburrido;;;;;скучный;La película es un poco **aburrida**.;Фильм немного скучный.
+A1;adj;;divertido;;;;;весёлый, забавный;Mi tío es muy **divertido**.;Мой дядя очень весёлый.
+A1;adj;;tranquilo;;;;;спокойный, тихий;Vivo en un barrio **tranquilo**.;Я живу в тихом районе.
+A1;adj;;ocupado;;;;;занятой, занятый;Lo siento, ahora estoy **ocupado**.;Извини, сейчас я занят.
+A1;adj;;libre;;;;;свободный;¿Estás **libre** el sábado?;Ты свободен в субботу?
+A1;adj;;rojo;;;;;красный;Me gusta tu coche **rojo**.;Мне нравится твоя красная машина.
+A1;adj;;azul;;;;;синий, голубой;El cielo está **azul** hoy.;Сегодня небо голубое.
+A1;adj;;verde;;;;;зелёный;Mi casa tiene una puerta **verde**.;У моего дома зелёная дверь.
+A1;adj;;amarillo;;;;;жёлтый;Los plátanos son **amarillos**.;Бананы жёлтые.
+A1;adj;;blanco;;;;;белый;Llevo una camisa **blanca**.;На мне белая рубашка.
+A1;adj;;negro;;;;;чёрный;Tengo un gato **negro**.;У меня чёрный кот.
+A1;adj;;gris;;;;;серый;Hoy el cielo está **gris**.;Сегодня небо серое.
+A1;adj;;marrón;;;;;коричневый;Sus ojos son **marrones**.;У него карие глаза.
+A1;adj;;rosa;;;;;розовый;Mi hija quiere una bicicleta **rosa**.;Моя дочь хочет розовый велосипед.
+A1;adj;;naranja;;;;;оранжевый;Lleva una camiseta **naranja**.;На нём оранжевая футболка.
+A1;adj;;morado;;;;;фиолетовый;Me gustan las flores **moradas**.;Мне нравятся фиолетовые цветы.
+A1;adj;;favorito;;;;;любимый;El azul es mi color **favorito**.;Синий — мой любимый цвет.
+A1;adj;;moderno;;;;;современный;Es un edificio muy **moderno**.;Это очень современное здание.
+A1;adj;;antiguo;;;;;старинный, древний;Toledo es una ciudad **antigua**.;Толедо — древний город.
+A1;adj;;correcto;;;;;правильный;Tu respuesta es **correcta**.;Твой ответ правильный.
+A1;adj;;nervioso;;;;;нервный, взволнованный;Estoy **nervioso** antes del examen.;Я волнуюсь перед экзаменом.
+A1;adj;;próximo;;;;;следующий;Nos vemos la **próxima** semana.;Увидимся на следующей неделе.
+A1;adj;;último;;;;;последний;Es el **último** autobús de la noche.;Это последний ночной автобус.
+A1;adj;;mismo;;;;;тот же самый, одинаковый;Vivimos en la **misma** calle.;Мы живём на одной и той же улице.
+A1;adj;;otro;;;;;другой, ещё один;¿Quieres **otro** café?;Хочешь ещё кофе?
+A1;adj;;todo;;;;;весь, всё;Trabajo **todo** el día.;Я работаю весь день.
+A1;adj;;mucho;;;;;много, многие;Tengo **muchos** amigos en Madrid.;У меня много друзей в Мадриде.
+A1;adj;;poco;;;;;мало, немного;Hay **poca** gente en la playa.;На пляже мало людей.
+A1;adj;;español;;;;;испанский;Me gusta mucho la comida **española**.;Мне очень нравится испанская кухня.
+A1;adj;;ruso;;;;;русский;Mi amiga es **rusa**.;Моя подруга — русская.
+A1;adv;;muy;;;;;очень;Hoy hace **muy** buen tiempo.;Сегодня очень хорошая погода.
+A1;adv;;bien;;;;;хорошо;Hablas español muy **bien**.;Ты очень хорошо говоришь по-испански.
+A1;adv;;mal;;;;;плохо;Hoy he dormido **mal**.;Сегодня я плохо спал.
+A1;adv;;aquí;;;;;здесь, сюда;Mi casa está **aquí**.;Мой дом здесь.
+A1;adv;;allí;;;;;там;El banco está **allí**, a la derecha.;Банк там, справа.
+A1;adv;;ahí;;;;;там, вот там (рядом);Tus llaves están **ahí**, en la mesa.;Твои ключи вон там, на столе.
+A1;adv;;cerca;;;;;близко, рядом;El metro está muy **cerca**.;Метро совсем близко.
+A1;adv;;lejos;;;;;далеко;Mi trabajo está **lejos** de casa.;Моя работа далеко от дома.
+A1;adv;;hoy;;;;;сегодня;**Hoy** es lunes.;Сегодня понедельник.
+A1;adv;;mañana;;;;;завтра;**Mañana** voy al médico.;Завтра я иду к врачу.
+A1;adv;;ayer;;;;;вчера;**Ayer** fui al cine.;Вчера я ходил в кино.
+A1;adv;;ahora;;;;;сейчас;**Ahora** no puedo hablar.;Сейчас я не могу говорить.
+A1;adv;;luego;;;;;потом, позже;Te llamo **luego**.;Я позвоню тебе позже.
+A1;adv;;después;;;;;после, потом;**Después** de comer, descanso un poco.;После обеда я немного отдыхаю.
+A1;adv;;antes;;;;;раньше, до;Me ducho **antes** de desayunar.;Я принимаю душ перед завтраком.
+A1;adv;;siempre;;;;;всегда;**Siempre** desayuno café con tostadas.;Я всегда завтракаю кофе с тостами.
+A1;adv;;nunca;;;;;никогда;**Nunca** como carne.;Я никогда не ем мясо.
+A1;adv;;a veces;;;;;иногда;**A veces** voy al gimnasio.;Иногда я хожу в спортзал.
+A1;adv;;también;;;;;тоже, также;Yo **también** hablo inglés.;Я тоже говорю по-английски.
+A1;adv;;tampoco;;;;;тоже не;Yo **tampoco** tengo coche.;У меня тоже нет машины.
+A1;adv;;sí;;;;;да;**Sí**, quiero ir contigo.;Да, я хочу пойти с тобой.
+A1;adv;;no;;;;;нет, не;**No** me gusta el pescado.;Я не люблю рыбу.
+A1;adv;;más;;;;;больше, более;Quiero **más** pan, por favor.;Я хочу ещё хлеба, пожалуйста.
+A1;adv;;menos;;;;;меньше, менее;Hoy hace **menos** calor que ayer.;Сегодня не так жарко, как вчера.
+A1;adv;;bastante;;;;;довольно, достаточно;El hotel es **bastante** caro.;Отель довольно дорогой.
+A1;adv;;demasiado;;;;;слишком;Esta camisa es **demasiado** grande.;Эта рубашка слишком большая.
+A1;adv;;ya;;;;;уже;**Ya** he terminado los deberes.;Я уже сделал домашнее задание.
+A1;adv;;todavía;;;;;ещё, всё ещё;**Todavía** no he comido.;Я ещё не ел.
+A1;adv;;temprano;;;;;рано;Me levanto muy **temprano**.;Я встаю очень рано.
+A1;adv;;tarde;;;;;поздно;Hoy llego **tarde** a casa.;Сегодня я поздно приду домой.
+A1;adv;;pronto;;;;;скоро, рано;¡Hasta **pronto**!;До скорого!
+A1;adv;;despacio;;;;;медленно;Hable más **despacio**, por favor.;Говорите медленнее, пожалуйста.
+A1;adv;;normalmente;;;;;обычно;**Normalmente** como en casa.;Обычно я обедаю дома.
+A1;adv;;solo;;;;;только;**Solo** tengo cinco euros.;У меня только пять евро.
+A1;adv;;casi;;;;;почти;**Casi** son las diez.;Почти десять часов.
+A1;adv;;juntos;;;;;вместе;Vamos **juntos** al cine.;Пойдём в кино вместе.
+A1;adv;;enfrente;;;;;напротив;La farmacia está **enfrente**.;Аптека напротив.
+A1;adv;;dentro;;;;;внутри;Los niños juegan **dentro** de casa.;Дети играют дома.
+A1;adv;;fuera;;;;;снаружи, на улице;Hace frío **fuera**.;На улице холодно.
+A1;adv;;arriba;;;;;наверху, наверх;Mi habitación está **arriba**.;Моя комната наверху.
+A1;adv;;abajo;;;;;внизу, вниз;Te espero **abajo**, en la calle.;Я жду тебя внизу, на улице.
+A1;adv;;todo recto;;;;;прямо;Siga **todo recto** hasta el final.;Идите прямо до конца.
+A1;pron;;yo;;;;;я;**Yo** soy de Moscú.;Я из Москвы.
+A1;pron;;tú;;;;;ты;¿**Tú** eres estudiante?;Ты студент?
+A1;pron;;usted;;;;;вы (вежл.);¿Es **usted** el señor García?;Вы сеньор Гарсия?
+A1;pron;;él;;;;;он;**Él** trabaja en un hospital.;Он работает в больнице.
+A1;pron;;ella;;;;;она;**Ella** es mi mejor amiga.;Она моя лучшая подруга.
+A1;pron;;nosotros;;;;;мы;**Nosotros** vivimos en Valencia.;Мы живём в Валенсии.
+A1;pron;;vosotros;;;;;вы (мн.);¿**Vosotros** sois hermanos?;Вы братья?
+A1;pron;;ustedes;;;;;вы (вежл. мн.);¿De dónde son **ustedes**?;Откуда вы?
+A1;pron;;ellos;;;;;они;**Ellos** llegan mañana.;Они приезжают завтра.
+A1;pron;;me;;;;;меня, мне;¿**Me** ayudas, por favor?;Поможешь мне, пожалуйста?
+A1;pron;;te;;;;;тебя, тебе;**Te** quiero mucho.;Я тебя очень люблю.
+A1;pron;;mí;;;;;меня, мне (после предлога);Este regalo es para **mí**.;Этот подарок для меня.
+A1;pron;;ti;;;;;тебя, тебе (после предлога);Tengo una sorpresa para **ti**.;У меня для тебя сюрприз.
+A1;pron;;conmigo;;;;;со мной;¿Quieres venir **conmigo**?;Хочешь пойти со мной?
+A1;pron;;contigo;;;;;с тобой;Quiero hablar **contigo**.;Я хочу поговорить с тобой.
+A1;pron;;mi;;;;;мой, моя;**Mi** casa está cerca del parque.;Мой дом рядом с парком.
+A1;pron;;tu;;;;;твой, твоя;¿Cómo se llama **tu** hermano?;Как зовут твоего брата?
+A1;pron;;su;;;;;его, её, их, ваш;**Su** padre es médico.;Его отец — врач.
+A1;pron;;nuestro;;;;;наш;**Nuestro** piso tiene tres habitaciones.;В нашей квартире три комнаты.
+A1;pron;;vuestro;;;;;ваш (мн.);¿Dónde está **vuestro** coche?;Где ваша машина?
+A1;pron;;mío;;;;;мой (самостоятельное);Este libro es **mío**.;Эта книга моя.
+A1;pron;;tuyo;;;;;твой (самостоятельное);¿Es **tuyo** este paraguas?;Это твой зонт?
+A1;pron;;este;;;;;этот;**Este** restaurante es muy bueno.;Этот ресторан очень хороший.
+A1;pron;;ese;;;;;этот, тот;¿Cuánto cuesta **ese** bolso?;Сколько стоит эта сумка?
+A1;pron;;aquel;;;;;тот (далёкий);**Aquel** edificio es el museo.;То здание — музей.
+A1;pron;;esto;;;;;это;¿Qué es **esto**?;Что это?
+A1;pron;;eso;;;;;это, то;**Eso** no es verdad.;Это неправда.
+A1;pron;;qué;;;;;что, какой;¿**Qué** quieres comer?;Что ты хочешь съесть?
+A1;pron;;quién;;;;;кто;¿**Quién** es esa chica?;Кто эта девушка?
+A1;pron;;cuál;;;;;какой, который;¿**Cuál** es tu número de teléfono?;Какой у тебя номер телефона?
+A1;pron;;cuánto;;;;;сколько;¿**Cuántos** años tienes?;Сколько тебе лет?
+A1;adv;;dónde;;;;;где;¿**Dónde** vives?;Где ты живёшь?
+A1;adv;;adónde;;;;;куда;¿**Adónde** vas este verano?;Куда ты едешь этим летом?
+A1;adv;;cuándo;;;;;когда;¿**Cuándo** es tu cumpleaños?;Когда у тебя день рождения?
+A1;adv;;cómo;;;;;как;¿**Cómo** estás?;Как дела?
+A1;adv;;por qué;;;;;почему;¿**Por qué** estudias español?;Почему ты изучаешь испанский?
+A1;pron;;algo;;;;;что-то, что-нибудь;¿Quieres **algo** de beber?;Хочешь что-нибудь выпить?
+A1;pron;;nada;;;;;ничего;No tengo **nada** en la nevera.;У меня в холодильнике ничего нет.
+A1;pron;;alguien;;;;;кто-то, кто-нибудь;¿Hay **alguien** en casa?;Дома кто-нибудь есть?
+A1;pron;;nadie;;;;;никто;No hay **nadie** en la oficina.;В офисе никого нет.
+A1;pron;;que;;;;;который, что;El chico **que** está allí es mi primo.;Парень, который стоит там, — мой двоюродный брат.
+A1;prep;;a;;;;;в, на, к;Voy **a** la playa en agosto.;В августе я еду на пляж.
+A1;prep;;de;;;;;из, от, о;Soy **de** San Petersburgo.;Я из Санкт-Петербурга.
+A1;prep;;en;;;;;в, на;Mi madre está **en** casa.;Моя мама дома.
+A1;prep;;con;;;;;с;Vivo **con** mis padres.;Я живу с родителями.
+A1;prep;;sin;;;;;без;Quiero un café **sin** azúcar.;Я хочу кофе без сахара.
+A1;prep;;para;;;;;для, чтобы;Este regalo es **para** ti.;Этот подарок для тебя.
+A1;prep;;por;;;;;через, по, из-за;Paseo **por** el parque.;Я гуляю по парку.
+A1;prep;;desde;;;;;с, от;Trabajo **desde** las nueve.;Я работаю с девяти.
+A1;prep;;hasta;;;;;до;La tienda abre **hasta** las ocho.;Магазин открыт до восьми.
+A1;prep;;entre;;;;;между, среди;El banco está **entre** la farmacia y el bar.;Банк находится между аптекой и баром.
+A1;prep;;sobre;;;;;на, над, о;El libro está **sobre** la mesa.;Книга лежит на столе.
+A1;prep;;debajo de;;;;;под;El gato está **debajo de** la cama.;Кот под кроватью.
+A1;prep;;encima de;;;;;на, над, сверху;Las llaves están **encima de** la mesa.;Ключи лежат на столе.
+A1;prep;;al lado de;;;;;рядом с;Vivo **al lado de** la estación.;Я живу рядом с вокзалом.
+A1;prep;;delante de;;;;;перед, впереди;Te espero **delante de** la tienda.;Я жду тебя перед магазином.
+A1;prep;;detrás de;;;;;за, позади;El jardín está **detrás de** la casa.;Сад находится за домом.
+A1;prep;;según;;;;;согласно, по словам;**Según** el mapa, el hotel está cerca.;Судя по карте, отель рядом.
+A1;conj;;y;;;;;и;Tengo un perro **y** un gato.;У меня есть собака и кошка.
+A1;conj;;o;;;;;или;¿Quieres té **o** café?;Ты хочешь чай или кофе?
+A1;conj;;pero;;;;;но;Es caro, **pero** muy bonito.;Это дорого, но очень красиво.
+A1;conj;;porque;;;;;потому что;Estudio español **porque** me gusta.;Я учу испанский, потому что он мне нравится.
+A1;conj;;si;;;;;если;**Si** llueve, me quedo en casa.;Если пойдёт дождь, я останусь дома.
+A1;conj;;cuando;;;;;когда;**Cuando** tengo tiempo, leo.;Когда у меня есть время, я читаю.
+A1;conj;;ni;;;;;ни;No bebo café **ni** té.;Я не пью ни кофе, ни чай.
+A1;conj;;entonces;;;;;тогда, значит;**Entonces**, nos vemos a las cinco.;Тогда увидимся в пять.
+A1;num;;cero;;;;;ноль;Mi número empieza por **cero**.;Мой номер начинается с нуля.
+A1;num;;uno;;;;;один;Tengo **un** hermano.;У меня один брат.
+A1;num;;dos;;;;;два;Tengo **dos** hijos.;У меня двое детей.
+A1;num;;tres;;;;;три;Vivo aquí desde hace **tres** años.;Я живу здесь три года.
+A1;num;;cuatro;;;;;четыре;Somos **cuatro** en mi familia.;В моей семье нас четверо.
+A1;num;;cinco;;;;;пять;La clase dura **cinco** horas.;Занятие длится пять часов.
+A1;num;;seis;;;;;шесть;Me levanto a las **seis**.;Я встаю в шесть.
+A1;num;;siete;;;;;семь;Una semana tiene **siete** días.;В неделе семь дней.
+A1;num;;ocho;;;;;восемь;Trabajo **ocho** horas al día.;Я работаю восемь часов в день.
+A1;num;;nueve;;;;;девять;La tienda abre a las **nueve**.;Магазин открывается в девять.
+A1;num;;diez;;;;;десять;Tengo **diez** euros.;У меня десять евро.
+A1;num;;once;;;;;одиннадцать;Mi hijo tiene **once** años.;Моему сыну одиннадцать лет.
+A1;num;;doce;;;;;двенадцать;Un año tiene **doce** meses.;В году двенадцать месяцев.
+A1;num;;trece;;;;;тринадцать;Hay **trece** alumnos en la clase.;В классе тринадцать учеников.
+A1;num;;catorce;;;;;четырнадцать;Mi prima tiene **catorce** años.;Моей двоюродной сестре четырнадцать лет.
+A1;num;;quince;;;;;пятнадцать;El autobús tarda **quince** minutos.;Автобус едет пятнадцать минут.
+A1;num;;dieciséis;;;;;шестнадцать;Vivo en el número **dieciséis**.;Я живу в доме номер шестнадцать.
+A1;num;;diecisiete;;;;;семнадцать;Mi hermana tiene **diecisiete** años.;Моей сестре семнадцать лет.
+A1;num;;dieciocho;;;;;восемнадцать;Hoy cumplo **dieciocho** años.;Сегодня мне исполняется восемнадцать лет.
+A1;num;;diecinueve;;;;;девятнадцать;La entrada cuesta **diecinueve** euros.;Билет стоит девятнадцать евро.
+A1;num;;veinte;;;;;двадцать;Hay **veinte** personas en la sala.;В зале двадцать человек.
+A1;num;;treinta;;;;;тридцать;Mi padre tiene **treinta** y nueve años.;Моему отцу тридцать девять лет.
+A1;num;;cuarenta;;;;;сорок;El viaje dura **cuarenta** minutos.;Поездка длится сорок минут.
+A1;num;;cincuenta;;;;;пятьдесят;La camisa cuesta **cincuenta** euros.;Рубашка стоит пятьдесят евро.
+A1;num;;sesenta;;;;;шестьдесят;Una hora tiene **sesenta** minutos.;В часе шестьдесят минут.
+A1;num;;setenta;;;;;семьдесят;Mi abuela tiene **setenta** años.;Моей бабушке семьдесят лет.
+A1;num;;ochenta;;;;;восемьдесят;Mi abuelo tiene **ochenta** años.;Моему дедушке восемьдесят лет.
+A1;num;;noventa;;;;;девяносто;El libro tiene **noventa** páginas.;В книге девяносто страниц.
+A1;num;;cien;;;;;сто;Hay **cien** personas en la fiesta.;На празднике сто человек.
+A1;num;;mil;;;;;тысяча;El ordenador cuesta **mil** euros.;Компьютер стоит тысячу евро.
+A1;num;;primero;;;;;первый;Vivo en el **primer** piso.;Я живу на первом этаже.
+A1;num;;segundo;;;;;второй;Es la **segunda** calle a la derecha.;Это вторая улица направо.
+A1;num;;tercero;;;;;третий;Mi oficina está en el **tercer** piso.;Мой офис на третьем этаже.
+A1;num;;cuarto;;;;;четвёртый;Es mi **cuarto** viaje a España.;Это моя четвёртая поездка в Испанию.
+A1;num;;quinto;;;;;пятый;Vivimos en el **quinto** piso.;Мы живём на пятом этаже.
+A1;num;;sexto;;;;;шестой;Mi hijo está en **sexto** curso.;Мой сын учится в шестом классе.
+A1;num;;séptimo;;;;;седьмой;Es el **séptimo** día de vacaciones.;Это седьмой день отпуска.
+A1;num;;octavo;;;;;восьмой;Agosto es el **octavo** mes del año.;Август — восьмой месяц года.
+A1;num;;noveno;;;;;девятый;Llegó en **noveno** lugar.;Он пришёл девятым.
+A1;num;;décimo;;;;;десятый;Es su **décimo** cumpleaños.;Это его десятый день рождения.
+A1;interj;;hola;;;;;привет, здравствуйте;¡**Hola**! ¿Qué tal?;Привет! Как дела?
+A1;interj;;adiós;;;;;до свидания, пока;**Adiós**, hasta mañana.;До свидания, до завтра.
+A1;interj;;buenos días;;;;;доброе утро, добрый день;**Buenos días**, señora López.;Доброе утро, сеньора Лопес.
+A1;interj;;buenas tardes;;;;;добрый день, добрый вечер;**Buenas tardes**, ¿en qué puedo ayudarle?;Добрый день, чем могу вам помочь?
+A1;interj;;buenas noches;;;;;добрый вечер, спокойной ночи;**Buenas noches**, que duermas bien.;Спокойной ночи, спи хорошо.
+A1;interj;;gracias;;;;;спасибо;Muchas **gracias** por tu ayuda.;Большое спасибо за помощь.
+A1;interj;;de nada;;;;;пожалуйста (в ответ на спасибо), не за что;—Gracias. —**De nada**.;— Спасибо. — Не за что.
+A1;interj;;por favor;;;;;пожалуйста (просьба);Un café, **por favor**.;Кофе, пожалуйста.
+A1;interj;;perdón;;;;;простите, извините;**Perdón**, ¿dónde está el baño?;Простите, где туалет?
+A1;interj;;lo siento;;;;;мне жаль, извините;**Lo siento**, no puedo ir.;Извини, я не могу пойти.
+A1;interj;;hasta luego;;;;;пока, до встречи;**Hasta luego**, chicos.;Пока, ребята.
+A1;interj;;hasta mañana;;;;;до завтра;Me voy a dormir, **hasta mañana**.;Я пошёл спать, до завтра.
+A1;interj;;qué tal;;;;;как дела;Hola, ¿**qué tal** estás?;Привет, как ты?
+A1;interj;;encantado;;;;;очень приятно;**Encantado** de conocerte.;Очень приятно познакомиться.
+A1;interj;;bienvenido;;;;;добро пожаловать;¡**Bienvenido** a España!;Добро пожаловать в Испанию!
+A1;interj;;vale;;;;;ладно, хорошо;—¿Vamos al cine? —**Vale**.;— Пойдём в кино? — Ладно.
+A1;interj;;claro;;;;;конечно;¡**Claro** que sí!;Конечно, да!
+A1;interj;;oye;;;;;слушай, эй;**Oye**, ¿tienes un bolígrafo?;Слушай, у тебя есть ручка?
+A1;interj;;felicidades;;;;;поздравляю;¡**Felicidades** por tu cumpleaños!;Поздравляю с днём рождения!
+A1;interj;;salud;;;;;будь здоров, за здоровье;¡**Salud**! Brindamos por los novios.;За здоровье! Пьём за молодых.
