@@ -954,3 +954,352 @@ A2;pron;;somebody;;;;;кто-то;**Somebody** called you this morning.;Тебе
 A2;pron;;each other;;;;;друг друга;They have known **each other** for years.;Они знают друг друга много лет.
 A2;pron;;yourself;;;;;себя, сам (ты);Help **yourself** to some cake.;Угощайся тортом.
 A2;pron;;none;;;;;ни один, никто;**None** of my friends can come.;Никто из моих друзей не может прийти.
+A2;noun;;ceiling;ceilings;;;;потолок;The **ceiling** in this room is very high.;Потолок в этой комнате очень высокий.
+A2;noun;;roof;roofs;;;;крыша;There is a cat on the **roof**.;На крыше сидит кошка.
+A2;noun;;stairs;pl;;;;лестница, ступеньки;Be careful on the **stairs**, they are wet.;Осторожно на лестнице, она мокрая.
+A2;noun;;garage;garages;;;;гараж;My dad keeps his car in the **garage**.;Мой папа держит машину в гараже.
+A2;noun;;balcony;balconies;;;;балкон;We have breakfast on the **balcony** in summer.;Летом мы завтракаем на балконе.
+A2;noun;;shelf;shelves;;;;полка;Put the books back on the **shelf**, please.;Поставь, пожалуйста, книги обратно на полку.
+A2;noun;;cupboard;cupboards;;;;шкаф, буфет;The cups are in the kitchen **cupboard**.;Чашки в кухонном шкафу.
+A2;noun;;drawer;drawers;;;;ящик (стола, комода);I keep my socks in the top **drawer**.;Я храню носки в верхнем ящике.
+A2;noun;;curtain;curtains;;;;штора, занавеска;Can you close the **curtains**, please?;Можешь, пожалуйста, задёрнуть шторы?
+A2;noun;;carpet;carpets;;;;ковёр;There is a red **carpet** in the living room.;В гостиной лежит красный ковёр.
+A2;noun;;pillow;pillows;;;;подушка;I need a softer **pillow** to sleep well.;Мне нужна подушка помягче, чтобы хорошо спать.
+A2;noun;;blanket;blankets;;;;одеяло, плед;It is cold, so take an extra **blanket**.;Холодно, так что возьми ещё одно одеяло.
+A2;noun;;towel;towels;;;;полотенце;There are clean **towels** in the bathroom.;В ванной есть чистые полотенца.
+A2;noun;;mirror;mirrors;;;;зеркало;She looked at herself in the **mirror**.;Она посмотрела на себя в зеркало.
+A2;noun;;sink;sinks;;;;раковина, мойка;Put the dirty plates in the **sink**.;Положи грязные тарелки в раковину.
+A2;noun;;bath;baths;;;;ванна;The children are having a **bath** now.;Дети сейчас принимают ванну.
+A2;noun;;cooker;cookers;;;;плита;We bought a new electric **cooker**.;Мы купили новую электрическую плиту.
+A2;noun;;oven;ovens;;;;духовка;The cake is still in the **oven**.;Торт ещё в духовке.
+A2;noun;;microwave;microwaves;;;;микроволновка;Heat the soup in the **microwave** for two minutes.;Разогрей суп в микроволновке две минуты.
+A2;noun;;washing machine;washing machines;;;;стиральная машина;Our **washing machine** is broken again.;Наша стиральная машина снова сломалась.
+A2;noun;;dishwasher;dishwashers;;;;посудомоечная машина;Please put the cups in the **dishwasher**.;Пожалуйста, поставь чашки в посудомойку.
+A2;noun;;furniture;-;;;;мебель;We bought new **furniture** for the living room.;Мы купили новую мебель для гостиной.
+A2;noun;;armchair;armchairs;;;;кресло;Grandpa is sleeping in his **armchair**.;Дедушка спит в своём кресле.
+A2;noun;;desk;desks;;;;письменный стол, парта;My laptop is on the **desk**.;Мой ноутбук на письменном столе.
+A2;noun;;bin;bins;;;;мусорное ведро;Throw the paper in the **bin**, please.;Выбрось, пожалуйста, бумагу в мусорное ведро.
+A2;noun;;rubbish;-;;;;мусор;Can you take out the **rubbish**?;Можешь вынести мусор?
+A2;noun;;neighbour;neighbours;;;;сосед, соседка;Our **neighbour** has a big black dog.;У нашего соседа большая чёрная собака.
+A2;noun;;gate;gates;;;;ворота, калитка;Please close the **gate** when you leave.;Пожалуйста, закрой калитку, когда будешь уходить.
+A2;noun;;fence;fences;;;;забор;The dog jumped over the **fence**.;Собака перепрыгнула через забор.
+A2;noun;;hall;halls;;;;прихожая, зал;Leave your shoes in the **hall**.;Оставь обувь в прихожей.
+A2;noun;;dining room;dining rooms;;;;столовая (комната);We eat dinner in the **dining room**.;Мы ужинаем в столовой.
+A2;noun;;wardrobe;wardrobes;;;;платяной шкаф;Hang your coat in the **wardrobe**.;Повесь пальто в шкаф.
+A2;noun;;plant;plants;;;;растение;Don't forget to water the **plants**.;Не забудь полить растения.
+A2;noun;;candle;candles;;;;свеча;There were ten **candles** on the cake.;На торте было десять свечей.
+A2;noun;;soap;-;;;;мыло;Wash your hands with **soap** and water.;Мой руки водой с мылом.
+A2;noun;;toothbrush;toothbrushes;;;;зубная щётка;I forgot my **toothbrush** at home.;Я забыл зубную щётку дома.
+A2;noun;;toothpaste;-;;;;зубная паста;We need to buy some **toothpaste**.;Нам нужно купить зубную пасту.
+A2;noun;;shampoo;shampoos;;;;шампунь;This **shampoo** smells of apples.;Этот шампунь пахнет яблоками.
+A2;noun;;comb;combs;;;;расчёска;She always has a **comb** in her bag.;У неё в сумке всегда есть расчёска.
+A2;noun;;fork;forks;;;;вилка;Eat your pasta with a **fork**.;Ешь пасту вилкой.
+A2;noun;;spoon;spoons;;;;ложка;I need a **spoon** for my soup.;Мне нужна ложка для супа.
+A2;noun;;bowl;bowls;;;;миска, тарелка (глубокая);He ate a big **bowl** of cereal.;Он съел большую миску хлопьев.
+A2;noun;;pan;pans;;;;сковорода, кастрюля;Heat some oil in a **pan**.;Разогрей немного масла на сковороде.
+A2;noun;;jam;jams;;;;варенье, джем;I like bread with strawberry **jam**.;Я люблю хлеб с клубничным джемом.
+A2;noun;;honey;-;;;;мёд;Put some **honey** in your tea.;Положи немного мёда в чай.
+A2;noun;;flour;-;;;;мука;You need two cups of **flour** for this cake.;Для этого торта нужно два стакана муки.
+A2;noun;;oil;oils;;;;масло (растительное), нефть;Fry the onions in a little **oil**.;Обжарь лук на небольшом количестве масла.
+A2;noun;;pepper;-;;;;перец;Add some salt and **pepper**.;Добавь немного соли и перца.
+A2;noun;;garlic;-;;;;чеснок;This sauce has a lot of **garlic**.;В этом соусе много чеснока.
+A2;noun;;cabbage;cabbages;;;;капуста;My grandmother makes soup with **cabbage**.;Моя бабушка варит суп с капустой.
+A2;noun;;cucumber;cucumbers;;;;огурец;I put a **cucumber** in the salad.;Я положил огурец в салат.
+A2;noun;;mushroom;mushrooms;;;;гриб;We picked **mushrooms** in the forest.;Мы собирали грибы в лесу.
+A2;noun;;lemon;lemons;;;;лимон;I drink tea with **lemon**.;Я пью чай с лимоном.
+A2;noun;;pear;pears;;;;груша;This **pear** is very sweet.;Эта груша очень сладкая.
+A2;noun;;grape;grapes;;;;виноград (ягода);She bought a kilo of **grapes**.;Она купила килограмм винограда.
+A2;noun;;strawberry;strawberries;;;;клубника;**Strawberries** are my favourite fruit.;Клубника — мои любимые ягоды.
+A2;noun;;cherry;cherries;;;;вишня, черешня;There is a **cherry** tree in our garden.;В нашем саду растёт вишня.
+A2;noun;;peach;peaches;;;;персик;This **peach** is soft and juicy.;Этот персик мягкий и сочный.
+A2;noun;;pineapple;pineapples;;;;ананас;Do you like **pineapple** on pizza?;Тебе нравится ананас на пицце?
+A2;noun;;melon;melons;;;;дыня;We had **melon** for dessert.;На десерт у нас была дыня.
+A2;noun;;beef;-;;;;говядина;I don't eat **beef** or pork.;Я не ем говядину и свинину.
+A2;noun;;pork;-;;;;свинина;We are having **pork** with potatoes tonight.;Сегодня вечером у нас свинина с картошкой.
+A2;noun;;lamb;lambs;;;;ягнёнок, баранина;They had roast **lamb** for Sunday lunch.;На воскресный обед у них была жареная баранина.
+A2;noun;;sausage;sausages;;;;сосиска, колбаса;The children ate **sausages** and chips.;Дети ели сосиски с картошкой фри.
+A2;noun;;steak;steaks;;;;стейк;He ordered a **steak** with salad.;Он заказал стейк с салатом.
+A2;noun;;ham;-;;;;ветчина;I'd like a cheese and **ham** sandwich.;Я бы хотел бутерброд с сыром и ветчиной.
+A2;noun;;bacon;-;;;;бекон;We had eggs and **bacon** for breakfast.;На завтрак у нас была яичница с беконом.
+A2;noun;;seafood;-;;;;морепродукты;This restaurant is famous for its **seafood**.;Этот ресторан славится своими морепродуктами.
+A2;noun;;pasta;-;;;;паста, макароны;Italians eat a lot of **pasta**.;Итальянцы едят много пасты.
+A2;noun;;noodles;pl;;;;лапша;I had chicken **noodles** for lunch.;На обед я ел лапшу с курицей.
+A2;noun;;cereal;cereals;;;;хлопья (на завтрак), злаки;My son eats **cereal** with milk every morning.;Мой сын каждое утро ест хлопья с молоком.
+A2;noun;;biscuit;biscuits;;;;печенье;Would you like a **biscuit** with your tea?;Хочешь печенье к чаю?
+A2;noun;;cookie;cookies;;;;печенье;She baked chocolate **cookies** for the party.;Она испекла шоколадное печенье для вечеринки.
+A2;noun;;yoghurt;yoghurts;;;;йогурт;I have a **yoghurt** for breakfast.;На завтрак я ем йогурт.
+A2;noun;;cream;-;;;;сливки, крем;Do you want **cream** in your coffee?;Хочешь сливки в кофе?
+A2;noun;;pie;pies;;;;пирог;Mum made an apple **pie** today.;Мама сегодня испекла яблочный пирог.
+A2;noun;;dessert;desserts;;;;десерт;What would you like for **dessert**?;Что вы хотите на десерт?
+A2;noun;;snack;snacks;;;;перекус, закуска;I always take a **snack** to work.;Я всегда беру с собой перекус на работу.
+A2;noun;;meal;meals;;;;приём пищи, еда;Breakfast is the most important **meal** of the day.;Завтрак — самый важный приём пищи за день.
+A2;noun;;recipe;recipes;;;;рецепт (блюда);Can you give me the **recipe** for this soup?;Можешь дать мне рецепт этого супа?
+A2;noun;;dish;dishes;;;;блюдо, тарелка;Pizza is my favourite **dish**.;Пицца — моё любимое блюдо.
+A2;noun;;burger;burgers;;;;бургер;He ate two **burgers** and some chips.;Он съел два бургера и немного картошки фри.
+A2;noun;;chip;chips;;;;картофель фри, чипсы;Fish and **chips** is a popular British meal.;Рыба с картошкой фри — популярное британское блюдо.
+A2;noun;;sauce;sauces;;;;соус;This tomato **sauce** is delicious.;Этот томатный соус очень вкусный.
+A2;noun;;nut;nuts;;;;орех;Some people can't eat **nuts**.;Некоторым людям нельзя есть орехи.
+A2;noun;;bean;beans;;;;фасоль, боб;I'd like rice and **beans**, please.;Мне, пожалуйста, рис с фасолью.
+A2;noun;;lettuce;lettuces;;;;салат-латук;Wash the **lettuce** before you eat it.;Помой салат перед едой.
+A2;noun;;waitress;waitresses;;;;официантка;The **waitress** was very friendly.;Официантка была очень дружелюбной.
+A2;noun;;tip;tips;;;;чаевые, совет;We left a **tip** for the waiter.;Мы оставили официанту чаевые.
+A2;noun;;cafe;cafes;;;;кафе;Let's meet at the **cafe** near the station.;Давай встретимся в кафе у вокзала.
+A2;noun;;diet;diets;;;;диета, питание;She is on a **diet** and doesn't eat sugar.;Она на диете и не ест сахар.
+A2;noun;;slice;slices;;;;ломтик, кусок;Can I have another **slice** of pizza?;Можно мне ещё кусок пиццы?
+A2;noun;;piece;pieces;;;;кусок, часть;Would you like a **piece** of cake?;Хочешь кусочек торта?
+A2;noun;;kilo;kilos;;;;килограмм;A **kilo** of apples costs two pounds.;Килограмм яблок стоит два фунта.
+A2;noun;;litre;litres;;;;литр;Buy two **litres** of milk, please.;Купи, пожалуйста, два литра молока.
+A2;noun;;packet;packets;;;;пачка, пакет;He ate a whole **packet** of biscuits.;Он съел целую пачку печенья.
+A2;noun;;tin;tins;;;;консервная банка, жестянка;Open a **tin** of tomatoes for the sauce.;Открой банку помидоров для соуса.
+A2;noun;;jar;jars;;;;банка (стеклянная);There is a **jar** of honey on the table.;На столе стоит банка мёда.
+A2;noun;;shopping centre;shopping centres;;;;торговый центр;The new **shopping centre** opens on Saturday.;Новый торговый центр открывается в субботу.
+A2;noun;;customer;customers;;;;покупатель, клиент;The shop was full of **customers**.;Магазин был полон покупателей.
+A2;noun;;cash;-;;;;наличные;Do you want to pay by card or in **cash**?;Вы хотите заплатить картой или наличными?
+A2;noun;;credit card;credit cards;;;;кредитная карта;Can I pay by **credit card**?;Можно расплатиться кредитной картой?
+A2;noun;;receipt;receipts;;;;чек (квитанция);Keep the **receipt** in case you want to return it.;Сохрани чек на случай, если захочешь это вернуть.
+A2;noun;;coin;coins;;;;монета;I need some **coins** for the machine.;Мне нужно несколько монет для автомата.
+A2;noun;;discount;discounts;;;;скидка;Students get a ten percent **discount**.;Студенты получают скидку десять процентов.
+A2;noun;;sale;sales;;;;распродажа, продажа;I bought these shoes in the **sale**.;Я купила эти туфли на распродаже.
+A2;noun;;size;sizes;;;;размер;Do you have this shirt in a bigger **size**?;У вас есть эта рубашка большего размера?
+A2;noun;;basket;baskets;;;;корзина;She put the bread in her **basket**.;Она положила хлеб в корзину.
+A2;noun;;trolley;trolleys;;;;тележка;We need a **trolley** for all this shopping.;Нам нужна тележка для всех этих покупок.
+A2;noun;;queue;queues;;;;очередь;There was a long **queue** at the bank.;В банке была длинная очередь.
+A2;noun;;shop assistant;shop assistants;;;;продавец;The **shop assistant** helped me find a jacket.;Продавец помог мне найти куртку.
+A2;noun;;wallet;wallets;;;;бумажник, кошелёк;I lost my **wallet** on the bus.;Я потерял бумажник в автобусе.
+A2;noun;;purse;purses;;;;кошелёк (женский);She took ten euros from her **purse**.;Она достала из кошелька десять евро.
+A2;noun;;bakery;bakeries;;;;пекарня, булочная;I buy fresh bread at the **bakery**.;Я покупаю свежий хлеб в пекарне.
+A2;noun;;butcher;butchers;;;;мясник, мясная лавка;Go to the **butcher** and get some sausages.;Сходи в мясную лавку и купи сосисок.
+A2;noun;;chemist;chemists;;;;аптека, аптекарь;You can buy this medicine at the **chemist**.;Это лекарство можно купить в аптеке.
+A2;noun;;bookshop;bookshops;;;;книжный магазин;There is a nice **bookshop** in the old town.;В старом городе есть хороший книжный магазин.
+A2;noun;;department store;department stores;;;;универмаг;We went shopping in a big **department store**.;Мы ходили за покупками в большой универмаг.
+A2;noun;;gift;gifts;;;;подарок;Thank you for the lovely **gift**!;Спасибо за чудесный подарок!
+A2;noun;;fashion;-;;;;мода;She is very interested in **fashion**.;Она очень интересуется модой.
+A2;noun;;jewellery;-;;;;ювелирные украшения;She doesn't wear much **jewellery**.;Она носит мало украшений.
+A2;noun;;necklace;necklaces;;;;ожерелье, колье;That silver **necklace** is very beautiful.;Это серебряное ожерелье очень красивое.
+A2;noun;;earring;earrings;;;;серьга;She lost one of her **earrings**.;Она потеряла одну из своих серёжек.
+A2;noun;;glove;gloves;;;;перчатка;Wear your **gloves**, it's freezing outside.;Надень перчатки, на улице мороз.
+A2;noun;;scarf;scarves;;;;шарф;My grandmother made me a warm **scarf**.;Бабушка связала мне тёплый шарф.
+A2;noun;;boot;boots;;;;ботинок, сапог;I need new **boots** for winter.;Мне нужны новые сапоги на зиму.
+A2;noun;;sandal;sandals;;;;сандалия, босоножка;It's hot, so I'm wearing **sandals**.;Жарко, поэтому я в сандалиях.
+A2;noun;;belt;belts;;;;ремень, пояс;These trousers are too big without a **belt**.;Эти брюки без ремня слишком большие.
+A2;noun;;tie;ties;;;;галстук;He wears a **tie** to work every day.;Он каждый день носит на работу галстук.
+A2;noun;;shorts;pl;;;;шорты;In summer I usually wear **shorts**.;Летом я обычно ношу шорты.
+A2;noun;;pyjamas;pl;;;;пижама;The kids are already in their **pyjamas**.;Дети уже в пижамах.
+A2;noun;;uniform;uniforms;;;;форма (одежда);Students at this school wear a **uniform**.;Ученики этой школы носят форму.
+A2;noun;;suit;suits;;;;костюм;He bought a new **suit** for the wedding.;Он купил новый костюм для свадьбы.
+A2;noun;;pocket;pockets;;;;карман;My keys are in my **pocket**.;Ключи у меня в кармане.
+A2;noun;;button;buttons;;;;пуговица, кнопка;A **button** came off my shirt.;От моей рубашки оторвалась пуговица.
+A2;noun;;umbrella;umbrellas;;;;зонт;Take an **umbrella**, it might rain.;Возьми зонт, может пойти дождь.
+A2;noun;;sunglasses;pl;;;;солнечные очки;I left my **sunglasses** on the beach.;Я оставил солнечные очки на пляже.
+A2;noun;;handbag;handbags;;;;сумочка;Her phone is in her **handbag**.;Её телефон в сумочке.
+A2;noun;;illness;illnesses;;;;болезнь;He missed school because of a long **illness**.;Он пропустил школу из-за долгой болезни.
+A2;noun;;temperature;temperatures;;;;температура;The baby has a high **temperature**.;У малыша высокая температура.
+A2;noun;;headache;headaches;;;;головная боль;I have a terrible **headache** today.;У меня сегодня ужасно болит голова.
+A2;noun;;toothache;toothaches;;;;зубная боль;I've got **toothache**, so I'm going to the dentist.;У меня болит зуб, поэтому я иду к стоматологу.
+A2;noun;;stomach ache;stomach aches;;;;боль в животе;I ate too much and now I have a **stomach ache**.;Я переел, и теперь у меня болит живот.
+A2;noun;;cough;coughs;;;;кашель;Take this medicine for your **cough**.;Принимай это лекарство от кашля.
+A2;noun;;flu;-;;;;грипп;Half of my class is ill with **flu**.;Половина моего класса болеет гриппом.
+A2;noun;;pain;pains;;;;боль;I have a **pain** in my back.;У меня боль в спине.
+A2;noun;;medicine;medicines;;;;лекарство, медицина;Take this **medicine** three times a day.;Принимай это лекарство три раза в день.
+A2;noun;;pill;pills;;;;таблетка;Take one **pill** after every meal.;Принимай одну таблетку после каждого приёма пищи.
+A2;noun;;dentist;dentists;;;;стоматолог, зубной врач;I go to the **dentist** twice a year.;Я хожу к стоматологу два раза в год.
+A2;noun;;patient;patients;;;;пациент;The doctor has a lot of **patients** today.;У врача сегодня много пациентов.
+A2;noun;;ambulance;ambulances;;;;скорая помощь;Call an **ambulance**, quickly!;Вызовите скорую, быстрее!
+A2;noun;;appointment;appointments;;;;приём (у врача), встреча;I have a doctor's **appointment** at ten.;У меня приём у врача в десять.
+A2;noun;;accident;accidents;;;;несчастный случай, авария;He broke his leg in a car **accident**.;Он сломал ногу в автомобильной аварии.
+A2;noun;;blood;-;;;;кровь;There was **blood** on his shirt.;На его рубашке была кровь.
+A2;noun;;heart;hearts;;;;сердце;Running is good for your **heart**.;Бег полезен для сердца.
+A2;noun;;stomach;stomachs;;;;живот, желудок;My **stomach** hurts after lunch.;У меня болит живот после обеда.
+A2;noun;;neck;necks;;;;шея;Giraffes have very long **necks**.;У жирафов очень длинные шеи.
+A2;noun;;shoulder;shoulders;;;;плечо;She put her hand on my **shoulder**.;Она положила руку мне на плечо.
+A2;noun;;knee;knees;;;;колено;I fell and hurt my **knee**.;Я упал и ушиб колено.
+A2;noun;;toe;toes;;;;палец ноги;The water was so cold that I couldn't feel my **toes**.;Вода была такой холодной, что я не чувствовал пальцев ног.
+A2;noun;;skin;skins;;;;кожа;Use sun cream to protect your **skin**.;Пользуйся солнцезащитным кремом, чтобы защитить кожу.
+A2;noun;;bone;bones;;;;кость;The dog is eating a **bone**.;Собака грызёт кость.
+A2;noun;;brain;brains;;;;мозг;Reading is good exercise for your **brain**.;Чтение — хорошее упражнение для мозга.
+A2;noun;;health;-;;;;здоровье;Smoking is bad for your **health**.;Курение вредно для здоровья.
+A2;noun;;exercise;exercises;;;;упражнение, физкультура;Do the **exercises** on page ten.;Сделайте упражнения на странице десять.
+A2;noun;;passenger;passengers;;;;пассажир;There were fifty **passengers** on the bus.;В автобусе было пятьдесят пассажиров.
+A2;noun;;passport;passports;;;;паспорт (заграничный);Don't forget your **passport** at the airport.;Не забудь паспорт в аэропорту.
+A2;noun;;luggage;-;;;;багаж;How much **luggage** are you taking?;Сколько багажа ты берёшь?
+A2;noun;;suitcase;suitcases;;;;чемодан;My **suitcase** is too heavy to carry.;Мой чемодан слишком тяжёлый, чтобы его нести.
+A2;noun;;backpack;backpacks;;;;рюкзак;He travelled around Asia with just a **backpack**.;Он путешествовал по Азии только с рюкзаком.
+A2;noun;;flight;flights;;;;рейс, полёт;Our **flight** leaves at six in the morning.;Наш рейс вылетает в шесть утра.
+A2;noun;;journey;journeys;;;;поездка, путешествие;The **journey** to London takes two hours.;Поездка в Лондон занимает два часа.
+A2;noun;;tour;tours;;;;экскурсия, тур;We went on a **tour** of the old city.;Мы съездили на экскурсию по старому городу.
+A2;noun;;tourist;tourists;;;;турист;In summer the town is full of **tourists**.;Летом город полон туристов.
+A2;noun;;guide;guides;;;;гид, экскурсовод;Our **guide** spoke very good English.;Наш гид очень хорошо говорил по-английски.
+A2;noun;;guidebook;guidebooks;;;;путеводитель;I bought a **guidebook** about Rome.;Я купил путеводитель по Риму.
+A2;noun;;platform;platforms;;;;платформа, перрон;The train leaves from **platform** three.;Поезд отправляется с третьей платформы.
+A2;noun;;timetable;timetables;;;;расписание;Let's check the bus **timetable**.;Давай посмотрим расписание автобусов.
+A2;noun;;seat;seats;;;;место (сиденье);Is this **seat** free?;Это место свободно?
+A2;noun;;motorway;motorways;;;;автомагистраль, шоссе;There was a lot of traffic on the **motorway**.;На шоссе было много машин.
+A2;noun;;traffic;-;;;;дорожное движение, пробки;I was late because of the **traffic**.;Я опоздал из-за пробок.
+A2;noun;;traffic light;traffic lights;;;;светофор;Turn left at the **traffic lights**.;На светофоре поверните налево.
+A2;noun;;tunnel;tunnels;;;;тоннель;The train went through a long **tunnel**.;Поезд проехал через длинный тоннель.
+A2;noun;;corner;corners;;;;угол;The bank is on the **corner** of this street.;Банк находится на углу этой улицы.
+A2;noun;;petrol;-;;;;бензин;We need to stop and buy some **petrol**.;Нам нужно остановиться и заправиться бензином.
+A2;noun;;pilot;pilots;;;;пилот, лётчик;My uncle is a **pilot** and flies all over the world.;Мой дядя — пилот и летает по всему миру.
+A2;noun;;ferry;ferries;;;;паром;We took the **ferry** to the island.;Мы поплыли на остров на пароме.
+A2;noun;;port;ports;;;;порт;Hamburg is a big **port** in Germany.;Гамбург — крупный порт в Германии.
+A2;noun;;coach;coaches;;;;междугородний автобус, тренер;We travelled to Paris by **coach**.;Мы поехали в Париж на автобусе.
+A2;noun;;underground;-;;;;метро;It's quicker to take the **underground**.;На метро быстрее.
+A2;noun;;tram;trams;;;;трамвай;You can get to the centre by **tram**.;До центра можно доехать на трамвае.
+A2;noun;;helicopter;helicopters;;;;вертолёт;A **helicopter** flew over our house.;Над нашим домом пролетел вертолёт.
+A2;noun;;motorbike;motorbikes;;;;мотоцикл;He rides his **motorbike** to work.;Он ездит на работу на мотоцикле.
+A2;noun;;campsite;campsites;;;;кемпинг;The **campsite** is next to a beautiful lake.;Кемпинг находится рядом с красивым озером.
+A2;noun;;tent;tents;;;;палатка;We slept in a **tent** for three nights.;Мы три ночи спали в палатке.
+A2;noun;;camping;-;;;;кемпинг, отдых в палатках;We go **camping** every summer.;Каждое лето мы ездим в поход с палатками.
+A2;noun;;souvenir;souvenirs;;;;сувенир;I bought some **souvenirs** for my friends.;Я купил несколько сувениров для друзей.
+A2;noun;;sightseeing;-;;;;осмотр достопримечательностей;We did a lot of **sightseeing** in Rome.;В Риме мы осмотрели много достопримечательностей.
+A2;noun;;castle;castles;;;;замок;There is an old **castle** on the hill.;На холме стоит старый замок.
+A2;noun;;palace;palaces;;;;дворец;The queen lived in this **palace**.;Королева жила в этом дворце.
+A2;noun;;temple;temples;;;;храм;We visited an ancient **temple** in Greece.;Мы посетили древний храм в Греции.
+A2;noun;;view;views;;;;вид (пейзаж), мнение;The **view** from our hotel room is amazing.;Вид из нашего номера потрясающий.
+A2;noun;;reception;receptions;;;;стойка регистрации, ресепшн;Please leave your key at **reception**.;Пожалуйста, оставьте ключ на ресепшене.
+A2;noun;;receptionist;receptionists;;;;администратор, секретарь на ресепшене;The **receptionist** gave us our room key.;Администратор дал нам ключ от номера.
+A2;noun;;reservation;reservations;;;;бронирование;I have a **reservation** for two nights.;У меня бронь на две ночи.
+A2;noun;;subject;subjects;;;;предмет (учебный), тема;My favourite **subject** at school is history.;Мой любимый предмет в школе — история.
+A2;noun;;exam;exams;;;;экзамен;I have a maths **exam** tomorrow.;Завтра у меня экзамен по математике.
+A2;noun;;mark;marks;;;;оценка, отметка;She got a good **mark** in English.;Она получила хорошую оценку по английскому.
+A2;noun;;course;courses;;;;курс, курсы;I'm doing a Spanish **course** this year.;В этом году я хожу на курсы испанского.
+A2;noun;;classroom;classrooms;;;;класс (помещение);The **classroom** has big windows.;В классе большие окна.
+A2;noun;;dictionary;dictionaries;;;;словарь;Look up the word in a **dictionary**.;Посмотри это слово в словаре.
+A2;noun;;notebook;notebooks;;;;тетрадь, блокнот;Write the new words in your **notebook**.;Запишите новые слова в тетрадь.
+A2;noun;;rubber;rubbers;;;;ластик, резина;Can I borrow your **rubber**?;Можно одолжить твой ластик?
+A2;noun;;ruler;rulers;;;;линейка;Draw a line with a **ruler**.;Проведи линию по линейке.
+A2;noun;;pupil;pupils;;;;ученик, школьник;There are thirty **pupils** in my class.;В моём классе тридцать учеников.
+A2;noun;;university;universities;;;;университет;My sister studies at **university**.;Моя сестра учится в университете.
+A2;noun;;college;colleges;;;;колледж;He goes to **college** to study design.;Он учится в колледже на дизайнера.
+A2;noun;;maths;-;;;;математика;I'm not very good at **maths**.;Я не очень хорош в математике.
+A2;noun;;history;-;;;;история;We are learning about Roman **history**.;Мы изучаем историю Рима.
+A2;noun;;geography;-;;;;география;In **geography** we learn about different countries.;На географии мы изучаем разные страны.
+A2;noun;;science;sciences;;;;наука, естествознание;**Science** is my favourite subject.;Естествознание — мой любимый предмет.
+A2;noun;;biology;-;;;;биология;In **biology** we studied plants and animals.;На биологии мы изучали растения и животных.
+A2;noun;;chemistry;-;;;;химия;Our **chemistry** teacher is very strict.;Наш учитель химии очень строгий.
+A2;noun;;physics;-;;;;физика;**Physics** is difficult but interesting.;Физика трудная, но интересная.
+A2;noun;;art;-;;;;искусство, рисование;She is very good at **art**.;Она очень хорошо рисует.
+A2;noun;;grammar;-;;;;грамматика;English **grammar** is not too difficult.;Английская грамматика не слишком сложная.
+A2;noun;;vocabulary;-;;;;словарный запас, лексика;Reading helps you learn new **vocabulary**.;Чтение помогает учить новые слова.
+A2;noun;;sentence;sentences;;;;предложение (фраза);Write five **sentences** about your family.;Напишите пять предложений о своей семье.
+A2;noun;;mistake;mistakes;;;;ошибка;Everyone makes **mistakes**.;Все совершают ошибки.
+A2;noun;;rule;rules;;;;правило;You must follow the school **rules**.;Ты должен соблюдать школьные правила.
+A2;noun;;term;terms;;;;четверть, семестр;The summer **term** starts in April.;Летний семестр начинается в апреле.
+A2;noun;;project;projects;;;;проект;We are doing a **project** about the environment.;Мы делаем проект об окружающей среде.
+A2;noun;;company;companies;;;;компания, фирма;She works for a big computer **company**.;Она работает в большой компьютерной компании.
+A2;noun;;manager;managers;;;;менеджер, руководитель;I'd like to speak to the **manager**.;Я хотел бы поговорить с менеджером.
+A2;noun;;meeting;meetings;;;;встреча, собрание;I have an important **meeting** at nine.;У меня важная встреча в девять.
+A2;noun;;interview;interviews;;;;собеседование, интервью;He has a job **interview** on Monday.;У него в понедельник собеседование.
+A2;noun;;business;businesses;;;;бизнес, дело;My father has his own **business**.;У моего отца свой бизнес.
+A2;noun;;factory;factories;;;;завод, фабрика;Her mother works in a car **factory**.;Её мама работает на автомобильном заводе.
+A2;noun;;worker;workers;;;;работник, рабочий;The factory has two hundred **workers**.;На заводе двести рабочих.
+A2;noun;;secretary;secretaries;;;;секретарь;The **secretary** answered the phone.;Секретарь ответила на звонок.
+A2;noun;;engineer;engineers;;;;инженер;My brother wants to be an **engineer**.;Мой брат хочет стать инженером.
+A2;noun;;lawyer;lawyers;;;;юрист, адвокат;You should talk to a **lawyer** about this.;Тебе стоит поговорить об этом с юристом.
+A2;noun;;firefighter;firefighters;;;;пожарный;The **firefighters** arrived very quickly.;Пожарные приехали очень быстро.
+A2;noun;;farmer;farmers;;;;фермер;The **farmer** has cows and sheep.;У фермера есть коровы и овцы.
+A2;noun;;chef;chefs;;;;шеф-повар, повар;The **chef** in this restaurant is French.;Шеф-повар в этом ресторане — француз.
+A2;noun;;hairdresser;hairdressers;;;;парикмахер;I'm going to the **hairdresser** on Friday.;В пятницу я иду к парикмахеру.
+A2;noun;;mechanic;mechanics;;;;механик, автомеханик;The **mechanic** repaired my car.;Механик починил мою машину.
+A2;noun;;journalist;journalists;;;;журналист;She works as a **journalist** for a newspaper.;Она работает журналистом в газете.
+A2;noun;;businessman;businessmen;;;;бизнесмен;He is a successful **businessman**.;Он успешный бизнесмен.
+A2;noun;;scientist;scientists;;;;учёный;**Scientists** are studying the new virus.;Учёные изучают новый вирус.
+A2;noun;;artist;artists;;;;художник, артист;Picasso was a famous **artist**.;Пикассо был знаменитым художником.
+A2;noun;;actor;actors;;;;актёр;Who is your favourite **actor**?;Кто твой любимый актёр?
+A2;noun;;actress;actresses;;;;актриса;She became a famous **actress**.;Она стала знаменитой актрисой.
+A2;noun;;singer;singers;;;;певец, певица;The **singer** has a beautiful voice.;У певицы красивый голос.
+A2;noun;;musician;musicians;;;;музыкант;He is a talented **musician**.;Он талантливый музыкант.
+A2;noun;;writer;writers;;;;писатель;Tolstoy is a famous Russian **writer**.;Толстой — знаменитый русский писатель.
+A2;noun;;photographer;photographers;;;;фотограф;The **photographer** took pictures of the wedding.;Фотограф снимал свадьбу.
+A2;noun;;designer;designers;;;;дизайнер;She wants to become a fashion **designer**.;Она хочет стать модельером.
+A2;noun;;soldier;soldiers;;;;солдат;Her grandfather was a **soldier**.;Её дедушка был солдатом.
+A2;noun;;cleaner;cleaners;;;;уборщик, уборщица;The **cleaner** comes to the office every evening.;Уборщица приходит в офис каждый вечер.
+A2;noun;;builder;builders;;;;строитель;The **builders** are working on our new house.;Строители работают над нашим новым домом.
+A2;noun;;vet;vets;;;;ветеринар;We took our cat to the **vet**.;Мы отвезли кошку к ветеринару.
+A2;noun;;painting;paintings;;;;картина, живопись;There is a beautiful **painting** on the wall.;На стене висит красивая картина.
+A2;noun;;drawing;drawings;;;;рисунок;My daughter gave me a **drawing** of our cat.;Дочка подарила мне рисунок нашей кошки.
+A2;noun;;camera;cameras;;;;фотоаппарат, камера;I took this photo with my new **camera**.;Я сделал это фото на свой новый фотоаппарат.
+A2;noun;;guitar;guitars;;;;гитара;He plays the **guitar** in a band.;Он играет на гитаре в группе.
+A2;noun;;piano;pianos;;;;пианино, фортепиано;She has played the **piano** since she was six.;Она играет на пианино с шести лет.
+A2;noun;;drum;drums;;;;барабан;My brother plays the **drums** very loudly.;Мой брат очень громко играет на барабанах.
+A2;noun;;concert;concerts;;;;концерт;We went to a rock **concert** last night.;Вчера вечером мы ходили на рок-концерт.
+A2;noun;;band;bands;;;;группа (музыкальная);What's your favourite **band**?;Какая твоя любимая группа?
+A2;noun;;novel;novels;;;;роман (книга);I'm reading a **novel** by Agatha Christie.;Я читаю роман Агаты Кристи.
+A2;noun;;magazine;magazines;;;;журнал;She buys a fashion **magazine** every month.;Каждый месяц она покупает модный журнал.
+A2;noun;;chess;-;;;;шахматы;Do you know how to play **chess**?;Ты умеешь играть в шахматы?
+A2;noun;;puzzle;puzzles;;;;головоломка, пазл;The children are doing a **puzzle**.;Дети собирают пазл.
+A2;noun;;collection;collections;;;;коллекция;He has a big **collection** of old coins.;У него большая коллекция старинных монет.
+A2;noun;;theatre;theatres;;;;театр;We are going to the **theatre** on Saturday.;В субботу мы идём в театр.
+A2;noun;;programme;programmes;;;;программа, передача;There's a good **programme** on TV tonight.;Сегодня вечером по телевизору хорошая передача.
+A2;noun;;cartoon;cartoons;;;;мультфильм, карикатура;The kids are watching **cartoons**.;Дети смотрят мультфильмы.
+A2;noun;;toy;toys;;;;игрушка;Put your **toys** away, please.;Убери, пожалуйста, свои игрушки.
+A2;noun;;team;teams;;;;команда;Which football **team** do you support?;За какую футбольную команду ты болеешь?
+A2;noun;;player;players;;;;игрок;He is the best **player** in the team.;Он лучший игрок в команде.
+A2;noun;;match;matches;;;;матч, спичка;We watched the football **match** on TV.;Мы смотрели футбольный матч по телевизору.
+A2;noun;;goal;goals;;;;гол, цель;He scored a great **goal**.;Он забил отличный гол.
+A2;noun;;race;races;;;;гонка, забег;She won the hundred-metre **race**.;Она выиграла забег на сто метров.
+A2;noun;;swimming;-;;;;плавание;**Swimming** is good exercise.;Плавание — хорошая физическая нагрузка.
+A2;noun;;tennis;-;;;;теннис;Let's play **tennis** on Sunday.;Давай сыграем в теннис в воскресенье.
+A2;noun;;basketball;-;;;;баскетбол;He is tall and good at **basketball**.;Он высокий и хорошо играет в баскетбол.
+A2;noun;;skiing;-;;;;катание на лыжах;We go **skiing** in the mountains every winter.;Каждую зиму мы катаемся на лыжах в горах.
+A2;noun;;gym;gyms;;;;спортзал;I go to the **gym** three times a week.;Я хожу в спортзал три раза в неделю.
+A2;noun;;stadium;stadiums;;;;стадион;The **stadium** was full of fans.;Стадион был полон болельщиков.
+A2;noun;;winner;winners;;;;победитель;The **winner** gets a prize of a thousand euros.;Победитель получает приз в тысячу евро.
+A2;noun;;prize;prizes;;;;приз, премия;She won first **prize** in the competition.;Она заняла первое место в конкурсе.
+A2;noun;;fan;fans;;;;болельщик, фанат, вентилятор;He is a big **fan** of this band.;Он большой фанат этой группы.
+A2;noun;;hill;hills;;;;холм;Our house is at the top of the **hill**.;Наш дом стоит на вершине холма.
+A2;noun;;field;fields;;;;поле;There are cows in the **field**.;В поле пасутся коровы.
+A2;noun;;cloud;clouds;;;;облако, туча;There isn't a **cloud** in the sky.;На небе ни облачка.
+A2;noun;;ocean;oceans;;;;океан;The Pacific is the largest **ocean**.;Тихий океан — самый большой океан.
+A2;noun;;desert;deserts;;;;пустыня;It hardly ever rains in the **desert**.;В пустыне почти никогда не бывает дождя.
+A2;noun;;coast;coasts;;;;побережье;We spent a week on the south **coast**.;Мы провели неделю на южном побережье.
+A2;noun;;sand;-;;;;песок;The children are playing in the **sand**.;Дети играют в песке.
+A2;noun;;stone;stones;;;;камень;He threw a **stone** into the river.;Он бросил камень в реку.
+A2;noun;;grass;-;;;;трава;Please don't walk on the **grass**.;Пожалуйста, не ходите по траве.
+A2;noun;;leaf;leaves;;;;лист (дерева);In autumn the **leaves** turn yellow.;Осенью листья желтеют.
+A2;noun;;insect;insects;;;;насекомое;There are many **insects** in the garden.;В саду много насекомых.
+A2;noun;;butterfly;butterflies;;;;бабочка;A **butterfly** landed on the flower.;На цветок села бабочка.
+A2;noun;;snake;snakes;;;;змея;Are you afraid of **snakes**?;Ты боишься змей?
+A2;noun;;elephant;elephants;;;;слон;An **elephant** can weigh six tonnes.;Слон может весить шесть тонн.
+A2;noun;;monkey;monkeys;;;;обезьяна;The **monkeys** at the zoo are very funny.;Обезьяны в зоопарке очень забавные.
+A2;noun;;sheep;sheep;;;;овца;The farmer has a hundred **sheep**.;У фермера сто овец.
+A2;noun;;storm;storms;;;;гроза, буря, шторм;A big **storm** is coming tonight.;Сегодня ночью надвигается сильная буря.
+A2;noun;;ice;-;;;;лёд;Would you like **ice** in your drink?;Вам положить лёд в напиток?
+A2;noun;;environment;environments;;;;окружающая среда;We must protect the **environment**.;Мы должны защищать окружающую среду.
+A2;noun;;bus stop;bus stops;;;;автобусная остановка;I'll wait for you at the **bus stop**.;Я буду ждать тебя на автобусной остановке.
+A2;noun;;car park;car parks;;;;автостоянка, парковка;The **car park** is behind the supermarket.;Парковка находится за супермаркетом.
+A2;noun;;police station;police stations;;;;полицейский участок;Where is the nearest **police station**?;Где ближайший полицейский участок?
+A2;noun;;gallery;galleries;;;;галерея;There is a new exhibition at the art **gallery**.;В картинной галерее новая выставка.
+A2;noun;;entrance;entrances;;;;вход;The **entrance** is on the left.;Вход слева.
+A2;noun;;exit;exits;;;;выход;Where is the **exit**, please?;Подскажите, пожалуйста, где выход?
+A2;noun;;sign;signs;;;;знак, вывеска;Follow the **signs** to the city centre.;Следуйте указателям к центру города.
+A2;noun;;website;websites;;;;сайт, веб-сайт;You can book tickets on our **website**.;Билеты можно забронировать на нашем сайте.
+A2;noun;;laptop;laptops;;;;ноутбук;I do my homework on my **laptop**.;Я делаю домашнее задание на ноутбуке.
+A2;noun;;keyboard;keyboards;;;;клавиатура;This **keyboard** is too small for me.;Эта клавиатура слишком маленькая для меня.
+A2;noun;;screen;screens;;;;экран;The phone has a large **screen**.;У этого телефона большой экран.
+A2;noun;;printer;printers;;;;принтер;The **printer** is out of paper.;В принтере закончилась бумага.
+A2;noun;;battery;batteries;;;;батарейка, аккумулятор;My phone **battery** is almost dead.;Батарея моего телефона почти села.
+A2;noun;;password;passwords;;;;пароль;Don't tell anyone your **password**.;Никому не говори свой пароль.
+A2;noun;;message;messages;;;;сообщение;I sent you a **message** this morning.;Я отправил тебе сообщение сегодня утром.
+A2;noun;;app;apps;;;;приложение;I use this **app** to learn English.;Я пользуюсь этим приложением, чтобы учить английский.
+A2;noun;;video;videos;;;;видео;He posted a funny **video** online.;Он выложил в сеть смешное видео.
+A2;noun;;television;televisions;;;;телевизор, телевидение;We don't watch much **television**.;Мы мало смотрим телевизор.
+A2;noun;;radio;radios;;;;радио;I listen to the **radio** in the car.;Я слушаю радио в машине.
+A2;noun;;headphones;pl;;;;наушники;He listens to music with **headphones**.;Он слушает музыку в наушниках.
+A2;noun;;feeling;feelings;;;;чувство, ощущение;I have a **feeling** that something is wrong.;У меня такое чувство, что что-то не так.
+A2;noun;;fear;fears;;;;страх;She has a **fear** of dogs.;Она боится собак.
+A2;noun;;surprise;surprises;;;;сюрприз, удивление;The party was a big **surprise** for her.;Вечеринка стала для неё большим сюрпризом.
+A2;noun;;luck;-;;;;удача, везение;Good **luck** with your exam!;Удачи на экзамене!
+A2;noun;;wedding;weddings;;;;свадьба;We are going to my cousin's **wedding**.;Мы идём на свадьбу моего двоюродного брата.
+A2;noun;;festival;festivals;;;;фестиваль, праздник;There is a music **festival** in the park this weekend.;В эти выходные в парке музыкальный фестиваль.
+A2;noun;;invitation;invitations;;;;приглашение;Thank you for the **invitation** to your party.;Спасибо за приглашение на твою вечеринку.
+A2;noun;;guest;guests;;;;гость;We have fifty **guests** at the wedding.;У нас на свадьбе пятьдесят гостей.
+A2;noun;;competition;competitions;;;;соревнование, конкурс;She won a dance **competition**.;Она выиграла танцевальный конкурс.
+A2;noun;;exhibition;exhibitions;;;;выставка;We saw an **exhibition** of modern art.;Мы видели выставку современного искусства.
+A2;noun;;picnic;picnics;;;;пикник;Let's have a **picnic** in the park.;Давай устроим пикник в парке.
+A2;noun;;barbecue;barbecues;;;;барбекю, шашлык;We had a **barbecue** in the garden.;Мы жарили барбекю в саду.
+A2;noun;;fireworks;pl;;;;фейерверк;We watched the **fireworks** at midnight.;В полночь мы смотрели фейерверк.
+A2;noun;;balloon;balloons;;;;воздушный шар;The children played with red **balloons**.;Дети играли с красными воздушными шариками.
+A2;noun;;news;-;;;;новости;Have you heard the **news**?;Ты слышал новости?
+A2;noun;;information;-;;;;информация;Can you give me some **information** about the tour?;Можете дать мне информацию об экскурсии?
+A2;noun;;advice;-;;;;совет;Can I ask you for some **advice**?;Можно спросить у тебя совета?
