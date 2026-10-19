@@ -24,6 +24,7 @@ TEXTS = {
     },
     "learn_de": {"ru": "🇩🇪 Немецкий", "en": "🇩🇪 German", "fr": "🇩🇪 Allemand", "es": "🇩🇪 Alemán"},
     "learn_en": {"ru": "🇬🇧 Английский", "en": "🇬🇧 English", "fr": "🇬🇧 Anglais", "es": "🇬🇧 Inglés"},
+    "learn_es": {"ru": "🇪🇸 Испанский", "en": "🇪🇸 Spanish", "fr": "🇪🇸 Espagnol", "es": "🇪🇸 Español"},
     "ask_learn": {
         "ru": "Какой язык будем изучать?",
         "en": "Which language do you want to learn?",
@@ -51,6 +52,38 @@ TEXTS = {
               "facultatif. Les majuscules et l'apostrophe ne comptent pas (dont = don't).",
         "es": "en inglés: los sustantivos sin artículo (a, the), los verbos en forma base, «to» es "
               "opcional. Las mayúsculas y el apóstrofo no importan (dont = don't).",
+    },
+    "answer_rules_es": {
+        "ru": "по-испански: существительные без артикля, глаголы в инфинитиве. Регистр и ударения "
+              "не важны: можно писать a, e, i, o, u, n вместо á, é, í, ó, ú, ñ.",
+        "en": "in Spanish: nouns without the article, verbs in the infinitive. Case and accents "
+              "don't matter: you can type a, e, i, o, u, n instead of á, é, í, ó, ú, ñ.",
+        "fr": "en espagnol : les noms sans article, les verbes à l'infinitif. Les majuscules et "
+              "les accents ne comptent pas : tu peux écrire a, e, i, o, u, n au lieu de á, é, í, ó, ú, ñ.",
+        "es": "en español: los sustantivos sin artículo, los verbos en infinitivo. Las mayúsculas "
+              "y las tildes no importan: puedes escribir a, e, i, o, u, n en lugar de á, é, í, ó, ú, ñ.",
+    },
+    "card_rules_es": {
+        "ru": "🗂 <b>Карточка слова</b>: часть речи и уровень; у существительных — артикль el или "
+              "la (множественное число образуется по правилу -s / -es, отмечены только слова без "
+              "него или только во мн. ч.); у глаголов — форма yo в настоящем времени (если она "
+              "неправильная), претерит и причастие (tener (yo tengo) — tuve — tenido); 1–3 перевода "
+              "и пример с переводом.",
+        "en": "🗂 <b>Word card</b>: part of speech and level; for nouns, the article el or la "
+              "(plurals follow the -s / -es rule, so only nouns without a plural or plural-only "
+              "ones are marked); for verbs, the irregular “yo” present form (if any), the preterite "
+              "and the participle (tener (yo tengo) — tuve — tenido); 1–3 translations and an "
+              "example with its translation.",
+        "fr": "🗂 <b>Fiche du mot</b> : nature et niveau ; pour les noms, l'article el ou la (le "
+              "pluriel suit la règle -s / -es, seuls les noms sans pluriel ou toujours au pluriel "
+              "sont signalés) ; pour les verbes, la forme « yo » du présent si elle est irrégulière, "
+              "le passé simple et le participe (tener (yo tengo) — tuve — tenido) ; 1 à 3 "
+              "traductions et un exemple traduit.",
+        "es": "🗂 <b>Ficha de la palabra</b>: categoría y nivel; en los sustantivos, el artículo el "
+              "o la (el plural sigue la regla -s / -es; solo se marcan los que no tienen plural o "
+              "solo se usan en plural); en los verbos, la forma «yo» del presente si es irregular, "
+              "el pretérito indefinido y el participio (tener (yo tengo) — tuve — tenido); "
+              "1–3 traducciones y un ejemplo traducido.",
     },
     "card_rules_de": {
         "ru": "🗂 <b>Карточка слова</b>: часть речи и уровень; у существительных — артикль и "

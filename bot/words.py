@@ -2,6 +2,7 @@ import csv
 import html
 import re
 import sqlite3
+import unicodedata
 
 from . import db
 from .config import DATA_DIR, LEVELS
@@ -64,8 +65,9 @@ def format_card(w: sqlite3.Row, lang: str) -> str:
     )
 
 
-# Что можно не вводить в ответе: немецкие артикли и «sich», английские артикли и «to»
-_OPTIONAL_PREFIX = {"de": r"^(der|die|das|sich) ", "en": r"^(the|an|a|to) "}
+# Что можно не вводить в ответе: артикли, немецкое «sich», английское «to»
+_OPTIONAL_PREFIX = {"de": r"^(der|die|das|sich) ", "en": r"^(the|an|a|to) ",
+                    "es": r"^(el|la|los|las|un|una) "}
 
 
 def _normalize(text: str, lang: str) -> str:
@@ -73,6 +75,9 @@ def _normalize(text: str, lang: str) -> str:
     if lang == "de":
         for src, dst in (("ä", "ae"), ("ö", "oe"), ("ü", "ue"), ("ß", "ss")):
             text = text.replace(src, dst)
+    elif lang == "es":
+        # Ударения и тильда не обязательны: «nino» = «niño»
+        text = "".join(c for c in unicodedata.normalize("NFD", text) if not unicodedata.combining(c))
     # Знаки препинания и апострофы не важны: «dont» = «don't»
     text = re.sub(r"[^\w\s-]", "", text)
     text = re.sub(r"\s+", " ", text).strip()

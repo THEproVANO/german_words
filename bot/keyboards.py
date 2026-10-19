@@ -1,6 +1,7 @@
 from aiogram.types import (InlineKeyboardButton, InlineKeyboardMarkup, KeyboardButton,
                            ReplyKeyboardMarkup)
 
+from . import db
 from .config import (DAY_END_OPTIONS, DAY_START_OPTIONS, INTERVAL_OPTIONS, LANGUAGES, TIMEZONES,
                      WORDS_PER_DAY_OPTIONS)
 from .i18n import UI_LANGUAGES, city, t
@@ -24,8 +25,10 @@ ui_languages = InlineKeyboardMarkup(inline_keyboard=[
 
 
 def languages(lang: str) -> InlineKeyboardMarkup:
+    """Только языки, для которых загружен словарь."""
     return InlineKeyboardMarkup(inline_keyboard=[
-        [_button(t(lang, f"learn_{code}"), f"lang:{code}")] for code in LANGUAGES
+        [_button(t(lang, f"learn_{code}"), f"lang:{code}")]
+        for code in LANGUAGES if db.available_levels(code)
     ])
 
 

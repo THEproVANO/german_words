@@ -13,7 +13,7 @@ DB_PATH = os.getenv("DB_PATH", str(ROOT / "bot.db"))
 DATA_DIR = ROOT / "data"
 
 LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
-LANGUAGES = ["de", "en"]
+LANGUAGES = ["de", "en", "es"]
 
 # Расписание слов по умолчанию: по одному слову каждые INTERVAL минут с DAY_START до DAY_END,
 # но не больше WORDS_PER_DAY в день. Пользователь может изменить это в профиле
