@@ -11,7 +11,9 @@ router = Router()
 
 
 def rules_text(user) -> str:
-    return t(user["ui_lang"], "rules", schedule=service.schedule_text(user), quiz_hour=QUIZ_HOUR,
+    lang = user["ui_lang"]
+    return t(lang, "rules", schedule=service.schedule_text(user), quiz_hour=QUIZ_HOUR,
+             answer_rules=t(lang, f"answer_rules_{user['lang']}"),
              daily=DAILY_QUIZ_SIZE, weekly=WEEKLY_QUIZ_SIZE)
 
 
@@ -69,11 +71,12 @@ async def choose_language(call: CallbackQuery) -> None:
     lang = call.data.split(":")[1]
     ui = db.get_user(call.from_user.id)["ui_lang"]
     if lang not in LANGUAGES:
-        await call.answer(t(ui, "en_later"), show_alert=True)
+        await call.answer()
         return
+    # При смене изучаемого языка из профиля уровень выбирается заново: у языков разный набор уровней
     db.update_user(call.from_user.id, lang=lang)
     await call.message.edit_text(t(ui, "lang_chosen", language=t(ui, f"learn_{lang}")),
-                                 reply_markup=keyboards.levels)
+                                 reply_markup=keyboards.levels(db.available_levels(lang)))
     await call.answer()
 
 
@@ -212,7 +215,8 @@ async def profile_action(call: CallbackQuery) -> None:
         await call.message.answer(CHOOSE_UI, reply_markup=keyboards.ui_languages)
     else:
         text, markup = {
-            "level": ("ask_level", keyboards.levels),
+            "level": ("ask_level", keyboards.levels(db.available_levels(user["lang"]))),
+            "learn": ("ask_learn", keyboards.languages(lang)),
             "tz": ("ask_tz", keyboards.timezones(lang)),
             "interval": ("ask_interval", keyboards.intervals(lang)),
             "limit": ("ask_limit", keyboards.words_per_day),

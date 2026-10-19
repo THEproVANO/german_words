@@ -1,7 +1,7 @@
 from aiogram.types import (InlineKeyboardButton, InlineKeyboardMarkup, KeyboardButton,
                            ReplyKeyboardMarkup)
 
-from .config import (DAY_END_OPTIONS, DAY_START_OPTIONS, INTERVAL_OPTIONS, LEVELS, TIMEZONES,
+from .config import (DAY_END_OPTIONS, DAY_START_OPTIONS, INTERVAL_OPTIONS, LANGUAGES, TIMEZONES,
                      WORDS_PER_DAY_OPTIONS)
 from .i18n import UI_LANGUAGES, city, t
 
@@ -25,14 +25,16 @@ ui_languages = InlineKeyboardMarkup(inline_keyboard=[
 
 def languages(lang: str) -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(inline_keyboard=[
-        [_button(t(lang, "learn_de"), "lang:de")],
-        [_button(t(lang, "learn_en_soon"), "lang:en")],
+        [_button(t(lang, f"learn_{code}"), f"lang:{code}")] for code in LANGUAGES
     ])
 
 
-levels = InlineKeyboardMarkup(inline_keyboard=[
-    [_button(lvl, f"level:{lvl}") for lvl in LEVELS[i:i + 3]] for i in range(0, len(LEVELS), 3)
-])
+def levels(available: list[str]) -> InlineKeyboardMarkup:
+    """Кнопки уровней по три в ряд — только те уровни, где есть слова."""
+    return InlineKeyboardMarkup(inline_keyboard=[
+        [_button(lvl, f"level:{lvl}") for lvl in available[i:i + 3]]
+        for i in range(0, len(available), 3)
+    ])
 
 
 def scope(lang: str, level: str) -> InlineKeyboardMarkup:
@@ -76,7 +78,8 @@ def profile(lang: str, paused: bool) -> InlineKeyboardMarkup:
         [_button(t(lang, "btn_hours"), "profile:hours"),
          _button(t(lang, "btn_tz"), "profile:tz")],
         [_button(t(lang, "btn_level"), "profile:level"),
-         _button(t(lang, "btn_ui"), "profile:ui")],
+         _button(t(lang, "btn_learn"), "profile:learn")],
+        [_button(t(lang, "btn_ui"), "profile:ui")],
         [_button(t(lang, "btn_help"), "profile:help")],
         [_button(t(lang, "btn_resume" if paused else "btn_pause"), "profile:pause")],
     ])

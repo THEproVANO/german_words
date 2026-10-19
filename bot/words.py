@@ -45,7 +45,9 @@ def format_card(w: sqlite3.Row, lang: str) -> str:
         elif w["plural"] == "pl":
             head += f", <i>{t(lang, 'plural_only')}</i>"
         elif w["plural"]:
-            head += f", die {e(w['plural'])}"
+            # В немецком множественное число всегда с артиклем die
+            plural = f"die {w['plural']}" if w["lang"] == "de" else w["plural"]
+            head += f", {e(plural)}"
     elif w["pos"] == "verb":
         if w["praesens"]:
             head += f" ({e(w['praesens'])})"
@@ -62,24 +64,28 @@ def format_card(w: sqlite3.Row, lang: str) -> str:
     )
 
 
-def _normalize(text: str) -> str:
+# Что можно не вводить в ответе: немецкие артикли и «sich», английские артикли и «to»
+_OPTIONAL_PREFIX = {"de": r"^(der|die|das|sich) ", "en": r"^(the|an|a|to) "}
+
+
+def _normalize(text: str, lang: str) -> str:
     text = text.lower().strip()
-    for src, dst in (("ä", "ae"), ("ö", "oe"), ("ü", "ue"), ("ß", "ss")):
-        text = text.replace(src, dst)
+    if lang == "de":
+        for src, dst in (("ä", "ae"), ("ö", "oe"), ("ü", "ue"), ("ß", "ss")):
+            text = text.replace(src, dst)
+    # Знаки препинания и апострофы не важны: «dont» = «don't»
     text = re.sub(r"[^\w\s-]", "", text)
     text = re.sub(r"\s+", " ", text).strip()
-    text = re.sub(r"^(der|die|das) ", "", text)
-    text = re.sub(r"^sich ", "", text)
-    return text
+    return re.sub(_OPTIONAL_PREFIX.get(lang, "^$"), "", text)
 
 
 def is_correct(answer: str, w: sqlite3.Row) -> bool:
-    return _normalize(answer) == _normalize(w["word"])
+    return _normalize(answer, w["lang"]) == _normalize(w["word"], w["lang"])
 
 
 def answer_text(w: sqlite3.Row) -> str:
-    """Слово без артикля и без «sich» — то, что пользователь должен ввести."""
-    return re.sub(r"^sich ", "", w["word"])
+    """Слово без необязательной части («sich», «to») — то, что пользователь должен ввести."""
+    return re.sub(r"^(sich|to) ", "", w["word"])
 
 
 def hint(w: sqlite3.Row, long: bool = False) -> str:

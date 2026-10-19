@@ -93,7 +93,8 @@ async def start_quiz(bot: Bot, user: sqlite3.Row, kind: str, d: date, word_ids: 
         return False
     lang = user["ui_lang"]
     intro = t(lang, "quiz_weekly" if weekly else "quiz_daily", n=len(word_ids))
-    await bot.send_message(user["id"], f"{intro}\n\n{t(lang, 'quiz_rules')}")
+    rules = t(lang, "quiz_rules", answer_rules=t(lang, f"answer_rules_{user['lang']}"))
+    await bot.send_message(user["id"], f"{intro}\n\n{rules}")
     await send_question(bot, user, quiz_id)
     return True
 

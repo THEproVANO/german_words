@@ -141,6 +141,12 @@ def upsert_words(rows: list[dict]) -> None:
     conn.commit()
 
 
+def available_levels(lang: str) -> list[str]:
+    """Уровни, для которых в словаре изучаемого языка есть слова."""
+    present = {r[0] for r in conn.execute("SELECT DISTINCT level FROM words WHERE lang = ?", (lang,))}
+    return [lvl for lvl in LEVELS if lvl in present]
+
+
 def get_word(word_id: int) -> sqlite3.Row:
     return conn.execute("SELECT * FROM words WHERE id = ?", (word_id,)).fetchone()
 

@@ -23,17 +23,31 @@ TEXTS = {
         "es": "Idioma del bot: {name} ✅",
     },
     "learn_de": {"ru": "🇩🇪 Немецкий", "en": "🇩🇪 German", "fr": "🇩🇪 Allemand", "es": "🇩🇪 Alemán"},
-    "learn_en_soon": {
-        "ru": "🇬🇧 Английский (скоро)",
-        "en": "🇬🇧 English (coming soon)",
-        "fr": "🇬🇧 Anglais (bientôt)",
-        "es": "🇬🇧 Inglés (próximamente)",
+    "learn_en": {"ru": "🇬🇧 Английский", "en": "🇬🇧 English", "fr": "🇬🇧 Anglais", "es": "🇬🇧 Inglés"},
+    "ask_learn": {
+        "ru": "Какой язык будем изучать?",
+        "en": "Which language do you want to learn?",
+        "fr": "Quelle langue veux-tu apprendre ?",
+        "es": "¿Qué idioma quieres aprender?",
     },
-    "en_later": {
-        "ru": "Английский появится позже 🙂",
-        "en": "English is coming later 🙂",
-        "fr": "L'anglais arrivera plus tard 🙂",
-        "es": "El inglés llegará más tarde 🙂",
+    "btn_learn": {"ru": "🌍 Изучаемый язык", "en": "🌍 Language to learn",
+                  "fr": "🌍 Langue étudiée", "es": "🌍 Idioma que aprendes"},
+    "answer_rules_de": {
+        "ru": "по-немецки: существительные без артикля, глаголы в инфинитиве. Регистр не важен, "
+              "вместо ä, ö, ü, ß можно писать ae, oe, ue, ss.",
+        "en": "in German: nouns without the article, verbs in the infinitive. Case doesn't matter, "
+              "and you can type ae, oe, ue, ss instead of ä, ö, ü, ß.",
+        "fr": "en allemand : les noms sans article, les verbes à l'infinitif. Les majuscules ne "
+              "comptent pas, et tu peux écrire ae, oe, ue, ss au lieu de ä, ö, ü, ß.",
+        "es": "en alemán: los sustantivos sin artículo, los verbos en infinitivo. Las mayúsculas "
+              "no importan, y puedes escribir ae, oe, ue, ss en lugar de ä, ö, ü, ß.",
+    },
+    "answer_rules_en": {
+        "ru": "по-английски: глаголы в начальной форме, «to» писать не обязательно. Регистр не важен.",
+        "en": "in English: verbs in the base form, “to” is optional. Case doesn't matter.",
+        "fr": "en anglais : les verbes à la forme de base, « to » est facultatif. Les majuscules ne "
+              "comptent pas.",
+        "es": "en inglés: los verbos en forma base, «to» es opcional. Las mayúsculas no importan.",
     },
     "lang_chosen": {
         "ru": "Язык: {language}\n\nВыбери свой уровень:",
@@ -216,14 +230,10 @@ TEXTS = {
         "es": "🏆 <b>Test semanal</b>: {n} palabras de esta semana.",
     },
     "quiz_rules": {
-        "ru": "Напиши слово по-немецки: существительные — без артикля, глаголы — в инфинитиве.\n"
-              "Пока тест не пройден, новые слова не приходят.",
-        "en": "Type the word in German: nouns without the article, verbs in the infinitive.\n"
-              "No new words until you pass the quiz.",
-        "fr": "Écris le mot en allemand : les noms sans article, les verbes à l'infinitif.\n"
-              "Pas de nouveaux mots tant que le test n'est pas réussi.",
-        "es": "Escribe la palabra en alemán: los sustantivos sin artículo, "
-              "los verbos en infinitivo.\nNo llegarán palabras nuevas hasta que termines el test.",
+        "ru": "Напиши слово {answer_rules}\nПока тест не пройден, новые слова не приходят.",
+        "en": "Type the word {answer_rules}\nNo new words until you pass the quiz.",
+        "fr": "Écris le mot {answer_rules}\nPas de nouveaux mots tant que le test n'est pas réussi.",
+        "es": "Escribe la palabra {answer_rules}\nNo llegarán palabras nuevas hasta que termines el test.",
     },
     "question": {
         "ru": "Вопрос {n}/{total}\n🇷🇺 <b>{tr}</b> ({pos})\nНачинается на: <code>{hint}</code>",
@@ -377,16 +387,14 @@ TEXTS = {
               "➕ <b>«Ещё слово»</b> присылает новое слово вне очереди, в дневной лимит оно "
               "не входит.\n\n"
               "📝 <b>Тест дня</b> в {quiz_hour}:00: до {daily} случайных слов из полученных "
-              "за день. Бот пишет перевод, а ты вводишь слово по-немецки: существительные без "
-              "артикля, глаголы в инфинитиве. Регистр не важен, вместо ä, ö, ü, ß можно писать "
-              "ae, oe, ue, ss. После второй ошибки бот покажет подсказку, после третьей можно "
+              "за день. Бот пишет перевод, а ты вводишь слово {answer_rules} После второй ошибки бот покажет подсказку, после третьей можно "
               "посмотреть ответ, но тогда слово спросят ещё раз в конце теста.\n\n"
               "🏆 <b>Недельный тест</b> по воскресеньям сразу после теста дня: до {weekly} "
               "слов за неделю.\n\n"
               "⛔ Пока тест не пройден, новые слова не приходят. Расписание продолжится сразу "
               "после прохождения теста.\n\n"
               "⚙️ В профиле можно изменить интервал, количество слов в день, время рассылки, "
-              "часовой пояс, уровень и язык бота, а также поставить бота на паузу.",
+              "часовой пояс, уровень, изучаемый язык и язык бота, а также поставить бота на паузу.",
         "en": "ℹ️ <b>How the bot works</b>\n\n"
               "📩 <b>New words</b> arrive one at a time: {schedule}. Words are picked at random "
               "from your level (and the levels below, if you chose so), and they never repeat. Every word you "
@@ -394,9 +402,8 @@ TEXTS = {
               "➕ <b>“One more word”</b> sends an extra word right away; it doesn't count toward "
               "the daily limit.\n\n"
               "📝 <b>Daily quiz</b> at {quiz_hour}:00: up to {daily} random words from the ones "
-              "you got that day. The bot shows the translation and you type the word in German: "
-              "nouns without the article, verbs in the infinitive. Case doesn't matter, and you "
-              "can type ae, oe, ue, ss instead of ä, ö, ü, ß. After the second mistake you get "
+              "you got that day. The bot shows the translation and you type the word {answer_rules} "
+              "After the second mistake you get "
               "a hint; after the third you can see the answer, but then the word will be asked "
               "again at the end of the quiz.\n\n"
               "🏆 <b>Weekly quiz</b> on Sundays right after the daily quiz: up to {weekly} words "
@@ -404,7 +411,7 @@ TEXTS = {
               "⛔ No new words arrive until you pass the quiz. The schedule resumes right after "
               "you pass it.\n\n"
               "⚙️ In your profile you can change the interval, words per day, delivery hours, "
-              "time zone, level and bot language, or pause the bot.\n\n"
+              "time zone, level, language to learn and bot language, or pause the bot.\n\n"
               "🇷🇺 For now, word translations are in Russian only.",
         "fr": "ℹ️ <b>Comment fonctionne le bot</b>\n\n"
               "📩 <b>Les nouveaux mots</b> arrivent un par un : {schedule}. Ils sont choisis au "
@@ -413,9 +420,8 @@ TEXTS = {
               "➕ <b>« Encore un mot »</b> envoie tout de suite un mot supplémentaire ; il ne "
               "compte pas dans la limite quotidienne.\n\n"
               "📝 <b>Test du jour</b> à {quiz_hour}h : jusqu'à {daily} mots au hasard parmi ceux "
-              "reçus dans la journée. Le bot affiche la traduction et tu écris le mot en "
-              "allemand : les noms sans article, les verbes à l'infinitif. Les majuscules ne "
-              "comptent pas, et tu peux écrire ae, oe, ue, ss au lieu de ä, ö, ü, ß. Après la "
+              "reçus dans la journée. Le bot affiche la traduction et tu écris le mot "
+              "{answer_rules} Après la "
               "deuxième erreur, tu reçois un indice ; après la troisième, tu peux voir la "
               "réponse, mais le mot sera alors redemandé à la fin du test.\n\n"
               "🏆 <b>Test de la semaine</b> le dimanche, juste après le test du jour : jusqu'à "
@@ -423,7 +429,7 @@ TEXTS = {
               "⛔ Tant que le test n'est pas réussi, aucun nouveau mot n'arrive. Le programme "
               "reprend dès que tu l'as réussi.\n\n"
               "⚙️ Dans ton profil, tu peux changer l'intervalle, le nombre de mots par jour, "
-              "les heures d'envoi, le fuseau horaire, le niveau et la langue du bot, ou mettre "
+              "les heures d'envoi, le fuseau horaire, le niveau, la langue étudiée et la langue du bot, ou mettre "
               "le bot en pause.\n\n"
               "🇷🇺 Pour l'instant, les traductions des mots sont uniquement en russe.",
         "es": "ℹ️ <b>Cómo funciona el bot</b>\n\n"
@@ -433,9 +439,8 @@ TEXTS = {
               "➕ <b>«Otra palabra»</b> envía una palabra extra al momento; no cuenta para el "
               "límite diario.\n\n"
               "📝 <b>Test del día</b> a las {quiz_hour}:00: hasta {daily} palabras al azar de las "
-              "que recibiste ese día. El bot muestra la traducción y tú escribes la palabra en "
-              "alemán: los sustantivos sin artículo, los verbos en infinitivo. Las mayúsculas no "
-              "importan, y puedes escribir ae, oe, ue, ss en lugar de ä, ö, ü, ß. Tras el segundo "
+              "que recibiste ese día. El bot muestra la traducción y tú escribes la palabra "
+              "{answer_rules} Tras el segundo "
               "error recibes una pista; tras el tercero puedes ver la respuesta, pero entonces "
               "la palabra se volverá a preguntar al final del test.\n\n"
               "🏆 <b>Test semanal</b> los domingos, justo después del test del día: hasta "
@@ -443,7 +448,7 @@ TEXTS = {
               "⛔ Hasta que no superes el test, no llegarán palabras nuevas. El horario continúa "
               "en cuanto lo superes.\n\n"
               "⚙️ En tu perfil puedes cambiar el intervalo, las palabras al día, el horario de "
-              "envío, la zona horaria, el nivel y el idioma del bot, o poner el bot en pausa.\n\n"
+              "envío, la zona horaria, el nivel, el idioma que aprendes y el idioma del bot, o poner el bot en pausa.\n\n"
               "🇷🇺 De momento, las traducciones de las palabras solo están en ruso.",
     },
 }
