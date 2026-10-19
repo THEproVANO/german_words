@@ -39,7 +39,11 @@ def _bold(text: str) -> str:
 
 def format_card(w: sqlite3.Row, lang: str) -> str:
     e = html.escape
-    head = f"<b>{e(w['article'] + ' ' if w['article'] else '')}{e(w['word'])}</b>"
+    article = w["article"]
+    if w["lang"] == "es" and w["plural"] == "pl":
+        # Испанские слова только во мн. ч. показываем с артиклем мн. ч.: las vacaciones
+        article = {"el": "los", "la": "las"}.get(article, article)
+    head = f"<b>{e(article + ' ' if article else '')}{e(w['word'])}</b>"
     if w["pos"] == "noun":
         if w["plural"] == "-":
             head += f", <i>{t(lang, 'no_plural')}</i>"
