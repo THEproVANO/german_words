@@ -199,7 +199,7 @@ async def show_profile(message: Message) -> None:
 
 
 @router.callback_query(F.data.startswith("profile:"))
-async def profile_action(call: CallbackQuery) -> None:
+async def profile_action(call: CallbackQuery, bot: Bot) -> None:
     action = call.data.split(":")[1]
     user = db.get_user(call.from_user.id)
     lang = user["ui_lang"]
@@ -209,6 +209,19 @@ async def profile_action(call: CallbackQuery) -> None:
         await call.message.edit_text(profile_text(user),
                                      reply_markup=keyboards.profile(lang, bool(user["paused"])))
         await call.answer(t(lang, "pause_on" if user["paused"] else "pause_off"))
+        return
+    if action == "restart":
+        # Обновляет кнопки после обновления бота: новое меню, свежий профиль и текущий вопрос теста.
+        # Прогресс и настройки не трогает
+        await call.message.edit_reply_markup(reply_markup=None)
+        await call.message.answer(t(lang, "restarted"), reply_markup=keyboards.main_menu(lang))
+        await call.message.answer(profile_text(user),
+                                  reply_markup=keyboards.profile(lang, bool(user["paused"])))
+        await call.answer()
+        quiz = db.get_active_quiz(user["id"])
+        if quiz:
+            async with service.user_locks[user["id"]]:
+                await service.send_question(bot, user, quiz["id"])
         return
     if action == "help":
         await call.message.answer(rules_text(user))

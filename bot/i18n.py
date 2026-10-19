@@ -242,6 +242,16 @@ TEXTS = {
     "btn_pause": {"ru": "⏸ Пауза", "en": "⏸ Pause", "fr": "⏸ Pause", "es": "⏸ Pausa"},
     "btn_resume": {"ru": "▶️ Продолжить", "en": "▶️ Resume", "fr": "▶️ Reprendre",
                    "es": "▶️ Reanudar"},
+    "btn_restart": {"ru": "🔄 Перезапуск", "en": "🔄 Restart", "fr": "🔄 Redémarrer",
+                    "es": "🔄 Reiniciar"},
+    "restarted": {
+        "ru": "🔄 Бот перезапущен: меню и кнопки обновлены. Прогресс и настройки сохранены.",
+        "en": "🔄 Bot restarted: the menu and buttons are updated. Your progress and settings are kept.",
+        "fr": "🔄 Bot redémarré : le menu et les boutons sont à jour. Ta progression et tes réglages "
+              "sont conservés.",
+        "es": "🔄 Bot reiniciado: el menú y los botones están actualizados. Tu progreso y tus ajustes "
+              "se mantienen.",
+    },
     "pause_on": {"ru": "Пауза включена", "en": "Paused", "fr": "Pause activée",
                  "es": "Pausa activada"},
     "pause_off": {"ru": "Продолжаем!", "en": "Let's continue!", "fr": "On continue !",
