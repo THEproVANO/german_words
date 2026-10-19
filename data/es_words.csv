@@ -3061,3 +3061,322 @@ A2;adj;;fenomenal;;;;;отличный, замечательный;Pasamos un fi
 A2;adv;;diariamente;;;;;ежедневно;Hago ejercicio **diariamente**.;Я занимаюсь спортом ежедневно.
 A2;adv;;lentamente;;;;;медленно;El abuelo camina **lentamente**.;Дедушка ходит медленно.
 A2;adv;;otra vez;;;;;снова, ещё раз;¿Puedes repetirlo **otra vez**?;Можешь повторить ещё раз?
+B1;noun;el;asunto;;;;;дело, вопрос;Tenemos que hablar de un **asunto** importante.;Нам нужно поговорить об одном важном деле.
+B1;noun;el;ataque;;;;;нападение, атака, приступ;Sufrió un **ataque** de ansiedad en el metro.;У него случился приступ тревоги в метро.
+B1;noun;la;atención;;;;;внимание;Gracias por su **atención**, señoras y señores.;Спасибо за внимание, дамы и господа.
+B1;noun;la;aventura;;;;;приключение;El viaje por la selva fue una gran **aventura**.;Поездка по джунглям была большим приключением.
+B1;noun;la;barrera;;;;;барьер, преграда;El idioma no debe ser una **barrera** para trabajar.;Язык не должен быть препятствием для работы.
+B1;noun;la;broma;;;;;шутка, розыгрыш;No te enfades, solo era una **broma**.;Не сердись, это была просто шутка.
+B1;noun;la;búsqueda;;;;;поиск;La **búsqueda** de piso en Madrid es muy difícil.;Поиск квартиры в Мадриде очень трудный.
+B1;noun;el;castigo;;;;;наказание;El niño recibió un **castigo** por mentir.;Мальчик получил наказание за ложь.
+B1;noun;el;certificado;;;;;сертификат, справка;Necesito un **certificado** médico para el gimnasio.;Мне нужна медицинская справка для спортзала.
+B1;noun;el;colega;;;;;коллега;Mi **colega** me ayudó con el informe.;Мой коллега помог мне с отчётом.
+B1;noun;el;contenido;;;;;содержание, содержимое;El **contenido** del curso es muy práctico.;Содержание курса очень практичное.
+B1;noun;el;cuidado;;;;;забота, уход, осторожность;El **cuidado** de las plantas requiere tiempo.;Уход за растениями требует времени.
+B1;noun;el;daño;;;;;вред, ущерб;El fumar hace mucho **daño** a la salud.;Курение наносит большой вред здоровью.
+B1;noun;el;desastre;;;;;катастрофа, бедствие;La fiesta fue un **desastre** total.;Вечеринка была полной катастрофой.
+B1;noun;el;descanso;;;;;отдых, перерыв;Hacemos un **descanso** de diez minutos.;Мы делаем перерыв на десять минут.
+B1;noun;el;detalle;;;;;деталь, подробность;Cuéntame la historia con todo **detalle**.;Расскажи мне историю во всех подробностях.
+B1;noun;la;diferencia;;;;;разница, различие;¿Cuál es la **diferencia** entre estas dos palabras?;В чём разница между этими двумя словами?
+B1;noun;la;disculpa;;;;;извинение;Te debo una **disculpa** por lo de ayer.;Я должен извиниться перед тобой за вчерашнее.
+B1;noun;el;entorno;;;;;окружение, среда;Los niños necesitan un **entorno** tranquilo.;Детям нужна спокойная обстановка.
+B1;noun;el;equilibrio;;;;;равновесие, баланс;Busco el **equilibrio** entre trabajo y vida personal.;Я ищу баланс между работой и личной жизнью.
+B1;noun;la;escena;;;;;сцена;La última **escena** de la película es preciosa.;Последняя сцена фильма прекрасна.
+B1;noun;el;experto;;;;;эксперт, специалист;Un **experto** explicó el problema en la tele.;Эксперт объяснил проблему по телевизору.
+B1;noun;la;falta;;;;;нехватка, отсутствие, ошибка;La **falta** de sueño afecta a la memoria.;Недостаток сна влияет на память.
+B1;noun;la;fama;-;;;;слава, известность;El cantante consiguió **fama** muy joven.;Певец добился славы очень молодым.
+B1;noun;la;fe;-;;;;вера;Tengo **fe** en que todo saldrá bien.;Я верю, что всё будет хорошо.
+B1;noun;la;fuerza;;;;;сила;No tengo **fuerza** para subir la maleta.;У меня нет сил поднять чемодан.
+B1;noun;la;imagen;;;;;изображение, образ, имидж;La empresa quiere mejorar su **imagen**.;Компания хочет улучшить свой имидж.
+B1;noun;el;individuo;;;;;индивидуум, тип;Un **individuo** sospechoso entró en el banco.;Подозрительный тип вошёл в банк.
+B1;noun;la;influencia;;;;;влияние;Sus amigos tienen mucha **influencia** sobre él.;Друзья имеют на него большое влияние.
+B1;noun;el;intercambio;;;;;обмен;Hice un **intercambio** de estudiantes en Sevilla.;Я участвовал в студенческом обмене в Севилье.
+B1;noun;el;lector;;;;;читатель;Este periódico tiene muchos **lectores** jóvenes.;У этой газеты много молодых читателей.
+B1;noun;el;límite;;;;;предел, граница, лимит;Hay un **límite** de velocidad en esta calle.;На этой улице есть ограничение скорости.
+B1;noun;la;lucha;;;;;борьба;La **lucha** contra el cambio climático es urgente.;Борьба с изменением климата неотложна.
+B1;noun;el;lujo;;;;;роскошь;Viajar en primera clase es un **lujo**.;Путешествовать первым классом — роскошь.
+B1;noun;la;madurez;-;;;;зрелость;Mostró mucha **madurez** para su edad.;Он проявил большую зрелость для своего возраста.
+B1;noun;la;materia;;;;;предмет, вещество, материя;Las matemáticas son mi **materia** favorita.;Математика — мой любимый предмет.
+B1;noun;el;miembro;;;;;член, участник;Es **miembro** de un club de lectura.;Он член читательского клуба.
+B1;noun;la;mitad;;;;;половина;Comí la **mitad** de la pizza.;Я съел половину пиццы.
+B1;noun;la;moda;;;;;мода;Esa chaqueta está de **moda** este año.;Эта куртка в моде в этом году.
+B1;noun;el;origen;;;;;происхождение, источник;¿Cuál es el **origen** de esta tradición?;Каково происхождение этой традиции?
+B1;noun;la;petición;;;;;просьба, запрос, петиция;El jefe aceptó mi **petición** de vacaciones.;Начальник принял мою просьбу об отпуске.
+B1;noun;el;premio;;;;;приз, премия, награда;Ganó el primer **premio** del concurso.;Он выиграл первый приз конкурса.
+B1;noun;la;prisa;-;;;;спешка;No tengo **prisa**, podemos hablar.;Я не спешу, мы можем поговорить.
+B1;noun;el;producto;;;;;продукт, товар;Compramos **productos** locales en el mercado.;Мы покупаем местные продукты на рынке.
+B1;noun;el;rasgo;;;;;черта;La paciencia es su mejor **rasgo**.;Терпение — его лучшая черта.
+B1;noun;la;realidad;;;;;реальность, действительность;En **realidad**, no me gusta nada.;На самом деле мне это совсем не нравится.
+B1;noun;el;sentido;;;;;смысл, чувство, направление;Tiene un gran **sentido** del humor.;У него отличное чувство юмора.
+B1;noun;la;sugerencia;;;;;предложение, совет;¿Tienes alguna **sugerencia** para la cena?;У тебя есть какое-нибудь предложение насчёт ужина?
+B1;noun;la;suerte;-;;;;удача, везение;¡Buena **suerte** en el examen!;Удачи на экзамене!
+B1;noun;la;tasa;;;;;ставка, уровень, пошлина;La **tasa** de paro ha bajado este año.;Уровень безработицы в этом году снизился.
+B1;noun;la;temporada;;;;;сезон;En **temporada** alta los hoteles son caros.;В высокий сезон отели дорогие.
+B1;noun;la;advertencia;;;;;предупреждение;Ignoró la **advertencia** del médico.;Он проигнорировал предупреждение врача.
+B1;noun;el;agotamiento;-;;;;истощение, сильная усталость;Llegó a casa con un **agotamiento** terrible.;Он пришёл домой ужасно измотанным.
+B1;noun;la;ambición;;;;;амбиция, честолюбие;Su **ambición** es abrir su propio restaurante.;Его мечта — открыть собственный ресторан.
+B1;noun;la;aportación;;;;;вклад;Tu **aportación** al proyecto fue fundamental.;Твой вклад в проект был очень важным.
+B1;noun;la;asociación;;;;;ассоциация, общество;Trabaja en una **asociación** de vecinos.;Она работает в ассоциации жильцов.
+B1;noun;la;ausencia;;;;;отсутствие;Notamos tu **ausencia** en la reunión.;Мы заметили твоё отсутствие на собрании.
+B1;noun;la;bandera;;;;;флаг;La **bandera** de España es roja y amarilla.;Флаг Испании красно-жёлтый.
+B1;noun;la;cifra;;;;;цифра, число;Las **cifras** de turismo son muy buenas.;Показатели туризма очень хорошие.
+B1;noun;el;concurso;;;;;конкурс;Participó en un **concurso** de fotografía.;Он участвовал в фотоконкурсе.
+B1;noun;la;cuestión;;;;;вопрос, проблема;Es una **cuestión** de tiempo.;Это вопрос времени.
+B1;noun;la;cuota;;;;;взнос, квота;La **cuota** del gimnasio es de treinta euros.;Взнос в спортзал составляет тридцать евро.
+B1;noun;el;desperdicio;;;;;растрата, отходы;Tirar comida es un **desperdicio**.;Выбрасывать еду — это расточительство.
+B1;noun;el;desplazamiento;;;;;перемещение, поездка;La empresa paga los gastos de **desplazamiento**.;Компания оплачивает расходы на поездки.
+B1;noun;el;disfraz;;;;;маскарадный костюм;Llevaba un **disfraz** de pirata en carnaval.;На карнавале он был в костюме пирата.
+B1;noun;el;encargo;;;;;поручение, заказ;Tengo que hacer un **encargo** para mi madre.;Мне нужно выполнить поручение мамы.
+B1;noun;la;estancia;;;;;пребывание;Mi **estancia** en Valencia fue de tres meses.;Моё пребывание в Валенсии длилось три месяца.
+B1;noun;la;exigencia;;;;;требование;Este trabajo tiene muchas **exigencias**.;У этой работы много требований.
+B1;noun;el;hogar;;;;;дом, домашний очаг;Para mí, el **hogar** es donde está mi familia.;Для меня дом — там, где моя семья.
+B1;noun;la;huella;;;;;след, отпечаток;Dejamos **huellas** en la arena.;Мы оставили следы на песке.
+B1;noun;la;incertidumbre;-;;;;неопределённость;Vivimos un momento de mucha **incertidumbre**.;Мы переживаем момент большой неопределённости.
+B1;noun;la;inscripción;;;;;запись, регистрация;La **inscripción** en el curso termina el lunes.;Запись на курс заканчивается в понедельник.
+B1;noun;el;intento;;;;;попытка;Aprobó el examen al tercer **intento**.;Он сдал экзамен с третьей попытки.
+B1;noun;el;lenguaje;;;;;язык, речь;Usa un **lenguaje** muy formal en sus correos.;Он использует очень официальный язык в письмах.
+B1;noun;el;logro;;;;;достижение;Terminar la carrera fue un gran **logro**.;Окончить университет было большим достижением.
+B1;noun;la;nacionalidad;;;;;гражданство, национальность;Tiene doble **nacionalidad**, española y rusa.;У неё двойное гражданство, испанское и российское.
+B1;noun;el;orden;;;;;порядок;Pon los libros en **orden** alfabético.;Расставь книги в алфавитном порядке.
+B1;noun;la;pancarta;;;;;плакат, транспарант;Los manifestantes llevaban **pancartas** enormes.;Демонстранты несли огромные транспаранты.
+B1;noun;la;recompensa;;;;;награда, вознаграждение;Ofrecen una **recompensa** por el perro perdido.;Предлагают вознаграждение за потерянную собаку.
+B1;noun;la;reseña;;;;;рецензия, отзыв;Leí una **reseña** muy buena del restaurante.;Я прочитал очень хороший отзыв о ресторане.
+B1;noun;la;ruta;;;;;маршрут;Hicimos una **ruta** por los pueblos blancos.;Мы проехали по маршруту через белые деревни.
+B1;noun;la;superficie;;;;;поверхность, площадь;El piso tiene una **superficie** de ochenta metros.;Площадь квартиры восемьдесят метров.
+B1;noun;el;adelanto;;;;;аванс, достижение, прогресс;Pedí un **adelanto** del sueldo.;Я попросил аванс по зарплате.
+B1;noun;el;agobio;;;;;стресс, гнёт, ощущение давления;Siento **agobio** con tantos exámenes.;У меня стресс из-за стольких экзаменов.
+B1;noun;el;alivio;;;;;облегчение;¡Qué **alivio**, por fin terminé!;Какое облегчение, я наконец закончил!
+B1;noun;el;alrededores;pl;;;;окрестности;Visitamos los **alrededores** de Granada.;Мы посетили окрестности Гранады.
+B1;noun;la;anécdota;;;;;забавная история, случай;Mi abuelo siempre cuenta **anécdotas** de su juventud.;Дедушка всегда рассказывает истории из своей молодости.
+B1;noun;el;antepasado;;;;;предок;Mis **antepasados** vivían en un pueblo de Galicia.;Мои предки жили в деревне в Галисии.
+B1;noun;la;apariencia;;;;;внешность, вид;No juzgues a nadie por su **apariencia**.;Не суди никого по внешности.
+B1;noun;el;aplauso;;;;;аплодисменты;El público dio un gran **aplauso** a los actores.;Публика громко аплодировала актёрам.
+B1;noun;el;azar;-;;;;случай, случайность;Nos conocimos por **azar** en un tren.;Мы познакомились случайно в поезде.
+B1;noun;la;belleza;-;;;;красота;Me impresionó la **belleza** del paisaje.;Меня поразила красота пейзажа.
+B1;noun;el;borrador;;;;;черновик;Te envío un **borrador** de la carta.;Я посылаю тебе черновик письма.
+B1;noun;la;burla;;;;;насмешка;No hagas **burla** de tus compañeros.;Не насмехайся над своими товарищами.
+B1;noun;la;calma;-;;;;спокойствие, тишина;Hay que mantener la **calma** en una emergencia.;В чрезвычайной ситуации нужно сохранять спокойствие.
+B1;noun;el;cartel;;;;;плакат, афиша;Vi el **cartel** del concierto en la calle.;Я увидел афишу концерта на улице.
+B1;noun;el;chiste;;;;;анекдот, шутка;Mi padre cuenta **chistes** muy malos.;Мой отец рассказывает очень плохие анекдоты.
+B1;noun;el;choque;;;;;столкновение, шок;Hubo un **choque** entre dos coches.;Произошло столкновение двух машин.
+B1;noun;la;comodidad;;;;;удобство, комфорт;Prefiero la **comodidad** a la moda.;Я предпочитаю удобство моде.
+B1;noun;la;compañía;;;;;компания, общество;Gracias por tu **compañía** esta tarde.;Спасибо за компанию сегодня вечером.
+B1;noun;el;compañerismo;-;;;;товарищество;En este equipo hay mucho **compañerismo**.;В этой команде сильный дух товарищества.
+B1;noun;el;comunicado;;;;;официальное сообщение, заявление;El gobierno publicó un **comunicado** esta mañana.;Правительство опубликовало заявление сегодня утром.
+B1;noun;la;condición;;;;;условие, состояние;Acepto, pero con una **condición**.;Я согласен, но с одним условием.
+B1;noun;la;confusión;;;;;путаница, замешательство;Hubo una **confusión** con las reservas.;Произошла путаница с бронированием.
+B1;noun;el;contacto;;;;;контакт, связь;Seguimos en **contacto** por correo.;Мы остаёмся на связи по почте.
+B1;noun;el;contraste;;;;;контраст;Hay un gran **contraste** entre el norte y el sur.;Между севером и югом большой контраст.
+B1;noun;la;crónica;;;;;хроника, репортаж;Leí la **crónica** del partido en el periódico.;Я прочитал репортаж о матче в газете.
+B1;noun;la;cualidad;;;;;качество, черта;La honestidad es una **cualidad** importante.;Честность — важное качество.
+B1;noun;la;cura;;;;;лечение, излечение;Todavía no existe una **cura** para esa enfermedad.;От этой болезни до сих пор нет лекарства.
+B1;noun;el;defecto;;;;;недостаток, дефект;Todos tenemos virtudes y **defectos**.;У всех нас есть достоинства и недостатки.
+B1;noun;el;desacuerdo;;;;;несогласие, разногласие;Estoy en **desacuerdo** con esa decisión.;Я не согласен с этим решением.
+B1;noun;el;desorden;;;;;беспорядок;Tu habitación es un **desorden** total.;В твоей комнате полный беспорядок.
+B1;noun;el;desprecio;;;;;презрение;Habló de ellos con **desprecio**.;Он говорил о них с презрением.
+B1;noun;el;diálogo;;;;;диалог;El **diálogo** es la mejor forma de resolver conflictos.;Диалог — лучший способ решать конфликты.
+B1;noun;el;disgusto;;;;;огорчение, неприятность;La noticia le dio un gran **disgusto**.;Новость сильно его огорчила.
+B1;noun;la;diversión;;;;;развлечение, веселье;Para él, leer es su mayor **diversión**.;Для него чтение — главное развлечение.
+B1;noun;el;encuentro;;;;;встреча;Fue un **encuentro** inesperado en el aeropuerto.;Это была неожиданная встреча в аэропорту.
+B1;noun;el;enfrentamiento;;;;;столкновение, противостояние;Hubo un **enfrentamiento** entre los aficionados.;Между болельщиками произошло столкновение.
+B1;noun;el;engaño;;;;;обман;Esa oferta es un **engaño**, no la aceptes.;Это предложение — обман, не принимай его.
+B1;noun;la;escritura;;;;;письмо, почерк, письменность;Su **escritura** es muy difícil de leer.;Его почерк очень трудно читать.
+B1;noun;el;evento;;;;;мероприятие, событие;El **evento** empieza a las ocho.;Мероприятие начинается в восемь.
+B1;noun;la;excusa;;;;;оправдание, предлог;Siempre tiene una **excusa** para llegar tarde.;У него всегда есть оправдание для опоздания.
+B1;noun;la;fantasía;;;;;фантазия;Los niños tienen mucha **fantasía**.;У детей богатая фантазия.
+B1;noun;la;finca;;;;;усадьба, ферма, участок;Pasamos el verano en una **finca** en el campo.;Мы провели лето в усадьбе за городом.
+B1;noun;la;fortuna;;;;;удача, состояние (богатство);Su abuelo dejó una gran **fortuna**.;Его дед оставил большое состояние.
+B1;noun;el;fraude;;;;;мошенничество;La policía investiga un **fraude** fiscal.;Полиция расследует налоговое мошенничество.
+B1;noun;el;gesto;;;;;жест;Fue un **gesto** muy amable por tu parte.;Это был очень любезный жест с твоей стороны.
+B1;noun;la;gira;;;;;турне, гастроли;El grupo está de **gira** por Latinoamérica.;Группа на гастролях по Латинской Америке.
+B1;noun;la;gratitud;-;;;;благодарность;Quiero expresar mi **gratitud** a todos.;Я хочу выразить благодарность всем.
+B1;noun;el;grito;;;;;крик;Oímos un **grito** en la calle.;Мы услышали крик на улице.
+B1;noun;el;gusto;;;;;вкус, удовольствие;Tiene muy buen **gusto** para la ropa.;У неё очень хороший вкус в одежде.
+B1;noun;el;hecho;;;;;факт, событие;El **hecho** es que no tenemos dinero.;Факт в том, что у нас нет денег.
+B1;noun;el;honor;;;;;честь;Es un **honor** trabajar con usted.;Для меня честь работать с вами.
+B1;noun;la;impresión;;;;;впечатление;Me dio muy buena **impresión** en la entrevista.;На собеседовании он произвёл на меня очень хорошее впечатление.
+B1;noun;el;impulso;;;;;импульс, порыв;Lo compré por **impulso**.;Я купил это импульсивно.
+B1;noun;el;incidente;;;;;инцидент, происшествие;El viaje terminó sin ningún **incidente**.;Поездка закончилась без происшествий.
+B1;noun;la;incomodidad;;;;;неудобство, дискомфорт;Perdone la **incomodidad** causada por las obras.;Извините за неудобства, вызванные ремонтом.
+B1;noun;la;inquietud;;;;;беспокойство, интерес;Siento cierta **inquietud** por el futuro.;Я испытываю некоторое беспокойство о будущем.
+B1;noun;el;instinto;;;;;инстинкт, чутьё;Sigue tu **instinto** y decide tú.;Следуй своему чутью и решай сам.
+B1;noun;el;jurado;;;;;жюри, присяжные;El **jurado** eligió la mejor película.;Жюри выбрало лучший фильм.
+B1;noun;el;lazo;;;;;связь, узы, бант;Tenemos un **lazo** muy fuerte con nuestros abuelos.;У нас очень крепкая связь с бабушкой и дедушкой.
+B1;noun;el;liderazgo;-;;;;лидерство;Ella tiene grandes dotes de **liderazgo**.;У неё большие лидерские способности.
+B1;noun;la;locura;;;;;безумие, сумасшествие;Viajar sin dinero es una **locura**.;Путешествовать без денег — безумие.
+B1;noun;el;maltrato;;;;;жестокое обращение;El **maltrato** animal está castigado por la ley.;Жестокое обращение с животными наказуемо законом.
+B1;noun;el;misterio;;;;;тайна, загадка;Su desaparición sigue siendo un **misterio**.;Его исчезновение по-прежнему остаётся загадкой.
+B1;noun;la;molestia;;;;;беспокойство, неудобство;Perdone la **molestia**, ¿tiene hora?;Извините за беспокойство, не подскажете время?
+B1;noun;el;obstáculo;;;;;препятствие;Superó todos los **obstáculos** con esfuerzo.;Он преодолел все препятствия упорным трудом.
+B1;noun;la;ocasión;;;;;случай, повод;Este vestido es para una **ocasión** especial.;Это платье для особого случая.
+B1;noun;el;olvido;;;;;забвение, забывчивость;Fue un **olvido**, no lo hice a propósito.;Я просто забыл, я не нарочно.
+B1;noun;la;orientación;;;;;ориентация, направление;Tengo muy mal sentido de la **orientación**.;Я очень плохо ориентируюсь в пространстве.
+B1;noun;el;paso;;;;;шаг;Dio un **paso** importante en su carrera.;Он сделал важный шаг в своей карьере.
+B1;noun;el;patrocinador;;;;;спонсор;El equipo busca un nuevo **patrocinador**.;Команда ищет нового спонсора.
+B1;noun;la;pelea;;;;;драка, ссора;Hubo una **pelea** a la salida del bar.;У выхода из бара произошла драка.
+B1;noun;el;placer;;;;;удовольствие;Es un **placer** conocerle.;Рад с вами познакомиться.
+B1;noun;la;práctica;;;;;практика;Con **práctica** hablarás mejor.;С практикой ты будешь говорить лучше.
+B1;noun;la;precaución;;;;;предосторожность, осторожность;Conduce con **precaución**, hay niebla.;Веди осторожно, туман.
+B1;noun;la;preferencia;;;;;предпочтение;¿Tienes alguna **preferencia** de comida?;У тебя есть какие-нибудь предпочтения в еде?
+B1;noun;la;prioridad;;;;;приоритет;Mi familia es mi **prioridad**.;Моя семья — мой приоритет.
+B1;noun;la;promesa;;;;;обещание;Cumplió su **promesa** de llamarme.;Он сдержал обещание позвонить мне.
+B1;noun;la;protección;;;;;защита;Usa **protección** solar en la playa.;Используй солнцезащитное средство на пляже.
+B1;noun;el;provecho;;;;;польза, выгода;¡Buen **provecho**!;Приятного аппетита!
+B1;noun;el;rechazo;;;;;отказ, неприятие;Sintió el **rechazo** de sus compañeros.;Он почувствовал неприятие со стороны коллег.
+B1;noun;la;reflexión;;;;;размышление;Después de mucha **reflexión**, decidí irme.;После долгих размышлений я решил уйти.
+B1;noun;el;refugio;;;;;убежище, приют;Dormimos en un **refugio** de montaña.;Мы ночевали в горном приюте.
+B1;noun;el;remedio;;;;;средство, лекарство;La miel es un buen **remedio** para la tos.;Мёд — хорошее средство от кашля.
+B1;noun;la;reputación;;;;;репутация;Este restaurante tiene muy buena **reputación**.;У этого ресторана очень хорошая репутация.
+B1;noun;el;rescate;;;;;спасение, спасательная операция;El **rescate** de los montañeros duró horas.;Спасение альпинистов длилось несколько часов.
+B1;noun;la;residencia;;;;;место жительства, общежитие;Vivo en una **residencia** de estudiantes.;Я живу в студенческом общежитии.
+B1;noun;el;resto;;;;;остаток, остальное;El **resto** del grupo llega mañana.;Остальная часть группы приедет завтра.
+B1;noun;el;retrato;;;;;портрет;En el salón hay un **retrato** de mi abuela.;В гостиной висит портрет моей бабушки.
+B1;noun;el;sacrificio;;;;;жертва;Sus padres hicieron muchos **sacrificios** por él.;Его родители многим пожертвовали ради него.
+B1;noun;el;secreto;;;;;секрет, тайна;¿Puedes guardar un **secreto**?;Ты умеешь хранить секреты?
+B1;noun;la;sensación;;;;;ощущение, чувство;Tengo la **sensación** de que nos conocemos.;У меня ощущение, что мы знакомы.
+B1;noun;la;subida;;;;;подъём, повышение;La **subida** de los precios preocupa a todos.;Рост цен беспокоит всех.
+B1;noun;el;sufrimiento;;;;;страдание;La guerra causa mucho **sufrimiento**.;Война причиняет много страданий.
+B1;noun;la;suscripción;;;;;подписка;Cancelé mi **suscripción** a la revista.;Я отменил подписку на журнал.
+B1;noun;el;talento;;;;;талант;Tiene mucho **talento** para la música.;У неё большой талант к музыке.
+B1;noun;el;tamaño;;;;;размер;¿De qué **tamaño** quieres la caja?;Какого размера тебе нужна коробка?
+B1;noun;la;técnica;;;;;техника, метод;Aprendí una nueva **técnica** para estudiar.;Я научился новому методу учёбы.
+B1;noun;la;ternura;-;;;;нежность;Miraba a su bebé con **ternura**.;Она смотрела на своего малыша с нежностью.
+B1;noun;la;trampa;;;;;ловушка, обман;No hagas **trampas** cuando juegas a las cartas.;Не жульничай, когда играешь в карты.
+B1;noun;el;trato;;;;;обращение, сделка;El **trato** del personal fue excelente.;Обслуживание персонала было отличным.
+B1;noun;la;traición;;;;;предательство, измена;Nunca le perdonó esa **traición**.;Он так и не простил ему это предательство.
+B1;noun;la;ubicación;;;;;местоположение;La **ubicación** del hotel es perfecta.;Расположение отеля идеальное.
+B1;noun;la;valentía;-;;;;смелость, храбрость;Admiro su **valentía** ante la enfermedad.;Я восхищаюсь её мужеством перед болезнью.
+B1;noun;la;variedad;;;;;разнообразие, сорт;Hay gran **variedad** de frutas en el mercado.;На рынке большое разнообразие фруктов.
+B1;noun;la;venganza;;;;;месть;La película trata de una **venganza**.;Фильм рассказывает о мести.
+B1;noun;el;vínculo;;;;;связь, узы;Existe un **vínculo** especial entre los hermanos.;Между братьями есть особая связь.
+B1;noun;la;visión;;;;;зрение, видение, взгляд;Tiene una **visión** muy positiva de la vida.;У него очень позитивный взгляд на жизнь.
+B1;noun;la;vista;;;;;вид, зрение;Desde aquí hay una **vista** increíble del mar.;Отсюда открывается потрясающий вид на море.
+B1;noun;la;desconfianza;-;;;;недоверие;Me miró con **desconfianza**.;Он посмотрел на меня с недоверием.
+B1;noun;la;desilusión;;;;;разочарование;Perder la final fue una gran **desilusión**.;Проигрыш в финале стал большим разочарованием.
+B1;noun;la;cooperación;;;;;сотрудничество;La **cooperación** entre países es necesaria.;Сотрудничество между странами необходимо.
+B1;noun;el;adolescente;;;;;подросток;Los **adolescentes** pasan mucho tiempo con el móvil.;Подростки проводят много времени с телефоном.
+B1;noun;el;adulto;;;;;взрослый;La entrada cuesta diez euros para los **adultos**.;Вход стоит десять евро для взрослых.
+B1;noun;el;huérfano;;;;;сирота;Se quedó **huérfano** a los cinco años.;Он остался сиротой в пять лет.
+B1;noun;el;ayudante;;;;;помощник, ассистент;Trabaja como **ayudante** de cocina.;Он работает помощником повара.
+B1;noun;el;becario;;;;;стажёр, стипендиат;El nuevo **becario** empieza el lunes.;Новый стажёр начинает в понедельник.
+B1;noun;el;autónomo;;;;;индивидуальный предприниматель, фрилансер;Trabajo como **autónomo** desde hace dos años.;Я работаю на себя уже два года.
+B1;noun;la;prácticas;pl;;;;стажировка, практика;Hago **prácticas** en una empresa de diseño.;Я прохожу стажировку в дизайнерской компании.
+B1;noun;la;cicatriz;;;;;шрам;Tiene una **cicatriz** en la rodilla.;У него шрам на колене.
+B1;noun;la;dolencia;;;;;недуг, болезнь;Sufre una **dolencia** de corazón.;Он страдает болезнью сердца.
+B1;noun;el;volcán;;;;;вулкан;El **volcán** de La Palma entró en erupción.;Вулкан на Пальме начал извергаться.
+B1;noun;la;marea;;;;;прилив, отлив;Cuando sube la **marea**, la playa desaparece.;Когда начинается прилив, пляж исчезает.
+B1;noun;la;llanura;;;;;равнина;La **llanura** se extiende hasta el horizonte.;Равнина простирается до горизонта.
+B1;noun;la;cumbre;;;;;вершина, саммит;Llegamos a la **cumbre** después de cinco horas.;Мы достигли вершины через пять часов.
+B1;noun;el;sendero;;;;;тропа;Seguimos un **sendero** junto al río.;Мы шли по тропе вдоль реки.
+B1;noun;el;hostal;;;;;хостел, недорогая гостиница;Dormimos en un **hostal** barato del centro.;Мы ночевали в дешёвом хостеле в центре.
+B1;noun;la;ruinas;pl;;;;руины;Visitamos las **ruinas** romanas de Mérida.;Мы посетили римские руины Мериды.
+B1;noun;el;telón;;;;;занавес;Se levantó el **telón** y empezó la obra.;Поднялся занавес, и началась пьеса.
+B1;noun;el;poeta;;;;;поэт;Lorca es un **poeta** muy famoso.;Лорка — очень известный поэт.
+B1;noun;la;leyenda;;;;;легенда;Cuentan una **leyenda** sobre este castillo.;Об этом замке рассказывают легенду.
+B1;noun;el;mito;;;;;миф;Es un **mito** que el azúcar da energía.;То, что сахар даёт энергию, — миф.
+B1;noun;el;ritmo;;;;;ритм, темп;Me gusta el **ritmo** de esta canción.;Мне нравится ритм этой песни.
+B1;noun;la;grabación;;;;;запись;Escuchamos la **grabación** de la reunión.;Мы прослушали запись собрания.
+B1;adj;;animado;;;;;оживлённый, воодушевлённый;El ambiente en la fiesta estaba muy **animado**.;Атмосфера на вечеринке была очень оживлённой.
+B1;adj;;apasionado;;;;;страстный, увлечённый;Es un profesor muy **apasionado** por la historia.;Он учитель, очень увлечённый историей.
+B1;adj;;directo;;;;;прямой;Prefiero un vuelo **directo** a Lima.;Я предпочитаю прямой рейс в Лиму.
+B1;adj;;esencial;;;;;существенный, необходимый;El agua es **esencial** para la vida.;Вода необходима для жизни.
+B1;adj;;habitual;;;;;обычный, привычный;Es un cliente **habitual** de este bar.;Он постоянный клиент этого бара.
+B1;adj;;independiente;;;;;независимый, самостоятельный;Mi hija es muy **independiente** para su edad.;Моя дочь очень самостоятельная для своего возраста.
+B1;adj;;infantil;;;;;детский, ребяческий;No seas tan **infantil**, ya tienes treinta años.;Не будь таким ребёнком, тебе уже тридцать.
+B1;adj;;laboral;;;;;трудовой, рабочий;Tiene mucha experiencia **laboral** en hoteles.;У неё большой опыт работы в отелях.
+B1;adj;;local;;;;;местный;Compramos en el mercado **local** los sábados.;По субботам мы покупаем на местном рынке.
+B1;adj;;negativo;;;;;отрицательный, негативный;No seas tan **negativo**, todo irá bien.;Не будь таким пессимистом, всё будет хорошо.
+B1;adj;;original;;;;;оригинальный, подлинный;Fue una idea muy **original**.;Это была очень оригинальная идея.
+B1;adj;;permanente;;;;;постоянный;Busca un trabajo **permanente** en la ciudad.;Он ищет постоянную работу в городе.
+B1;adj;;personal;;;;;личный;Es una decisión **personal**, no puedo opinar.;Это личное решение, я не могу судить.
+B1;adj;;práctico;;;;;практичный, практический;Esta mochila es muy **práctica** para viajar.;Этот рюкзак очень практичен для путешествий.
+B1;adj;;prohibido;;;;;запрещённый;Está **prohibido** fumar en el edificio.;В здании курить запрещено.
+B1;adj;;real;;;;;реальный, настоящий;La película está basada en una historia **real**.;Фильм основан на реальной истории.
+B1;adj;;sólido;;;;;твёрдый, прочный;Tienen una relación muy **sólida**.;У них очень прочные отношения.
+B1;adj;;vegetariano;;;;;вегетарианский, вегетарианец;Soy **vegetariano** desde hace cinco años.;Я вегетарианец уже пять лет.
+B1;adj;;violento;;;;;жестокий, насильственный;No me gustan las películas **violentas**.;Мне не нравятся жестокие фильмы.
+B1;adj;;ambiental;;;;;экологический, относящийся к окружающей среде;La contaminación **ambiental** es un problema grave.;Загрязнение окружающей среды — серьёзная проблема.
+B1;adj;;económico;;;;;экономический, недорогой;Buscamos un hotel **económico** cerca del centro.;Мы ищем недорогой отель рядом с центром.
+B1;adj;;social;;;;;социальный, общественный;Pasa mucho tiempo en las redes **sociales**.;Он проводит много времени в социальных сетях.
+B1;adj;;cultural;;;;;культурный;Madrid tiene una vida **cultural** muy rica.;В Мадриде очень богатая культурная жизнь.
+B1;adj;;ecológico;;;;;экологичный, экологический;Solo compramos productos **ecológicos**.;Мы покупаем только экологичные продукты.
+B1;adj;;reciclable;;;;;перерабатываемый;Este envase es totalmente **reciclable**.;Эта упаковка полностью перерабатываемая.
+B1;adj;;desechable;;;;;одноразовый;Intento no usar vasos **desechables**.;Я стараюсь не пользоваться одноразовыми стаканами.
+B1;adj;;asombrado;;;;;изумлённый;Me quedé **asombrado** al ver el precio.;Я был поражён, увидев цену.
+B1;adj;;ilusionado;;;;;полный надежд, воодушевлённый;Estoy muy **ilusionado** con el nuevo trabajo.;Я очень рад и полон надежд насчёт новой работы.
+B1;adj;;insatisfecho;;;;;неудовлетворённый, недовольный;Muchos clientes están **insatisfechos** con el servicio.;Многие клиенты недовольны обслуживанием.
+B1;adj;;impaciente;;;;;нетерпеливый;Los niños estaban **impacientes** por abrir los regalos.;Дети с нетерпением ждали, когда откроют подарки.
+B1;adj;;testarudo;;;;;упрямый;Mi hermano es tan **testarudo** como mi padre.;Мой брат такой же упрямый, как отец.
+B1;adj;;presumido;;;;;самовлюблённый, хвастливый;No soporto a la gente **presumida**.;Я не выношу самовлюблённых людей.
+B1;adj;;torpe;;;;;неуклюжий;Soy muy **torpe**, siempre rompo algo.;Я очень неуклюжий, вечно что-то разбиваю.
+B1;adj;;astuto;;;;;хитрый, ловкий;El zorro es un animal muy **astuto**.;Лиса — очень хитрое животное.
+B1;adj;;espacioso;;;;;просторный;El salón es muy **espacioso** y luminoso.;Гостиная очень просторная и светлая.
+B1;adj;;caducado;;;;;просроченный;Este yogur está **caducado** desde ayer.;Этот йогурт просрочен со вчерашнего дня.
+B1;adj;;temporal;;;;;временный;Tiene un contrato **temporal** de seis meses.;У него временный контракт на шесть месяцев.
+B1;adj;;fijo;;;;;постоянный, фиксированный;Por fin tengo un trabajo **fijo**.;Наконец у меня постоянная работа.
+B1;adj;;remunerado;;;;;оплачиваемый;Son unas prácticas **remuneradas**.;Это оплачиваемая стажировка.
+B1;adj;;competente;;;;;компетентный;Es una profesional muy **competente**.;Она очень компетентный специалист.
+B1;adj;;cualificado;;;;;квалифицированный;Buscan personal **cualificado** para el hospital.;В больницу ищут квалифицированный персонал.
+B1;adj;;activo;;;;;активный;Mi abuela es una persona muy **activa**.;Моя бабушка очень активный человек.
+B1;adj;;afortunado;;;;;удачливый, счастливый;Me siento **afortunado** por tener estos amigos.;Мне повезло, что у меня такие друзья.
+B1;adj;;alternativo;;;;;альтернативный;Tenemos que buscar una solución **alternativa**.;Нам нужно найти альтернативное решение.
+B1;adj;;ameno;;;;;приятный, увлекательный;La charla fue muy **amena**.;Беседа была очень приятной.
+B1;adj;;ansioso;;;;;тревожный, жаждущий;Estoy **ansioso** por conocer los resultados.;Мне не терпится узнать результаты.
+B1;adj;;artificial;;;;;искусственный;Esta bebida tiene colorantes **artificiales**.;В этом напитке искусственные красители.
+B1;adj;;artístico;;;;;художественный, артистический;Tiene un gran talento **artístico**.;У него большой художественный талант.
+B1;adj;;atractivo;;;;;привлекательный;Es un hombre muy **atractivo**.;Он очень привлекательный мужчина.
+B1;adj;;básico;;;;;основной, базовый;Solo tengo un nivel **básico** de inglés.;У меня только базовый уровень английского.
+B1;adj;;bilingüe;;;;;двуязычный;Mis hijos van a un colegio **bilingüe**.;Мои дети ходят в двуязычную школу.
+B1;adj;;brillante;;;;;блестящий, яркий;Es una estudiante **brillante**.;Она блестящая студентка.
+B1;adj;;competitivo;;;;;конкурентный, соревновательный;Es una persona muy **competitiva** en el deporte.;Он очень азартен в спорте.
+B1;adj;;confuso;;;;;запутанный, растерянный;Las instrucciones son muy **confusas**.;Инструкции очень запутанные.
+B1;adj;;decidido;;;;;решительный;Está **decidido** a cambiar de trabajo.;Он твёрдо решил сменить работу.
+B1;adj;;desesperado;;;;;отчаявшийся, отчаянный;Estaba **desesperado** por encontrar piso.;Он отчаянно пытался найти квартиру.
+B1;adj;;destacado;;;;;выдающийся;Es un científico muy **destacado**.;Он очень выдающийся учёный.
+B1;adj;;detallista;;;;;внимательный к мелочам;Mi novio es muy **detallista** y siempre me sorprende.;Мой парень очень внимателен к мелочам и всегда меня удивляет.
+B1;adj;;digital;;;;;цифровой;Ahora leo libros en formato **digital**.;Теперь я читаю книги в электронном формате.
+B1;adj;;discreto;;;;;скромный, сдержанный, тактичный;Puedes contárselo, es muy **discreto**.;Можешь ему рассказать, он умеет держать язык за зубами.
+B1;adj;;disgustado;;;;;огорчённый, расстроенный;Mi madre está **disgustada** conmigo.;Моя мама на меня обижена.
+B1;adj;;doméstico;;;;;домашний;Compartimos las tareas **domésticas**.;Мы делим домашние обязанности.
+B1;adj;;elegante;;;;;элегантный;Llevaba un traje muy **elegante**.;На нём был очень элегантный костюм.
+B1;adj;;emocional;;;;;эмоциональный;Pasa por un momento **emocional** difícil.;Он переживает эмоционально трудный период.
+B1;adj;;engañoso;;;;;обманчивый, вводящий в заблуждение;Ese anuncio es totalmente **engañoso**.;Эта реклама полностью вводит в заблуждение.
+B1;adj;;entusiasta;;;;;полный энтузиазма;Es un grupo de voluntarios muy **entusiasta**.;Это группа волонтёров, полная энтузиазма.
+B1;adj;;escolar;;;;;школьный;El curso **escolar** empieza en septiembre.;Учебный год начинается в сентябре.
+B1;adj;;exacto;;;;;точный;No sé la hora **exacta** del tren.;Я не знаю точного времени поезда.
+B1;adj;;excelente;;;;;отличный, превосходный;La comida del hotel era **excelente**.;Еда в отеле была превосходной.
+B1;adj;;excesivo;;;;;чрезмерный;El precio me parece **excesivo**.;Цена кажется мне чрезмерной.
+B1;adj;;extrovertido;;;;;общительный, экстравертный;Mi hermana es muy **extrovertida** y habla con todos.;Моя сестра очень общительная и разговаривает со всеми.
+B1;adj;;introvertido;;;;;замкнутый, интровертный;De niño era muy **introvertido**.;В детстве он был очень замкнутым.
+B1;adj;;fiable;;;;;надёжный;Es una fuente muy **fiable**.;Это очень надёжный источник.
+B1;adj;;físico;;;;;физический;Hago ejercicio **físico** tres veces por semana.;Я занимаюсь физическими упражнениями три раза в неделю.
+B1;adj;;formal;;;;;официальный, формальный, серьёзный;Para la entrevista, lleva ropa **formal**.;На собеседование надень официальную одежду.
+B1;adj;;informal;;;;;неформальный, ненадёжный;Fue una reunión **informal** entre amigos.;Это была неформальная встреча друзей.
+B1;adj;;frecuente;;;;;частый;Es un error muy **frecuente** entre estudiantes.;Это очень частая ошибка среди студентов.
+B1;adj;;grosero;;;;;грубый;No seas **grosero** con el camarero.;Не груби официанту.
+B1;adj;;histórico;;;;;исторический;Paseamos por el centro **histórico** de Toledo.;Мы гуляли по историческому центру Толедо.
+B1;adj;;imaginativo;;;;;с богатым воображением, изобретательный;Es un niño muy **imaginativo**.;Это очень изобретательный ребёнок.
+B1;adj;;impresionante;;;;;впечатляющий;Las vistas desde la torre son **impresionantes**.;Вид с башни впечатляющий.
+B1;adj;;individual;;;;;индивидуальный, одноместный;Reservé una habitación **individual**.;Я забронировал одноместный номер.
+B1;adj;;inocente;;;;;невинный, невиновный, наивный;El juez dijo que era **inocente**.;Судья сказал, что он невиновен.
+B1;adj;;internacional;;;;;международный;Trabaja en una empresa **internacional**.;Она работает в международной компании.
+B1;adj;;legal;;;;;законный, легальный;¿Es **legal** aparcar aquí?;Здесь можно законно парковаться?
+B1;adj;;leve;;;;;лёгкий, незначительный;Solo tiene una herida **leve** en el brazo.;У него только лёгкая рана на руке.
+B1;adj;;lógico;;;;;логичный;Es **lógico** que estés cansado.;Логично, что ты устал.
+B1;adj;;mentiroso;;;;;лживый, лжец;No le creas, es muy **mentiroso**.;Не верь ему, он большой лгун.
+B1;adj;;mínimo;;;;;минимальный;El salario **mínimo** ha subido este año.;Минимальная зарплата в этом году выросла.
+B1;adj;;natural;;;;;естественный, натуральный;Prefiero los zumos **naturales**.;Я предпочитаю натуральные соки.
+B1;adj;;oficial;;;;;официальный;El español es lengua **oficial** en veinte países.;Испанский — официальный язык в двадцати странах.
+B1;adj;;orgánico;;;;;органический;Compro verdura **orgánica** en una tienda pequeña.;Я покупаю органические овощи в маленьком магазине.
+B1;adj;;pacífico;;;;;мирный;Fue una manifestación **pacífica**.;Это была мирная демонстрация.
+B1;adj;;popular;;;;;популярный, народный;El fútbol es el deporte más **popular** aquí.;Футбол здесь самый популярный вид спорта.
+B1;adj;;profesional;;;;;профессиональный;Quiere ser jugador **profesional** de tenis.;Он хочет стать профессиональным теннисистом.
+B1;adj;;realista;;;;;реалистичный;Tenemos que ser **realistas** con el presupuesto.;Нам нужно реалистично смотреть на бюджет.
+B1;adj;;ridículo;;;;;нелепый, смешной;Me siento **ridículo** con este sombrero.;Я чувствую себя нелепо в этой шляпе.
+B1;adj;;saludable;;;;;здоровый, полезный для здоровья;Intento llevar una vida **saludable**.;Я стараюсь вести здоровый образ жизни.
+B1;adj;;sedentario;;;;;малоподвижный;Tengo un trabajo muy **sedentario**.;У меня очень сидячая работа.
+B1;adj;;sentimental;;;;;сентиментальный;Soy muy **sentimental** y lloro con las películas.;Я очень сентиментальный и плачу над фильмами.
+B1;adj;;solitario;;;;;одинокий, уединённый;Paseamos por una playa **solitaria**.;Мы гуляли по безлюдному пляжу.
+B1;adj;;talentoso;;;;;талантливый;Es un músico joven muy **talentoso**.;Это очень талантливый молодой музыкант.
+B1;adj;;tenso;;;;;напряжённый;El ambiente en la reunión estaba muy **tenso**.;Атмосфера на собрании была очень напряжённой.
+B1;adj;;tóxico;;;;;токсичный, ядовитый;Esa relación era muy **tóxica** para ella.;Эти отношения были для неё очень токсичными.
