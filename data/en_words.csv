@@ -641,3 +641,316 @@ A1;adj;;angry;;;;;злой, сердитый;Why are you **angry**?;Почему
 A1;adj;;afraid;;;;;испуганный (бояться);I'm **afraid** of dogs.;Я боюсь собак.
 A1;adj;;excited;;;;;взволнованный, в предвкушении;The children are **excited** about the trip.;Дети в предвкушении поездки.
 A1;adj;;healthy;;;;;здоровый, полезный;Fruit is **healthy** food.;Фрукты — полезная еда.
+A2;verb;;accept;;;accepted;accepted;принимать, соглашаться;She **accepted** the job offer yesterday.;Она приняла предложение о работе вчера.
+A2;verb;;add;;;added;added;добавлять;**Add** some salt to the soup.;Добавь немного соли в суп.
+A2;verb;;agree;;;agreed;agreed;соглашаться;I **agree** with you completely.;Я полностью с тобой согласен.
+A2;verb;;allow;;;allowed;allowed;разрешать, позволять;My parents **allow** me to stay out late.;Родители разрешают мне гулять допоздна.
+A2;verb;;appear;;;appeared;appeared;появляться, казаться;A man suddenly **appeared** at the door.;У двери внезапно появился мужчина.
+A2;verb;;arrange;;;arranged;arranged;устраивать, договариваться;We **arranged** a meeting for Friday.;Мы назначили встречу на пятницу.
+A2;verb;;become;;;became;become;становиться;She wants to **become** a doctor.;Она хочет стать врачом.
+A2;verb;;believe;;;believed;believed;верить, полагать;I don't **believe** his story.;Я не верю его истории.
+A2;verb;;belong;;;belonged;belonged;принадлежать;This bag **belongs** to my sister.;Эта сумка принадлежит моей сестре.
+A2;verb;;borrow;;;borrowed;borrowed;брать взаймы, одалживать;Can I **borrow** your pen for a minute?;Можно одолжить твою ручку на минутку?
+A2;verb;;break;;;broke;broken;ломать, разбивать;Be careful, don't **break** the glass.;Осторожно, не разбей стакан.
+A2;verb;;build;;;built;built;строить;They are **building** a new school here.;Здесь строят новую школу.
+A2;verb;;burn;;;burned/burnt;burned/burnt;гореть, жечь;I **burned** my hand on the stove.;Я обжёг руку о плиту.
+A2;verb;;catch;;;caught;caught;ловить, успевать на;We need to **catch** the last bus.;Нам нужно успеть на последний автобус.
+A2;verb;;choose;;;chose;chosen;выбирать;You can **choose** any colour you like.;Ты можешь выбрать любой цвет, который нравится.
+A2;verb;;climb;;;climbed;climbed;взбираться, подниматься;We **climbed** the mountain last summer.;Прошлым летом мы поднялись на гору.
+A2;verb;;collect;;;collected;collected;собирать, коллекционировать;My brother **collects** old coins.;Мой брат собирает старые монеты.
+A2;verb;;compare;;;compared;compared;сравнивать;Let's **compare** the prices in both shops.;Давай сравним цены в обоих магазинах.
+A2;verb;;complete;;;completed;completed;завершать, заполнять;Please **complete** the form in pencil.;Пожалуйста, заполните анкету карандашом.
+A2;verb;;continue;;;continued;continued;продолжать;We **continued** walking after lunch.;После обеда мы продолжили идти.
+A2;verb;;copy;;;copied;copied;копировать, списывать;Don't **copy** your friend's homework.;Не списывай домашнее задание у друга.
+A2;verb;;count;;;counted;counted;считать;The child can **count** to one hundred.;Ребёнок умеет считать до ста.
+A2;verb;;cross;;;crossed;crossed;пересекать, переходить;Look both ways before you **cross** the road.;Посмотри в обе стороны, прежде чем переходить дорогу.
+A2;verb;;decide;;;decided;decided;решать;We **decided** to stay at home.;Мы решили остаться дома.
+A2;verb;;describe;;;described;described;описывать;Can you **describe** the man you saw?;Можешь описать мужчину, которого ты видел?
+A2;verb;;die;;;died;died;умирать;Our old cat **died** last year.;Наш старый кот умер в прошлом году.
+A2;verb;;discover;;;discovered;discovered;обнаруживать, открывать;They **discovered** a small café near the beach.;Они обнаружили маленькое кафе у пляжа.
+A2;verb;;discuss;;;discussed;discussed;обсуждать;We **discussed** the problem at the meeting.;Мы обсудили проблему на собрании.
+A2;verb;;dream;;;dreamed/dreamt;dreamed/dreamt;мечтать, видеть сон;I often **dream** about flying.;Мне часто снится, что я летаю.
+A2;verb;;drop;;;dropped;dropped;ронять;She **dropped** her phone on the floor.;Она уронила телефон на пол.
+A2;verb;;earn;;;earned;earned;зарабатывать;He **earns** good money as a builder.;Он хорошо зарабатывает строителем.
+A2;verb;;enter;;;entered;entered;входить;Please knock before you **enter** the room.;Пожалуйста, стучите, прежде чем войти в комнату.
+A2;verb;;explain;;;explained;explained;объяснять;Can you **explain** this word to me?;Можешь объяснить мне это слово?
+A2;verb;;fail;;;failed;failed;проваливать, не сдать;He **failed** his driving test twice.;Он дважды провалил экзамен по вождению.
+A2;verb;;feed;;;fed;fed;кормить;Don't forget to **feed** the dog.;Не забудь покормить собаку.
+A2;verb;;fight;;;fought;fought;драться, бороться;The two boys were **fighting** in the playground.;Двое мальчиков дрались на детской площадке.
+A2;verb;;fill;;;filled;filled;наполнять, заполнять;**Fill** the bottle with cold water.;Наполни бутылку холодной водой.
+A2;verb;;fix;;;fixed;fixed;чинить, исправлять;My dad **fixed** my bike yesterday.;Папа вчера починил мой велосипед.
+A2;verb;;follow;;;followed;followed;следовать, идти за;**Follow** me, I know the way.;Иди за мной, я знаю дорогу.
+A2;verb;;forgive;;;forgave;forgiven;прощать;Please **forgive** me for being late.;Пожалуйста, прости меня за опоздание.
+A2;verb;;grow;;;grew;grown;расти, выращивать;We **grow** tomatoes in our garden.;Мы выращиваем помидоры в саду.
+A2;verb;;guess;;;guessed;guessed;угадывать, догадываться;Can you **guess** how old I am?;Угадаешь, сколько мне лет?
+A2;verb;;hang;;;hung;hung;вешать, висеть;**Hang** your coat behind the door.;Повесь пальто за дверью.
+A2;verb;;happen;;;happened;happened;случаться, происходить;What **happened** to your arm?;Что случилось с твоей рукой?
+A2;verb;;hide;;;hid;hidden;прятать, прятаться;The children **hid** behind the tree.;Дети спрятались за деревом.
+A2;verb;;hit;;;hit;hit;ударять;He **hit** the ball very hard.;Он очень сильно ударил по мячу.
+A2;verb;;hurry;;;hurried;hurried;спешить, торопиться;**Hurry**, or we'll miss the train!;Поторопись, а то опоздаем на поезд!
+A2;verb;;hurt;;;hurt;hurt;болеть, причинять боль;My back **hurts** after the long walk.;После долгой прогулки у меня болит спина.
+A2;verb;;imagine;;;imagined;imagined;представлять, воображать;**Imagine** living on a small island.;Представь, что живёшь на маленьком острове.
+A2;verb;;improve;;;improved;improved;улучшать, улучшаться;Your English has **improved** a lot.;Твой английский сильно улучшился.
+A2;verb;;include;;;included;included;включать;The price **includes** breakfast.;Цена включает завтрак.
+A2;verb;;invite;;;invited;invited;приглашать;They **invited** us to their wedding.;Они пригласили нас на свою свадьбу.
+A2;verb;;join;;;joined;joined;присоединяться, вступать;Why don't you **join** our football team?;Почему бы тебе не присоединиться к нашей футбольной команде?
+A2;verb;;jump;;;jumped;jumped;прыгать;The cat **jumped** onto the table.;Кошка запрыгнула на стол.
+A2;verb;;kill;;;killed;killed;убивать;The storm **killed** many trees in the park.;Буря погубила много деревьев в парке.
+A2;verb;;knock;;;knocked;knocked;стучать;Someone is **knocking** at the door.;Кто-то стучит в дверь.
+A2;verb;;lend;;;lent;lent;давать взаймы, одалживать;Could you **lend** me ten pounds?;Не мог бы ты одолжить мне десять фунтов?
+A2;verb;;lie;;;lay;lain;лежать;I want to **lie** on the beach all day.;Я хочу весь день лежать на пляже.
+A2;verb;;lift;;;lifted;lifted;поднимать;This box is too heavy to **lift**.;Эта коробка слишком тяжёлая, чтобы её поднять.
+A2;verb;;mean;;;meant;meant;значить, иметь в виду;What does this word **mean**?;Что значит это слово?
+A2;verb;;miss;;;missed;missed;скучать, пропускать, опаздывать на;I **miss** my family when I travel.;Я скучаю по семье, когда путешествую.
+A2;verb;;notice;;;noticed;noticed;замечать;Did you **notice** her new haircut?;Ты заметил её новую стрижку?
+A2;verb;;offer;;;offered;offered;предлагать;He **offered** me a cup of tea.;Он предложил мне чашку чая.
+A2;verb;;order;;;ordered;ordered;заказывать;We **ordered** pizza for dinner.;Мы заказали пиццу на ужин.
+A2;verb;;own;;;owned;owned;владеть;My uncle **owns** a small hotel.;Мой дядя владеет небольшой гостиницей.
+A2;verb;;pack;;;packed;packed;упаковывать, собирать вещи;Have you **packed** your suitcase yet?;Ты уже собрал чемодан?
+A2;verb;;paint;;;painted;painted;красить, рисовать красками;We **painted** the kitchen yellow.;Мы покрасили кухню в жёлтый цвет.
+A2;verb;;pass;;;passed;passed;сдавать, проходить мимо, передавать;She **passed** all her exams.;Она сдала все экзамены.
+A2;verb;;pick;;;picked;picked;собирать, срывать, выбирать;We **picked** apples in the garden.;Мы собирали яблоки в саду.
+A2;verb;;plan;;;planned;planned;планировать;We are **planning** a trip to Italy.;Мы планируем поездку в Италию.
+A2;verb;;practise;;;practised;practised;тренироваться, практиковаться;I **practise** the piano every day.;Я каждый день занимаюсь на пианино.
+A2;verb;;prefer;;;preferred;preferred;предпочитать;I **prefer** tea to coffee.;Я предпочитаю чай кофе.
+A2;verb;;prepare;;;prepared;prepared;готовить, подготавливать;She is **preparing** for her exam.;Она готовится к экзамену.
+A2;verb;;promise;;;promised;promised;обещать;I **promise** I will call you tomorrow.;Обещаю, что позвоню тебе завтра.
+A2;verb;;protect;;;protected;protected;защищать;Sunglasses **protect** your eyes from the sun.;Солнечные очки защищают глаза от солнца.
+A2;verb;;pull;;;pulled;pulled;тянуть;**Pull** the door to open it.;Потяни дверь, чтобы её открыть.
+A2;verb;;push;;;pushed;pushed;толкать;Don't **push**, there is room for everyone.;Не толкайтесь, места хватит всем.
+A2;verb;;receive;;;received;received;получать;Did you **receive** my email?;Ты получил моё письмо?
+A2;verb;;relax;;;relaxed;relaxed;расслабляться, отдыхать;I like to **relax** with a good book.;Я люблю отдыхать с хорошей книгой.
+A2;verb;;return;;;returned;returned;возвращаться, возвращать;He **returned** from London last night.;Он вернулся из Лондона вчера вечером.
+A2;verb;;ring;;;rang;rung;звонить;The phone **rang** in the middle of the night.;Телефон зазвонил посреди ночи.
+A2;verb;;save;;;saved;saved;копить, спасать, сохранять;I'm **saving** money for a new car.;Я коплю деньги на новую машину.
+A2;verb;;search;;;searched;searched;искать, обыскивать;The police **searched** the whole house.;Полиция обыскала весь дом.
+A2;verb;;seem;;;seemed;seemed;казаться;She **seems** very tired today.;Она сегодня кажется очень уставшей.
+A2;verb;;share;;;shared;shared;делиться, делить;I **share** a room with my brother.;Я живу в одной комнате с братом.
+A2;verb;;shout;;;shouted;shouted;кричать;Please don't **shout**, I can hear you.;Пожалуйста, не кричи, я тебя слышу.
+A2;verb;;shut;;;shut;shut;закрывать;**Shut** the window, it's cold.;Закрой окно, холодно.
+A2;verb;;sound;;;sounded;sounded;звучать;That **sounds** like a great idea.;Звучит как отличная идея.
+A2;verb;;steal;;;stole;stolen;красть, воровать;Someone **stole** my bike last night.;Кто-то украл мой велосипед прошлой ночью.
+A2;verb;;succeed;;;succeeded;succeeded;добиваться успеха, преуспевать;If you work hard, you will **succeed**.;Если будешь усердно работать, добьёшься успеха.
+A2;verb;;suggest;;;suggested;suggested;предлагать, советовать;I **suggest** we take a taxi.;Предлагаю взять такси.
+A2;verb;;throw;;;threw;thrown;бросать, кидать;**Throw** the ball to me!;Брось мне мяч!
+A2;verb;;touch;;;touched;touched;трогать, касаться;Please don't **touch** the paintings.;Пожалуйста, не трогайте картины.
+A2;verb;;win;;;won;won;выигрывать, побеждать;Our team **won** the match.;Наша команда выиграла матч.
+A2;verb;;wish;;;wished;wished;желать;I **wish** you a happy birthday!;Желаю тебе счастливого дня рождения!
+A2;verb;;worry;;;worried;worried;волноваться, беспокоиться;Don't **worry**, everything will be fine.;Не волнуйся, всё будет хорошо.
+A2;verb;;check in;;;checked in;checked in;регистрироваться, заселяться;We **checked in** at the hotel at noon.;Мы заселились в гостиницу в полдень.
+A2;verb;;come back;;;came back;come back;возвращаться;When will you **come back** from holiday?;Когда ты вернёшься из отпуска?
+A2;verb;;find out;;;found out;found out;выяснять, узнавать;I need to **find out** when the train leaves.;Мне нужно узнать, когда отходит поезд.
+A2;verb;;get off;;;got off;got off;выходить (из транспорта);We **get off** the bus at the next stop.;Мы выходим из автобуса на следующей остановке.
+A2;verb;;get on;;;got on;got on;садиться (в транспорт), ладить;She **got on** the train in Leeds.;Она села на поезд в Лидсе.
+A2;verb;;give back;;;gave back;given back;возвращать, отдавать обратно;Please **give back** my book tomorrow.;Пожалуйста, верни мою книгу завтра.
+A2;verb;;go out;;;went out;gone out;выходить, ходить развлекаться;We **go out** for dinner on Fridays.;По пятницам мы ходим ужинать в ресторан.
+A2;verb;;grow up;;;grew up;grown up;вырастать, взрослеть;I **grew up** in a small village.;Я вырос в маленькой деревне.
+A2;verb;;look after;;;looked after;looked after;заботиться, присматривать;Can you **look after** my cat this weekend?;Можешь присмотреть за моей кошкой на выходных?
+A2;verb;;look for;;;looked for;looked for;искать;I'm **looking for** my keys.;Я ищу свои ключи.
+A2;verb;;look forward to;;;looked forward to;looked forward to;с нетерпением ждать;I'm **looking forward to** the holidays.;Я с нетерпением жду каникул.
+A2;verb;;pick up;;;picked up;picked up;поднимать, забирать (кого-то);I'll **pick up** the kids from school.;Я заберу детей из школы.
+A2;verb;;sit down;;;sat down;sat down;садиться;Please **sit down** and wait.;Пожалуйста, садитесь и подождите.
+A2;verb;;stand up;;;stood up;stood up;вставать (на ноги);Everybody **stood up** when the teacher came in.;Все встали, когда вошёл учитель.
+A2;verb;;turn off;;;turned off;turned off;выключать;Don't forget to **turn off** the lights.;Не забудь выключить свет.
+A2;verb;;turn on;;;turned on;turned on;включать;Can you **turn on** the TV?;Можешь включить телевизор?
+A2;verb;;turn down;;;turned down;turned down;убавлять (звук), отказывать;Please **turn down** the music.;Пожалуйста, сделай музыку потише.
+A2;verb;;turn up;;;turned up;turned up;прибавлять (звук), появляться;Can you **turn up** the volume a bit?;Можешь немного прибавить громкость?
+A2;verb;;try on;;;tried on;tried on;примерять;Can I **try on** these jeans?;Можно примерить эти джинсы?
+A2;verb;;fill in;;;filled in;filled in;заполнять (анкету);Please **fill in** this form.;Пожалуйста, заполните эту анкету.
+A2;verb;;get back;;;got back;got back;возвращаться;We **got back** home very late.;Мы вернулись домой очень поздно.
+A2;verb;;give up;;;gave up;given up;бросать (привычку), сдаваться;My father **gave up** smoking last year.;Мой отец бросил курить в прошлом году.
+A2;verb;;go back;;;went back;gone back;возвращаться;I want to **go back** to Paris one day.;Когда-нибудь я хочу вернуться в Париж.
+A2;verb;;hurry up;;;hurried up;hurried up;поторапливаться;**Hurry up**, the film is starting!;Поторопись, фильм начинается!
+A2;verb;;lie down;;;lay down;lain down;ложиться;I feel ill, I need to **lie down**.;Мне плохо, мне нужно прилечь.
+A2;verb;;look up;;;looked up;looked up;искать (в словаре), поднимать взгляд;**Look up** the word in a dictionary.;Найди это слово в словаре.
+A2;verb;;put away;;;put away;put away;убирать (на место);**Put away** your toys, please.;Убери, пожалуйста, свои игрушки.
+A2;verb;;set off;;;set off;set off;отправляться (в путь);We **set off** early in the morning.;Мы отправились в путь рано утром.
+A2;verb;;slow down;;;slowed down;slowed down;замедляться, сбавлять скорость;Please **slow down**, you're driving too fast.;Пожалуйста, сбавь скорость, ты едешь слишком быстро.
+A2;verb;;throw away;;;threw away;thrown away;выбрасывать;Don't **throw away** those old photos.;Не выбрасывай эти старые фотографии.
+A2;verb;;write down;;;wrote down;written down;записывать;**Write down** my phone number.;Запиши мой номер телефона.
+A2;verb;;come in;;;came in;come in;входить;**Come in** and sit down, please.;Входите и садитесь, пожалуйста.
+A2;verb;;go on;;;went on;gone on;продолжать, происходить;What's **going on** here?;Что здесь происходит?
+A2;verb;;get dressed;;;got dressed;got dressed;одеваться;I **got dressed** quickly and ran out.;Я быстро оделся и выбежал на улицу.
+A2;verb;;clear up;;;cleared up;cleared up;убирать, наводить порядок;Let's **clear up** after the party.;Давай уберёмся после вечеринки.
+A2;verb;;break down;;;broke down;broken down;ломаться (о машине);Our car **broke down** on the motorway.;Наша машина сломалась на трассе.
+A2;verb;;go away;;;went away;gone away;уходить, уезжать;We **went away** for the weekend.;Мы уехали на выходные.
+A2;verb;;run out of;;;ran out of;run out of;заканчиваться (о запасе);We've **run out of** milk.;У нас закончилось молоко.
+A2;verb;;stay up;;;stayed up;stayed up;не ложиться спать;We **stayed up** until midnight.;Мы не ложились спать до полуночи.
+A2;verb;;belong to;;;belonged to;belonged to;принадлежать (кому-то);Who does this umbrella **belong to**?;Кому принадлежит этот зонт?
+A2;verb;;wait for;;;waited for;waited for;ждать (кого-то, что-то);I'm **waiting for** the bus.;Я жду автобус.
+A2;verb;;depend;;;depended;depended;зависеть;It **depends** on the weather.;Это зависит от погоды.
+A2;verb;;mind;;;minded;minded;возражать, быть против;Do you **mind** if I open the window?;Вы не против, если я открою окно?
+A2;verb;;post;;;posted;posted;отправлять почтой, публиковать;I **posted** the letter this morning.;Я отправил письмо сегодня утром.
+A2;verb;;print;;;printed;printed;печатать, распечатывать;Can you **print** the tickets for me?;Можешь распечатать для меня билеты?
+A2;verb;;tidy;;;tidied;tidied;убирать, наводить порядок;Please **tidy** your room before dinner.;Пожалуйста, убери свою комнату до ужина.
+A2;verb;;invent;;;invented;invented;изобретать, придумывать;Who **invented** the telephone?;Кто изобрёл телефон?
+A2;verb;;kick;;;kicked;kicked;пинать, ударять ногой;He **kicked** the ball into the goal.;Он забил мяч в ворота.
+A2;verb;;shine;;;shone;shone;светить, сиять;The sun is **shining** today.;Сегодня светит солнце.
+A2;verb;;smell;;;smelled/smelt;smelled/smelt;пахнуть, нюхать;The bread **smells** wonderful.;Хлеб чудесно пахнет.
+A2;verb;;taste;;;tasted;tasted;пробовать, иметь вкус;This soup **tastes** great.;У этого супа отличный вкус.
+A2;verb;;sell out;;;sold out;sold out;распродавать;The concert tickets **sold out** in an hour.;Билеты на концерт раскупили за час.
+A2;adj;;alone;;;;;один, одинокий;She lives **alone** in a big house.;Она живёт одна в большом доме.
+A2;adj;;amazing;;;;;удивительный, потрясающий;The view from the top was **amazing**.;Вид с вершины был потрясающим.
+A2;adj;;awful;;;;;ужасный;The weather was **awful** all week.;Всю неделю погода была ужасной.
+A2;adj;;bored;;;;;скучающий;I'm **bored**, let's go out.;Мне скучно, давай куда-нибудь сходим.
+A2;adj;;brave;;;;;храбрый, смелый;The **brave** firefighter saved the child.;Храбрый пожарный спас ребёнка.
+A2;adj;;bright;;;;;яркий, светлый;I love **bright** colours like orange.;Я люблю яркие цвета, например оранжевый.
+A2;adj;;broken;;;;;сломанный, разбитый;My phone screen is **broken**.;У меня разбит экран телефона.
+A2;adj;;careful;;;;;осторожный, внимательный;Be **careful** on the icy road.;Будь осторожен на скользкой дороге.
+A2;adj;;cheerful;;;;;весёлый, жизнерадостный;She is always **cheerful** in the morning.;Она всегда весёлая по утрам.
+A2;adj;;clever;;;;;умный, сообразительный;He is a very **clever** student.;Он очень умный студент.
+A2;adj;;comfortable;;;;;удобный;These shoes are really **comfortable**.;Эти туфли очень удобные.
+A2;adj;;common;;;;;распространённый, обычный;Smith is a **common** name in England.;Смит — распространённая фамилия в Англии.
+A2;adj;;cool;;;;;прохладный, классный;It's nice and **cool** in the shade.;В тени приятно и прохладно.
+A2;adj;;crazy;;;;;сумасшедший, безумный;That's a **crazy** idea!;Это безумная идея!
+A2;adj;;dangerous;;;;;опасный;Swimming here is **dangerous**.;Плавать здесь опасно.
+A2;adj;;dead;;;;;мёртвый;The plant is **dead**, it needed water.;Растение погибло, ему нужна была вода.
+A2;adj;;dear;;;;;дорогой, милый;**Dear** Anna, thank you for your letter.;Дорогая Анна, спасибо за письмо.
+A2;adj;;deep;;;;;глубокий;The lake is very **deep** here.;Здесь озеро очень глубокое.
+A2;adj;;dry;;;;;сухой;Keep your feet warm and **dry**.;Держи ноги в тепле и сухости.
+A2;adj;;excellent;;;;;отличный, превосходный;Your work is **excellent**.;Твоя работа превосходна.
+A2;adj;;exciting;;;;;захватывающий, волнующий;It was an **exciting** football match.;Это был захватывающий футбольный матч.
+A2;adj;;fair;;;;;справедливый, светлый (о волосах);That's not **fair**, it's my turn!;Это нечестно, сейчас моя очередь!
+A2;adj;;fantastic;;;;;фантастический, замечательный;We had a **fantastic** holiday.;У нас был замечательный отпуск.
+A2;adj;;foggy;;;;;туманный;It was too **foggy** to drive.;Было слишком туманно, чтобы ехать.
+A2;adj;;foreign;;;;;иностранный;Do you speak any **foreign** languages?;Ты говоришь на каких-нибудь иностранных языках?
+A2;adj;;fresh;;;;;свежий;I buy **fresh** bread every morning.;Я покупаю свежий хлеб каждое утро.
+A2;adj;;frightened;;;;;испуганный;The child was **frightened** by the storm.;Ребёнок испугался грозы.
+A2;adj;;glad;;;;;довольный, рад;I'm **glad** you could come.;Я рад, что ты смог прийти.
+A2;adj;;gold;;;;;золотой;She wore a **gold** ring.;На ней было золотое кольцо.
+A2;adj;;helpful;;;;;полезный, услужливый;The staff were very **helpful**.;Персонал был очень отзывчивым.
+A2;adj;;honest;;;;;честный;Please be **honest** with me.;Пожалуйста, будь со мной честен.
+A2;adj;;horrible;;;;;ужасный, отвратительный;The food tasted **horrible**.;Еда была отвратительной на вкус.
+A2;adj;;huge;;;;;огромный;They live in a **huge** house.;Они живут в огромном доме.
+A2;adj;;impossible;;;;;невозможный;It's **impossible** to sleep with this noise.;При таком шуме невозможно спать.
+A2;adj;;large;;;;;большой, крупный;Can I have a **large** coffee, please?;Можно мне большой кофе, пожалуйста?
+A2;adj;;lazy;;;;;ленивый;Don't be so **lazy**, help me!;Не ленись, помоги мне!
+A2;adj;;lonely;;;;;одинокий;He felt **lonely** in the new city.;В новом городе ему было одиноко.
+A2;adj;;lost;;;;;потерянный, заблудившийся;Excuse me, I think I'm **lost**.;Извините, кажется, я заблудился.
+A2;adj;;lovely;;;;;прекрасный, милый;What a **lovely** garden!;Какой прекрасный сад!
+A2;adj;;lucky;;;;;удачливый, везучий;You are **lucky** to have such good friends.;Тебе повезло, что у тебя такие хорошие друзья.
+A2;adj;;modern;;;;;современный;They live in a **modern** flat.;Они живут в современной квартире.
+A2;adj;;narrow;;;;;узкий;The streets in the old town are **narrow**.;Улицы в старом городе узкие.
+A2;adj;;nervous;;;;;нервный, взволнованный;I always feel **nervous** before exams.;Я всегда нервничаю перед экзаменами.
+A2;adj;;noisy;;;;;шумный;Our neighbours are very **noisy**.;Наши соседи очень шумные.
+A2;adj;;normal;;;;;нормальный, обычный;It was just a **normal** day at work.;Это был самый обычный день на работе.
+A2;adj;;polite;;;;;вежливый;Always be **polite** to your guests.;Всегда будь вежлив с гостями.
+A2;adj;;popular;;;;;популярный;This song is very **popular** right now.;Эта песня сейчас очень популярна.
+A2;adj;;possible;;;;;возможный;Is it **possible** to book a table for six?;Можно забронировать столик на шестерых?
+A2;adj;;private;;;;;частный, личный;This is a **private** beach.;Это частный пляж.
+A2;adj;;proud;;;;;гордый;Her parents are very **proud** of her.;Её родители очень ею гордятся.
+A2;adj;;quick;;;;;быстрый;Can I ask you a **quick** question?;Можно задать тебе быстрый вопрос?
+A2;adj;;rude;;;;;грубый, невежливый;It's **rude** to talk with your mouth full.;Говорить с набитым ртом невежливо.
+A2;adj;;safe;;;;;безопасный;Is it **safe** to walk here at night?;Здесь безопасно гулять ночью?
+A2;adj;;serious;;;;;серьёзный;Don't laugh, this is **serious**.;Не смейся, это серьёзно.
+A2;adj;;sharp;;;;;острый;Be careful, the knife is very **sharp**.;Осторожно, нож очень острый.
+A2;adj;;shy;;;;;застенчивый, стеснительный;My son is a bit **shy** with strangers.;Мой сын немного стесняется незнакомых людей.
+A2;adj;;silly;;;;;глупый, дурацкий;Stop asking **silly** questions.;Перестань задавать глупые вопросы.
+A2;adj;;silver;;;;;серебряный;She gave me a **silver** necklace.;Она подарила мне серебряное ожерелье.
+A2;adj;;simple;;;;;простой;The recipe is quick and **simple**.;Рецепт быстрый и простой.
+A2;adj;;slim;;;;;стройный, тонкий;She is tall and **slim**.;Она высокая и стройная.
+A2;adj;;special;;;;;особый, особенный;Today is a **special** day for our family.;Сегодня особенный день для нашей семьи.
+A2;adj;;strange;;;;;странный;I heard a **strange** noise last night.;Прошлой ночью я слышал странный шум.
+A2;adj;;stupid;;;;;глупый;It was a **stupid** mistake.;Это была глупая ошибка.
+A2;adj;;surprised;;;;;удивлённый;I was **surprised** to see him there.;Я удивился, увидев его там.
+A2;adj;;sweet;;;;;сладкий, милый;This cake is too **sweet** for me.;Этот торт слишком сладкий для меня.
+A2;adj;;thick;;;;;толстый, густой;He was reading a **thick** book.;Он читал толстую книгу.
+A2;adj;;tiny;;;;;крошечный;They live in a **tiny** flat.;Они живут в крошечной квартире.
+A2;adj;;typical;;;;;типичный;This is a **typical** English breakfast.;Это типичный английский завтрак.
+A2;adj;;ugly;;;;;уродливый, некрасивый;What an **ugly** building!;Какое некрасивое здание!
+A2;adj;;unhappy;;;;;несчастный, недовольный;She looks **unhappy** today.;Она сегодня выглядит несчастной.
+A2;adj;;unusual;;;;;необычный;That's an **unusual** name.;Это необычное имя.
+A2;adj;;useful;;;;;полезный;This app is really **useful**.;Это приложение очень полезное.
+A2;adj;;wet;;;;;мокрый, влажный;My hair is still **wet**.;У меня волосы ещё мокрые.
+A2;adj;;wide;;;;;широкий;The river is very **wide** here.;Здесь река очень широкая.
+A2;adj;;wild;;;;;дикий;We saw **wild** horses in the mountains.;Мы видели диких лошадей в горах.
+A2;adj;;worried;;;;;обеспокоенный, встревоженный;I'm **worried** about my exam.;Я волнуюсь из-за экзамена.
+A2;adj;;boiled;;;;;варёный;I had a **boiled** egg for breakfast.;На завтрак я съел варёное яйцо.
+A2;adj;;fried;;;;;жареный;Would you like **fried** potatoes with that?;Хотите к этому жареную картошку?
+A2;adj;;spicy;;;;;острый, пряный;I love **spicy** Indian food.;Я люблю острую индийскую еду.
+A2;adj;;smart;;;;;умный, нарядный;You look very **smart** in that suit.;В этом костюме ты выглядишь очень нарядно.
+A2;adj;;curly;;;;;кудрявый, вьющийся;She has long **curly** hair.;У неё длинные кудрявые волосы.
+A2;adj;;straight;;;;;прямой;He has short **straight** hair.;У него короткие прямые волосы.
+A2;adj;;elderly;;;;;пожилой;An **elderly** man sat next to me.;Рядом со мной сел пожилой мужчина.
+A2;adj;;awake;;;;;бодрствующий, не спящий;Are you still **awake**?;Ты ещё не спишь?
+A2;adj;;asleep;;;;;спящий;The baby is **asleep** upstairs.;Малыш спит наверху.
+A2;adj;;certain;;;;;уверенный, определённый;Are you **certain** about that?;Ты в этом уверен?
+A2;adj;;correct;;;;;правильный, верный;Your answer is **correct**.;Твой ответ правильный.
+A2;adj;;clear;;;;;ясный, понятный;Is everything **clear** now?;Теперь всё понятно?
+A2;adv;;anywhere;;;;;где угодно, где-нибудь;Have you seen my keys **anywhere**?;Ты нигде не видел мои ключи?
+A2;adv;;away;;;;;прочь, далеко;Go **away**, I'm busy!;Уходи, я занят!
+A2;adv;;carefully;;;;;осторожно, внимательно;Please drive **carefully**.;Пожалуйста, веди машину осторожно.
+A2;adv;;especially;;;;;особенно;I love fruit, **especially** strawberries.;Я люблю фрукты, особенно клубнику.
+A2;adv;;even;;;;;даже;He works **even** at weekends.;Он работает даже по выходным.
+A2;adv;;ever;;;;;когда-либо;Have you **ever** been to Spain?;Ты когда-нибудь был в Испании?
+A2;adv;;finally;;;;;наконец, в конце концов;We **finally** arrived at midnight.;Мы наконец приехали в полночь.
+A2;adv;;nearly;;;;;почти;It's **nearly** ten o'clock.;Уже почти десять часов.
+A2;adv;;quite;;;;;довольно, вполне;The test was **quite** easy.;Тест был довольно лёгким.
+A2;adv;;rather;;;;;довольно, скорее;It's **rather** cold today.;Сегодня довольно холодно.
+A2;adv;;suddenly;;;;;вдруг, внезапно;**Suddenly**, the lights went out.;Вдруг погас свет.
+A2;adv;;yet;;;;;ещё, уже (в вопросах);Have you finished **yet**?;Ты уже закончил?
+A2;adv;;abroad;;;;;за границей, за границу;We usually go **abroad** in summer.;Летом мы обычно ездим за границу.
+A2;prep;;above;;;;;над, выше;There is a lamp **above** the table.;Над столом висит лампа.
+A2;prep;;across;;;;;через, поперёк;We walked **across** the bridge.;Мы прошли через мост.
+A2;prep;;along;;;;;вдоль, по;We walked **along** the beach.;Мы гуляли вдоль пляжа.
+A2;prep;;below;;;;;ниже, под;The temperature is **below** zero.;Температура ниже нуля.
+A2;prep;;during;;;;;во время, в течение;I fell asleep **during** the film.;Я уснул во время фильма.
+A2;prep;;through;;;;;через, сквозь;The train goes **through** a long tunnel.;Поезд проходит через длинный туннель.
+A2;prep;;towards;;;;;к, по направлению к;He walked **towards** the door.;Он пошёл к двери.
+A2;conj;;although;;;;;хотя;**Although** it was raining, we went out.;Хотя шёл дождь, мы вышли на улицу.
+A2;conj;;unless;;;;;если не;We'll be late **unless** we hurry.;Мы опоздаем, если не поторопимся.
+A2;conj;;while;;;;;пока, в то время как;I read a book **while** I waited.;Пока я ждал, я читал книгу.
+A2;conj;;since;;;;;с тех пор как, так как;I've known her **since** we were children.;Я знаю её с тех пор, как мы были детьми.
+A2;pron;;anything;;;;;что-нибудь, ничего (в отриц.);Do you need **anything** from the shop?;Тебе что-нибудь нужно из магазина?
+A2;pron;;myself;;;;;себя, сам;I made this cake **myself**.;Я сам испёк этот торт.
+A2;adj;;cute;;;;;милый, симпатичный;What a **cute** little puppy!;Какой милый маленький щенок!
+A2;adj;;fit;;;;;в хорошей форме, спортивный;He runs every day to stay **fit**.;Он бегает каждый день, чтобы оставаться в форме.
+A2;adj;;sore;;;;;больной, воспалённый;I have a **sore** throat.;У меня болит горло.
+A2;adj;;upset;;;;;расстроенный;She was **upset** about the bad news.;Она расстроилась из-за плохой новости.
+A2;adj;;pleased;;;;;довольный;I'm very **pleased** with my new car.;Я очень доволен своей новой машиной.
+A2;adj;;embarrassed;;;;;смущённый;I felt **embarrassed** when I fell over.;Мне было неловко, когда я упал.
+A2;adj;;dull;;;;;скучный, пасмурный;It was a **dull** and grey day.;Был пасмурный и серый день.
+A2;adj;;fashionable;;;;;модный;She always wears **fashionable** clothes.;Она всегда носит модную одежду.
+A2;adj;;crowded;;;;;переполненный, людный;The bus was very **crowded** this morning.;Сегодня утром автобус был переполнен.
+A2;adj;;public;;;;;общественный, публичный;Is there a **public** toilet near here?;Здесь поблизости есть общественный туалет?
+A2;adj;;local;;;;;местный;We buy vegetables at the **local** market.;Мы покупаем овощи на местном рынке.
+A2;adj;;international;;;;;международный;It's an **international** school with students from everywhere.;Это международная школа с учениками отовсюду.
+A2;adj;;national;;;;;национальный, государственный;Today is a **national** holiday.;Сегодня государственный праздник.
+A2;adj;;traditional;;;;;традиционный;We cooked a **traditional** Russian dish.;Мы приготовили традиционное русское блюдо.
+A2;adj;;whole;;;;;целый, весь;He ate the **whole** pizza by himself.;Он съел целую пиццу сам.
+A2;adj;;main;;;;;главный, основной;The **main** entrance is on the left.;Главный вход слева.
+A2;adj;;perfect;;;;;идеальный, совершенный;The weather was **perfect** for a picnic.;Погода была идеальной для пикника.
+A2;adj;;fluent;;;;;беглый, свободный (о речи);She speaks **fluent** French.;Она свободно говорит по-французски.
+A2;adj;;round;;;;;круглый;We have a **round** table in the kitchen.;У нас на кухне круглый стол.
+A2;adj;;square;;;;;квадратный;The room is small and **square**.;Комната маленькая и квадратная.
+A2;adj;;low;;;;;низкий;The prices here are very **low**.;Цены здесь очень низкие.
+A2;adj;;independent;;;;;независимый, самостоятельный;She is very **independent** for her age.;Она очень самостоятельная для своего возраста.
+A2;adj;;relaxed;;;;;расслабленный, спокойный;I feel very **relaxed** after my holiday.;После отпуска я чувствую себя очень расслабленным.
+A2;adj;;relaxing;;;;;расслабляющий;A hot bath is very **relaxing**.;Горячая ванна очень расслабляет.
+A2;adj;;surprising;;;;;удивительный, неожиданный;The end of the film was **surprising**.;Конец фильма был неожиданным.
+A2;adj;;disappointed;;;;;разочарованный;I was **disappointed** with the hotel.;Я был разочарован гостиницей.
+A2;adj;;hopeless;;;;;безнадёжный;I'm **hopeless** at maths.;Я безнадёжен в математике.
+A2;adv;;else;;;;;ещё, кроме;Would you like anything **else**?;Хотите что-нибудь ещё?
+A2;adv;;enough;;;;;достаточно;Are you old **enough** to drive?;Ты достаточно взрослый, чтобы водить машину?
+A2;adv;;instead;;;;;вместо этого;I didn't have tea, I had coffee **instead**.;Я не пил чай, вместо этого выпил кофе.
+A2;adv;;twice;;;;;дважды;I brush my teeth **twice** a day.;Я чищу зубы дважды в день.
+A2;adv;;probably;;;;;вероятно, наверное;It will **probably** rain tomorrow.;Завтра, вероятно, будет дождь.
+A2;adv;;perhaps;;;;;возможно, может быть;**Perhaps** we can meet next week.;Возможно, мы сможем встретиться на следующей неделе.
+A2;adv;;recently;;;;;недавно;I **recently** started a new job.;Я недавно начал работать на новом месте.
+A2;adv;;immediately;;;;;немедленно, сразу;Call me **immediately** when you arrive.;Позвони мне сразу, как приедешь.
+A2;adv;;easily;;;;;легко;She **easily** won the race.;Она легко выиграла гонку.
+A2;adv;;badly;;;;;плохо, сильно;He was **badly** hurt in the accident.;Он сильно пострадал в аварии.
+A2;adv;;loudly;;;;;громко;Please don't talk so **loudly**.;Пожалуйста, не говори так громко.
+A2;adv;;quietly;;;;;тихо;She closed the door **quietly**.;Она тихо закрыла дверь.
+A2;adv;;actually;;;;;на самом деле, вообще-то;**Actually**, I don't like coffee.;Вообще-то я не люблю кофе.
+A2;prep;;against;;;;;против;Are you for or **against** the plan?;Ты за или против этого плана?
+A2;prep;;beside;;;;;рядом с, возле;Come and sit **beside** me.;Иди и сядь рядом со мной.
+A2;prep;;past;;;;;мимо, после;Walk **past** the bank and turn left.;Пройдите мимо банка и поверните налево.
+A2;prep;;except;;;;;кроме, за исключением;Everyone came **except** Tom.;Пришли все, кроме Тома.
+A2;conj;;as;;;;;так как, когда, как;**As** it was late, we took a taxi.;Так как было поздно, мы взяли такси.
+A2;conj;;whether;;;;;ли;I don't know **whether** he is coming.;Я не знаю, придёт ли он.
+A2;pron;;anybody;;;;;кто-нибудь, никто (в отриц.);Is **anybody** at home?;Есть кто-нибудь дома?
+A2;pron;;somebody;;;;;кто-то;**Somebody** called you this morning.;Тебе кто-то звонил сегодня утром.
+A2;pron;;each other;;;;;друг друга;They have known **each other** for years.;Они знают друг друга много лет.
+A2;pron;;yourself;;;;;себя, сам (ты);Help **yourself** to some cake.;Угощайся тортом.
+A2;pron;;none;;;;;ни один, никто;**None** of my friends can come.;Никто из моих друзей не может прийти.
