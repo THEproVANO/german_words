@@ -3572,3 +3572,700 @@ A1;noun;;schoolgirl;schoolgirls;;;;школьница;The **schoolgirl** is read
 A1;noun;;board game;board games;;;;настольная игра;We often play **board games** at home.;Мы часто играем дома в настольные игры.
 A1;noun;;taxi driver;taxi drivers;;;;таксист;My uncle is a **taxi driver**.;Мой дядя — таксист.
 A1;noun;;fast food;-;;;;фастфуд;**Fast food** is not very healthy.;Фастфуд не очень полезен.
+B2;noun;;inequality;inequalities;;;;неравенство;The report highlights growing **inequality** between rich and poor.;В докладе подчёркивается растущее неравенство между богатыми и бедными.
+B2;noun;;discrimination;-;;;;дискриминация;**Discrimination** at work is against the law.;Дискриминация на работе противоречит закону.
+B2;noun;;prejudice;prejudices;;;;предрассудок, предубеждение;We must fight **prejudice** in all its forms.;Мы должны бороться с предрассудками во всех их формах.
+B2;noun;;racism;-;;;;расизм;The campaign aims to tackle **racism** in football.;Кампания направлена на борьбу с расизмом в футболе.
+B2;noun;;homelessness;-;;;;бездомность;**Homelessness** has become a serious problem in big cities.;Бездомность стала серьёзной проблемой в больших городах.
+B2;noun;;activist;activists;;;;активист;Environmental **activists** blocked the road this morning.;Экологические активисты перекрыли дорогу сегодня утром.
+B2;noun;;donation;donations;;;;пожертвование;They made a generous **donation** to the hospital.;Они сделали щедрое пожертвование больнице.
+B2;noun;;abuse;-;;;;жестокое обращение, злоупотребление;Child **abuse** is a terrible crime.;Жестокое обращение с детьми — ужасное преступление.
+B2;noun;;injustice;injustices;;;;несправедливость;She spoke out against social **injustice**.;Она выступила против социальной несправедливости.
+B2;noun;;diversity;-;;;;разнообразие;The city is famous for its cultural **diversity**.;Город славится своим культурным разнообразием.
+B2;noun;;tolerance;-;;;;терпимость, толерантность;Schools should teach **tolerance** and respect.;Школы должны учить терпимости и уважению.
+B2;noun;;integration;-;;;;интеграция;Language classes help the **integration** of newcomers.;Языковые курсы помогают интеграции приезжих.
+B2;noun;;resident;residents;;;;житель;Local **residents** complained about the noise.;Местные жители жаловались на шум.
+B2;noun;;household;households;;;;домохозяйство, семья;Most **households** now have internet access.;Большинство домохозяйств теперь имеют доступ к интернету.
+B2;noun;;lifestyle;lifestyles;;;;образ жизни;A healthy **lifestyle** can prevent many diseases.;Здоровый образ жизни может предотвратить многие болезни.
+B2;noun;;heritage;-;;;;наследие;The old town is part of our cultural **heritage**.;Старый город — часть нашего культурного наследия.
+B2;noun;;identity;identities;;;;идентичность, личность;Language is an important part of national **identity**.;Язык — важная часть национальной идентичности.
+B2;noun;;status;statuses;;;;статус, положение;Money is often linked to social **status**.;Деньги часто связаны с социальным статусом.
+B2;noun;;privilege;privileges;;;;привилегия;Education should be a right, not a **privilege**.;Образование должно быть правом, а не привилегией.
+B2;noun;;petition;petitions;;;;петиция;Over ten thousand people signed the **petition**.;Более десяти тысяч человек подписали петицию.
+B2;noun;;shelter;shelters;;;;приют, убежище;They spent the night in a homeless **shelter**.;Они провели ночь в приюте для бездомных.
+B2;noun;;conflict;conflicts;;;;конфликт;The **conflict** between the two groups lasted years.;Конфликт между двумя группами длился годами.
+B2;noun;;riot;riots;;;;бунт, беспорядки;Police were called to stop the **riot**.;Полицию вызвали, чтобы остановить беспорядки.
+B2;noun;;vandalism;-;;;;вандализм;The park was closed because of **vandalism**.;Парк закрыли из-за вандализма.
+B2;noun;;rally;rallies;;;;митинг;Thousands attended the political **rally**.;Тысячи людей пришли на политический митинг.
+B2;noun;;slum;slums;;;;трущобы;Many families still live in **slums** outside the city.;Многие семьи всё ещё живут в трущобах за городом.
+B2;noun;;motivation;-;;;;мотивация;Lack of **motivation** is the main problem.;Главная проблема — отсутствие мотивации.
+B2;noun;;perception;perceptions;;;;восприятие;Social media affects our **perception** of reality.;Социальные сети влияют на наше восприятие реальности.
+B2;noun;;instinct;instincts;;;;инстинкт, чутьё;My first **instinct** was to run away.;Моим первым порывом было убежать.
+B2;noun;;impulse;impulses;;;;порыв, импульс;I bought the dress on **impulse**.;Я купила платье под влиянием порыва.
+B2;noun;;frustration;frustrations;;;;досада, раздражение;She shouted in **frustration** at the broken computer.;Она закричала от досады на сломанный компьютер.
+B2;noun;;resentment;-;;;;обида, негодование;He felt deep **resentment** towards his brother.;Он испытывал глубокую обиду на брата.
+B2;noun;;confusion;-;;;;замешательство, путаница;There was some **confusion** about the meeting time.;Возникла путаница со временем встречи.
+B2;noun;;curiosity;-;;;;любопытство;The child looked at the box with **curiosity**.;Ребёнок с любопытством смотрел на коробку.
+B2;noun;;enthusiasm;-;;;;энтузиазм;She started her new job with great **enthusiasm**.;Она начала новую работу с большим энтузиазмом.
+B2;noun;;determination;-;;;;решимость, целеустремлённость;Her **determination** helped her win the race.;Решимость помогла ей выиграть гонку.
+B2;noun;;self-esteem;-;;;;самооценка;Bullying can damage a child's **self-esteem**.;Травля может подорвать самооценку ребёнка.
+B2;noun;;insecurity;insecurities;;;;неуверенность в себе;Teenagers often struggle with **insecurity** about their looks.;Подростки часто испытывают неуверенность в своей внешности.
+B2;noun;;phobia;phobias;;;;фобия;She has a **phobia** of spiders.;У неё фобия пауков.
+B2;noun;;trauma;traumas;;;;травма (психологическая);The accident left him with deep emotional **trauma**.;Авария оставила у него глубокую эмоциональную травму.
+B2;noun;;mindset;mindsets;;;;образ мышления, установка;Success starts with the right **mindset**.;Успех начинается с правильного образа мышления.
+B2;noun;;willpower;-;;;;сила воли;It takes **willpower** to give up sugar.;Чтобы отказаться от сахара, нужна сила воли.
+B2;noun;;stereotype;stereotypes;;;;стереотип;The film challenges **stereotypes** about older people.;Фильм бросает вызов стереотипам о пожилых людях.
+B2;noun;;bias;biases;;;;предвзятость;The newspaper was accused of political **bias**.;Газету обвинили в политической предвзятости.
+B2;noun;;conscience;consciences;;;;совесть;He had a guilty **conscience** about the lie.;Его мучила совесть из-за лжи.
+B2;noun;;intuition;-;;;;интуиция;She trusted her **intuition** and refused the offer.;Она доверилась интуиции и отказалась от предложения.
+B2;noun;;obsession;obsessions;;;;одержимость, навязчивая идея;His **obsession** with fitness worries his wife.;Его одержимость фитнесом беспокоит жену.
+B2;noun;;satisfaction;-;;;;удовлетворение;She gets great **satisfaction** from helping others.;Помощь другим приносит ей большое удовлетворение.
+B2;noun;;empathy;-;;;;эмпатия, сопереживание;Good doctors show **empathy** towards their patients.;Хорошие врачи проявляют сопереживание к пациентам.
+B2;noun;;compassion;-;;;;сострадание;She treated the refugees with **compassion**.;Она относилась к беженцам с состраданием.
+B2;noun;;gratitude;-;;;;благодарность, признательность;He expressed his **gratitude** to the doctors.;Он выразил благодарность врачам.
+B2;noun;;despair;-;;;;отчаяние;She cried in **despair** when she heard the news.;Услышав новость, она заплакала от отчаяния.
+B2;noun;;aggression;-;;;;агрессия;Some video games are said to encourage **aggression**.;Говорят, некоторые видеоигры поощряют агрессию.
+B2;noun;;manipulation;-;;;;манипуляция;Advertising often relies on emotional **manipulation**.;Реклама часто опирается на эмоциональную манипуляцию.
+B2;noun;;persuasion;-;;;;убеждение, уговоры;After some **persuasion**, he agreed to come.;После некоторых уговоров он согласился прийти.
+B2;noun;;peer;peers;;;;сверстник, ровесник;Teenagers often feel pressure from their **peers**.;Подростки часто чувствуют давление со стороны сверстников.
+B2;noun;;self-control;-;;;;самообладание, самоконтроль;He lost his **self-control** and started shouting.;Он потерял самообладание и начал кричать.
+B2;noun;;temptation;temptations;;;;искушение, соблазн;I couldn't resist the **temptation** to eat the cake.;Я не смог устоять перед соблазном съесть торт.
+B2;noun;;denial;-;;;;отрицание;He is still in **denial** about his illness.;Он всё ещё отрицает свою болезнь.
+B2;noun;;therapist;therapists;;;;психотерапевт;Her **therapist** helped her deal with the anxiety.;Психотерапевт помог ей справиться с тревогой.
+B2;noun;;psychologist;psychologists;;;;психолог;The school has hired a full-time **psychologist**.;Школа наняла штатного психолога.
+B2;noun;;psychiatrist;psychiatrists;;;;психиатр;The **psychiatrist** prescribed medication for his depression.;Психиатр назначил ему лекарства от депрессии.
+B2;noun;;counsellor;counsellors;;;;консультант, школьный психолог;Students can talk to a **counsellor** about their problems.;Студенты могут поговорить о своих проблемах с психологом.
+B2;noun;;well-being;-;;;;благополучие;Exercise is good for your mental **well-being**.;Физические упражнения полезны для психического благополучия.
+B2;noun;;mentality;mentalities;;;;менталитет;We need to change the **mentality** of the whole team.;Нам нужно изменить менталитет всей команды.
+B2;noun;;trait;traits;;;;черта (характера);Honesty is his best **trait**.;Честность — его лучшая черта.
+B2;noun;;temperament;temperaments;;;;темперамент;The two sisters have very different **temperaments**.;У двух сестёр очень разные темпераменты.
+B2;noun;;ego;egos;;;;эго, самолюбие;Winning the award boosted his **ego**.;Получение награды потешило его самолюбие.
+B2;noun;;awareness;-;;;;осведомлённость, осознание;The campaign raised **awareness** of mental health.;Кампания повысила осведомлённость о психическом здоровье.
+B2;noun;;consciousness;-;;;;сознание;He lost **consciousness** after hitting his head.;Он потерял сознание, ударившись головой.
+B2;noun;;anticipation;-;;;;предвкушение, ожидание;The children waited for Christmas with **anticipation**.;Дети ждали Рождества с предвкушением.
+B2;noun;;hostility;-;;;;враждебность;He was surprised by the **hostility** of the crowd.;Его удивила враждебность толпы.
+B2;noun;;rebellion;rebellions;;;;бунт, восстание;Teenage **rebellion** is a normal part of growing up.;Подростковый бунт — нормальная часть взросления.
+B2;noun;;conformity;-;;;;конформизм, следование нормам;The school demanded strict **conformity** to its rules.;Школа требовала строгого соблюдения своих правил.
+B2;noun;;craving;cravings;;;;сильное желание, тяга;I have a **craving** for chocolate right now.;Меня сейчас ужасно тянет на шоколад.
+B2;noun;;nostalgia;-;;;;ностальгия;Old songs fill me with **nostalgia**.;Старые песни наполняют меня ностальгией.
+B2;noun;;grief;-;;;;горе, скорбь;She was overcome with **grief** after his death.;После его смерти её охватило горе.
+B2;noun;;rage;-;;;;ярость;He was shaking with **rage**.;Он дрожал от ярости.
+B2;noun;;delight;-;;;;восторг, наслаждение;The children screamed with **delight**.;Дети визжали от восторга.
+B2;noun;;acquaintance;acquaintances;;;;знакомый, знакомство;He is not a friend, just an **acquaintance**.;Он не друг, а просто знакомый.
+B2;noun;;companion;companions;;;;спутник, компаньон;Her dog is her constant **companion**.;Её собака — её постоянный спутник.
+B2;noun;;companionship;-;;;;дружеское общение;Older people often need **companionship** more than help.;Пожилым людям часто нужно общение больше, чем помощь.
+B2;noun;;separation;separations;;;;разлука, расставание;The long **separation** was hard for both of them.;Долгая разлука была тяжела для них обоих.
+B2;noun;;spouse;spouses;;;;супруг, супруга;Employees may bring their **spouses** to the party.;Сотрудники могут привести на вечеринку своих супругов.
+B2;noun;;fiancé;fiancés;;;;жених (помолвленный);She introduced me to her **fiancé**.;Она познакомила меня со своим женихом.
+B2;noun;;groom;grooms;;;;жених (на свадьбе);The **groom** gave a funny speech.;Жених произнёс смешную речь.
+B2;noun;;widow;widows;;;;вдова;She has been a **widow** for ten years.;Она вдова уже десять лет.
+B2;noun;;widower;widowers;;;;вдовец;The old **widower** lives alone with his cat.;Старый вдовец живёт один со своей кошкой.
+B2;noun;;sibling;siblings;;;;брат или сестра;She gets on well with all her **siblings**.;Она хорошо ладит со всеми своими братьями и сёстрами.
+B2;noun;;in-laws;pl;;;;родственники мужа или жены;We are spending Christmas with my **in-laws**.;Мы проводим Рождество с родственниками мужа.
+B2;noun;;ancestor;ancestors;;;;предок;My **ancestors** came from a small village in Ireland.;Мои предки были родом из маленькой деревни в Ирландии.
+B2;noun;;descendant;descendants;;;;потомок;He is a **descendant** of a famous painter.;Он потомок знаменитого художника.
+B2;noun;;upbringing;-;;;;воспитание;She had a strict religious **upbringing**.;Она получила строгое религиозное воспитание.
+B2;noun;;loyalty;-;;;;верность, преданность;Dogs are known for their **loyalty**.;Собаки известны своей преданностью.
+B2;noun;;betrayal;betrayals;;;;предательство;She never forgave his **betrayal**.;Она так и не простила его предательства.
+B2;noun;;affection;-;;;;привязанность, нежность;He shows his **affection** by cooking for her.;Он проявляет свою нежность, готовя для неё.
+B2;noun;;intimacy;-;;;;близость;Trust is the basis of **intimacy** in a relationship.;Доверие — основа близости в отношениях.
+B2;noun;;romance;romances;;;;роман (любовный), романтика;Their holiday **romance** turned into a marriage.;Их курортный роман перерос в брак.
+B2;noun;;rival;rivals;;;;соперник;The two companies are fierce **rivals**.;Эти две компании — жёсткие соперники.
+B2;noun;;rivalry;rivalries;;;;соперничество;There is a strong **rivalry** between the two teams.;Между двумя командами сильное соперничество.
+B2;noun;;ally;allies;;;;союзник;He found an **ally** in his new boss.;Он нашёл союзника в лице нового начальника.
+B2;noun;;mentor;mentors;;;;наставник;My first boss was also my **mentor**.;Мой первый начальник был также моим наставником.
+B2;noun;;role model;role models;;;;пример для подражания;Parents should be good **role models** for their children.;Родители должны быть хорошим примером для своих детей.
+B2;noun;;admirer;admirers;;;;поклонник;She received flowers from a secret **admirer**.;Она получила цветы от тайного поклонника.
+B2;noun;;sincerity;-;;;;искренность;Nobody doubted the **sincerity** of his apology.;Никто не сомневался в искренности его извинений.
+B2;noun;;generosity;-;;;;щедрость;We were touched by the **generosity** of strangers.;Нас тронула щедрость незнакомых людей.
+B2;noun;;modesty;-;;;;скромность;Despite his success, he is known for his **modesty**.;Несмотря на успех, он известен своей скромностью.
+B2;noun;;arrogance;-;;;;высокомерие, надменность;His **arrogance** made him very unpopular.;Из-за высокомерия его очень не любили.
+B2;noun;;stubbornness;-;;;;упрямство;Her **stubbornness** sometimes causes problems at work.;Её упрямство иногда создаёт проблемы на работе.
+B2;noun;;selfishness;-;;;;эгоизм;His **selfishness** destroyed their friendship.;Его эгоизм разрушил их дружбу.
+B2;noun;;humility;-;;;;смирение, скромность;Great leaders show **humility** and listen to others.;Великие лидеры проявляют скромность и слушают других.
+B2;noun;;integrity;-;;;;честность, порядочность;She is a woman of great **integrity**.;Она очень порядочный человек.
+B2;noun;;charm;charms;;;;обаяние, очарование;He won everyone over with his **charm**.;Он покорил всех своим обаянием.
+B2;noun;;wit;-;;;;остроумие;Her books are full of **wit** and wisdom.;Её книги полны остроумия и мудрости.
+B2;noun;;reputation;reputations;;;;репутация;The restaurant has an excellent **reputation**.;У ресторана отличная репутация.
+B2;noun;;quarrel;quarrels;;;;ссора;They had a **quarrel** about money.;У них была ссора из-за денег.
+B2;noun;;disagreement;disagreements;;;;разногласие;There was a **disagreement** about the budget.;Возникло разногласие по поводу бюджета.
+B2;noun;;dispute;disputes;;;;спор, конфликт;The **dispute** between the neighbours went to court.;Спор между соседями дошёл до суда.
+B2;noun;;reconciliation;reconciliations;;;;примирение;After years of silence, a **reconciliation** finally happened.;После многих лет молчания наконец произошло примирение.
+B2;noun;;apology;apologies;;;;извинение;He made a public **apology** for his words.;Он публично извинился за свои слова.
+B2;noun;;commitment;commitments;;;;обязательство, преданность;Marriage is a serious **commitment**.;Брак — серьёзное обязательство.
+B2;noun;;devotion;-;;;;преданность;Her **devotion** to her family is admirable.;Её преданность семье вызывает восхищение.
+B2;noun;;admiration;-;;;;восхищение;I have great **admiration** for nurses.;Я очень восхищаюсь медсёстрами.
+B2;noun;;contempt;-;;;;презрение;He looked at me with **contempt**.;Он посмотрел на меня с презрением.
+B2;noun;;misunderstanding;misunderstandings;;;;недоразумение;The argument was caused by a simple **misunderstanding**.;Ссора возникла из-за простого недоразумения.
+B2;noun;;tension;tensions;;;;напряжение, напряжённость;There was obvious **tension** between the two brothers.;Между братьями чувствовалось явное напряжение.
+B2;noun;;harmony;-;;;;гармония, согласие;The neighbours live together in **harmony**.;Соседи живут в согласии.
+B2;noun;;bravery;-;;;;храбрость;The firefighter received a medal for **bravery**.;Пожарный получил медаль за храбрость.
+B2;noun;;coward;cowards;;;;трус;Only a **coward** would leave his friends behind.;Только трус бросил бы своих друзей.
+B2;noun;;cowardice;-;;;;трусость;He was accused of **cowardice** by his own men.;Собственные солдаты обвинили его в трусости.
+B2;noun;;hypocrite;hypocrites;;;;лицемер;He calls me lazy, but he is a **hypocrite**.;Он называет меня ленивым, но сам лицемер.
+B2;noun;;hypocrisy;-;;;;лицемерие;People are tired of the **hypocrisy** of politicians.;Людям надоело лицемерие политиков.
+B2;noun;;introvert;introverts;;;;интроверт;As an **introvert**, she prefers quiet evenings at home.;Как интроверт, она предпочитает тихие вечера дома.
+B2;noun;;extrovert;extroverts;;;;экстраверт;He is a real **extrovert** who loves parties.;Он настоящий экстраверт, который обожает вечеринки.
+B2;noun;;optimist;optimists;;;;оптимист;She is an **optimist** who always sees the good side.;Она оптимистка, которая всегда видит хорошую сторону.
+B2;noun;;pessimist;pessimists;;;;пессимист;Don't be such a **pessimist** about the future.;Не будь таким пессимистом насчёт будущего.
+B2;noun;;optimism;-;;;;оптимизм;There is growing **optimism** about the economy.;Растёт оптимизм по поводу экономики.
+B2;noun;;pessimism;-;;;;пессимизм;His **pessimism** is starting to affect the whole team.;Его пессимизм начинает влиять на всю команду.
+B2;noun;;perfectionist;perfectionists;;;;перфекционист;She is a **perfectionist** who checks everything twice.;Она перфекционистка и всё проверяет дважды.
+B2;noun;;flattery;-;;;;лесть;**Flattery** will get you nowhere with me.;Лестью ты от меня ничего не добьёшься.
+B2;noun;;tenderness;-;;;;нежность;She stroked the baby's head with **tenderness**.;Она с нежностью погладила малыша по голове.
+B2;noun;;confidant;confidants;;;;доверенное лицо, наперсник;Her sister has always been her closest **confidant**.;Сестра всегда была её самым близким доверенным лицом.
+B2;noun;;loner;loners;;;;одиночка;He was a **loner** who rarely spoke to anyone.;Он был одиночкой и редко с кем-то разговаривал.
+B2;noun;;masterpiece;masterpieces;;;;шедевр;The painting is considered his greatest **masterpiece**.;Эта картина считается его величайшим шедевром.
+B2;noun;;sculptor;sculptors;;;;скульптор;The **sculptor** worked on the statue for three years.;Скульптор работал над статуей три года.
+B2;noun;;canvas;canvases;;;;холст;The artist painted on a huge **canvas**.;Художник писал на огромном холсте.
+B2;noun;;sketch;sketches;;;;набросок, эскиз;She made a quick **sketch** of the bridge.;Она сделала быстрый набросок моста.
+B2;noun;;novelist;novelists;;;;романист, писатель;He is one of the best-known **novelists** in France.;Он один из самых известных романистов Франции.
+B2;noun;;verse;verses;;;;стих, куплет;The song has three **verses** and a chorus.;В песне три куплета и припев.
+B2;noun;;rhyme;rhymes;;;;рифма;Children love stories written in **rhyme**.;Дети любят истории, написанные в рифму.
+B2;noun;;narrator;narrators;;;;рассказчик;The **narrator** of the story is a young girl.;Рассказчик в этой истории — молодая девушка.
+B2;noun;;narrative;narratives;;;;повествование;The novel has a complex **narrative** structure.;У романа сложная структура повествования.
+B2;noun;;protagonist;protagonists;;;;главный герой;The **protagonist** of the story is a lonely old man.;Главный герой рассказа — одинокий старик.
+B2;noun;;sequel;sequels;;;;продолжение (фильма, книги);The **sequel** was even better than the original film.;Продолжение оказалось даже лучше оригинального фильма.
+B2;noun;;trilogy;trilogies;;;;трилогия;I have just finished the last book of the **trilogy**.;Я только что дочитал последнюю книгу трилогии.
+B2;noun;;genre;genres;;;;жанр;Science fiction is my favourite **genre**.;Научная фантастика — мой любимый жанр.
+B2;noun;;fiction;-;;;;художественная литература, вымысел;She prefers **fiction** to history books.;Она предпочитает художественную литературу историческим книгам.
+B2;noun;;biography;biographies;;;;биография;I'm reading a **biography** of Winston Churchill.;Я читаю биографию Уинстона Черчилля.
+B2;noun;;autobiography;autobiographies;;;;автобиография;In his **autobiography**, he describes his difficult childhood.;В своей автобиографии он описывает трудное детство.
+B2;noun;;memoir;memoirs;;;;мемуары, воспоминания;The actress has written a **memoir** about her career.;Актриса написала мемуары о своей карьере.
+B2;noun;;playwright;playwrights;;;;драматург;Shakespeare is the most famous English **playwright**.;Шекспир — самый известный английский драматург.
+B2;noun;;script;scripts;;;;сценарий;The actors received the **script** a week before filming.;Актёры получили сценарий за неделю до съёмок.
+B2;noun;;rehearsal;rehearsals;;;;репетиция;The final **rehearsal** is on Friday evening.;Последняя репетиция в пятницу вечером.
+B2;noun;;premiere;premieres;;;;премьера;The stars arrived for the film **premiere** in London.;Звёзды прибыли на премьеру фильма в Лондоне.
+B2;noun;;critic;critics;;;;критик;The film was praised by **critics**.;Фильм высоко оценили критики.
+B2;noun;;criticism;criticisms;;;;критика;The new law received a lot of **criticism**.;Новый закон подвергся серьёзной критике.
+B2;noun;;reviewer;reviewers;;;;рецензент, обозреватель;The **reviewer** called the book a true masterpiece.;Рецензент назвал книгу настоящим шедевром.
+B2;noun;;applause;-;;;;аплодисменты;The singer left the stage to loud **applause**.;Певица ушла со сцены под громкие аплодисменты.
+B2;noun;;producer;producers;;;;продюсер;The **producer** decided to change the ending.;Продюсер решил изменить концовку.
+B2;noun;;cast;casts;;;;актёрский состав;The film has an excellent **cast**.;В фильме отличный актёрский состав.
+B2;noun;;soundtrack;soundtracks;;;;саундтрек, музыка к фильму;I bought the **soundtrack** after watching the film.;Я купил саундтрек после просмотра фильма.
+B2;noun;;conductor;conductors;;;;дирижёр;The **conductor** raised his hands and the music began.;Дирижёр поднял руки, и зазвучала музыка.
+B2;noun;;composer;composers;;;;композитор;Mozart is my favourite **composer**.;Моцарт — мой любимый композитор.
+B2;noun;;symphony;symphonies;;;;симфония;The orchestra performed a **symphony** by Beethoven.;Оркестр исполнил симфонию Бетховена.
+B2;noun;;choir;choirs;;;;хор;She sings in the church **choir**.;Она поёт в церковном хоре.
+B2;noun;;lyrics;pl;;;;слова песни, текст песни;I can never remember the **lyrics** of this song.;Я никак не могу запомнить слова этой песни.
+B2;noun;;melody;melodies;;;;мелодия;The song has a simple but beautiful **melody**.;У песни простая, но красивая мелодия.
+B2;noun;;rhythm;rhythms;;;;ритм;They danced to the **rhythm** of the drums.;Они танцевали под ритм барабанов.
+B2;noun;;broadcaster;broadcasters;;;;телерадиокомпания, телеведущий;The national **broadcaster** will show the concert live.;Национальная телерадиокомпания покажет концерт в прямом эфире.
+B2;noun;;columnist;columnists;;;;обозреватель, колумнист;He is a sports **columnist** for a national newspaper.;Он спортивный обозреватель в общенациональной газете.
+B2;noun;;correspondent;correspondents;;;;корреспондент;Our **correspondent** reports from the scene.;Наш корреспондент ведёт репортаж с места событий.
+B2;noun;;coverage;-;;;;освещение (в СМИ);The election received wide media **coverage**.;Выборы широко освещались в СМИ.
+B2;noun;;propaganda;-;;;;пропаганда;The film was pure political **propaganda**.;Этот фильм был чистой политической пропагандой.
+B2;noun;;tabloid;tabloids;;;;бульварная газета, таблоид;The **tabloids** published photos of the couple.;Таблоиды опубликовали фотографии пары.
+B2;noun;;publisher;publishers;;;;издатель, издательство;Her first novel was rejected by ten **publishers**.;Её первый роман отвергли десять издательств.
+B2;noun;;manuscript;manuscripts;;;;рукопись;He sent the **manuscript** to several publishers.;Он отправил рукопись в несколько издательств.
+B2;noun;;edition;editions;;;;издание, выпуск;This is the first **edition** of the novel.;Это первое издание романа.
+B2;noun;;illustration;illustrations;;;;иллюстрация;The book has beautiful colour **illustrations**.;В книге красивые цветные иллюстрации.
+B2;noun;;illustrator;illustrators;;;;иллюстратор;The **illustrator** drew all the pictures by hand.;Иллюстратор нарисовал все картинки вручную.
+B2;noun;;animation;animations;;;;анимация, мультипликация;She works in **animation** for a big film studio.;Она занимается анимацией в крупной киностудии.
+B2;noun;;craft;crafts;;;;ремесло;Pottery is a traditional **craft** in this region.;Гончарное дело — традиционное ремесло в этом регионе.
+B2;noun;;craftsman;craftsmen;;;;мастер, ремесленник;The table was made by a skilled **craftsman**.;Стол сделал опытный мастер.
+B2;noun;;imagination;-;;;;воображение;Children have a wonderful **imagination**.;У детей чудесное воображение.
+B2;noun;;creativity;-;;;;творчество, креативность;The job requires a lot of **creativity**.;Эта работа требует большой креативности.
+B2;noun;;inspiration;inspirations;;;;вдохновение;The sea was a great **inspiration** for the painter.;Море было для художника большим источником вдохновения.
+B2;noun;;metaphor;metaphors;;;;метафора;The poem uses the sea as a **metaphor** for life.;В стихотворении море служит метафорой жизни.
+B2;noun;;symbol;symbols;;;;символ;The dove is a **symbol** of peace.;Голубь — символ мира.
+B2;noun;;theme;themes;;;;тема;Love is the main **theme** of the novel.;Любовь — главная тема романа.
+B2;noun;;irony;-;;;;ирония;The **irony** is that he hates flying but became a pilot.;Ирония в том, что он ненавидит летать, но стал пилотом.
+B2;noun;;satire;satires;;;;сатира;The show is a clever **satire** on modern politics.;Это шоу — остроумная сатира на современную политику.
+B2;noun;;tragedy;tragedies;;;;трагедия;Hamlet is one of Shakespeare's greatest **tragedies**.;«Гамлет» — одна из величайших трагедий Шекспира.
+B2;noun;;myth;myths;;;;миф;It is a **myth** that goldfish have short memories.;Это миф, что у золотых рыбок короткая память.
+B2;noun;;legend;legends;;;;легенда;According to **legend**, a dragon lived in the cave.;Согласно легенде, в пещере жил дракон.
+B2;noun;;heroine;heroines;;;;героиня;The **heroine** of the novel is a brave young nurse.;Героиня романа — храбрая молодая медсестра.
+B2;noun;;villain;villains;;;;злодей;The **villain** in the film was played by a famous actor.;Злодея в фильме сыграл известный актёр.
+B2;noun;;fairy tale;fairy tales;;;;сказка;My grandmother read me a **fairy tale** every night.;Бабушка каждый вечер читала мне сказку.
+B2;noun;;blockbuster;blockbusters;;;;блокбастер;The film became a summer **blockbuster**.;Фильм стал летним блокбастером.
+B2;noun;;sitcom;sitcoms;;;;ситком, комедийный сериал;We watched an old American **sitcom** last night.;Вчера вечером мы смотрели старый американский ситком.
+B2;noun;;caption;captions;;;;подпись (к фото);Read the **caption** under the photo.;Прочитай подпись под фотографией.
+B2;noun;;diagnosis;diagnoses;;;;диагноз;The doctor confirmed the **diagnosis** after the tests.;Врач подтвердил диагноз после анализов.
+B2;noun;;remedy;remedies;;;;средство (от болезни);Honey is a traditional **remedy** for a sore throat.;Мёд — традиционное средство от боли в горле.
+B2;noun;;injection;injections;;;;укол, инъекция;The nurse gave him an **injection** in the arm.;Медсестра сделала ему укол в руку.
+B2;noun;;bacterium;bacteria;;;;бактерия;Some **bacteria** are actually good for your health.;Некоторые бактерии на самом деле полезны для здоровья.
+B2;noun;;immunity;-;;;;иммунитет;Vitamin C may help to boost your **immunity**.;Витамин C может помочь укрепить иммунитет.
+B2;noun;;asthma;-;;;;астма;She always carries an inhaler because of her **asthma**.;Из-за астмы она всегда носит с собой ингалятор.
+B2;noun;;diabetes;-;;;;диабет;People with **diabetes** must watch their sugar intake.;Люди с диабетом должны следить за потреблением сахара.
+B2;noun;;tumour;tumours;;;;опухоль;The surgeons removed the **tumour** successfully.;Хирурги успешно удалили опухоль.
+B2;noun;;stroke;strokes;;;;инсульт;My grandfather had a **stroke** last year.;В прошлом году у дедушки случился инсульт.
+B2;noun;;heart attack;heart attacks;;;;инфаркт, сердечный приступ;He died of a **heart attack** at sixty.;Он умер от инфаркта в шестьдесят лет.
+B2;noun;;rash;rashes;;;;сыпь;The baby has a red **rash** on her face.;У малышки красная сыпь на лице.
+B2;noun;;fracture;fractures;;;;перелом;The X-ray showed a **fracture** in her wrist.;Рентген показал перелом запястья.
+B2;noun;;disorder;disorders;;;;расстройство, нарушение;She suffers from an eating **disorder**.;Она страдает расстройством пищевого поведения.
+B2;noun;;obesity;-;;;;ожирение;Childhood **obesity** is a growing problem.;Детское ожирение — растущая проблема.
+B2;noun;;insomnia;-;;;;бессонница;Stress is a common cause of **insomnia**.;Стресс — частая причина бессонницы.
+B2;noun;;fatigue;-;;;;усталость, утомление;**Fatigue** is a common side effect of the drug.;Усталость — частый побочный эффект этого препарата.
+B2;noun;;outbreak;outbreaks;;;;вспышка (болезни);There has been an **outbreak** of measles in the town.;В городе произошла вспышка кори.
+B2;noun;;side effect;side effects;;;;побочный эффект;Headaches are a common **side effect** of this medicine.;Головная боль — частый побочный эффект этого лекарства.
+B2;noun;;posture;postures;;;;осанка;Sitting at a desk all day is bad for your **posture**.;Целый день сидеть за столом вредно для осанки.
+B2;noun;;undergraduate;undergraduates;;;;студент бакалавриата;The course is open to all **undergraduates**.;Курс открыт для всех студентов бакалавриата.
+B2;noun;;assessment;assessments;;;;оценка, оценивание;Continuous **assessment** counts for half of the final grade.;Текущая оценка составляет половину итоговой оценки.
+B2;noun;;plagiarism;-;;;;плагиат;The student was expelled for **plagiarism**.;Студента отчислили за плагиат.
+B2;noun;;admission;admissions;;;;приём, поступление;University **admission** depends on your exam results.;Поступление в университет зависит от результатов экзаменов.
+B2;noun;;faculty;faculties;;;;факультет;He studies at the **faculty** of law.;Он учится на юридическом факультете.
+B2;noun;;literacy;-;;;;грамотность;The programme aims to improve adult **literacy**.;Программа нацелена на повышение грамотности взрослых.
+B2;noun;;aptitude;aptitudes;;;;способность, склонность;He shows a natural **aptitude** for languages.;У него природная склонность к языкам.
+B2;noun;;wisdom;-;;;;мудрость;People say that **wisdom** comes with age.;Говорят, что мудрость приходит с возрастом.
+B2;noun;;insight;insights;;;;понимание, представление;The book gives a fascinating **insight** into life in Japan.;Книга даёт увлекательное представление о жизни в Японии.
+B2;noun;;comprehension;-;;;;понимание;The test checks reading **comprehension**.;Тест проверяет понимание прочитанного.
+B2;noun;;apprenticeship;apprenticeships;;;;производственное обучение, ученичество;She did a three-year **apprenticeship** as an electrician.;Она прошла трёхлетнее обучение на электрика.
+B2;noun;;internship;internships;;;;стажировка;She did an **internship** at a law firm.;Она прошла стажировку в юридической фирме.
+B2;noun;;bullying;-;;;;травля, издевательства;The school has a strict policy against **bullying**.;В школе строгие правила против травли.
+B2;noun;;fluency;-;;;;беглость (речи);Reading helps to improve your **fluency** in English.;Чтение помогает улучшить беглость в английском.
+B2;noun;;consequence;consequences;;;;последствие;He had to face the **consequences** of his actions.;Ему пришлось столкнуться с последствиями своих поступков.
+B2;noun;;tendency;tendencies;;;;склонность, тенденция;He has a **tendency** to exaggerate.;У него есть склонность преувеличивать.
+B2;noun;;aspect;aspects;;;;аспект, сторона;Money is only one **aspect** of the problem.;Деньги — лишь одна сторона проблемы.
+B2;noun;;approach;approaches;;;;подход;We need a new **approach** to this problem.;Нам нужен новый подход к этой проблеме.
+B2;noun;;notion;notions;;;;понятие, представление;He rejected the **notion** that money brings happiness.;Он отверг мысль о том, что деньги приносят счастье.
+B2;noun;;outcome;outcomes;;;;результат, исход;Nobody could predict the **outcome** of the election.;Никто не мог предсказать исход выборов.
+B2;noun;;circumstance;circumstances;;;;обстоятельство;Under no **circumstances** should you open this door.;Ни при каких обстоятельствах не открывайте эту дверь.
+B2;noun;;perspective;perspectives;;;;точка зрения, взгляд;Travel gives you a new **perspective** on life.;Путешествия дают новый взгляд на жизнь.
+B2;noun;;uncertainty;uncertainties;;;;неопределённость;There is a lot of **uncertainty** about the future.;Насчёт будущего много неопределённости.
+B2;noun;;likelihood;-;;;;вероятность;There is little **likelihood** of rain today.;Сегодня дождь маловероятен.
+B2;noun;;priority;priorities;;;;приоритет;My family is my top **priority**.;Моя семья — мой главный приоритет.
+B2;noun;;dilemma;dilemmas;;;;дилемма;She faced a difficult moral **dilemma**.;Она столкнулась с трудной моральной дилеммой.
+B2;noun;;controversy;controversies;;;;спор, полемика;The new law caused a lot of **controversy**.;Новый закон вызвал много споров.
+B2;noun;;contradiction;contradictions;;;;противоречие;There is a **contradiction** between what he says and does.;Между его словами и делами есть противоречие.
+B2;noun;;coincidence;coincidences;;;;совпадение;What a **coincidence** to meet you here!;Какое совпадение встретить тебя здесь!
+B2;noun;;significance;-;;;;значение, важность;Few people understood the **significance** of the discovery.;Мало кто понимал значение этого открытия.
+B2;noun;;obligation;obligations;;;;обязанность, обязательство;You are under no **obligation** to buy anything.;Вы не обязаны ничего покупать.
+B2;noun;;misconception;misconceptions;;;;заблуждение;It is a common **misconception** that bats are blind.;Распространённое заблуждение, что летучие мыши слепые.
+B2;noun;;dignity;-;;;;достоинство;Everyone deserves to be treated with **dignity**.;Каждый заслуживает достойного обращения.
+B2;noun;;drawback;drawbacks;;;;недостаток;The main **drawback** of the flat is its size.;Главный недостаток квартиры — её размер.
+B2;noun;;obstacle;obstacles;;;;препятствие;Lack of money is the biggest **obstacle**.;Нехватка денег — самое большое препятствие.
+B2;noun;;setback;setbacks;;;;неудача, задержка;The injury was a serious **setback** for the team.;Травма стала серьёзной неудачей для команды.
+B2;noun;;implication;implications;;;;последствие, подтекст;We must consider the **implications** of this decision.;Мы должны учесть последствия этого решения.
+B2;noun;;census;censuses;;;;перепись населения;The last **census** showed a rise in the population.;Последняя перепись показала рост населения.
+B2;noun;;inhabitant;inhabitants;;;;житель, обитатель;The island has only two hundred **inhabitants**.;На острове всего двести жителей.
+B2;noun;;adolescence;-;;;;подростковый возраст, юность;Many people find **adolescence** a difficult time.;Многим подростковый возраст даётся нелегко.
+B2;noun;;adolescent;adolescents;;;;подросток;The book is written for **adolescents** and young adults.;Эта книга написана для подростков и молодёжи.
+B2;noun;;adulthood;-;;;;взрослая жизнь, зрелость;Few childhood friendships last into **adulthood**.;Немногие детские дружбы сохраняются во взрослой жизни.
+B2;noun;;inheritance;inheritances;;;;наследство;She spent her whole **inheritance** on a house.;Она потратила всё наследство на дом.
+B2;noun;;heir;heirs;;;;наследник;He is the only **heir** to the family business.;Он единственный наследник семейного бизнеса.
+B2;noun;;orphan;orphans;;;;сирота;The war left thousands of children **orphans**.;Война оставила тысячи детей сиротами.
+B2;noun;;orphanage;orphanages;;;;детский дом, приют;She grew up in an **orphanage** in Romania.;Она выросла в детском доме в Румынии.
+B2;noun;;beggar;beggars;;;;нищий, попрошайка;A **beggar** was sitting outside the station.;У вокзала сидел нищий.
+B2;noun;;slavery;-;;;;рабство;**Slavery** was abolished in Britain in 1833.;Рабство в Британии было отменено в 1833 году.
+B2;noun;;colony;colonies;;;;колония;India was once a British **colony**.;Индия когда-то была британской колонией.
+B2;noun;;empire;empires;;;;империя;The Roman **Empire** lasted for centuries.;Римская империя просуществовала много веков.
+B2;noun;;monarchy;monarchies;;;;монархия;Britain is still a constitutional **monarchy**.;Британия до сих пор является конституционной монархией.
+B2;noun;;republic;republics;;;;республика;France became a **republic** after the revolution.;После революции Франция стала республикой.
+B2;noun;;dictatorship;dictatorships;;;;диктатура;The country suffered under a military **dictatorship**.;Страна страдала под гнётом военной диктатуры.
+B2;noun;;oppression;-;;;;угнетение;The people fought against years of **oppression**.;Народ боролся против многолетнего угнетения.
+B2;noun;;revolution;revolutions;;;;революция;The internet caused a **revolution** in communication.;Интернет произвёл революцию в общении.
+B2;noun;;uprising;uprisings;;;;восстание;The **uprising** was quickly crushed by the army.;Армия быстро подавила восстание.
+B2;noun;;rebel;rebels;;;;мятежник, бунтарь;The **rebels** took control of the capital.;Мятежники захватили контроль над столицей.
+B2;noun;;terrorism;-;;;;терроризм;The government passed new laws to fight **terrorism**.;Правительство приняло новые законы по борьбе с терроризмом.
+B2;noun;;hostage;hostages;;;;заложник;The **hostages** were released after three days.;Заложников освободили через три дня.
+B2;noun;;kidnapping;kidnappings;;;;похищение (человека);The police are investigating the **kidnapping** of a businessman.;Полиция расследует похищение бизнесмена.
+B2;noun;;murderer;murderers;;;;убийца;The **murderer** was sentenced to life in prison.;Убийцу приговорили к пожизненному заключению.
+B2;noun;;shoplifter;shoplifters;;;;магазинный вор;The security guard caught a **shoplifter** at the door.;Охранник поймал магазинного вора у двери.
+B2;noun;;smuggling;-;;;;контрабанда;He was arrested for drug **smuggling**.;Его арестовали за контрабанду наркотиков.
+B2;noun;;inmate;inmates;;;;заключённый;The prison holds more than a thousand **inmates**.;В тюрьме содержится больше тысячи заключённых.
+B2;noun;;bail;-;;;;залог (освобождение под залог);He was released on **bail** until the trial.;Его отпустили под залог до суда.
+B2;noun;;custody;-;;;;опека, заключение под стражу;After the divorce, the mother got **custody** of the children.;После развода опеку над детьми получила мать.
+B2;noun;;surveillance;-;;;;наблюдение, слежка;The building is under constant video **surveillance**.;Здание находится под постоянным видеонаблюдением.
+B2;noun;;liberty;liberties;;;;свобода;The prisoners were finally given their **liberty**.;Заключённым наконец даровали свободу.
+B2;noun;;dependence;-;;;;зависимость;We must reduce our **dependence** on oil.;Мы должны уменьшить нашу зависимость от нефти.
+B2;noun;;reliance;-;;;;опора, зависимость;Too much **reliance** on one supplier is risky.;Слишком сильная зависимость от одного поставщика рискованна.
+B2;noun;;stability;-;;;;стабильность;The country badly needs political **stability**.;Стране очень нужна политическая стабильность.
+B2;noun;;chaos;-;;;;хаос;The strike caused **chaos** on the roads.;Забастовка вызвала хаос на дорогах.
+B2;noun;;transformation;transformations;;;;превращение, преобразование;The city has undergone a complete **transformation**.;Город полностью преобразился.
+B2;noun;;transition;transitions;;;;переход;The **transition** from school to university can be hard.;Переход от школы к университету бывает трудным.
+B2;noun;;pattern;patterns;;;;закономерность, модель;Scientists noticed a **pattern** in the data.;Учёные заметили закономерность в данных.
+B2;noun;;variation;variations;;;;вариация, колебание;There is a lot of **variation** in prices between shops.;Цены в разных магазинах сильно различаются.
+B2;noun;;distinction;distinctions;;;;различие, разграничение;It's important to make a **distinction** between facts and opinions.;Важно проводить различие между фактами и мнениями.
+B2;noun;;similarity;similarities;;;;сходство;There are many **similarities** between the two languages.;Между двумя языками много сходства.
+B2;noun;;contrast;contrasts;;;;контраст, противоположность;In **contrast** to his brother, he is very quiet.;В отличие от брата, он очень тихий.
+B2;noun;;extent;-;;;;степень, масштаб;To some **extent**, I agree with you.;В некоторой степени я с тобой согласен.
+B2;noun;;scope;-;;;;рамки, масштаб;This question is beyond the **scope** of our study.;Этот вопрос выходит за рамки нашего исследования.
+B2;noun;;intention;intentions;;;;намерение;I have no **intention** of leaving my job.;У меня нет намерения уходить с работы.
+B2;noun;;motive;motives;;;;мотив, побуждение;The police are still looking for a **motive** for the crime.;Полиция всё ещё ищет мотив преступления.
+B2;noun;;justification;justifications;;;;оправдание, обоснование;There is no **justification** for such violence.;Такому насилию нет оправдания.
+B2;noun;;reasoning;-;;;;рассуждение, ход мысли;I don't quite follow your **reasoning**.;Я не совсем понимаю ход твоих рассуждений.
+B2;noun;;logic;-;;;;логика;There is no **logic** in his argument.;В его аргументе нет логики.
+B2;noun;;interpretation;interpretations;;;;толкование, интерпретация;The poem is open to different **interpretations**.;Стихотворение допускает разные толкования.
+B2;noun;;clarification;clarifications;;;;разъяснение, уточнение;I need some **clarification** on this point.;Мне нужно уточнение по этому пункту.
+B2;noun;;illusion;illusions;;;;иллюзия;He is under the **illusion** that everyone likes him.;Он питает иллюзию, что все его любят.
+B2;noun;;virtue;virtues;;;;добродетель, достоинство;My grandmother always said that patience is a **virtue**.;Бабушка всегда говорила, что терпение — добродетель.
+B2;noun;;ethics;pl;;;;этика;The course covers medical **ethics** and law.;Курс охватывает медицинскую этику и право.
+B2;noun;;morality;-;;;;мораль, нравственность;The film raises questions about **morality**.;Фильм поднимает вопросы морали.
+B2;noun;;honour;honours;;;;честь;It is an **honour** to meet you.;Для меня честь познакомиться с вами.
+B2;noun;;sacrifice;sacrifices;;;;жертва (самопожертвование);Her parents made many **sacrifices** for her education.;Ради её образования родители пошли на многие жертвы.
+B2;noun;;fate;fates;;;;судьба, рок;Nobody knows what **fate** has in store for us.;Никто не знает, что уготовила нам судьба.
+B2;noun;;destiny;destinies;;;;судьба, предназначение;She believed it was her **destiny** to become a doctor.;Она верила, что её предназначение — стать врачом.
+B2;noun;;threat;threats;;;;угроза;Climate change is a serious **threat** to our planet.;Изменение климата — серьёзная угроза для нашей планеты.
+B2;noun;;barrier;barriers;;;;барьер, преграда;Language can be a **barrier** to communication.;Язык может стать барьером для общения.
+B2;noun;;struggle;struggles;;;;борьба;Life was a constant **struggle** for the family.;Жизнь была для семьи постоянной борьбой.
+B2;noun;;accomplishment;accomplishments;;;;достижение, свершение;Finishing the marathon was a real **accomplishment**.;Пробежать марафон — настоящее достижение.
+B2;noun;;essence;-;;;;суть, сущность;The **essence** of the problem is a lack of trust.;Суть проблемы — в отсутствии доверия.
+B2;noun;;consensus;-;;;;консенсус, общее согласие;There is a growing **consensus** among scientists.;Среди учёных растёт общее согласие.
+B2;noun;;limitation;limitations;;;;ограничение;We must accept the **limitations** of the old system.;Мы должны признать ограничения старой системы.
+B2;noun;;capacity;capacities;;;;вместимость, способность;The stadium has a **capacity** of fifty thousand.;Стадион вмещает пятьдесят тысяч человек.
+B2;noun;;existence;-;;;;существование;Do you believe in the **existence** of ghosts?;Ты веришь в существование призраков?
+B2;noun;;absence;absences;;;;отсутствие;Nobody noticed his **absence** from the meeting.;Никто не заметил его отсутствия на собрании.
+B2;noun;;presence;-;;;;присутствие;Your **presence** at the meeting is required.;Ваше присутствие на собрании обязательно.
+B2;noun;;consistency;-;;;;постоянство, последовательность;**Consistency** is the key to learning a language.;Постоянство — ключ к изучению языка.
+B2;noun;;flexibility;-;;;;гибкость;The job offers a lot of **flexibility**.;Эта работа даёт много гибкости.
+B2;noun;;complexity;complexities;;;;сложность;People often underestimate the **complexity** of the task.;Люди часто недооценивают сложность задачи.
+B2;noun;;simplicity;-;;;;простота;I love the **simplicity** of this design.;Мне нравится простота этого дизайна.
+B2;noun;;ideology;ideologies;;;;идеология;The party changed its **ideology** over the years.;С годами партия изменила свою идеологию.
+B2;noun;;guideline;guidelines;;;;рекомендация, руководящий принцип;Always follow the safety **guidelines** in the lab.;Всегда соблюдайте правила безопасности в лаборатории.
+B2;noun;;exaggeration;exaggerations;;;;преувеличение;It's no **exaggeration** to say he saved my life.;Без преувеличения можно сказать, что он спас мне жизнь.
+B2;noun;;consideration;considerations;;;;рассмотрение, соображение;After careful **consideration**, we accepted the offer.;После тщательного рассмотрения мы приняли предложение.
+B2;noun;;recognition;-;;;;признание;She finally received **recognition** for her work.;Её работа наконец получила признание.
+B2;noun;;criterion;criteria;;;;критерий;What **criteria** do you use to choose a school?;Какие критерии вы используете при выборе школы?
+B2;noun;;requirement;requirements;;;;требование;A degree is a **requirement** for this job.;Диплом — обязательное требование для этой работы.
+B2;noun;;necessity;necessities;;;;необходимость;A car is a **necessity** if you live in the country.;Если живёшь за городом, машина — необходимость.
+B2;noun;;accountability;-;;;;подотчётность, ответственность;The public demands more **accountability** from politicians.;Общество требует от политиков большей подотчётности.
+B2;noun;;relevance;-;;;;актуальность, уместность;I don't see the **relevance** of this question.;Я не вижу, какое отношение имеет этот вопрос.
+B2;noun;;emphasis;emphases;;;;акцент, особое внимание;The school puts great **emphasis** on sport.;Школа делает большой акцент на спорт.
+B2;noun;;paradox;paradoxes;;;;парадокс;It's a **paradox** that the richest countries waste the most food.;Парадокс в том, что самые богатые страны выбрасывают больше всего еды.
+B2;noun;;probability;probabilities;;;;вероятность;The **probability** of winning the lottery is very low.;Вероятность выиграть в лотерею очень мала.
+B2;noun;;certainty;certainties;;;;уверенность, определённость;I can say with **certainty** that he is innocent.;Я могу с уверенностью сказать, что он невиновен.
+B2;noun;;preference;preferences;;;;предпочтение;Do you have a **preference** for red or white wine?;Вы предпочитаете красное или белое вино?
+B2;noun;;alternative;alternatives;;;;альтернатива;We had no **alternative** but to wait.;У нас не было другого выхода, кроме как ждать.
+B2;noun;;viewpoint;viewpoints;;;;точка зрения;Try to see the problem from my **viewpoint**.;Попробуй посмотреть на проблему с моей точки зрения.
+B2;noun;;scenario;scenarios;;;;сценарий (развития событий);In the worst **scenario**, we will lose everything.;В худшем случае мы потеряем всё.
+B2;noun;;context;contexts;;;;контекст;You need to understand the word in **context**.;Нужно понимать слово в контексте.
+B2;noun;;factor;factors;;;;фактор;Price is an important **factor** in our decision.;Цена — важный фактор в нашем решении.
+B2;noun;;impact;impacts;;;;влияние, воздействие;Social media has a huge **impact** on young people.;Социальные сети оказывают огромное влияние на молодёжь.
+B2;noun;;syllabus;syllabuses;;;;программа курса;The teacher gave us the **syllabus** for the term.;Учитель дал нам программу курса на семестр.
+B2;noun;;tutorial;tutorials;;;;консультация, обучающее видео;I watched an online **tutorial** on how to fix it.;Я посмотрел онлайн-урок о том, как это починить.
+B2;noun;;postgraduate;postgraduates;;;;аспирант, магистрант;She is a **postgraduate** studying chemistry.;Она магистрантка и изучает химию.
+B2;noun;;evaluation;evaluations;;;;оценка, анализ;The **evaluation** of the project will take a month.;Оценка проекта займёт месяц.
+B2;noun;;enrolment;enrolments;;;;зачисление, запись (на курс);**Enrolment** for the new course starts in September.;Запись на новый курс начинается в сентябре.
+B2;noun;;dormitory;dormitories;;;;общежитие;She shares a room in the student **dormitory**.;Она делит комнату в студенческом общежитии.
+B2;noun;;competence;competences;;;;компетентность;Nobody doubts her professional **competence**.;Никто не сомневается в её профессиональной компетентности.
+B2;noun;;intellect;intellects;;;;интеллект, ум;She is admired for her sharp **intellect**.;Ею восхищаются за острый ум.
+B2;noun;;handout;handouts;;;;раздаточный материал;The teacher gave each student a **handout**.;Учитель раздал каждому ученику раздаточный материал.
+B2;noun;;apprentice;apprentices;;;;ученик (мастера), подмастерье;He works as an **apprentice** to a carpenter.;Он работает учеником у плотника.
+B2;noun;;trainee;trainees;;;;стажёр, практикант;The bank hired ten new **trainees** this year.;В этом году банк нанял десять новых стажёров.
+B2;noun;;detention;detentions;;;;оставление после уроков;He got a **detention** for being late again.;Его оставили после уроков за очередное опоздание.
+B2;noun;;academic;academics;;;;учёный, преподаватель вуза;She is a respected **academic** at Cambridge.;Она уважаемый учёный в Кембридже.
+B2;noun;;proficiency;-;;;;владение, мастерство;You need a certificate of English **proficiency**.;Вам нужен сертификат о владении английским.
+B2;noun;;learner;learners;;;;учащийся;This dictionary is designed for advanced **learners**.;Этот словарь предназначен для продвинутых учащихся.
+B2;noun;;scholar;scholars;;;;учёный (гуманитарий);He was a respected **scholar** of ancient history.;Он был уважаемым исследователем древней истории.
+B2;noun;;vaccination;vaccinations;;;;вакцинация, прививка;**Vaccination** is free for all children.;Вакцинация бесплатна для всех детей.
+B2;noun;;blister;blisters;;;;волдырь, мозоль;New shoes gave me **blisters** on my feet.;От новых туфель у меня мозоли на ногах.
+B2;noun;;pharmacist;pharmacists;;;;фармацевт;Ask the **pharmacist** if you have any questions.;Если у вас есть вопросы, спросите фармацевта.
+B2;noun;;paramedic;paramedics;;;;фельдшер скорой помощи;The **paramedics** arrived within ten minutes.;Фельдшеры скорой прибыли в течение десяти минут.
+B2;noun;;protein;proteins;;;;белок, протеин;Eggs are a good source of **protein**.;Яйца — хороший источник белка.
+B2;noun;;calorie;calories;;;;калория;This drink contains a lot of **calories**.;В этом напитке много калорий.
+B2;noun;;fibre;-;;;;клетчатка;Fruit and vegetables are rich in **fibre**.;Фрукты и овощи богаты клетчаткой.
+B2;noun;;cholesterol;-;;;;холестерин;He needs to lower his **cholesterol** level.;Ему нужно снизить уровень холестерина.
+B2;noun;;metabolism;metabolisms;;;;обмен веществ, метаболизм;Regular exercise speeds up your **metabolism**.;Регулярные упражнения ускоряют обмен веществ.
+B2;noun;;digestion;-;;;;пищеварение;Ginger tea is good for **digestion**.;Имбирный чай полезен для пищеварения.
+B2;noun;;appetite;appetites;;;;аппетит;He lost his **appetite** when he was ill.;Когда он болел, у него пропал аппетит.
+B2;noun;;exhaustion;-;;;;изнеможение, истощение;The runner collapsed from **exhaustion**.;Бегун упал от изнеможения.
+B2;noun;;dehydration;-;;;;обезвоживание;Drink plenty of water to avoid **dehydration**.;Пейте много воды, чтобы избежать обезвоживания.
+B2;noun;;pulse;pulses;;;;пульс;The nurse checked his **pulse**.;Медсестра проверила его пульс.
+B2;noun;;organ;organs;;;;орган (тела);The heart is a vital **organ**.;Сердце — жизненно важный орган.
+B2;noun;;liver;livers;;;;печень;Too much alcohol can damage the **liver**.;Избыток алкоголя может повредить печень.
+B2;noun;;kidney;kidneys;;;;почка;She donated a **kidney** to her brother.;Она пожертвовала почку брату.
+B2;noun;;skull;skulls;;;;череп;The helmet protects your **skull** in a crash.;Шлем защищает череп при аварии.
+B2;noun;;spine;spines;;;;позвоночник;Sitting badly for hours can hurt your **spine**.;Многочасовое неправильное сидение может навредить позвоночнику.
+B2;noun;;rib;ribs;;;;ребро;He broke two **ribs** in the accident.;В аварии он сломал два ребра.
+B2;noun;;joint;joints;;;;сустав;Swimming is good for people with painful **joints**.;Плавание полезно людям с больными суставами.
+B2;noun;;tissue;tissues;;;;ткань (организма);The disease damages the brain **tissue**.;Болезнь повреждает ткани мозга.
+B2;noun;;vein;veins;;;;вена;The nurse took blood from a **vein** in my arm.;Медсестра взяла кровь из вены на моей руке.
+B2;noun;;nerve;nerves;;;;нерв;The injury damaged a **nerve** in his hand.;Травма повредила нерв в его руке.
+B2;noun;;limb;limbs;;;;конечность;He lost a **limb** in the war.;Он потерял конечность на войне.
+B2;noun;;wrist;wrists;;;;запястье;She broke her **wrist** while skiing.;Она сломала запястье, катаясь на лыжах.
+B2;noun;;ankle;ankles;;;;лодыжка;I twisted my **ankle** playing football.;Я подвернул лодыжку, играя в футбол.
+B2;noun;;forehead;foreheads;;;;лоб;He wiped the sweat from his **forehead**.;Он вытер пот со лба.
+B2;noun;;eyebrow;eyebrows;;;;бровь;He raised an **eyebrow** in surprise.;Он удивлённо поднял бровь.
+B2;noun;;jaw;jaws;;;;челюсть;The boxer broke his **jaw** in the fight.;Боксёр сломал челюсть в поединке.
+B2;noun;;waist;waists;;;;талия;The trousers are too big around the **waist**.;Брюки слишком велики в талии.
+B2;noun;;hip;hips;;;;бедро, тазобедренный сустав;My grandmother broke her **hip** last winter.;Прошлой зимой бабушка сломала бедро.
+B2;noun;;sweat;-;;;;пот;He was covered in **sweat** after the run.;После пробежки он был весь в поту.
+B2;noun;;midwife;midwives;;;;акушерка;The **midwife** helped deliver the baby at home.;Акушерка помогла принять роды дома.
+B2;noun;;wheelchair;wheelchairs;;;;инвалидная коляска;After the accident he had to use a **wheelchair**.;После аварии ему пришлось пользоваться инвалидной коляской.
+B2;noun;;crutch;crutches;;;;костыль;He walked on **crutches** for six weeks.;Шесть недель он ходил на костылях.
+B2;noun;;epidemic;epidemics;;;;эпидемия;The flu **epidemic** closed many schools.;Эпидемия гриппа закрыла многие школы.
+B2;noun;;pandemic;pandemics;;;;пандемия;The **pandemic** changed the way we work.;Пандемия изменила то, как мы работаем.
+B2;noun;;physiotherapy;-;;;;физиотерапия, лечебная физкультура;After the operation she needed months of **physiotherapy**.;После операции ей понадобились месяцы физиотерапии.
+B2;noun;;artery;arteries;;;;артерия;Fatty food can block your **arteries**.;Жирная пища может закупорить артерии.
+B2;noun;;hormone;hormones;;;;гормон;Stress affects the level of **hormones** in the body.;Стресс влияет на уровень гормонов в организме.
+B2;noun;;antibiotic;antibiotics;;;;антибиотик;The doctor prescribed **antibiotics** for the infection.;Врач прописал антибиотики от инфекции.
+B2;noun;;painkiller;painkillers;;;;обезболивающее;She took a **painkiller** for her headache.;Она приняла обезболивающее от головной боли.
+B2;noun;;ointment;ointments;;;;мазь;Put this **ointment** on the burn twice a day.;Наносите эту мазь на ожог дважды в день.
+B2;noun;;stitch;stitches;;;;шов (хирургический);The cut needed five **stitches**.;На порез наложили пять швов.
+B2;noun;;sprain;sprains;;;;растяжение;It's not broken, just a bad **sprain**.;Это не перелом, а просто сильное растяжение.
+B2;noun;;cramp;cramps;;;;судорога;I got a **cramp** in my leg while swimming.;Во время плавания у меня свело ногу судорогой.
+B2;noun;;migraine;migraines;;;;мигрень;She stayed in bed with a **migraine**.;Она осталась в постели из-за мигрени.
+B2;noun;;nausea;-;;;;тошнота;**Nausea** is a common side effect of this drug.;Тошнота — частый побочный эффект этого препарата.
+B2;noun;;dizziness;-;;;;головокружение;Symptoms include headache and **dizziness**.;Симптомы включают головную боль и головокружение.
+B2;noun;;heartbeat;heartbeats;;;;сердцебиение;The doctor listened to the baby's **heartbeat**.;Врач послушал сердцебиение малыша.
+A2;verb;;act;;;acted;acted;действовать, вести себя, играть роль;We need to **act** quickly to help them.;Нам нужно действовать быстро, чтобы помочь им.
+A2;verb;;advertise;;;advertised;advertised;рекламировать, давать объявление;The company **advertises** its products on TV.;Компания рекламирует свои товары по телевизору.
+A2;verb;;affect;;;affected;affected;влиять, затрагивать;The weather can **affect** your mood.;Погода может влиять на твоё настроение.
+A2;noun;;airline;airlines;;;;авиакомпания;Which **airline** are you flying with?;Какой авиакомпанией ты летишь?
+A2;adj;;all right;;;;;в порядке, нормальный;Are you **all right**? You look tired.;Ты в порядке? Ты выглядишь уставшим.
+A2;adv;;any more;;;;;больше (не), уже (не);I don't live in London **any more**.;Я больше не живу в Лондоне.
+A2;noun;;appearance;appearances;;;;внешность, появление;She changed her **appearance** completely.;Она полностью изменила свою внешность.
+A2;noun;;architect;architects;;;;архитектор;The **architect** designed a beautiful new library.;Архитектор спроектировал красивую новую библиотеку.
+A2;noun;;architecture;-;;;;архитектура;I love the old **architecture** of this city.;Я люблю старую архитектуру этого города.
+A2;noun;;arrangement;arrangements;;;;договорённость, приготовления;We made **arrangements** to meet at six.;Мы договорились встретиться в шесть.
+A2;noun;;assistant;assistants;;;;помощник, ассистент;My **assistant** will send you the documents.;Мой помощник пришлёт вам документы.
+A2;noun;;award;awards;;;;награда, премия;The film won an **award** for best music.;Фильм получил награду за лучшую музыку.
+A2;noun;;background;backgrounds;;;;фон, происхождение;There is a mountain in the **background** of the photo.;На заднем плане фотографии видна гора.
+A2;noun;;bar;bars;;;;бар, плитка (шоколада);Let's meet at the **bar** after work.;Давай встретимся в баре после работы.
+A2;noun;;baseball;-;;;;бейсбол;My brother plays **baseball** every Saturday.;Мой брат играет в бейсбол каждую субботу.
+A2;adj;;based;;;;;основанный, базирующийся;The film is **based** on a true story.;Фильм основан на реальной истории.
+A2;num;;billion;;;;;миллиард;About eight **billion** people live on Earth.;На Земле живёт около восьми миллиардов человек.
+A2;noun;;bit;bits;;;;кусочек, немного;Can I have a **bit** of your cake?;Можно мне кусочек твоего торта?
+A2;adj;;blank;;;;;пустой, чистый (о листе);Write your name in the **blank** space.;Напишите своё имя в пустой строке.
+A2;verb;;boil;;;boiled;boiled;кипятить, варить, кипеть;**Boil** the water before you make tea.;Вскипяти воду, прежде чем заваривать чай.
+A2;noun;;bottom;bottoms;;;;дно, низ;The keys are at the **bottom** of my bag.;Ключи лежат на дне моей сумки.
+A2;noun;;camp;camps;;;;лагерь;The children spent a week at summer **camp**.;Дети провели неделю в летнем лагере.
+A2;verb;;chat;;;chatted;chatted;болтать, переписываться в чате;We **chatted** for hours on the phone.;Мы часами болтали по телефону.
+A2;noun;;cigarette;cigarettes;;;;сигарета;He stopped smoking **cigarettes** last year.;Он бросил курить сигареты в прошлом году.
+A2;adj;;classical;;;;;классический;She enjoys listening to **classical** music.;Ей нравится слушать классическую музыку.
+A2;noun;;clothing;-;;;;одежда;This shop sells warm winter **clothing**.;Этот магазин продаёт тёплую зимнюю одежду.
+A2;adj;;connected;;;;;связанный, подключённый;Is your computer **connected** to the internet?;Твой компьютер подключён к интернету?
+A2;noun;;continent;continents;;;;континент, материк;Africa is a very large **continent**.;Африка — очень большой континент.
+A2;adv;;correctly;;;;;правильно, верно;Did I spell your name **correctly**?;Я правильно написал твоё имя?
+A2;noun;;credit;-;;;;кредит, рассрочка;We bought the car on **credit**.;Мы купили машину в кредит.
+A2;noun;;death;deaths;;;;смерть;His **death** was a shock to everyone.;Его смерть стала шоком для всех.
+A2;noun;;diary;diaries;;;;дневник, ежедневник;She writes in her **diary** every night.;Она пишет в своём дневнике каждый вечер.
+A2;adv;;differently;;;;;по-другому, иначе;Everyone learns **differently**.;Все учатся по-разному.
+A2;adj;;direct;;;;;прямой;Is there a **direct** flight to Rome?;Есть ли прямой рейс в Рим?
+A2;adj;;disabled;;;;;с ограниченными возможностями, инвалид;The building has a lift for **disabled** people.;В здании есть лифт для людей с инвалидностью.
+A2;noun;;distance;distances;;;;расстояние;What is the **distance** between the two cities?;Какое расстояние между этими двумя городами?
+A2;adj;;divorced;;;;;разведённый;My parents are **divorced**.;Мои родители в разводе.
+A2;noun;;document;documents;;;;документ;Please sign this **document** at the bottom.;Пожалуйста, подпишите этот документ внизу.
+A2;noun;;driving;-;;;;вождение;I'm taking **driving** lessons this summer.;Этим летом я беру уроки вождения.
+A2;noun;;earth;-;;;;Земля, земля (почва);The **earth** goes round the sun.;Земля вращается вокруг Солнца.
+A2;noun;;education;-;;;;образование;**Education** is very important for children.;Образование очень важно для детей.
+A2;adj;;electrical;;;;;электрический;We sell **electrical** goods like TVs and fridges.;Мы продаём электротовары, например телевизоры и холодильники.
+A2;noun;;ending;endings;;;;конец, окончание, концовка;The film has a happy **ending**.;У фильма счастливый конец.
+A2;noun;;error;errors;;;;ошибка;There is an **error** in this sentence.;В этом предложении ошибка.
+A2;adj;;everyday;;;;;повседневный, ежедневный;Phones are part of our **everyday** life.;Телефоны — часть нашей повседневной жизни.
+A2;noun;;farming;-;;;;сельское хозяйство, фермерство;**Farming** is hard work.;Фермерство — тяжёлая работа.
+A2;noun;;figure;figures;;;;цифра, фигура;Write the number in **figures**, not words.;Напиши число цифрами, а не словами.
+A2;adv;;firstly;;;;;во-первых;**Firstly**, I want to thank you all.;Во-первых, я хочу поблагодарить вас всех.
+A2;noun;;flying;-;;;;полёты, авиаперелёты;My sister is afraid of **flying**.;Моя сестра боится летать.
+A2;adj;;following;;;;;следующий;We left the **following** morning.;Мы уехали на следующее утро.
+A2;adv;;forward;;;;;вперёд;Please take one step **forward**.;Пожалуйста, сделайте шаг вперёд.
+A2;noun;;frog;frogs;;;;лягушка;A green **frog** jumped into the pond.;Зелёная лягушка прыгнула в пруд.
+A2;noun;;gap;gaps;;;;пропуск, промежуток, щель;Fill in the **gaps** with the right words.;Заполните пропуски нужными словами.
+A2;noun;;gas;gases;;;;газ;We cook on a **gas** stove.;Мы готовим на газовой плите.
+A2;noun;;god;gods;;;;бог;The ancient Greeks believed in many **gods**.;Древние греки верили во многих богов.
+A2;noun;;golf;-;;;;гольф;My grandfather plays **golf** on Sundays.;Мой дедушка играет в гольф по воскресеньям.
+A2;noun;;ground;grounds;;;;земля, почва;The apple fell to the **ground**.;Яблоко упало на землю.
+A2;noun;;guy;guys;;;;парень, тип;He's a really nice **guy**.;Он действительно славный парень.
+A2;adv;;happily;;;;;счастливо, радостно;They lived **happily** in a small village.;Они счастливо жили в маленькой деревне.
+A2;noun;;heat;-;;;;жара, тепло;I can't sleep in this **heat**.;Я не могу спать в такую жару.
+A2;noun;;height;heights;;;;рост, высота;What is the **height** of this building?;Какова высота этого здания?
+A2;noun;;hero;heroes;;;;герой;The firefighter was a real **hero**.;Пожарный был настоящим героем.
+A2;pron;;hers;;;;;её (принадлежащий ей);This bag isn't mine. It's **hers**.;Эта сумка не моя. Она её.
+A2;pron;;herself;;;;;себя, сама (о ней);She made the dress **herself**.;Она сама сшила платье.
+A2;pron;;himself;;;;;себя, сам (о нём);He hurt **himself** playing football.;Он ушибся, играя в футбол.
+A2;noun;;hockey;-;;;;хоккей;Canada is famous for ice **hockey**.;Канада славится хоккеем.
+A2;noun;;hole;holes;;;;дыра, яма;There's a **hole** in my sock.;У меня дырка в носке.
+A2;adj;;human;;;;;человеческий;The **human** body needs water every day.;Человеческому организму нужна вода каждый день.
+A2;noun;;image;images;;;;изображение, образ;The **images** on the screen were very clear.;Изображения на экране были очень чёткими.
+A2;prep;;including;;;;;включая;The trip costs 500 euros, **including** meals.;Поездка стоит 500 евро, включая питание.
+A2;adj;;individual;;;;;отдельный, индивидуальный;Each student gets **individual** help.;Каждый студент получает индивидуальную помощь.
+A2;noun;;instructor;instructors;;;;инструктор;My driving **instructor** is very patient.;Мой инструктор по вождению очень терпеливый.
+A2;noun;;introduction;introductions;;;;введение, знакомство;Read the **introduction** before you start the book.;Прочитай введение, прежде чем начать книгу.
+A2;noun;;item;items;;;;предмет, пункт, товар;How many **items** are on the list?;Сколько пунктов в списке?
+A2;pron;;itself;;;;;себя, сам (о предмете или животном);The cat is washing **itself**.;Кошка умывается.
+A2;noun;;jazz;-;;;;джаз;My father loves listening to **jazz**.;Мой отец любит слушать джаз.
+A2;noun;;king;kings;;;;король;The **king** lived in a huge castle.;Король жил в огромном замке.
+A2;noun;;lady;ladies;;;;дама, леди;An old **lady** asked me for directions.;Пожилая дама спросила у меня дорогу.
+A2;noun;;learning;-;;;;учёба, обучение;Online **learning** is popular now.;Онлайн-обучение сейчас популярно.
+A2;adj;;least;;;;;наименьший, наименее;He has the **least** money of all of us.;У него меньше всех нас денег.
+A2;adj;;less;;;;;меньше, менее;You should eat **less** sugar.;Тебе следует есть меньше сахара.
+A2;noun;;level;levels;;;;уровень;What **level** of English do you have?;Какой у тебя уровень английского?
+A2;noun;;listener;listeners;;;;слушатель;The radio show has thousands of **listeners**.;У радиопередачи тысячи слушателей.
+A2;noun;;mail;-;;;;почта;Did we get any **mail** today?;Нам сегодня пришла почта?
+A2;adj;;major;;;;;главный, крупный;Traffic is a **major** problem in big cities.;Пробки — главная проблема больших городов.
+A2;noun;;manner;manners;;;;манера, манеры;It's bad **manners** to talk with your mouth full.;Говорить с набитым ртом — плохие манеры.
+A2;verb;;marry;;;married;married;жениться, выходить замуж;He wants to **marry** her next year.;Он хочет жениться на ней в следующем году.
+A2;noun;;material;materials;;;;материал, ткань;This jacket is made of a light **material**.;Эта куртка сделана из лёгкого материала.
+A2;noun;;mathematics;-;;;;математика;**Mathematics** was my favourite subject at school.;Математика была моим любимым предметом в школе.
+A2;noun;;metal;metals;;;;металл;The table is made of **metal** and glass.;Стол сделан из металла и стекла.
+A2;noun;;middle;middles;;;;середина;There's a fountain in the **middle** of the square.;Посреди площади есть фонтан.
+A2;adj;;missing;;;;;пропавший, недостающий;Two pages are **missing** from this book.;В этой книге не хватает двух страниц.
+A2;noun;;motorcycle;motorcycles;;;;мотоцикл;He rides his **motorcycle** to work.;Он ездит на работу на мотоцикле.
+A2;noun;;movement;movements;;;;движение;Don't make any sudden **movements**.;Не делай резких движений.
+A2;noun;;nature;-;;;;природа;I love walking in **nature**.;Я люблю гулять на природе.
+A2;noun;;noise;noises;;;;шум;What's that strange **noise**?;Что это за странный шум?
+A2;prep;;onto;;;;;на (движение на поверхность);The cat jumped **onto** the table.;Кошка запрыгнула на стол.
+A2;noun;;option;options;;;;вариант, выбор;We have two **options**: stay or leave.;У нас два варианта: остаться или уйти.
+A2;verb;;organize;;;organized;organized;организовывать, устраивать;She **organized** a party for his birthday.;Она устроила вечеринку на его день рождения.
+A2;pron;;ourselves;;;;;себя, сами (о нас);We built the house **ourselves**.;Мы сами построили дом.
+A2;noun;;pants;pl;;;;брюки (амер.), трусы (брит.);He bought a new pair of **pants**.;Он купил новые брюки.
+A2;noun;;parking;-;;;;парковка, стоянка;**Parking** is free on Sundays.;По воскресеньям парковка бесплатная.
+A2;adj;;particular;;;;;определённый, особый;Is there a **particular** film you want to see?;Есть какой-то определённый фильм, который ты хочешь посмотреть?
+A2;noun;;penny;pence;;;;пенни;It costs ninety-nine **pence**.;Это стоит девяносто девять пенсов.
+A2;noun;;per cent;-;;;;процент;Fifty **per cent** of the students are girls.;Пятьдесят процентов студентов — девушки.
+A2;noun;;permission;-;;;;разрешение;You need **permission** to take photos here.;Здесь нужно разрешение, чтобы фотографировать.
+A2;noun;;pop;-;;;;поп-музыка;She listens to **pop** music all day.;Она весь день слушает поп-музыку.
+A2;noun;;possession;possessions;;;;имущество, вещь (принадлежащая кому-то);He lost all his **possessions** in the fire.;Он потерял всё своё имущество при пожаре.
+A2;noun;;power;-;;;;сила, власть, энергия;There was no **power** after the storm.;После бури не было электричества.
+A2;noun;;profile;profiles;;;;профиль, анкета;Update your **profile** photo on the website.;Обнови фото профиля на сайте.
+A2;noun;;program;programs;;;;программа (компьютерная);This **program** helps you learn languages.;Эта программа помогает изучать языки.
+A2;noun;;pub;pubs;;;;паб, пивная;Let's go to the **pub** for dinner.;Пойдём в паб поужинать.
+A2;noun;;quantity;quantities;;;;количество;Buy a small **quantity** of rice first.;Сначала купи небольшое количество риса.
+A2;noun;;queen;queens;;;;королева;The **queen** waved to the crowd.;Королева помахала толпе.
+A2;noun;;rate;rates;;;;уровень, ставка, темп;The hotel offers a special **rate** for students.;Отель предлагает особый тариф для студентов.
+A2;verb;;realize;;;realized;realized;понимать, осознавать;I **realized** that I had lost my keys.;Я понял, что потерял ключи.
+A2;verb;;recognize;;;recognized;recognized;узнавать, распознавать;I didn't **recognize** you with short hair.;Я не узнал тебя с короткой стрижкой.
+A2;noun;;record;records;;;;рекорд, запись;She broke the world **record** in swimming.;Она побила мировой рекорд по плаванию.
+A2;noun;;recording;recordings;;;;запись (аудио или видео);Listen to the **recording** and answer the questions.;Прослушайте запись и ответьте на вопросы.
+A2;noun;;region;regions;;;;регион, область;This **region** is famous for its wine.;Этот регион славится своим вином.
+A2;verb;;respond;;;responded;responded;отвечать, реагировать;She didn't **respond** to my message.;Она не ответила на моё сообщение.
+A2;noun;;response;responses;;;;ответ, реакция;We are still waiting for a **response**.;Мы всё ещё ждём ответа.
+A2;noun;;rock;rocks;;;;скала, камень, рок (музыка);The children climbed onto a big **rock**.;Дети забрались на большую скалу.
+A2;adv;;sadly;;;;;к сожалению, грустно;**Sadly**, the concert was cancelled.;К сожалению, концерт отменили.
+A2;noun;;schedule;schedules;;;;расписание, график;I have a very busy **schedule** this week.;На этой неделе у меня очень плотный график.
+A2;noun;;season;seasons;;;;время года, сезон;Summer is my favourite **season**.;Лето — моё любимое время года.
+A2;adv;;secondly;;;;;во-вторых;**Secondly**, we need more money.;Во-вторых, нам нужно больше денег.
+A2;noun;;service;services;;;;обслуживание, услуга;The **service** in this restaurant is excellent.;Обслуживание в этом ресторане отличное.
+A2;pron;;several;;;;;несколько;I've been to Paris **several** times.;Я был в Париже несколько раз.
+A2;noun;;shape;shapes;;;;форма, очертание;The cake is in the **shape** of a heart.;Торт в форме сердца.
+A2;noun;;side;sides;;;;сторона, бок;Write on one **side** of the paper only.;Пишите только на одной стороне листа.
+A2;noun;;site;sites;;;;сайт, место, участок;You can buy tickets on our **site**.;Билеты можно купить на нашем сайте.
+A2;verb;;ski;;;skied;skied;кататься на лыжах;We **ski** in the mountains every winter.;Каждую зиму мы катаемся на лыжах в горах.
+A2;noun;;smartphone;smartphones;;;;смартфон;Almost everyone has a **smartphone** these days.;Сегодня почти у всех есть смартфон.
+A2;noun;;smoking;-;;;;курение;**Smoking** is not allowed in the building.;Курение в здании запрещено.
+A2;noun;;soccer;-;;;;футбол (амер.);In the USA, football is called **soccer**.;В США футбол называют «соккер».
+A2;noun;;sort;sorts;;;;сорт, вид, тип;What **sort** of music do you like?;Какую музыку ты любишь?
+A2;noun;;speaker;speakers;;;;оратор, говорящий, колонка;He is a native **speaker** of Spanish.;Он носитель испанского языка.
+A2;adj;;specific;;;;;конкретный, определённый;Can you give me a **specific** example?;Можешь привести конкретный пример?
+A2;noun;;speed;speeds;;;;скорость;The train travels at high **speed**.;Поезд едет на большой скорости.
+A2;noun;;spider;spiders;;;;паук;There's a big **spider** in the bath!;В ванне большой паук!
+A2;noun;;stair;stairs;;;;ступенька, лестница;She ran up the **stairs** to her room.;Она взбежала по лестнице в свою комнату.
+A2;noun;;stamp;stamps;;;;марка, штамп;I need a **stamp** for this letter.;Мне нужна марка для этого письма.
+A2;noun;;strategy;strategies;;;;стратегия;We need a new **strategy** to win.;Нам нужна новая стратегия, чтобы победить.
+A2;noun;;structure;structures;;;;структура, строение;The **structure** of the essay is very clear.;Структура эссе очень понятная.
+A2;adj;;such;;;;;такой;It was **such** a beautiful day.;Это был такой прекрасный день.
+A2;noun;;system;systems;;;;система;The school has a new computer **system**.;В школе новая компьютерная система.
+A2;noun;;teaching;-;;;;преподавание;She wants a career in **teaching**.;Она хочет заниматься преподаванием.
+A2;noun;;technology;technologies;;;;технология, техника;Modern **technology** makes life easier.;Современные технологии облегчают жизнь.
+A2;adj;;teenage;;;;;подростковый;They have two **teenage** children.;У них двое детей-подростков.
+A2;pron;;themselves;;;;;себя, сами (о них);The children made dinner **themselves**.;Дети сами приготовили ужин.
+A2;noun;;thinking;-;;;;мышление, размышление;This job needs clear **thinking**.;Эта работа требует ясного мышления.
+A2;conj;;though;;;;;хотя;**Though** it was cold, we went swimming.;Хотя было холодно, мы пошли купаться.
+A2;noun;;throat;throats;;;;горло;I have a sore **throat** today.;У меня сегодня болит горло.
+A2;noun;;tool;tools;;;;инструмент;You need the right **tools** for this job.;Для этой работы нужны подходящие инструменты.
+A2;noun;;top;tops;;;;верх, вершина;We climbed to the **top** of the hill.;Мы поднялись на вершину холма.
+A2;noun;;tower;towers;;;;башня;You can see the whole city from the **tower**.;С башни виден весь город.
+A2;noun;;track;tracks;;;;дорожка, трек, тропа;We followed a narrow **track** through the forest.;Мы шли по узкой тропе через лес.
+A2;noun;;trainer;trainers;;;;тренер, кроссовка;I need new **trainers** for running.;Мне нужны новые кроссовки для бега.
+A2;noun;;trouble;troubles;;;;беда, проблема, неприятности;He's always in **trouble** at school.;У него в школе постоянно неприятности.
+A2;noun;;truck;trucks;;;;грузовик;A big **truck** blocked the road.;Большой грузовик перегородил дорогу.
+A2;noun;;understanding;-;;;;понимание;She has a good **understanding** of the problem.;Она хорошо понимает проблему.
+A2;noun;;unit;units;;;;раздел (учебника), единица;Please open your books at **unit** five.;Откройте, пожалуйста, учебники на пятом разделе.
+A2;adj;;usual;;;;;обычный;Let's meet at the **usual** place.;Встретимся на обычном месте.
+A2;noun;;van;vans;;;;фургон;They moved the furniture in a small **van**.;Они перевезли мебель в небольшом фургоне.
+A2;noun;;variety;varieties;;;;разнообразие, сорт;The shop sells a wide **variety** of cheeses.;Магазин продаёт большое разнообразие сыров.
+A2;noun;;voice;voices;;;;голос;She has a beautiful **voice**.;У неё красивый голос.
+A2;noun;;web;webs;;;;интернет, паутина;I found the recipe on the **web**.;Я нашёл рецепт в интернете.
+A2;noun;;weight;weights;;;;вес;What is your **weight**?;Какой у тебя вес?
+A2;pron;;whose;;;;;чей;**Whose** phone is this?;Чей это телефон?
+A2;noun;;wood;woods;;;;дерево (материал), лес;The chair is made of **wood**.;Стул сделан из дерева.
+A2;adj;;worse;;;;;хуже, худший;The weather is **worse** than yesterday.;Погода хуже, чем вчера.
+A2;adj;;worst;;;;;наихудший, самый плохой;That was the **worst** day of my life.;Это был худший день в моей жизни.
+A2;noun;;yard;yards;;;;двор;The kids are playing in the **yard**.;Дети играют во дворе.
+A2;verb;;come on;;;came on;come on;давай, ну же, поторопись;**Come on**, we're going to be late!;Давай быстрее, мы опоздаем!
+A2;verb;;bake;;;baked;baked;печь, выпекать;My mum **bakes** bread every weekend.;Моя мама печёт хлеб каждые выходные.
+A2;noun;;captain;captains;;;;капитан;The **captain** of the team scored two goals.;Капитан команды забил два гола.
+A2;interj;;congratulations;;;;;поздравляю, поздравления;**Congratulations** on your new job!;Поздравляю с новой работой!
+A2;noun;;countryside;-;;;;сельская местность;We spent the weekend in the **countryside**.;Мы провели выходные за городом.
+A2;noun;;dinosaur;dinosaurs;;;;динозавр;The museum has a huge **dinosaur** skeleton.;В музее есть огромный скелет динозавра.
+A2;noun;;file;files;;;;файл, папка;Save the **file** before you close it.;Сохрани файл, прежде чем закрыть его.
+A2;noun;;footballer;footballers;;;;футболист;He wants to be a professional **footballer**.;Он хочет стать профессиональным футболистом.
+A2;noun;;ghost;ghosts;;;;привидение, призрак;Do you believe in **ghosts**?;Ты веришь в привидения?
+A2;noun;;horror;-;;;;ужас, фильм ужасов;I never watch **horror** films at night.;Я никогда не смотрю фильмы ужасов по ночам.
+A2;noun;;magic;-;;;;волшебство, магия, фокусы;The children enjoyed the **magic** show.;Детям понравилось шоу фокусов.
+A2;noun;;stuff;-;;;;вещи, штука, всякое;Put your **stuff** in your room, please.;Положи, пожалуйста, свои вещи в свою комнату.
+A2;noun;;cotton;-;;;;хлопок;This shirt is made of **cotton**.;Эта рубашка сделана из хлопка.
+A2;noun;;ad;ads;;;;реклама, объявление;I saw an **ad** for a cheap flat.;Я видел объявление о дешёвой квартире.
+A2;verb;;apologize;;;apologized;apologized;извиняться;He **apologized** for being late.;Он извинился за опоздание.
+A2;noun;;beauty;-;;;;красота;We admired the **beauty** of the mountains.;Мы любовались красотой гор.
+A2;noun;;block;blocks;;;;квартал, блок, многоэтажный дом;She lives in a **block** of flats near the park.;Она живёт в многоквартирном доме рядом с парком.
+A2;noun;;chapter;chapters;;;;глава;I've just finished the first **chapter**.;Я только что дочитал первую главу.
+A2;verb;;click;;;clicked;clicked;щёлкать, нажимать (мышью);**Click** on the link to open the page.;Нажми на ссылку, чтобы открыть страницу.
+A2;noun;;enemy;enemies;;;;враг;Cats and dogs are not always **enemies**.;Кошки и собаки не всегда враги.
+A2;noun;;gram;grams;;;;грамм;Add 200 **grams** of sugar.;Добавьте 200 граммов сахара.
+A2;noun;;ingredient;ingredients;;;;ингредиент;Mix all the **ingredients** in a bowl.;Смешайте все ингредиенты в миске.
+A2;verb;;mix;;;mixed;mixed;смешивать, мешать;**Mix** the flour with the milk.;Смешайте муку с молоком.
+A2;noun;;rugby;-;;;;регби;**Rugby** is very popular in New Zealand.;Регби очень популярно в Новой Зеландии.
+A2;noun;;leather;-;;;;кожа (материал);She bought a black **leather** jacket.;Она купила чёрную кожаную куртку.
+A2;noun;;shell;shells;;;;ракушка, скорлупа, панцирь;The children collected **shells** on the beach.;Дети собирали ракушки на пляже.
+A2;noun;;rope;ropes;;;;верёвка, канат;Tie the boat with a **rope**.;Привяжи лодку верёвкой.
+A2;noun;;fever;fevers;;;;жар, высокая температура;The child has a high **fever**.;У ребёнка высокая температура.
+A2;noun;;nail;nails;;;;ноготь, гвоздь;Stop biting your **nails**!;Перестань грызть ногти!
+A2;noun;;mud;-;;;;грязь;My boots are covered in **mud**.;Мои ботинки все в грязи.
+A2;noun;;pot;pots;;;;кастрюля, горшок;Put the potatoes in a big **pot**.;Положи картошку в большую кастрюлю.
+A2;verb;;get in;;;got in;got in;садиться (в машину), входить;**Get in** the car, we're leaving!;Садись в машину, мы уезжаем!
+A2;verb;;get out;;;got out;got out;выходить, выбираться;She **got out** of the taxi.;Она вышла из такси.
+A2;verb;;put down;;;put down;put down;класть, положить;**Put down** your pens and listen.;Положите ручки и слушайте.
+A2;verb;;take out;;;took out;taken out;вынимать, выносить;Can you **take out** the rubbish?;Можешь вынести мусор?
+A2;verb;;come out;;;came out;come out;выходить, появляться;Her new album **comes out** next week.;Её новый альбом выходит на следующей неделе.
+A2;verb;;go up;;;went up;gone up;подниматься, расти (о ценах);Prices **went up** again this month.;В этом месяце цены снова выросли.
+A2;verb;;go down;;;went down;gone down;спускаться, снижаться;The temperature **went down** at night.;Ночью температура понизилась.
+A2;verb;;fall down;;;fell down;fallen down;падать, рушиться;The old tree **fell down** in the storm.;Старое дерево упало во время бури.
+A2;verb;;fall over;;;fell over;fallen over;упасть, споткнуться;He **fell over** and hurt his knee.;Он упал и ушиб колено.
+A2;verb;;hang up;;;hung up;hung up;повесить трубку, повесить;She **hung up** before I could answer.;Она повесила трубку, прежде чем я успел ответить.
+A2;verb;;tidy up;;;tidied up;tidied up;убирать, наводить порядок;Please **tidy up** your room.;Пожалуйста, убери в своей комнате.
+A2;verb;;dress up;;;dressed up;dressed up;наряжаться, переодеваться;The kids **dressed up** as pirates.;Дети нарядились пиратами.
+A2;verb;;log in;;;logged in;logged in;входить (в систему);**Log in** with your email and password.;Войдите, используя свою почту и пароль.
+A2;verb;;look around;;;looked around;looked around;осматривать(ся), оглядываться;We **looked around** the old town.;Мы осмотрели старый город.
+A2;verb;;get lost;;;got lost;got lost;заблудиться, потеряться;We **got lost** in the forest.;Мы заблудились в лесу.
+A2;verb;;get ready;;;got ready;got ready;готовиться, собираться;**Get ready**, the bus is coming!;Собирайся, автобус подъезжает!
+A2;verb;;take away;;;took away;taken away;забирать, уносить;The waiter **took away** our plates.;Официант унёс наши тарелки.
+A2;verb;;put out;;;put out;put out;тушить, гасить;The firefighters **put out** the fire.;Пожарные потушили пожар.
+A2;noun;;breath;breaths;;;;дыхание, вдох;Take a deep **breath** and relax.;Сделай глубокий вдох и расслабься.
+A2;noun;;brick;bricks;;;;кирпич;The house is built of red **bricks**.;Дом построен из красного кирпича.
+A2;noun;;bubble;bubbles;;;;пузырь;The children were blowing soap **bubbles**.;Дети пускали мыльные пузыри.
+A2;noun;;bush;bushes;;;;куст;The ball rolled under a **bush**.;Мяч закатился под куст.
+A2;noun;;cage;cages;;;;клетка;The bird lives in a small **cage**.;Птица живёт в маленькой клетке.
+A2;noun;;chain;chains;;;;цепь, цепочка, сеть (магазинов);She wears a gold **chain** around her neck.;Она носит на шее золотую цепочку.
+A2;adj;;deaf;;;;;глухой;My grandmother is a little **deaf**.;Моя бабушка немного глуховата.
+A2;noun;;dust;-;;;;пыль;The old books were covered in **dust**.;Старые книги были покрыты пылью.
+A2;noun;;edge;edges;;;;край;Don't stand so close to the **edge**!;Не стой так близко к краю!
+A2;noun;;fountain;fountains;;;;фонтан;We threw coins into the **fountain**.;Мы бросили монетки в фонтан.
+A2;noun;;glue;-;;;;клей;Stick the picture on the paper with **glue**.;Приклей картинку к бумаге клеем.
+A2;noun;;hammer;hammers;;;;молоток;Pass me the **hammer**, please.;Передай мне молоток, пожалуйста.
+A2;noun;;highway;highways;;;;шоссе, автострада;We drove along the **highway** for three hours.;Мы ехали по шоссе три часа.
+A2;noun;;jungle;jungles;;;;джунгли;Monkeys live in the **jungle**.;Обезьяны живут в джунглях.
+A2;noun;;ladder;ladders;;;;стремянка, лестница (приставная);He climbed the **ladder** to fix the roof.;Он залез на лестницу, чтобы починить крышу.
+A2;noun;;lane;lanes;;;;переулок, полоса (движения);They live in a quiet **lane** near the church.;Они живут в тихом переулке возле церкви.
+A2;noun;;loaf;loaves;;;;буханка, батон;Could you buy a **loaf** of bread?;Можешь купить буханку хлеба?
+A2;noun;;mask;masks;;;;маска;Everyone wore a **mask** at the party.;На вечеринке все были в масках.
+A2;noun;;mess;-;;;;беспорядок, бардак;Your room is a complete **mess**!;В твоей комнате полный беспорядок!
+A2;noun;;nest;nests;;;;гнездо;There is a bird's **nest** in the tree.;На дереве птичье гнездо.
+A2;noun;;net;nets;;;;сетка, сеть;The ball hit the **net**.;Мяч попал в сетку.
+A2;noun;;parcel;parcels;;;;посылка;A **parcel** arrived for you this morning.;Сегодня утром для тебя пришла посылка.
+A2;noun;;pipe;pipes;;;;труба, трубка;Water was coming out of a broken **pipe**.;Из сломанной трубы текла вода.
+A2;noun;;pond;ponds;;;;пруд;There are ducks on the **pond**.;На пруду утки.
+A2;noun;;pumpkin;pumpkins;;;;тыква;We made soup from a big **pumpkin**.;Мы сварили суп из большой тыквы.
+A2;noun;;rose;roses;;;;роза;He gave her a red **rose**.;Он подарил ей красную розу.
+A2;noun;;row;rows;;;;ряд;We sat in the front **row**.;Мы сидели в первом ряду.
+A2;noun;;sailor;sailors;;;;моряк, матрос;My uncle was a **sailor** for twenty years.;Мой дядя двадцать лет был моряком.
+A2;noun;;shadow;shadows;;;;тень (от предмета);The tree made a long **shadow** on the grass.;Дерево отбрасывало на траву длинную тень.
+A2;verb;;shave;;;shaved;shaved;бриться, брить;He **shaves** every morning.;Он бреется каждое утро.
+A2;noun;;silence;-;;;;тишина, молчание;There was a long **silence** in the room.;В комнате повисла долгая тишина.
+A2;verb;;skate;;;skated;skated;кататься на коньках;We **skated** on the frozen lake.;Мы катались на коньках по замёрзшему озеру.
+A2;noun;;sleeve;sleeves;;;;рукав;This shirt has short **sleeves**.;У этой рубашки короткие рукава.
+A2;noun;;string;-;;;;верёвка, бечёвка;Tie the box with **string**.;Перевяжи коробку бечёвкой.
+A2;noun;;sunset;sunsets;;;;закат;We watched the **sunset** from the beach.;Мы смотрели на закат с пляжа.
+A2;noun;;thunder;-;;;;гром;The dog is afraid of **thunder**.;Собака боится грома.
+A2;noun;;torch;torches;;;;фонарик;Take a **torch**, it's dark outside.;Возьми фонарик, на улице темно.
+A2;noun;;tray;trays;;;;поднос;She brought the cups on a **tray**.;Она принесла чашки на подносе.
+A2;noun;;tyre;tyres;;;;шина;The car has a flat **tyre**.;У машины спущена шина.
+A2;verb;;unlock;;;unlocked;unlocked;отпирать, разблокировать;I can't **unlock** the door.;Я не могу отпереть дверь.
+A2;noun;;wool;-;;;;шерсть;This scarf is made of **wool**.;Этот шарф сделан из шерсти.
+A2;verb;;yawn;;;yawned;yawned;зевать;He **yawned** because he was tired.;Он зевнул, потому что устал.
+A2;pron;;whatever;;;;;всё, что, что бы ни;You can eat **whatever** you want.;Можешь есть всё, что хочешь.
+A2;verb;;take back;;;took back;taken back;возвращать (в магазин), забирать обратно;I **took back** the shoes because they were too small.;Я вернул туфли, потому что они были малы.
+A2;verb;;turn around;;;turned around;turned around;поворачиваться, оборачиваться;She **turned around** and smiled at me.;Она обернулась и улыбнулась мне.
+A2;verb;;join in;;;joined in;joined in;присоединяться, участвовать;Everyone **joined in** the song.;Все подхватили песню.
+A2;verb;;get together;;;got together;got together;собираться, встречаться;We **get together** every Christmas.;Мы собираемся вместе каждое Рождество.

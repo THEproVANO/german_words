@@ -1,5 +1,6 @@
 """Логика рассылки слов и тестов. Общая для планировщика и обработчиков."""
 import asyncio
+import html
 import logging
 import math
 import random
@@ -192,6 +193,11 @@ async def handle_answer(bot: Bot, user: sqlite3.Row, quiz: sqlite3.Row, text: st
             await send_question(bot, user, quiz["id"])
         else:
             await finish_quiz(bot, user, quiz)
+        return
+    if words.is_synonym(text, word):
+        # Синоним не считается ошибкой: просто подсказываем, какое слово загадано
+        await bot.send_message(user["id"], t(lang, "synonym", answer=html.escape(text.strip()),
+                                             hint=words.hint(word, long=True)))
         return
 
     attempts = item["attempts"] + 1

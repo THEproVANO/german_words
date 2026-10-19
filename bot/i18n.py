@@ -255,6 +255,12 @@ TEXTS = {
         "fr": "❌ Faux. Indice : <code>{hint}</code>",
         "es": "❌ Incorrecto. Pista: <code>{hint}</code>",
     },
+    "synonym": {
+        "ru": "🤏 «{answer}» — тоже подходит по смыслу, но я загадал другое слово. Подсказка: <code>{hint}</code>",
+        "en": "🤏 “{answer}” means the same, but I'm thinking of another word. Hint: <code>{hint}</code>",
+        "fr": "🤏 « {answer} » a le même sens, mais je pense à un autre mot. Indice : <code>{hint}</code>",
+        "es": "🤏 «{answer}» significa lo mismo, pero estoy pensando en otra palabra. Pista: <code>{hint}</code>",
+    },
     "wrong3": {
         "ru": "❌ Неверно. Попробуй ещё раз или посмотри ответ.",
         "en": "❌ Wrong. Try again or look at the answer.",

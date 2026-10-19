@@ -83,6 +83,20 @@ def is_correct(answer: str, w: sqlite3.Row) -> bool:
     return _normalize(answer, w["lang"]) == _normalize(w["word"], w["lang"])
 
 
+def _meanings(translations: str) -> set[str]:
+    """Значения перевода без пояснений в скобках: «ехать, ездить (на машине)» → {ехать, ездить}."""
+    return {m.strip().lower() for m in re.sub(r"\([^)]*\)", "", translations).split(",") if m.strip()}
+
+
+def is_synonym(answer: str, w: sqlite3.Row) -> bool:
+    """Ответ — другое слово из словаря с тем же переводом (film вместо movie): это не ошибка."""
+    normalized = _normalize(answer, w["lang"])
+    meanings = _meanings(w["translations"])
+    return any(other["id"] != w["id"] and _normalize(other["word"], w["lang"]) == normalized
+               and meanings & _meanings(other["translations"])
+               for other in db.words_by_pos(w["lang"], w["pos"]))
+
+
 def answer_text(w: sqlite3.Row) -> str:
     """Слово без необязательной части («sich», «to») — то, что пользователь должен ввести."""
     return re.sub(r"^(sich|to) ", "", w["word"])

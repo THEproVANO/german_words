@@ -151,6 +151,10 @@ def get_word(word_id: int) -> sqlite3.Row:
     return conn.execute("SELECT * FROM words WHERE id = ?", (word_id,)).fetchone()
 
 
+def words_by_pos(lang: str, pos: str) -> list[sqlite3.Row]:
+    return conn.execute("SELECT * FROM words WHERE lang = ? AND pos = ?", (lang, pos)).fetchall()
+
+
 def pick_new_word(user: sqlite3.Row) -> sqlite3.Row | None:
     """Случайное ещё не отправленное слово из уровней пользователя."""
     levels = user_levels(user)
