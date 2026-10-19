@@ -14,6 +14,7 @@ def rules_text(user) -> str:
     lang = user["ui_lang"]
     return t(lang, "rules", schedule=service.schedule_text(user), quiz_hour=QUIZ_HOUR,
              answer_rules=t(lang, f"answer_rules_{user['lang']}"),
+             card_rules=t(lang, f"card_rules_{user['lang']}"),
              daily=DAILY_QUIZ_SIZE, weekly=WEEKLY_QUIZ_SIZE)
 
 

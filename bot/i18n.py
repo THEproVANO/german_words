@@ -43,11 +43,45 @@ TEXTS = {
               "no importan, y puedes escribir ae, oe, ue, ss en lugar de ä, ö, ü, ß.",
     },
     "answer_rules_en": {
-        "ru": "по-английски: глаголы в начальной форме, «to» писать не обязательно. Регистр не важен.",
-        "en": "in English: verbs in the base form, “to” is optional. Case doesn't matter.",
-        "fr": "en anglais : les verbes à la forme de base, « to » est facultatif. Les majuscules ne "
-              "comptent pas.",
-        "es": "en inglés: los verbos en forma base, «to» es opcional. Las mayúsculas no importan.",
+        "ru": "по-английски: существительные без артикля (a, the), глаголы в начальной форме, «to» "
+              "писать не обязательно. Регистр и апостроф не важны (dont = don't).",
+        "en": "in English: nouns without the article (a, the), verbs in the base form, “to” is "
+              "optional. Case and apostrophes don't matter (dont = don't).",
+        "fr": "en anglais : les noms sans article (a, the), les verbes à la forme de base, « to » est "
+              "facultatif. Les majuscules et l'apostrophe ne comptent pas (dont = don't).",
+        "es": "en inglés: los sustantivos sin artículo (a, the), los verbos en forma base, «to» es "
+              "opcional. Las mayúsculas y el apóstrofo no importan (dont = don't).",
+    },
+    "card_rules_de": {
+        "ru": "🗂 <b>Карточка слова</b>: часть речи и уровень; у существительных — артикль и "
+              "множественное число; у глаголов — форма 3-го лица (если корень меняется), "
+              "Präteritum и Perfekt (fahren (fährt) — fuhr — ist gefahren); 1–3 перевода и пример "
+              "с переводом.",
+        "en": "🗂 <b>Word card</b>: part of speech and level; for nouns, the article and plural; "
+              "for verbs, the 3rd person form (if the stem changes), Präteritum and Perfekt "
+              "(fahren (fährt) — fuhr — ist gefahren); 1–3 translations and an example with "
+              "its translation.",
+        "fr": "🗂 <b>Fiche du mot</b> : nature et niveau ; pour les noms, l'article et le pluriel ; "
+              "pour les verbes, la 3e personne (si le radical change), le Präteritum et le Perfekt "
+              "(fahren (fährt) — fuhr — ist gefahren) ; 1 à 3 traductions et un exemple traduit.",
+        "es": "🗂 <b>Ficha de la palabra</b>: categoría y nivel; en los sustantivos, el artículo y "
+              "el plural; en los verbos, la 3.ª persona (si cambia la raíz), el Präteritum y el "
+              "Perfekt (fahren (fährt) — fuhr — ist gefahren); 1–3 traducciones y un ejemplo "
+              "traducido.",
+    },
+    "card_rules_en": {
+        "ru": "🗂 <b>Карточка слова</b>: часть речи и уровень; у существительных — множественное "
+              "число; у глаголов — три формы: начальная, Past Simple и Past Participle "
+              "(go — went — gone); 1–3 перевода и пример с переводом.",
+        "en": "🗂 <b>Word card</b>: part of speech and level; for nouns, the plural; for verbs, "
+              "three forms: base form, Past Simple and Past Participle (go — went — gone); "
+              "1–3 translations and an example with its translation.",
+        "fr": "🗂 <b>Fiche du mot</b> : nature et niveau ; pour les noms, le pluriel ; pour les "
+              "verbes, trois formes : base, Past Simple et Past Participle (go — went — gone) ; "
+              "1 à 3 traductions et un exemple traduit.",
+        "es": "🗂 <b>Ficha de la palabra</b>: categoría y nivel; en los sustantivos, el plural; en "
+              "los verbos, tres formas: base, Past Simple y Past Participle (go — went — gone); "
+              "1–3 traducciones y un ejemplo traducido.",
     },
     "lang_chosen": {
         "ru": "Язык: {language}\n\nВыбери свой уровень:",
@@ -390,10 +424,11 @@ TEXTS = {
               "📩 <b>Новые слова</b> приходят по одному: {schedule}. Слова выбираются случайно "
               "из твоего уровня (и уровней ниже, если ты так выбрал) и не повторяются. Каждое полученное слово "
               "считается изученным.\n\n"
+              "{card_rules}\n\n"
               "➕ <b>«Ещё слово»</b> присылает новое слово вне очереди, в дневной лимит оно "
               "не входит.\n\n"
               "📝 <b>Тест дня</b> в {quiz_hour}:00: до {daily} случайных слов из полученных "
-              "за день. Бот пишет перевод, а ты вводишь слово {answer_rules} После второй ошибки бот покажет подсказку, после третьей можно "
+              "за день. Бот пишет перевод, а ты вводишь слово {answer_rules} Синоним с тем же переводом ошибкой не считается — бот подскажет, какое слово загадано. После второй ошибки бот покажет подсказку, после третьей можно "
               "посмотреть ответ, но тогда слово спросят ещё раз в конце теста.\n\n"
               "🏆 <b>Недельный тест</b> по воскресеньям сразу после теста дня: до {weekly} "
               "слов за неделю.\n\n"
@@ -405,10 +440,11 @@ TEXTS = {
               "📩 <b>New words</b> arrive one at a time: {schedule}. Words are picked at random "
               "from your level (and the levels below, if you chose so), and they never repeat. Every word you "
               "receive counts as learned.\n\n"
+              "{card_rules}\n\n"
               "➕ <b>“One more word”</b> sends an extra word right away; it doesn't count toward "
               "the daily limit.\n\n"
               "📝 <b>Daily quiz</b> at {quiz_hour}:00: up to {daily} random words from the ones "
-              "you got that day. The bot shows the translation and you type the word {answer_rules} "
+              "you got that day. The bot shows the translation and you type the word {answer_rules} A synonym with the same translation isn't counted as a mistake — the bot will hint which word it means. "
               "After the second mistake you get "
               "a hint; after the third you can see the answer, but then the word will be asked "
               "again at the end of the quiz.\n\n"
@@ -423,11 +459,12 @@ TEXTS = {
               "📩 <b>Les nouveaux mots</b> arrivent un par un : {schedule}. Ils sont choisis au "
               "hasard dans ton niveau (et les niveaux inférieurs si tu l'as choisi), sans répétition. Chaque "
               "mot reçu compte comme appris.\n\n"
+              "{card_rules}\n\n"
               "➕ <b>« Encore un mot »</b> envoie tout de suite un mot supplémentaire ; il ne "
               "compte pas dans la limite quotidienne.\n\n"
               "📝 <b>Test du jour</b> à {quiz_hour}h : jusqu'à {daily} mots au hasard parmi ceux "
               "reçus dans la journée. Le bot affiche la traduction et tu écris le mot "
-              "{answer_rules} Après la "
+              "{answer_rules} Un synonyme ayant la même traduction ne compte pas comme une erreur : le bot t'indique quel mot il attend. Après la "
               "deuxième erreur, tu reçois un indice ; après la troisième, tu peux voir la "
               "réponse, mais le mot sera alors redemandé à la fin du test.\n\n"
               "🏆 <b>Test de la semaine</b> le dimanche, juste après le test du jour : jusqu'à "
@@ -442,11 +479,12 @@ TEXTS = {
               "📩 <b>Las palabras nuevas</b> llegan de una en una: {schedule}. Se eligen al azar "
               "de tu nivel (y de los niveles inferiores, si así lo elegiste), y no se repiten. Cada palabra "
               "recibida cuenta como aprendida.\n\n"
+              "{card_rules}\n\n"
               "➕ <b>«Otra palabra»</b> envía una palabra extra al momento; no cuenta para el "
               "límite diario.\n\n"
               "📝 <b>Test del día</b> a las {quiz_hour}:00: hasta {daily} palabras al azar de las "
               "que recibiste ese día. El bot muestra la traducción y tú escribes la palabra "
-              "{answer_rules} Tras el segundo "
+              "{answer_rules} Un sinónimo con la misma traducción no cuenta como error: el bot te indicará qué palabra busca. Tras el segundo "
               "error recibes una pista; tras el tercero puedes ver la respuesta, pero entonces "
               "la palabra se volverá a preguntar al final del test.\n\n"
               "🏆 <b>Test semanal</b> los domingos, justo después del test del día: hasta "
