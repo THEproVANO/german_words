@@ -849,3 +849,327 @@ A1;noun;el;problema;;;;;проблема;No hay ningún **problema**.;Никак
 A1;noun;la;idea;;;;;идея, мысль;¡Qué buena **idea**!;Какая хорошая идея!
 A1;noun;el;bolsillo;;;;;карман;Tengo las llaves en el **bolsillo**.;Ключи у меня в кармане.
 A1;noun;la;vela;;;;;свеча;Hay diez **velas** en la tarta.;На торте десять свечей.
+A2;noun;el;sillón;;;;;кресло;Este **sillón** es muy cómodo para leer.;Это кресло очень удобное для чтения.
+A2;noun;la;cortina;;;;;занавеска, штора;Cierra las **cortinas**, entra demasiado sol.;Закрой шторы, слишком много солнца.
+A2;noun;el;cajón;;;;;ящик (выдвижной);Las llaves están en el primer **cajón**.;Ключи лежат в первом ящике.
+A2;noun;la;almohada;;;;;подушка;Necesito otra **almohada** para dormir bien.;Мне нужна ещё одна подушка, чтобы хорошо спать.
+A2;noun;la;manta;;;;;одеяло, плед;Por la noche hace frío, coge una **manta**.;Ночью холодно, возьми плед.
+A2;noun;la;sábana;;;;;простыня;Cambio las **sábanas** todos los domingos.;Я меняю простыни каждое воскресенье.
+A2;noun;el;frigorífico;;;;;холодильник;La leche está en el **frigorífico**.;Молоко в холодильнике.
+A2;noun;la;lavadora;;;;;стиральная машина;La **lavadora** hace mucho ruido.;Стиральная машина очень шумит.
+A2;noun;el;lavavajillas;;;;;посудомоечная машина;Pon los platos sucios en el **lavavajillas**.;Поставь грязные тарелки в посудомоечную машину.
+A2;noun;el;microondas;;;;;микроволновка;Calienta la sopa en el **microondas**.;Разогрей суп в микроволновке.
+A2;noun;el;fregadero;;;;;кухонная раковина, мойка;Deja las tazas en el **fregadero**.;Оставь чашки в раковине.
+A2;noun;el;grifo;;;;;кран;Cierra el **grifo** cuando te lavas los dientes.;Закрывай кран, когда чистишь зубы.
+A2;noun;el;pasillo;;;;;коридор, проход;El baño está al final del **pasillo**.;Ванная в конце коридора.
+A2;noun;el;tejado;;;;;крыша;Hay un gato en el **tejado**.;На крыше кошка.
+A2;noun;la;chimenea;;;;;камин, дымоход;En invierno encendemos la **chimenea**.;Зимой мы разжигаем камин.
+A2;noun;el;sótano;;;;;подвал;Guardamos las bicicletas en el **sótano**.;Мы храним велосипеды в подвале.
+A2;noun;el;alquiler;;;;;аренда, арендная плата;El **alquiler** de este piso es muy caro.;Аренда этой квартиры очень дорогая.
+A2;noun;el;timbre;;;;;звонок (дверной);Llaman al **timbre**, ¿puedes abrir?;Звонят в дверь, можешь открыть?
+A2;noun;el;enchufe;;;;;розетка;No hay ningún **enchufe** cerca de la cama.;Рядом с кроватью нет ни одной розетки.
+A2;noun;la;calefacción;;;;;отопление;La **calefacción** no funciona y hace frío.;Отопление не работает, и холодно.
+A2;noun;la;escoba;;;;;метла, веник;Barro la cocina con la **escoba**.;Я подметаю кухню веником.
+A2;noun;el;champú;;;;;шампунь;Necesito comprar **champú** y pasta de dientes.;Мне нужно купить шампунь и зубную пасту.
+A2;noun;la;percha;;;;;вешалка (плечики);Cuelga la chaqueta en una **percha**.;Повесь пиджак на вешалку.
+A2;noun;el;mueble;;;;;предмет мебели;Vamos a vender algunos **muebles** antiguos de la abuela.;Мы собираемся продать кое-какую старую бабушкину мебель.
+A2;noun;la;sartén;;;;;сковорода;Calienta el aceite en la **sartén**.;Разогрей масло на сковороде.
+A2;noun;la;olla;;;;;кастрюля;Pon el agua a hervir en una **olla** grande.;Поставь воду кипятиться в большой кастрюле.
+A2;noun;el;portal;;;;;подъезд, вход в дом;Te espero en el **portal** a las ocho.;Жду тебя у подъезда в восемь.
+A2;noun;la;mudanza;;;;;переезд;La **mudanza** fue muy cansada.;Переезд был очень утомительным.
+A2;noun;la;bombilla;;;;;лампочка;Hay que cambiar la **bombilla** del baño.;Нужно поменять лампочку в ванной.
+A2;noun;el;cubo;;;;;ведро;Tira el papel al **cubo** de la basura.;Выброси бумагу в мусорное ведро.
+A2;noun;la;estufa;;;;;обогреватель, печка;Enciende la **estufa**, tengo frío.;Включи обогреватель, мне холодно.
+A2;noun;la;rebaja;;;;;скидка, распродажа;En enero empiezan las **rebajas**.;В январе начинаются распродажи.
+A2;noun;la;oferta;;;;;специальное предложение, акция;Esta camisa está de **oferta** hoy.;Эта рубашка сегодня по акции.
+A2;noun;el;descuento;;;;;скидка;Con esta tarjeta tienes un **descuento** del diez por ciento.;С этой картой у тебя скидка десять процентов.
+A2;noun;el;recibo;;;;;квитанция, чек;Guarda el **recibo** por si quieres devolverlo.;Сохрани чек на случай, если захочешь вернуть.
+A2;noun;el;ticket;;;;;чек, талон;¿Me da el **ticket** de compra, por favor?;Дайте мне чек, пожалуйста.
+A2;noun;el;cajero;;;;;кассир, банкомат;El **cajero** me dio mal el cambio.;Кассир неправильно дал мне сдачу.
+A2;noun;el;efectivo;-;;;;наличные;¿Paga con tarjeta o en **efectivo**?;Вы платите картой или наличными?
+A2;noun;el;monedero;;;;;кошелёк (для монет);Llevo las monedas en el **monedero**.;Я ношу монеты в кошельке.
+A2;noun;el;carrito;;;;;тележка;Coge un **carrito**, vamos a comprar mucho.;Возьми тележку, мы будем много покупать.
+A2;noun;la;cola;;;;;очередь, хвост;Hay una **cola** muy larga en la panadería.;В булочной очень длинная очередь.
+A2;noun;el;escaparate;;;;;витрина;Me gusta el vestido del **escaparate**.;Мне нравится платье на витрине.
+A2;noun;la;marca;;;;;марка, бренд;¿De qué **marca** son tus zapatillas?;Какой марки твои кроссовки?
+A2;noun;la;devolución;;;;;возврат;No aceptamos **devoluciones** sin el ticket.;Мы не принимаем возвраты без чека.
+A2;noun;el;probador;;;;;примерочная;Los **probadores** están al fondo a la derecha.;Примерочные в конце справа.
+A2;noun;la;carnicería;;;;;мясная лавка;Esta **carnicería** tiene una carne excelente.;В этой мясной лавке отличное мясо.
+A2;noun;la;pescadería;;;;;рыбный магазин;Compramos gambas en la **pescadería**.;Мы покупаем креветки в рыбном магазине.
+A2;noun;la;frutería;;;;;фруктовая лавка;En la **frutería** hay fresas muy buenas.;Во фруктовой лавке очень хорошая клубника.
+A2;noun;la;zapatería;;;;;обувной магазин;Hay una **zapatería** nueva en mi calle.;На моей улице новый обувной магазин.
+A2;noun;la;joyería;;;;;ювелирный магазин;Compró el anillo en una **joyería** cara.;Он купил кольцо в дорогом ювелирном магазине.
+A2;noun;la;docena;;;;;дюжина, десяток;Quiero una **docena** de huevos, por favor.;Мне дюжину яиц, пожалуйста.
+A2;noun;el;paquete;;;;;пачка, посылка;Compra un **paquete** de arroz y otro de pasta.;Купи пачку риса и пачку макарон.
+A2;noun;la;lata;;;;;банка (консервная);Abre una **lata** de atún para la ensalada.;Открой банку тунца для салата.
+A2;noun;el;envase;;;;;упаковка, тара;Recicla los **envases** de plástico.;Сдавай пластиковую упаковку на переработку.
+A2;noun;la;cesta;;;;;корзина;Pon la fruta en la **cesta**.;Положи фрукты в корзину.
+A2;noun;el;gasto;;;;;расход, трата;Este mes hemos tenido muchos **gastos**.;В этом месяце у нас было много расходов.
+A2;noun;el;gorro;;;;;шапка;En la montaña necesitas un **gorro** de lana.;В горах тебе нужна шерстяная шапка.
+A2;noun;el;cinturón;;;;;ремень, пояс;Este **cinturón** es de cuero.;Этот ремень кожаный.
+A2;noun;la;sandalia;;;;;сандалия, босоножка;En verano llevo **sandalias** todos los días.;Летом я ношу сандалии каждый день.
+A2;noun;el;anillo;;;;;кольцо;Le regaló un **anillo** de oro.;Он подарил ей золотое кольцо.
+A2;noun;el;collar;;;;;ожерелье, ошейник;Este **collar** era de mi abuela.;Это ожерелье принадлежало моей бабушке.
+A2;noun;el;pendiente;;;;;серьга;Ha perdido un **pendiente** en la playa.;Она потеряла серьгу на пляже.
+A2;noun;la;salud;-;;;;здоровье;El deporte es bueno para la **salud**.;Спорт полезен для здоровья.
+A2;noun;la;enfermedad;;;;;болезнь;Es una **enfermedad** muy común en invierno.;Это очень распространённая болезнь зимой.
+A2;noun;la;fiebre;;;;;температура, жар;El niño tiene **fiebre** y no va al colegio.;У ребёнка температура, и он не идёт в школу.
+A2;noun;la;gripe;;;;;грипп;Estuve una semana en casa con **gripe**.;Я неделю пролежал дома с гриппом.
+A2;noun;el;resfriado;;;;;простуда;Tengo un **resfriado** muy fuerte.;У меня очень сильная простуда.
+A2;noun;la;tos;;;;;кашель;Este jarabe es bueno para la **tos**.;Этот сироп хорош от кашля.
+A2;noun;la;herida;;;;;рана;Lava bien la **herida** con agua.;Хорошо промой рану водой.
+A2;noun;la;receta;;;;;рецепт;El médico me dio una **receta** para la farmacia.;Врач дал мне рецепт для аптеки.
+A2;noun;la;pastilla;;;;;таблетка;Tómate una **pastilla** después de comer.;Прими таблетку после еды.
+A2;noun;el;jarabe;;;;;сироп (лекарство);Dale al niño una cucharada de **jarabe**.;Дай ребёнку ложку сиропа.
+A2;noun;el;medicamento;;;;;лекарство, медикамент;No tomes ese **medicamento** sin receta.;Не принимай это лекарство без рецепта.
+A2;noun;la;consulta;;;;;приём (у врача), консультация;La **consulta** del doctor abre a las nueve.;Приём у врача начинается в девять.
+A2;noun;la;cita;;;;;встреча, запись (к врачу), свидание;Tengo **cita** con el dentista el lunes.;У меня запись к стоматологу в понедельник.
+A2;noun;la;ambulancia;;;;;скорая помощь (машина);La **ambulancia** llegó en cinco minutos.;Скорая приехала через пять минут.
+A2;noun;la;urgencias;pl;;;;отделение неотложной помощи;Anoche fuimos a **urgencias** con mi padre.;Вчера вечером мы ездили с отцом в неотложку.
+A2;noun;el;dentista;;;;;стоматолог, зубной врач;Voy al **dentista** dos veces al año.;Я хожу к стоматологу два раза в год.
+A2;noun;el;paciente;;;;;пациент;El médico habla con el **paciente**.;Врач разговаривает с пациентом.
+A2;noun;el;síntoma;;;;;симптом;¿Qué **síntomas** tiene usted desde ayer?;Какие у вас симптомы со вчерашнего дня?
+A2;noun;la;alergia;;;;;аллергия;Tengo **alergia** a los gatos.;У меня аллергия на кошек.
+A2;noun;la;vacuna;;;;;прививка, вакцина;Antes del viaje necesitas una **vacuna**.;Перед поездкой тебе нужна прививка.
+A2;noun;el;termómetro;;;;;градусник, термометр;Ponte el **termómetro**, parece que tienes fiebre.;Поставь градусник, кажется, у тебя температура.
+A2;noun;la;tirita;;;;;пластырь;¿Tienes una **tirita**? Me he cortado.;У тебя есть пластырь? Я порезался.
+A2;noun;la;sangre;-;;;;кровь;Le hicieron un análisis de **sangre**.;Ему сделали анализ крови.
+A2;noun;el;hueso;;;;;кость;Se rompió un **hueso** de la pierna.;Он сломал кость ноги.
+A2;noun;la;piel;;;;;кожа;Usa crema, tienes la **piel** muy seca.;Пользуйся кремом, у тебя очень сухая кожа.
+A2;noun;el;tobillo;;;;;лодыжка;Se torció el **tobillo** jugando al fútbol.;Он подвернул лодыжку, играя в футбол.
+A2;noun;la;muñeca;;;;;запястье, кукла;Lleva un reloj en la **muñeca** izquierda.;Он носит часы на левом запястье.
+A2;noun;el;codo;;;;;локоть;No pongas los **codos** en la mesa.;Не ставь локти на стол.
+A2;noun;el;pecho;;;;;грудь;Siento un dolor en el **pecho**.;Я чувствую боль в груди.
+A2;noun;el;pulmón;;;;;лёгкое;Fumar es muy malo para los **pulmones**.;Курение очень вредно для лёгких.
+A2;noun;la;muela;;;;;коренной зуб;Me duele una **muela** desde ayer.;У меня со вчерашнего дня болит зуб.
+A2;noun;el;oído;;;;;ухо (внутреннее), слух;El niño tiene dolor de **oído** desde anoche.;У ребёнка со вчерашнего вечера болит ухо.
+A2;noun;la;dieta;;;;;диета;Estoy a **dieta** para perder peso.;Я на диете, чтобы похудеть.
+A2;noun;el;peso;;;;;вес;¿Cuál es tu **peso** actual?;Какой у тебя сейчас вес?
+A2;noun;el;embarazo;;;;;беременность;Durante el **embarazo** no bebió alcohol.;Во время беременности она не пила алкоголь.
+A2;noun;el;análisis;;;;;анализ;Mañana me hacen un **análisis** de sangre.;Завтра мне делают анализ крови.
+A2;noun;la;inyección;;;;;укол, инъекция;A los niños no les gustan las **inyecciones**.;Детям не нравятся уколы.
+A2;noun;la;reserva;;;;;бронирование, бронь;Tengo una **reserva** a nombre de García.;У меня бронь на имя Гарсия.
+A2;noun;el;alojamiento;;;;;жильё, проживание;El precio incluye el viaje y el **alojamiento**.;Цена включает поездку и проживание.
+A2;noun;el;albergue;;;;;хостел, приют;Dormimos en un **albergue** juvenil.;Мы ночевали в молодёжном хостеле.
+A2;noun;la;recepción;;;;;стойка регистрации, ресепшен;Deje la llave en **recepción**, por favor.;Оставьте ключ на ресепшене, пожалуйста.
+A2;noun;el;andén;;;;;перрон, платформа;El tren sale del **andén** número cuatro.;Поезд отправляется с четвёртой платформы.
+A2;noun;el;horario;;;;;расписание, график;¿Cuál es el **horario** de la biblioteca?;Какой график работы у библиотеки?
+A2;noun;el;retraso;;;;;опоздание, задержка;El tren llegó con una hora de **retraso**.;Поезд прибыл с опозданием на час.
+A2;noun;el;destino;;;;;пункт назначения, судьба;¿Cuál es el **destino** de este autobús?;Куда идёт этот автобус?
+A2;noun;el;guía;;;;;гид, экскурсовод;El **guía** nos explicó la historia de la ciudad.;Гид рассказал нам историю города.
+A2;noun;el;plano;;;;;план (города), схема;¿Tiene un **plano** de la ciudad?;У вас есть план города?
+A2;noun;el;folleto;;;;;брошюра, буклет;En la oficina de turismo te dan un **folleto**.;В туристическом бюро тебе дадут брошюру.
+A2;noun;el;crucero;;;;;круиз;Hicieron un **crucero** por el Mediterráneo.;Они совершили круиз по Средиземному морю.
+A2;noun;la;costa;;;;;побережье;Pasamos el verano en la **costa**.;Мы провели лето на побережье.
+A2;noun;el;paisaje;;;;;пейзаж;Desde aquí hay un **paisaje** precioso.;Отсюда открывается чудесный пейзаж.
+A2;noun;el;recuerdo;;;;;сувенир, воспоминание;Compré unos **recuerdos** para mi familia.;Я купил сувениры для своей семьи.
+A2;noun;el;monumento;;;;;памятник;Visitamos los **monumentos** más famosos.;Мы посетили самые известные памятники.
+A2;noun;la;catedral;;;;;собор;La **catedral** de Sevilla es enorme.;Севильский собор огромный.
+A2;noun;la;frontera;;;;;граница;Pasamos la **frontera** con Francia por la noche.;Мы пересекли границу с Францией ночью.
+A2;noun;la;aduana;;;;;таможня;En la **aduana** revisaron mi maleta.;На таможне проверили мой чемодан.
+A2;noun;el;extranjero;;;;;иностранец, заграница;Mi hermano trabaja en el **extranjero**.;Мой брат работает за границей.
+A2;noun;el;camping;;;;;кемпинг;Este verano vamos de **camping**.;Этим летом мы едем в кемпинг.
+A2;noun;la;autopista;;;;;автомагистраль;Por la **autopista** llegamos antes.;По автомагистрали мы доедем быстрее.
+A2;noun;el;peaje;;;;;плата за проезд;En esta autopista hay que pagar **peaje**.;На этой автомагистрали нужно платить за проезд.
+A2;noun;el;atasco;;;;;пробка (на дороге);Llegué tarde por un **atasco**.;Я опоздал из-за пробки.
+A2;noun;el;cruce;;;;;перекрёсток;Hay un banco en el **cruce**.;На перекрёстке есть банк.
+A2;noun;la;multa;;;;;штраф;Me pusieron una **multa** por aparcar mal.;Мне выписали штраф за неправильную парковку.
+A2;noun;el;carné;;;;;удостоверение, права;Ya tengo el **carné** de conducir.;У меня уже есть водительские права.
+A2;noun;la;ida;;;;;поездка туда, путь туда;Un billete de **ida** y vuelta, por favor.;Билет туда и обратно, пожалуйста.
+A2;noun;el;asiento;;;;;место, сиденье;Mi **asiento** está junto a la ventanilla.;Моё место у окна.
+A2;noun;la;ventanilla;;;;;окошко (кассы), окно (в транспорте);Compre la entrada en la **ventanilla**.;Купите билет в окошке кассы.
+A2;noun;la;azafata;;;;;стюард, бортпроводник;La **azafata** nos trajo agua.;Стюардесса принесла нам воды.
+A2;noun;el;piloto;;;;;пилот;El **piloto** anunció que vamos a aterrizar.;Пилот объявил, что мы идём на посадку.
+A2;noun;el;maletero;;;;;багажник;Mete las maletas en el **maletero**.;Положи чемоданы в багажник.
+A2;noun;el;aparcamiento;;;;;парковка, стоянка;No hay **aparcamiento** cerca del centro.;Рядом с центром нет парковки.
+A2;noun;la;fuente;;;;;фонтан, источник;Hay una **fuente** en el centro de la plaza.;В центре площади фонтан.
+A2;noun;la;acera;;;;;тротуар;Los niños juegan en la **acera**.;Дети играют на тротуаре.
+A2;noun;el;visado;;;;;виза;Para viajar allí necesitas un **visado**.;Чтобы поехать туда, тебе нужна виза.
+A2;noun;el;empleado;;;;;служащий, сотрудник;La empresa tiene cincuenta **empleados**.;В компании пятьдесят сотрудников.
+A2;noun;el;sueldo;;;;;зарплата, оклад;Con este **sueldo** no puedo pagar el alquiler.;С такой зарплатой я не могу платить за аренду.
+A2;noun;el;salario;;;;;заработная плата;El **salario** mínimo ha subido este año.;Минимальная зарплата выросла в этом году.
+A2;noun;el;contrato;;;;;договор, контракт;Firmé un **contrato** de un año.;Я подписал контракт на год.
+A2;noun;la;entrevista;;;;;собеседование, интервью;Mañana tengo una **entrevista** de trabajo.;Завтра у меня собеседование.
+A2;noun;el;currículum;;;;;резюме;Envía tu **currículum** por correo electrónico.;Отправь своё резюме по электронной почте.
+A2;noun;el;puesto;;;;;должность, место (работы);Busco un **puesto** de recepcionista.;Я ищу должность администратора.
+A2;noun;la;experiencia;;;;;опыт;No tengo mucha **experiencia** en ventas.;У меня немного опыта в продажах.
+A2;noun;el;turno;;;;;смена, очередь;Esta semana trabajo en el **turno** de noche.;На этой неделе я работаю в ночную смену.
+A2;noun;el;proyecto;;;;;проект;Estamos trabajando en un **proyecto** nuevo.;Мы работаем над новым проектом.
+A2;noun;la;fábrica;;;;;фабрика, завод;Mi padre trabajó treinta años en una **fábrica**.;Мой отец тридцать лет работал на заводе.
+A2;noun;el;taller;;;;;мастерская, автосервис;Llevé el coche al **taller**.;Я отвёз машину в автосервис.
+A2;noun;la;carrera;;;;;учёба в вузе, карьера, забег;Estudió la **carrera** de Derecho en Salamanca.;Он учился на юридическом в Саламанке.
+A2;noun;el;arquitecto;;;;;архитектор;El **arquitecto** diseñó este edificio en 1990.;Архитектор спроектировал это здание в 1990 году.
+A2;noun;el;fontanero;;;;;сантехник;Hay que llamar al **fontanero**, el grifo gotea.;Нужно вызвать сантехника, кран капает.
+A2;noun;el;electricista;;;;;электрик;El **electricista** viene a arreglar la luz.;Электрик придёт починить свет.
+A2;noun;el;funcionario;;;;;государственный служащий, чиновник;Mi madre es **funcionaria** del ayuntamiento.;Моя мама — служащая мэрии.
+A2;noun;el;cartero;;;;;почтальон;El **cartero** trae las cartas por la mañana.;Почтальон приносит письма утром.
+A2;noun;el;vendedor;;;;;продавец;Trabaja como **vendedor** en una tienda de coches.;Он работает продавцом в автосалоне.
+A2;noun;la;jubilación;;;;;выход на пенсию, пенсия;Mi padre espera la **jubilación** con ilusión.;Мой отец с нетерпением ждёт выхода на пенсию.
+A2;noun;el;paro;-;;;;безработица, пособие по безработице;Mi primo está en el **paro** desde marzo.;Мой двоюродный брат без работы с марта.
+A2;noun;la;huelga;;;;;забастовка;Hoy no hay metro por la **huelga**.;Сегодня метро не работает из-за забастовки.
+A2;noun;el;impuesto;;;;;налог;Todos tenemos que pagar **impuestos**.;Мы все должны платить налоги.
+A2;noun;el;negocio;;;;;бизнес, дело;Mi tío tiene un **negocio** de ropa.;У моего дяди бизнес по продаже одежды.
+A2;noun;el;departamento;;;;;отдел;Trabajo en el **departamento** de ventas.;Я работаю в отделе продаж.
+A2;noun;el;informe;;;;;отчёт, доклад;Tengo que terminar el **informe** hoy.;Мне нужно закончить отчёт сегодня.
+A2;noun;la;fotocopia;;;;;ксерокопия;Necesito una **fotocopia** del pasaporte.;Мне нужна ксерокопия паспорта.
+A2;noun;la;impresora;;;;;принтер;La **impresora** no tiene papel.;В принтере нет бумаги.
+A2;noun;el;archivo;;;;;файл, архив;Guarda el **archivo** antes de cerrar.;Сохрани файл перед закрытием.
+A2;noun;el;aprobado;;;;;оценка «удовлетворительно», зачёт;Sacó un **aprobado** en matemáticas.;Он получил «удовлетворительно» по математике.
+A2;noun;el;suspenso;;;;;неудовлетворительная оценка, провал;Tengo un **suspenso** en química.;У меня двойка по химии.
+A2;noun;la;matrícula;;;;;запись на курс, регистрация, номерной знак;La **matrícula** del curso cuesta doscientos euros.;Запись на курс стоит двести евро.
+A2;noun;la;beca;;;;;стипендия, грант;Consiguió una **beca** para estudiar en Londres.;Она получила стипендию на учёбу в Лондоне.
+A2;noun;el;título;;;;;диплом, звание, заголовок;Tiene el **título** de enfermera.;У неё диплом медсестры.
+A2;noun;el;máster;;;;;магистратура;Después de la carrera quiero hacer un **máster**.;После университета я хочу пойти в магистратуру.
+A2;noun;el;instituto;;;;;средняя школа, институт;Mi hijo empieza el **instituto** en septiembre.;Мой сын в сентябре переходит в старшую школу.
+A2;noun;la;facultad;;;;;факультет;La **facultad** de Medicina está lejos del centro.;Медицинский факультет далеко от центра.
+A2;noun;el;apuntes;pl;;;;конспект, записи;¿Me dejas tus **apuntes** de la clase de ayer?;Дашь мне свои конспекты со вчерашнего занятия?
+A2;noun;el;estuche;;;;;пенал, футляр;Tengo los lápices en el **estuche**.;У меня карандаши в пенале.
+A2;noun;la;regla;;;;;линейка, правило;Usa una **regla** para dibujar la línea.;Используй линейку, чтобы нарисовать линию.
+A2;noun;la;redacción;;;;;сочинение;Escribe una **redacción** sobre tus vacaciones.;Напиши сочинение о своих каникулах.
+A2;noun;la;traducción;;;;;перевод;Esta **traducción** tiene muchos errores.;В этом переводе много ошибок.
+A2;noun;la;gramática;;;;;грамматика;La **gramática** española no es tan difícil.;Испанская грамматика не такая уж сложная.
+A2;noun;el;vocabulario;;;;;словарный запас, лексика;Leer ayuda a aprender **vocabulario** nuevo.;Чтение помогает учить новую лексику.
+A2;noun;la;pronunciación;;;;;произношение;Tu **pronunciación** ha mejorado mucho.;Твоё произношение сильно улучшилось.
+A2;noun;la;ortografía;-;;;;орфография, правописание;Revisa la **ortografía** antes de entregar el texto.;Проверь орфографию, прежде чем сдавать текст.
+A2;noun;el;conocimiento;;;;;знание;Tiene buenos **conocimientos** de informática.;У него хорошие знания в информатике.
+A2;noun;la;duda;;;;;сомнение, вопрос;Si tienes alguna **duda**, pregúntame.;Если у тебя есть вопросы, спроси меня.
+A2;noun;el;recreo;;;;;перемена (в школе);En el **recreo** los niños juegan al fútbol.;На перемене дети играют в футбол.
+A2;noun;el;trimestre;;;;;триместр, четверть;Este **trimestre** he sacado buenas notas.;В эту четверть я получил хорошие оценки.
+A2;noun;el;semestre;;;;;семестр;El segundo **semestre** empieza en febrero.;Второй семестр начинается в феврале.
+A2;noun;la;conferencia;;;;;лекция, конференция;Fuimos a una **conferencia** sobre arte moderno.;Мы ходили на лекцию о современном искусстве.
+A2;noun;la;afición;;;;;увлечение, хобби;Su gran **afición** es la fotografía.;Его большое увлечение — фотография.
+A2;noun;el;pasatiempo;;;;;хобби, развлечение;Leer es mi **pasatiempo** favorito.;Чтение — моё любимое занятие.
+A2;noun;el;campeonato;;;;;чемпионат;Nuestro equipo ganó el **campeonato**.;Наша команда выиграла чемпионат.
+A2;noun;el;jugador;;;;;игрок;Es el mejor **jugador** del equipo.;Он лучший игрок в команде.
+A2;noun;el;entrenador;;;;;тренер;El **entrenador** está muy contento con el equipo.;Тренер очень доволен командой.
+A2;noun;el;entrenamiento;;;;;тренировка;Tengo **entrenamiento** los martes y jueves.;У меня тренировки по вторникам и четвергам.
+A2;noun;el;ciclismo;-;;;;велоспорт;Le encanta ver el **ciclismo** en la tele.;Он обожает смотреть велоспорт по телевизору.
+A2;noun;la;raqueta;;;;;ракетка;Me he comprado una **raqueta** de tenis nueva.;Я купил себе новую теннисную ракетку.
+A2;noun;el;gol;;;;;гол;Messi marcó dos **goles** en el partido.;Месси забил два гола в матче.
+A2;noun;el;resultado;;;;;результат, счёт;¿Cuál fue el **resultado** del partido?;Каким был счёт матча?
+A2;noun;la;victoria;;;;;победа;Fue una **victoria** muy importante.;Это была очень важная победа.
+A2;noun;la;derrota;;;;;поражение;Después de la **derrota** los jugadores estaban tristes.;После поражения игроки были грустными.
+A2;noun;el;empate;;;;;ничья;El partido terminó con un **empate**.;Матч закончился вничью.
+A2;noun;el;maratón;;;;;марафон;Corrió el **maratón** de Madrid el año pasado.;В прошлом году он пробежал Мадридский марафон.
+A2;noun;el;estadio;;;;;стадион;El **estadio** estaba lleno de gente.;Стадион был полон людей.
+A2;noun;la;pista;;;;;корт, трасса, площадка;Reservamos una **pista** de tenis para el sábado.;Мы забронировали теннисный корт на субботу.
+A2;noun;el;esquí;;;;;лыжи, лыжный спорт;En invierno vamos a los Pirineos a hacer **esquí**.;Зимой мы ездим в Пиренеи кататься на лыжах.
+A2;noun;el;senderismo;-;;;;пеший туризм;Los fines de semana hacemos **senderismo**.;По выходным мы ходим в походы.
+A2;noun;la;pesca;-;;;;рыбалка;Mi abuelo va de **pesca** todos los domingos.;Мой дедушка каждое воскресенье ходит на рыбалку.
+A2;noun;el;ajedrez;-;;;;шахматы;¿Sabes jugar al **ajedrez** con tu abuelo?;Ты умеешь играть в шахматы с дедушкой?
+A2;noun;el;espectáculo;;;;;представление, шоу;El **espectáculo** empieza a las nueve.;Представление начинается в девять.
+A2;noun;la;obra;;;;;произведение, пьеса, стройка;Vimos una **obra** de teatro muy divertida.;Мы посмотрели очень смешную пьесу.
+A2;noun;la;orquesta;;;;;оркестр;La **orquesta** tocó música clásica.;Оркестр исполнил классическую музыку.
+A2;noun;la;colección;;;;;коллекция;Tiene una **colección** de sellos antiguos.;У него коллекция старинных марок.
+A2;noun;la;lectura;;;;;чтение;La **lectura** es mi actividad favorita.;Чтение — моё любимое занятие.
+A2;noun;la;poesía;;;;;поэзия, стихотворение;Le gusta mucho la **poesía** de Lorca.;Ему очень нравится поэзия Лорки.
+A2;noun;el;portátil;;;;;ноутбук;Trabajo con mi **portátil** en la cafetería.;Я работаю на своём ноутбуке в кафе.
+A2;noun;la;pantalla;;;;;экран;La **pantalla** de mi móvil está rota.;Экран моего телефона разбит.
+A2;noun;el;teclado;;;;;клавиатура;Este **teclado** no tiene la letra ñ.;На этой клавиатуре нет буквы ñ.
+A2;noun;la;contraseña;;;;;пароль;He olvidado mi **contraseña** otra vez.;Я опять забыл свой пароль.
+A2;noun;el;usuario;;;;;пользователь;Escribe tu nombre de **usuario** aquí.;Введи здесь своё имя пользователя.
+A2;noun;la;aplicación;;;;;приложение;Descarga esta **aplicación** para comprar los billetes.;Скачай это приложение, чтобы покупать билеты.
+A2;noun;la;conexión;;;;;соединение, подключение;La **conexión** es muy lenta en este hotel.;В этом отеле очень медленное соединение.
+A2;noun;el;cargador;;;;;зарядное устройство;¿Me prestas el **cargador** del móvil?;Одолжишь зарядку для телефона?
+A2;noun;la;batería;;;;;батарея, аккумулятор, ударные;Mi móvil tiene poca **batería**.;У моего телефона мало заряда.
+A2;noun;el;auricular;;;;;наушник;Escucho música con los **auriculares** en el metro.;Я слушаю музыку в наушниках в метро.
+A2;noun;el;altavoz;;;;;динамик, колонка;Pon la música en el **altavoz**.;Включи музыку на колонке.
+A2;noun;la;carpeta;;;;;папка;Guarda las fotos en una **carpeta** nueva.;Сохрани фотографии в новую папку.
+A2;noun;el;enlace;;;;;ссылка;Te mando el **enlace** por mensaje.;Я пришлю тебе ссылку сообщением.
+A2;noun;el;buscador;;;;;поисковик;Escribe el nombre del hotel en el **buscador**.;Введи название отеля в поисковике.
+A2;noun;la;descarga;;;;;загрузка, скачивание;La **descarga** del archivo tarda mucho.;Скачивание файла занимает много времени.
+A2;noun;la;tableta;;;;;планшет, плитка (шоколада);Mi abuela lee el periódico en la **tableta**.;Моя бабушка читает газету на планшете.
+A2;noun;el;mando;;;;;пульт;¿Dónde está el **mando** de la tele?;Где пульт от телевизора?
+A2;noun;el;televisor;;;;;телевизор (аппарат);Hemos comprado un **televisor** más grande.;Мы купили телевизор побольше.
+A2;noun;el;cable;;;;;кабель, провод;Este **cable** es demasiado corto.;Этот провод слишком короткий.
+A2;noun;la;pila;;;;;батарейка, куча;El reloj necesita una **pila** nueva.;Часам нужна новая батарейка.
+A2;noun;la;tecla;;;;;клавиша;Pulsa esta **tecla** para empezar.;Нажми эту клавишу, чтобы начать.
+A2;noun;la;cobertura;;;;;покрытие (связи);Aquí en la montaña no hay **cobertura**.;Здесь в горах нет связи.
+A2;noun;la;red;;;;;сеть;Pasa mucho tiempo en las **redes** sociales.;Он проводит много времени в соцсетях.
+A2;noun;la;selva;;;;;джунгли, сельва;En la **selva** viven muchos animales.;В джунглях живёт много животных.
+A2;noun;el;océano;;;;;океан;Cruzaron el **océano** en barco.;Они пересекли океан на корабле.
+A2;noun;el;desierto;;;;;пустыня;En el **desierto** casi nunca llueve.;В пустыне почти никогда не бывает дождя.
+A2;noun;el;valle;;;;;долина;El pueblo está en un **valle** muy verde.;Деревня находится в очень зелёной долине.
+A2;noun;la;colina;;;;;холм;Desde la **colina** se ve todo el pueblo.;С холма видна вся деревня.
+A2;noun;la;cueva;;;;;пещера;Visitamos una **cueva** con pinturas prehistóricas.;Мы посетили пещеру с доисторическими рисунками.
+A2;noun;la;contaminación;-;;;;загрязнение;La **contaminación** es un problema en las ciudades.;Загрязнение — проблема в городах.
+A2;noun;el;reciclaje;-;;;;переработка отходов;El **reciclaje** ayuda a proteger el planeta.;Переработка отходов помогает защищать планету.
+A2;noun;el;residuo;;;;;отход, отходы;Hay que separar los **residuos** en casa.;Дома нужно сортировать отходы.
+A2;noun;la;energía;;;;;энергия;La **energía** solar es limpia.;Солнечная энергия чистая.
+A2;noun;el;planeta;;;;;планета;Tenemos que cuidar nuestro **planeta**.;Мы должны беречь нашу планету.
+A2;noun;el;insecto;;;;;насекомое;En verano hay muchos **insectos** en el jardín.;Летом в саду много насекомых.
+A2;noun;la;mosca;;;;;муха;Hay una **mosca** en la sopa.;В супе муха.
+A2;noun;el;mosquito;;;;;комар;Me han picado los **mosquitos** toda la noche.;Меня всю ночь кусали комары.
+A2;noun;la;abeja;;;;;пчела;Las **abejas** producen la miel.;Пчёлы производят мёд.
+A2;noun;la;araña;;;;;паук;Mi hermana tiene miedo de las **arañas**.;Моя сестра боится пауков.
+A2;noun;el;lobo;;;;;волк;El **lobo** vive en los bosques del norte.;Волк живёт в северных лесах.
+A2;noun;el;zorro;;;;;лиса;Un **zorro** cruzó la carretera.;Лиса перебежала дорогу.
+A2;noun;la;granja;;;;;ферма;Los niños visitaron una **granja** con el colegio.;Дети со школой посетили ферму.
+A2;noun;el;sentimiento;;;;;чувство;Es difícil expresar los **sentimientos**.;Трудно выражать чувства.
+A2;noun;la;emoción;;;;;эмоция, волнение;Lloró de **emoción** en la boda.;Она плакала от волнения на свадьбе.
+A2;noun;la;tristeza;;;;;грусть, печаль;Sentí mucha **tristeza** al salir de casa.;Я почувствовал сильную грусть, уезжая из дома.
+A2;noun;el;enfado;;;;;злость, раздражение;No pudo ocultar su **enfado**.;Он не смог скрыть своей злости.
+A2;noun;la;vergüenza;;;;;стыд, смущение;Me da **vergüenza** hablar en público.;Мне стыдно выступать перед публикой.
+A2;noun;el;nervios;pl;;;;нервы, волнение;Antes del examen tenía muchos **nervios**.;Перед экзаменом я очень нервничал.
+A2;noun;la;preocupación;;;;;беспокойство, забота;Su salud es mi mayor **preocupación**.;Его здоровье — моё главное беспокойство.
+A2;noun;la;felicidad;-;;;;счастье;Os deseo mucha **felicidad** en vuestra vida juntos.;Желаю вам большого счастья в совместной жизни.
+A2;noun;la;envidia;-;;;;зависть;Siente **envidia** de su hermano.;Он завидует своему брату.
+A2;noun;el;celos;pl;;;;ревность;Su novio tiene **celos** de todos sus amigos.;Её парень ревнует её ко всем друзьям.
+A2;noun;la;esperanza;;;;;надежда;Aunque sea difícil, nunca pierdas la **esperanza**.;Даже если трудно, никогда не теряй надежды.
+A2;noun;la;confianza;;;;;доверие, уверенность;Tengo mucha **confianza** en ti.;Я очень тебе доверяю.
+A2;noun;la;soledad;-;;;;одиночество;Muchas personas mayores sufren **soledad**.;Многие пожилые люди страдают от одиночества.
+A2;noun;el;aburrimiento;-;;;;скука;¡Qué **aburrimiento**! Esta película no termina nunca.;Какая скука! Этот фильм никогда не закончится.
+A2;noun;el;cansancio;-;;;;усталость;Después del viaje sentía mucho **cansancio**.;После поездки я чувствовал сильную усталость.
+A2;noun;el;estrés;-;;;;стресс;El trabajo me produce mucho **estrés**.;Работа вызывает у меня сильный стресс.
+A2;noun;la;ilusión;;;;;радостное ожидание, мечта, иллюзия;Me hace mucha **ilusión** ir a Japón.;Я очень мечтаю поехать в Японию.
+A2;noun;el;orgullo;;;;;гордость;Siente mucho **orgullo** por sus hijos.;Он очень гордится своими детьми.
+A2;noun;la;paciencia;-;;;;терпение;Hay que tener **paciencia** con los niños.;С детьми нужно иметь терпение.
+A2;noun;la;lágrima;;;;;слеза;Tenía **lágrimas** en los ojos.;У неё были слёзы на глазах.
+A2;noun;el;ánimo;;;;;настроение, дух, бодрость;¡**Ánimo**! Seguro que apruebas el examen.;Держись! Ты точно сдашь экзамен.
+A2;noun;la;tranquilidad;-;;;;спокойствие;En el pueblo hay mucha **tranquilidad**.;В деревне очень спокойно.
+A2;noun;la;ganas;pl;;;;желание, охота;Tengo **ganas** de ver a mis padres.;Мне хочется увидеть родителей.
+A2;noun;la;boda;;;;;свадьба;La **boda** será en junio.;Свадьба будет в июне.
+A2;noun;el;aniversario;;;;;годовщина;Hoy celebramos nuestro **aniversario** de boda.;Сегодня мы празднуем годовщину свадьбы.
+A2;noun;la;celebración;;;;;празднование, торжество;Después de la boda hubo una gran **celebración**.;После свадьбы было большое торжество.
+A2;noun;el;invitado;;;;;гость, приглашённый;Hay cien **invitados** en la boda.;На свадьбе сто гостей.
+A2;noun;el;carnaval;;;;;карнавал;El **carnaval** de Cádiz es muy famoso.;Карнавал в Кадисе очень знаменит.
+A2;noun;la;feria;;;;;ярмарка;En abril vamos a la **feria** de Sevilla.;В апреле мы едем на Севильскую ярмарку.
+A2;noun;el;festival;;;;;фестиваль;Este verano vamos a un **festival** de música.;Этим летом мы поедем на музыкальный фестиваль.
+A2;noun;el;desfile;;;;;парад, шествие, показ;Los niños miran el **desfile** desde el balcón.;Дети смотрят парад с балкона.
+A2;noun;la;ceremonia;;;;;церемония;La **ceremonia** empezó a las doce.;Церемония началась в двенадцать.
+A2;noun;el;entierro;;;;;похороны;Toda la familia fue al **entierro**.;Вся семья пришла на похороны.
+A2;noun;el;nacimiento;;;;;рождение;Celebramos el **nacimiento** de nuestra hija.;Мы отпраздновали рождение нашей дочери.
+A2;noun;la;muerte;;;;;смерть;La **muerte** de su abuelo fue muy triste.;Смерть его дедушки была очень печальной.
+A2;noun;la;despedida;;;;;прощание, проводы;Hicimos una fiesta de **despedida** para Ana.;Мы устроили прощальную вечеринку для Аны.
+A2;noun;la;bienvenida;;;;;приветствие, встреча (гостей);Le dimos la **bienvenida** al nuevo compañero.;Мы поприветствовали нового коллегу.
+A2;noun;el;brindis;;;;;тост;Vamos a hacer un **brindis** por los novios.;Давайте поднимем тост за молодожёнов.
+A2;noun;el;matrimonio;;;;;брак, супружеская пара;Llevan treinta años de **matrimonio**.;Они в браке тридцать лет.
+A2;noun;el;divorcio;;;;;развод;Después del **divorcio** se fue a vivir sola.;После развода она стала жить одна.
+A2;noun;el;préstamo;;;;;кредит, заём;Pidieron un **préstamo** para comprar el piso.;Они взяли кредит на покупку квартиры.
+A2;noun;la;transferencia;;;;;банковский перевод;Te hago una **transferencia** mañana.;Я сделаю тебе перевод завтра.
+A2;noun;el;ingreso;;;;;взнос (на счёт), доход;Hice un **ingreso** de cien euros en mi cuenta.;Я внёс сто евро на свой счёт.
+A2;noun;el;cambio;;;;;сдача, обмен, изменение;Muchas gracias, quédese con el **cambio**.;Большое спасибо, оставьте сдачу себе.
+A2;noun;el;sobre;;;;;конверт;Escribe la dirección en el **sobre**.;Напиши адрес на конверте.
+A2;noun;el;buzón;;;;;почтовый ящик;Echa la carta al **buzón**.;Опусти письмо в почтовый ящик.
+A2;noun;el;remitente;;;;;отправитель;No hay **remitente** en esta carta.;На этом письме нет отправителя.
+A2;noun;el;destinatario;;;;;получатель, адресат;Escriba el nombre del **destinatario** aquí.;Напишите здесь имя получателя.
+A2;noun;el;envío;;;;;отправка, доставка;El **envío** es gratis a partir de cincuenta euros.;Доставка бесплатна от пятидесяти евро.
+A2;noun;el;formulario;;;;;бланк, анкета;Rellene este **formulario**, por favor.;Заполните этот бланк, пожалуйста.
+A2;noun;la;firma;;;;;подпись, фирма;Falta su **firma** en la última página.;На последней странице не хватает вашей подписи.
+A2;noun;el;permiso;;;;;разрешение, отпуск;Necesitas un **permiso** de trabajo.;Тебе нужно разрешение на работу.
+A2;noun;la;solicitud;;;;;заявление, заявка;He enviado la **solicitud** para la beca.;Я отправил заявку на стипендию.
+A2;noun;el;trámite;;;;;формальность, процедура;Los **trámites** para el visado son largos.;Оформление визы занимает много времени.
+A2;noun;el;ayuntamiento;;;;;мэрия, муниципалитет;El **ayuntamiento** está en la plaza mayor.;Мэрия находится на главной площади.
+A2;noun;la;comisaría;;;;;полицейский участок;Fui a la **comisaría** a denunciar el robo.;Я пошёл в полицейский участок заявить о краже.
+A2;noun;la;embajada;;;;;посольство;Tengo que ir a la **embajada** por el visado.;Мне нужно пойти в посольство за визой.
+A2;noun;la;denuncia;;;;;заявление (в полицию);Puso una **denuncia** por el robo de su móvil.;Он подал заявление о краже телефона.
+A2;noun;el;robo;;;;;кража, ограбление;Hubo un **robo** en el banco ayer.;Вчера банк ограбили.
+A2;noun;el;seguro;;;;;страховка;¿Tienes **seguro** médico para el viaje?;У тебя есть медицинская страховка на поездку?
+A2;noun;la;factura;;;;;счёт (к оплате), счёт-фактура;Este mes la **factura** de la luz es muy alta.;В этом месяце счёт за свет очень большой.
+A2;noun;el;mostrador;;;;;стойка, прилавок;Pregunte en el **mostrador** de información.;Спросите у информационной стойки.
+A2;noun;la;tintorería;;;;;химчистка;Llevé el traje a la **tintorería**.;Я отнёс костюм в химчистку.
+A2;noun;la;lavandería;;;;;прачечная;Lavo la ropa en una **lavandería**.;Я стираю одежду в прачечной.
+A2;noun;la;reparación;;;;;ремонт, починка;La **reparación** del coche costó mucho dinero.;Ремонт машины обошёлся в большие деньги.
+A2;noun;la;avería;;;;;поломка, неисправность;El coche tiene una **avería** en el motor.;У машины неисправность в двигателе.
+A2;noun;la;queja;;;;;жалоба;Quiero poner una **queja** por el mal servicio.;Я хочу подать жалобу на плохое обслуживание.
+A2;noun;el;servicio;;;;;обслуживание, услуга, туалет;El **servicio** en este hotel es excelente.;Обслуживание в этом отеле отличное.
