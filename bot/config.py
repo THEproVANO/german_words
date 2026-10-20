@@ -36,8 +36,7 @@ WEEKLY_QUIZ_SIZE = 40
 
 DEFAULT_TZ = "Europe/Moscow"
 # Часовой пояс по умолчанию в зависимости от выбранного языка бота
-DEFAULT_TZ_BY_UI = {"ru": "Europe/Moscow", "en": "Europe/London", "fr": "Europe/Paris",
-                    "es": "Europe/Madrid"}
+DEFAULT_TZ_BY_UI = {"ru": "Europe/Moscow", "en": "Europe/London", "es": "Europe/Madrid"}
 # Часовые пояса для выбора в профиле; названия городов на разных языках — в i18n.CITIES
 TIMEZONES = {
     "Europe/Kaliningrad": "UTC+2",

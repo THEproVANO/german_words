@@ -76,6 +76,8 @@ if "ui_lang" not in _user_columns:
     conn.execute("ALTER TABLE users ADD COLUMN ui_lang TEXT NOT NULL DEFAULT 'ru'")
 if "revealed" not in {r["name"] for r in conn.execute("PRAGMA table_info(quiz_items)")}:
     conn.execute("ALTER TABLE quiz_items ADD COLUMN revealed INTEGER NOT NULL DEFAULT 0")
+# Французский интерфейс убран: у кого он был выбран, переключаем на английский
+conn.execute("UPDATE users SET ui_lang = 'en' WHERE ui_lang = 'fr'")
 conn.commit()
 
 
