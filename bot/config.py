@@ -18,7 +18,7 @@ TOPICS = ["BIZ"]
 ALL_LEVELS = LEVELS + TOPICS
 # Переводы слов: русский — основной (в словаре), для этих языков бота есть свои переводы
 # в data/translations/<язык слов>_<язык бота>.csv
-TRANSLATION_LANGS = ["es"]
+TRANSLATION_LANGS = ["en", "es"]
 LANGUAGES = ["de", "en", "es"]
 
 # Расписание слов по умолчанию: по одному слову каждые INTERVAL минут с DAY_START до DAY_END,
