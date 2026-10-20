@@ -5994,3 +5994,751 @@ C2;noun;der;Saubermann;Saubermänner;;;;«чистюля» (о человеке 
 C2;noun;der;Scharfmacher;Scharfmacher;;;;подстрекатель, ястреб;Die **Scharfmacher** in der Partei fordern harte Maßnahmen.;Ястребы в партии требуют жёстких мер.
 C2;noun;der;Strippenzieher;Strippenzieher;;;;кукловод, закулисный организатор;Wer ist der **Strippenzieher** hinter dem Skandal?;Кто кукловод этого скандала?
 C2;noun;der;Wortführer;Wortführer;;;;лидер (выступающий от группы);Er ist der **Wortführer** der Protestbewegung.;Он лидер протестного движения.
+BIZ;noun;die;Firma;Firmen;;;;фирма, компания;Die **Firma** hat ihren Sitz in München.;Фирма находится в Мюнхене.
+BIZ;noun;das;Unternehmen;Unternehmen;;;;предприятие, компания;Das **Unternehmen** beschäftigt über tausend Mitarbeiter.;На предприятии работает более тысячи сотрудников.
+BIZ;noun;der;Betrieb;Betriebe;;;;предприятие, производство;Unser **Betrieb** arbeitet im Schichtsystem.;Наше предприятие работает посменно.
+BIZ;noun;der;Konzern;Konzerne;;;;концерн;Der **Konzern** hat Tochterfirmen in zwölf Ländern.;У концерна есть дочерние компании в двенадцати странах.
+BIZ;noun;die;Gesellschaft;Gesellschaften;;;;общество, компания;Die **Gesellschaft** wurde im Jahr 1998 gegründet.;Компания была основана в 1998 году.
+BIZ;noun;die;Aktiengesellschaft;Aktiengesellschaften;;;;акционерное общество;Die **Aktiengesellschaft** veröffentlicht jedes Quartal ihre Zahlen.;Акционерное общество каждый квартал публикует свои показатели.
+BIZ;noun;die;GmbH;GmbHs;;;;ООО, общество с ограниченной ответственностью;Er hat letztes Jahr eine **GmbH** gegründet.;В прошлом году он основал ООО.
+BIZ;noun;die;Tochtergesellschaft;Tochtergesellschaften;;;;дочерняя компания;Die **Tochtergesellschaft** in Polen wächst sehr schnell.;Дочерняя компания в Польше растёт очень быстро.
+BIZ;noun;die;Niederlassung;Niederlassungen;;;;филиал, представительство;Wir eröffnen eine neue **Niederlassung** in Wien.;Мы открываем новый филиал в Вене.
+BIZ;noun;die;Filiale;Filialen;;;;филиал, отделение;Die Bank schließt mehrere **Filialen** auf dem Land.;Банк закрывает несколько отделений в сельской местности.
+BIZ;noun;der;Standort;Standorte;;;;местоположение, площадка;Der neue **Standort** liegt direkt an der Autobahn.;Новая площадка находится прямо у автобана.
+BIZ;noun;die;Zentrale;Zentralen;;;;головной офис, центральный офис;Die Entscheidung kommt direkt aus der **Zentrale**.;Решение исходит прямо из головного офиса.
+BIZ;noun;der;Hauptsitz;Hauptsitze;;;;штаб-квартира;Der **Hauptsitz** des Konzerns ist in Frankfurt.;Штаб-квартира концерна находится во Франкфурте.
+BIZ;noun;die;Abteilung;Abteilungen;;;;отдел;Sie arbeitet in der **Abteilung** für Einkauf.;Она работает в отделе закупок.
+BIZ;noun;die;Personalabteilung;Personalabteilungen;;;;отдел кадров;Bitte schicken Sie die Unterlagen an die **Personalabteilung**.;Пожалуйста, отправьте документы в отдел кадров.
+BIZ;noun;die;Buchhaltung;Buchhaltungen;;;;бухгалтерия;Die **Buchhaltung** prüft alle Rechnungen genau.;Бухгалтерия тщательно проверяет все счета.
+BIZ;noun;der;Vertrieb;-;;;;сбыт, отдел продаж;Er ist seit fünf Jahren im **Vertrieb** tätig.;Он уже пять лет работает в отделе продаж.
+BIZ;noun;der;Einkauf;Einkäufe;;;;закупки, отдел закупок;Der **Einkauf** verhandelt mit neuen Lieferanten.;Отдел закупок ведёт переговоры с новыми поставщиками.
+BIZ;noun;die;Geschäftsführung;Geschäftsführungen;;;;руководство, дирекция;Die **Geschäftsführung** hat neue Ziele festgelegt.;Руководство установило новые цели.
+BIZ;noun;der;Geschäftsführer;Geschäftsführer;;;;генеральный директор, управляющий;Der **Geschäftsführer** stellt morgen die Strategie vor.;Генеральный директор завтра представит стратегию.
+BIZ;noun;der;Vorstand;Vorstände;;;;правление;Der **Vorstand** hat der Fusion zugestimmt.;Правление одобрило слияние.
+BIZ;noun;der;Aufsichtsrat;Aufsichtsräte;;;;наблюдательный совет;Der **Aufsichtsrat** trifft sich zweimal im Jahr.;Наблюдательный совет собирается дважды в год.
+BIZ;noun;die;Führungskraft;Führungskräfte;;;;руководитель, менеджер;Gute **Führungskräfte** hören ihren Mitarbeitern zu.;Хорошие руководители слушают своих сотрудников.
+BIZ;noun;der;Vorgesetzte;Vorgesetzten;;;;начальник, руководитель;Ich muss das mit meinem **Vorgesetzten** besprechen.;Мне нужно обсудить это с моим начальником.
+BIZ;noun;der;Chef;Chefs;;;;шеф, начальник;Der **Chef** ist heute auf Geschäftsreise.;Шеф сегодня в командировке.
+BIZ;noun;der;Mitarbeiter;Mitarbeiter;;;;сотрудник, работник;Jeder **Mitarbeiter** bekommt einen eigenen Laptop.;Каждый сотрудник получает собственный ноутбук.
+BIZ;noun;der;Kollege;Kollegen;;;;коллега;Mein **Kollege** vertritt mich während des Urlaubs.;Мой коллега замещает меня во время отпуска.
+BIZ;noun;der;Angestellte;Angestellten;;;;служащий, работник;Er ist **Angestellter** bei einer Versicherung.;Он служащий в страховой компании.
+BIZ;noun;der;Arbeitnehmer;Arbeitnehmer;;;;работник, наёмный работник;Der **Arbeitnehmer** hat Anspruch auf bezahlten Urlaub.;Работник имеет право на оплачиваемый отпуск.
+BIZ;noun;der;Arbeitgeber;Arbeitgeber;;;;работодатель;Mein **Arbeitgeber** zahlt einen Zuschuss zum Jobticket.;Мой работодатель доплачивает за проездной.
+BIZ;noun;das;Personal;-;;;;персонал, кадры;Das Hotel sucht dringend neues **Personal**.;Отель срочно ищет новый персонал.
+BIZ;noun;die;Belegschaft;Belegschaften;;;;коллектив, персонал;Die **Belegschaft** wurde über die Pläne informiert.;Коллектив был проинформирован о планах.
+BIZ;noun;der;Betriebsrat;Betriebsräte;;;;производственный совет;Der **Betriebsrat** vertritt die Interessen der Beschäftigten.;Производственный совет представляет интересы работников.
+BIZ;noun;die;Gewerkschaft;Gewerkschaften;;;;профсоюз;Die **Gewerkschaft** fordert höhere Löhne.;Профсоюз требует повышения зарплат.
+BIZ;noun;der;Streik;Streiks;;;;забастовка;Wegen des **Streiks** fielen viele Züge aus.;Из-за забастовки отменили много поездов.
+BIZ;noun;die;Branche;Branchen;;;;отрасль;In unserer **Branche** ist die Konkurrenz sehr stark.;В нашей отрасли очень сильная конкуренция.
+BIZ;noun;der;Mittelstand;-;;;;средний бизнес;Der deutsche **Mittelstand** gilt als sehr innovativ.;Немецкий средний бизнес считается очень инновационным.
+BIZ;noun;die;Hierarchie;Hierarchien;;;;иерархия;In diesem Start-up gibt es flache **Hierarchien**.;В этом стартапе плоская иерархия.
+BIZ;noun;die;Unternehmenskultur;Unternehmenskulturen;;;;корпоративная культура;Eine offene **Unternehmenskultur** ist uns wichtig.;Для нас важна открытая корпоративная культура.
+BIZ;noun;die;Fusion;Fusionen;;;;слияние;Die **Fusion** der beiden Banken wurde genehmigt.;Слияние двух банков было одобрено.
+BIZ;noun;die;Übernahme;Übernahmen;;;;поглощение, приобретение;Die **Übernahme** kostete fast zwei Milliarden Euro.;Поглощение обошлось почти в два миллиарда евро.
+BIZ;noun;die;Umstrukturierung;Umstrukturierungen;;;;реструктуризация;Nach der **Umstrukturierung** gibt es weniger Abteilungen.;После реструктуризации стало меньше отделов.
+BIZ;noun;der;Konkurrent;Konkurrenten;;;;конкурент;Unser größter **Konkurrent** hat die Preise gesenkt.;Наш крупнейший конкурент снизил цены.
+BIZ;noun;die;Konkurrenz;-;;;;конкуренция, конкуренты;Die **Konkurrenz** schläft nicht.;Конкуренты не дремлют.
+BIZ;noun;der;Wettbewerb;Wettbewerbe;;;;конкуренция, соревнование;Der **Wettbewerb** auf dem Markt wird immer härter.;Конкуренция на рынке становится всё жёстче.
+BIZ;noun;der;Wettbewerber;Wettbewerber;;;;конкурент;Wir analysieren die Produkte unserer **Wettbewerber**.;Мы анализируем продукты наших конкурентов.
+BIZ;noun;der;Partner;Partner;;;;партнёр;Wir suchen einen zuverlässigen **Partner** in Asien.;Мы ищем надёжного партнёра в Азии.
+BIZ;noun;die;Partnerschaft;Partnerschaften;;;;партнёрство;Die **Partnerschaft** besteht schon seit zehn Jahren.;Партнёрство существует уже десять лет.
+BIZ;noun;der;Inhaber;Inhaber;;;;владелец;Der **Inhaber** des Geschäfts ist selbst im Laden.;Владелец магазина сам находится в торговом зале.
+BIZ;noun;der;Eigentümer;Eigentümer;;;;собственник, владелец;Der **Eigentümer** will die Firma verkaufen.;Собственник хочет продать фирму.
+BIZ;noun;der;Dienstleister;Dienstleister;;;;поставщик услуг;Wir arbeiten mit einem externen **Dienstleister** zusammen.;Мы сотрудничаем с внешним поставщиком услуг.
+BIZ;noun;die;Dienstleistung;Dienstleistungen;;;;услуга;Wir bieten **Dienstleistungen** im Bereich Logistik an.;Мы предлагаем услуги в сфере логистики.
+BIZ;noun;das;Gewerbe;Gewerbe;;;;промысел, ремесло, бизнес;Sie hat ein **Gewerbe** beim Amt angemeldet.;Она зарегистрировала бизнес в ведомстве.
+BIZ;noun;die;Industrie;Industrien;;;;промышленность;Die chemische **Industrie** ist in der Region sehr stark.;Химическая промышленность в регионе очень сильна.
+BIZ;noun;das;Werk;Werke;;;;завод;Das **Werk** produziert täglich fünfhundert Autos.;Завод ежедневно выпускает пятьсот автомобилей.
+BIZ;noun;die;Produktion;Produktionen;;;;производство;Die **Produktion** läuft rund um die Uhr.;Производство работает круглосуточно.
+BIZ;noun;das;Team;Teams;;;;команда;Unser **Team** besteht aus acht Personen.;Наша команда состоит из восьми человек.
+BIZ;noun;der;Teamleiter;Teamleiter;;;;руководитель группы, тимлид;Der **Teamleiter** verteilt die Aufgaben.;Руководитель группы распределяет задачи.
+BIZ;noun;der;Abteilungsleiter;Abteilungsleiter;;;;начальник отдела;Der **Abteilungsleiter** hat den Urlaub genehmigt.;Начальник отдела одобрил отпуск.
+BIZ;noun;der;Beruf;Berufe;;;;профессия;Was sind Sie von **Beruf**?;Кто вы по профессии?
+BIZ;noun;die;Stelle;Stellen;;;;место, должность, вакансия;Die **Stelle** ist ab sofort zu besetzen.;Вакансия открыта с сегодняшнего дня.
+BIZ;noun;die;Stellenanzeige;Stellenanzeigen;;;;объявление о вакансии;Ich habe die **Stellenanzeige** im Internet gefunden.;Я нашёл объявление о вакансии в интернете.
+BIZ;noun;die;Bewerbung;Bewerbungen;;;;заявление о приёме на работу, отклик;Wir haben über hundert **Bewerbungen** erhalten.;Мы получили более ста откликов.
+BIZ;noun;der;Bewerber;Bewerber;;;;кандидат, соискатель;Der **Bewerber** hat einen sehr guten Eindruck gemacht.;Кандидат произвёл очень хорошее впечатление.
+BIZ;noun;das;Anschreiben;Anschreiben;;;;сопроводительное письмо;Im **Anschreiben** erklären Sie Ihre Motivation.;В сопроводительном письме вы объясняете свою мотивацию.
+BIZ;noun;der;Lebenslauf;Lebensläufe;;;;резюме, биография;Bitte schicken Sie uns Ihren **Lebenslauf**.;Пожалуйста, пришлите нам своё резюме.
+BIZ;noun;das;Zeugnis;Zeugnisse;;;;аттестат, характеристика;Das **Zeugnis** vom letzten Arbeitgeber ist sehr gut.;Характеристика с последнего места работы очень хорошая.
+BIZ;noun;das;Vorstellungsgespräch;Vorstellungsgespräche;;;;собеседование;Morgen habe ich ein **Vorstellungsgespräch** bei Siemens.;Завтра у меня собеседование в Siemens.
+BIZ;noun;die;Qualifikation;Qualifikationen;;;;квалификация;Ihre **Qualifikation** passt perfekt zu der Stelle.;Ваша квалификация идеально подходит для этой должности.
+BIZ;noun;die;Berufserfahrung;-;;;;опыт работы;Sie hat zehn Jahre **Berufserfahrung** im Marketing.;У неё десять лет опыта работы в маркетинге.
+BIZ;noun;die;Kenntnis;Kenntnisse;;;;знание;Gute **Kenntnisse** in Englisch sind erforderlich.;Требуется хорошее знание английского.
+BIZ;noun;die;Fähigkeit;Fähigkeiten;;;;способность, навык;Teamfähigkeit ist eine wichtige **Fähigkeit**.;Умение работать в команде — важный навык.
+BIZ;noun;die;Einstellung;Einstellungen;;;;приём на работу, отношение;Die **Einstellung** neuer Mitarbeiter ist geplant.;Планируется приём новых сотрудников.
+BIZ;noun;die;Kündigung;Kündigungen;;;;увольнение, расторжение;Er hat gestern seine **Kündigung** eingereicht.;Вчера он подал заявление об увольнении.
+BIZ;noun;die;Kündigungsfrist;Kündigungsfristen;;;;срок уведомления об увольнении;Die **Kündigungsfrist** beträgt drei Monate.;Срок уведомления об увольнении составляет три месяца.
+BIZ;noun;die;Entlassung;Entlassungen;;;;увольнение, сокращение;Die Firma plant zahlreiche **Entlassungen**.;Фирма планирует многочисленные увольнения.
+BIZ;noun;der;Arbeitsvertrag;Arbeitsverträge;;;;трудовой договор;Bitte unterschreiben Sie den **Arbeitsvertrag** bis Montag.;Пожалуйста, подпишите трудовой договор до понедельника.
+BIZ;noun;der;Vertrag;Verträge;;;;договор, контракт;Wir haben den **Vertrag** gestern unterschrieben.;Мы вчера подписали договор.
+BIZ;noun;die;Probezeit;Probezeiten;;;;испытательный срок;Die **Probezeit** dauert sechs Monate.;Испытательный срок длится шесть месяцев.
+BIZ;noun;die;Vollzeit;-;;;;полная занятость;Sie arbeitet in **Vollzeit** als Ingenieurin.;Она работает инженером на полную ставку.
+BIZ;noun;die;Teilzeit;-;;;;неполная занятость;Nach der Elternzeit arbeitet er in **Teilzeit**.;После отпуска по уходу за ребёнком он работает неполный день.
+BIZ;noun;die;Arbeitszeit;Arbeitszeiten;;;;рабочее время;Wir haben flexible **Arbeitszeiten**.;У нас гибкий рабочий график.
+BIZ;noun;die;Überstunde;Überstunden;;;;сверхурочный час, переработка;Diese Woche habe ich zehn **Überstunden** gemacht.;На этой неделе я переработал десять часов.
+BIZ;noun;die;Schicht;Schichten;;;;смена;Er arbeitet heute in der **Schicht** von sechs bis zwei.;Сегодня он работает в смену с шести до двух.
+BIZ;noun;das;Homeoffice;Homeoffices;;;;удалённая работа, работа из дома;Freitags arbeite ich meistens im **Homeoffice**.;По пятницам я обычно работаю из дома.
+BIZ;noun;das;Gehalt;Gehälter;;;;зарплата, оклад;Das **Gehalt** wird am Monatsende überwiesen.;Зарплата перечисляется в конце месяца.
+BIZ;noun;der;Lohn;Löhne;;;;заработная плата;Die **Löhne** sind im letzten Jahr gestiegen.;В прошлом году заработные платы выросли.
+BIZ;noun;die;Gehaltserhöhung;Gehaltserhöhungen;;;;повышение зарплаты;Ich möchte über eine **Gehaltserhöhung** sprechen.;Я хотел бы поговорить о повышении зарплаты.
+BIZ;noun;die;Gehaltsvorstellung;Gehaltsvorstellungen;;;;ожидания по зарплате;Bitte nennen Sie Ihre **Gehaltsvorstellung**.;Пожалуйста, укажите ваши ожидания по зарплате.
+BIZ;noun;der;Mindestlohn;Mindestlöhne;;;;минимальная заработная плата;Der **Mindestlohn** wurde erneut erhöht.;Минимальную заработную плату снова повысили.
+BIZ;noun;die;Prämie;Prämien;;;;премия;Für das gute Ergebnis gibt es eine **Prämie**.;За хороший результат полагается премия.
+BIZ;noun;der;Bonus;Boni;;;;бонус, премия;Am Jahresende bekommen alle einen **Bonus**.;В конце года все получают бонус.
+BIZ;noun;die;Sozialleistung;Sozialleistungen;;;;социальная льгота, соцвыплата;Die Firma bietet attraktive **Sozialleistungen**.;Фирма предлагает привлекательный соцпакет.
+BIZ;noun;der;Urlaub;Urlaube;;;;отпуск;Ich habe dreißig Tage **Urlaub** im Jahr.;У меня тридцать дней отпуска в год.
+BIZ;noun;die;Krankmeldung;Krankmeldungen;;;;сообщение о болезни, больничный;Schicken Sie die **Krankmeldung** bitte an die Personalabteilung.;Пожалуйста, отправьте больничный в отдел кадров.
+BIZ;noun;die;Elternzeit;Elternzeiten;;;;отпуск по уходу за ребёнком;Sie nimmt ein Jahr **Elternzeit**.;Она берёт год отпуска по уходу за ребёнком.
+BIZ;noun;die;Karriere;Karrieren;;;;карьера;Er hat in der Bank **Karriere** gemacht.;Он сделал карьеру в банке.
+BIZ;noun;die;Beförderung;Beförderungen;;;;повышение (в должности);Nach drei Jahren bekam sie eine **Beförderung**.;Через три года она получила повышение.
+BIZ;noun;die;Weiterbildung;Weiterbildungen;;;;повышение квалификации;Die Firma bezahlt meine **Weiterbildung**.;Фирма оплачивает моё повышение квалификации.
+BIZ;noun;die;Schulung;Schulungen;;;;обучение, тренинг;Alle Mitarbeiter müssen an der **Schulung** teilnehmen.;Все сотрудники должны пройти обучение.
+BIZ;noun;die;Ausbildung;Ausbildungen;;;;профессиональное обучение;Er macht eine **Ausbildung** zum Industriekaufmann.;Он учится на промышленного коммерсанта.
+BIZ;noun;der;Auszubildende;Auszubildenden;;;;ученик, стажёр (на производстве);Unser **Auszubildender** lernt schnell.;Наш ученик быстро учится.
+BIZ;noun;das;Praktikum;Praktika;;;;практика, стажировка;Ich mache ein **Praktikum** in einer Werbeagentur.;Я прохожу стажировку в рекламном агентстве.
+BIZ;noun;der;Praktikant;Praktikanten;;;;практикант, стажёр;Der **Praktikant** hilft bei der Recherche.;Стажёр помогает с поиском информации.
+BIZ;noun;die;Fachkraft;Fachkräfte;;;;специалист, квалифицированный работник;In Deutschland fehlen viele **Fachkräfte**.;В Германии не хватает многих квалифицированных специалистов.
+BIZ;noun;der;Fachkräftemangel;-;;;;нехватка специалистов;Der **Fachkräftemangel** ist ein großes Problem.;Нехватка специалистов — большая проблема.
+BIZ;noun;der;Arbeitsplatz;Arbeitsplätze;;;;рабочее место;Die neue Fabrik schafft 500 **Arbeitsplätze**.;Новая фабрика создаст 500 рабочих мест.
+BIZ;noun;die;Arbeitslosigkeit;-;;;;безработица;Die **Arbeitslosigkeit** ist leicht gesunken.;Безработица немного снизилась.
+BIZ;noun;der;Arbeitsmarkt;Arbeitsmärkte;;;;рынок труда;Der **Arbeitsmarkt** für Ingenieure ist sehr gut.;Рынок труда для инженеров очень хороший.
+BIZ;noun;die;Stellenbeschreibung;Stellenbeschreibungen;;;;должностная инструкция;Die **Stellenbeschreibung** listet alle Aufgaben auf.;В должностной инструкции перечислены все задачи.
+BIZ;noun;die;Zielvereinbarung;Zielvereinbarungen;;;;соглашение о целях;In der **Zielvereinbarung** stehen die Ziele für dieses Jahr.;В соглашении о целях указаны цели на этот год.
+BIZ;noun;das;Mitarbeitergespräch;Mitarbeitergespräche;;;;беседа с сотрудником, оценочная встреча;Einmal im Jahr findet ein **Mitarbeitergespräch** statt.;Раз в год проводится беседа с сотрудником.
+BIZ;noun;die;Leistung;Leistungen;;;;производительность, результат, услуга;Ihre **Leistung** in diesem Jahr war hervorragend.;Ваши результаты в этом году были превосходными.
+BIZ;noun;die;Rente;Renten;;;;пенсия;Er geht nächstes Jahr in **Rente**.;В следующем году он выходит на пенсию.
+BIZ;noun;der;Ruhestand;-;;;;отставка, пенсия;Nach 40 Jahren geht sie in den **Ruhestand**.;После 40 лет работы она уходит на пенсию.
+BIZ;noun;die;Geschäftsreise;Geschäftsreisen;;;;деловая поездка, командировка;Er ist oft auf **Geschäftsreise**.;Он часто бывает в командировках.
+BIZ;noun;das;Büro;Büros;;;;офис, бюро;Ich bin heute bis sechs Uhr im **Büro**.;Я сегодня в офисе до шести часов.
+BIZ;noun;die;Besprechung;Besprechungen;;;;совещание, обсуждение;Die **Besprechung** beginnt um zehn Uhr.;Совещание начинается в десять часов.
+BIZ;noun;die;Sitzung;Sitzungen;;;;заседание, совещание;Die **Sitzung** wurde auf Donnerstag verschoben.;Заседание перенесли на четверг.
+BIZ;noun;das;Meeting;Meetings;;;;встреча, совещание;Ich habe heute drei **Meetings** hintereinander.;У меня сегодня три встречи подряд.
+BIZ;noun;der;Termin;Termine;;;;встреча, назначенное время;Können wir den **Termin** auf morgen verschieben?;Можем ли мы перенести встречу на завтра?
+BIZ;noun;die;Tagesordnung;Tagesordnungen;;;;повестка дня;Der erste Punkt der **Tagesordnung** ist das Budget.;Первый пункт повестки дня — бюджет.
+BIZ;noun;das;Protokoll;Protokolle;;;;протокол;Wer schreibt heute das **Protokoll**?;Кто сегодня ведёт протокол?
+BIZ;noun;die;Konferenz;Konferenzen;;;;конференция;Sie hält einen Vortrag auf der **Konferenz**.;Она выступает с докладом на конференции.
+BIZ;noun;die;Präsentation;Präsentationen;;;;презентация;Die **Präsentation** hat die Kunden überzeugt.;Презентация убедила клиентов.
+BIZ;noun;der;Vortrag;Vorträge;;;;доклад;Ihr **Vortrag** über Marktanalyse war sehr interessant.;Её доклад об анализе рынка был очень интересным.
+BIZ;noun;die;Frist;Fristen;;;;срок;Die **Frist** für das Angebot läuft morgen ab.;Срок подачи предложения истекает завтра.
+BIZ;noun;die;Deadline;Deadlines;;;;дедлайн, крайний срок;Wir schaffen die **Deadline** nur mit Überstunden.;Мы уложимся в дедлайн только со сверхурочными.
+BIZ;noun;die;Aufgabe;Aufgaben;;;;задача, задание;Diese **Aufgabe** hat höchste Priorität.;Эта задача имеет наивысший приоритет.
+BIZ;noun;die;Priorität;Prioritäten;;;;приоритет;Wir müssen klare **Prioritäten** setzen.;Нам нужно расставить чёткие приоритеты.
+BIZ;noun;das;Projekt;Projekte;;;;проект;Das **Projekt** muss bis Ende Juni fertig sein.;Проект должен быть готов к концу июня.
+BIZ;noun;der;Projektleiter;Projektleiter;;;;руководитель проекта;Der **Projektleiter** berichtet direkt an den Vorstand.;Руководитель проекта подчиняется непосредственно правлению.
+BIZ;noun;der;Meilenstein;Meilensteine;;;;веха, ключевой этап;Den ersten **Meilenstein** haben wir pünktlich erreicht.;Первого ключевого этапа мы достигли вовремя.
+BIZ;noun;der;Zeitplan;Zeitpläne;;;;график, расписание;Der **Zeitplan** ist sehr ehrgeizig.;График очень амбициозный.
+BIZ;noun;der;Bericht;Berichte;;;;отчёт, доклад;Der monatliche **Bericht** liegt auf Ihrem Tisch.;Ежемесячный отчёт лежит на вашем столе.
+BIZ;noun;die;Unterlage;Unterlagen;;;;документ (обычно мн. ч.);Bitte bringen Sie alle **Unterlagen** mit.;Пожалуйста, принесите все документы.
+BIZ;noun;das;Dokument;Dokumente;;;;документ;Das **Dokument** muss noch unterschrieben werden.;Документ ещё нужно подписать.
+BIZ;noun;die;Akte;Akten;;;;дело, папка с документами;Die **Akte** liegt im Schrank des Chefs.;Папка с делом лежит в шкафу начальника.
+BIZ;noun;das;Formular;Formulare;;;;бланк, формуляр;Füllen Sie bitte dieses **Formular** aus.;Заполните, пожалуйста, этот бланк.
+BIZ;noun;die;Unterschrift;Unterschriften;;;;подпись;Ohne **Unterschrift** ist der Vertrag ungültig.;Без подписи договор недействителен.
+BIZ;noun;die;Anfrage;Anfragen;;;;запрос;Vielen Dank für Ihre **Anfrage**.;Большое спасибо за ваш запрос.
+BIZ;noun;die;Rückmeldung;Rückmeldungen;;;;обратная связь, ответ;Ich warte noch auf eine **Rückmeldung** vom Kunden.;Я всё ещё жду ответа от клиента.
+BIZ;noun;der;Empfang;Empfänge;;;;ресепшен, приёмная;Melden Sie sich bitte am **Empfang**.;Пожалуйста, обратитесь на ресепшен.
+BIZ;noun;die;Visitenkarte;Visitenkarten;;;;визитная карточка;Darf ich Ihnen meine **Visitenkarte** geben?;Можно дать вам мою визитку?
+BIZ;noun;der;Ansprechpartner;Ansprechpartner;;;;контактное лицо;Ihr **Ansprechpartner** ist Herr Weber.;Ваше контактное лицо — господин Вебер.
+BIZ;noun;die;Zuständigkeit;Zuständigkeiten;;;;компетенция, сфера ответственности;Das fällt nicht in meine **Zuständigkeit**.;Это не входит в мою сферу ответственности.
+BIZ;noun;die;Verantwortung;Verantwortungen;;;;ответственность;Sie trägt die **Verantwortung** für das ganze Team.;Она несёт ответственность за всю команду.
+BIZ;noun;die;Vertretung;Vertretungen;;;;замещение, представительство;Während meines Urlaubs übernimmt Frau Lenz die **Vertretung**.;Во время моего отпуска меня замещает госпожа Ленц.
+BIZ;noun;das;Management;Managements;;;;менеджмент, управление;Das **Management** hat neue Ziele verkündet.;Менеджмент объявил новые цели.
+BIZ;noun;die;Führung;Führungen;;;;руководство, управление;Unter ihrer **Führung** ist der Umsatz gestiegen.;Под её руководством оборот вырос.
+BIZ;noun;die;Strategie;Strategien;;;;стратегия;Die neue **Strategie** setzt auf Nachhaltigkeit.;Новая стратегия делает ставку на устойчивое развитие.
+BIZ;noun;das;Ziel;Ziele;;;;цель;Unser **Ziel** ist es, Marktführer zu werden.;Наша цель — стать лидером рынка.
+BIZ;noun;die;Entscheidung;Entscheidungen;;;;решение;Die **Entscheidung** fällt nächste Woche.;Решение будет принято на следующей неделе.
+BIZ;noun;die;Planung;Planungen;;;;планирование;Die **Planung** für das nächste Jahr läuft bereits.;Планирование на следующий год уже идёт.
+BIZ;noun;die;Maßnahme;Maßnahmen;;;;мера, мероприятие;Wir müssen sofort **Maßnahmen** ergreifen.;Нам нужно немедленно принять меры.
+BIZ;noun;die;Umsetzung;Umsetzungen;;;;реализация, осуществление;Die **Umsetzung** des Plans dauert zwei Jahre.;Реализация плана займёт два года.
+BIZ;noun;das;Controlling;-;;;;контроллинг;Das **Controlling** überwacht alle Kosten.;Контроллинг отслеживает все затраты.
+BIZ;noun;die;Kennzahl;Kennzahlen;;;;показатель;Die wichtigsten **Kennzahlen** zeigen nach oben.;Важнейшие показатели растут.
+BIZ;noun;die;Effizienz;-;;;;эффективность;Wir wollen die **Effizienz** der Prozesse steigern.;Мы хотим повысить эффективность процессов.
+BIZ;noun;die;Produktivität;-;;;;производительность;Die **Produktivität** ist um fünf Prozent gestiegen.;Производительность выросла на пять процентов.
+BIZ;noun;der;Prozess;Prozesse;;;;процесс;Wir optimieren unsere internen **Prozesse**.;Мы оптимизируем наши внутренние процессы.
+BIZ;noun;die;Qualitätssicherung;-;;;;обеспечение качества;Die **Qualitätssicherung** prüft jedes Produkt.;Служба качества проверяет каждый продукт.
+BIZ;noun;das;Risiko;Risiken;;;;риск;Das **Risiko** ist uns zu hoch.;Риск для нас слишком высок.
+BIZ;noun;die;Herausforderung;Herausforderungen;;;;вызов, сложная задача;Die Digitalisierung ist eine große **Herausforderung**.;Цифровизация — большой вызов.
+BIZ;noun;die;Lösung;Lösungen;;;;решение;Wir finden bestimmt eine **Lösung**.;Мы обязательно найдём решение.
+BIZ;noun;der;Engpass;Engpässe;;;;узкое место, дефицит;Es gibt einen **Engpass** bei den Rohstoffen.;Имеется дефицит сырья.
+BIZ;noun;die;Kompetenz;Kompetenzen;;;;компетенция;Sie hat viel **Kompetenz** im Bereich Finanzen.;У неё большая компетентность в области финансов.
+BIZ;noun;die;Zusammenarbeit;-;;;;сотрудничество;Wir freuen uns auf die **Zusammenarbeit**.;Мы рады сотрудничеству.
+BIZ;noun;die;Motivation;Motivationen;;;;мотивация;Die **Motivation** im Team ist sehr hoch.;Мотивация в команде очень высокая.
+BIZ;noun;die;Rücksprache;Rücksprachen;;;;консультация, согласование;Nach **Rücksprache** mit dem Chef sage ich Ihnen Bescheid.;После согласования с начальником я дам вам знать.
+BIZ;noun;die;Finanzen;pl;;;;финансы;Sie ist für die **Finanzen** der Firma zuständig.;Она отвечает за финансы фирмы.
+BIZ;noun;der;Umsatz;Umsätze;;;;оборот, выручка;Der **Umsatz** ist um zehn Prozent gestiegen.;Оборот вырос на десять процентов.
+BIZ;noun;der;Gewinn;Gewinne;;;;прибыль;Das Unternehmen hat einen hohen **Gewinn** erzielt.;Компания получила высокую прибыль.
+BIZ;noun;der;Verlust;Verluste;;;;убыток, потеря;Im dritten Quartal gab es einen **Verlust**.;В третьем квартале был убыток.
+BIZ;noun;die;Kosten;pl;;;;расходы, затраты;Wir müssen die **Kosten** senken.;Нам нужно снизить расходы.
+BIZ;noun;die;Ausgabe;Ausgaben;;;;расход, трата;Die **Ausgaben** für Werbung sind gestiegen.;Расходы на рекламу выросли.
+BIZ;noun;die;Einnahme;Einnahmen;;;;доход, поступление;Die **Einnahmen** decken die Kosten nicht.;Доходы не покрывают расходы.
+BIZ;noun;das;Budget;Budgets;;;;бюджет;Das **Budget** für das Projekt ist begrenzt.;Бюджет проекта ограничен.
+BIZ;noun;die;Bilanz;Bilanzen;;;;баланс, итог;Die **Bilanz** wird im März veröffentlicht.;Баланс будет опубликован в марте.
+BIZ;noun;der;Jahresabschluss;Jahresabschlüsse;;;;годовой отчёт, годовая отчётность;Der Steuerberater erstellt den **Jahresabschluss**.;Налоговый консультант составляет годовую отчётность.
+BIZ;noun;das;Geschäftsjahr;Geschäftsjahre;;;;финансовый год;Das **Geschäftsjahr** endet am 30. September.;Финансовый год заканчивается 30 сентября.
+BIZ;noun;das;Quartal;Quartale;;;;квартал;Im zweiten **Quartal** lief das Geschäft gut.;Во втором квартале дела шли хорошо.
+BIZ;noun;die;Rechnung;Rechnungen;;;;счёт;Die **Rechnung** ist innerhalb von 14 Tagen zu zahlen.;Счёт необходимо оплатить в течение 14 дней.
+BIZ;noun;die;Zahlung;Zahlungen;;;;платёж, оплата;Wir haben Ihre **Zahlung** erhalten.;Мы получили ваш платёж.
+BIZ;noun;das;Zahlungsziel;Zahlungsziele;;;;срок оплаты;Das **Zahlungsziel** beträgt dreißig Tage.;Срок оплаты составляет тридцать дней.
+BIZ;noun;die;Mahnung;Mahnungen;;;;напоминание о платеже;Der Kunde hat schon die zweite **Mahnung** bekommen.;Клиент уже получил второе напоминание о платеже.
+BIZ;noun;die;Überweisung;Überweisungen;;;;банковский перевод;Die **Überweisung** dauert ein bis zwei Tage.;Перевод занимает один-два дня.
+BIZ;noun;die;Quittung;Quittungen;;;;квитанция, расписка;Bitte heben Sie die **Quittung** auf.;Пожалуйста, сохраните квитанцию.
+BIZ;noun;der;Beleg;Belege;;;;платёжный документ, чек;Für jede Ausgabe brauchen wir einen **Beleg**.;Для каждого расхода нам нужен подтверждающий документ.
+BIZ;noun;die;Steuer;Steuern;;;;налог;Die Firma zahlt jedes Jahr hohe **Steuern**.;Фирма ежегодно платит высокие налоги.
+BIZ;noun;die;Mehrwertsteuer;-;;;;налог на добавленную стоимость, НДС;Alle Preise verstehen sich inklusive **Mehrwertsteuer**.;Все цены указаны с учётом НДС.
+BIZ;noun;die;Steuererklärung;Steuererklärungen;;;;налоговая декларация;Die **Steuererklärung** muss bis Juli abgegeben werden.;Налоговую декларацию нужно подать до июля.
+BIZ;noun;der;Steuerberater;Steuerberater;;;;налоговый консультант;Unser **Steuerberater** kümmert sich um die Abrechnung.;Наш налоговый консультант занимается расчётами.
+BIZ;noun;die;Investition;Investitionen;;;;инвестиция, вложение;Die **Investition** in neue Maschinen lohnt sich.;Вложение в новые станки окупается.
+BIZ;noun;der;Investor;Investoren;;;;инвестор;Das Start-up sucht einen neuen **Investor**.;Стартап ищет нового инвестора.
+BIZ;noun;das;Kapital;Kapitale;;;;капитал;Für die Gründung braucht man genug **Kapital**.;Для основания компании нужно достаточно капитала.
+BIZ;noun;der;Kredit;Kredite;;;;кредит;Die Bank hat uns einen **Kredit** gewährt.;Банк предоставил нам кредит.
+BIZ;noun;das;Darlehen;Darlehen;;;;заём, ссуда;Das **Darlehen** muss in fünf Jahren zurückgezahlt werden.;Заём нужно вернуть через пять лет.
+BIZ;noun;der;Zins;Zinsen;;;;процент (по кредиту);Die **Zinsen** sind im Moment sehr niedrig.;Процентные ставки сейчас очень низкие.
+BIZ;noun;die;Schuld;Schulden;;;;долг;Die Firma hat hohe **Schulden** bei der Bank.;У фирмы большие долги перед банком.
+BIZ;noun;die;Aktie;Aktien;;;;акция;Die **Aktie** ist heute um drei Prozent gefallen.;Акция сегодня упала на три процента.
+BIZ;noun;der;Aktionär;Aktionäre;;;;акционер;Die **Aktionäre** erhalten eine höhere Dividende.;Акционеры получают более высокие дивиденды.
+BIZ;noun;die;Dividende;Dividenden;;;;дивиденд;Die **Dividende** wird im Mai ausgezahlt.;Дивиденды выплачиваются в мае.
+BIZ;noun;die;Börse;Börsen;;;;биржа;Das Unternehmen geht nächstes Jahr an die **Börse**.;Компания выходит на биржу в следующем году.
+BIZ;noun;die;Rendite;Renditen;;;;доходность;Die **Rendite** dieser Anlage liegt bei vier Prozent.;Доходность этого вложения составляет четыре процента.
+BIZ;noun;die;Liquidität;-;;;;ликвидность;Die **Liquidität** des Unternehmens ist gesichert.;Ликвидность компании обеспечена.
+BIZ;noun;die;Abschreibung;Abschreibungen;;;;амортизация, списание;Die **Abschreibung** der Maschinen erfolgt über zehn Jahre.;Амортизация станков осуществляется в течение десяти лет.
+BIZ;noun;die;Buchung;Buchungen;;;;проводка, бронирование;Jede **Buchung** muss belegt werden.;Каждая проводка должна быть подтверждена документом.
+BIZ;noun;das;Konto;Konten;;;;счёт (банковский);Bitte überweisen Sie den Betrag auf unser **Konto**.;Пожалуйста, переведите сумму на наш счёт.
+BIZ;noun;der;Betrag;Beträge;;;;сумма;Der **Betrag** wurde bereits abgebucht.;Сумма уже списана.
+BIZ;noun;der;Wirtschaftsprüfer;Wirtschaftsprüfer;;;;аудитор;Der **Wirtschaftsprüfer** hat die Bilanz kontrolliert.;Аудитор проверил баланс.
+BIZ;noun;die;Prüfung;Prüfungen;;;;проверка, аудит, экзамен;Die **Prüfung** der Bücher dauert eine Woche.;Проверка бухгалтерских книг длится неделю.
+BIZ;noun;die;Kalkulation;Kalkulationen;;;;калькуляция, расчёт;Die **Kalkulation** zeigt, dass sich das Projekt lohnt.;Расчёт показывает, что проект окупается.
+BIZ;noun;der;Kostenvoranschlag;Kostenvoranschläge;;;;смета, предварительная оценка стоимости;Können Sie uns einen **Kostenvoranschlag** schicken?;Можете прислать нам смету?
+BIZ;noun;die;Spesen;pl;;;;командировочные расходы, издержки;Die **Spesen** werden von der Firma erstattet.;Командировочные расходы возмещаются фирмой.
+BIZ;noun;die;Insolvenz;Insolvenzen;;;;неплатёжеспособность, банкротство;Das Unternehmen musste **Insolvenz** anmelden.;Компании пришлось объявить о неплатёжеспособности.
+BIZ;noun;die;Pleite;Pleiten;;;;банкротство, крах;Nach der **Pleite** verloren alle ihren Job.;После банкротства все потеряли работу.
+BIZ;noun;der;Verkauf;Verkäufe;;;;продажа;Der **Verkauf** der neuen Modelle beginnt im Mai.;Продажа новых моделей начинается в мае.
+BIZ;noun;der;Absatz;Absätze;;;;сбыт, объём продаж;Der **Absatz** in China ist stark gestiegen.;Сбыт в Китае сильно вырос.
+BIZ;noun;der;Verkäufer;Verkäufer;;;;продавец;Der **Verkäufer** hat mir das Produkt erklärt.;Продавец объяснил мне продукт.
+BIZ;noun;der;Außendienst;-;;;;работа с выездом к клиентам, выездной персонал;Er arbeitet im **Außendienst** und ist viel unterwegs.;Он работает с выездом к клиентам и много ездит.
+BIZ;noun;das;Marketing;-;;;;маркетинг;Im **Marketing** arbeiten wir viel mit sozialen Medien.;В маркетинге мы много работаем с соцсетями.
+BIZ;noun;die;Werbung;Werbungen;;;;реклама;Die Firma investiert viel Geld in **Werbung**.;Фирма вкладывает много денег в рекламу.
+BIZ;noun;die;Werbekampagne;Werbekampagnen;;;;рекламная кампания;Die neue **Werbekampagne** startet im Herbst.;Новая рекламная кампания стартует осенью.
+BIZ;noun;die;Zielgruppe;Zielgruppen;;;;целевая аудитория;Unsere **Zielgruppe** sind junge Familien.;Наша целевая аудитория — молодые семьи.
+BIZ;noun;die;Marke;Marken;;;;марка, бренд;Diese **Marke** ist weltweit bekannt.;Этот бренд известен во всём мире.
+BIZ;noun;das;Image;Images;;;;имидж;Das Unternehmen will sein **Image** verbessern.;Компания хочет улучшить свой имидж.
+BIZ;noun;die;Marktforschung;-;;;;маркетинговое исследование;Die **Marktforschung** zeigt eine große Nachfrage.;Маркетинговое исследование показывает большой спрос.
+BIZ;noun;der;Marktanteil;Marktanteile;;;;доля рынка;Unser **Marktanteil** liegt bei zwanzig Prozent.;Наша доля рынка составляет двадцать процентов.
+BIZ;noun;der;Marktführer;Marktführer;;;;лидер рынка;Die Firma ist **Marktführer** in Europa.;Фирма — лидер рынка в Европе.
+BIZ;noun;die;Markteinführung;Markteinführungen;;;;вывод на рынок;Die **Markteinführung** des Produkts ist im Frühjahr.;Вывод продукта на рынок запланирован на весну.
+BIZ;noun;das;Produkt;Produkte;;;;продукт, изделие;Unser neues **Produkt** kommt gut an.;Наш новый продукт хорошо принимают.
+BIZ;noun;das;Sortiment;Sortimente;;;;ассортимент;Wir erweitern unser **Sortiment** um Bio-Produkte.;Мы расширяем наш ассортимент экопродуктами.
+BIZ;noun;der;Preis;Preise;;;;цена;Der **Preis** ist verhandelbar.;Цена обсуждается.
+BIZ;noun;der;Rabatt;Rabatte;;;;скидка;Bei großen Mengen gewähren wir zehn Prozent **Rabatt**.;При больших объёмах мы предоставляем скидку десять процентов.
+BIZ;noun;das;Skonto;Skonti;;;;скидка за досрочную оплату;Bei Zahlung innerhalb von zehn Tagen gibt es zwei Prozent **Skonto**.;При оплате в течение десяти дней предоставляется скидка два процента.
+BIZ;noun;die;Messe;Messen;;;;ярмарка, выставка;Wir stellen unser Produkt auf der **Messe** vor.;Мы представляем наш продукт на выставке.
+BIZ;noun;die;Pressemitteilung;Pressemitteilungen;;;;пресс-релиз;Die **Pressemitteilung** erscheint morgen früh.;Пресс-релиз выйдет завтра утром.
+BIZ;noun;der;Kunde;Kunden;;;;клиент, покупатель;Der **Kunde** ist mit dem Service sehr zufrieden.;Клиент очень доволен обслуживанием.
+BIZ;noun;der;Kundenstamm;Kundenstämme;;;;клиентская база;Wir haben einen großen und treuen **Kundenstamm**.;У нас большая и верная клиентская база.
+BIZ;noun;der;Kundendienst;Kundendienste;;;;служба поддержки клиентов, сервис;Bitte wenden Sie sich an unseren **Kundendienst**.;Пожалуйста, обратитесь в нашу службу поддержки клиентов.
+BIZ;noun;die;Reklamation;Reklamationen;;;;рекламация, претензия;Die **Reklamation** wurde schnell bearbeitet.;Претензия была быстро рассмотрена.
+BIZ;noun;die;Beschwerde;Beschwerden;;;;жалоба;Wir nehmen jede **Beschwerde** ernst.;Мы серьёзно относимся к каждой жалобе.
+BIZ;noun;die;Garantie;Garantien;;;;гарантия;Auf das Gerät gibt es zwei Jahre **Garantie**.;На прибор даётся гарантия два года.
+BIZ;noun;der;Auftrag;Aufträge;;;;заказ, поручение;Wir haben einen großen **Auftrag** aus China bekommen.;Мы получили крупный заказ из Китая.
+BIZ;noun;der;Auftraggeber;Auftraggeber;;;;заказчик;Der **Auftraggeber** ist mit dem Ergebnis zufrieden.;Заказчик доволен результатом.
+BIZ;noun;die;Bestellung;Bestellungen;;;;заказ;Ihre **Bestellung** wird morgen verschickt.;Ваш заказ будет отправлен завтра.
+BIZ;noun;das;Angebot;Angebote;;;;предложение, коммерческое предложение;Wir schicken Ihnen gern ein **Angebot**.;Мы с удовольствием пришлём вам коммерческое предложение.
+BIZ;noun;die;Nachfrage;Nachfragen;;;;спрос;Die **Nachfrage** nach E-Autos steigt.;Спрос на электромобили растёт.
+BIZ;noun;die;Auftragsbestätigung;Auftragsbestätigungen;;;;подтверждение заказа;Sie erhalten die **Auftragsbestätigung** per E-Mail.;Вы получите подтверждение заказа по электронной почте.
+BIZ;noun;die;Verhandlung;Verhandlungen;;;;переговоры;Die **Verhandlungen** mit dem Lieferanten waren schwierig.;Переговоры с поставщиком были трудными.
+BIZ;noun;der;Kompromiss;Kompromisse;;;;компромисс;Am Ende haben wir einen **Kompromiss** gefunden.;В конце концов мы нашли компромисс.
+BIZ;noun;die;Vereinbarung;Vereinbarungen;;;;соглашение, договорённость;Wir halten uns an die **Vereinbarung**.;Мы придерживаемся договорённости.
+BIZ;noun;die;Bedingung;Bedingungen;;;;условие;Unter diesen **Bedingungen** können wir nicht liefern.;На этих условиях мы не можем поставлять.
+BIZ;noun;die;Konditionen;pl;;;;условия (сделки);Die **Konditionen** des Angebots sind sehr gut.;Условия предложения очень хорошие.
+BIZ;noun;der;Lieferant;Lieferanten;;;;поставщик;Wir haben einen neuen **Lieferanten** für Verpackungen.;У нас новый поставщик упаковки.
+BIZ;noun;die;Lieferung;Lieferungen;;;;поставка, доставка;Die **Lieferung** kommt voraussichtlich am Dienstag.;Поставка ожидается во вторник.
+BIZ;noun;die;Lieferzeit;Lieferzeiten;;;;срок поставки;Die **Lieferzeit** beträgt etwa zwei Wochen.;Срок поставки составляет около двух недель.
+BIZ;noun;die;Logistik;-;;;;логистика;Die **Logistik** ist ein wichtiger Kostenfaktor.;Логистика — важная статья затрат.
+BIZ;noun;das;Lager;Lager;;;;склад;Die Ware ist nicht mehr auf **Lager**.;Товара больше нет на складе.
+BIZ;noun;der;Lagerbestand;Lagerbestände;;;;складской запас;Wir müssen den **Lagerbestand** reduzieren.;Нам нужно сократить складской запас.
+BIZ;noun;die;Ware;Waren;;;;товар;Die **Ware** wurde beim Transport beschädigt.;Товар был повреждён при транспортировке.
+BIZ;noun;die;Sendung;Sendungen;;;;отправление, посылка, груз;Die **Sendung** ist schon unterwegs.;Отправление уже в пути.
+BIZ;noun;der;Versand;-;;;;отправка, доставка;Der **Versand** ist ab 50 Euro kostenlos.;Доставка бесплатна от 50 евро.
+BIZ;noun;die;Spedition;Speditionen;;;;транспортно-экспедиторская компания;Die **Spedition** holt die Paletten morgen ab.;Экспедиторская компания заберёт поддоны завтра.
+BIZ;noun;der;Lieferschein;Lieferscheine;;;;накладная;Bitte prüfen Sie die Ware anhand des **Lieferscheins**.;Пожалуйста, проверьте товар по накладной.
+BIZ;noun;die;Lieferkette;Lieferketten;;;;цепочка поставок;Die **Lieferkette** wurde durch die Krise gestört.;Цепочка поставок была нарушена кризисом.
+BIZ;noun;der;Zoll;Zölle;;;;таможня, пошлина;Auf diese Waren fallen hohe **Zölle** an.;На эти товары начисляются высокие пошлины.
+BIZ;noun;der;Export;Exporte;;;;экспорт;Der **Export** nach Asien hat sich verdoppelt.;Экспорт в Азию удвоился.
+BIZ;noun;der;Import;Importe;;;;импорт;Der **Import** von Rohstoffen wird teurer.;Импорт сырья дорожает.
+BIZ;noun;die;Wirtschaft;Wirtschaften;;;;экономика, хозяйство;Die deutsche **Wirtschaft** wächst wieder.;Немецкая экономика снова растёт.
+BIZ;noun;der;Markt;Märkte;;;;рынок;Wir wollen neue **Märkte** erschließen.;Мы хотим освоить новые рынки.
+BIZ;noun;das;Wachstum;-;;;;рост;Das **Wachstum** der Wirtschaft hat sich verlangsamt.;Рост экономики замедлился.
+BIZ;noun;die;Inflation;Inflationen;;;;инфляция;Die **Inflation** liegt bei drei Prozent.;Инфляция составляет три процента.
+BIZ;noun;die;Konjunktur;Konjunkturen;;;;конъюнктура, экономическая ситуация;Die **Konjunktur** hat sich deutlich erholt.;Экономическая конъюнктура заметно восстановилась.
+BIZ;noun;die;Rezession;Rezessionen;;;;рецессия, спад;Experten warnen vor einer **Rezession**.;Эксперты предупреждают о рецессии.
+BIZ;noun;die;Krise;Krisen;;;;кризис;Viele Firmen haben die **Krise** gut überstanden.;Многие фирмы хорошо пережили кризис.
+BIZ;noun;der;Handel;-;;;;торговля;Der **Handel** mit China ist sehr wichtig.;Торговля с Китаем очень важна.
+BIZ;noun;der;Einzelhandel;-;;;;розничная торговля;Der **Einzelhandel** leidet unter dem Online-Geschäft.;Розничная торговля страдает от онлайн-бизнеса.
+BIZ;noun;der;Großhandel;-;;;;оптовая торговля;Wir kaufen die Ware im **Großhandel**.;Мы покупаем товар оптом.
+BIZ;noun;die;Globalisierung;-;;;;глобализация;Die **Globalisierung** verändert die Arbeitswelt.;Глобализация меняет мир труда.
+BIZ;noun;die;Nachhaltigkeit;-;;;;устойчивое развитие, экологичность;**Nachhaltigkeit** spielt eine immer größere Rolle.;Устойчивое развитие играет всё большую роль.
+BIZ;noun;das;Recht;Rechte;;;;право;Jeder Mitarbeiter hat das **Recht** auf Urlaub.;Каждый сотрудник имеет право на отпуск.
+BIZ;noun;das;Gesetz;Gesetze;;;;закон;Das neue **Gesetz** tritt im Januar in Kraft.;Новый закон вступает в силу в январе.
+BIZ;noun;die;Klausel;Klauseln;;;;оговорка, пункт договора;Diese **Klausel** im Vertrag ist unklar.;Этот пункт договора неясен.
+BIZ;noun;die;Haftung;Haftungen;;;;ответственность (юр.);Die **Haftung** ist auf das Firmenvermögen beschränkt.;Ответственность ограничена имуществом фирмы.
+BIZ;noun;die;Vollmacht;Vollmachten;;;;доверенность, полномочие;Er hat eine **Vollmacht** für das Konto.;У него есть доверенность на счёт.
+BIZ;noun;der;Anwalt;Anwälte;;;;адвокат, юрист;Unser **Anwalt** prüft den Vertrag.;Наш адвокат проверяет договор.
+BIZ;noun;die;Rechtsabteilung;Rechtsabteilungen;;;;юридический отдел;Die **Rechtsabteilung** muss zustimmen.;Юридический отдел должен дать согласие.
+BIZ;noun;das;Handelsregister;Handelsregister;;;;торговый реестр;Die Firma ist im **Handelsregister** eingetragen.;Фирма внесена в торговый реестр.
+BIZ;noun;der;Datenschutz;-;;;;защита данных;Der **Datenschutz** muss beachtet werden.;Необходимо соблюдать защиту данных.
+BIZ;noun;der;Schadensersatz;-;;;;возмещение ущерба;Der Kunde verlangt **Schadensersatz**.;Клиент требует возмещения ущерба.
+BIZ;noun;die;Vertragsstrafe;Vertragsstrafen;;;;договорная неустойка;Bei Verspätung droht eine **Vertragsstrafe**.;При задержке грозит неустойка.
+BIZ;noun;die;Geheimhaltungsvereinbarung;Geheimhaltungsvereinbarungen;;;;соглашение о неразглашении;Bitte unterschreiben Sie zuerst die **Geheimhaltungsvereinbarung**.;Пожалуйста, сначала подпишите соглашение о неразглашении.
+BIZ;noun;der;Gründer;Gründer;;;;основатель;Die **Gründer** kennen sich seit der Uni.;Основатели знакомы со времён университета.
+BIZ;noun;die;Gründung;Gründungen;;;;основание, учреждение;Die **Gründung** einer Firma kostet Zeit und Geld.;Основание фирмы требует времени и денег.
+BIZ;noun;das;Start-up;Start-ups;;;;стартап;Sie arbeitet bei einem **Start-up** in Berlin.;Она работает в стартапе в Берлине.
+BIZ;noun;der;Unternehmer;Unternehmer;;;;предприниматель;Als **Unternehmer** trägt man ein großes Risiko.;Как предприниматель ты несёшь большой риск.
+BIZ;noun;die;Selbstständigkeit;-;;;;самозанятость, собственное дело;Der Schritt in die **Selbstständigkeit** war mutig.;Шаг к собственному делу был смелым.
+BIZ;noun;der;Geschäftsplan;Geschäftspläne;;;;бизнес-план;Die Bank will zuerst den **Geschäftsplan** sehen.;Банк хочет сначала увидеть бизнес-план.
+BIZ;noun;das;Geschäftsmodell;Geschäftsmodelle;;;;бизнес-модель;Das **Geschäftsmodell** basiert auf Abonnements.;Бизнес-модель основана на подписках.
+BIZ;noun;die;Finanzierung;Finanzierungen;;;;финансирование;Die **Finanzierung** des Projekts ist gesichert.;Финансирование проекта обеспечено.
+BIZ;noun;die;Förderung;Förderungen;;;;поддержка, субсидирование;Für Gründer gibt es staatliche **Förderung**.;Для основателей существует государственная поддержка.
+BIZ;noun;der;Geschäftspartner;Geschäftspartner;;;;деловой партнёр;Unsere **Geschäftspartner** kommen aus Japan.;Наши деловые партнёры из Японии.
+BIZ;noun;das;Geschäft;Geschäfte;;;;дело, бизнес, сделка;Das **Geschäft** läuft gut.;Дела идут хорошо.
+BIZ;noun;der;Abschluss;Abschlüsse;;;;заключение (сделки), завершение;Der **Abschluss** des Vertrags ist für Juni geplant.;Заключение договора запланировано на июнь.
+BIZ;verb;;arbeiten;;;arbeitete;hat gearbeitet;работать;Sie **arbeitet** bei einer großen Bank.;Она работает в большом банке.
+BIZ;verb;;sich bewerben;;er bewirbt sich;bewarb sich;hat sich beworben;подавать заявку, откликаться (на вакансию);Sie **bewirbt sich** um eine Stelle.;Она откликается на вакансию.
+BIZ;verb;;einstellen;;;stellte ein;hat eingestellt;нанимать, принимать на работу;Wir **stellen** im Herbst drei Ingenieure **ein**.;Осенью мы наймём трёх инженеров.
+BIZ;verb;;kündigen;;;kündigte;hat gekündigt;увольнять(ся), расторгать;Er hat nach zwei Jahren **gekündigt**.;Он уволился через два года.
+BIZ;verb;;entlassen;;er entlässt;entließ;hat entlassen;увольнять;Die Firma musste fünfzig Mitarbeiter **entlassen**.;Фирме пришлось уволить пятьдесят сотрудников.
+BIZ;verb;;befördern;;;beförderte;hat befördert;повышать в должности, перевозить;Sie wurde zur Abteilungsleiterin **befördert**.;Её повысили до начальника отдела.
+BIZ;verb;;verdienen;;;verdiente;hat verdient;зарабатывать;Wie viel **verdient** man als Ingenieur?;Сколько зарабатывает инженер?
+BIZ;verb;;beschäftigen;;;beschäftigte;hat beschäftigt;занимать, давать работу;Die Firma **beschäftigt** 300 Mitarbeiter.;На фирме работают 300 сотрудников.
+BIZ;verb;;einarbeiten;;;arbeitete ein;hat eingearbeitet;вводить в должность, обучать;Frau Klein **arbeitet** den neuen Kollegen **ein**.;Госпожа Кляйн вводит нового коллегу в курс дела.
+BIZ;verb;;vertreten;;er vertritt;vertrat;hat vertreten;замещать, представлять;Wer **vertritt** Sie während Ihres Urlaubs?;Кто замещает вас во время отпуска?
+BIZ;verb;;leiten;;;leitete;hat geleitet;руководить, возглавлять;Sie **leitet** seit drei Jahren das Marketing.;Она уже три года руководит маркетингом.
+BIZ;verb;;führen;;;führte;hat geführt;руководить, вести;Er **führt** das Familienunternehmen in dritter Generation.;Он руководит семейным предприятием в третьем поколении.
+BIZ;verb;;delegieren;;;delegierte;hat delegiert;делегировать, поручать;Ein guter Chef **delegiert** Aufgaben.;Хороший начальник делегирует задачи.
+BIZ;verb;;planen;;;plante;hat geplant;планировать;Wir **planen** eine neue Filiale in Leipzig.;Мы планируем новый филиал в Лейпциге.
+BIZ;verb;;organisieren;;;organisierte;hat organisiert;организовывать;Wer **organisiert** die Weihnachtsfeier?;Кто организует рождественский праздник?
+BIZ;verb;;entscheiden;;;entschied;hat entschieden;решать, принимать решение;Der Vorstand **entscheidet** über das Budget.;Правление принимает решение о бюджете.
+BIZ;verb;;umsetzen;;;setzte um;hat umgesetzt;реализовывать, осуществлять;Wir müssen den Plan schnell **umsetzen**.;Нам нужно быстро реализовать план.
+BIZ;verb;;verantworten;;;verantwortete;hat verantwortet;отвечать за, нести ответственность;Sie **verantwortet** den gesamten Einkauf.;Она отвечает за все закупки.
+BIZ;verb;;koordinieren;;;koordinierte;hat koordiniert;координировать;Er **koordiniert** die Arbeit der drei Teams.;Он координирует работу трёх команд.
+BIZ;verb;;besprechen;;er bespricht;besprach;hat besprochen;обсуждать;Das **besprechen** wir in der nächsten Sitzung.;Это мы обсудим на следующем совещании.
+BIZ;verb;;vereinbaren;;;vereinbarte;hat vereinbart;договариваться, согласовывать;Wir haben einen Termin für Montag **vereinbart**.;Мы договорились о встрече на понедельник.
+BIZ;verb;;verschieben;;;verschob;hat verschoben;переносить, откладывать;Das Meeting wurde auf Freitag **verschoben**.;Встречу перенесли на пятницу.
+BIZ;verb;;absagen;;;sagte ab;hat abgesagt;отменять;Leider muss ich den Termin **absagen**.;К сожалению, я вынужден отменить встречу.
+BIZ;verb;;teilnehmen;;er nimmt teil;nahm teil;hat teilgenommen;участвовать;Ich **nehme** an der Konferenz **teil**.;Я участвую в конференции.
+BIZ;verb;;präsentieren;;;präsentierte;hat präsentiert;представлять, презентовать;Morgen **präsentieren** wir die Ergebnisse.;Завтра мы представим результаты.
+BIZ;verb;;vorstellen;;;stellte vor;hat vorgestellt;представлять, знакомить;Darf ich Ihnen unseren neuen Kollegen **vorstellen**?;Разрешите представить вам нашего нового коллегу?
+BIZ;verb;;berichten;;;berichtete;hat berichtet;докладывать, сообщать;Sie **berichtet** direkt an den Geschäftsführer.;Она подчиняется непосредственно генеральному директору.
+BIZ;verb;;erledigen;;;erledigte;hat erledigt;выполнять, улаживать;Ich **erledige** das bis heute Abend.;Я сделаю это до вечера.
+BIZ;verb;;bearbeiten;;;bearbeitete;hat bearbeitet;обрабатывать;Wir **bearbeiten** Ihre Anfrage so schnell wie möglich.;Мы обработаем ваш запрос как можно быстрее.
+BIZ;verb;;weiterleiten;;;leitete weiter;hat weitergeleitet;пересылать, перенаправлять;Ich habe Ihre E-Mail an den Kollegen **weitergeleitet**.;Я переслал ваше письмо коллеге.
+BIZ;verb;;unterschreiben;;;unterschrieb;hat unterschrieben;подписывать;Bitte **unterschreiben** Sie hier unten.;Пожалуйста, подпишите здесь внизу.
+BIZ;verb;;genehmigen;;;genehmigte;hat genehmigt;одобрять, разрешать;Der Chef hat meinen Urlaub **genehmigt**.;Начальник одобрил мой отпуск.
+BIZ;verb;;zustimmen;;;stimmte zu;hat zugestimmt;соглашаться, одобрять;Der Aufsichtsrat hat dem Plan **zugestimmt**.;Наблюдательный совет одобрил план.
+BIZ;verb;;ablehnen;;;lehnte ab;hat abgelehnt;отклонять, отказывать;Der Kunde hat unser Angebot **abgelehnt**.;Клиент отклонил наше предложение.
+BIZ;verb;;verhandeln;;;verhandelte;hat verhandelt;вести переговоры;Wir **verhandeln** noch über den Preis.;Мы ещё ведём переговоры о цене.
+BIZ;verb;;anbieten;;;bot an;hat angeboten;предлагать;Wir können Ihnen einen Rabatt **anbieten**.;Мы можем предложить вам скидку.
+BIZ;verb;;bestellen;;;bestellte;hat bestellt;заказывать;Der Kunde hat 200 Stück **bestellt**.;Клиент заказал 200 штук.
+BIZ;verb;;liefern;;;lieferte;hat geliefert;поставлять, доставлять;Wir **liefern** innerhalb von drei Tagen.;Мы доставляем в течение трёх дней.
+BIZ;verb;;verschicken;;;verschickte;hat verschickt;отправлять, рассылать;Die Ware wird heute noch **verschickt**.;Товар будет отправлен ещё сегодня.
+BIZ;verb;;verkaufen;;;verkaufte;hat verkauft;продавать;Wir **verkaufen** unsere Produkte in ganz Europa.;Мы продаём нашу продукцию по всей Европе.
+BIZ;verb;;einkaufen;;;kaufte ein;hat eingekauft;закупать;Wir **kaufen** die Rohstoffe in Asien **ein**.;Мы закупаем сырьё в Азии.
+BIZ;verb;;reklamieren;;;reklamierte;hat reklamiert;предъявлять претензию;Der Kunde hat die defekte Ware **reklamiert**.;Клиент предъявил претензию по бракованному товару.
+BIZ;verb;;sich beschweren;;;beschwerte sich;hat sich beschwert;жаловаться;Ein Kunde hat **sich** über den Service **beschwert**.;Один клиент пожаловался на обслуживание.
+BIZ;verb;;betreuen;;;betreute;hat betreut;обслуживать, курировать;Sie **betreut** unsere wichtigsten Kunden.;Она курирует наших важнейших клиентов.
+BIZ;verb;;werben;;er wirbt;warb;hat geworben;рекламировать, привлекать;Die Firma **wirbt** mit niedrigen Preisen.;Фирма привлекает клиентов низкими ценами.
+BIZ;verb;;vermarkten;;;vermarktete;hat vermarktet;продвигать на рынке;Wir **vermarkten** das Produkt vor allem online.;Мы продвигаем продукт в основном онлайн.
+BIZ;verb;;zahlen;;;zahlte;hat gezahlt;платить;Der Kunde hat noch nicht **gezahlt**.;Клиент ещё не заплатил.
+BIZ;verb;;überweisen;;;überwies;hat überwiesen;переводить (деньги);Ich **überweise** den Betrag noch heute.;Я переведу сумму ещё сегодня.
+BIZ;verb;;mahnen;;;mahnte;hat gemahnt;напоминать о долге;Wir mussten den Kunden zweimal **mahnen**.;Нам пришлось дважды напоминать клиенту об оплате.
+BIZ;verb;;investieren;;;investierte;hat investiert;инвестировать, вкладывать;Wir **investieren** in neue Technologien.;Мы инвестируем в новые технологии.
+BIZ;verb;;finanzieren;;;finanzierte;hat finanziert;финансировать;Die Bank **finanziert** das Projekt.;Банк финансирует проект.
+BIZ;verb;;kalkulieren;;;kalkulierte;hat kalkuliert;рассчитывать, калькулировать;Wir müssen die Preise neu **kalkulieren**.;Нам нужно заново рассчитать цены.
+BIZ;verb;;sparen;;;sparte;hat gespart;экономить, копить;Durch die neue Software **sparen** wir viel Zeit.;Благодаря новой программе мы экономим много времени.
+BIZ;verb;;senken;;;senkte;hat gesenkt;снижать;Wir wollen die Kosten um zehn Prozent **senken**.;Мы хотим снизить расходы на десять процентов.
+BIZ;verb;;steigern;;;steigerte;hat gesteigert;повышать, увеличивать;Wir haben den Umsatz deutlich **gesteigert**.;Мы значительно увеличили оборот.
+BIZ;verb;;wachsen;;er wächst;wuchs;ist gewachsen;расти;Das Unternehmen ist stark **gewachsen**.;Компания сильно выросла.
+BIZ;verb;;erzielen;;;erzielte;hat erzielt;достигать, получать (результат);Wir haben einen Rekordgewinn **erzielt**.;Мы получили рекордную прибыль.
+BIZ;verb;;sich lohnen;;;lohnte sich;hat sich gelohnt;окупаться, стоить того;Die Investition hat **sich gelohnt**.;Инвестиция окупилась.
+BIZ;verb;;abrechnen;;;rechnete ab;hat abgerechnet;рассчитываться, отчитываться (о расходах);Die Reisekosten **rechne** ich nächste Woche **ab**.;Командировочные расходы я отчитаю на следующей неделе.
+BIZ;verb;;buchen;;;buchte;hat gebucht;бронировать, проводить (в бухучёте);Bitte **buchen** Sie mir einen Flug nach Berlin.;Пожалуйста, забронируйте мне рейс в Берлин.
+BIZ;verb;;gründen;;;gründete;hat gegründet;основывать;Sie hat ihre Firma 2015 **gegründet**.;Она основала свою фирму в 2015 году.
+BIZ;verb;;expandieren;;;expandierte;hat expandiert;расширяться, выходить на новые рынки;Das Start-up will nach Frankreich **expandieren**.;Стартап хочет выйти на рынок Франции.
+BIZ;verb;;fusionieren;;;fusionierte;hat fusioniert;сливаться (о компаниях);Die beiden Firmen haben **fusioniert**.;Две фирмы слились.
+BIZ;verb;;übernehmen;;er übernimmt;übernahm;hat übernommen;брать на себя, поглощать;Der Konzern hat die kleine Firma **übernommen**.;Концерн поглотил небольшую фирму.
+BIZ;verb;;produzieren;;;produzierte;hat produziert;производить;Wir **produzieren** ausschließlich in Deutschland.;Мы производим исключительно в Германии.
+BIZ;verb;;herstellen;;;stellte her;hat hergestellt;изготавливать, производить;Die Firma **stellt** Autoteile **her**.;Фирма изготавливает автозапчасти.
+BIZ;verb;;exportieren;;;exportierte;hat exportiert;экспортировать;Wir **exportieren** in über vierzig Länder.;Мы экспортируем более чем в сорок стран.
+BIZ;verb;;importieren;;;importierte;hat importiert;импортировать;Das Unternehmen **importiert** Kaffee aus Brasilien.;Компания импортирует кофе из Бразилии.
+BIZ;verb;;lagern;;;lagerte;hat gelagert;хранить на складе;Die Ware wird in Hamburg **gelagert**.;Товар хранится на складе в Гамбурге.
+BIZ;verb;;haften;;;haftete;hat gehaftet;нести ответственность (юр.);Für Schäden **haftet** der Lieferant.;За ущерб отвечает поставщик.
+BIZ;verb;;abschließen;;;schloss ab;hat abgeschlossen;заключать (договор), завершать;Wir haben gestern einen Vertrag **abgeschlossen**.;Вчера мы заключили договор.
+BIZ;verb;;beraten;;er berät;beriet;hat beraten;консультировать, совещаться;Wir **beraten** Unternehmen in Steuerfragen.;Мы консультируем компании по налоговым вопросам.
+BIZ;verb;;sich einigen;;;einigte sich;hat sich geeinigt;договориться, прийти к соглашению;Wir haben **uns** auf einen Preis **geeinigt**.;Мы договорились о цене.
+BIZ;verb;;erhöhen;;;erhöhte;hat erhöht;повышать;Der Lieferant hat die Preise **erhöht**.;Поставщик повысил цены.
+BIZ;verb;;kürzen;;;kürzte;hat gekürzt;сокращать, урезать;Das Budget wurde um die Hälfte **gekürzt**.;Бюджет урезали вдвое.
+BIZ;verb;;erstatten;;;erstattete;hat erstattet;возмещать;Die Reisekosten werden Ihnen **erstattet**.;Командировочные расходы вам возместят.
+BIZ;verb;;prüfen;;;prüfte;hat geprüft;проверять;Wir **prüfen** Ihren Antrag sorgfältig.;Мы тщательно проверим ваше заявление.
+BIZ;verb;;kontrollieren;;;kontrollierte;hat kontrolliert;контролировать, проверять;Die Qualität wird regelmäßig **kontrolliert**.;Качество регулярно контролируется.
+BIZ;verb;;optimieren;;;optimierte;hat optimiert;оптимизировать;Wir **optimieren** die Abläufe im Lager.;Мы оптимизируем процессы на складе.
+BIZ;verb;;kooperieren;;;kooperierte;hat kooperiert;сотрудничать;Wir **kooperieren** eng mit der Universität.;Мы тесно сотрудничаем с университетом.
+BIZ;adj;;beruflich;;;;;профессиональный, служебный;Ich bin **beruflich** oft in Asien.;Я часто бываю в Азии по работе.
+BIZ;adj;;geschäftlich;;;;;деловой, по делам;Er telefoniert gerade **geschäftlich**.;Он сейчас разговаривает по делам.
+BIZ;adj;;befristet;;;;;срочный, ограниченный по сроку;Ich habe einen **befristeten** Vertrag.;У меня срочный договор.
+BIZ;adj;;unbefristet;;;;;бессрочный;Nach der Probezeit bekam sie einen **unbefristeten** Vertrag.;После испытательного срока она получила бессрочный договор.
+BIZ;adj;;selbstständig;;;;;самостоятельный, работающий на себя;Seit zwei Jahren ist sie **selbstständig**.;Уже два года она работает на себя.
+BIZ;adj;;angestellt;;;;;работающий по найму;Er ist bei einer Versicherung **angestellt**.;Он работает по найму в страховой компании.
+BIZ;adj;;arbeitslos;;;;;безработный;Nach der Pleite war er drei Monate **arbeitslos**.;После банкротства он три месяца был безработным.
+BIZ;adj;;zuständig;;;;;ответственный, компетентный;Wer ist für die Rechnungen **zuständig**?;Кто отвечает за счета?
+BIZ;adj;;verantwortlich;;;;;ответственный;Sie ist **verantwortlich** für das Marketing.;Она отвечает за маркетинг.
+BIZ;adj;;erfahren;;;;;опытный;Wir suchen einen **erfahrenen** Projektleiter.;Мы ищем опытного руководителя проекта.
+BIZ;adj;;qualifiziert;;;;;квалифицированный;Sie ist für diese Stelle hoch **qualifiziert**.;Она высококвалифицирована для этой должности.
+BIZ;adj;;belastbar;;;;;стрессоустойчивый;Der Bewerber sollte **belastbar** und flexibel sein.;Кандидат должен быть стрессоустойчивым и гибким.
+BIZ;adj;;zuverlässig;;;;;надёжный;Er ist ein sehr **zuverlässiger** Mitarbeiter.;Он очень надёжный сотрудник.
+BIZ;adj;;teamfähig;;;;;умеющий работать в команде;Wir suchen **teamfähige** Kolleginnen und Kollegen.;Мы ищем коллег, умеющих работать в команде.
+BIZ;adj;;flexibel;;;;;гибкий;Die Arbeitszeiten bei uns sind sehr **flexibel**.;Рабочий график у нас очень гибкий.
+BIZ;adj;;wirtschaftlich;;;;;экономический, рентабельный;Die **wirtschaftliche** Lage ist schwierig.;Экономическая ситуация сложная.
+BIZ;adj;;rentabel;;;;;рентабельный, прибыльный;Das neue Werk ist schon nach zwei Jahren **rentabel**.;Новый завод стал рентабельным уже через два года.
+BIZ;adj;;profitabel;;;;;прибыльный;Das Geschäft ist sehr **profitabel**.;Этот бизнес очень прибыльный.
+BIZ;adj;;wettbewerbsfähig;;;;;конкурентоспособный;Unsere Preise müssen **wettbewerbsfähig** bleiben.;Наши цены должны оставаться конкурентоспособными.
+BIZ;adj;;kostenlos;;;;;бесплатный;Die Beratung ist für Sie **kostenlos**.;Консультация для вас бесплатна.
+BIZ;adj;;kostengünstig;;;;;недорогой, экономичный;Wir suchen eine **kostengünstige** Lösung.;Мы ищем недорогое решение.
+BIZ;adj;;brutto;;;;;брутто, до вычета налогов;Er verdient 5000 Euro **brutto** im Monat.;Он зарабатывает 5000 евро брутто в месяц.
+BIZ;adj;;netto;;;;;нетто, после вычета налогов;Der Preis beträgt 100 Euro **netto**.;Цена составляет 100 евро без налогов.
+BIZ;adj;;fällig;;;;;подлежащий оплате, наступивший (о сроке);Die Rechnung ist am 15. Mai **fällig**.;Счёт подлежит оплате 15 мая.
+BIZ;adj;;zahlungsunfähig;;;;;неплатёжеспособный;Der Kunde ist leider **zahlungsunfähig**.;К сожалению, клиент неплатёжеспособен.
+BIZ;adj;;vertraulich;;;;;конфиденциальный;Diese Informationen sind streng **vertraulich**.;Эта информация строго конфиденциальна.
+BIZ;adj;;verbindlich;;;;;обязательный, имеющий силу;Das Angebot ist bis Ende des Monats **verbindlich**.;Предложение действительно до конца месяца.
+BIZ;adj;;unverbindlich;;;;;без обязательств;Wir schicken Ihnen gern ein **unverbindliches** Angebot.;Мы с удовольствием пришлём вам предложение без обязательств.
+BIZ;adj;;gesetzlich;;;;;законный, установленный законом;Der **gesetzliche** Urlaubsanspruch beträgt 20 Tage.;Установленное законом право на отпуск составляет 20 дней.
+BIZ;adj;;international;;;;;международный;Wir arbeiten in einem **internationalen** Team.;Мы работаем в международной команде.
+BIZ;adj;;dringend;;;;;срочный;Ich habe eine **dringende** Frage zum Vertrag.;У меня срочный вопрос по договору.
+BIZ;adj;;termingerecht;;;;;в срок, своевременный;Die Lieferung erfolgte **termingerecht**.;Поставка была выполнена в срок.
+BIZ;adj;;nachhaltig;;;;;устойчивый, экологичный;Wir setzen auf **nachhaltige** Produktion.;Мы делаем ставку на экологичное производство.
+BIZ;adj;;erfolgreich;;;;;успешный;Das Projekt war sehr **erfolgreich**.;Проект был очень успешным.
+BIZ;adv;;voraussichtlich;;;;;предположительно, ожидаемо;Die Ware kommt **voraussichtlich** am Montag.;Товар предположительно прибудет в понедельник.
+BIZ;adv;;umgehend;;;;;незамедлительно;Bitte antworten Sie **umgehend**.;Пожалуйста, ответьте незамедлительно.
+BIZ;noun;der;Computer;Computer;;;;компьютер;Mein **Computer** startet heute sehr langsam.;Мой компьютер сегодня очень медленно запускается.
+BIZ;noun;der;Rechner;Rechner;;;;компьютер, вычислительная машина;Der **Rechner** im Büro muss neu gestartet werden.;Компьютер в офисе нужно перезагрузить.
+BIZ;noun;der;Laptop;Laptops;;;;ноутбук;Ich arbeite heute im Homeoffice mit meinem **Laptop**.;Сегодня я работаю из дома на своём ноутбуке.
+BIZ;noun;das;Notebook;Notebooks;;;;ноутбук;Das neue **Notebook** hat einen sehr schnellen Prozessor.;У нового ноутбука очень быстрый процессор.
+BIZ;noun;das;Tablet;Tablets;;;;планшет;Im Meeting schreibe ich Notizen auf dem **Tablet**.;На совещании я делаю заметки на планшете.
+BIZ;noun;das;Smartphone;Smartphones;;;;смартфон;Die App läuft auf jedem **Smartphone**.;Приложение работает на любом смартфоне.
+BIZ;noun;das;Gerät;Geräte;;;;устройство, прибор;Bitte verbinden Sie das **Gerät** mit dem WLAN.;Пожалуйста, подключите устройство к Wi-Fi.
+BIZ;noun;die;Hardware;-;;;;аппаратное обеспечение, железо;Die **Hardware** ist schon fünf Jahre alt.;Аппаратному обеспечению уже пять лет.
+BIZ;noun;der;Bildschirm;Bildschirme;;;;экран, монитор;Ich arbeite gern mit zwei **Bildschirmen**.;Мне нравится работать с двумя мониторами.
+BIZ;noun;der;Monitor;Monitore;;;;монитор;Der **Monitor** flackert seit heute Morgen.;Монитор мигает с сегодняшнего утра.
+BIZ;noun;die;Tastatur;Tastaturen;;;;клавиатура;Auf dieser **Tastatur** fehlt die Taste Z.;На этой клавиатуре не хватает клавиши Z.
+BIZ;noun;die;Taste;Tasten;;;;клавиша, кнопка;Drücken Sie die **Taste** Enter.;Нажмите клавишу Enter.
+BIZ;noun;die;Maus;Mäuse;;;;мышь (компьютерная);Die kabellose **Maus** braucht neue Batterien.;Беспроводной мыши нужны новые батарейки.
+BIZ;noun;der;Drucker;Drucker;;;;принтер;Der **Drucker** im zweiten Stock hat kein Papier mehr.;В принтере на третьем этаже закончилась бумага.
+BIZ;noun;der;Scanner;Scanner;;;;сканер;Legen Sie das Dokument in den **Scanner**.;Положите документ в сканер.
+BIZ;noun;der;Prozessor;Prozessoren;;;;процессор;Der **Prozessor** ist bei dieser Aufgabe voll ausgelastet.;Процессор полностью загружен этой задачей.
+BIZ;noun;der;Arbeitsspeicher;Arbeitsspeicher;;;;оперативная память;Für die Software brauchen wir mehr **Arbeitsspeicher**.;Для этой программы нам нужно больше оперативной памяти.
+BIZ;noun;der;Speicher;Speicher;;;;память, хранилище;Der **Speicher** auf dem Handy ist fast voll.;Память на телефоне почти заполнена.
+BIZ;noun;die;Festplatte;Festplatten;;;;жёсткий диск;Die **Festplatte** ist leider kaputt gegangen.;Жёсткий диск, к сожалению, сломался.
+BIZ;noun;der;USB-Stick;USB-Sticks;;;;флешка, USB-накопитель;Ich habe die Präsentation auf einem **USB-Stick**.;Презентация у меня на флешке.
+BIZ;noun;das;Kabel;Kabel;;;;кабель, провод;Welches **Kabel** gehört zum Monitor?;Какой кабель от монитора?
+BIZ;noun;der;Anschluss;Anschlüsse;;;;разъём, подключение;Der Laptop hat nur zwei USB-**Anschlüsse**.;У ноутбука только два USB-разъёма.
+BIZ;noun;der;Akku;Akkus;;;;аккумулятор;Der **Akku** hält nur noch zwei Stunden.;Аккумулятор держит теперь только два часа.
+BIZ;noun;das;Ladegerät;Ladegeräte;;;;зарядное устройство;Hast du ein **Ladegerät** für mein Handy?;У тебя есть зарядка для моего телефона?
+BIZ;noun;die;Webcam;Webcams;;;;веб-камера;Meine **Webcam** funktioniert in Teams nicht.;Моя веб-камера не работает в Teams.
+BIZ;noun;das;Headset;Headsets;;;;гарнитура;Für Videocalls benutze ich ein **Headset**.;Для видеозвонков я использую гарнитуру.
+BIZ;noun;das;Mikrofon;Mikrofone;;;;микрофон;Ihr **Mikrofon** ist noch stummgeschaltet.;Ваш микрофон всё ещё выключен.
+BIZ;noun;der;Lautsprecher;Lautsprecher;;;;динамик, колонка;Der Ton kommt nicht aus dem **Lautsprecher**.;Звук не идёт из динамика.
+BIZ;noun;die;Grafikkarte;Grafikkarten;;;;видеокарта;Für KI-Training braucht man eine starke **Grafikkarte**.;Для обучения ИИ нужна мощная видеокарта.
+BIZ;noun;die;Platine;Platinen;;;;плата;Auf der **Platine** ist ein Bauteil durchgebrannt.;На плате сгорел один компонент.
+BIZ;noun;das;Laufwerk;Laufwerke;;;;дисковод, диск (сетевой);Die Dateien liegen auf dem **Laufwerk** S.;Файлы лежат на диске S.
+BIZ;noun;der;Server;Server;;;;сервер;Der **Server** ist seit einer Stunde nicht erreichbar.;Сервер недоступен уже час.
+BIZ;noun;das;Rechenzentrum;Rechenzentren;;;;центр обработки данных, дата-центр;Unser **Rechenzentrum** steht in Frankfurt.;Наш дата-центр находится во Франкфурте.
+BIZ;noun;der;Router;Router;;;;роутер, маршрутизатор;Starte bitte den **Router** neu.;Перезагрузи, пожалуйста, роутер.
+BIZ;noun;die;Schnittstelle;Schnittstellen;;;;интерфейс, API;Die beiden Systeme kommunizieren über eine **Schnittstelle**.;Обе системы взаимодействуют через интерфейс.
+BIZ;noun;das;Peripheriegerät;Peripheriegeräte;;;;периферийное устройство;Drucker und Scanner sind **Peripheriegeräte**.;Принтер и сканер — периферийные устройства.
+BIZ;noun;die;Dockingstation;Dockingstationen;;;;док-станция;Ich schließe den Laptop an die **Dockingstation** an.;Я подключаю ноутбук к док-станции.
+BIZ;noun;der;Beamer;Beamer;;;;проектор;Der **Beamer** im Konferenzraum ist schon an.;Проектор в переговорной уже включён.
+BIZ;noun;der;Touchscreen;Touchscreens;;;;сенсорный экран;Das Terminal hat einen großen **Touchscreen**.;У терминала большой сенсорный экран.
+BIZ;noun;das;Betriebssystem;Betriebssysteme;;;;операционная система;Welches **Betriebssystem** läuft auf deinem Rechner?;Какая операционная система стоит на твоём компьютере?
+BIZ;noun;die;Software;-;;;;программное обеспечение, софт;Wir kaufen eine neue **Software** für die Buchhaltung.;Мы покупаем новое ПО для бухгалтерии.
+BIZ;noun;das;Programm;Programme;;;;программа;Das **Programm** stürzt beim Speichern ab.;Программа вылетает при сохранении.
+BIZ;noun;die;Anwendung;Anwendungen;;;;приложение, программа;Diese **Anwendung** läuft nur unter Windows.;Это приложение работает только под Windows.
+BIZ;noun;die;App;Apps;;;;приложение (мобильное);Lade dir die **App** aus dem Store herunter.;Скачай себе приложение из магазина.
+BIZ;noun;das;Update;Updates;;;;обновление;Das **Update** wird heute Nacht installiert.;Обновление будет установлено сегодня ночью.
+BIZ;noun;die;Aktualisierung;Aktualisierungen;;;;обновление;Nach der **Aktualisierung** funktioniert alles wieder.;После обновления всё снова работает.
+BIZ;noun;die;Version;Versionen;;;;версия;Bitte nutzen Sie immer die neueste **Version**.;Пожалуйста, всегда используйте последнюю версию.
+BIZ;noun;die;Lizenz;Lizenzen;;;;лицензия;Wir brauchen zehn weitere **Lizenzen** für das Tool.;Нам нужно ещё десять лицензий на этот инструмент.
+BIZ;noun;die;Installation;Installationen;;;;установка, инсталляция;Die **Installation** dauert etwa zehn Minuten.;Установка занимает около десяти минут.
+BIZ;noun;die;Benutzeroberfläche;Benutzeroberflächen;;;;пользовательский интерфейс;Die neue **Benutzeroberfläche** ist viel übersichtlicher.;Новый интерфейс гораздо нагляднее.
+BIZ;noun;die;Datei;Dateien;;;;файл;Ich schicke dir die **Datei** per E-Mail.;Я пришлю тебе файл по электронной почте.
+BIZ;noun;der;Ordner;Ordner;;;;папка;Speichere das Dokument im richtigen **Ordner**.;Сохрани документ в нужной папке.
+BIZ;noun;das;Verzeichnis;Verzeichnisse;;;;каталог, директория;Das Skript liegt im **Verzeichnis** scripts.;Скрипт лежит в каталоге scripts.
+BIZ;noun;der;Desktop;Desktops;;;;рабочий стол;Die Verknüpfung liegt auf dem **Desktop**.;Ярлык находится на рабочем столе.
+BIZ;noun;das;Fenster;Fenster;;;;окно;Schließen Sie bitte alle offenen **Fenster**.;Закройте, пожалуйста, все открытые окна.
+BIZ;noun;das;Symbol;Symbole;;;;значок, иконка;Klicken Sie auf das **Symbol** oben rechts.;Нажмите на значок в правом верхнем углу.
+BIZ;noun;das;Menü;Menüs;;;;меню;Die Einstellungen findest du im **Menü** Extras.;Настройки находятся в меню «Сервис».
+BIZ;noun;die;Funktion;Funktionen;;;;функция;Diese **Funktion** gibt es nur in der Pro-Version.;Эта функция есть только в версии Pro.
+BIZ;noun;das;Tool;Tools;;;;инструмент, программа;Mit diesem **Tool** planen wir unsere Sprints.;С помощью этого инструмента мы планируем спринты.
+BIZ;noun;das;Werkzeug;Werkzeuge;;;;инструмент;Git ist ein wichtiges **Werkzeug** für Entwickler.;Git — важный инструмент для разработчиков.
+BIZ;noun;der;Browser;Browser;;;;браузер;Öffne den Link in einem anderen **Browser**.;Открой ссылку в другом браузере.
+BIZ;noun;die;Erweiterung;Erweiterungen;;;;расширение, дополнение;Die **Erweiterung** blockiert Werbung im Browser.;Это расширение блокирует рекламу в браузере.
+BIZ;noun;das;Plug-in;Plug-ins;;;;плагин;Für den Editor gibt es ein nützliches **Plug-in**.;Для редактора есть полезный плагин.
+BIZ;noun;die;Tabelle;Tabellen;;;;таблица;Die Daten stehen in einer Excel-**Tabelle**.;Данные находятся в таблице Excel.
+BIZ;noun;die;Vorlage;Vorlagen;;;;шаблон;Benutze bitte die **Vorlage** für Fehlerberichte.;Используй, пожалуйста, шаблон для отчётов об ошибках.
+BIZ;noun;das;Format;Formate;;;;формат;Das **Format** der Datei wird nicht unterstützt.;Формат файла не поддерживается.
+BIZ;noun;die;Verknüpfung;Verknüpfungen;;;;ярлык, связь;Ich lege eine **Verknüpfung** auf dem Desktop an.;Я создаю ярлык на рабочем столе.
+BIZ;noun;der;Cursor;Cursor;;;;курсор;Bewege den **Cursor** an das Ende der Zeile.;Перемести курсор в конец строки.
+BIZ;noun;der;Klick;Klicks;;;;клик, щелчок;Mit einem **Klick** ist der Bericht erstellt.;Отчёт создаётся одним кликом.
+BIZ;noun;die;Zwischenablage;Zwischenablagen;;;;буфер обмена;Der Text ist jetzt in der **Zwischenablage**.;Текст теперь в буфере обмена.
+BIZ;noun;der;Papierkorb;Papierkörbe;;;;корзина;Die gelöschte Datei liegt noch im **Papierkorb**.;Удалённый файл ещё лежит в корзине.
+BIZ;noun;die;Sicherungskopie;Sicherungskopien;;;;резервная копия;Mach vorher eine **Sicherungskopie** der Datenbank.;Сначала сделай резервную копию базы данных.
+BIZ;noun;das;Backup;Backups;;;;резервная копия, бэкап;Das **Backup** läuft jede Nacht automatisch.;Резервное копирование запускается автоматически каждую ночь.
+BIZ;noun;das;Internet;-;;;;интернет;Ohne **Internet** können wir heute nicht arbeiten.;Без интернета мы сегодня не можем работать.
+BIZ;noun;das;Netz;Netze;;;;сеть;Das **Netz** ist heute extrem langsam.;Сеть сегодня крайне медленная.
+BIZ;noun;das;Netzwerk;Netzwerke;;;;сеть;Der Drucker ist im **Netzwerk** nicht sichtbar.;Принтер не виден в сети.
+BIZ;noun;das;WLAN;WLANs;;;;Wi-Fi, беспроводная сеть;Wie lautet das Passwort für das **WLAN**?;Какой пароль от Wi-Fi?
+BIZ;noun;die;Verbindung;Verbindungen;;;;соединение, подключение;Die **Verbindung** zum Server wurde unterbrochen.;Соединение с сервером было прервано.
+BIZ;noun;die;Internetverbindung;Internetverbindungen;;;;подключение к интернету;Meine **Internetverbindung** bricht ständig ab.;Моё подключение к интернету постоянно обрывается.
+BIZ;noun;die;Bandbreite;Bandbreiten;;;;пропускная способность;Für Videokonferenzen braucht man genug **Bandbreite**.;Для видеоконференций нужна достаточная пропускная способность.
+BIZ;noun;der;Provider;Provider;;;;провайдер;Wir wechseln zu einem neuen **Provider**.;Мы переходим к новому провайдеру.
+BIZ;noun;die;Website;Websites;;;;веб-сайт;Die **Website** wird gerade überarbeitet.;Сайт сейчас перерабатывается.
+BIZ;noun;die;Webseite;Webseiten;;;;веб-страница, сайт;Auf dieser **Webseite** findest du die Doku.;На этой веб-странице ты найдёшь документацию.
+BIZ;noun;die;Homepage;Homepages;;;;главная страница, сайт;Die Kontaktdaten stehen auf unserer **Homepage**.;Контактные данные указаны на нашем сайте.
+BIZ;noun;der;Link;Links;;;;ссылка;Schick mir bitte den **Link** zum Meeting.;Пришли мне, пожалуйста, ссылку на встречу.
+BIZ;noun;die;Domain;Domains;;;;домен;Wir haben eine neue **Domain** registriert.;Мы зарегистрировали новый домен.
+BIZ;noun;die;IP-Adresse;IP-Adressen;;;;IP-адрес;Jedes Gerät bekommt eine eigene **IP-Adresse**.;Каждое устройство получает собственный IP-адрес.
+BIZ;noun;der;Download;Downloads;;;;загрузка, скачивание;Der **Download** dauert noch ein paar Minuten.;Скачивание займёт ещё несколько минут.
+BIZ;noun;der;Upload;Uploads;;;;выгрузка, загрузка на сервер;Der **Upload** der Videos ist fehlgeschlagen.;Загрузка видео на сервер не удалась.
+BIZ;noun;die;Suchmaschine;Suchmaschinen;;;;поисковая система;Unsere Seite soll in der **Suchmaschine** weiter oben erscheinen.;Наш сайт должен появляться выше в поисковой системе.
+BIZ;noun;das;Firmennetz;Firmennetze;;;;корпоративная сеть;Von zu Hause kommst du nur per VPN ins **Firmennetz**.;Из дома в корпоративную сеть можно попасть только через VPN.
+BIZ;noun;das;VPN;VPNs;;;;VPN;Verbinde dich zuerst mit dem **VPN**.;Сначала подключись к VPN.
+BIZ;noun;das;Intranet;Intranets;;;;интранет, внутренняя сеть;Die Formulare findest du im **Intranet**.;Бланки ты найдёшь в интранете.
+BIZ;noun;der;Zugang;Zugänge;;;;доступ;Ich habe noch keinen **Zugang** zum System.;У меня ещё нет доступа к системе.
+BIZ;noun;der;Zugriff;Zugriffe;;;;доступ;Nur Admins haben **Zugriff** auf diese Daten.;Доступ к этим данным есть только у админов.
+BIZ;noun;der;Port;Ports;;;;порт;Der Dienst läuft auf **Port** 8080.;Сервис работает на порту 8080.
+BIZ;noun;die;Firewall;Firewalls;;;;брандмауэр, файрвол;Die **Firewall** blockiert diese Verbindung.;Брандмауэр блокирует это соединение.
+BIZ;noun;die;Störung;Störungen;;;;сбой, неполадка;Wegen einer **Störung** ist das Netz ausgefallen.;Из-за сбоя сеть перестала работать.
+BIZ;noun;der;Ausfall;Ausfälle;;;;отказ, сбой, простой;Der **Ausfall** des Servers hat zwei Stunden gedauert.;Сбой сервера длился два часа.
+BIZ;noun;die;Ladezeit;Ladezeiten;;;;время загрузки;Wir müssen die **Ladezeit** der Seite verkürzen.;Нам нужно сократить время загрузки страницы.
+BIZ;noun;der;Traffic;-;;;;трафик;Am Montag hatten wir sehr viel **Traffic** auf der Seite.;В понедельник у нас был очень большой трафик на сайте.
+BIZ;noun;der;Hotspot;Hotspots;;;;точка доступа;Ich arbeite über den **Hotspot** meines Handys.;Я работаю через точку доступа своего телефона.
+BIZ;noun;der;Stream;Streams;;;;трансляция, поток;Der **Stream** der Konferenz startet um neun.;Трансляция конференции начинается в девять.
+BIZ;noun;der;Code;Codes;;;;код;Der **Code** ist gut dokumentiert.;Код хорошо задокументирован.
+BIZ;noun;der;Quellcode;Quellcodes;;;;исходный код;Der **Quellcode** liegt auf GitHub.;Исходный код лежит на GitHub.
+BIZ;noun;der;Programmierer;Programmierer;;;;программист;Wir suchen einen erfahrenen **Programmierer** für Java.;Мы ищем опытного программиста на Java.
+BIZ;noun;die;Programmiererin;Programmiererinnen;;;;программистка;Die **Programmiererin** hat den Fehler schnell gefunden.;Программистка быстро нашла ошибку.
+BIZ;noun;der;Entwickler;Entwickler;;;;разработчик;Zwei **Entwickler** arbeiten an der neuen App.;Над новым приложением работают два разработчика.
+BIZ;noun;die;Entwicklerin;Entwicklerinnen;;;;разработчица;Sie arbeitet als **Entwicklerin** in einem Start-up.;Она работает разработчицей в стартапе.
+BIZ;noun;die;Softwareentwicklung;-;;;;разработка программного обеспечения;Er hat zehn Jahre Erfahrung in der **Softwareentwicklung**.;У него десять лет опыта в разработке ПО.
+BIZ;noun;die;Programmiersprache;Programmiersprachen;;;;язык программирования;Python ist eine beliebte **Programmiersprache**.;Python — популярный язык программирования.
+BIZ;noun;der;Fehler;Fehler;;;;ошибка;Im Code ist noch ein kleiner **Fehler**.;В коде ещё есть небольшая ошибка.
+BIZ;noun;der;Bug;Bugs;;;;баг, ошибка;Der **Bug** tritt nur unter Android auf.;Баг проявляется только на Android.
+BIZ;noun;die;Fehlermeldung;Fehlermeldungen;;;;сообщение об ошибке;Schick mir bitte einen Screenshot der **Fehlermeldung**.;Пришли мне, пожалуйста, скриншот сообщения об ошибке.
+BIZ;noun;die;Fehlerbehebung;Fehlerbehebungen;;;;устранение ошибок;Die **Fehlerbehebung** hat länger gedauert als geplant.;Устранение ошибки заняло больше времени, чем планировалось.
+BIZ;noun;der;Absturz;Abstürze;;;;сбой, падение (программы);Nach dem **Absturz** waren alle Daten weg.;После сбоя все данные пропали.
+BIZ;noun;der;Algorithmus;Algorithmen;;;;алгоритм;Der **Algorithmus** sortiert die Ergebnisse nach Relevanz.;Алгоритм сортирует результаты по релевантности.
+BIZ;noun;die;Variable;Variablen;;;;переменная;Diese **Variable** wird nirgends verwendet.;Эта переменная нигде не используется.
+BIZ;noun;die;Schleife;Schleifen;;;;цикл;Das Programm hängt in einer endlosen **Schleife**.;Программа зависла в бесконечном цикле.
+BIZ;noun;die;Bibliothek;Bibliotheken;;;;библиотека;Für Diagramme nutzen wir eine externe **Bibliothek**.;Для диаграмм мы используем внешнюю библиотеку.
+BIZ;noun;das;Framework;Frameworks;;;;фреймворк;Welches **Framework** benutzt ihr für das Frontend?;Какой фреймворк вы используете для фронтенда?
+BIZ;noun;das;Frontend;Frontends;;;;фронтенд, клиентская часть;Sie ist für das **Frontend** zuständig.;Она отвечает за фронтенд.
+BIZ;noun;das;Backend;Backends;;;;бэкенд, серверная часть;Das **Backend** ist in Go geschrieben.;Бэкенд написан на Go.
+BIZ;noun;die;Datenbankabfrage;Datenbankabfragen;;;;запрос к базе данных;Die **Datenbankabfrage** ist viel zu langsam.;Запрос к базе данных слишком медленный.
+BIZ;noun;das;Skript;Skripte;;;;скрипт;Ein kleines **Skript** erledigt das automatisch.;Небольшой скрипт делает это автоматически.
+BIZ;noun;die;Codezeile;Codezeilen;;;;строка кода;Das Projekt hat über hunderttausend **Codezeilen**.;В проекте более ста тысяч строк кода.
+BIZ;noun;der;Test;Tests;;;;тест;Alle **Tests** sind erfolgreich durchgelaufen.;Все тесты успешно пройдены.
+BIZ;noun;das;Testing;-;;;;тестирование;Für das **Testing** ist ein eigenes Team zuständig.;За тестирование отвечает отдельная команда.
+BIZ;noun;der;Tester;Tester;;;;тестировщик;Der **Tester** hat drei neue Fehler gemeldet.;Тестировщик сообщил о трёх новых ошибках.
+BIZ;noun;das;Release;Releases;;;;релиз, выпуск;Das nächste **Release** ist für Mai geplant.;Следующий релиз запланирован на май.
+BIZ;noun;das;Deployment;Deployments;;;;развёртывание, деплой;Das **Deployment** läuft automatisch über die Pipeline.;Деплой выполняется автоматически через пайплайн.
+BIZ;noun;die;Entwicklungsumgebung;Entwicklungsumgebungen;;;;среда разработки;Ich nutze Visual Studio Code als **Entwicklungsumgebung**.;В качестве среды разработки я использую Visual Studio Code.
+BIZ;noun;die;Testumgebung;Testumgebungen;;;;тестовая среда;Teste die Änderung zuerst in der **Testumgebung**.;Сначала протестируй изменение в тестовой среде.
+BIZ;noun;der;Branch;Branches;;;;ветка (в Git);Erstelle für jedes Feature einen eigenen **Branch**.;Создавай для каждой функции отдельную ветку.
+BIZ;noun;der;Commit;Commits;;;;коммит;Der letzte **Commit** hat den Build kaputt gemacht.;Последний коммит сломал сборку.
+BIZ;noun;das;Repository;Repositorys;;;;репозиторий;Das **Repository** ist nur intern zugänglich.;Репозиторий доступен только внутри компании.
+BIZ;noun;die;Versionskontrolle;Versionskontrollen;;;;контроль версий;Ohne **Versionskontrolle** arbeitet bei uns niemand.;Без контроля версий у нас никто не работает.
+BIZ;noun;das;Code-Review;Code-Reviews;;;;ревью кода;Jede Änderung braucht ein **Code-Review**.;Каждое изменение требует ревью кода.
+BIZ;noun;die;Dokumentation;Dokumentationen;;;;документация;Die **Dokumentation** ist leider nicht aktuell.;Документация, к сожалению, неактуальна.
+BIZ;noun;das;Feature;Features;;;;функция, фича;Das neue **Feature** kommt bei den Nutzern gut an.;Новая функция хорошо принята пользователями.
+BIZ;noun;der;Prototyp;Prototypen;;;;прототип;Bis Freitag zeigen wir einen ersten **Prototyp**.;До пятницы мы покажем первый прототип.
+BIZ;noun;die;Architektur;Architekturen;;;;архитектура;Die **Architektur** des Systems ist zu kompliziert.;Архитектура системы слишком сложная.
+BIZ;noun;die;Programmierung;Programmierungen;;;;программирование;Die **Programmierung** der Schnittstelle dauert zwei Wochen.;Программирование интерфейса займёт две недели.
+BIZ;noun;der;Compiler;Compiler;;;;компилятор;Der **Compiler** zeigt eine Warnung an.;Компилятор выдаёт предупреждение.
+BIZ;noun;die;Abhängigkeit;Abhängigkeiten;;;;зависимость;Wir müssen die **Abhängigkeiten** des Projekts aktualisieren.;Нам нужно обновить зависимости проекта.
+BIZ;noun;die;Daten;pl;;;;данные;Die **Daten** werden verschlüsselt übertragen.;Данные передаются в зашифрованном виде.
+BIZ;noun;die;Datenbank;Datenbanken;;;;база данных;Alle Kunden sind in der **Datenbank** gespeichert.;Все клиенты сохранены в базе данных.
+BIZ;noun;der;Datensatz;Datensätze;;;;запись (в базе данных), набор данных;Die Tabelle enthält über eine Million **Datensätze**.;Таблица содержит более миллиона записей.
+BIZ;noun;die;Abfrage;Abfragen;;;;запрос;Mit dieser **Abfrage** findest du alle offenen Tickets.;С помощью этого запроса ты найдёшь все открытые тикеты.
+BIZ;noun;die;Spalte;Spalten;;;;столбец, колонка;Füge der Tabelle eine neue **Spalte** hinzu.;Добавь в таблицу новый столбец.
+BIZ;noun;die;Zeile;Zeilen;;;;строка;Der Fehler steht in **Zeile** 42.;Ошибка находится в строке 42.
+BIZ;noun;das;Feld;Felder;;;;поле;Dieses **Feld** darf nicht leer bleiben.;Это поле не должно оставаться пустым.
+BIZ;noun;die;Datenmenge;Datenmengen;;;;объём данных;Die **Datenmenge** wächst jedes Jahr stark.;Объём данных сильно растёт каждый год.
+BIZ;noun;die;Datenanalyse;Datenanalysen;;;;анализ данных;Für die **Datenanalyse** nutzen wir Python.;Для анализа данных мы используем Python.
+BIZ;noun;die;Datenverarbeitung;-;;;;обработка данных;Die **Datenverarbeitung** erfolgt nur in der EU.;Обработка данных происходит только в ЕС.
+BIZ;noun;die;Datenübertragung;Datenübertragungen;;;;передача данных;Die **Datenübertragung** ist Ende-zu-Ende verschlüsselt.;Передача данных защищена сквозным шифрованием.
+BIZ;noun;die;Speicherkapazität;Speicherkapazitäten;;;;ёмкость памяти, объём хранилища;Wir brauchen mehr **Speicherkapazität** in der Cloud.;Нам нужно больше места в облаке.
+BIZ;noun;die;Migration;Migrationen;;;;миграция;Die **Migration** der Daten ist am Wochenende geplant.;Миграция данных запланирована на выходные.
+BIZ;noun;der;Speicherplatz;-;;;;место на диске;Auf dem Laufwerk ist kaum noch **Speicherplatz** frei.;На диске почти не осталось свободного места.
+BIZ;noun;die;Statistik;Statistiken;;;;статистика;Die **Statistik** zeigt die Zahl der aktiven Nutzer.;Статистика показывает число активных пользователей.
+BIZ;noun;das;Diagramm;Diagramme;;;;диаграмма;Das **Diagramm** zeigt die Serverlast pro Stunde.;Диаграмма показывает нагрузку на сервер по часам.
+BIZ;noun;die;Auswertung;Auswertungen;;;;анализ, обработка (результатов);Die **Auswertung** der Logdaten dauert noch.;Анализ логов ещё продолжается.
+BIZ;noun;das;Logfile;Logfiles;;;;лог-файл, журнал;Im **Logfile** steht die genaue Fehlermeldung.;В лог-файле указано точное сообщение об ошибке.
+BIZ;noun;die;Cloud;Clouds;;;;облако;Unsere Dokumente liegen alle in der **Cloud**.;Все наши документы хранятся в облаке.
+BIZ;noun;der;Cloud-Speicher;Cloud-Speicher;;;;облачное хранилище;Der **Cloud-Speicher** ist für alle Mitarbeiter verfügbar.;Облачное хранилище доступно всем сотрудникам.
+BIZ;noun;der;Anbieter;Anbieter;;;;поставщик, провайдер;Wir vergleichen gerade mehrere Cloud-**Anbieter**.;Мы сейчас сравниваем нескольких облачных провайдеров.
+BIZ;noun;der;Dienst;Dienste;;;;сервис, служба;Der **Dienst** ist vorübergehend nicht verfügbar.;Сервис временно недоступен.
+BIZ;noun;das;Hosting;-;;;;хостинг;Das **Hosting** kostet uns zwanzig Euro im Monat.;Хостинг обходится нам в двадцать евро в месяц.
+BIZ;noun;die;Synchronisierung;Synchronisierungen;;;;синхронизация;Die **Synchronisierung** mit dem Handy dauert etwas.;Синхронизация с телефоном занимает некоторое время.
+BIZ;noun;die;Skalierbarkeit;-;;;;масштабируемость;**Skalierbarkeit** ist für unsere Plattform sehr wichtig.;Масштабируемость очень важна для нашей платформы.
+BIZ;noun;die;Plattform;Plattformen;;;;платформа;Die **Plattform** hat inzwischen zwei Millionen Nutzer.;У платформы уже два миллиона пользователей.
+BIZ;noun;die;Virtualisierung;Virtualisierungen;;;;виртуализация;Durch **Virtualisierung** sparen wir viele Server.;Благодаря виртуализации мы экономим много серверов.
+BIZ;noun;die;Sicherheit;-;;;;безопасность;Die **Sicherheit** unserer Daten hat höchste Priorität.;Безопасность наших данных имеет наивысший приоритет.
+BIZ;noun;die;IT-Sicherheit;-;;;;информационная безопасность;Er ist bei uns für die **IT-Sicherheit** verantwortlich.;Он отвечает у нас за информационную безопасность.
+BIZ;noun;das;Passwort;Passwörter;;;;пароль;Dein **Passwort** muss mindestens zwölf Zeichen haben.;Твой пароль должен содержать не менее двенадцати символов.
+BIZ;noun;das;Kennwort;Kennwörter;;;;пароль;Bitte ändern Sie Ihr **Kennwort** alle drei Monate.;Пожалуйста, меняйте пароль каждые три месяца.
+BIZ;noun;der;Benutzername;Benutzernamen;;;;имя пользователя, логин;Geben Sie Ihren **Benutzernamen** und Ihr Passwort ein.;Введите имя пользователя и пароль.
+BIZ;noun;der;Account;Accounts;;;;аккаунт, учётная запись;Für das Tool brauchst du einen eigenen **Account**.;Для этого инструмента тебе нужен собственный аккаунт.
+BIZ;noun;die;Anmeldung;Anmeldungen;;;;вход (в систему), авторизация;Die **Anmeldung** funktioniert nur mit dem Firmenkonto.;Вход возможен только с корпоративной учётной записью.
+BIZ;noun;die;Verschlüsselung;Verschlüsselungen;;;;шифрование;Alle E-Mails werden mit starker **Verschlüsselung** geschützt.;Все письма защищены надёжным шифрованием.
+BIZ;noun;die;Zwei-Faktor-Authentifizierung;Zwei-Faktor-Authentifizierungen;;;;двухфакторная аутентификация;Bitte aktivieren Sie die **Zwei-Faktor-Authentifizierung**.;Пожалуйста, включите двухфакторную аутентификацию.
+BIZ;noun;die;Berechtigung;Berechtigungen;;;;право доступа, разрешение;Dir fehlt die **Berechtigung** für diesen Ordner.;У тебя нет прав доступа к этой папке.
+BIZ;noun;das;Virus;Viren;;;;вирус;Der Anhang enthielt einen gefährlichen **Virus**.;Вложение содержало опасный вирус.
+BIZ;noun;die;Schadsoftware;-;;;;вредоносное ПО;Das Antivirenprogramm hat **Schadsoftware** gefunden.;Антивирус обнаружил вредоносное ПО.
+BIZ;noun;der;Virenscanner;Virenscanner;;;;антивирус;Der **Virenscanner** prüft alle Downloads automatisch.;Антивирус автоматически проверяет все загрузки.
+BIZ;noun;der;Hacker;Hacker;;;;хакер;**Hacker** haben versucht, in das System einzudringen.;Хакеры пытались проникнуть в систему.
+BIZ;noun;der;Hackerangriff;Hackerangriffe;;;;хакерская атака;Nach dem **Hackerangriff** mussten alle Passwörter geändert werden.;После хакерской атаки пришлось сменить все пароли.
+BIZ;noun;der;Cyberangriff;Cyberangriffe;;;;кибератака;Ein **Cyberangriff** hat die Produktion lahmgelegt.;Кибератака парализовала производство.
+BIZ;noun;die;Sicherheitslücke;Sicherheitslücken;;;;уязвимость, брешь в защите;Das Update schließt eine kritische **Sicherheitslücke**.;Обновление закрывает критическую уязвимость.
+BIZ;noun;die;Phishing-Mail;Phishing-Mails;;;;фишинговое письмо;Klicke nie auf Links in einer **Phishing-Mail**.;Никогда не нажимай на ссылки в фишинговом письме.
+BIZ;noun;das;Datenleck;Datenlecks;;;;утечка данных;Durch ein **Datenleck** wurden Kundendaten veröffentlicht.;Из-за утечки данных были опубликованы данные клиентов.
+BIZ;noun;die;künstliche Intelligenz;-;;;;искусственный интеллект;Wir setzen **künstliche Intelligenz** im Kundenservice ein.;Мы используем искусственный интеллект в клиентском сервисе.
+BIZ;noun;die;KI;-;;;;ИИ (искусственный интеллект);Die **KI** schreibt erste Entwürfe für unsere Texte.;ИИ пишет первые черновики наших текстов.
+BIZ;noun;das;maschinelle Lernen;-;;;;машинное обучение;Mit **maschinellem Lernen** erkennen wir Betrugsversuche.;С помощью машинного обучения мы распознаём попытки мошенничества.
+BIZ;noun;das;Modell;Modelle;;;;модель;Das **Modell** wurde mit Millionen Texten trainiert.;Модель была обучена на миллионах текстов.
+BIZ;noun;der;Chatbot;Chatbots;;;;чат-бот;Der **Chatbot** beantwortet einfache Kundenfragen.;Чат-бот отвечает на простые вопросы клиентов.
+BIZ;noun;der;Prompt;Prompts;;;;промпт, запрос (к ИИ);Mit einem besseren **Prompt** bekommst du bessere Antworten.;С лучшим промптом ты получишь лучшие ответы.
+BIZ;noun;die;Automatisierung;Automatisierungen;;;;автоматизация;Durch **Automatisierung** sparen wir viel Zeit.;Благодаря автоматизации мы экономим много времени.
+BIZ;noun;die;Digitalisierung;-;;;;цифровизация;Die **Digitalisierung** verändert unsere Arbeitsweise.;Цифровизация меняет наш способ работы.
+BIZ;noun;die;Trainingsdaten;pl;;;;обучающие данные;Die Qualität der **Trainingsdaten** ist entscheidend.;Качество обучающих данных имеет решающее значение.
+BIZ;noun;der;Sprint;Sprints;;;;спринт;Im nächsten **Sprint** bauen wir die Suchfunktion.;В следующем спринте мы сделаем функцию поиска.
+BIZ;noun;das;Ticket;Tickets;;;;тикет, заявка;Bitte leg für das Problem ein **Ticket** an.;Пожалуйста, создай тикет по этой проблеме.
+BIZ;noun;das;Backlog;Backlogs;;;;бэклог;Die Aufgabe steht ganz oben im **Backlog**.;Эта задача стоит на самом верху бэклога.
+BIZ;noun;der;Product Owner;Product Owner;;;;владелец продукта;Der **Product Owner** legt die Prioritäten fest.;Владелец продукта определяет приоритеты.
+BIZ;noun;das;Daily;Dailys;;;;ежедневная планёрка, дейли;Im **Daily** berichtet jeder kurz über seine Aufgaben.;На дейли каждый коротко рассказывает о своих задачах.
+BIZ;noun;die;Anforderung;Anforderungen;;;;требование;Die **Anforderungen** des Kunden haben sich geändert.;Требования клиента изменились.
+BIZ;noun;das;Lastenheft;Lastenhefte;;;;техническое задание (от заказчика);Im **Lastenheft** stehen alle Wünsche des Kunden.;В техническом задании перечислены все пожелания клиента.
+BIZ;noun;die;Benutzerfreundlichkeit;-;;;;удобство использования, юзабилити;Die **Benutzerfreundlichkeit** der App muss besser werden.;Удобство использования приложения нужно улучшить.
+BIZ;noun;der;Benutzer;Benutzer;;;;пользователь;Der **Benutzer** kann sein Profil selbst bearbeiten.;Пользователь может сам редактировать свой профиль.
+BIZ;noun;der;Nutzer;Nutzer;;;;пользователь;Die meisten **Nutzer** kommen über das Smartphone.;Большинство пользователей заходят со смартфона.
+BIZ;noun;der;Administrator;Administratoren;;;;администратор;Wende dich bitte an den **Administrator**.;Обратись, пожалуйста, к администратору.
+BIZ;noun;der;Admin;Admins;;;;админ;Nur der **Admin** kann neue Benutzer anlegen.;Только админ может создавать новых пользователей.
+BIZ;noun;der;Support;-;;;;техподдержка;Ich habe den **Support** schon zweimal angerufen.;Я уже дважды звонил в техподдержку.
+BIZ;noun;der;Helpdesk;Helpdesks;;;;служба поддержки, хелпдеск;Der **Helpdesk** ist von acht bis achtzehn Uhr erreichbar.;Служба поддержки доступна с восьми до восемнадцати часов.
+BIZ;noun;die;IT-Abteilung;IT-Abteilungen;;;;IT-отдел;Die **IT-Abteilung** richtet deinen Laptop ein.;IT-отдел настроит твой ноутбук.
+BIZ;noun;der;Fernzugriff;Fernzugriffe;;;;удалённый доступ;Darf ich per **Fernzugriff** auf Ihren Rechner zugreifen?;Можно мне подключиться к вашему компьютеру через удалённый доступ?
+BIZ;noun;der;Screenshot;Screenshots;;;;скриншот, снимок экрана;Mach bitte einen **Screenshot** von der Meldung.;Сделай, пожалуйста, скриншот сообщения.
+BIZ;noun;die;Anleitung;Anleitungen;;;;инструкция, руководство;Die **Anleitung** erklärt jeden Schritt genau.;Инструкция подробно объясняет каждый шаг.
+BIZ;noun;die;E-Mail;E-Mails;;;;электронное письмо, имейл;Ich habe deine **E-Mail** gerade erst gelesen.;Я только что прочитал твоё письмо.
+BIZ;noun;der;Anhang;Anhänge;;;;вложение;Der **Anhang** ist zu groß zum Versenden.;Вложение слишком большое для отправки.
+BIZ;noun;der;Posteingang;Posteingänge;;;;входящие (почта);Mein **Posteingang** ist voll mit Spam.;Мой ящик входящих полон спама.
+BIZ;noun;der;Spam;-;;;;спам;Die Mail ist leider im **Spam** gelandet.;Письмо, к сожалению, попало в спам.
+BIZ;noun;die;Videokonferenz;Videokonferenzen;;;;видеоконференция;Die **Videokonferenz** beginnt in fünf Minuten.;Видеоконференция начнётся через пять минут.
+BIZ;noun;der;Chat;Chats;;;;чат;Schreib mir einfach im **Chat**, wenn du fertig bist.;Просто напиши мне в чат, когда закончишь.
+BIZ;noun;die;Benachrichtigung;Benachrichtigungen;;;;уведомление;Ich habe die **Benachrichtigungen** am Abend ausgeschaltet.;Вечером я отключаю уведомления.
+BIZ;noun;die;Nachricht;Nachrichten;;;;сообщение;Du hast eine neue **Nachricht** in Slack.;У тебя новое сообщение в Slack.
+BIZ;noun;die;Bildschirmfreigabe;Bildschirmfreigaben;;;;демонстрация экрана;Kannst du die **Bildschirmfreigabe** kurz starten?;Можешь ненадолго включить демонстрацию экрана?
+BIZ;noun;der;Passwortmanager;Passwortmanager;;;;менеджер паролей;Ein **Passwortmanager** speichert alle Zugangsdaten sicher.;Менеджер паролей надёжно хранит все данные для входа.
+BIZ;noun;die;Zugangsdaten;pl;;;;данные для входа;Die **Zugangsdaten** bekommst du vom Admin.;Данные для входа ты получишь от админа.
+BIZ;verb;;speichern;;;speicherte;hat gespeichert;сохранять;Hast du das Dokument schon **gespeichert**?;Ты уже сохранил документ?
+BIZ;verb;;herunterladen;;er lädt herunter;lud herunter;hat heruntergeladen;скачивать, загружать;Ich habe die neue Version schon **heruntergeladen**.;Я уже скачал новую версию.
+BIZ;verb;;hochladen;;er lädt hoch;lud hoch;hat hochgeladen;загружать (на сервер), выкладывать;Kannst du die Präsentation in die Cloud **hochladen**?;Можешь загрузить презентацию в облако?
+BIZ;verb;;installieren;;;installierte;hat installiert;устанавливать;Die IT hat mir das Programm **installiert**.;IT-отдел установил мне программу.
+BIZ;verb;;deinstallieren;;;deinstallierte;hat deinstalliert;удалять (программу), деинсталлировать;Ich habe die alte App **deinstalliert**.;Я удалил старое приложение.
+BIZ;verb;;aktualisieren;;;aktualisierte;hat aktualisiert;обновлять;Bitte **aktualisieren** Sie Ihren Browser.;Пожалуйста, обновите свой браузер.
+BIZ;verb;;updaten;;;updatete;hat upgedatet;обновлять;Ich muss noch mein Handy **updaten**.;Мне ещё нужно обновить телефон.
+BIZ;verb;;löschen;;;löschte;hat gelöscht;удалять, стирать;Wer hat die Datei **gelöscht**?;Кто удалил файл?
+BIZ;verb;;kopieren;;;kopierte;hat kopiert;копировать;Ich habe den Text in die Mail **kopiert**.;Я скопировал текст в письмо.
+BIZ;verb;;einfügen;;;fügte ein;hat eingefügt;вставлять;Hast du den Link schon **eingefügt**?;Ты уже вставил ссылку?
+BIZ;verb;;ausschneiden;;;schnitt aus;hat ausgeschnitten;вырезать;Ich habe den Absatz **ausgeschnitten** und verschoben.;Я вырезал абзац и переместил его.
+BIZ;verb;;klicken;;;klickte;hat geklickt;кликать, щёлкать;Ich habe auf den falschen Button **geklickt**.;Я нажал не на ту кнопку.
+BIZ;verb;;tippen;;;tippte;hat getippt;набирать (текст), печатать;Sie **tippt** sehr schnell auf der Tastatur.;Она очень быстро печатает на клавиатуре.
+BIZ;verb;;eingeben;;er gibt ein;gab ein;hat eingegeben;вводить;Haben Sie das richtige Passwort **eingegeben**?;Вы ввели правильный пароль?
+BIZ;verb;;sich anmelden;;;meldete sich an;hat sich angemeldet;входить (в систему), авторизоваться;Ich kann **mich** nicht **anmelden**.;Я не могу войти в систему.
+BIZ;verb;;sich einloggen;;;loggte sich ein;hat sich eingeloggt;входить (в аккаунт), логиниться;Hast du **dich** schon **eingeloggt**?;Ты уже залогинился?
+BIZ;verb;;sich abmelden;;;meldete sich ab;hat sich abgemeldet;выходить (из системы);Vergiss nicht, **dich abzumelden**.;Не забудь выйти из системы.
+BIZ;verb;;sich ausloggen;;;loggte sich aus;hat sich ausgeloggt;выходить (из аккаунта), разлогиниться;Ich habe **mich** auf allen Geräten **ausgeloggt**.;Я вышел из аккаунта на всех устройствах.
+BIZ;verb;;starten;;;startete;hat gestartet;запускать;Hast du das Programm neu **gestartet**?;Ты перезапустил программу?
+BIZ;verb;;neu starten;;;startete neu;hat neu gestartet;перезагружать, перезапускать;Ich habe den Rechner gerade **neu gestartet**.;Я только что перезагрузил компьютер.
+BIZ;verb;;hochfahren;;er fährt hoch;fuhr hoch;hat hochgefahren;загружать (включать компьютер);Der Rechner braucht lange zum **Hochfahren**.;Компьютеру нужно много времени на загрузку.
+BIZ;verb;;herunterfahren;;er fährt herunter;fuhr herunter;hat heruntergefahren;выключать (компьютер);Bitte **fahrt** die Rechner am Abend **herunter**.;Пожалуйста, выключайте компьютеры вечером.
+BIZ;verb;;abstürzen;;;stürzte ab;ist abgestürzt;зависать, падать (о программе);Das Programm ist schon wieder **abgestürzt**.;Программа опять упала.
+BIZ;verb;;hängen;;;hing;hat gehangen;зависать;Der Browser **hängt** schon seit fünf Minuten.;Браузер висит уже пять минут.
+BIZ;verb;;programmieren;;;programmierte;hat programmiert;программировать;Er **programmiert** seit zehn Jahren in Java.;Он программирует на Java уже десять лет.
+BIZ;verb;;entwickeln;;;entwickelte;hat entwickelt;разрабатывать;Wir **entwickeln** eine App für Ärzte.;Мы разрабатываем приложение для врачей.
+BIZ;verb;;testen;;;testete;hat getestet;тестировать;Hast du die Funktion gründlich **getestet**?;Ты тщательно протестировал функцию?
+BIZ;verb;;beheben;;;behob;hat behoben;устранять, исправлять;Wir haben den Fehler gestern **behoben**.;Мы вчера устранили ошибку.
+BIZ;verb;;debuggen;;;debuggte;hat gedebuggt;отлаживать;Ich **debugge** den Code schon seit zwei Stunden.;Я отлаживаю код уже два часа.
+BIZ;verb;;kompilieren;;;kompilierte;hat kompiliert;компилировать;Der Code lässt sich nicht **kompilieren**.;Код не компилируется.
+BIZ;verb;;implementieren;;;implementierte;hat implementiert;внедрять, реализовывать;Wir **implementieren** die neue Schnittstelle bis Ende Mai.;Мы реализуем новый интерфейс до конца мая.
+BIZ;verb;;ausführen;;;führte aus;hat ausgeführt;выполнять, запускать;Ich habe das Skript zweimal **ausgeführt**.;Я дважды запустил скрипт.
+BIZ;verb;;laufen;;er läuft;lief;ist gelaufen;работать (о программе), выполняться;Die App **läuft** stabil auf allen Geräten.;Приложение стабильно работает на всех устройствах.
+BIZ;verb;;einrichten;;;richtete ein;hat eingerichtet;настраивать, устанавливать;Die IT hat mein E-Mail-Konto **eingerichtet**.;IT-отдел настроил мою почту.
+BIZ;verb;;konfigurieren;;;konfigurierte;hat konfiguriert;конфигурировать, настраивать;Der Server muss neu **konfiguriert** werden.;Сервер нужно настроить заново.
+BIZ;verb;;verbinden;;;verband;hat verbunden;соединять, подключать;Ich habe das Headset per Bluetooth **verbunden**.;Я подключил гарнитуру по Bluetooth.
+BIZ;verb;;anschließen;;;schloss an;hat angeschlossen;подключать (устройство);Hast du den Drucker schon **angeschlossen**?;Ты уже подключил принтер?
+BIZ;verb;;synchronisieren;;;synchronisierte;hat synchronisiert;синхронизировать;Das Handy **synchronisiert** die Kontakte automatisch.;Телефон автоматически синхронизирует контакты.
+BIZ;verb;;sichern;;;sicherte;hat gesichert;сохранять, делать резервную копию;Wir **sichern** alle Daten täglich.;Мы ежедневно делаем резервную копию всех данных.
+BIZ;verb;;wiederherstellen;;;stellte wieder her;hat wiederhergestellt;восстанавливать;Wir konnten die Daten zum Glück **wiederherstellen**.;К счастью, нам удалось восстановить данные.
+BIZ;verb;;verschlüsseln;;;verschlüsselte;hat verschlüsselt;шифровать;Alle Festplatten werden **verschlüsselt**.;Все жёсткие диски шифруются.
+BIZ;verb;;entschlüsseln;;;entschlüsselte;hat entschlüsselt;расшифровывать;Ohne Schlüssel kann man die Datei nicht **entschlüsseln**.;Без ключа файл нельзя расшифровать.
+BIZ;verb;;sperren;;;sperrte;hat gesperrt;блокировать;Nach drei Fehlversuchen wird das Konto **gesperrt**.;После трёх неудачных попыток учётная запись блокируется.
+BIZ;verb;;entsperren;;;entsperrte;hat entsperrt;разблокировать;Kannst du mein Konto bitte **entsperren**?;Можешь, пожалуйста, разблокировать мою учётную запись?
+BIZ;verb;;zurücksetzen;;;setzte zurück;hat zurückgesetzt;сбрасывать;Ich habe mein Passwort **zurückgesetzt**.;Я сбросил свой пароль.
+BIZ;verb;;scannen;;;scannte;hat gescannt;сканировать;Ich **scanne** den Vertrag und schicke ihn dir.;Я отсканирую договор и пришлю его тебе.
+BIZ;verb;;drucken;;;druckte;hat gedruckt;печатать (на принтере);Kannst du mir die Folien **drucken**?;Можешь распечатать мне слайды?
+BIZ;verb;;suchen;;;suchte;hat gesucht;искать;Ich **suche** die Datei schon seit einer Stunde.;Я ищу файл уже час.
+BIZ;verb;;googeln;;;googelte;hat gegoogelt;гуглить;Ich habe die Fehlermeldung kurz **gegoogelt**.;Я быстро погуглил сообщение об ошибке.
+BIZ;verb;;surfen;;;surfte;hat gesurft;сидеть в интернете, сёрфить;Er **surft** in der Pause im Internet.;В перерыве он сидит в интернете.
+BIZ;verb;;streamen;;;streamte;hat gestreamt;транслировать, стримить;Wir **streamen** die Präsentation live.;Мы транслируем презентацию в прямом эфире.
+BIZ;verb;;teilen;;;teilte;hat geteilt;делиться, расшаривать;Ich **teile** jetzt meinen Bildschirm.;Сейчас я покажу свой экран.
+BIZ;verb;;anhängen;;;hängte an;hat angehängt;прикреплять (файл);Ich habe die Rechnung als PDF **angehängt**.;Я прикрепил счёт в формате PDF.
+BIZ;verb;;versenden;;;versandte;hat versandt;отправлять, рассылать;Der Newsletter wird jeden Montag **versendet**.;Рассылка отправляется каждый понедельник.
+BIZ;verb;;chatten;;;chattete;hat gechattet;переписываться в чате;Wir **chatten** meistens über Teams.;Мы переписываемся в основном через Teams.
+BIZ;verb;;digitalisieren;;;digitalisierte;hat digitalisiert;оцифровывать;Wir **digitalisieren** alle alten Akten.;Мы оцифровываем все старые документы.
+BIZ;verb;;automatisieren;;;automatisierte;hat automatisiert;автоматизировать;Diesen Prozess können wir leicht **automatisieren**.;Этот процесс мы легко можем автоматизировать.
+BIZ;verb;;trainieren;;;trainierte;hat trainiert;обучать (модель);Wir **trainieren** das Modell mit eigenen Daten.;Мы обучаем модель на собственных данных.
+BIZ;verb;;generieren;;;generierte;hat generiert;генерировать;Die KI hat den Text in Sekunden **generiert**.;ИИ сгенерировал текст за секунды.
+BIZ;verb;;verarbeiten;;;verarbeitete;hat verarbeitet;обрабатывать;Das System **verarbeitet** tausend Anfragen pro Sekunde.;Система обрабатывает тысячу запросов в секунду.
+BIZ;verb;;übertragen;;er überträgt;übertrug;hat übertragen;передавать;Die Daten werden verschlüsselt **übertragen**.;Данные передаются в зашифрованном виде.
+BIZ;verb;;abrufen;;;rief ab;hat abgerufen;получать, загружать (данные);Ich habe meine E-Mails noch nicht **abgerufen**.;Я ещё не проверил почту.
+BIZ;verb;;filtern;;;filterte;hat gefiltert;фильтровать;Du kannst die Liste nach Datum **filtern**.;Ты можешь отфильтровать список по дате.
+BIZ;verb;;sortieren;;;sortierte;hat sortiert;сортировать;Die Tabelle ist nach Namen **sortiert**.;Таблица отсортирована по именам.
+BIZ;verb;;migrieren;;;migrierte;hat migriert;мигрировать, переносить;Wir **migrieren** alle Daten in die Cloud.;Мы переносим все данные в облако.
+BIZ;verb;;hosten;;;hostete;hat gehostet;размещать на хостинге;Wir **hosten** die Website bei einem deutschen Anbieter.;Мы размещаем сайт у немецкого провайдера.
+BIZ;verb;;ausfallen;;er fällt aus;fiel aus;ist ausgefallen;выходить из строя, отказывать;Heute Morgen ist das Netz komplett **ausgefallen**.;Сегодня утром сеть полностью отказала.
+BIZ;verb;;freigeben;;er gibt frei;gab frei;hat freigegeben;открывать доступ, утверждать;Ich habe den Ordner für das Team **freigegeben**.;Я открыл доступ к папке для команды.
+BIZ;verb;;zugreifen;;;griff zu;hat zugegriffen;получать доступ;Von zu Hause kann ich nicht auf den Server **zugreifen**.;Из дома я не могу получить доступ к серверу.
+BIZ;adj;;digital;;;;;цифровой;Wir unterschreiben Verträge nur noch **digital**.;Теперь мы подписываем договоры только в цифровом виде.
+BIZ;adj;;online;;;;;онлайн, в сети;Bist du gerade **online**?;Ты сейчас в сети?
+BIZ;adj;;offline;;;;;офлайн, не в сети;Die App funktioniert auch **offline**.;Приложение работает и офлайн.
+BIZ;adj;;kabellos;;;;;беспроводной;Ich benutze eine **kabellose** Tastatur.;Я пользуюсь беспроводной клавиатурой.
+BIZ;adj;;virtuell;;;;;виртуальный;Das Team trifft sich jeden Morgen **virtuell**.;Команда каждое утро встречается виртуально.
+BIZ;adj;;sicher;;;;;безопасный, надёжный;Ist diese Verbindung wirklich **sicher**?;Это соединение действительно безопасное?
+BIZ;adj;;verschlüsselt;;;;;зашифрованный;Die Datei wird **verschlüsselt** gespeichert.;Файл сохраняется в зашифрованном виде.
+BIZ;adj;;kompatibel;;;;;совместимый;Die Software ist nicht mit Mac **kompatibel**.;Программа несовместима с Mac.
+BIZ;adj;;benutzerfreundlich;;;;;удобный для пользователя;Die neue Oberfläche ist sehr **benutzerfreundlich**.;Новый интерфейс очень удобен для пользователя.
+BIZ;adj;;intuitiv;;;;;интуитивно понятный;Die Bedienung der App ist ganz **intuitiv**.;Управление приложением совершенно интуитивное.
+BIZ;adj;;automatisch;;;;;автоматический;Das System erstellt die Berichte **automatisch**.;Система создаёт отчёты автоматически.
+BIZ;adj;;manuell;;;;;ручной;Diese Daten müssen wir leider **manuell** eingeben.;Эти данные нам, к сожалению, приходится вводить вручную.
+BIZ;adj;;stabil;;;;;стабильный;Die neue Version läuft sehr **stabil**.;Новая версия работает очень стабильно.
+BIZ;adj;;fehlerhaft;;;;;ошибочный, неисправный;Die **fehlerhafte** Datei konnte nicht geöffnet werden.;Повреждённый файл не удалось открыть.
+BIZ;adj;;kaputt;;;;;сломанный;Mein Ladekabel ist **kaputt**.;Мой зарядный кабель сломан.
+BIZ;adj;;erreichbar;;;;;доступный (на связи);Der Server ist wieder **erreichbar**.;Сервер снова доступен.
+BIZ;adj;;verfügbar;;;;;доступный, имеющийся в наличии;Das Update ist ab morgen **verfügbar**.;Обновление будет доступно с завтрашнего дня.
+BIZ;adj;;veraltet;;;;;устаревший;Ihr Browser ist leider **veraltet**.;Ваш браузер, к сожалению, устарел.
+BIZ;adj;;aktuell;;;;;актуальный, текущий;Ist das die **aktuelle** Version der Datei?;Это актуальная версия файла?
+BIZ;adj;;technisch;;;;;технический;Wir haben gerade ein **technisches** Problem.;У нас сейчас техническая проблема.
+BIZ;adj;;mobil;;;;;мобильный;Immer mehr Kunden kaufen **mobil** ein.;Всё больше клиентов делают покупки с мобильных устройств.
+BIZ;adj;;interaktiv;;;;;интерактивный;Das Training ist sehr **interaktiv** gestaltet.;Тренинг построен очень интерактивно.
+BIZ;adj;;künstlich;;;;;искусственный;**Künstliche** Intelligenz verändert viele Berufe.;Искусственный интеллект меняет многие профессии.
+BIZ;adj;;passwortgeschützt;;;;;защищённый паролем;Der Ordner ist **passwortgeschützt**.;Папка защищена паролем.
+BIZ;adj;;leistungsstark;;;;;мощный, производительный;Wir brauchen einen **leistungsstarken** Server.;Нам нужен мощный сервер.
+BIZ;adj;;drahtlos;;;;;беспроводной;Die Daten werden **drahtlos** übertragen.;Данные передаются по беспроводной связи.
+BIZ;adj;;cloudbasiert;;;;;облачный;Wir nutzen eine **cloudbasierte** Lösung für die Buchhaltung.;Мы используем облачное решение для бухгалтерии.
+BIZ;adj;;remote;;;;;удалённый, дистанционно;Unser Team arbeitet komplett **remote**.;Наша команда работает полностью удалённо.
