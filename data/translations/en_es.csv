@@ -2648,3 +2648,203 @@ en:verb::estimate;calcular, estimar;Calculan que las reparaciones costarán mile
 en:verb::evaluate;evaluar, valorar;Tenemos que evaluar los resultados con cuidado.
 en:verb::evolve;evolucionar;Las lenguas evolucionan constantemente con el tiempo.
 en:verb::exaggerate;exagerar;No exageres, no fue para tanto.
+en:noun::pain;dolor;Tengo un dolor en la espalda.
+en:noun::medicine;medicamento, medicina;Tómate este medicamento tres veces al día.
+en:noun::pill;pastilla, píldora;Tómate una pastilla después de cada comida.
+en:noun::dentist;dentista;Voy al dentista dos veces al año.
+en:noun::patient;paciente;El médico tiene muchos pacientes hoy.
+en:noun::ambulance;ambulancia;¡Llama a una ambulancia, rápido!
+en:noun::appointment;cita;Tengo cita con el médico a las diez.
+en:noun::accident;accidente;Se rompió la pierna en un accidente de coche.
+en:noun::blood;sangre;Tenía sangre en la camisa.
+en:noun::heart;corazón;Correr es bueno para el corazón.
+en:noun::stomach;estómago, barriga, tripa;Me duele el estómago después de comer.
+en:noun::neck;cuello;Las jirafas tienen el cuello muy largo.
+en:noun::shoulder;hombro;Me puso la mano en el hombro.
+en:noun::knee;rodilla;Me caí y me hice daño en la rodilla.
+en:noun::toe;dedo del pie;El agua estaba tan fría que no sentía los dedos de los pies.
+en:noun::skin;piel;Usa crema solar para proteger la piel.
+en:noun::bone;hueso;El perro se está comiendo un hueso.
+en:noun::brain;cerebro;Leer es un buen ejercicio para el cerebro.
+en:noun::health;salud;Fumar es malo para la salud.
+en:noun::exercise;ejercicio;Haced los ejercicios de la página diez.
+en:noun::passenger;pasajero;Había cincuenta pasajeros en el autobús.
+en:noun::passport;pasaporte;No olvides el pasaporte en el aeropuerto.
+en:noun::luggage;equipaje;¿Cuánto equipaje llevas?
+en:noun::suitcase;maleta, valija;Mi maleta pesa demasiado para llevarla.
+en:noun::backpack;mochila;Recorrió Asia con solo una mochila.
+en:noun::flight;vuelo;Nuestro vuelo sale a las seis de la mañana.
+en:noun::journey;viaje, trayecto;El viaje a Londres dura dos horas.
+en:noun::tour;visita guiada, recorrido, gira;Hicimos una visita guiada por el casco antiguo.
+en:noun::tourist;turista;En verano el pueblo está lleno de turistas.
+en:noun::guide;guía;Nuestro guía hablaba muy bien inglés.
+en:noun::guidebook;guía (de viaje);Compré una guía de Roma.
+en:noun::platform;andén, vía;El tren sale del andén tres.
+en:noun::timetable;horario;Vamos a mirar el horario de autobuses.
+en:noun::seat;asiento, sitio;¿Está libre este asiento?
+en:noun::motorway;autopista;Había mucho tráfico en la autopista.
+en:noun::traffic;tráfico;Llegué tarde por el tráfico.
+en:noun::traffic light;semáforo;Gira a la izquierda en el semáforo.
+en:noun::tunnel;túnel;El tren pasó por un largo túnel.
+en:noun::corner;esquina, rincón;El banco está en la esquina de esta calle.
+en:noun::petrol;gasolina;Tenemos que parar a echar gasolina.
+en:noun::pilot;piloto;Mi tío es piloto y vuela por todo el mundo.
+en:noun::ferry;ferri, transbordador;Cogimos el ferri a la isla.
+en:noun::port;puerto;Hamburgo es un gran puerto de Alemania.
+en:noun::coach;autocar, autobús (de largo recorrido), entrenador;Fuimos a París en autocar.
+en:noun::underground;metro;Es más rápido coger el metro.
+en:noun::tram;tranvía;Puedes ir al centro en tranvía.
+en:noun::helicopter;helicóptero;Un helicóptero sobrevoló nuestra casa.
+en:noun::motorbike;moto, motocicleta;Va al trabajo en moto.
+en:noun::campsite;camping;El camping está junto a un lago precioso.
+en:noun::tent;tienda de campaña, carpa;Dormimos tres noches en una tienda de campaña.
+en:noun::camping;camping, acampada;Vamos de acampada todos los veranos.
+en:noun::souvenir;recuerdo, souvenir;Compré unos recuerdos para mis amigos.
+en:noun::sightseeing;turismo, visita a los monumentos;En Roma hicimos mucho turismo.
+en:noun::castle;castillo;Hay un castillo antiguo en la colina.
+en:noun::palace;palacio;La reina vivía en este palacio.
+en:noun::temple;templo;Visitamos un templo antiguo en Grecia.
+en:noun::view;vista, opinión;La vista desde nuestra habitación del hotel es increíble.
+en:noun::reception;recepción;Por favor, deje la llave en recepción.
+en:noun::receptionist;recepcionista;El recepcionista nos dio la llave de la habitación.
+en:noun::reservation;reserva;Tengo una reserva para dos noches.
+en:noun::subject;asignatura, materia, tema;Mi asignatura favorita en el colegio es historia.
+en:noun::exam;examen;Mañana tengo un examen de matemáticas.
+en:noun::mark;nota, calificación;Sacó una buena nota en inglés.
+en:noun::course;curso;Este año estoy haciendo un curso de español.
+en:noun::classroom;aula, clase;El aula tiene ventanas grandes.
+en:noun::dictionary;diccionario;Busca la palabra en un diccionario.
+en:noun::notebook;cuaderno, libreta;Apunta las palabras nuevas en tu cuaderno.
+en:noun::rubber;goma (de borrar), caucho;¿Me prestas tu goma?
+en:noun::ruler;regla;Traza una línea con una regla.
+en:noun::pupil;alumno, alumna;En mi clase hay treinta alumnos.
+en:noun::university;universidad;Mi hermana estudia en la universidad.
+en:noun::college;escuela superior, instituto, universidad;Va a una escuela superior para estudiar diseño.
+en:noun::maths;matemáticas;No se me dan muy bien las matemáticas.
+en:noun::history;historia;Estamos estudiando la historia de Roma.
+en:noun::geography;geografía;En geografía aprendemos sobre distintos países.
+en:noun::science;ciencias, ciencia;Ciencias es mi asignatura favorita.
+en:noun::biology;biología;En biología estudiamos las plantas y los animales.
+en:noun::chemistry;química;Nuestro profesor de química es muy estricto.
+en:noun::physics;física;La física es difícil pero interesante.
+en:noun::art;arte, dibujo (asignatura);Se le da muy bien el dibujo.
+en:noun::grammar;gramática;La gramática inglesa no es demasiado difícil.
+en:noun::vocabulary;vocabulario, léxico;Leer te ayuda a aprender vocabulario nuevo.
+en:noun::sentence;frase, oración;Escribe cinco frases sobre tu familia.
+en:noun::mistake;error, equivocación, fallo;Todo el mundo comete errores.
+en:noun::rule;regla, norma;Debes cumplir las normas del colegio.
+en:noun::term;trimestre, semestre;El trimestre de verano empieza en abril.
+en:noun::project;proyecto;Estamos haciendo un proyecto sobre el medio ambiente.
+en:noun::company;empresa, compañía;Trabaja para una gran empresa de informática.
+en:noun::manager;gerente, director, encargado;Quisiera hablar con el encargado.
+en:noun::meeting;reunión;Tengo una reunión importante a las nueve.
+en:noun::interview;entrevista;El lunes tiene una entrevista de trabajo.
+en:noun::business;negocio, empresa;Mi padre tiene su propio negocio.
+en:noun::factory;fábrica;Su madre trabaja en una fábrica de coches.
+en:noun::worker;trabajador, obrero;La fábrica tiene doscientos trabajadores.
+en:noun::secretary;secretario, secretaria;La secretaria contestó el teléfono.
+en:noun::engineer;ingeniero;Mi hermano quiere ser ingeniero.
+en:noun::lawyer;abogado;Deberías hablar de esto con un abogado.
+en:noun::firefighter;bombero;Los bomberos llegaron muy rápido.
+en:noun::farmer;granjero, agricultor;El granjero tiene vacas y ovejas.
+en:noun::chef;chef, cocinero, jefe de cocina;El chef de este restaurante es francés.
+en:adj::grateful;agradecido;Te estoy muy agradecido por tu ayuda.
+en:adj::handsome;guapo, atractivo;Su hermano es muy guapo.
+en:adj::hard-working;trabajador, aplicado;Es una alumna muy trabajadora.
+en:adj::homeless;sin hogar, sin techo;La organización benéfica ayuda a las personas sin hogar.
+en:adj::illegal;ilegal;Es ilegal conducir sin carné.
+en:adj::incredible;increíble;La vista desde la cima era increíble.
+en:adj::informal;informal, sin etiqueta;Es una fiesta informal, así que ponte vaqueros.
+en:adj::injured;herido, lesionado;El jugador lesionado abandonó el campo.
+en:adj::innocent;inocente;El hombre dijo que era inocente.
+en:adj::intelligent;inteligente;Los delfines son animales muy inteligentes.
+en:adj::latest;último, más reciente;¿Has visto su última película?
+en:adj::legal;legal;¿Es legal aparcar aquí?
+en:adj::lively;animado, lleno de vida;El centro de la ciudad está muy animado por la noche.
+en:adj::loose;holgado, suelto, ancho;Estos pantalones me quedan demasiado anchos.
+en:adj::mad;enfadado, furioso, loco;Mi madre se va a enfadar conmigo.
+en:adj::male;macho, masculino;El león macho tiene una gran melena.
+en:adj::messy;desordenado, sucio;Su habitación siempre está desordenada.
+en:adj::mild;suave, templado;Este año hemos tenido un invierno muy suave.
+en:adj::mixed;contradictorio, encontrado, mixto;Tengo sentimientos encontrados sobre el nuevo trabajo.
+en:adj::musical;musical;¿Tocas algún instrumento musical?
+en:adj::mysterious;misterioso;Ayer me llamó una mujer misteriosa.
+en:adj::nasty;desagradable, asqueroso;La medicina tiene un sabor desagradable.
+en:adj::nearby;cercano, de al lado;Comimos en una cafetería cercana.
+en:adj::negative;negativo, pesimista;No seas tan negativo con todo.
+en:adj::neat;pulcro, ordenado, cuidado;Tiene una letra muy cuidada.
+en:adj::odd;raro, extraño;Qué raro, estoy seguro de que dejé las llaves aquí.
+en:adj::old-fashioned;anticuado, chapado a la antigua;Mi abuelo tiene ideas muy anticuadas.
+en:adj::organised;organizado, ordenado;Es muy organizada en el trabajo.
+en:adj::outdoor;al aire libre, exterior;El hotel tiene una piscina al aire libre.
+en:adj::indoor;cubierto, interior;En invierno jugamos al tenis en una pista cubierta.
+en:adj::painful;doloroso;La rodilla todavía me duele mucho.
+en:adj::pale;pálido;Estás pálido, ¿te encuentras bien?
+en:adj::peaceful;tranquilo, apacible, pacífico;El pueblo es muy silencioso y tranquilo.
+en:adj::permanent;fijo, permanente;Está buscando un trabajo fijo.
+en:adj::physical;físico;El ejercicio físico es bueno para la salud.
+en:adj::plain;liso, sencillo;Llevaba una camiseta blanca lisa.
+en:adj::positive;positivo, optimista;Intenta mantenerte positivo.
+en:adj::pregnant;embarazada;Mi hermana está embarazada de su segundo hijo.
+en:adj::professional;profesional;Es fotógrafo profesional.
+en:adj::proper;de verdad, como es debido, adecuado;Tienes que hacer una comida como es debido.
+en:adj::recent;reciente, último;¿Has visto las últimas noticias?
+en:adj::regular;habitual, asiduo, regular;Es una clienta habitual de aquí.
+en:adj::ripe;maduro;Estos plátanos todavía no están maduros.
+en:adj::risky;arriesgado;Invertir todo tu dinero es arriesgado.
+en:adj::scary;que da miedo, aterrador, de miedo;Vimos una película que daba mucho miedo.
+en:adj::scientific;científico;Esto es un hecho científico.
+en:adj::separate;separado, distinto;Duermen en habitaciones separadas.
+en:adj::social;social;Se pasa horas en las redes sociales.
+en:adj::solid;macizo, sólido;La mesa es de madera maciza.
+en:adj::sour;ácido, agrio;Los limones tienen un sabor ácido.
+en:adj::spare;de repuesto, de sobra;¿Tienes una llave de repuesto?
+en:adj::steep;empinado, escarpado;El camino que sube la colina es muy empinado.
+en:adj::sticky;pegajoso;Tengo las manos pegajosas por la miel.
+en:adj::stressed;estresado, agobiado;Estoy muy estresado por el trabajo.
+en:adj::stressful;estresante;Mudarse de casa es muy estresante.
+en:adj::stuck;atascado, atrapado;Estuvimos atascados en el tráfico dos horas.
+en:adj::talented;talentoso, con talento;Es una cantante con mucho talento.
+en:adj::tasty;sabroso, rico;La sopa estaba muy rica.
+en:adj::temporary;temporal, provisional;Encontró un trabajo temporal para el verano.
+en:adj::tight;estrecho, ajustado, apretado;Estos zapatos me aprietan demasiado.
+en:adj::total;total;El coste total fue de doscientas libras.
+en:adj::tough;difícil, duro;Fue una decisión difícil.
+en:adj::tropical;tropical;Pasamos las vacaciones en una isla tropical.
+en:adj::unemployed;en paro, desempleado;Lleva seis meses en paro.
+en:adj::unexpected;inesperado, imprevisto;Recibimos una visita inesperada.
+en:adj::unkind;desagradable, poco amable, cruel;Eso que has dicho ha sido muy feo.
+en:adj::unlucky;de mala suerte, desafortunado, gafe;Hay gente que piensa que el trece es un número de mala suerte.
+en:adj::unpleasant;desagradable;Había un olor desagradable en la cocina.
+en:adj::urgent;urgente;Tengo que hacer una llamada urgente.
+en:adj::various;varios, diversos;La tienda vende varios tipos de té.
+en:adj::vegetarian;vegetariano;¿Tienen algún plato vegetariano?
+en:adj::wealthy;rico, adinerado, acaudalado;Viene de una familia adinerada.
+en:adj::weird;raro, extraño;Anoche tuve un sueño rarísimo.
+en:adj::well-known;conocido, famoso;Es un actor muy conocido.
+en:adj::wooden;de madera;Nos sentamos a una gran mesa de madera.
+en:adj::woollen;de lana;Me tejió una bufanda de lana.
+en:adj::hopeful;esperanzado, optimista;Tenemos la esperanza de que se recupere.
+en:adj::grown-up;adulto, mayor;Tiene dos hijos ya mayores.
+en:adv::accidentally;sin querer, por accidente, accidentalmente;Borré el archivo sin querer.
+en:adv::apparently;al parecer, por lo visto;Por lo visto, la tienda cierra el mes que viene.
+en:adv::besides;además, aparte;Es demasiado tarde y, además, estoy cansado.
+en:adv::clearly;claramente, con claridad;Por favor, habla con claridad.
+en:adv::currently;actualmente, en la actualidad;Actualmente trabaja en Berlín.
+en:adv::extremely;extremadamente, sumamente;El examen fue extremadamente difícil.
+en:adv::fairly;bastante, más o menos;El examen fue bastante fácil.
+en:adv::frequently;con frecuencia, a menudo, frecuentemente;Viaja con frecuencia por trabajo.
+en:adv::generally;por lo general, generalmente;Por lo general me levanto a las siete.
+en:adv::gradually;poco a poco, gradualmente;El tiempo fue mejorando poco a poco.
+en:adv::honestly;sinceramente, la verdad;Sinceramente, no sé la respuesta.
+en:adv::hopefully;ojalá, con suerte;Ojalá deje de llover pronto.
+en:adv::lately;últimamente;Últimamente he estado muy ocupado.
+en:adv::mostly;mayoritariamente, sobre todo, en su mayoría;El público era en su mayoría gente joven.
+en:adv::naturally;naturalmente, por supuesto, como es natural;Como es natural, me alegré mucho.
+en:adv::particularly;especialmente, en particular;Me gustó especialmente la última canción.
+en:adv::personally;personalmente;Personalmente, prefiero el azul.
+en:adv::properly;bien, correctamente, como es debido;No has cerrado bien la puerta.
+en:adv::rarely;rara vez, pocas veces;Rara vez como comida rápida.
+en:adv::regularly;con regularidad, regularmente;Visita a sus abuelos con regularidad.
+en:adv::surely;seguramente, sin duda;¿No te creerás esa historia, verdad?
+en:adv::totally;totalmente, completamente;Estoy totalmente de acuerdo contigo.

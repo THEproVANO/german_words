@@ -2648,3 +2648,203 @@ de:adj::konkret;concreto;¿Tiene un ejemplo concreto?
 de:adj::kreativ;creativo;Es muy creativa.
 de:adj::kritisch;crítico;Él lo ve de forma muy crítica.
 de:adj::künstlich;artificial;Son flores artificiales.
+de:pron::irgendetwas;algo, cualquier cosa;¿Quieres comer algo?
+de:pron::beide;ambos, los dos;Los dos niños van al colegio.
+de:pron::manche;algunos, ciertos;A algunas personas no les gusta el café.
+de:pron::mehrere;varios;Ya he estado varias veces en Berlín.
+de:pron::einige;algunos, unos cuantos;Tengo algunas preguntas.
+de:interj::Herzlichen Glückwunsch;muchas felicidades, enhorabuena;¡Muchas felicidades por tu cumpleaños!
+de:interj::Gute Besserung;que te mejores, que se mejore;¡Que te mejores! ¡Recupérate pronto!
+de:interj::Viel Erfolg;mucho éxito, mucha suerte;¡Mucha suerte en el examen!
+de:interj::Prost;salud (brindis);¡Salud! ¡A tu salud!
+de:noun:der:Onkel;tío;Mi tío vive en Austria.
+de:noun:die:Tante;tía;Mi tía viene a visitarnos mañana.
+de:noun:der:Cousin;primo;Mi primo estudia en Múnich.
+de:noun:die:Cousine;prima;Mi prima se casa en mayo.
+de:noun:der:Enkel;nieto;La abuela juega con su nieto.
+de:noun:die:Großeltern;abuelos;Mis abuelos viven en el campo.
+de:noun:der:Ehemann;marido, esposo;Su marido es médico.
+de:noun:die:Ehefrau;esposa, mujer;Su esposa trabaja de profesora.
+de:noun:die:Ehe;matrimonio;Su matrimonio es muy feliz.
+de:noun:die:Beziehung;relación;Tienen una buena relación.
+de:noun:die:Jugend;juventud;En mi juventud hacía mucho deporte.
+de:noun:der:Jugendliche;joven, adolescente;Para los jóvenes la entrada es más barata.
+de:noun:der:Erwachsene;adulto;La película es solo para adultos.
+de:noun:die:Person;persona;Una mesa para tres personas, por favor.
+de:noun:der:Bewohner;habitante, residente, vecino;Los vecinos del edificio son muy amables.
+de:noun:der:Bürger;ciudadano;Todos los ciudadanos pueden votar.
+de:noun:die:Staatsangehörigkeit;nacionalidad;¿Qué nacionalidad tiene usted?
+de:noun:der:Wohnort;lugar de residencia, domicilio;Por favor, indique su lugar de residencia.
+de:noun:der:Familienstand;estado civil;Estado civil: soltero.
+de:noun:der:Vorname;nombre (de pila);¿Cuál es su nombre?
+de:noun:der:Nachname;apellido;¿Cómo se escribe su apellido?
+de:noun:die:Postleitzahl;código postal;¿Cuál es el código postal de Bonn?
+de:noun:die:Hausnummer;número (de la casa), número de portal;¿Cuál es su número de portal?
+de:noun:die:Anmeldung;inscripción, registro;La inscripción para el curso se hace en línea.
+de:noun:der:Antrag;solicitud, petición;He presentado una solicitud de prestación por hijos.
+de:noun:die:Behörde;autoridad, organismo oficial, administración;El organismo solo abre por las mañanas.
+de:noun:das:Dokument;documento;Por favor, traiga todos los documentos.
+de:noun:die:Kopie;copia, fotocopia;Necesito una copia de su pasaporte.
+de:noun:das:Visum;visado, visa;¿Necesito un visado para Alemania?
+de:noun:die:Wartenummer;número de turno, número de espera;Por favor, saque un número de turno.
+de:noun:die:Öffnungszeit;horario de apertura, horario;¿Cuál es el horario de apertura?
+de:noun:der:Briefkasten;buzón;La carta está en el buzón.
+de:noun:die:Briefmarke;sello, estampilla;Necesito un sello para esta carta.
+de:noun:der:Absender;remitente;En el paquete no figura ningún remitente.
+de:noun:der:Empfänger;destinatario;El destinatario ya no vive aquí.
+de:noun:die:Karte;postal, tarjeta, mapa;Te escribiré una postal desde las vacaciones.
+de:noun:die:Ansichtskarte;postal (ilustrada);Compramos una postal de Berlín.
+de:noun:der:Anruf;llamada;¡Gracias por tu llamada!
+de:noun:der:Anrufbeantworter;contestador automático, contestador;Por favor, deje un mensaje en el contestador.
+de:noun:die:Vorwahl;prefijo (telefónico);El prefijo de Berlín es el 030.
+de:noun:das:Gespräch;conversación, charla;La conversación fue muy interesante.
+de:noun:die:Entschuldigung;disculpa, perdón;Le pido disculpas.
+de:noun:der:Gruß;saludo, recuerdos;¡Muchos recuerdos a tu familia!
+de:noun:der:Glückwunsch;felicitación, enhorabuena;Te envío mis mejores felicitaciones.
+de:noun:die:Feier;fiesta, celebración;La fiesta empieza a las 19 horas.
+de:noun:die:Kerze;vela;En la tarta hay diez velas.
+de:noun:das:Eis;helado, hielo;En verano me gusta tomar helado.
+de:noun:das:Brötchen;panecillo, bollo;En el desayuno me como dos panecillos.
+de:noun:die:Marmelade;mermelada;Como pan con mermelada.
+de:noun:der:Honig;miel;El té con miel ayuda contra la tos.
+de:noun:der:Joghurt;yogur;En el desayuno me tomo un yogur.
+de:noun:die:Sahne;nata, crema;¿Quieres el pastel con nata?
+de:noun:das:Öl;aceite, petróleo;Echa un poco de aceite en la sartén.
+de:noun:der:Pfeffer;pimienta;A la sopa todavía le falta un poco de pimienta.
+de:noun:die:Zwiebel;cebolla;Corto las cebollas.
+de:noun:die:Karotte;zanahoria;A los conejos les gustan las zanahorias.
+de:noun:die:Gurke;pepino;Para la ensalada necesito un pepino.
+de:noun:die:Paprika;pimiento;El pimiento rojo es muy dulce.
+de:noun:der:Pilz;seta, hongo;En otoño recogemos setas.
+de:noun:die:Birne;pera, bombilla;La pera es muy jugosa.
+de:noun:die:Orange;naranja;Exprimo naranjas para hacer zumo.
+de:noun:die:Zitrone;limón;Té con limón, por favor.
+de:noun:die:Erdbeere;fresa, frutilla;En junio hay fresas frescas.
+de:noun:die:Kirsche;cereza;En el jardín crecen cerezas.
+de:noun:das:Rindfleisch;carne de vaca, carne de res, ternera;Prefiero la carne de vaca a la de cerdo.
+de:noun:das:Schweinefleisch;carne de cerdo;No come carne de cerdo.
+de:noun:das:Steak;filete, bistec;Tomaré el filete, por favor.
+de:noun:die:Pfanne;sartén;Frío los huevos en la sartén.
+de:noun:der:Topf;olla, cazuela;La sopa hierve en la olla.
+de:noun:der:Backofen;horno;El pastel está en el horno.
+de:noun:die:Spülmaschine;lavavajillas, lavaplatos;Pon los platos en el lavavajillas.
+de:noun:die:Mahlzeit;comida;El desayuno es la comida más importante.
+de:noun:die:Vorspeise;entrante, primer plato;De entrante tomo una sopa.
+de:noun:die:Hauptspeise;plato principal, segundo plato;¿Qué desea de plato principal?
+de:noun:der:Nachtisch;postre;De postre hay helado.
+de:noun:das:Gericht;plato, tribunal;Es un plato típico alemán.
+de:noun:das:Trinkgeld;propina;En Alemania se deja aproximadamente un diez por ciento de propina.
+de:noun:der:Geschmack;sabor, gusto;La sopa tiene un sabor raro.
+de:noun:der:Appetit;apetito;¡Buen provecho!
+de:noun:die:Diät;dieta, régimen;Ahora mismo estoy a dieta.
+de:noun:das:Gewicht;peso;Quiero mantener mi peso.
+de:noun:die:Mannschaft;equipo;Nuestro equipo ha ganado.
+de:noun:der:Verein;club, asociación;Juego al fútbol en un club.
+de:noun:das:Training;entrenamiento;El entrenamiento es el martes.
+de:noun:das:Fitnessstudio;gimnasio;Voy al gimnasio tres veces por semana.
+de:noun:die:Ausstellung;exposición;La exposición está abierta hasta mayo.
+de:noun:die:Kunst;arte;Me interesa el arte moderno.
+de:noun:der:Roman;novela;Estoy leyendo una novela apasionante.
+de:noun:der:Krimi;novela policíaca, película policíaca;Los domingos me gusta ver una película policíaca.
+de:noun:die:Geschichte;historia, cuento;¡Cuéntame una historia!
+de:noun:das:Lied;canción;Es mi canción favorita.
+de:noun:der:Mittelpunkt;centro, centro de atención;Le gusta ser el centro de atención.
+de:noun:das:Modell;modelo;Es el último modelo.
+de:noun:die:Motivation;motivación;Me falta motivación.
+de:noun:die:Muttersprache;lengua materna;Mi lengua materna es el ruso.
+de:noun:die:Fremdsprache;lengua extranjera, idioma extranjero;El alemán es mi primera lengua extranjera.
+de:noun:der:Muttertag;Día de la Madre;El Día de la Madre le regalo flores a mi madre.
+de:noun:die:Nähe;cercanía, proximidad, cerca;¿Vives aquí cerca?
+de:noun:die:Nachspeise;postre;De postre hay helado.
+de:noun:die:Neuigkeit;novedad, noticia;¡Tengo una noticia para ti!
+de:noun:das:Niveau;nivel;El curso tiene un nivel alto.
+de:noun:die:Notiz;nota, apunte;Tomo nota.
+de:noun:der:Ort;lugar, sitio, localidad;Es un lugar bonito.
+de:noun:das:Paar;pareja, par;Son una pareja feliz.
+de:noun:das:Parfüm;perfume;Le regalo un perfume.
+de:noun:die:Persönlichkeit;personalidad;Tiene una personalidad fuerte.
+de:noun:der:Pfarrer;párroco, cura, pastor;El párroco casa a la pareja.
+de:noun:die:Pflege;cuidado, atención (a enfermos o mayores);El cuidado de las personas mayores es agotador.
+de:noun:der:Pfleger;enfermero, cuidador;El enfermero ayuda al paciente.
+de:noun:der:Prospekt;folleto, catálogo;Aquí tiene un folleto con todas las ofertas.
+de:noun:der:Punkt;punto;Es un punto importante.
+de:noun:die:Rasse;raza;¿De qué raza es tu perro?
+de:noun:der:Rasen;césped;Por favor, no pisar el césped.
+de:noun:der:Raum;sala, espacio, habitación;La sala es demasiado pequeña para 30 personas.
+de:noun:der:Rest;resto;El resto nos lo comemos mañana.
+de:noun:die:Rückfahrt;viaje de vuelta, regreso;En el viaje de vuelta dormimos.
+de:noun:der:Ruf;reputación, fama;El hotel tiene buena reputación.
+de:noun:die:Rundfahrt;recorrido, vuelta, visita guiada (en vehículo);Hacemos un recorrido por la ciudad.
+de:noun:der:Schatten;sombra;Sentémonos a la sombra.
+de:noun:der:Schein;billete (de banco);¿Tiene algo más pequeño? Solo tengo un billete.
+de:noun:der:Schirm;paraguas;¡Llévate un paraguas!
+de:noun:der:Schmuck;joyas, bisutería, adornos;Lleva muchas joyas.
+de:noun:der:Schritt;paso;Es el primer paso.
+de:noun:die:Schuld;culpa;No es culpa mía.
+de:noun:das:Schwein;cerdo;En la granja hay cerdos.
+de:noun:die:Sehnsucht;añoranza, nostalgia, anhelo;Echo de menos mi tierra.
+de:noun:die:Sicht;punto de vista, visibilidad, vista;Desde mi punto de vista, eso está mal.
+de:noun:der:Sinn;sentido;Eso no tiene sentido.
+de:noun:der:Ski;esquí;En invierno vamos a esquiar.
+de:noun:die:Socke;calcetín;Necesito calcetines nuevos.
+de:noun:der:Sonnenschein;sol, luz del sol;Cuando hace sol salimos.
+de:noun:die:Spannung;expectación, tensión, suspense;Esperamos el resultado con expectación.
+de:noun:die:Spur;huella, rastro, pista;La policía no encuentra huellas.
+de:noun:die:Stärke;punto fuerte, fuerza, fortaleza;¿Cuáles son sus puntos fuertes?
+de:noun:die:Schwäche;debilidad, punto débil;Todo el mundo tiene sus debilidades.
+de:noun:die:Station;parada, estación;Bájese en la próxima parada.
+de:noun:der:Stil;estilo;Me gusta tu estilo.
+de:noun:das:System;sistema;El sistema funciona bien.
+de:noun:die:Szene;escena;La última escena fue muy triste.
+de:noun:die:Tagesordnung;orden del día;¿Qué hay hoy en el orden del día?
+de:noun:die:Tätigkeit;actividad, ocupación, trabajo;¿A qué actividad se dedica?
+de:noun:das:Team;equipo;Somos un buen equipo.
+de:noun:die:Technik;tecnología, técnica;No entiendo nada de tecnología.
+de:noun:der:Teig;masa;La masa tiene que reposar una hora.
+de:noun:der:Tipp;consejo, sugerencia;¿Tienes algún consejo para mí?
+de:noun:die:Toleranz;tolerancia;La tolerancia es importante en una sociedad.
+de:noun:das:Trinkwasser;agua potable;¡Esto no es agua potable!
+de:noun:die:Überschrift;título, titular, encabezamiento;Lea primero el título.
+de:noun:das:Ufer;orilla;Estamos sentados a la orilla del río.
+de:noun:der:Umgang;trato, manejo;El trato con los clientes no siempre es fácil.
+de:noun:die:Unterhaltung;entretenimiento, conversación;La televisión ofrece mucho entretenimiento.
+de:noun:die:Unterlagen;documentación, documentos, papeles;Traiga toda la documentación, por favor.
+de:noun:die:Unterstützung;apoyo, ayuda;¡Gracias por tu apoyo!
+de:noun:der:Urlaubsort;lugar de vacaciones, destino de vacaciones;El lugar de vacaciones era muy tranquilo.
+de:noun:die:Veränderung;cambio;Ha habido muchos cambios en la empresa.
+de:noun:das:Verbot;prohibición;Aquí está prohibida la entrada de perros.
+de:noun:der:Verkehrsunfall;accidente de tráfico;En el accidente de tráfico resultaron heridas dos personas.
+de:noun:der:Verlag;editorial;El libro sale en una gran editorial.
+de:noun:der:Versuch;intento, prueba;Vale la pena intentarlo.
+de:noun:der:Verwandte;pariente, familiar;Todos los parientes vienen a la boda.
+de:noun:der:Vorgesetzte;superior, jefe;Hable con su superior.
+de:noun:der:Vorhang;cortina, telón;Cierra la cortina, por favor.
+de:noun:der:Vortrag;conferencia, charla, ponencia;Ella da una conferencia sobre protección del medio ambiente.
+de:noun:die:Vorsicht;cuidado, precaución;¡Cuidado, el suelo está mojado!
+de:noun:die:Wäsche;ropa (para lavar), colada;Todavía tengo que lavar la ropa.
+de:noun:das:Wachstum;crecimiento;El crecimiento de la economía es lento.
+de:noun:der:Wert;valor;La casa tiene un valor elevado.
+de:noun:der:Wettkampf;competición, prueba;Mañana tiene una competición importante.
+de:noun:der:Wohnsitz;domicilio, residencia;Mi domicilio está en Hamburgo.
+de:noun:das:Zeichen;señal, signo;Es una buena señal.
+de:noun:der:Zettel;papel, papelito, nota;Lo apunto en un papel.
+de:noun:die:Zusammenarbeit;colaboración, cooperación;¡Muchas gracias por la buena colaboración!
+de:noun:der:Zuschuss;subvención, ayuda, ayuda económica;La empresa da una ayuda para la comida.
+de:noun:die:Abhängigkeit;dependencia, adicción;La dependencia del móvil es un gran problema.
+de:noun:der:Ablauf;desarrollo, transcurso, programa;El desarrollo del evento está planificado al detalle.
+de:noun:die:Abmachung;acuerdo, trato;Tenemos un trato.
+de:noun:die:Abneigung;aversión, rechazo, antipatía;Le tiene aversión al pescado.
+de:noun:der:Absatz;párrafo;Lea el segundo párrafo.
+de:noun:der:Abschied;despedida;La despedida nos resultó difícil.
+de:noun:der:Abstand;distancia;¡Por favor, mantenga la distancia!
+de:noun:die:Abteilungsleiterin;jefa de departamento, jefa de sección;La jefa de departamento ha cancelado la reunión.
+de:noun:die:Achtung;respeto, estima, consideración;Siento un gran respeto por su logro.
+de:noun:die:Akzeptanz;aceptación;La aceptación de las nuevas normas es escasa.
+de:noun:die:Analyse;análisis;El análisis de los datos lleva una semana.
+de:noun:der:Anbieter;proveedor, compañía, operador;Cambio de compañía eléctrica.
+de:noun:das:Andenken;recuerdo;La foto es un bonito recuerdo del viaje.
+de:noun:die:Annahme;suposición, hipótesis;Tu suposición es errónea.
+de:noun:der:Anreiz;incentivo, estímulo, aliciente;Un sueldo más alto es un buen incentivo.
+de:noun:der:Ansatz;enfoque, planteamiento;Es un enfoque interesante.
+de:noun:der:Anstieg;aumento, subida;La subida de los precios es preocupante.
+de:noun:der:Anteil;proporción, porcentaje, parte;La proporción de mujeres en puestos directivos aumenta.
