@@ -4247,3 +4247,603 @@ en:noun::vandalism;vandalismo;El parque se cerró por actos de vandalismo.
 en:noun::rally;mitin, concentración, manifestación;Miles de personas asistieron al mitin político.
 en:noun::slum;barrio de chabolas, barrio marginal;Muchas familias siguen viviendo en barrios de chabolas a las afueras de la ciudad.
 en:noun::motivation;motivación;La falta de motivación es el principal problema.
+en:noun::rope;cuerda, soga;Ata el barco con una cuerda.
+en:noun::fever;fiebre;El niño tiene fiebre alta.
+en:noun::nail;uña, clavo;¡Deja de morderte las uñas!
+en:noun::mud;barro, lodo;Mis botas están cubiertas de barro.
+en:noun::pot;olla, cazuela, maceta;Pon las patatas en una olla grande.
+en:verb::get in;subir (a un vehículo), entrar;¡Sube al coche, nos vamos!
+en:verb::get out;bajar (de un vehículo), salir;Ella se bajó del taxi.
+en:verb::put down;dejar, soltar, poner (sobre algo);Dejad los bolígrafos y escuchad.
+en:verb::take out;sacar;¿Puedes sacar la basura?
+en:verb::come out;salir, publicarse, aparecer;Su nuevo álbum sale la semana que viene.
+en:verb::go up;subir, aumentar;Los precios volvieron a subir este mes.
+en:verb::go down;bajar, descender;La temperatura bajó por la noche.
+en:verb::fall down;caerse, derrumbarse;El viejo árbol se cayó durante la tormenta.
+en:verb::fall over;caerse, tropezar y caer;Se cayó y se hizo daño en la rodilla.
+en:verb::hang up;colgar;Ella colgó antes de que pudiera contestar.
+en:verb::tidy up;ordenar, recoger;Por favor, ordena tu habitación.
+en:verb::dress up;disfrazarse, arreglarse;Los niños se disfrazaron de piratas.
+en:verb::log in;iniciar sesión, entrar (en el sistema);Inicia sesión con tu correo electrónico y tu contraseña.
+en:verb::look around;recorrer, echar un vistazo, mirar alrededor;Recorrimos el casco antiguo.
+en:verb::get lost;perderse;Nos perdimos en el bosque.
+en:verb::get ready;prepararse, arreglarse;¡Preparaos, que viene el autobús!
+en:verb::take away;llevarse, retirar, quitar;El camarero retiró nuestros platos.
+en:verb::put out;apagar, extinguir;Los bomberos apagaron el fuego.
+en:noun::breath;respiración, aliento;Respira hondo y relájate.
+en:noun::brick;ladrillo;La casa está hecha de ladrillos rojos.
+en:noun::bubble;burbuja, pompa;Los niños hacían pompas de jabón.
+en:noun::bush;arbusto, matorral;La pelota rodó debajo de un arbusto.
+en:noun::cage;jaula;El pájaro vive en una jaula pequeña.
+en:noun::chain;cadena;Lleva una cadena de oro al cuello.
+en:adj::deaf;sordo;Mi abuela está un poco sorda.
+en:noun::dust;polvo;Los libros viejos estaban cubiertos de polvo.
+en:noun::edge;borde, orilla;¡No te pongas tan cerca del borde!
+en:noun::fountain;fuente;Tiramos monedas a la fuente.
+en:noun::glue;pegamento, cola;Pega la imagen en el papel con pegamento.
+en:noun::hammer;martillo;Pásame el martillo, por favor.
+en:noun::highway;autopista, carretera;Fuimos por la autopista durante tres horas.
+en:noun::jungle;selva, jungla;Los monos viven en la selva.
+en:noun::ladder;escalera (de mano);Subió por la escalera para arreglar el tejado.
+en:noun::lane;callejuela, camino, carril;Viven en una callejuela tranquila cerca de la iglesia.
+en:noun::loaf;pan (pieza entera), barra;¿Podrías comprar una barra de pan?
+en:noun::mask;máscara, mascarilla;Todos llevaban máscara en la fiesta.
+en:noun::mess;desorden, desastre, lío;¡Tu habitación es un desastre total!
+en:noun::nest;nido;Hay un nido de pájaro en el árbol.
+en:noun::net;red;La pelota dio en la red.
+en:noun::parcel;paquete;Esta mañana ha llegado un paquete para ti.
+en:noun::pipe;tubería, tubo, caño;Salía agua de una tubería rota.
+en:noun::pond;estanque, charca;Hay patos en el estanque.
+en:noun::pumpkin;calabaza;Hicimos sopa con una calabaza grande.
+en:noun::rose;rosa;Él le regaló una rosa roja.
+en:noun::row;fila, hilera;Nos sentamos en la primera fila.
+en:noun::sailor;marinero;Mi tío fue marinero durante veinte años.
+en:noun::shadow;sombra;El árbol proyectaba una larga sombra sobre la hierba.
+en:verb::shave;afeitarse, afeitar;Se afeita todas las mañanas.
+en:noun::silence;silencio;Hubo un largo silencio en la habitación.
+en:verb::skate;patinar;Patinamos sobre el lago helado.
+en:noun::sleeve;manga;Esta camisa es de manga corta.
+en:noun::string;cuerda, cordel, hilo;Ata la caja con cuerda.
+en:noun::sunset;puesta de sol, atardecer;Vimos la puesta de sol desde la playa.
+en:noun::thunder;trueno, truenos;Al perro le dan miedo los truenos.
+en:noun::torch;linterna;Llévate una linterna, fuera está oscuro.
+en:noun::tray;bandeja;Ella trajo las tazas en una bandeja.
+en:noun::tyre;neumático, rueda;El coche tiene una rueda pinchada.
+en:verb::unlock;abrir (con llave), desbloquear;No puedo abrir la puerta.
+en:noun::wool;lana;Esta bufanda es de lana.
+en:verb::yawn;bostezar;Bostezó porque estaba cansado.
+en:pron::whatever;lo que, lo que sea, cualquier cosa que;Puedes comer lo que quieras.
+en:verb::take back;devolver (a la tienda), retirar (lo dicho);Devolví los zapatos porque me quedaban pequeños.
+en:verb::turn around;darse la vuelta, girarse;Se dio la vuelta y me sonrió.
+en:verb::join in;unirse, participar, sumarse;Todos se unieron a la canción.
+en:verb::get together;reunirse, juntarse;Nos reunimos todas las Navidades.
+en:noun::abstraction;abstracción;La filosofía suele tratar con abstracciones difíciles.
+en:noun::accumulation;acumulación;La acumulación de deudas preocupaba a la junta directiva.
+en:noun::adherence;cumplimiento, adhesión, observancia;Se espera un cumplimiento estricto de las normas.
+en:noun::advent;llegada, advenimiento, aparición;La llegada de internet lo cambió todo.
+en:noun::advocacy;defensa, apoyo, promoción;Es conocida por su defensa de los derechos humanos.
+en:noun::affinity;afinidad, simpatía;Sentía una gran afinidad con la gente del lugar.
+en:noun::allegation;acusación, alegato;El ministro negó todas las acusaciones en su contra.
+en:noun::allocation;asignación, reparto, distribución;La asignación de fondos provocó un acalorado debate.
+en:noun::ambiguity;ambigüedad;Hay cierta ambigüedad en la redacción del contrato.
+en:noun::amendment;enmienda, modificación;El Parlamento votó la enmienda propuesta.
+en:noun::analogy;analogía;El profesor usó una analogía para explicar la idea.
+en:noun::anomaly;anomalía;Los científicos detectaron una anomalía en los datos.
+en:noun::apparatus;aparatos, equipo, aparato;Los aparatos del laboratorio eran muy caros.
+en:noun::appraisal;evaluación, valoración, tasación;Todos los empleados tienen una evaluación anual del desempeño.
+en:noun::arbitration;arbitraje;La disputa se resolvió mediante arbitraje.
+en:noun::archive;archivo;Pasó semanas buscando en los archivos nacionales.
+en:noun::arena;arena, ámbito, escena;Entró en la arena política siendo joven.
+en:noun::articulation;formulación, expresión, articulación;Una formulación clara de los objetivos ayuda a todo el equipo.
+en:noun::aspiration;aspiración, ambición;Aspira a ser cirujana.
+en:noun::assertion;afirmación, aseveración;Su afirmación no estaba respaldada por pruebas.
+en:noun::attainment;logro, nivel alcanzado, consecución;El nivel educativo alcanzado varía según la región.
+en:noun::autonomy;autonomía;A la región se le concedió una mayor autonomía.
+en:noun::backlash;reacción adversa, rechazo, reacción negativa;El nuevo impuesto provocó el rechazo de la población.
+en:noun::benchmark;referencia, punto de referencia, parámetro;Estos resultados establecen una nueva referencia para el sector.
+en:noun::blueprint;plan, proyecto, plano;El informe ofrece un plan de reforma.
+en:noun::breach;incumplimiento, violación, brecha;Esto es un claro incumplimiento de contrato.
+en:noun::bureaucrat;burócrata;El plan fue bloqueado por unos cuantos burócratas.
+en:noun::calibre;calibre, valía, nivel;Necesitamos personas de la máxima valía.
+en:noun::caveat;salvedad, advertencia, reserva;Hay una salvedad importante en esta conclusión.
+en:noun::chronology;cronología;El libro sigue una estricta cronología de los acontecimientos.
+en:noun::clarity;claridad;Al discurso le faltaba claridad y enfoque.
+en:noun::coherence;coherencia;Al ensayo le falta coherencia en su argumentación.
+en:noun::cohesion;cohesión;La cohesión social es vital para una sociedad sana.
+en:noun::compilation;recopilación, compilación;El álbum es una recopilación de sus grandes éxitos.
+en:noun::component;componente, elemento;La confianza es un componente clave de cualquier relación.
+en:noun::conception;concepción, idea, noción;Tiene una extraña concepción de la justicia.
+en:noun::configuration;configuración, disposición;Se cambió la configuración de la red.
+en:noun::conjunction;combinación, conjunción;El medicamento actúa en combinación con el ejercicio.
+en:noun::connotation;connotación;La palabra tiene connotaciones negativas para mucha gente.
+en:noun::contention;argumento, opinión, controversia;Sostengo que la política ha fracasado.
+en:noun::contingency;eventualidad, imprevisto, contingencia;Tenemos un plan para cada eventualidad.
+en:noun::continuity;continuidad;El nuevo director prometió continuidad en la política.
+en:noun::convergence;convergencia;Vemos una convergencia de intereses entre las dos empresas.
+en:noun::conviction;convicción, condena (judicial);Habló con gran convicción.
+en:noun::correlation;correlación;Existe una fuerte correlación entre la dieta y la salud.
+en:noun::counterpart;homólogo, equivalente;El ministro se reunió con su homólogo francés en París.
+en:noun::credibility;credibilidad;El escándalo dañó su credibilidad como líder.
+en:noun::critique;crítica, análisis crítico;Escribió una dura crítica del plan del gobierno.
+en:noun::deduction;deducción, desgravación;Tus deducciones fiscales reducen la cantidad que debes.
+en:noun::deficiency;deficiencia, carencia;La carencia de vitaminas puede causar graves problemas de salud.
+en:noun::degradation;degradación, deterioro;La degradación del medio ambiente amenaza a muchas especies.
+en:noun::delegation;delegación;Llegó una delegación comercial de Japón.
+en:noun::denomination;valor (de billete o moneda), confesión (religiosa);Los billetes son de varios valores.
+en:noun::depiction;representación, retrato, descripción;La representación de la guerra en la película es muy realista.
+en:noun::deterioration;deterioro, empeoramiento;Su salud ha empeorado.
+en:noun::deviation;desviación;Cualquier desviación del plan debe ser aprobada.
+en:noun::dichotomy;dicotomía;Existe una falsa dicotomía entre el trabajo y la vida.
+en:noun::discourse;discurso, debate;El discurso político se ha vuelto muy agresivo.
+en:noun::discrepancy;discrepancia, diferencia;Encontramos una discrepancia entre los dos informes.
+en:noun::discretion;discreción, criterio, prudencia;Las primas se pagan a discreción del gerente.
+en:noun::disparity;disparidad, desigualdad;Hay una enorme disparidad entre ricos y pobres.
+en:noun::disposal;eliminación, gestión (de residuos);La eliminación de los residuos nucleares es un gran problema.
+en:noun::disposition;carácter, temperamento, disposición;Tiene un carácter alegre.
+en:noun::doctrine;doctrina;El partido sigue siendo fiel a su doctrina.
+en:noun::domain;ámbito, campo, dominio;Las finanzas no son realmente mi campo.
+en:noun::dominance;dominio, predominio, hegemonía;La empresa ha mantenido su dominio del mercado.
+en:noun::efficacy;eficacia;La eficacia del nuevo medicamento aún no está clara.
+en:noun::elaboration;desarrollo, elaboración;La idea necesita un mayor desarrollo.
+en:noun::eligibility;derecho a participar, requisitos, idoneidad;Comprueba si cumples los requisitos antes de presentar la solicitud.
+en:noun::embodiment;personificación, encarnación;Ella es la personificación de la elegancia.
+en:noun::emergence;aparición, surgimiento;La aparición de nuevas tecnologías crea nuevos empleos.
+en:noun::empowerment;empoderamiento;El proyecto promueve el empoderamiento de las mujeres.
+en:noun::enactment;promulgación, aprobación (de una ley);La promulgación de la ley llevó dos años.
+en:noun::endorsement;respaldo, apoyo, aprobación;El candidato obtuvo el respaldo de los sindicatos.
+en:noun::enforcement;aplicación, cumplimiento (de la ley);Las fuerzas del orden están colaborando.
+en:noun::entitlement;derecho;Se tiene derecho a 25 días de vacaciones al año.
+en:noun::entity;entidad;Las dos empresas son entidades jurídicas independientes.
+en:noun::epitome;personificación, epítome, paradigma;Es la personificación de un caballero.
+en:noun::equilibrium;equilibrio;Con el tiempo, el mercado alcanzará el equilibrio.
+en:noun::equity;capital social, acciones, equidad;La empresa obtuvo dinero vendiendo acciones.
+en:noun::erosion;erosión, desgaste;La erosión costera está destruyendo los acantilados.
+en:noun::escalation;escalada, intensificación;Los diplomáticos temen una escalada del conflicto.
+en:noun::exemption;exención;Las organizaciones benéficas reciben una exención fiscal.
+en:noun::exploitation;explotación, aprovechamiento;Los trabajadores sufrieron una explotación terrible.
+en:noun::exposure;exposición, revelación;La exposición prolongada al sol daña la piel.
+en:noun::extract;fragmento, pasaje, extracto;Lee este fragmento de la novela.
+en:noun::facet;faceta, aspecto;La música es una faceta importante de su vida.
+en:noun::fallacy;falacia, idea errónea;Es una falacia que el dinero da la felicidad.
+en:noun::feasibility;viabilidad, factibilidad;Primero realizaron un estudio de viabilidad.
+en:noun::fluctuation;fluctuación, oscilación;Los precios están sujetos a fluctuaciones estacionales.
+en:noun::foresight;previsión, visión de futuro;Tuvo la previsión de ahorrar dinero desde temprano.
+en:noun::framework;marco, estructura;La ley proporciona un marco para la cooperación.
+en:noun::generalization;generalización;Esa es una generalización peligrosa sobre los jóvenes.
+en:noun::hierarchy;jerarquía;Ascendió rápidamente en la jerarquía de la empresa.
+en:noun::hindsight;retrospectiva, visión retrospectiva;Visto en retrospectiva, deberíamos habernos ido antes.
+en:noun::homage;homenaje, tributo;La película rinde homenaje a los wésterns clásicos.
+en:noun::implementation;implementación, puesta en marcha, aplicación;La puesta en marcha del plan se retrasó.
+en:noun::inception;inicio, creación, fundación;La empresa ha crecido rápidamente desde su creación.
+en:noun::incidence;incidencia, frecuencia;La incidencia de la enfermedad está disminuyendo.
+en:noun::inclusion;inclusión, incorporación;La inclusión de mujeres en el equipo fue bien recibida.
+en:noun::inconsistency;incoherencia, contradicción, inconsistencia;Hay varias contradicciones en su relato.
+en:noun::indication;indicio, señal, indicación;No hay ningún indicio de que esté mintiendo.
+en:noun::indictment;acusación formal, crítica severa;El informe es una crítica demoledora del sistema.
+en:noun::inference;inferencia, conclusión, deducción;Podemos sacar varias conclusiones de los datos.
+en:noun::influx;afluencia, llegada masiva;El pueblo recibió una afluencia de turistas en verano.
+en:noun::initiative;iniciativa;El gobierno lanzó una nueva iniciativa sanitaria.
+en:noun::inquiry;investigación, consulta;Se ha abierto una investigación pública sobre el accidente.
+en:noun::insistence;insistencia;Ante su insistencia, llamamos a un médico.
+en:noun::inspector;inspector;Un inspector de seguridad visitó la fábrica.
+en:noun::installation;instalación;La instalación del nuevo sistema llevó una semana.
+en:noun::intervention;intervención;La intervención militar era la última opción.
+en:noun::intricacy;complejidad, entresijo, entresijos;Explicó los entresijos del sistema fiscal.
+en:noun::jurisdiction;jurisdicción, competencia;Este caso queda fuera de nuestra jurisdicción.
+en:noun::juxtaposition;yuxtaposición, contraste;La yuxtaposición de lo antiguo y lo nuevo es llamativa.
+en:noun::landmark;hito, punto de referencia, monumento emblemático;La sentencia fue un hito en la historia jurídica.
+en:noun::legacy;legado, herencia;El presidente dejó un legado duradero.
+en:noun::legitimacy;legitimidad;Los críticos cuestionaron la legitimidad de las elecciones.
+en:noun::liability;responsabilidad (legal), obligación, lastre;La empresa negó cualquier responsabilidad en el accidente.
+en:noun::litigation;litigio, pleito;La disputa podría dar lugar a un litigio costoso.
+en:noun::magnitude;magnitud, envergadura;Nadie comprendió la magnitud del problema.
+en:noun::mandate;mandato;El gobierno tiene un mandato claro para el cambio.
+en:noun::manifestation;manifestación, expresión;La ira es a menudo una manifestación del miedo.
+en:noun::manifesto;manifiesto, programa electoral;El partido publicó su programa electoral.
+en:noun::mechanism;mecanismo;Necesitamos un mecanismo para resolver las disputas.
+en:noun::mediation;mediación;El conflicto se resolvió mediante la mediación.
+en:noun::merit;mérito, ventaja;Cada propuesta se juzgará por sus méritos.
+en:noun::milestone;hito, etapa importante;La graduación es un hito importante en la vida.
+en:noun::misconduct;falta grave, mala conducta;Lo despidieron por falta grave.
+en:noun::modification;modificación, cambio;Hicimos algunas modificaciones en el diseño.
+en:noun::momentum;impulso, ímpetu;La campaña está cobrando impulso.
+en:noun::nuance;matiz;Los traductores deben entender cada matiz del significado.
+en:noun::offspring;descendencia, hijos, prole;Los padres quieren lo mejor para sus hijos.
+en:noun::onset;comienzo, llegada, aparición;La llegada del invierno trajo fuertes nevadas.
+en:noun::outlook;perspectivas, previsión, visión;Las perspectivas económicas para el año que viene son malas.
+en:noun::overview;visión general, panorama, resumen;El libro ofrece una buena visión general del tema.
+en:noun::paradigm;paradigma;Este descubrimiento provocó un cambio de paradigma en la ciencia.
+en:noun::parameter;parámetro, límite;Debemos trabajar dentro de los límites del presupuesto.
+en:noun::parity;paridad, igualdad;Las mujeres siguen luchando por la igualdad salarial.
+en:noun::persistence;perseverancia, persistencia, tenacidad;Su perseverancia por fin dio frutos.
+en:noun::plausibility;verosimilitud, plausibilidad;El juez dudaba de la verosimilitud de su relato.
+en:noun::precedent;precedente;Esta decisión sienta un precedente peligroso.
+en:noun::precision;precisión;El cirujano trabajó con gran precisión.
+en:noun::predecessor;predecesor, antecesor;El nuevo modelo es más rápido que su predecesor.
+en:noun::premise;premisa;El argumento se basa en una premisa falsa.
+en:noun::premises;local, instalaciones, recinto;No se permite fumar en el recinto.
+en:noun::prerequisite;requisito previo, condición indispensable;Hablar inglés con fluidez es un requisito previo para este puesto.
+en:noun::prevalence;prevalencia, predominio;La prevalencia de la obesidad ha aumentado bruscamente.
+en:noun::proliferation;proliferación;El tratado pretende frenar la proliferación nuclear.
+en:noun::prominence;relevancia, prominencia, notoriedad;Saltó a la fama como abogada de derechos humanos.
+en:noun::proponent;defensor, partidario;Es uno de los principales defensores del libre comercio.
+en:noun::provision;suministro, provisión, disposición (legal);El suministro de agua potable es una prioridad.
+en:noun::proximity;proximidad, cercanía;La principal ventaja del hotel es su proximidad a la playa.
+en:noun::quest;búsqueda;La búsqueda de la felicidad es universal.
+en:noun::ramification;consecuencia, ramificación, repercusión;¿Has considerado las consecuencias legales?
+en:noun::rationale;razonamiento, fundamento, justificación;¿Cuál es el razonamiento detrás de esta decisión?
+en:noun::realm;ámbito, terreno, reino;Esas cosas están fuera del ámbito de lo posible.
+en:noun::rebuttal;refutación, réplica;El ministro emitió una contundente refutación de las acusaciones.
+en:noun::reconstruction;reconstrucción;La reconstrucción de la ciudad llevó décadas.
+en:noun::recurrence;recurrencia, reaparición, recaída;Los médicos quieren evitar una recaída de la enfermedad.
+en:noun::redundancy;despido, redundancia;La fábrica anunció 200 despidos.
+en:noun::refinement;mejora, perfeccionamiento, refinamiento;El diseño necesita algunas mejoras.
+en:noun::reinforcement;refuerzo, refuerzos;La policía pidió refuerzos.
+en:noun::reluctance;reticencia, renuencia, desgana;Entiendo tu reticencia a firmar el contrato.
+en:noun::remainder;resto;Pasó el resto de su vida en España.
+en:noun::remnant;resto, vestigio;Estos muros son los restos de un fuerte romano.
+en:noun::rendition;interpretación, versión;Ofreció una emotiva interpretación de la canción.
+en:noun::repercussion;repercusión, consecuencia;La decisión tendrá graves repercusiones.
+en:noun::replication;replicación, reproducción;La replicación del experimento produjo los mismos resultados.
+en:noun::repository;depósito, archivo, repositorio;La biblioteca es un depósito de la historia local.
+en:noun::resilience;resiliencia, capacidad de recuperación;Los niños a menudo muestran una resiliencia extraordinaria.
+en:noun::resurgence;resurgimiento, renacimiento;Ha habido un resurgimiento del interés por los vinilos.
+en:noun::retention;retención, conservación;La retención del personal es un gran desafío para la empresa.
+en:noun::retrieval;recuperación (de datos);La recuperación rápida de datos es esencial para nosotros.
+en:noun::revelation;revelación;Las revelaciones conmocionaron a todo el país.
+en:noun::rhetoric;retórica;Su retórica atraía a los votantes descontentos.
+en:noun::rigour;rigor;Al estudio le falta rigor científico.
+en:noun::sanctuary;refugio, santuario, reserva;La isla es un refugio para las aves silvestres.
+en:noun::scrutiny;escrutinio, examen minucioso;El plan fue sometido a un escrutinio minucioso.
+en:noun::segment;segmento, sector;Los jóvenes son un segmento clave del mercado.
+en:noun::segregation;segregación;La segregación racial fue finalmente declarada ilegal.
+en:noun::sentiment;sentimiento, opinión;La opinión pública se volvió en contra de la guerra.
+en:noun::simplification;simplificación;Esa es una simplificación burda de los hechos.
+en:noun::sovereignty;soberanía;La nación luchó con empeño para defender su soberanía.
+en:noun::spectrum;espectro, abanico;Se escucharon opiniones de todo el espectro político.
+en:noun::stance;postura, posición;El partido ha adoptado una postura firme sobre la inmigración.
+en:noun::stimulus;estímulo, incentivo;Las rebajas de impuestos fueron un estímulo para la economía.
+en:noun::stipulation;condición, estipulación;La subvención venía con una condición.
+en:noun::subordinate;subordinado, subalterno;Trata a sus subordinados con respeto.
+en:noun::subsistence;subsistencia;Muchas familias viven en el nivel de subsistencia.
+en:noun::successor;sucesor;El rey nombró a su hijo su sucesor.
+en:noun::supremacy;supremacía, hegemonía;Las dos naciones lucharon por la supremacía naval.
+en:noun::synthesis;síntesis;Su obra es una síntesis de arte y ciencia.
+en:noun::tenure;mandato, permanencia en el cargo;Durante su mandato como alcalde, la delincuencia disminuyó.
+en:noun::threshold;umbral;Tiene un umbral del dolor bajo.
+en:noun::trajectory;trayectoria;Su carrera siguió una trayectoria ascendente.
+en:noun::transparency;transparencia;Los votantes exigen más transparencia a los políticos.
+en:noun::turmoil;agitación, caos, convulsión;El país estaba sumido en la agitación política.
+en:noun::undertaking;empresa, tarea, compromiso;Construir el puente fue una empresa enorme.
+en:noun::upheaval;trastorno, conmoción, convulsión;Mudarse de casa es un gran trastorno.
+en:noun::utility;servicios públicos, suministros, utilidad;El alquiler incluye todos los suministros excepto internet.
+en:noun::validity;validez;Los científicos cuestionan la validez de los resultados.
+en:noun::vantage point;mirador, punto de observación, perspectiva;Desde este mirador se ve toda la ciudad.
+en:noun::velocity;velocidad;La bala viaja a gran velocidad.
+en:noun::viability;viabilidad;Los inversores dudan de la viabilidad del proyecto.
+en:noun::vicinity;alrededores, cercanías, inmediaciones;Hay varias tiendas en los alrededores.
+en:noun::vigilance;vigilancia, precaución;La policía instó a la población a estar alerta.
+en:noun::vulnerability;vulnerabilidad;Los hackers aprovecharon una vulnerabilidad del software.
+en:noun::whereabouts;paradero;Su paradero sigue siendo desconocido.
+en:noun::acquittal;absolución;El juicio terminó con una absolución.
+en:noun::affidavit;declaración jurada;Firmó una declaración jurada que confirmaba los hechos.
+en:noun::annexation;anexión;La anexión del territorio fue condenada en todo el mundo.
+en:noun::appellant;apelante, recurrente;El tribunal rechazó la demanda del apelante.
+en:noun::arsenal;arsenal;El país tiene un enorme arsenal nuclear.
+en:noun::assassination;asesinato (de una figura pública), magnicidio;El asesinato del presidente conmocionó al mundo.
+en:noun::austerity;austeridad;Años de austeridad golpearon duramente los servicios públicos.
+en:noun::authorization;autorización, permiso;Necesitas autorización para entrar en esta zona.
+en:noun::bailout;rescate (financiero);El banco recibió un rescate del gobierno.
+en:noun::bidder;postor, licitador;El cuadro se vendió al mejor postor.
+en:noun::bloc;bloque;El bloque comercial incluye cinco países.
+en:noun::bondage;esclavitud, servidumbre, cautiverio;Vivieron durante años en la esclavitud.
+en:noun::bookkeeping;contabilidad, teneduría de libros;Lleva la contabilidad de una pequeña empresa.
+en:noun::boycott;boicot;Los activistas llamaron a boicotear los productos.
+en:noun::bribery;soborno, cohecho;El funcionario fue acusado de soborno.
+en:noun::brokerage;agencia de valores, correduría, corretaje;Trabaja para una gran correduría de Londres.
+en:noun::by-election;elección parcial;El partido perdió la elección parcial la semana pasada.
+en:noun::cabinet minister;ministro, miembro del gabinete;Ayer dimitieron dos ministros.
+en:noun::capitalism;capitalismo;Los críticos sostienen que el capitalismo aumenta la desigualdad.
+en:noun::cartel;cártel;Un cártel de la droga controlaba la región.
+en:noun::ceasefire;alto el fuego;Ambas partes acordaron un alto el fuego.
+en:noun::clemency;clemencia, indulto;El preso pidió clemencia al gobernador.
+en:noun::collateral;garantía, aval, colateral;Usó su casa como garantía del préstamo.
+en:noun::commissioner;comisario, comisionado, jefe (de policía);El jefe de policía ofreció una rueda de prensa.
+en:noun::commodity;materia prima, mercancía, producto básico;El petróleo es la materia prima más comercializada del mundo.
+en:noun::compliance;cumplimiento (de normas), conformidad;La empresa opera en pleno cumplimiento de la ley.
+en:noun::concession;concesión;Ambas partes tuvieron que hacer concesiones.
+en:noun::confiscation;confiscación, decomiso;El tribunal ordenó la confiscación de sus bienes.
+en:noun::conglomerate;conglomerado, grupo empresarial;La empresa fue comprada por un conglomerado mediático.
+en:noun::consortium;consorcio;Un consorcio de bancos financió el proyecto.
+en:noun::constituency;circunscripción (electoral), distrito electoral;Representa a una circunscripción rural.
+en:noun::constituent;elector, votante, componente;El diputado se reunió con sus electores el viernes.
+en:noun::contempt of court;desacato (al tribunal);Lo encarcelaron por desacato al tribunal.
+en:noun::conscription;servicio militar obligatorio, reclutamiento;El país abolió el servicio militar obligatorio en 2011.
+en:noun::coup;golpe de Estado, golpe maestro;El ejército tomó el poder mediante un golpe militar.
+en:noun::covenant;cláusula, pacto, convenio;El contrato de arrendamiento contiene una cláusula que prohíbe el subarriendo.
+en:noun::creed;credo, religión, creencias;Aquí vive gente de todas las razas y credos.
+en:noun::custodian;custodio, guardián;El museo es el custodio de los tesoros nacionales.
+en:noun::defamation;difamación;El actor demandó al periódico por difamación.
+en:noun::default;impago, incumplimiento de pago, valor predeterminado;El país está al borde del impago de su deuda.
+en:noun::defector;desertor, tránsfuga;El desertor entregó valiosos secretos a Occidente.
+en:noun::denunciation;denuncia, condena, censura;El discurso fue una feroz denuncia del racismo.
+en:noun::deportation;deportación, expulsión;Se enfrenta a la deportación a su país de origen.
+en:noun::depreciation;depreciación, devaluación, amortización;La depreciación de la moneda perjudicó a los importadores.
+en:noun::deputy;adjunto, subdirector, suplente;El subdirector dirigirá la escuela esta semana.
+en:noun::deregulation;desregulación, liberalización;La desregulación de los bancos provocó la crisis.
+en:noun::deterrent;elemento disuasorio, freno;Las multas elevadas actúan como elemento disuasorio contra el exceso de velocidad.
+en:noun::diplomacy;diplomacia;La crisis se resolvió mediante una diplomacia discreta.
+en:noun::disarmament;desarme;Las conversaciones sobre desarme nuclear se reanudaron en Ginebra.
+en:noun::dissent;disidencia, desacuerdo, discrepancia;El régimen no tolera la disidencia.
+en:noun::dissident;disidente;Varios disidentes fueron detenidos anoche.
+en:noun::divestment;desinversión;Los estudiantes hicieron campaña por la desinversión en las empresas petroleras.
+en:noun::downsizing;reducción de plantilla, recorte de personal;La reducción de plantilla supuso la pérdida de 500 empleos.
+en:noun::electorate;electorado, votantes;El electorado está cansado de promesas incumplidas.
+en:noun::embargo;embargo (comercial), prohibición;La ONU impuso un embargo de armas al país.
+en:noun::embezzlement;malversación, desfalco;El contable fue declarado culpable de malversación.
+en:noun::envoy;enviado, emisario;Se envió a la región a un enviado de la ONU.
+en:noun::espionage;espionaje;Fue acusado de espionaje industrial.
+en:noun::extradition;extradición;Estados Unidos solicitó su extradición a España.
+en:noun::faction;facción, bando;Las facciones rivales dentro del partido están enfrentadas.
+en:noun::federation;federación;La federación de fútbol anunció nuevas normas.
+en:noun::felony;delito grave;El robo es un delito grave en la mayoría de los países.
+en:noun::fiscal year;ejercicio fiscal, año fiscal;Los beneficios aumentaron en el último ejercicio fiscal.
+en:noun::forecaster;meteorólogo, pronosticador, analista;Los meteorólogos prevén fuertes lluvias para mañana.
+en:noun::foreclosure;ejecución hipotecaria, embargo (de vivienda);Muchas familias sufrieron ejecuciones hipotecarias durante la crisis.
+en:noun::forgery;falsificación;El cuadro resultó ser una falsificación.
+en:noun::fugitive;fugitivo, prófugo;La policía sigue buscando al fugitivo.
+en:noun::genocide;genocidio;El tribunal lo declaró culpable de genocidio.
+en:noun::governance;gobernanza, gestión, gobierno (corporativo);El escándalo planteó dudas sobre el gobierno corporativo.
+en:noun::grievance;queja, agravio, reivindicación;Los trabajadores tienen varias quejas sobre el salario.
+en:noun::homicide;homicidio;La policía está tratando la muerte como un homicidio.
+en:noun::impeachment;juicio político, impeachment, destitución;El Congreso inició un juicio político contra el presidente.
+en:noun::imprisonment;encarcelamiento, prisión, pena de cárcel;Fue condenado a cadena perpetua.
+en:noun::incumbent;titular (del cargo), actual ocupante del cargo;El titular del cargo ganó las elecciones con facilidad.
+en:noun::indemnity;indemnización, cobertura, garantía;La póliza ofrece cobertura contra daños por incendio.
+en:noun::injunction;orden judicial, mandamiento judicial, interdicto;El tribunal dictó una orden judicial para detener la huelga.
+en:noun::insolvency;insolvencia;La empresa está al borde de la insolvencia.
+en:noun::insurgency;insurgencia, insurrección;El ejército tuvo dificultades para derrotar a la insurgencia.
+en:noun::interrogation;interrogatorio;El sospechoso confesó durante el interrogatorio.
+en:noun::jurisprudence;jurisprudencia, ciencia del derecho;Es experta en derecho internacional.
+en:noun::juror;miembro del jurado, jurado;Los miembros del jurado tardaron tres días en llegar a un veredicto.
+en:noun::levy;impuesto, gravamen, tasa;El gobierno introdujo un impuesto sobre las bebidas azucaradas.
+en:noun::liquidity;liquidez;Los bancos necesitan suficiente liquidez para sobrevivir a una crisis.
+en:noun::lobby;lobby, grupo de presión, vestíbulo;El lobby de las armas es muy poderoso en Estados Unidos.
+en:noun::lobbyist;miembro de un grupo de presión, lobista;Los grupos de presión intentaron influir en la nueva ley.
+en:noun::magistrate;magistrado, juez de paz;Compareció ante los magistrados el lunes.
+en:noun::malpractice;negligencia profesional, mala praxis;Demandaron al cirujano por negligencia médica.
+en:noun::manslaughter;homicidio involuntario, homicidio imprudente;El conductor fue condenado por homicidio involuntario.
+en:noun::militia;milicia;Milicias armadas controlan partes del país.
+en:noun::misdemeanour;falta, delito menor;El hurto en tiendas suele considerarse un delito menor.
+en:noun::nominee;candidato, nominado;Es la candidata del partido a la presidencia.
+en:noun::oath;juramento;Los testigos deben declarar bajo juramento.
+en:noun::oversight;descuido, omisión, supervisión;El error se debió a un descuido.
+en:noun::parole;libertad condicional;Salió en libertad condicional después de cinco años.
+en:noun::perjury;perjurio, falso testimonio;Fue acusada de perjurio después del juicio.
+en:noun::perpetrator;autor (de un delito), culpable;Los autores del atentado nunca fueron capturados.
+en:noun::plaintiff;demandante;El demandante exigió una indemnización por daños y perjuicios.
+en:noun::plea;declaración (ante el tribunal), súplica, alegato;Se declaró no culpable.
+en:noun::plurality;mayoría relativa, pluralidad;El candidato obtuvo la mayoría relativa de los votos.
+en:noun::populism;populismo;El auge del populismo preocupa a muchos expertos.
+en:noun::portfolio;cartera, portafolio;Gestiona una gran cartera de inversiones.
+en:noun::prosecutor;fiscal;El fiscal pidió una condena de diez años.
+en:noun::ratification;ratificación;El tratado está pendiente de ratificación por el Parlamento.
+en:noun::recourse;recurso, opción;Sin contrato, no tienes ningún recurso legal.
+en:noun::regent;regente;El tío de la reina gobernó como regente.
+en:noun::remuneration;remuneración, retribución;El puesto ofrece una remuneración atractiva.
+en:noun::reparation;reparación, indemnización;El país se vio obligado a pagar reparaciones de guerra.
+en:noun::repression;represión;El régimen es conocido por su brutal represión.
+en:noun::reprisal;represalia;Los testigos temían represalias si hablaban.
+en:noun::restitution;restitución, indemnización;El tribunal ordenó indemnizar a las víctimas.
+en:noun::sabotage;sabotaje;El incendio fue un acto de sabotaje.
+en:noun::secession;secesión, separación;La región votó a favor de la secesión.
+en:noun::sedition;sedición;El periodista fue acusado de sedición.
+en:noun::solvency;solvencia;A los inversores les preocupa la solvencia del banco.
+en:noun::sponsorship;patrocinio;El equipo firmó un nuevo contrato de patrocinio.
+en:noun::statute;ley, estatuto;El Parlamento aprobó la ley en 1990.
+en:noun::subpoena;citación (judicial);Recibió una citación para comparecer como testigo.
+en:noun::summit;cumbre;Los líderes mundiales se reunieron en la cumbre del clima.
+en:noun::tribunal;tribunal;El caso llegó a un tribunal laboral.
+en:noun::truce;tregua;Las dos partes acordaron una tregua temporal.
+en:noun::tyranny;tiranía;El pueblo se levantó contra la tiranía.
+en:noun::underdog;el más débil, el que tiene menos posibilidades, desvalido;A todo el mundo le gusta apoyar al más débil.
+en:noun::veto;veto;El presidente usó su veto para bloquear el proyecto de ley.
+en:noun::warrant;orden (judicial);La policía obtuvo una orden de registro para la casa.
+en:noun::whistle-blower;denunciante, informante;El denunciante sacó a la luz el fraude de la empresa.
+en:noun::accrual;devengo, acumulación;El devengo de intereses se produce mensualmente.
+en:noun::arrears;atrasos, deudas atrasadas;Lleva tres meses de retraso en el pago del alquiler.
+en:noun::asset stripping;liquidación de activos, vaciamiento patrimonial;El acuerdo fue criticado como una liquidación de activos.
+en:noun::audit trail;registro de auditoría, pista de auditoría;El sistema guarda un registro de auditoría de cada cambio.
+en:noun::backer;patrocinador, inversor, partidario;La película perdió a sus patrocinadores financieros.
+en:noun::balance sheet;balance (general), balance de situación;El balance de la empresa parece saneado.
+en:noun::barter;trueque;Los aldeanos todavía comercian mediante el trueque.
+en:noun::bottleneck;cuello de botella, atasco;La nueva carretera debería eliminar el cuello de botella del tráfico.
+en:noun::brainchild;creación, idea, invento;El festival fue idea de dos estudiantes.
+en:noun::clientele;clientela;El restaurante tiene una clientela adinerada.
+en:noun::collaborator;colaborador, colaboracionista;Dio las gracias a sus colaboradores en el proyecto.
+en:noun::commencement;comienzo, inicio;El comienzo de las obras se retrasó.
+en:noun::consignment;envío, remesa, partida;Ayer llegó un envío de medicamentos.
+en:noun::consultancy;consultora, consultoría;Trabaja para una consultora de gestión.
+en:noun::contingency plan;plan de contingencia, plan de emergencia;Toda empresa necesita un plan de contingencia.
+en:noun::cutback;recorte;Los hospitales se enfrentan a graves recortes el próximo año.
+en:noun::delegate;delegado, representante;Delegados de cincuenta países asistieron a la reunión.
+en:noun::directive;directiva, instrucción;La UE publicó una nueva directiva sobre datos.
+en:noun::disbursement;desembolso, pago;El desembolso de los fondos se retrasó.
+en:noun::diversification;diversificación;La diversificación reduce el riesgo de pérdidas.
+en:noun::due diligence;diligencia debida, auditoría previa;Los inversores deben realizar primero una diligencia debida.
+en:noun::endowment;fondo de dotación, dotación, donación;La universidad tiene un gran fondo de dotación.
+en:noun::entrepreneurship;emprendimiento, espíritu empresarial;El gobierno fomenta el emprendimiento entre los jóvenes.
+en:noun::expiry;caducidad, vencimiento;Comprueba la fecha de caducidad de tu pasaporte.
+en:noun::flotation;salida a bolsa;La salida a bolsa de la empresa recaudó millones.
+en:noun::forfeit;sanción, multa, prenda (en un juego);El equipo tuvo que pagar una sanción por no presentarse al partido.
+en:noun::goodwill;buena voluntad, fondo de comercio;El regalo fue un gesto de buena voluntad.
+en:noun::headhunter;cazatalentos;Una cazatalentos le ofreció un trabajo en Berlín.
+en:noun::hindrance;obstáculo, estorbo, impedimento;Las normas son más un estorbo que una ayuda.
+en:noun::incorporation;constitución (de una sociedad), incorporación;La constitución de la empresa llevó un mes.
+en:noun::liquidation;liquidación;La empresa entró en liquidación el año pasado.
+en:noun::logistician;logista, experto en logística;Un experto en logística organizó la entrega.
+en:noun::markup;margen de beneficio, recargo;Las tiendas aplican un gran margen de beneficio a los artículos de diseño.
+en:noun::memorandum;memorando, circular, nota interna;El gerente envió un memorando a todo el personal.
+en:noun::monetary policy;política monetaria;El banco central cambió su política monetaria.
+en:noun::negotiator;negociador;Los negociadores del sindicato rechazaron la última oferta.
+en:noun::niche;nicho;La empresa encontró un nicho rentable en el mercado.
+en:noun::outlay;desembolso, inversión, gasto;El proyecto requiere un gran desembolso inicial.
+en:noun::overhead;gastos generales, costes fijos;Mudarnos a una oficina más pequeña redujo nuestros gastos generales.
+en:noun::payroll;nómina, plantilla;La empresa tiene 300 personas en nómina.
+en:noun::procurement;compras, adquisiciones, aprovisionamiento;Es la responsable de compras del hospital.
+en:noun::proprietor;propietario, dueño;El propietario del hotel nos recibió personalmente.
+en:noun::prospectus;folleto informativo, prospecto;Lee el folleto informativo de la universidad antes de presentar la solicitud.
+en:noun::quotation;presupuesto, cita;El albañil nos dio un presupuesto para la obra.
+en:noun::rebate;reembolso, devolución, descuento;Los clientes recibirán una devolución de impuestos.
+en:noun::restructuring;reestructuración;La reestructuración costará cientos de empleos.
+en:noun::royalty;derechos de autor, regalías;El autor cobra derechos de autor por cada ejemplar vendido.
+en:noun::slump;caída (brusca), bajón, recesión;Hubo una caída de las ventas después de Navidad.
+en:noun::speculator;especulador;Los especuladores de divisas obtuvieron enormes beneficios.
+en:noun::stockpile;reservas, acopio, existencias;El país tiene grandes reservas de alimentos.
+en:noun::synergy;sinergia;La fusión creará sinergias entre las empresas.
+en:noun::tender;oferta (en una licitación), licitación;Varias empresas presentaron una oferta para el contrato.
+en:noun::trustee;fideicomisario, administrador, patrono (de una fundación);Los patronos de la organización benéfica se reunieron la semana pasada.
+en:noun::turnaround;recuperación, giro radical, cambio de rumbo;El nuevo director ejecutivo logró una recuperación notable.
+en:noun::underwriter;asegurador, suscriptor;Los aseguradores se negaron a cubrir el riesgo.
+en:noun::upturn;repunte, mejora, recuperación;Los economistas esperan un repunte de la economía.
+en:noun::venue;lugar (de celebración), recinto, sede;Ha cambiado el lugar del concierto.
+en:noun::watchdog;organismo regulador, organismo de control, perro guardián;El organismo de protección al consumidor multó al banco.
+en:noun::windfall;ganancia inesperada, golpe de suerte;La familia recibió una ganancia inesperada.
+en:noun::writ;demanda judicial, mandamiento judicial, orden;La empresa interpuso una demanda contra el periódico.
+en:noun::yield;rendimiento, rentabilidad, cosecha;La rentabilidad de los bonos subió bruscamente esta semana.
+en:noun::alienation;alienación, distanciamiento, aislamiento;Muchos adolescentes sienten una sensación de aislamiento.
+en:noun::altruism;altruismo;Su decisión fue un acto de puro altruismo.
+en:noun::ambivalence;ambivalencia, sentimientos encontrados;Sentía cierta ambivalencia ante la idea de irse de casa.
+en:noun::angst;angustia, ansiedad;La angustia adolescente es un tema habitual en el cine.
+en:noun::animosity;animosidad, hostilidad;No hay animosidad entre los dos jugadores.
+en:noun::apathy;apatía, indiferencia;La apatía de los votantes es un problema grave.
+en:noun::apprehension;aprensión, inquietud, temor;Sintió cierta inquietud antes del examen.
+en:noun::assertiveness;asertividad, seguridad en uno mismo;La formación en asertividad le ayudó en el trabajo.
+en:noun::attribution;atribución;La atribución del cuadro a Rembrandt es objeto de discusión.
+en:noun::audacity;descaro, osadía, audacia;Tuvo el descaro de pedir más dinero.
+en:noun::bewilderment;desconcierto, perplejidad;Ella lo miró con desconcierto.
+en:noun::bigotry;intolerancia, fanatismo;Debemos combatir la intolerancia en todas sus formas.
+en:noun::bliss;dicha, felicidad absoluta, gloria;Las vacaciones fueron una auténtica gloria.
+en:noun::burnout;agotamiento (profesional), síndrome de desgaste profesional;Muchas enfermeras sufren agotamiento profesional.
+en:noun::candour;franqueza, sinceridad;Agradezco tu franqueza en este asunto.
+en:noun::catharsis;catarsis;Escribir el libro fue una especie de catarsis.
+en:noun::cognition;cognición, funciones cognitivas;El sueño es importante para unas funciones cognitivas sanas.
+en:noun::compulsion;compulsión, impulso irresistible, obligación;Sentía el impulso irresistible de mirar el móvil.
+en:noun::conceit;engreimiento, vanidad, presunción;Su engreimiento lo hacía impopular.
+en:noun::condescension;condescendencia, aires de superioridad;Nos habló con evidente condescendencia.
+en:noun::contentment;satisfacción, alegría serena;Sonrió con serena satisfacción.
+en:noun::contrition;contrición, arrepentimiento;No mostró ningún arrepentimiento por su delito.
+en:noun::defiance;desafío, rebeldía, desobediencia;La protesta fue un acto de desafío.
+en:noun::dejection;abatimiento, desánimo;Salió de la habitación abatido.
+en:noun::delusion;delirio, ilusión, engaño;Sufre delirios de grandeza.
+en:noun::dementia;demencia;Su abuelo padece demencia.
+en:noun::desolation;desolación;La guerra dejó un paisaje de desolación.
+en:noun::despondency;desaliento, abatimiento, desánimo;Un clima de desaliento se apoderó del equipo.
+en:noun::detachment;distanciamiento, indiferencia, destacamento;Ella observó la escena con fría indiferencia.
+en:noun::disdain;desdén, desprecio;Miró la comida con desdén.
+en:noun::disillusionment;desencanto, desilusión;Hay un creciente desencanto con la política.
+en:noun::distress;angustia, aflicción, sufrimiento;La noticia le causó una gran angustia.
+en:noun::elation;euforia, júbilo;Hubo euforia cuando ganó el equipo.
+en:noun::eloquence;elocuencia;Habló con gran elocuencia.
+en:noun::endurance;resistencia, aguante;Correr maratones requiere una gran resistencia.
+en:noun::envy;envidia;Miró su coche nuevo con envidia.
+en:noun::euphoria;euforia;La euforia de la victoria pronto se desvaneció.
+en:noun::fervour;fervor, ardor;Cantaban con fervor religioso.
+en:noun::fixation;obsesión, fijación;Tiene obsesión por los coches antiguos.
+en:noun::fortitude;entereza, fortaleza, temple;Afrontó su enfermedad con gran entereza.
+en:noun::gratification;gratificación, satisfacción;Los niños a menudo quieren una gratificación inmediata.
+en:noun::greed;codicia, avaricia;La crisis fue causada por la codicia.
+en:noun::hysteria;histeria;La noticia provocó una histeria colectiva.
+en:noun::indifference;indiferencia;Su indiferencia ante el dolor de ella le hizo daño.
+en:noun::indignation;indignación;La decisión causó indignación pública.
+en:noun::infatuation;encaprichamiento, enamoramiento pasajero, capricho;Fue solo un enamoramiento adolescente.
+en:noun::inhibition;inhibición;Después de una copa, perdió sus inhibiciones.
+en:noun::innocence;inocencia;Siempre ha defendido su inocencia.
+en:noun::intimidation;intimidación;Los votantes sufrieron intimidación en los colegios electorales.
+en:noun::introspection;introspección;La crisis dio paso a un período de introspección.
+en:noun::irritation;irritación, fastidio;No pudo ocultar su irritación.
+en:noun::longing;anhelo, añoranza, nostalgia;Sentía una profunda añoranza de su hogar.
+en:noun::malice;malicia, mala intención, maldad;Lo hizo por pura maldad.
+en:noun::melancholy;melancolía;Lo invadió un sentimiento de melancolía.
+en:noun::misery;miseria, sufrimiento, desdicha;La guerra trajo sufrimiento a millones de personas.
+en:noun::misgiving;recelo, duda, reserva;Tengo serias dudas sobre este plan.
+en:noun::narcissism;narcisismo;Su narcisismo hacía imposible el trabajo en equipo.
+en:noun::neurosis;neurosis;Desarrolló una neurosis con los gérmenes.
+en:noun::nonchalance;indiferencia, despreocupación, desenfado;Respondió con una indiferencia estudiada.
+en:verb::activate;activar;Tienes que activar la tarjeta antes de usarla.
+en:verb::adhere;cumplir, atenerse, adherirse;Todos los miembros deben cumplir las normas.
+en:verb::affirm;confirmar, afirmar, ratificar;El tribunal confirmó la decisión original.
+en:verb::alienate;alejar, distanciar, enajenar;La nueva política alejó a muchos clientes fieles.
+en:verb::allege;alegar, afirmar, acusar;La policía alega que él robó el dinero.
+en:verb::alleviate;aliviar, mitigar;Este medicamento debería aliviar el dolor.
+en:verb::amend;enmendar, modificar;El Parlamento votó a favor de modificar la ley.
+en:verb::amplify;amplificar;El micrófono amplifica su voz.
+en:verb::appease;apaciguar, aplacar;El gerente intentó apaciguar a los clientes enfadados.
+en:verb::articulate;expresar (con claridad), articular, formular;Le costaba expresar sus sentimientos.
+en:verb::ascertain;averiguar, determinar, establecer;La policía intenta averiguar la causa del incendio.
+en:verb::assimilate;asimilar;Los niños asimilan la información nueva muy rápido.
+en:verb::attain;alcanzar, lograr;Pocas personas alcanzan un nivel de destreza tan alto.
+en:verb::authorize;autorizar;Solo el director puede autorizar este pago.
+en:verb::bolster;reforzar, fortalecer, apuntalar;Las buenas noticias reforzaron la confianza del equipo.
+en:verb::bypass;circunvalar, evitar, sortear;La nueva carretera circunvala el centro de la ciudad.
+en:verb::cater;atender, estar dirigido a, satisfacer las necesidades;El hotel está dirigido principalmente a viajeros de negocios.
+en:verb::cherish;atesorar, apreciar, valorar;Atesoro los recuerdos de mi infancia.
+en:verb::circulate;circular, difundir;Empezaron a circular rumores sobre su dimisión.
+en:verb::commence;comenzar, dar comienzo;La ceremonia comenzará a mediodía.
+en:verb::compel;obligar, forzar;La enfermedad lo obligó a jubilarse anticipadamente.
+en:verb::compile;compilar, elaborar, recopilar;Elaboramos una lista de posibles candidatos.
+en:verb::comprise;constar de, comprender, componerse de;El equipo consta de cinco ingenieros y un diseñador.
+en:verb::concede;reconocer, admitir, conceder;Al final reconoció que yo tenía razón.
+en:verb::conceive;concebir, idear;La idea fue concebida por un joven estudiante.
+en:verb::confer;deliberar, consultar, conferir;Los jueces deliberaron antes de anunciar al ganador.
+en:verb::confiscate;confiscar, requisar, quitar;El profesor le quitó el móvil durante la clase.
+en:verb::conform;cumplir (con), ajustarse, conformarse;El edificio no cumple las normas de seguridad.
+en:verb::constitute;constituir, representar, suponer;Las mujeres constituyen la mitad de la población activa.
+en:verb::contemplate;plantearse, considerar, contemplar;Se está planteando un cambio de carrera.
+en:verb::contend;sostener, afirmar, competir;Los críticos sostienen que el plan es demasiado caro.
+en:verb::convene;reunirse, convocar;El comité se reunirá el próximo lunes.
+en:verb::convey;transmitir, expresar;Las palabras no pueden expresar lo agradecido que estoy.
+en:verb::curb;frenar, contener, controlar;El gobierno quiere frenar la inflación.
+en:verb::deem;considerar, estimar;La película fue considerada inadecuada para niños.
+en:verb::defy;desafiar, desobedecer;Los manifestantes desafiaron la prohibición de manifestarse.
+en:verb::denounce;denunciar, condenar;El ministro condenó la violencia.
+en:verb::deplete;agotar, mermar;La pesca ha agotado las reservas de bacalao.
+en:verb::deploy;desplegar;Se desplegaron tropas adicionales en la región.
+en:verb::deprive;privar;Se privó a los presos del sueño.
+en:verb::designate;designar, declarar, nombrar;Esta zona ha sido declarada reserva natural.
+en:verb::deter;disuadir, ahuyentar;Los precios altos pueden disuadir a algunos turistas.
+en:verb::devise;idear, concebir, diseñar;Idearon un plan ingenioso para escapar.
+en:verb::differentiate;diferenciar, distinguir;Los niños pequeños no siempre saben distinguir entre fantasía y realidad.
+en:verb::diminish;disminuir, reducir, atenuarse;El dolor disminuirá con el tiempo.
+en:verb::discriminate;discriminar, distinguir;Es ilegal discriminar a los trabajadores de más edad.
+en:verb::dispatch;enviar, despachar;Su pedido se enviará en un plazo de 24 horas.
+en:verb::dispel;disipar, desvanecer;El informe disipó los temores de una recesión.
+en:verb::disperse;dispersar, disolver;La policía usó agua para dispersar a la multitud.
+en:verb::displace;desplazar, desalojar;Miles de personas fueron desplazadas por las inundaciones.
+en:verb::dispose;deshacerse (de), desechar, eliminar;Por favor, deshágase de la basura de forma adecuada.
+en:verb::distort;distorsionar, tergiversar;El periódico tergiversó los hechos.
+en:verb::divert;desviar, distraer;Se desvió el tráfico a causa del accidente.
+en:verb::dwell;darle vueltas (a algo), detenerse en, residir;No le des vueltas a tus errores del pasado.
+en:verb::embark;emprender, embarcarse;Emprendió una nueva carrera en el derecho.
+en:verb::embody;encarnar, personificar;Él encarna todo lo que admiro en un líder.
+en:verb::empower;empoderar, capacitar, facultar;La educación capacita a las mujeres para tomar sus propias decisiones.
+en:verb::enact;promulgar, aprobar (una ley), representar;La nueva ley se promulgó el año pasado.
+en:verb::encompass;abarcar, comprender;El curso abarca historia, arte y música.
+en:verb::endorse;respaldar, aprobar, apoyar;El comité aprobó el plan.
+en:verb::enlighten;aclarar, ilustrar, iluminar;¿Podrías aclararme las nuevas normas?
+en:verb::enrich;enriquecer;Viajar puede enriquecer tu vida de muchas maneras.
+en:verb::ensue;sobrevenir, seguir, producirse (a continuación);Tras la reunión se produjo una larga discusión.
+en:verb::entail;conllevar, implicar, suponer;¿Qué implica exactamente el trabajo?
+en:verb::entitle;dar derecho;Esta entrada te da derecho a entrar gratis.
+en:verb::envisage;prever, imaginar, contemplar;No preveo grandes cambios este año.
+en:verb::eradicate;erradicar;La enfermedad fue erradicada hace décadas.
+en:verb::erode;erosionar, socavar, minar;El escándalo ha minado la confianza pública.
+en:verb::escalate;intensificarse, agravarse, escalar;El conflicto se agravó hasta convertirse en una guerra abierta.
+en:verb::evoke;evocar, suscitar;La canción evoca recuerdos de mi juventud.
+en:verb::exacerbate;agravar, exacerbar, empeorar;El estrés puede agravar los síntomas.
+en:verb::excel;destacar, sobresalir;Destaca en matemáticas.
+en:verb::exert;ejercer;Los padres ejercen una gran influencia sobre sus hijos.
+en:verb::exploit;explotar, aprovecharse de;Los trabajadores eran explotados por su empleador.
+en:verb::facilitate;facilitar;El nuevo software facilitará la comunicación.
+en:verb::falter;flaquear, vacilar, quebrarse (la voz);Se le quebró la voz al hablar de su padre.
+en:verb::fluctuate;fluctuar, oscilar;Los precios fluctúan a lo largo del año.
