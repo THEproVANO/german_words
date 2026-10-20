@@ -105,7 +105,7 @@ async def start_weekly_if_due(bot: Bot, user: sqlite3.Row, d: date) -> bool:
     """После дневного теста за воскресенье запускает недельный тест."""
     if d.weekday() != 6 or db.get_quiz(user["id"], "weekly", d):
         return False
-    word_ids = db.words_for_dates(user["id"], d - timedelta(days=6), d)
+    word_ids = db.words_for_dates(user["id"], user["lang"], d - timedelta(days=6), d)
     return await start_quiz(bot, user, "weekly", d, word_ids)
 
 
@@ -115,7 +115,7 @@ async def ensure_quizzes(bot: Bot, user: sqlite3.Row) -> None:
         return
     d = study_date(local_now(user)) - timedelta(days=1)
     if not db.get_quiz(user["id"], "daily", d):
-        if await start_quiz(bot, user, "daily", d, db.words_for_dates(user["id"], d, d)):
+        if await start_quiz(bot, user, "daily", d, db.words_for_dates(user["id"], user["lang"], d, d)):
             return
     await start_weekly_if_due(bot, user, d)
 
@@ -127,7 +127,7 @@ async def start_test(bot: Bot, user: sqlite3.Row, weekly: bool) -> None:
         await send_question(bot, user, quiz["id"])
         return
     d = study_date(local_now(user))
-    word_ids = db.words_for_dates(user["id"], d - timedelta(days=6 if weekly else 0), d)
+    word_ids = db.words_for_dates(user["id"], user["lang"], d - timedelta(days=6 if weekly else 0), d)
     if not word_ids:
         await bot.send_message(user["id"], t(user["ui_lang"], "test_no_words"))
         return
@@ -148,7 +148,7 @@ def day_words_messages(user: sqlite3.Row, quiz: sqlite3.Row) -> list[str]:
     чтобы не упереться в лимит длины сообщения Telegram."""
     d = _quiz_day(user, quiz)
     tl = db.tr_lang(user)
-    lines = [words.word_line(db.get_word(i), tl) for i in db.words_for_dates(user["id"], d, d)]
+    lines = [words.word_line(db.get_word(i), tl) for i in db.words_for_dates(user["id"], user["lang"], d, d)]
     chunks, current = [], []
     for line in lines:
         if current and len("\n".join(current + [line])) > 3500:
@@ -170,11 +170,11 @@ def summary_text(user: sqlite3.Row, quiz: sqlite3.Row) -> str:
     d = _quiz_day(user, quiz)
 
     if not quiz["kind"].endswith("weekly"):
-        today = len(db.words_for_dates(user["id"], d, d))
+        today = len(db.words_for_dates(user["id"], user["lang"], d, d))
         return t(lang, "summary_daily", today=today, learned=learned, total=total,
                  percent=percent, stats=stats)
 
-    week = len(db.words_for_dates(user["id"], d - timedelta(days=6), d))
+    week = len(db.words_for_dates(user["id"], user["lang"], d - timedelta(days=6), d))
     per_day = len(slots(user))
     remaining = total - learned
     if remaining <= 0 or per_day == 0:

@@ -37,8 +37,8 @@ def load_words() -> int:
     return total
 
 
-# Флаг языка перевода в карточке и вопросе теста
-FLAGS = {"ru": "🇷🇺", "en": "🇬🇧", "es": "🇪🇸"}
+# Флаги языков: изучаемого слова и перевода
+FLAGS = {"ru": "🇷🇺", "de": "🇩🇪", "en": "🇬🇧", "es": "🇪🇸"}
 
 
 def _add_translations(lang: str, rows: list[dict]) -> None:
@@ -66,7 +66,7 @@ def translation(w: sqlite3.Row, tl: str) -> tuple[str, str, str]:
 def word_line(w: sqlite3.Row, tl: str) -> str:
     """Строка для списка слов: «<b>der Apfel</b> — яблоко»."""
     word = f"{w['article']} {w['word']}".strip()
-    return f"<b>{html.escape(word)}</b> — {html.escape(translation(w, tl)[0])}"
+    return f"{FLAGS[w['lang']]} <b>{html.escape(word)}</b> — {html.escape(translation(w, tl)[0])}"
 
 
 def _bold(text: str) -> str:
@@ -98,7 +98,7 @@ def format_card(w: sqlite3.Row, lang: str, tl: str = "ru") -> str:
             head += " — " + " — ".join(e(f) for f in forms)
 
     return (
-        f"<i>{pos_name(lang, w['pos'])}</i> · {level_name(lang, w['level'])}\n"
+        f"{FLAGS[w['lang']]} <i>{pos_name(lang, w['pos'])}</i> · {level_name(lang, w['level'])}\n"
         f"{head}\n"
         f"{flag} {e(tr)}\n\n"
         f"{_bold(w['example'])}\n"
@@ -157,4 +157,5 @@ def hint(w: sqlite3.Row, long: bool = False) -> str:
 def quiz_question(w: sqlite3.Row, number: int, total: int, lang: str, tl: str = "ru") -> str:
     tr, _, flag = translation(w, tl)
     return t(lang, "question", n=number, total=total, tr=html.escape(tr), flag=flag,
+             learn_flag=FLAGS[w["lang"]],
              pos=pos_name(lang, w["pos"]), hint=html.escape(hint(w)))

@@ -221,11 +221,14 @@ def progress(user: sqlite3.Row) -> tuple[int, int]:
     return learned, total
 
 
-def words_for_dates(user_id: int, start: date, end: date) -> list[int]:
+def words_for_dates(user_id: int, lang: str, start: date, end: date) -> list[int]:
+    """Слова изучаемого языка, полученные за эти дни. Слова других языков, которые
+    пользователь учил раньше, в тесты и сводки не попадают."""
     rows = conn.execute(
-        "SELECT word_id FROM user_words WHERE user_id = ? AND study_date BETWEEN ? AND ?"
-        " ORDER BY sent_at",
-        (user_id, start.isoformat(), end.isoformat()),
+        "SELECT uw.word_id FROM user_words uw JOIN words w ON w.id = uw.word_id"
+        " WHERE uw.user_id = ? AND w.lang = ? AND uw.study_date BETWEEN ? AND ?"
+        " ORDER BY uw.sent_at",
+        (user_id, lang, start.isoformat(), end.isoformat()),
     ).fetchall()
     return [r[0] for r in rows]
 

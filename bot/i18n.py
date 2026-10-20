@@ -273,9 +273,9 @@ TEXTS = {
         "es": "Escribe la palabra {answer_rules}\nNo llegarán palabras nuevas hasta que termines el test.",
     },
     "question": {
-        "ru": "Вопрос {n}/{total}\n{flag} <b>{tr}</b> ({pos})\nНачинается на: <code>{hint}</code>",
-        "en": "Question {n}/{total}\n{flag} <b>{tr}</b> ({pos})\nStarts with: <code>{hint}</code>",
-        "es": "Pregunta {n}/{total}\n{flag} <b>{tr}</b> ({pos})\nEmpieza por: <code>{hint}</code>",
+        "ru": "{learn_flag} Вопрос {n}/{total}\n{flag} <b>{tr}</b> ({pos})\nНачинается на: <code>{hint}</code>",
+        "en": "{learn_flag} Question {n}/{total}\n{flag} <b>{tr}</b> ({pos})\nStarts with: <code>{hint}</code>",
+        "es": "{learn_flag} Pregunta {n}/{total}\n{flag} <b>{tr}</b> ({pos})\nEmpieza por: <code>{hint}</code>",
     },
     "correct": {"ru": "✅ Верно! <b>{word}</b>", "en": "✅ Correct! <b>{word}</b>",
                 "es": "✅ ¡Correcto! <b>{word}</b>"},
