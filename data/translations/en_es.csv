@@ -2848,3 +2848,153 @@ en:adv::rarely;rara vez, pocas veces;Rara vez como comida rápida.
 en:adv::regularly;con regularidad, regularmente;Visita a sus abuelos con regularidad.
 en:adv::surely;seguramente, sin duda;¿No te creerás esa historia, verdad?
 en:adv::totally;totalmente, completamente;Estoy totalmente de acuerdo contigo.
+en:verb::exceed;superar, exceder, rebasar;El conductor superó el límite de velocidad.
+en:verb::exclude;excluir;El desayuno no está incluido en el precio.
+en:verb::execute;ejecutar, llevar a cabo;El plan se ejecutó a la perfección.
+en:verb::exhibit;exponer, exhibir, mostrar;Sus cuadros se exponen en una galería local.
+en:verb::expand;expandirse, ampliar, ampliarse;La empresa tiene previsto expandirse a Asia.
+en:verb::expose;exponer;No expongas la piel al sol durante demasiado tiempo.
+en:verb::extend;prorrogar, prolongar, ampliar;Me gustaría prorrogar mi visado un mes más.
+en:verb::fade;desteñirse, apagarse, desvanecerse;Los colores se destiñeron después de muchos lavados.
+en:verb::flee;huir, escapar;Miles de personas huyeron de la guerra.
+en:verb::flourish;prosperar, florecer;El negocio prosperó bajo su dirección.
+en:verb::forbid;prohibir;Mis padres me prohíben quedarme fuera hasta tarde.
+en:verb::forecast;pronosticar, prever;Pronostican lluvias intensas para mañana.
+en:verb::foresee;prever;Nadie pudo prever la crisis.
+en:verb::frustrate;frustrar, exasperar;Los constantes retrasos exasperan a los pasajeros.
+en:verb::fulfil;cumplir, realizar;Cumplió su sueño de ser médica.
+en:verb::generate;generar, producir;Los aerogeneradores generan electricidad.
+en:verb::govern;gobernar;El país está gobernado por un presidente.
+en:verb::grab;agarrar, coger;Agarró el abrigo y salió corriendo.
+en:verb::grant;conceder, otorgar;Le concedieron permiso para quedarse.
+en:verb::grasp;comprender, captar, asimilar;Me costó un rato captar la idea.
+en:verb::guarantee;garantizar;Garantizamos la entrega en tres días.
+en:verb::halt;detener, paralizar, interrumpir;Las obras se paralizaron por el mal tiempo.
+en:verb::handle;manejar, gestionar, lidiar con;Manejó muy bien la difícil situación.
+en:verb::harm;dañar, perjudicar, hacer daño;Demasiado sol puede dañar la piel.
+en:verb::hesitate;dudar, vacilar;No dudes en llamarme si necesitas ayuda.
+en:verb::highlight;destacar, poner de relieve, resaltar;El informe pone de relieve varios problemas graves.
+en:verb::illustrate;ilustrar, ejemplificar;Este ejemplo ilustra claramente el problema.
+en:verb::imply;insinuar, dar a entender, implicar;¿Estás insinuando que miento?
+en:verb::impose;imponer;El gobierno impuso un nuevo impuesto sobre el azúcar.
+en:verb::indicate;indicar, señalar;Las investigaciones indican que el sueño es muy importante.
+en:verb::inherit;heredar;Heredó la casa de su abuela.
+en:verb::inspect;inspeccionar, revisar;Unos inspectores oficiales inspeccionaron la cocina del restaurante.
+en:verb::inspire;inspirar;Su historia inspiró a muchos jóvenes.
+en:verb::integrate;integrarse, integrar;Los inmigrantes necesitan tiempo para integrarse en la sociedad.
+en:verb::interfere;entrometerse, interferir, inmiscuirse;Por favor, no te entrometas en mi vida privada.
+en:verb::interpret;interpretar;¿Cómo interpretas este poema?
+en:verb::intervene;intervenir;El profesor intervino para detener la pelea.
+en:verb::investigate;investigar;La policía está investigando el robo.
+en:verb::isolate;aislar;Los pacientes con el virus fueron aislados.
+en:verb::justify;justificar;¿Cómo puedes justificar unos precios tan altos?
+en:verb::launch;lanzar;La empresa lanzó ayer un nuevo teléfono.
+en:verb::mislead;engañar, inducir a error, confundir;El anuncio engañó a los clientes sobre el precio.
+en:verb::modify;modificar;Modificamos el diseño después de las pruebas.
+en:verb::monitor;vigilar, controlar, monitorizar;Los médicos vigilaron su frecuencia cardíaca toda la noche.
+en:verb::motivate;motivar;Los buenos gerentes saben motivar a su personal.
+en:verb::neglect;descuidar, desatender;Descuidó su salud durante años.
+en:verb::negotiate;negociar;El sindicato negoció un salario mejor.
+en:verb::nominate;nominar, proponer, designar;La película fue nominada a tres premios.
+en:verb::obey;obedecer, acatar;Los soldados deben obedecer las órdenes.
+en:verb::obtain;obtener, conseguir;Debes obtener un visado antes de viajar.
+en:verb::occupy;ocupar;El ejército ocupó la ciudad durante dos años.
+en:verb::offend;ofender;Espero que mi broma no te haya ofendido.
+en:verb::omit;omitir;Se omitieron algunos detalles importantes del informe.
+en:verb::oppose;oponerse a, estar en contra de;Muchos vecinos se oponen al nuevo aeropuerto.
+en:verb::outline;esbozar, exponer a grandes rasgos;El gerente expuso a grandes rasgos el plan para el año próximo.
+en:verb::overcome;superar, vencer;Superó su miedo a volar.
+en:verb::overlook;pasar por alto, no ver;Pasamos por alto un detalle pequeño pero importante.
+en:verb::overtake;adelantar;Nunca adelantes a otro coche en una curva.
+en:verb::overwhelm;abrumar, agobiar;Estaba abrumada por la cantidad de trabajo.
+en:verb::participate;participar;Todos los alumnos deben participar en el proyecto.
+en:verb::persist;persistir, continuar;Si el dolor persiste, consulte a un médico.
+en:verb::possess;poseer, tener;No tiene carné de conducir.
+en:verb::postpone;aplazar, posponer;El partido se aplazó por la lluvia.
+en:verb::prescribe;recetar, prescribir;El médico le recetó unos antibióticos.
+en:verb::preserve;conservar, preservar;Debemos conservar estos edificios antiguos.
+en:verb::presume;suponer, presumir;Supongo que te quedarás a cenar.
+en:verb::proceed;dirigirse, proceder, continuar;Por favor, diríjanse a la puerta doce.
+en:verb::prohibit;prohibir;Está prohibido hacer fotos dentro del museo.
+en:verb::promote;ascender, promocionar;La ascendieron a gerente sénior.
+en:verb::prompt;motivar, provocar, dar lugar a;El accidente dio lugar a una revisión de las normas de seguridad.
+en:verb::propose;proponer;Propuso una nueva solución al problema.
+en:verb::provoke;provocar;Sus comentarios provocaron una reacción airada.
+en:verb::pursue;dedicarse a, seguir, perseguir;Quiere dedicarse a la abogacía.
+en:verb::reassure;tranquilizar;El médico me tranquilizó diciéndome que no era grave.
+en:verb::recall;recordar, acordarse de;No recuerdo dónde dejé las llaves.
+en:verb::reckon;creer, calcular, opinar;Creo que lloverá más tarde.
+en:verb::recruit;contratar, reclutar;La empresa está contratando nuevo personal.
+en:verb::refer;derivar, remitir, mencionar;El médico me derivó a un especialista.
+en:verb::regulate;regular;La ley regula el uso de pesticidas.
+en:verb::reinforce;reforzar;Las paredes se reforzaron con acero.
+en:verb::reject;rechazar;El banco rechazó mi solicitud de préstamo.
+en:verb::relieve;aliviar, calmar;Este medicamento te aliviará el dolor.
+en:verb::renew;renovar;Tengo que renovar el pasaporte este año.
+en:verb::resemble;parecerse a;Se parece mucho a su madre.
+en:verb::resent;tomar a mal, resentirse por, molestar;Le molestaba que lo trataran como a un niño.
+en:verb::resign;dimitir, renunciar;El ministro dimitió tras el escándalo.
+en:verb::resist;resistir, resistirse a;No pude resistirme a comer otro trozo de tarta.
+en:verb::resolve;resolver, solucionar;Logramos resolver el conflicto de forma pacífica.
+en:verb::restore;restaurar, restablecer;Restauraron la vieja iglesia de forma magnífica.
+en:verb::restrict;restringir, limitar;El acceso a la zona está restringido.
+en:verb::reveal;revelar, desvelar;Nunca le reveló su secreto a nadie.
+en:verb::reverse;revocar, invertir, dar marcha atrás;El tribunal revocó la decisión anterior.
+en:verb::seek;buscar, solicitar;Mucha gente busca el asesoramiento de abogados.
+en:verb::shrink;encoger, encogerse, reducirse;Mi jersey encogió al lavarlo.
+en:verb::simplify;simplificar;El nuevo sistema simplifica todo el proceso.
+en:verb::soak;poner en remojo, empapar;Pon las alubias en remojo toda la noche.
+en:verb::specify;especificar, indicar;Por favor, indique la fecha de entrega que prefiere.
+en:verb::speculate;especular, hacer conjeturas;Los periodistas especularon sobre los motivos de su marcha.
+en:verb::stimulate;estimular, impulsar;Bajar los impuestos puede estimular la economía.
+en:verb::strengthen;fortalecer, reforzar;El ejercicio fortalece los músculos.
+en:verb::submit;entregar, presentar;Por favor, entregad vuestras redacciones antes del viernes.
+en:verb::substitute;sustituir, reemplazar;Puedes sustituir la mantequilla por aceite de oliva.
+en:verb::summarise;resumir;¿Puedes resumir los puntos principales?
+en:verb::supervise;supervisar, dirigir;Supervisa un equipo de diez enfermeras.
+en:verb::surrender;rendirse, capitular;Los soldados por fin se rindieron.
+en:verb::suspend;suspender, sancionar;El jugador fue sancionado con tres partidos.
+en:verb::swear;jurar;Te juro que no se lo he dicho a nadie.
+en:verb::tackle;abordar, hacer frente a, atajar;El gobierno debe hacer frente al desempleo.
+en:verb::tempt;tentar;Tuve la tentación de comprar el caro.
+en:verb::tolerate;tolerar, soportar;No tolero los comportamientos groseros.
+en:verb::trace;rastrear, localizar;La policía rastreó la llamada hasta una cabina telefónica.
+en:verb::transform;transformar;Internet ha transformado nuestras vidas.
+en:verb::undergo;someterse a, sufrir, experimentar;Se someterá a una operación la semana que viene.
+en:verb::urge;instar, exhortar, pedir encarecidamente;Los médicos instan a la gente a dejar de fumar.
+en:verb::vanish;desaparecer, esfumarse;El ladrón desapareció entre la multitud.
+en:verb::violate;infringir, violar, vulnerar;La empresa infringió la normativa de seguridad.
+en:verb::weaken;debilitar, debilitarse;La enfermedad le debilitó el corazón.
+en:verb::wind;serpentear, dar cuerda;La carretera serpentea entre las montañas.
+en:verb::withdraw;sacar (dinero), retirar;Saqué algo de dinero del cajero.
+en:verb::worsen;empeorar, agravarse;La situación empeoró durante el fin de semana.
+en:verb::sweep;barrer;Barrió el suelo de la cocina después de cenar.
+en:verb::rule out;descartar;La policía no ha descartado el asesinato.
+en:verb::carry out;llevar a cabo, realizar;Los científicos llevaron a cabo una serie de experimentos.
+en:verb::call off;cancelar, suspender;Cancelaron la boda en el último momento.
+en:verb::catch up with;alcanzar, ponerse al día con;Adelántate, ya te alcanzaré luego.
+en:verb::figure out;entender, averiguar, descifrar;No consigo entender cómo funciona esta máquina.
+en:verb::give in;ceder, rendirse;Al final mis padres cedieron y me compraron un perro.
+en:verb::hold back;contener, reprimir;No pudo contener las lágrimas.
+en:verb::look into;investigar, examinar, estudiar;El gerente prometió estudiar la reclamación.
+en:verb::make up for;compensar, recuperar;Compensaré el retraso trabajando más horas.
+en:verb::put up with;aguantar, soportar, tolerar;Ya no aguanto más su mala educación.
+en:verb::take over;hacerse con, absorber, tomar el control de;Una empresa más grande se hizo con el negocio.
+en:verb::brush up on;repasar, refrescar, pulir;Tengo que repasar mi francés antes del viaje.
+en:verb::come down with;caer enfermo de, pillar (una enfermedad);Creo que estoy pillando un resfriado.
+en:verb::drop out;abandonar (los estudios), dejar;Dejó la universidad al cabo de un año.
+en:verb::fall apart;deshacerse, caerse a pedazos, desmoronarse;Mis zapatos viejos se están cayendo a pedazos.
+en:verb::fall through;fracasar, venirse abajo, irse al traste;Nuestros planes de vacaciones se vinieron abajo en el último momento.
+en:verb::get away with;salirse con la suya, quedar impune;Hizo trampa y se salió con la suya.
+en:verb::go along with;aceptar, estar de acuerdo con, seguir;Aceptaré lo que decidas.
+en:verb::live up to;estar a la altura de;La película no estuvo a la altura de mis expectativas.
+en:verb::look up to;admirar, respetar;Siempre ha admirado a su hermano mayor.
+en:verb::look down on;menospreciar, mirar por encima del hombro;Mira por encima del hombro a la gente sin título universitario.
+en:verb::put forward;presentar, proponer, plantear;Presentó una propuesta interesante.
+en:verb::stand out;destacar, sobresalir, llamar la atención;Su vestido rojo destacaba de verdad entre la multitud.
+en:verb::step down;dimitir, renunciar, dejar el cargo;El consejero delegado dejará el cargo el mes que viene.
+en:verb::take on;asumir, aceptar, contratar;No puedo asumir más trabajo esta semana.
+en:verb::turn out;resultar;La fiesta resultó ser muy divertida.
+en:verb::wear out;desgastar, gastar, agotar;Correr desgasta rápidamente las zapatillas.
+en:verb::wipe out;aniquilar, acabar con, exterminar;La enfermedad acabó con toda la población.
+en:verb::bring about;provocar, ocasionar, traer consigo;Internet trajo consigo enormes cambios.
