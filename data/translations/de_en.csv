@@ -4941,3 +4941,603 @@ BIZ:de:noun:die:Verschlüsselung;encryption;All emails are protected with strong
 BIZ:de:noun:die:Zwei-Faktor-Authentifizierung;two-factor authentication, 2FA;Please enable two-factor authentication.
 BIZ:de:noun:die:Berechtigung;permission, access rights, authorization;You don't have permission for this folder.
 BIZ:de:noun:das:Virus;virus (computer);The attachment contained a dangerous virus.
+de:verb::hinterlegen;deposit, leave (for safekeeping), lodge;Please pay a deposit.
+de:verb::honorieren;reward, recognize, pay (a fee);Good performance is rewarded.
+de:verb::implizieren;imply;What does this statement imply?
+de:verb::inszenieren;stage, direct (a play), orchestrate;He staged a new production of the play.
+de:verb::intervenieren;intervene;The government had to intervene.
+de:verb::karikieren;caricature, lampoon;The film caricatures politics.
+de:verb::kompensieren;compensate for, make up for, offset;He compensates for his insecurity with arrogance.
+de:verb::konkretisieren;specify, flesh out, make more concrete;Could you be more specific about your proposal?
+de:verb::kursieren;circulate, go around (rumors);Lots of rumors are circulating on the internet.
+de:verb::lahmlegen;paralyze, bring to a standstill;The strike has brought traffic to a standstill.
+de:verb::mäßigen;moderate, temper, restrain;Please moderate your tone!
+de:verb::mitwirken;take part, contribute, collaborate;Many volunteers contributed to the project.
+de:verb::monieren;criticize, complain about, object to;The boss complained about the many mistakes.
+de:verb::nachgehen;look into, investigate, pursue;The police follow up every lead.
+de:verb::nachkommen;fulfill, comply with, follow later;He did not fulfill his obligations.
+de:verb::nahelegen;suggest, advise, recommend;He was advised to resign.
+de:verb::offenlegen;disclose, reveal;The company has to disclose its figures.
+de:verb::plädieren;plead, argue (for), advocate;I'm in favor of a quick solution.
+de:verb::polarisieren;polarize, divide;The issue polarizes society.
+de:verb::postulieren;postulate, posit;The theory postulates a direct connection.
+de:verb::protokollieren;record, log, take minutes;All changes are logged.
+de:verb::relativieren;qualify, put into perspective;Later he qualified his statement.
+de:verb::resignieren;give up, resign oneself;After many rejections, he gave up.
+de:verb::revidieren;revise, reconsider;I had to revise my opinion.
+de:verb::rühmen;praise, extol (sich: boast of);He boasts of his successes.
+de:verb::sabotieren;sabotage;Someone sabotaged the project.
+de:verb::schmälern;diminish, detract from, belittle;That doesn't detract from his success.
+de:verb::schüren;stir up, fuel, stoke;The party is stirring up fears.
+de:verb::sensibilisieren;raise awareness, sensitize;We want to raise people's awareness of the issue.
+de:verb::sich abzeichnen;emerge, become apparent, loom;A solution is emerging.
+de:verb::sich anbahnen;be in the offing, be brewing, develop;A crisis is brewing.
+de:verb::sich anmaßen;presume, take it upon oneself, claim (unjustly);How can you presume to do that?
+de:verb::sich aneignen;acquire, learn, appropriate;She taught herself the knowledge.
+de:verb::sich behaupten;hold one's own, assert oneself;She was able to hold her own against the competition.
+de:verb::sich berufen auf;refer to, cite, invoke;He cites the law.
+de:verb::sich distanzieren;distance oneself, dissociate oneself;The party distances itself from his statements.
+de:verb::sich entfalten;unfold, develop, flourish;Here talents can flourish.
+de:verb::sich erübrigen;be unnecessary, be superfluous;That makes any further discussion unnecessary.
+de:verb::sich fügen;submit (to), comply (with), bow to;He had to bow to the decision.
+de:verb::sich gedulden;be patient, wait;Please wait a moment.
+de:verb::sich häufen;accumulate, increase, become more frequent;Recently the complaints have been piling up.
+de:verb::sich herauskristallisieren;crystallize, emerge, take shape;Slowly a solution is taking shape.
+de:verb::sich niederschlagen;be reflected (in), show (in);The crisis is reflected in the figures.
+de:verb::sich rächen;take revenge, backfire, take its toll;The laziness will come back to haunt you.
+de:verb::sich schämen;be ashamed, feel ashamed;You should be ashamed of yourself!
+de:verb::sich sträuben;resist, balk (at), be reluctant;He resists any change.
+de:verb::sich vergegenwärtigen;realize, bear in mind, visualize;One has to bear the consequences in mind.
+de:verb::sich widersetzen;resist, oppose, defy;He resisted arrest.
+de:verb::sich zuspitzen;come to a head, escalate, intensify;The conflict is coming to a head.
+de:verb::stigmatisieren;stigmatize;Mentally ill people are often stigmatized.
+de:verb::suggerieren;suggest, imply, give the impression;The advertising suggests that the product is healthy.
+de:verb::thematisieren;address, deal with, discuss;The film addresses loneliness in old age.
+de:verb::tilgen;pay off (a debt), repay, erase;He has finally paid off his debts.
+de:verb::trügen;deceive, be deceptive;Appearances are deceptive.
+de:verb::überblicken;overlook, survey, assess;The consequences cannot yet be assessed.
+de:verb::überbrücken;bridge, tide over, fill (a gap);He's doing odd jobs to bridge the time until he starts university.
+de:verb::übergehen;pass over, ignore, skip;He was passed over for promotion.
+de:verb::überlisten;outwit, outsmart, trick;The fox outwitted the farmer.
+de:verb::überspielen;cover up, mask, hide;She masked her nervousness with a smile.
+de:verb::umschreiben;paraphrase, describe (in other words);Can you paraphrase the word?
+de:verb::untergraben;undermine, erode;Statements like that undermine trust.
+de:verb::untermauern;back up, support, substantiate;He backed up his thesis with facts.
+de:verb::unterstreichen;underline, emphasize, underscore;That underlines the importance of the topic.
+de:verb::veranschaulichen;illustrate, demonstrate;A chart illustrates the trend.
+de:verb::verankern;anchor, enshrine, embed;The right is enshrined in the constitution.
+de:verb::verfälschen;falsify, distort, tamper with;The results were falsified.
+de:verb::verfechten;champion, advocate, defend;He passionately champions his ideas.
+de:verb::verharmlosen;play down, trivialize, downplay;You must not play down the danger.
+de:verb::verinnerlichen;internalize;He has internalized the rules.
+de:verb::verkörpern;embody, personify, play (a role);She embodies success.
+de:verb::verleiten;tempt, induce, lead (into);The offer tempted me to buy.
+de:verb::vernehmen;question, interrogate, hear;The police have questioned the witnesses.
+de:verb::verpönen;frown upon, disapprove of;Smoking is frowned upon here.
+de:verb::verschärfen;tighten, intensify, aggravate;The government is tightening the laws.
+de:verb::verschleiern;conceal, disguise, cover up;He is trying to conceal the truth.
+de:verb::verschmähen;spurn, scorn, turn down;He never turns down good food.
+de:verb::versiegen;dry up, run dry;The spring has dried up.
+de:verb::vertuschen;cover up, hush up;The scandal was covered up for a long time.
+de:verb::verwerfen;reject, discard, dismiss;We scrapped the plan again.
+de:verb::verzerren;distort, twist;The media distort reality.
+de:verb::vorbehalten;reserve;Subject to change.
+de:verb::vorenthalten;withhold, keep from;Important information was withheld from him.
+de:verb::vorgreifen;anticipate, preempt, jump ahead;I don't want to preempt the decision.
+de:verb::wahren;preserve, maintain, keep;She tried to keep her composure.
+de:verb::walten;prevail, reign, be at work;Here reason prevails.
+de:verb::wettmachen;make up for, compensate for;He quickly made up for his mistake.
+de:verb::zermürben;wear down, grind down;The long wait wore him down.
+de:verb::zurückgreifen;fall back on, draw on, resort to;We can draw on our experience.
+de:verb::zurückweisen;reject, dismiss, rebuff;He rejects the criticism.
+de:verb::zuschreiben;attribute, ascribe, credit;The success is attributed to him.
+de:verb::zuspielen;leak (to), pass (to);Someone leaked the documents to the press.
+de:verb::zustoßen;happen (to), befall;I hope nothing has happened to him.
+de:verb::zuwiderhandeln;contravene, violate, act contrary to;Anyone who violates the ban has to pay.
+de:adj::abgeklärt;serene, mature, worldly-wise;She seems very mature for her age.
+de:adj::abwegig;absurd, far-fetched, misguided;The idea isn't so far-fetched at all.
+de:adj::akribisch;meticulous, painstaking;He documented everything meticulously.
+de:adj::ambivalent;ambivalent, mixed;I have mixed feelings about it.
+de:adj::anmaßend;arrogant, presumptuous, overbearing;His tone was rather arrogant.
+de:adj::anschaulich;vivid, clear, graphic;She explains everything very clearly.
+de:adj::ausschlaggebend;decisive, crucial;The price was the deciding factor in my decision.
+de:adj::ausgewogen;balanced;A balanced diet is important.
+de:adj::ausgiebig;extensive, thorough, hearty;We had a leisurely, hearty breakfast.
+de:adj::bahnbrechend;groundbreaking, pioneering, revolutionary;That was a groundbreaking invention.
+de:adj::beachtlich;considerable, remarkable, impressive;She has made remarkable progress.
+de:adj::bedauerlich;regrettable, unfortunate;That is an unfortunate mistake.
+de:adj::bedenkenlos;without hesitation, safely, unhesitatingly;The water is perfectly safe to drink.
+de:adj::bedingt;partly, to a limited extent, conditional;That is only partly true.
+de:adj::beharrlich;persistent, tenacious, steadfast;He worked persistently toward his goal.
+de:adj::behutsam;gentle, careful, cautious;She treated the child gently.
+de:adj::beiläufig;casual, in passing, incidental;He only mentioned it in passing.
+de:adj::belanglos;irrelevant, trivial, insignificant;That is completely irrelevant.
+de:adj::belastbar;resilient, able to work under pressure, reliable;We are looking for employees who can work well under pressure.
+de:adj::beklemmend;oppressive, uneasy, eerie;The atmosphere was oppressive.
+de:adj::berüchtigt;notorious, infamous;The neighborhood is notorious for its crime.
+de:adj::besonnen;level-headed, prudent, calm;She reacted very calmly and sensibly.
+de:adj::bestechlich;corruptible, bribable;The official was open to bribery.
+de:adj::bezeichnend;characteristic, typical, revealing;That is typical of his attitude.
+de:adj::brisant;explosive, controversial, sensitive;The issue is politically very explosive.
+de:adj::derb;crude, coarse, earthy;He has a crude sense of humor.
+de:adj::dürftig;meager, flimsy, poor;The evidence is pretty flimsy.
+de:adj::eigenwillig;idiosyncratic, unconventional, willful;She has a very idiosyncratic style.
+de:adj::eindringlich;urgent, emphatic, forceful;He warned urgently of the dangers.
+de:adj::einschlägig;relevant, pertinent;She has relevant professional experience.
+de:adj::einvernehmlich;amicable, mutual, by mutual agreement;They separated amicably.
+de:adj::empörend;outrageous, scandalous;That is truly outrageous!
+de:adj::erbittert;fierce, bitter;There was a bitter dispute.
+de:adj::ergiebig;productive, fruitful, rich;The conversation was very productive.
+de:adj::erstrebenswert;desirable, worth striving for;For him wealth is not worth striving for.
+de:adj::fadenscheinig;flimsy, thin, threadbare;That is a flimsy excuse.
+de:adj::fundiert;sound, well-founded, solid;He has sound knowledge.
+de:adj::gängig;common, standard, popular;That is a common method.
+de:adj::gediegen;solid, high-quality, tasteful;The furniture is solid and expensive.
+de:adj::gehässig;spiteful, malicious, nasty;That was a spiteful comment.
+de:adj::geläufig;familiar, common;I'm not familiar with this expression.
+de:adj::gewagt;daring, bold, risky;That is a bold thesis.
+de:adj::gravierend;serious, grave, major;There were serious mistakes.
+de:adj::haltlos;unfounded, baseless, groundless;The accusations are completely unfounded.
+de:adj::handfest;solid, hard, tangible;We need hard evidence.
+de:adj::heikel;delicate, tricky, sensitive;That is a delicate subject.
+de:adj::herablassend;condescending, patronizing;He spoke to her condescendingly.
+de:adj::hinfällig;invalid, obsolete, irrelevant;That makes the plan obsolete.
+de:adj::hinlänglich;sufficient, adequate, well (enough);The problem is well known.
+de:adj::inkonsequent;inconsistent;His parenting is very inconsistent.
+de:adj::kläglich;miserable, pitiful, dismal;The attempt failed miserably.
+de:adj::kurzsichtig;short-sighted, nearsighted;This policy is very short-sighted.
+de:adj::langwierig;lengthy, protracted, long-drawn-out;That was a lengthy process.
+de:adj::lukrativ;lucrative, profitable;That is a very lucrative business.
+de:adj::markant;striking, distinctive, prominent;He has a striking face.
+de:adj::mehrdeutig;ambiguous;The statement is ambiguous.
+de:adj::mittellos;penniless, destitute;He arrived in the city penniless.
+de:adj::mutmaßlich;suspected, alleged, presumed;The suspected perpetrator has been arrested.
+de:adj::nachweislich;demonstrably, provably;That is demonstrably false.
+de:adj::nichtig;void, null and void, trivial;The contract is null and void.
+de:adj::offenkundig;obvious, evident, manifest;That is an obvious contradiction.
+de:adj::penibel;meticulous, fastidious, pedantic;He is very meticulous about everything.
+de:adj::plausibel;plausible, convincing;The explanation sounds plausible.
+de:adj::prägnant;concise, succinct, pithy;Summarize the text concisely.
+de:adj::prekär;precarious, difficult;The financial situation is precarious.
+de:adj::redlich;honest, sincere, earnest;He made an honest effort.
+de:adj::reißerisch;sensationalist, lurid;The headline is very sensationalist.
+de:adj::rigoros;rigorous, strict, uncompromising;The rules are strictly enforced.
+de:adj::sachkundig;expert, knowledgeable, competent;We received expert advice.
+de:adj::schleichend;creeping, gradual, insidious;It is a gradual, creeping process.
+de:adj::schlüssig;logical, coherent, conclusive;The line of argument is coherent.
+de:adj::schonungslos;unsparing, brutal, blunt;He told her the brutal truth.
+de:adj::stichhaltig;sound, valid, conclusive;Do you have conclusive evidence?
+de:adj::stringent;rigorous, tight, coherent;The essay is rigorously structured.
+de:adj::tiefgreifend;profound, far-reaching, radical;There were profound changes.
+de:adj::tragfähig;viable, workable, sustainable;We need a workable solution.
+de:adj::triftig;valid, good, compelling;Do you have a good reason?
+de:adj::umsichtig;prudent, circumspect, careful;She always acts very prudently.
+de:adj::unanfechtbar;final, incontestable, unassailable;The verdict is final and cannot be appealed.
+de:adj::unbedarft;naive, inexperienced, clueless;He is pretty naive about such things.
+de:adj::unbeholfen;clumsy, awkward;He moves somewhat clumsily.
+de:adj::unentbehrlich;indispensable, essential;His cell phone is indispensable to him.
+de:adj::unmissverständlich;unmistakable, unequivocal, clear;She made it unmistakably clear to him that she wants to leave.
+de:adj::unumgänglich;unavoidable, inevitable, essential;A reform is unavoidable.
+de:adj::unzulänglich;inadequate, insufficient;The equipment is inadequate.
+de:adj::verbissen;dogged, grim, determined;He fought doggedly for victory.
+de:adj::verhalten;restrained, muted, cautious;The response was rather muted.
+de:adj::verheerend;devastating, disastrous;The earthquake had devastating consequences.
+de:adj::verlockend;tempting, enticing;The offer is very tempting.
+de:adj::vermeintlich;supposed, alleged, so-called;The supposed expert had no idea.
+de:adj::vertretbar;justifiable, acceptable, reasonable;The costs are still acceptable.
+de:adj::vordergründig;superficially, on the surface, ostensibly;On the surface, it's about money.
+de:adj::wegweisend;pioneering, groundbreaking, trailblazing;That was a groundbreaking decision.
+de:adj::weitreichend;far-reaching, sweeping;That has far-reaching consequences.
+de:adj::widersprüchlich;contradictory, inconsistent;The statements are contradictory.
+de:adj::zaghaft;timid, tentative, hesitant;He made a tentative attempt.
+de:adj::zermürbend;grueling, wearing, nerve-racking;The waiting is nerve-racking.
+de:adj::zielführend;effective, productive, helpful;That's not getting us anywhere.
+de:adj::zwiespältig;mixed, ambivalent, conflicting;I have mixed feelings.
+de:adv::abermals;once again, yet again;The appointment was postponed yet again.
+de:adv::allemal;easily, certainly, any time;That's more than enough.
+de:adv::anderweitig;otherwise, elsewhere;Unfortunately I'm otherwise engaged.
+de:adv::ansatzweise;partially, to some extent, in part;The problem was only partially solved.
+de:adv::augenscheinlich;apparently, evidently, obviously;He was evidently tired.
+de:adv::ausnahmslos;without exception, invariably;The reviews were positive without exception.
+de:adv::bedauerlicherweise;unfortunately, regrettably;Unfortunately we have to cancel.
+de:adv::beizeiten;in good time, early;You should take care of your pension in good time.
+de:adv::dementsprechend;accordingly, correspondingly;He was tired and accordingly in a bad mood.
+de:adv::demzufolge;consequently, therefore, accordingly;Consequently, the contract is invalid.
+de:adv::diesbezüglich;in this regard, in this respect, regarding this;I still have some questions in this regard.
+de:adv::eingangs;at the beginning, at the outset;As mentioned at the beginning, ...
+de:adv::erwartungsgemäß;as expected;As expected, he won.
+de:adv::fortan;from now on, henceforth, from then on;From now on everything will be different.
+de:adv::geflissentlich;deliberately, studiously, pointedly;He studiously ignored the question.
+de:adv::gleichwohl;nevertheless, nonetheless, even so;It was hard, but it was nevertheless worth it.
+de:adv::hierzulande;in this country, here;That's unusual in this country.
+de:adv::insofern;in this respect, to that extent, insofar;In that respect you're right.
+de:adv::letztendlich;ultimately, in the end;Ultimately it's your decision.
+de:adv::mitnichten;by no means, not at all;That is by no means so simple.
+de:adv::nachdrücklich;strongly, emphatically, urgently;I strongly advise you against it.
+de:adv::nichtsdestotrotz;nevertheless, nonetheless;Nevertheless, we should try.
+de:adv::schlechthin;par excellence, quintessential, as such;He is the expert par excellence.
+de:adv::seinerzeit;at the time, back then;At the time, that was perfectly normal.
+de:adv::tunlichst;by all means, at all costs, if at all possible;You should avoid that at all costs.
+de:adv::unlängst;recently, not long ago;He recently got married.
+de:adv::unweigerlich;inevitably, invariably;That inevitably leads to problems.
+de:adv::vorab;in advance, beforehand;I'll send you the documents in advance.
+de:adv::vorrangig;primarily, as a priority, first and foremost;We focus primarily on the children.
+de:adv::weitestgehend;largely, for the most part, to the greatest extent possible;The work is largely complete.
+de:adv::wohlgemerkt;mind you, note;He, mind you, never asked.
+de:adv::zeitlebens;all one's life, throughout one's life;He worked hard all his life.
+de:adv::zugegebenermaßen;admittedly;Admittedly, that was a mistake.
+de:adv::zusehends;visibly, noticeably, rapidly;His condition is visibly deteriorating.
+de:adv::eigens;specially, expressly, specifically;He traveled here specially for the meeting.
+de:adv::ehedem;formerly, in former times, once;There used to be a mill here.
+de:adv::fortwährend;constantly, continually;He keeps interrupting me.
+de:adv::haargenau;exactly, precisely;That's exactly right.
+de:adv::inwiefern;to what extent, in what way, how;In what way does that concern me?
+de:adv::schlichtweg;simply, just, plainly;That's simply wrong.
+de:adv::tendenziell;generally, on the whole, tend to;Prices tend to be rising.
+de:adv::unterdessen;meanwhile, in the meantime;Meanwhile it had started to rain.
+de:conj::indes;however, yet, meanwhile;He promised to come, yet he didn't.
+de:conj::ungeachtet dessen;nevertheless, regardless, despite this;Nevertheless, he carried on.
+de:conj::nicht zuletzt;not least;That is not least due to upbringing.
+de:conj::es sei denn;unless;I'll come unless it rains.
+de:prep::anstelle;instead of, in place of;Instead of the boss, his deputy came.
+de:prep::eingedenk;mindful of, bearing in mind;Mindful of the risks, we declined.
+de:prep::inmitten;in the middle of, amid, in the midst of;The house is located in the middle of a park.
+de:prep::kraft;by virtue of, by;By virtue of his office, he can decide that.
+de:prep::unweit;not far from, near;The hotel is not far from the train station.
+de:prep::vorbehaltlich;subject to;Subject to approval, we'll start in May.
+de:prep::zuliebe;for the sake of, for (someone's sake);He quit smoking for my sake.
+de:prep::unbeschadet;without prejudice to, notwithstanding, regardless of;Notwithstanding this regulation, the old contracts remain in force.
+de:prep::ausschließlich;exclusive of, excluding;The price is exclusive of VAT.
+de:noun:die:Abhandlung;treatise, paper, essay;He wrote a treatise on Kant's philosophy.
+de:noun:die:Abschottung;isolation, sealing off, protectionism;The country's isolation is harming the economy.
+de:noun:die:Abwanderung;migration, exodus, emigration;The exodus of young people is a problem for the village.
+de:noun:die:Alterung;aging;The aging of society presents us with challenges.
+de:noun:der:Anhaltspunkt;clue, indication, evidence;There is no evidence of a crime.
+de:noun:die:Arbeitsmoral;work ethic, morale;Morale on the team is high.
+de:noun:der:Aufruhr;uproar, turmoil, riot;The news threw the city into uproar.
+de:noun:die:Ausbeutung;exploitation;The exploitation of workers must stop.
+de:noun:die:Ausgrenzung;exclusion, marginalization, ostracism;He experienced exclusion at school.
+de:noun:das:Bauvorhaben;construction project, building project;The construction project was halted.
+de:noun:die:Bedürftigkeit;need, neediness;The assistance depends on need.
+de:noun:die:Befragung;survey, questioning, poll;The survey produced interesting results.
+de:noun:die:Beschwichtigung;appeasement, placation, reassurance;His words were merely meant to placate.
+de:noun:die:Besteuerung;taxation;The taxation of inheritances is being debated.
+de:noun:die:Bevölkerungsdichte;population density;The population density here is very high.
+de:noun:das:Bruttoinlandsprodukt;gross domestic product, GDP;Gross domestic product has increased.
+de:noun:das:Bündnis;alliance, coalition, pact;The parties formed an alliance.
+de:noun:die:Datenerhebung;data collection;Data collection takes three months.
+de:noun:die:Deregulierung;deregulation;The deregulation of the market has consequences.
+de:noun:die:Effektivität;effectiveness, efficacy;The effectiveness of the measure is disputed.
+de:noun:die:Eindämmung;containment, curbing;The goal is to curb inflation.
+de:noun:das:Einkommensgefälle;income gap, income disparity;The income gap is widening.
+de:noun:die:Entmündigung;paternalism, incapacitation, being treated like a child;Many people feel the rule treats them like children.
+de:noun:die:Entwicklungshilfe;development aid, foreign aid;Germany pays a lot of development aid.
+de:noun:die:Erhebung;survey, study, levying;According to a survey, children are reading less.
+de:noun:die:Fachliteratur;specialist literature, technical literature;He reads a lot of specialist literature.
+de:noun:die:Fallstudie;case study;The case study shows typical problems.
+de:noun:die:Fehlentwicklung;undesirable development, aberration, mistake;We must correct undesirable developments.
+de:noun:die:Finanzierung;financing, funding;The funding for the project is secured.
+de:noun:die:Fördermittel;funding, grants, subsidies;The school has applied for funding.
+de:noun:die:Gentechnik;genetic engineering;Genetic engineering is controversial.
+de:noun:das:Gesundheitswesen;health care system, health care;The health care system needs reform.
+de:noun:die:Gewaltenteilung;separation of powers;The separation of powers is a fundamental principle of democracy.
+de:noun:die:Grundversorgung;basic provision, basic care, basic services;Basic medical care must be guaranteed.
+de:noun:die:Haftung;liability, responsibility;No liability is accepted for coats and bags.
+de:noun:das:Herkunftsland;country of origin;The country of origin must be stated on the packaging.
+de:noun:die:Hypothese;hypothesis;The hypothesis was confirmed.
+de:noun:die:Infrastruktur;infrastructure;The infrastructure is outdated.
+de:noun:die:Instanz;instance (court), authority, level;The case is going to the next higher court.
+de:noun:die:Interessenvertretung;representation of interests, lobby, advocacy group;The trade union represents the interests of employees.
+de:noun:die:Kaufkraft;purchasing power;Citizens' purchasing power is declining.
+de:noun:die:Kennzahl;key figure, indicator, metric;The key figures are positive.
+de:noun:die:Koalition;coalition;The coalition has collapsed.
+de:noun:die:Konjunktur;economy, economic situation, business cycle;The economy is slowing down.
+de:noun:das:Kontingent;quota, allocation, allotment;The allocation of tickets has run out.
+de:noun:der:Kostenvoranschlag;estimate, quote;Get an estimate.
+de:noun:die:Lebenshaltungskosten;cost of living;The cost of living keeps rising.
+de:noun:der:Lobbyismus;lobbying;Lobbying influences politics.
+de:noun:das:Machtgefüge;power structure, balance of power;The political power structure is changing.
+de:noun:die:Marktwirtschaft;market economy;Germany has a social market economy.
+de:noun:die:Menschenwürde;human dignity;Human dignity is inviolable.
+de:noun:die:Mitverantwortung;shared responsibility, joint responsibility;Everyone shares responsibility.
+de:noun:das:Monopol;monopoly;The company has a monopoly on the market.
+de:noun:die:Nachvollziehbarkeit;traceability, transparency, comprehensibility;It is important that decisions are transparent and easy to follow.
+de:noun:die:Neuregelung;new regulation, new rules, reform;The new rules come into force in January.
+de:noun:die:Nutzung;use, usage;Use of the parking lot is free.
+de:noun:der:Pluralismus;pluralism;A plurality of opinions is important.
+de:noun:der:Populismus;populism;Populism is on the rise.
+de:noun:die:Privatisierung;privatization;The privatization of the railways is controversial.
+de:noun:die:Rechtsprechung;judiciary, administration of justice, case law;The judiciary is independent.
+de:noun:der:Rechtsstaat;constitutional state, state under the rule of law;Germany is a state governed by the rule of law.
+de:noun:die:Rezession;recession;The economy is in a recession.
+de:noun:die:Sanktion;sanction;The EU imposed new sanctions.
+de:noun:das:Schlagwort;buzzword, catchphrase, slogan;Sustainability has become a buzzword.
+de:noun:die:Sozialleistung;social benefit, welfare benefit;He receives welfare benefits.
+de:noun:die:Spaltung;division, split, rift;There is a division in society.
+de:noun:die:Stichprobe;spot check, random sample;The police carry out spot checks.
+de:noun:die:Subvention;subsidy;Agriculture receives large subsidies.
+de:noun:die:Teuerung;rising prices, inflation, price increase;Rising prices hit pensioners especially hard.
+de:noun:das:Urheberrecht;copyright;The photo is protected by copyright.
+de:noun:die:Verordnung;regulation, ordinance, decree;The new regulation takes effect immediately.
+de:noun:die:Versorgungslage;supply situation;The supply situation has improved.
+de:noun:die:Verwertung;recycling, utilization, exploitation;Recycling waste conserves resources.
+de:noun:das:Wahlprogramm;election platform, manifesto;The party presented its election platform.
+de:noun:der:Wirtschaftszweig;industry, sector (of the economy), branch of industry;Tourism is an important sector of the economy.
+de:noun:das:Wohlergehen;well-being, welfare;The children's well-being comes first.
+de:noun:die:Zensur;censorship;There is censorship in many countries.
+de:noun:das:Zugeständnis;concession;Both sides made concessions.
+de:noun:die:Zuwendung;attention, affection, care;Children need a lot of attention and affection.
+de:noun:die:Zwangslage;predicament, dilemma, tight spot;He is in a predicament.
+de:noun:die:Angststörung;anxiety disorder;She suffers from an anxiety disorder.
+de:noun:die:Anteilnahme;sympathy, condolence, compassion;Thank you for your heartfelt sympathy.
+de:noun:die:Antriebslosigkeit;lack of drive, listlessness, apathy;Lack of drive is a symptom of depression.
+de:noun:das:Bedauern;regret;Much to my regret, I can't come.
+de:noun:die:Befindlichkeit;sensitivities, feelings, state of mind;You have to be mindful of everyone's sensitivities.
+de:noun:die:Bestürzung;dismay, consternation, shock;The news caused great dismay.
+de:noun:die:Bewunderung;admiration;I have great admiration for her.
+de:noun:die:Demut;humility;He accepted the award with humility.
+de:noun:die:Dankbarkeit;gratitude, thankfulness;I feel deep gratitude.
+de:noun:das:Einfühlungsvermögen;empathy, sensitivity;She has a lot of empathy.
+de:noun:die:Ehrfurcht;reverence, awe;He spoke of his teacher with reverence.
+de:noun:die:Eitelkeit;vanity;His vanity is almost unbearable.
+de:noun:der:Ekel;disgust, revulsion;She turned away in disgust.
+de:noun:die:Empfindlichkeit;sensitivity, touchiness;His touchiness makes criticism difficult.
+de:noun:die:Erschütterung;shock, blow, tremor;The death of his friend was a profound shock.
+de:noun:die:Feinfühligkeit;sensitivity, tact, delicacy;She raised the subject with great sensitivity.
+de:noun:die:Fassungslosigkeit;bewilderment, disbelief, stunned shock;The news left people stunned.
+de:noun:die:Frustration;frustration;His frustration was clearly palpable.
+de:noun:die:Geborgenheit;security, sense of security, safety;Children need a sense of security.
+de:noun:die:Genugtuung;satisfaction, vindication;The verdict was a vindication for the victims.
+de:noun:die:Gewissensbisse;pangs of conscience, guilty conscience, remorse;He had a guilty conscience.
+de:noun:die:Gier;greed;Greed for money changed him.
+de:noun:die:Häme;malice, gloating, spite;He reacted to her failure with gloating.
+de:noun:die:Hilflosigkeit;helplessness;A feeling of helplessness came over him.
+de:noun:die:Hoffnungslosigkeit;hopelessness;The hopelessness of the situation was overwhelming.
+de:noun:der:Leidensdruck;level of suffering, psychological strain, distress;Many only seek help when their suffering becomes severe.
+de:noun:die:Melancholie;melancholy;In autumn he is often overcome by melancholy.
+de:noun:die:Missgunst;resentment, envy, jealousy;His success aroused envy.
+de:noun:das:Mitleid;pity, sympathy, compassion;I don't need pity.
+de:noun:die:Niedergeschlagenheit;dejection, despondency;After the defeat, the mood was one of dejection.
+de:noun:der:Optimismus;optimism;She radiates a lot of optimism.
+de:noun:der:Pessimismus;pessimism;His pessimism rubs off on everyone.
+de:noun:die:Reue;remorse, repentance, regret;The defendant showed no remorse.
+de:noun:die:Scham;shame, embarrassment;She blushed with shame.
+de:noun:die:Schadenfreude;schadenfreude, malicious glee, gloating;He couldn't hide his glee at their misfortune.
+de:noun:die:Schuldgefühle;feelings of guilt, guilt;She feels guilty toward her children.
+de:noun:die:Schwermut;melancholy, gloom, depression;A deep melancholy hung over him.
+de:noun:die:Selbstachtung;self-respect, self-esteem;He has lost his self-respect.
+de:noun:das:Selbstwertgefühl;self-esteem, self-worth;Praise boosts self-esteem.
+de:noun:die:Sinnsuche;search for meaning;The search for meaning preoccupies many people.
+de:noun:die:Sorglosigkeit;carelessness, lack of concern, light-heartedness;He spent his money with great carelessness.
+de:noun:die:Überwindung;effort (of will), overcoming;It took a lot for me to bring myself to call him.
+de:noun:die:Ungewissheit;uncertainty;The uncertainty is worse than the truth.
+de:noun:der:Unmut;displeasure, annoyance, resentment;The decision met with great displeasure.
+de:noun:die:Unruhe;restlessness, unease, unrest;An inner restlessness kept him from sleeping.
+de:noun:die:Verbitterung;bitterness, embitterment;The injustice led to bitterness.
+de:noun:die:Verletzlichkeit;vulnerability;She showed her vulnerability.
+de:noun:die:Wehmut;wistfulness, nostalgia, melancholy;I think back on my childhood with wistfulness.
+de:noun:der:Zorn;anger, rage, wrath;He could barely contain his anger.
+de:noun:die:Abfindung;severance pay, compensation, settlement;He received a large severance payment.
+de:noun:die:Abmahnung;written warning, formal warning;After being late for the third time he got a written warning.
+de:noun:das:Anforderungsprofil;job requirements, job profile;She meets the job requirements perfectly.
+de:noun:die:Arbeitsbelastung;workload;The workload is too heavy.
+de:noun:die:Arbeitsunfähigkeit;incapacity for work, inability to work, sick leave;He submitted a doctor's note certifying that he was unfit for work.
+de:noun:der:Aufgabenbereich;area of responsibility, remit, duties;That's not within my area of responsibility.
+de:noun:die:Belegschaft;workforce, staff, employees;The entire workforce was informed.
+de:noun:die:Betriebsvereinbarung;works agreement, company agreement;The works agreement regulates working hours.
+de:noun:die:Dienstleistungsgesellschaft;service society, service economy;We live in a service economy.
+de:noun:die:Eigeninitiative;initiative, personal initiative;We expect a lot of initiative.
+de:noun:die:Erwerbsquote;labor force participation rate, employment rate;The labor force participation rate among women is rising.
+de:noun:die:Existenzgründung;start-up, setting up a business;The bank supports business start-ups.
+de:noun:der:Fachkräftemangel;skills shortage, shortage of skilled workers;The shortage of skilled workers is a major problem.
+de:noun:die:Führungsposition;management position, leadership position, senior position;She is aiming for a management position.
+de:noun:die:Gehaltsvorstellung;salary expectations, desired salary;What are your salary expectations?
+de:noun:das:Geschäftsjahr;financial year, fiscal year;The financial year ends in March.
+de:noun:der:Gesellschafter;shareholder, partner;The shareholders have agreed.
+de:noun:die:Insolvenz;insolvency, bankruptcy;The company had to file for insolvency.
+de:noun:die:Leistungsbereitschaft;willingness to perform, commitment, motivation;We expect a high level of commitment.
+de:noun:die:Lohnfortzahlung;continued payment of wages, sick pay;In case of illness, you continue to receive your wages.
+de:noun:die:Mitarbeiterführung;people management, staff management, leadership;Good people management is an art.
+de:noun:die:Personalentwicklung;staff development, human resource development;We invest in staff development.
+de:noun:die:Rentabilität;profitability;The profitability of the project is questionable.
+de:noun:die:Umstrukturierung;restructuring, reorganization;After the restructuring, jobs were cut.
+de:noun:das:Unternehmertum;entrepreneurship;Entrepreneurship should be encouraged.
+de:noun:die:Wertschöpfung;value creation, added value;Value is increasingly being created abroad.
+de:noun:die:Zeitarbeit;temporary work, agency work, temping;Many people work as temps.
+de:noun:die:Zielvereinbarung;target agreement, performance objectives;Every year there is a new target agreement.
+de:noun:die:Abholzung;deforestation, logging;The deforestation of the rainforest continues.
+de:noun:der:Artenschutz;species protection, wildlife conservation;Protecting species is urgently needed.
+de:noun:das:Ausmaß;extent, scale, magnitude;The extent of the destruction is enormous.
+de:noun:der:Brennstoff;fuel;Fossil fuels harm the climate.
+de:noun:der:Emissionshandel;emissions trading;Emissions trading is meant to reduce CO2 emissions.
+de:noun:die:Energiewende;energy transition, transition to renewable energy;The energy transition is a huge project.
+de:noun:das:Ökosystem;ecosystem;The ecosystem is very fragile.
+de:noun:der:Schadstoff;pollutant, harmful substance;The water contains pollutants.
+de:noun:die:Versiegelung;soil sealing, paving over;Soil sealing is increasing.
+de:noun:der:Raubbau;overexploitation, ruthless exploitation;That is overexploitation of nature.
+de:noun:die:Aufklärung;education, information, awareness;More education about the risks is needed.
+de:noun:die:Beweisführung;line of argument, reasoning, presentation of evidence;The reasoning is full of gaps.
+de:noun:die:Darstellung;portrayal, depiction, account;The account of the events is one-sided.
+de:noun:die:Deutung;interpretation;There are various interpretations of the poem.
+de:noun:der:Diskurs;discourse, debate;Public discourse has changed.
+de:noun:die:Einordnung;classification, contextualization, putting in context;We need to put it in historical context.
+de:noun:der:Forschungsstand;state of research, current research;According to current research, it is harmless.
+de:noun:die:Fragestellung;research question, question, issue;The paper's research question is clearly formulated.
+de:noun:die:Gliederung;structure, outline, organization;The structure of the essay is logical.
+de:noun:die:Grundannahme;basic assumption, premise;The basic assumption is wrong.
+de:noun:die:Herangehensweise;approach;We need a new approach.
+de:noun:das:Konzept;concept, plan, idea;The concept is not convincing.
+de:noun:die:Kernthese;central thesis, main argument;What is the author's central thesis?
+de:noun:die:Literaturangabe;reference, citation, bibliography;The references are at the end.
+de:noun:die:Methodik;methodology;The study's methodology is disputed.
+de:noun:die:Objektivität;objectivity;Journalists should remain objective.
+de:noun:das:Phänomen;phenomenon;It's a worldwide phenomenon.
+de:noun:die:Quellenkritik;source criticism, critical evaluation of sources;Critically evaluating sources is important at university.
+de:noun:die:Relevanz;relevance;The topic has great social relevance.
+de:noun:die:Schlüsselrolle;key role;Education plays a key role.
+de:noun:der:Sachverhalt;facts (of the case), situation, circumstances;Please describe the facts.
+de:noun:die:Sichtweise;point of view, perspective, view;Everyone has a different perspective.
+de:noun:die:Subjektivität;subjectivity;There's no such thing as complete objectivity, a little subjectivity always remains.
+de:noun:die:Tragödie;tragedy;The accident was a tragedy.
+de:noun:die:Überlieferung;tradition, legend, account;According to tradition, the city was founded in the 9th century.
+de:noun:die:Verallgemeinerung;generalization;Generalizations like that are unfair.
+de:noun:die:Wechselbeziehung;correlation, interrelation, interplay;There is a correlation between poverty and education.
+de:noun:die:Widerlegung;refutation, disproof;He failed to refute the thesis.
+de:noun:die:Wissensgesellschaft;knowledge society, knowledge-based society;In the knowledge society, education is crucial.
+de:noun:die:Zusammenfassung;summary;Write a short summary.
+de:noun:die:Aufmachung;presentation, design, layout;The book's design is very appealing.
+de:noun:die:Bildsprache;imagery, visual language;The film has powerful imagery.
+de:noun:das:Feuilleton;arts section, culture section (of a newspaper);The review appeared in the arts section.
+de:noun:die:Gattung;genre, form, category;The novel is a literary genre.
+de:noun:die:Hauptfigur;main character, protagonist;The main character is a young doctor.
+de:noun:die:Inszenierung;production, staging;The new production is very modern.
+de:noun:das:Kunstwerk;work of art, artwork;The museum displays important works of art.
+de:noun:die:Lektüre;read, reading, reading matter;The book is an exciting read.
+de:noun:das:Meisterwerk;masterpiece;The film is a real masterpiece.
+de:noun:die:Pointe;punchline, point;I didn't get the punchline of the joke.
+de:noun:die:Rezension;review;The review of the book was positive.
+de:noun:die:Satire;satire;The show is a political satire.
+de:noun:der:Schriftsteller;writer, author;He is a well-known writer.
+de:noun:die:Uraufführung;premiere, first performance;The premiere took place in 1805.
+de:noun:die:Verfilmung;film adaptation, screen adaptation;The film adaptation is better than the book.
+de:noun:der:Zeitgeist;zeitgeist, spirit of the times;The film captures the zeitgeist.
+de:noun:die:Zuschauerzahl;audience figures, ratings, attendance;Audience figures have fallen.
+de:noun:das:Anliegen;concern, request, matter;What can I do for you?
+de:noun:die:Eigenart;peculiarity, characteristic, quirk;Every region has its own peculiarities.
+de:noun:der:Einfallsreichtum;ingenuity, inventiveness, resourcefulness;Her ingenuity is impressive.
+de:noun:die:Gewandtheit;skill, adroitness, deftness;He answered the questions with great skill.
+de:noun:die:Gründlichkeit;thoroughness;German thoroughness is proverbial.
+de:noun:die:Hartnäckigkeit;persistence, tenacity, stubbornness;Through persistence, he achieved his goal.
+de:noun:die:Kompromissbereitschaft;willingness to compromise;Both sides showed a willingness to compromise.
+de:noun:die:Kritikfähigkeit;ability to accept criticism, openness to criticism;Being able to take criticism is an important quality.
+de:noun:die:Lernbereitschaft;willingness to learn, eagerness to learn;We are looking for applicants with a strong willingness to learn.
+de:noun:die:Souveränität;poise, confidence, sovereignty;She hosted with great poise.
+de:noun:die:Spontaneität;spontaneity;I like his spontaneity.
+de:noun:die:Standhaftigkeit;steadfastness, firmness, resolve;He showed great steadfastness.
+de:noun:die:Verschwiegenheit;confidentiality, discretion;We guarantee absolute confidentiality.
+de:noun:die:Weitsicht;foresight, vision, far-sightedness;He acted with great foresight.
+de:verb::abbilden;depict, reflect, represent;The statistics do not accurately reflect reality.
+de:verb::ableiten;derive, deduce, infer;A rule can be derived from this.
+de:verb::abstreiten;deny;He denies everything.
+de:verb::abtun;dismiss, brush aside, shrug off;He simply brushed aside my concerns.
+de:verb::abzielen;aim (at), target, be aimed (at);The measure is aimed at young people.
+de:verb::anführen;cite, give, lead;He gave several reasons.
+de:verb::angleichen;align, bring into line, equalize;Wages are to be brought into line.
+de:verb::anknüpfen;pick up (on), follow on (from), build on;Let's pick up where we left off in our last conversation.
+de:verb::aufzeigen;show, point out, reveal;The study reveals problems.
+de:verb::ausdifferenzieren;refine, elaborate, differentiate;The model needs to be refined further.
+de:verb::beibehalten;keep, retain, maintain;We're keeping the old rule.
+de:verb::beleuchten;examine, shed light on, illuminate;The article examines various aspects.
+de:verb::benennen;name, identify;He clearly identified the problems.
+de:verb::beruhen;be based (on), rest (on);The film is based on a true story.
+de:verb::bewerkstelligen;manage, accomplish, pull off;How did you manage that?
+de:verb::einbetten;embed, put into context;The topic needs to be placed in context.
+de:verb::einwenden;object, argue (against);There's nothing to object to in that.
+de:verb::ermessen;gauge, assess, comprehend;The extent can hardly be gauged.
+de:verb::folgern;conclude, infer, deduce;From that I conclude that he is lying.
+de:verb::gegenüberstellen;compare, contrast;We compare the advantages and disadvantages.
+de:verb::gewichten;weight, prioritize;The criteria are weighted differently.
+de:verb::herausarbeiten;bring out, identify, work out;Identify the most important arguments.
+de:verb::herleiten;derive, deduce;The formula can be easily derived.
+de:verb::interpretieren;interpret;How do you interpret the result?
+de:verb::kennzeichnen;characterize, mark, label;The period was characterized by uncertainty.
+de:verb::prognostizieren;forecast, predict;Experts are forecasting growth.
+de:verb::quantifizieren;quantify;The damage can hardly be quantified.
+de:verb::skizzieren;outline, sketch;He briefly outlined his plan.
+de:verb::stützen;support, back up (sich auf: be based on);The thesis is based on new data.
+de:verb::überspitzen;exaggerate, overstate;To put it bluntly: nobody reads books anymore.
+de:verb::umreißen;outline, sketch out;She briefly outlined the task.
+de:verb::unterliegen;be subject to, lose (to);The data is subject to data protection regulations.
+de:verb::verifizieren;verify;The information has to be verified.
+de:verb::vermerken;note, record, make a note of;That was noted in the minutes.
+de:verb::voraussetzen;require, presuppose, assume;The position requires experience.
+de:verb::vorwegnehmen;anticipate, give away (in advance);To give away the result in advance: it worked.
+de:verb::widerspiegeln;reflect, mirror;The figures reflect the crisis.
+de:verb::abfedern;cushion, soften, mitigate;The state wants to cushion the consequences.
+de:verb::abwickeln;process, handle, carry out;The payment is processed online.
+de:verb::anheben;raise, increase;Taxes are being raised.
+de:verb::ankurbeln;boost, stimulate;The government wants to stimulate the economy.
+de:verb::auslagern;outsource;The company is outsourcing its accounting.
+de:verb::bewilligen;approve, grant;The application was approved.
+de:verb::drosseln;cut back, reduce, throttle;Production was cut back.
+de:verb::einbringen;contribute, bring in, bring;She brings a lot of experience.
+de:verb::erwirtschaften;generate, make (a profit);The company has made profits.
+de:verb::fusionieren;merge;The two banks are merging.
+de:verb::haushalten;economize, budget, conserve;We have to conserve our strength.
+de:verb::kalkulieren;calculate, estimate;The costs were miscalculated.
+de:verb::mobilisieren;mobilize;The party is mobilizing its voters.
+de:verb::rationalisieren;rationalize, streamline;Production is being streamlined.
+de:verb::subventionieren;subsidize;The state subsidizes agriculture.
+de:verb::veräußern;sell, dispose of;The property was sold.
+de:verb::verbuchen;record, post, book;The company is recording a profit.
+de:verb::verschulden;go into debt (sich), be to blame for, cause;Many families have gone into debt.
+de:verb::zurückfahren;cut back, scale back, reduce;The company is cutting back production.
+de:verb::ausplaudern;blab, let slip, give away;She let the secret slip.
+de:verb::beschwichtigen;appease, placate, calm down;He tried to placate the customers.
+de:verb::bestärken;reinforce, confirm, encourage;That confirms me in my decision.
+de:verb::beteuern;protest, assert, swear;He protested his innocence.
+de:verb::brüllen;roar, bellow, yell;He roared with rage.
+de:verb::dahinterkommen;figure out, find out;I finally figured out what's going on.
+de:verb::einschüchtern;intimidate;Don't let yourself be intimidated!
+de:verb::entrüsten;outrage (sich: be outraged, be indignant);The citizens were outraged by the decision.
+de:verb::flüstern;whisper;She whispered something in his ear.
+de:verb::hänseln;tease, make fun of;He was often teased at school.
+de:verb::herumreden;beat around the bush, waffle;Stop beating around the bush!
+de:verb::jubeln;cheer, rejoice;The fans cheered after the goal.
+de:verb::klatschen;clap, applaud, gossip;The audience applauded enthusiastically.
+de:verb::meckern;grumble, complain, gripe;He complains about everything.
+de:verb::munkeln;rumor (it is rumored), whisper;Rumor has it that he wants to quit.
+de:verb::nuscheln;mumble, mutter;He mumbles so much that you can hardly understand him.
+de:verb::prahlen;boast, brag, show off;He likes to show off his car.
+de:verb::schmeicheln;flatter;You're just trying to flatter me.
+de:verb::schwärmen;rave (about), gush (about), be crazy (about);She is raving about her vacation.
+de:verb::seufzen;sigh;He sighed deeply.
+de:verb::spotten;mock, ridicule, make fun of;They make fun of his accent.
+de:verb::stammeln;stammer, stutter;He was so excited he could only stammer.
+de:verb::tuscheln;whisper, gossip;The colleagues are whispering in the corner.
+de:verb::überhören;not hear, ignore, let pass;She ignored the remark.
+de:verb::verhöhnen;mock, ridicule, deride;He was publicly ridiculed.
+de:verb::verleumden;slander, defame, libel;He was slandered in the press.
+de:verb::verplappern;let slip (sich), blurt out;I almost let it slip.
+de:verb::vertrösten;put off, fob off;They put me off until next week.
+de:verb::zurechtweisen;reprimand, rebuke, tell off;The teacher sharply reprimanded him.
+de:verb::zureden;persuade, encourage, urge;We spent a long time trying to persuade him.
+de:verb::bangen;fear (for), worry (about);The family fears for his life.
+de:verb::erröten;blush, turn red;She blushed with embarrassment.
+de:verb::erstarren;freeze, stiffen, be paralyzed;She froze in fear.
+de:verb::grübeln;brood, ponder, rack one's brains;He is pondering the problem.
+de:verb::sich sehnen;long (for), yearn (for);She longs for peace and quiet.
+de:verb::sich ekeln;be disgusted (by), find disgusting;Spiders disgust me.
+de:verb::sich empören;be outraged, be indignant;Many people are outraged by the prices.
+de:verb::sich grämen;grieve, fret, be upset;Don't fret about it!
+de:verb::verzweifeln;despair;It's enough to drive you to despair.
+de:verb::zittern;tremble, shiver, shake;He was shivering with cold.
+de:verb::bummeln;stroll, wander, dawdle;We're strolling through the old town.
+de:verb::dösen;doze;He's dozing on the sofa.
+de:verb::eilen;hurry, rush;She hurried to the train station.
+de:verb::schlendern;stroll, saunter;We strolled along the river.
+de:verb::stolpern;stumble, trip;He tripped over a root.
+de:verb::taumeln;stagger, reel, sway;He staggered out of the pub.
+de:verb::trödeln;dawdle, dillydally;Stop dawdling, we're running late!
+de:verb::umherirren;wander around (lost), roam;We wandered around lost for hours.
+de:verb::wanken;waver, falter, sway;His conviction is wavering.
+de:verb::anstauen;build up (sich), accumulate;The anger had been building up for a long time.
+de:verb::aufblühen;blossom, flourish, come alive;She has really blossomed since the move.
+de:verb::ausharren;hold out, wait (patiently), stick it out;They held out in the cold for hours.
+de:verb::durchschlagen;get by (sich), fend for oneself;He got by on his own.
+de:verb::entgleiten;slip away (from), get out of control;He lost control of the situation.
+de:verb::erlahmen;flag, wane, tire;His interest quickly waned.
+de:verb::gedeihen;thrive, flourish;The plants are thriving.
+de:verb::keimen;germinate, sprout, take root (fig.);A suspicion began to grow in him.
+de:verb::schwinden;dwindle, fade, diminish;Hope is fading.
+de:verb::verblassen;fade;The memory is slowly fading.
+de:verb::verkümmern;waste away, wither, atrophy;Without practice, skills wither away.
+de:verb::verwahrlosen;become neglected, fall into disrepair, go to seed;The house is completely run-down.
+de:verb::zerfallen;disintegrate, break up, collapse;The empire broke up into many states.
+de:verb::zunichtemachen;ruin, wreck, thwart;The rain ruined our plans.
+de:verb::bewahrheiten;come true (sich), be confirmed;His fears have been confirmed.
+de:verb::einbrocken;get (oneself) into (a mess), land (oneself) in it;You got yourself into this mess.
+de:verb::einheimsen;rake in, collect, reap;He has received a lot of praise.
+de:verb::ergattern;get hold of, snag, manage to get;I managed to get hold of two more tickets.
+de:verb::verscherzen;forfeit, spoil things (with someone) (sich);He has fallen out of favor with the boss.
+de:verb::vermasseln;mess up, blow, botch;I blew the exam.
