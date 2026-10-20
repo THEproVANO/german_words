@@ -4720,3 +4720,265 @@ C2;adj;;lacónico;;;;;лаконичный, немногословный;Me dio 
 C2;adj;;lánguido;;;;;томный, вялый;Nos miró con unos ojos **lánguidos**.;Она посмотрела на нас томными глазами.
 C2;adj;;lóbrego;;;;;мрачный, тёмный;Bajamos a un sótano **lóbrego** y húmedo.;Мы спустились в мрачный и сырой подвал.
 C2;adj;;lozano;;;;;свежий, цветущий;A sus setenta años sigue **lozano** y activo.;В свои семьдесят он всё ещё бодр и активен.
+C1;noun;la;alegoría;;;;;аллегория, иносказание;La novela es una **alegoría** de la guerra civil.;Роман — аллегория гражданской войны.
+C1;noun;el;sarcasmo;;;;;сарказм;Respondió con un **sarcasmo** que nadie esperaba.;Он ответил с сарказмом, которого никто не ожидал.
+C1;noun;la;connotación;;;;;коннотация, оттенок значения;Esa palabra tiene una **connotación** negativa.;У этого слова негативная коннотация.
+C1;noun;la;acepción;;;;;значение слова;El diccionario recoge tres **acepciones** de este término.;Словарь приводит три значения этого термина.
+C1;noun;el;vocablo;;;;;слово, вокабула;Es un **vocablo** de origen árabe.;Это слово арабского происхождения.
+C1;noun;el;neologismo;;;;;неологизм;Internet ha traído muchos **neologismos** al idioma.;Интернет принёс в язык много неологизмов.
+C1;noun;el;extranjerismo;;;;;иностранное заимствование;La academia propone alternativas a cada **extranjerismo**.;Академия предлагает замены для каждого иностранного заимствования.
+C1;noun;el;anglicismo;;;;;англицизм;El lenguaje empresarial está lleno de **anglicismos**.;Деловой язык полон англицизмов.
+C1;noun;el;modismo;;;;;идиома, оборот речи;Este **modismo** solo se usa en Argentina.;Этот оборот используется только в Аргентине.
+C1;noun;la;locución;;;;;словосочетание, оборот;«A pesar de» es una **locución** prepositiva.;«A pesar de» — предложный оборот.
+C1;noun;el;aforismo;;;;;афоризм;Sus **aforismos** se citan todavía en las universidades.;Его афоризмы до сих пор цитируют в университетах.
+C1;noun;la;máxima;;;;;максима, принцип;Su **máxima** era no rendirse nunca.;Его принципом было никогда не сдаваться.
+C1;noun;la;moraleja;;;;;мораль басни, вывод;La **moraleja** del cuento es clara.;Мораль этой сказки ясна.
+C1;noun;la;epopeya;;;;;эпопея, эпос;La travesía fue una auténtica **epopeya**.;Переход стал настоящей эпопеей.
+C1;noun;la;elegía;;;;;элегия;El poeta escribió una **elegía** a su amigo muerto.;Поэт написал элегию умершему другу.
+C1;noun;la;oda;;;;;ода;Neruda escribió una **oda** a la cebolla.;Неруда написал оду луковице.
+C1;noun;el;soneto;;;;;сонет;Un **soneto** tiene catorce versos.;В сонете четырнадцать строк.
+C1;noun;la;métrica;;;;;метрика, стихосложение;Estudiamos la **métrica** de los poemas medievales.;Мы изучаем метрику средневековых стихов.
+C1;noun;la;prosa;-;;;;проза;Su **prosa** es sencilla y elegante.;Его проза проста и элегантна.
+C1;noun;el;ensayista;;;;;эссеист;Fue un **ensayista** muy influyente en su época.;Он был очень влиятельным эссеистом своего времени.
+C1;noun;el;epílogo;;;;;эпилог;En el **epílogo** se explica el destino de los personajes.;В эпилоге объясняется судьба героев.
+C1;noun;el;protagonismo;-;;;;ведущая роль, главенство;El ministro busca **protagonismo** en los medios.;Министр стремится к главной роли в СМИ.
+C1;noun;el;antagonista;;;;;антагонист, противник;El **antagonista** de la película es un científico loco.;Антагонист фильма — безумный учёный.
+C1;noun;la;verosimilitud;-;;;;правдоподобие;La historia carece de **verosimilitud**.;Истории не хватает правдоподобия.
+C1;noun;la;retórica;-;;;;риторика;Su discurso era pura **retórica** sin contenido.;Его речь была чистой риторикой без содержания.
+C1;noun;la;oratoria;-;;;;ораторское искусство;Tomó un curso de **oratoria** para hablar en público.;Он прошёл курс ораторского искусства, чтобы выступать на публике.
+C1;noun;la;elocuencia;-;;;;красноречие;Defendió su postura con gran **elocuencia**.;Он защищал свою позицию с большим красноречием.
+C1;noun;la;argumentación;;;;;аргументация;Tu **argumentación** no es convincente.;Твоя аргументация неубедительна.
+C1;noun;la;réplica;;;;;ответ, возражение, копия;El director no tardó en dar una **réplica**.;Директор не замедлил с ответом.
+C1;noun;la;refutación;;;;;опровержение;Publicó una **refutación** de la teoría.;Он опубликовал опровержение теории.
+C1;noun;la;objeción;;;;;возражение;¿Alguien tiene alguna **objeción** al plan?;У кого-нибудь есть возражения против плана?
+C1;noun;el;reparo;;;;;сомнение, возражение, стеснение;No tengo ningún **reparo** en decírselo.;Я без всякого стеснения скажу ему это.
+C1;noun;la;reticencia;;;;;сдержанность, нежелание;Aceptó la propuesta con cierta **reticencia**.;Он принял предложение с некоторой неохотой.
+C1;noun;el;recelo;;;;;недоверие, опасение;Miraba al recién llegado con **recelo**.;Он смотрел на новичка с недоверием.
+C1;noun;la;suspicacia;;;;;подозрительность;La noticia despertó **suspicacias** entre los socios.;Новость вызвала подозрения среди партнёров.
+C1;noun;el;escepticismo;-;;;;скептицизм;Los expertos reciben el anuncio con **escepticismo**.;Эксперты встречают заявление со скептицизмом.
+C1;noun;el;escéptico;;;;;скептик;Siempre fue un **escéptico** respecto a la medicina alternativa.;Он всегда был скептиком в отношении альтернативной медицины.
+C1;noun;el;cinismo;-;;;;цинизм;Me sorprendió el **cinismo** de su respuesta.;Меня удивил цинизм его ответа.
+C1;noun;la;hipocresía;;;;;лицемерие;Critican la **hipocresía** de los políticos.;Критикуют лицемерие политиков.
+C1;noun;la;arrogancia;-;;;;высокомерие, надменность;Su **arrogancia** le costó el puesto.;Высокомерие стоило ему должности.
+C1;noun;la;prepotencia;-;;;;заносчивость, самоуправство;Trata a sus empleados con **prepotencia**.;Он обращается с подчинёнными высокомерно.
+C1;noun;la;presunción;;;;;предположение, самомнение;Rige la **presunción** de inocencia.;Действует презумпция невиновности.
+C1;noun;la;modestia;-;;;;скромность;Habló de su éxito con **modestia**.;Он говорил о своём успехе со скромностью.
+C1;noun;el;recato;-;;;;сдержанность, стыдливость;Vestía con **recato** para la ceremonia.;Она оделась скромно для церемонии.
+C1;noun;el;pudor;-;;;;стыдливость, стыд;Le daba **pudor** hablar de sus sentimientos.;Ему было стыдно говорить о своих чувствах.
+C1;noun;el;decoro;-;;;;приличие, достоинство;Hay que mantener el **decoro** en el parlamento.;В парламенте нужно соблюдать приличия.
+C1;noun;la;integridad;-;;;;честность, целостность;Nadie duda de la **integridad** de la jueza.;Никто не сомневается в честности судьи.
+C1;noun;la;probidad;-;;;;честность, порядочность;Era un funcionario de reconocida **probidad**.;Он был чиновником признанной честности.
+C1;noun;la;honradez;-;;;;честность, порядочность;Su **honradez** está fuera de toda duda.;Его честность вне всяких сомнений.
+C1;noun;la;rectitud;-;;;;прямота, честность;Actuó siempre con **rectitud**.;Он всегда поступал честно.
+C1;noun;la;abnegación;-;;;;самоотверженность;Cuidó a su madre con **abnegación**.;Она самоотверженно ухаживала за матерью.
+C1;noun;el;altruismo;-;;;;альтруизм;Lo hizo por puro **altruismo**.;Он сделал это из чистого альтруизма.
+C1;noun;la;filantropía;-;;;;благотворительность, филантропия;Dedica su fortuna a la **filantropía**.;Он тратит своё состояние на благотворительность.
+C1;noun;el;filántropo;;;;;филантроп, меценат;Un **filántropo** donó el edificio a la ciudad.;Филантроп подарил здание городу.
+C1;noun;el;mecenas;;;;;меценат;El museo busca un **mecenas** para la restauración.;Музей ищет мецената для реставрации.
+C1;noun;el;mecenazgo;-;;;;меценатство;La nueva ley fomenta el **mecenazgo** cultural.;Новый закон поощряет меценатство в культуре.
+C1;noun;el;benefactor;;;;;благодетель;Un **benefactor** anónimo pagó sus estudios.;Анонимный благодетель оплатил его учёбу.
+C1;noun;el;donativo;;;;;пожертвование;Hicieron un **donativo** a la Cruz Roja.;Они сделали пожертвование Красному Кресту.
+C1;noun;la;ascendencia;;;;;происхождение, влияние;Es de **ascendencia** italiana.;Он итальянского происхождения.
+C1;noun;la;descendencia;-;;;;потомство, потомки;Murió sin dejar **descendencia**.;Он умер, не оставив потомства.
+C1;noun;la;progenie;-;;;;потомство, род;El rey quería asegurar su **progenie**.;Король хотел обеспечить себе потомство.
+C1;noun;la;consanguinidad;-;;;;кровное родство;Hay un grado de **consanguinidad** entre los dos.;Между ними есть кровное родство.
+C1;noun;la;afinidad;;;;;родство, близость взглядов;Siento una gran **afinidad** con sus ideas.;Я чувствую большую близость к его идеям.
+C1;noun;la;idiosincrasia;;;;;самобытность, особенности характера;Cada pueblo tiene su propia **idiosincrasia**.;У каждого народа своя самобытность.
+C1;noun;el;temperamento;;;;;темперамент, нрав;Tiene un **temperamento** fuerte y apasionado.;У неё сильный и страстный темперамент.
+C1;noun;la;esfera;;;;;сфера, область, шар;Es muy conocido en la **esfera** política.;Он очень известен в политической сфере.
+C1;noun;la;envergadura;-;;;;масштаб, размах;Es un proyecto de gran **envergadura**.;Это проект большого масштаба.
+C1;noun;la;magnitud;;;;;величина, масштаб;Nadie esperaba la **magnitud** de la catástrofe.;Никто не ожидал масштаба катастрофы.
+C1;noun;la;trascendencia;-;;;;значимость, важность;Fue una decisión de enorme **trascendencia**.;Это было решение огромной важности.
+C1;noun;la;relevancia;-;;;;значимость, актуальность;El tema ha cobrado **relevancia** en los últimos años.;В последние годы тема приобрела значимость.
+C1;noun;la;pertinencia;-;;;;уместность;Dudo de la **pertinencia** de esa pregunta.;Я сомневаюсь в уместности этого вопроса.
+C1;noun;la;caducidad;-;;;;истечение срока, срок годности;Mira la fecha de **caducidad** del yogur.;Посмотри срок годности йогурта.
+C1;noun;la;obsolescencia;-;;;;устаревание;La **obsolescencia** programada perjudica al consumidor.;Запланированное устаревание вредит потребителю.
+C1;noun;el;desfase;;;;;отставание, расхождение;Hay un **desfase** entre la teoría y la práctica.;Между теорией и практикой есть расхождение.
+C1;noun;el;desajuste;;;;;несоответствие, сбой;Existe un **desajuste** entre oferta y demanda.;Существует несоответствие между спросом и предложением.
+C1;noun;el;desequilibrio;;;;;дисбаланс, неустойчивость;El país sufre un grave **desequilibrio** fiscal.;Страна страдает от серьёзного бюджетного дисбаланса.
+C1;noun;el;vaivén;;;;;колебание, качание, превратности;Me mareaba el **vaivén** del barco.;Меня укачивало от качки корабля.
+C1;noun;la;fluctuación;;;;;колебание;La **fluctuación** de los precios preocupa a los inversores.;Колебание цен беспокоит инвесторов.
+C1;noun;la;oscilación;;;;;колебание, качание;Se observa una ligera **oscilación** de la temperatura.;Наблюдается небольшое колебание температуры.
+C1;noun;el;devenir;-;;;;ход событий, становление;Nadie puede prever el **devenir** de la historia.;Никто не может предсказать ход истории.
+C1;noun;el;porvenir;-;;;;будущее;Le espera un **porvenir** brillante.;Его ждёт блестящее будущее.
+C1;noun;el;cénit;;;;;зенит, вершина;Estaba en el **cénit** de su carrera.;Он был в зените своей карьеры.
+C1;noun;la;decadencia;-;;;;упадок, декаданс;El imperio entró en **decadencia**.;Империя пришла в упадок.
+C1;noun;el;decaimiento;-;;;;упадок сил, слабость;Tras la gripe sentía un gran **decaimiento**.;После гриппа он чувствовал сильную слабость.
+C1;noun;el;deterioro;-;;;;ухудшение, износ;Preocupa el **deterioro** de las relaciones bilaterales.;Беспокоит ухудшение двусторонних отношений.
+C1;noun;el;menoscabo;-;;;;ущерб, урон;Lo hizo sin **menoscabo** de sus obligaciones.;Он сделал это без ущерба для своих обязанностей.
+C1;noun;la;merma;;;;;уменьшение, потеря;Se produjo una **merma** en los ingresos.;Произошло уменьшение доходов.
+C1;noun;la;mengua;-;;;;убыль, ущерб;Lo aceptó sin **mengua** de su dignidad.;Он принял это без ущерба для своего достоинства.
+C1;noun;el;detrimento;-;;;;ущерб, вред;Se favoreció a unos en **detrimento** de otros.;Одним отдали предпочтение в ущерб другим.
+C1;noun;el;perjuicio;;;;;вред, ущерб;La huelga causó graves **perjuicios** a la empresa.;Забастовка нанесла компании серьёзный ущерб.
+C1;noun;el;lucro;-;;;;нажива, прибыль;Es una asociación sin ánimo de **lucro**.;Это некоммерческая ассоциация.
+C1;noun;el;rédito;;;;;доход, выгода, процент;El partido intenta sacar **rédito** político del escándalo.;Партия пытается извлечь политическую выгоду из скандала.
+C1;noun;la;plusvalía;;;;;прирост стоимости;Al vender el piso pagó la **plusvalía**.;Продав квартиру, он заплатил налог на прирост стоимости.
+C1;noun;el;bono;;;;;облигация, абонемент, ваучер;El Estado emitió **bonos** a diez años.;Государство выпустило десятилетние облигации.
+C1;noun;la;moratoria;;;;;мораторий, отсрочка;El gobierno aprobó una **moratoria** de los desahucios.;Правительство утвердило мораторий на выселения.
+C1;noun;la;prórroga;;;;;продление, отсрочка, дополнительное время;Solicitó una **prórroga** del contrato.;Он попросил продлить контракт.
+C1;noun;el;aplazamiento;;;;;перенос, отсрочка;Anunciaron el **aplazamiento** de la reunión.;Объявили о переносе собрания.
+C1;noun;la;demora;;;;;задержка, промедление;Pedimos disculpas por la **demora**.;Приносим извинения за задержку.
+C1;noun;la;dilación;;;;;промедление, проволочка;Hay que actuar sin **dilación**.;Нужно действовать без промедления.
+C1;noun;la;tardanza;-;;;;опоздание, медлительность;Nadie entendía su **tardanza** en responder.;Никто не понимал, почему он медлит с ответом.
+C1;noun;el;apremio;;;;;спешка, срочность, принуждение;Recibió una carta de **apremio** de Hacienda.;Он получил от налоговой требование срочной уплаты.
+C1;noun;la;contingencia;;;;;непредвиденное обстоятельство;Tenemos un plan para cualquier **contingencia**.;У нас есть план на любой непредвиденный случай.
+C1;noun;la;eventualidad;;;;;возможность, случайность;Debemos estar preparados ante cualquier **eventualidad**.;Мы должны быть готовы к любой неожиданности.
+C1;noun;el;percance;;;;;неприятность, происшествие;Llegamos tarde por un pequeño **percance**.;Мы опоздали из-за небольшой неприятности.
+C1;noun;el;revés;;;;;неудача, удар судьбы, оборотная сторона;La empresa sufrió un duro **revés** económico.;Компания потерпела серьёзную экономическую неудачу.
+C1;noun;el;tropiezo;;;;;спотыкание, промах;Un **tropiezo** no significa el fin de tu carrera.;Один промах не означает конец твоей карьеры.
+C1;noun;el;traspié;;;;;оплошность, спотыкание;Dio un **traspié** al bajar del autobús.;Он споткнулся, выходя из автобуса.
+C1;noun;el;desengaño;;;;;разочарование;Sufrió un **desengaño** amoroso.;Он пережил любовное разочарование.
+C1;noun;el;abatimiento;-;;;;подавленность, уныние;Tras la derrota cayó en un profundo **abatimiento**.;После поражения он впал в глубокое уныние.
+C1;noun;el;desánimo;-;;;;упадок духа, уныние;El **desánimo** se apoderó del equipo.;Команду охватило уныние.
+C1;noun;la;dejadez;-;;;;небрежность, запущенность;La casa mostraba años de **dejadez**.;Дом носил следы многолетней запущенности.
+C1;noun;la;negligencia;;;;;халатность, небрежность;El accidente se debió a una **negligencia** médica.;Несчастный случай произошёл из-за врачебной халатности.
+C1;noun;la;imprudencia;;;;;неосторожность, опрометчивость;Conducir así es una **imprudencia**.;Так водить машину — неосторожно.
+C1;noun;la;temeridad;;;;;безрассудство;Escalar sin cuerda fue una **temeridad**.;Лезть без верёвки было безрассудством.
+C1;noun;la;osadía;;;;;дерзость, смелость;Tuvo la **osadía** de contradecir al jefe.;Он осмелился возразить начальнику.
+C1;noun;la;audacia;-;;;;отвага, дерзость;El plan requiere **audacia** y paciencia.;План требует смелости и терпения.
+C1;noun;el;arrojo;-;;;;отвага, решительность;Los bomberos actuaron con **arrojo**.;Пожарные действовали отважно.
+C1;noun;la;intrepidez;-;;;;бесстрашие;Admiro la **intrepidez** de los exploradores.;Я восхищаюсь бесстрашием исследователей.
+C1;noun;la;fortaleza;;;;;сила духа, крепость;Mostró una gran **fortaleza** ante la enfermedad.;Она проявила большую силу духа перед болезнью.
+C1;noun;el;aplomo;-;;;;самообладание, уверенность;Respondió a las críticas con **aplomo**.;Он ответил на критику с самообладанием.
+C1;noun;la;serenidad;-;;;;спокойствие, хладнокровие;Mantuvo la **serenidad** en todo momento.;Он всё время сохранял спокойствие.
+C1;noun;el;desconsuelo;-;;;;безутешность, скорбь;Lloraba con **desconsuelo** en el funeral.;Она безутешно плакала на похоронах.
+C1;noun;el;duelo;;;;;траур, скорбь, дуэль;La familia necesita tiempo para el **duelo**.;Семье нужно время, чтобы пережить утрату.
+C1;noun;el;luto;-;;;;траур;Se declararon tres días de **luto** oficial.;Был объявлен трёхдневный официальный траур.
+C1;noun;el;pésame;;;;;соболезнование;Le di el **pésame** a la viuda.;Я выразил соболезнования вдове.
+C1;noun;la;condolencia;;;;;соболезнование;Enviaron sus **condolencias** a la familia.;Они направили соболезнования семье.
+C1;noun;el;desahogo;;;;;облегчение, отдушина, достаток;Escribir es para él un **desahogo**.;Писать для него — отдушина.
+C1;noun;la;catarsis;-;;;;катарсис, очищение;La terapia fue para ella una **catarsis**.;Терапия стала для неё катарсисом.
+C1;noun;la;euforia;-;;;;эйфория;Tras la victoria reinaba la **euforia**.;После победы царила эйфория.
+C1;noun;el;deleite;;;;;наслаждение;Escuchaba la música con **deleite**.;Он слушал музыку с наслаждением.
+C1;noun;el;goce;;;;;наслаждение, пользование;El **goce** de la vida está en las cosas sencillas.;Наслаждение жизнью — в простых вещах.
+C1;noun;la;complacencia;;;;;удовольствие, снисходительность;Las autoridades actuaron con excesiva **complacencia**.;Власти действовали чересчур снисходительно.
+C1;noun;la;ingratitud;-;;;;неблагодарность;Me dolió su **ingratitud** después de tanto esfuerzo.;Меня задела его неблагодарность после стольких усилий.
+C1;noun;la;animadversión;-;;;;неприязнь, враждебность;Siente una profunda **animadversión** hacia su cuñado.;Он испытывает глубокую неприязнь к шурину.
+C1;noun;la;animosidad;-;;;;враждебность, неприязнь;Había cierta **animosidad** entre los dos equipos.;Между двумя командами была определённая враждебность.
+C1;noun;la;hostilidad;;;;;враждебность, военные действия;La propuesta fue recibida con **hostilidad**.;Предложение встретили враждебно.
+C1;noun;la;aversión;;;;;отвращение, неприязнь;Tengo **aversión** a los lugares cerrados.;Я испытываю отвращение к закрытым помещениям.
+C1;noun;la;repulsión;-;;;;отвращение, отталкивание;Sintió **repulsión** al ver la escena.;Увидев сцену, он почувствовал отвращение.
+C1;noun;la;repugnancia;-;;;;омерзение, отвращение;Le produce **repugnancia** la injusticia.;Несправедливость вызывает у него омерзение.
+C1;noun;el;menosprecio;-;;;;пренебрежение, недооценка;Habló de sus colegas con **menosprecio**.;Он говорил о коллегах с пренебрежением.
+C1;noun;el;desdén;-;;;;презрение, пренебрежение;Lo miró con **desdén** y se fue.;Она посмотрела на него с презрением и ушла.
+C1;noun;el;ninguneo;-;;;;игнорирование, пренебрежение;Denuncian el **ninguneo** de las mujeres científicas.;Осуждают игнорирование женщин-учёных.
+C1;noun;el;escarnio;-;;;;глумление, насмешка;Fue objeto de **escarnio** público.;Он стал объектом публичного глумления.
+C1;noun;la;mofa;;;;;насмешка, издёвка;Hacían **mofa** de su acento.;Они насмехались над его акцентом.
+C1;noun;la;sorna;-;;;;ирония, насмешливость;Me lo dijo con cierta **sorna**.;Он сказал мне это с некоторой иронией.
+C1;noun;la;guasa;-;;;;шутливость, насмешка;No te lo tomes en serio, lo dijo de **guasa**.;Не принимай всерьёз, он сказал это в шутку.
+C1;noun;la;chanza;;;;;шутка, острота;Entre **chanzas** y risas pasaron la tarde.;Среди шуток и смеха они провели вечер.
+C1;noun;la;ocurrencia;;;;;выдумка, остроумная мысль;¡Qué **ocurrencia** tan divertida!;Какая забавная выдумка!
+C1;noun;la;agudeza;;;;;острота, проницательность;Analizó el problema con gran **agudeza**.;Он проанализировал проблему с большой проницательностью.
+C1;noun;el;ingenio;;;;;остроумие, изобретательность;Resolvió el problema con mucho **ingenio**.;Он решил проблему с большой изобретательностью.
+C1;noun;el;donaire;-;;;;изящество, грация;Bailaba con mucho **donaire**.;Она танцевала очень грациозно.
+C1;noun;el;salero;;;;;обаяние, шарм, солонка;Esa chica tiene mucho **salero**.;У этой девушки много шарма.
+C1;noun;el;carisma;-;;;;харизма;El candidato tiene un gran **carisma**.;У кандидата большая харизма.
+C1;noun;el;magnetismo;-;;;;магнетизм, притягательность;Su **magnetismo** personal atraía a todos.;Его личный магнетизм притягивал всех.
+C1;noun;el;hechizo;;;;;чары, заклинание;La bruja lanzó un **hechizo** sobre el príncipe.;Ведьма наложила чары на принца.
+C1;noun;el;embrujo;;;;;очарование, колдовство;Cayó bajo el **embrujo** de Sevilla.;Он поддался очарованию Севильи.
+C1;noun;la;seducción;-;;;;соблазн, обольщение;El arte de la **seducción** no es fácil.;Искусство обольщения непросто.
+C1;noun;la;coquetería;-;;;;кокетство;Sonrió con **coquetería** al fotógrafo.;Она кокетливо улыбнулась фотографу.
+C1;noun;la;galantería;;;;;галантность, любезность;Le abrió la puerta con **galantería**.;Он галантно открыл ей дверь.
+C1;noun;la;cortesía;;;;;вежливость, любезность;Por **cortesía** te invito a un café.;Из вежливости угощаю тебя кофе.
+C1;noun;la;urbanidad;-;;;;вежливость, учтивость;Las normas de **urbanidad** han cambiado mucho.;Правила хорошего тона сильно изменились.
+C1;noun;el;modales;pl;;;;манеры;Ese niño tiene muy buenos **modales**.;У этого мальчика очень хорошие манеры.
+C1;noun;el;protocolo;;;;;протокол, этикет;El **protocolo** exige vestir de etiqueta.;Протокол требует вечернего наряда.
+C1;noun;el;ceremonial;;;;;церемониал;El **ceremonial** de la boda real fue impresionante.;Церемониал королевской свадьбы был впечатляющим.
+C1;noun;el;ritual;;;;;ритуал;Tomar café por la mañana es mi **ritual**.;Пить кофе утром — мой ритуал.
+C1;noun;el;rito;;;;;обряд;Celebraron la boda según el **rito** católico.;Свадьбу отпраздновали по католическому обряду.
+C1;noun;la;liturgia;;;;;литургия, богослужение;La **liturgia** se celebraba en latín.;Литургия велась на латыни.
+C1;noun;la;devoción;;;;;набожность, преданность;Siente gran **devoción** por la Virgen.;Она испытывает большое благоговение перед Девой Марией.
+C1;noun;el;fervor;-;;;;пыл, рвение;Los aficionados cantaban con **fervor**.;Болельщики пели с жаром.
+C1;noun;la;superstición;;;;;суеверие;Según la **superstición**, el martes trece trae mala suerte.;По суеверию, вторник тринадцатое приносит неудачу.
+C1;noun;la;herejía;;;;;ересь;Fue acusado de **herejía** por la Inquisición.;Инквизиция обвинила его в ереси.
+C1;noun;el;hereje;;;;;еретик;Quemaron al **hereje** en la plaza.;Еретика сожгли на площади.
+C1;noun;la;apostasía;;;;;отступничество, вероотступничество;Su **apostasía** escandalizó a la comunidad.;Его вероотступничество возмутило общину.
+C1;noun;la;blasfemia;;;;;богохульство;Para los creyentes, eso es una **blasfemia**.;Для верующих это богохульство.
+C1;noun;el;sacrilegio;;;;;святотатство;Robar en una iglesia se consideraba un **sacrilegio**.;Кража в церкви считалась святотатством.
+C1;noun;la;profanación;;;;;осквернение;Condenaron la **profanación** de las tumbas.;Осудили осквернение могил.
+C1;noun;el;laicismo;-;;;;светскость, лаицизм;El **laicismo** defiende la separación entre Iglesia y Estado.;Лаицизм выступает за отделение церкви от государства.
+C1;noun;la;laicidad;-;;;;светский характер государства;La Constitución garantiza la **laicidad** del Estado.;Конституция гарантирует светский характер государства.
+C1;noun;la;secularización;-;;;;секуляризация;La **secularización** de la sociedad avanza rápidamente.;Секуляризация общества идёт быстро.
+C1;noun;el;ateísmo;-;;;;атеизм;Nunca ocultó su **ateísmo**.;Он никогда не скрывал своего атеизма.
+C1;noun;el;agnosticismo;-;;;;агностицизм;Su **agnosticismo** le alejó de la Iglesia.;Агностицизм отдалил его от церкви.
+C1;noun;el;agnóstico;;;;;агностик;Se define como **agnóstico**, no como ateo.;Он называет себя агностиком, а не атеистом.
+C1;noun;el;misticismo;-;;;;мистицизм;El **misticismo** español tuvo su auge en el siglo XVI.;Испанский мистицизм достиг расцвета в XVI веке.
+C1;noun;el;ascetismo;-;;;;аскетизм;Los monjes vivían en el **ascetismo** más absoluto.;Монахи жили в полнейшем аскетизме.
+C1;noun;la;penitencia;;;;;покаяние, епитимья;El cura le impuso una **penitencia**.;Священник наложил на него епитимью.
+C1;noun;la;expiación;-;;;;искупление;Buscaba la **expiación** de sus pecados.;Он искал искупления своих грехов.
+C1;noun;la;redención;-;;;;искупление, освобождение;La novela trata sobre la culpa y la **redención**.;Роман о вине и искуплении.
+C1;noun;la;salvación;-;;;;спасение;Ese préstamo fue la **salvación** de la empresa.;Этот кредит стал спасением для компании.
+C1;noun;la;perdición;-;;;;гибель, погибель;El juego fue su **perdición**.;Азартные игры стали его погибелью.
+C1;noun;el;recargo;;;;;надбавка, наценка, пеня;Si pagas tarde, hay un **recargo** del diez por ciento.;При просрочке платежа взимается надбавка десять процентов.
+C1;noun;el;contrabando;-;;;;контрабанда;Detuvieron a una banda dedicada al **contrabando** de tabaco.;Задержали банду, занимавшуюся контрабандой табака.
+C1;noun;el;contrabandista;;;;;контрабандист;La policía arrestó al **contrabandista** en la frontera.;Полиция арестовала контрабандиста на границе.
+C1;noun;el;narcotráfico;-;;;;наркоторговля;El **narcotráfico** genera mucha violencia en la región.;Наркоторговля порождает много насилия в регионе.
+C1;noun;el;narcotraficante;;;;;наркоторговец;Extraditaron al **narcotraficante** a Estados Unidos.;Наркоторговца экстрадировали в США.
+C1;noun;el;estafador;;;;;мошенник, аферист;El **estafador** engañó a decenas de jubilados.;Мошенник обманул десятки пенсионеров.
+C1;noun;el;timo;;;;;обман, надувательство;¡Ese precio es un **timo**!;Эта цена — надувательство!
+C1;noun;el;timador;;;;;жулик, мошенник;Un **timador** se hizo pasar por técnico del gas.;Жулик выдал себя за газовщика.
+C1;noun;la;argucia;;;;;уловка, хитрость;Utilizó todo tipo de **argucias** legales para no pagar.;Он использовал всевозможные юридические уловки, чтобы не платить.
+C1;noun;la;treta;;;;;уловка, хитрость;Fue una **treta** para distraer al guardia.;Это была уловка, чтобы отвлечь охранника.
+C1;noun;la;estratagema;;;;;хитрость, стратагема;Ideó una **estratagema** para escapar.;Он придумал хитрость, чтобы сбежать.
+C1;noun;la;maniobra;;;;;манёвр, махинация;Fue una **maniobra** política para ganar tiempo.;Это был политический манёвр, чтобы выиграть время.
+C1;noun;el;pretexto;;;;;предлог;Lo usó como **pretexto** para no venir.;Он использовал это как предлог, чтобы не прийти.
+C1;noun;el;rodeo;;;;;обход, увёртка, родео;Dímelo sin **rodeos**, por favor.;Скажи мне это без обиняков, пожалуйста.
+C1;noun;el;tabú;;;;;табу;La muerte sigue siendo un **tabú** en muchas familias.;Смерть до сих пор табу во многих семьях.
+C1;noun;el;estigma;;;;;клеймо, стигма;Todavía existe un **estigma** en torno a la enfermedad mental.;Вокруг психических болезней всё ещё существует клеймо.
+C1;noun;el;tópico;;;;;клише, избитая тема;Es un **tópico** decir que los españoles son impuntuales.;Говорить, что испанцы непунктуальны, — клише.
+C1;noun;el;cliché;;;;;клише, штамп;La película está llena de **clichés**.;Фильм полон штампов.
+C1;noun;la;banalidad;;;;;банальность;Dijo una **banalidad** tras otra.;Он говорил одну банальность за другой.
+C1;noun;la;trivialidad;;;;;пустяк, тривиальность;No perdamos el tiempo con **trivialidades**.;Не будем тратить время на пустяки.
+C1;noun;la;nimiedad;;;;;мелочь, пустяк;Se enfadaron por una **nimiedad**.;Они поссорились из-за пустяка.
+C1;noun;la;minucia;;;;;мелочь, мелкая деталь;No te preocupes por esas **minucias**.;Не беспокойся об этих мелочах.
+C1;noun;el;pormenor;;;;;подробность, деталь;Nos contó todos los **pormenores** del viaje.;Он рассказал нам все подробности поездки.
+C1;noun;la;matización;;;;;уточнение, оговорка;Quisiera hacer una **matización** a lo que ha dicho.;Я хотел бы сделать уточнение к сказанному.
+C1;noun;la;exactitud;-;;;;точность;No recuerdo la fecha con **exactitud**.;Я не помню дату точно.
+C1;noun;la;rigurosidad;-;;;;строгость, тщательность;El estudio destaca por su **rigurosidad**.;Исследование отличается тщательностью.
+C1;noun;la;meticulosidad;-;;;;скрупулёзность;Revisó el contrato con **meticulosidad**.;Он скрупулёзно проверил договор.
+C1;noun;la;minuciosidad;-;;;;тщательность, дотошность;El detective examinó la escena con **minuciosidad**.;Детектив тщательно осмотрел место происшествия.
+C1;noun;el;esmero;-;;;;старание, тщательность;Preparó la cena con mucho **esmero**.;Он приготовил ужин с большим старанием.
+C1;noun;el;tesón;-;;;;упорство;Gracias a su **tesón** consiguió el título.;Благодаря упорству он получил диплом.
+C1;noun;la;constancia;;;;;постоянство, упорство, свидетельство;Aprender un idioma exige **constancia**.;Изучение языка требует постоянства.
+C1;noun;la;perseverancia;-;;;;настойчивость, упорство;Con **perseverancia** todo se consigue.;Упорством можно добиться всего.
+C1;noun;la;persistencia;-;;;;стойкость, упорство;Preocupa la **persistencia** de la inflación.;Беспокоит устойчивость инфляции.
+C1;noun;la;obstinación;-;;;;упрямство;Su **obstinación** le impidió ver el error.;Упрямство помешало ему увидеть ошибку.
+C1;noun;la;testarudez;-;;;;упрямство;Con su **testarudez** no hay quien discuta.;С его упрямством невозможно спорить.
+C1;noun;la;porfía;;;;;упорство, спор;Lo consiguió a **porfía**.;Он добился этого упорством.
+C1;noun;el;antojo;;;;;прихоть, каприз;Las embarazadas a veces tienen **antojos** extraños.;У беременных иногда бывают странные прихоти.
+C1;noun;la;veleidad;;;;;прихоть, непостоянство;No podemos depender de las **veleidades** del mercado.;Мы не можем зависеть от прихотей рынка.
+C1;noun;la;volubilidad;-;;;;непостоянство, переменчивость;Le molestaba la **volubilidad** de su pareja.;Его раздражало непостоянство партнёрши.
+C1;noun;la;inconstancia;-;;;;непостоянство;Su **inconstancia** le impide terminar nada.;Непостоянство мешает ему что-либо закончить.
+C1;noun;la;ligereza;;;;;лёгкость, легкомыслие;Habló con demasiada **ligereza** del asunto.;Он слишком легкомысленно говорил об этом деле.
+C1;noun;la;frivolidad;;;;;легкомыслие, фривольность;Criticaron la **frivolidad** de sus declaraciones.;Раскритиковали легкомысленность его заявлений.
+C1;noun;la;superficialidad;-;;;;поверхностность;Me cansa la **superficialidad** de esas conversaciones.;Меня утомляет поверхностность этих разговоров.
+C1;noun;la;hondura;-;;;;глубина;Me impresionó la **hondura** de sus reflexiones.;Меня поразила глубина его размышлений.
+C1;noun;el;núcleo;;;;;ядро, центр;El **núcleo** del problema es la falta de dinero.;Суть проблемы — нехватка денег.
+C1;noun;la;entraña;;;;;сущность, внутренности;Hay que llegar a la **entraña** del conflicto.;Нужно добраться до сути конфликта.
+C1;noun;el;germen;;;;;зародыш, источник, микроб;Aquella reunión fue el **germen** del movimiento.;Та встреча стала зародышем движения.
+C1;noun;el;embrión;;;;;зародыш, эмбрион;El proyecto aún está en estado de **embrión**.;Проект ещё в зачаточном состоянии.
+C1;noun;la;génesis;-;;;;генезис, происхождение;El libro explica la **génesis** de la crisis.;Книга объясняет происхождение кризиса.
+C1;noun;la;procedencia;;;;;происхождение, источник;Desconocemos la **procedencia** del dinero.;Нам неизвестно происхождение денег.
+C1;noun;la;gestación;;;;;беременность, вынашивание, зарождение;La **gestación** del proyecto duró dos años.;Подготовка проекта длилась два года.
+C1;noun;la;concepción;;;;;зачатие, концепция, представление;Tienen una **concepción** distinta de la libertad.;У них разное понимание свободы.
+C1;noun;el;alumbramiento;;;;;роды, появление на свет;El **alumbramiento** se produjo sin complicaciones.;Роды прошли без осложнений.
+C1;noun;la;desavenencia;;;;;разногласие, размолвка;Hubo **desavenencias** entre los socios.;Между партнёрами возникли разногласия.
+C1;noun;la;rencilla;;;;;ссора, распря;Son viejas **rencillas** entre vecinos.;Это старые распри между соседями.
+C1;noun;la;reyerta;;;;;драка, потасовка;Un joven resultó herido en una **reyerta**.;Молодой человек получил ранения в драке.
+C1;noun;el;altercado;;;;;перепалка, стычка;Hubo un **altercado** en la puerta de la discoteca.;У входа в дискотеку произошла стычка.
+C1;noun;la;pugna;;;;;борьба, противоборство;Existe una **pugna** interna por el liderazgo.;Идёт внутренняя борьба за лидерство.
+C1;noun;la;enemistad;;;;;вражда;La **enemistad** entre las dos familias duró décadas.;Вражда между двумя семьями длилась десятилетиями.
+C1;noun;la;concordia;-;;;;согласие, мир;Firmaron un acuerdo de paz y **concordia**.;Они подписали соглашение о мире и согласии.
+C1;noun;la;avenencia;;;;;согласие, договорённость;Se llegó a una **avenencia** entre las partes.;Стороны пришли к согласию.
+C1;noun;la;escisión;;;;;раскол, отделение;La **escisión** del partido debilitó a la izquierda.;Раскол партии ослабил левых.
+C1;noun;el;cisma;;;;;раскол, схизма;El debate provocó un **cisma** en la organización.;Дискуссия вызвала раскол в организации.
+C1;noun;la;indigencia;-;;;;нищета, бедность;Miles de personas viven en la **indigencia**.;Тысячи людей живут в нищете.
+C1;noun;la;mendicidad;-;;;;нищенство, попрошайничество;El ayuntamiento quiere prohibir la **mendicidad** en el centro.;Мэрия хочет запретить попрошайничество в центре.
+C1;noun;el;desamparo;-;;;;беззащитность, заброшенность;Los refugiados viven en total **desamparo**.;Беженцы живут в полной беззащитности.
+C1;noun;la;gentrificación;-;;;;джентрификация;La **gentrificación** expulsa a los vecinos de toda la vida.;Джентрификация вытесняет коренных жителей.
+C1;noun;el;extrarradio;;;;;окраина, пригород;Vive en el **extrarradio** de Madrid.;Он живёт на окраине Мадрида.
+C1;noun;la;masificación;-;;;;переполненность, массовость;La **masificación** turística preocupa a los vecinos.;Наплыв туристов беспокоит жителей.
+C1;noun;la;despoblación;-;;;;обезлюдение, депопуляция;La **despoblación** rural es un problema grave.;Обезлюдение сёл — серьёзная проблема.
+C1;noun;el;absentismo;-;;;;прогулы, абсентеизм;El **absentismo** escolar ha aumentado este año.;В этом году увеличилось число прогулов в школах.
+C1;noun;la;homologación;;;;;признание, сертификация;Está esperando la **homologación** de su título.;Он ждёт признания своего диплома.
+C1;noun;la;convalidación;;;;;зачёт, признание (предметов, дипломов);Pidió la **convalidación** de varias asignaturas.;Он попросил перезачесть несколько предметов.
