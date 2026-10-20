@@ -5542,3 +5542,603 @@ de:adj::inbrünstig;ferviente, fervoroso, ardiente;Rezó con fervor.
 de:adj::inflationär;inflacionario, excesivo, abusivo;La palabra se usa de forma abusiva.
 de:adj::innig;íntimo, entrañable, profundo;Tienen una relación muy íntima.
 de:adj::klamm;sin blanca, justo de dinero (coloq.), húmedo y frío;Ahora mismo ando algo justo de dinero.
+BIZ:de:noun:die:Aktiengesellschaft;sociedad anónima, S.A.;La sociedad anónima publica sus cifras cada trimestre.
+BIZ:de:noun:die:GmbH;sociedad limitada, S.L., sociedad de responsabilidad limitada;El año pasado fundó una sociedad limitada.
+BIZ:de:noun:die:Tochtergesellschaft;filial, empresa filial;La filial en Polonia está creciendo muy rápido.
+BIZ:de:noun:die:Niederlassung;sucursal, delegación, filial;Abrimos una nueva sucursal en Viena.
+BIZ:de:noun:die:Filiale;sucursal, oficina (de banco);El banco cierra varias sucursales en zonas rurales.
+BIZ:de:noun:der:Standort;ubicación, emplazamiento, sede;La nueva sede está justo al lado de la autopista.
+BIZ:de:noun:die:Zentrale;central, oficina central, sede central;La decisión viene directamente de la central.
+BIZ:de:noun:der:Hauptsitz;sede central, sede social;La sede central del grupo está en Fráncfort.
+BIZ:de:noun:die:Abteilung;departamento, sección;Trabaja en el departamento de compras.
+BIZ:de:noun:die:Personalabteilung;departamento de recursos humanos, departamento de personal;Por favor, envíe la documentación al departamento de recursos humanos.
+BIZ:de:noun:die:Buchhaltung;contabilidad, departamento de contabilidad;Contabilidad revisa minuciosamente todas las facturas.
+BIZ:de:noun:der:Vertrieb;ventas, distribución, departamento comercial;Lleva cinco años trabajando en ventas.
+BIZ:de:noun:der:Einkauf;compras, departamento de compras;El departamento de compras negocia con nuevos proveedores.
+BIZ:de:noun:die:Geschäftsführung;dirección, gerencia;La dirección ha fijado nuevos objetivos.
+BIZ:de:noun:der:Geschäftsführer;director general, gerente, director gerente;El director general presenta mañana la estrategia.
+BIZ:de:noun:der:Vorstand;consejo de administración, junta directiva, directorio;El consejo de administración ha aprobado la fusión.
+BIZ:de:noun:der:Aufsichtsrat;consejo de supervisión, consejo de vigilancia;El consejo de supervisión se reúne dos veces al año.
+BIZ:de:noun:die:Führungskraft;directivo, mando, ejecutivo;Los buenos directivos escuchan a sus empleados.
+BIZ:de:noun:der:Vorgesetzte;superior, jefe;Tengo que hablarlo con mi superior.
+BIZ:de:noun:der:Chef;jefe;El jefe está hoy de viaje de negocios.
+BIZ:de:noun:der:Mitarbeiter;empleado, colaborador, trabajador;Cada empleado recibe su propio portátil.
+BIZ:de:noun:der:Kollege;compañero, colega;Mi compañero me sustituye durante las vacaciones.
+BIZ:de:noun:der:Angestellte;empleado, oficinista;Es empleado de una compañía de seguros.
+BIZ:de:noun:der:Arbeitnehmer;trabajador, empleado, asalariado;El trabajador tiene derecho a vacaciones pagadas.
+BIZ:de:noun:der:Arbeitgeber;empleador, empresa, patrono;Mi empresa paga una ayuda para el abono de transporte.
+BIZ:de:noun:das:Personal;personal, plantilla;El hotel busca urgentemente personal nuevo.
+BIZ:de:noun:die:Belegschaft;plantilla, personal;Se informó a la plantilla de los planes.
+BIZ:de:noun:der:Betriebsrat;comité de empresa;El comité de empresa representa los intereses de los trabajadores.
+BIZ:de:noun:die:Gewerkschaft;sindicato;El sindicato exige salarios más altos.
+BIZ:de:noun:der:Streik;huelga, paro;Debido a la huelga se cancelaron muchos trenes.
+BIZ:de:noun:die:Branche;sector, ramo;En nuestro sector la competencia es muy fuerte.
+BIZ:de:noun:der:Mittelstand;pymes, pequeña y mediana empresa;Las pymes alemanas se consideran muy innovadoras.
+BIZ:de:noun:die:Hierarchie;jerarquía;En esta start-up hay jerarquías planas.
+BIZ:de:noun:die:Unternehmenskultur;cultura empresarial, cultura corporativa;Para nosotros es importante una cultura empresarial abierta.
+BIZ:de:noun:die:Fusion;fusión;Se ha aprobado la fusión de los dos bancos.
+BIZ:de:noun:die:Übernahme;adquisición, absorción, compra;La adquisición costó casi dos mil millones de euros.
+BIZ:de:noun:die:Umstrukturierung;reestructuración;Tras la reestructuración hay menos departamentos.
+BIZ:de:noun:der:Konkurrent;competidor, rival;Nuestro mayor competidor ha bajado los precios.
+BIZ:de:noun:die:Konkurrenz;competencia;La competencia no duerme.
+BIZ:de:noun:der:Wettbewerb;competencia, competitividad;La competencia en el mercado es cada vez más dura.
+BIZ:de:noun:der:Wettbewerber;competidor;Analizamos los productos de nuestros competidores.
+BIZ:de:noun:der:Partner;socio, colaborador;Buscamos un socio fiable en Asia.
+BIZ:de:noun:die:Partnerschaft;colaboración, asociación, alianza;La colaboración existe desde hace ya diez años.
+BIZ:de:noun:der:Inhaber;propietario, dueño, titular;El propietario de la tienda atiende él mismo en el local.
+BIZ:de:noun:der:Eigentümer;propietario, dueño;El propietario quiere vender la empresa.
+BIZ:de:noun:der:Dienstleister;proveedor de servicios, empresa de servicios;Colaboramos con un proveedor de servicios externo.
+BIZ:de:noun:die:Dienstleistung;servicio, prestación de servicios;Ofrecemos servicios en el ámbito de la logística.
+BIZ:de:noun:das:Gewerbe;negocio, actividad comercial, actividad económica;Ha dado de alta un negocio en la administración.
+BIZ:de:noun:die:Industrie;industria;La industria química es muy fuerte en la región.
+BIZ:de:noun:das:Werk;fábrica, planta;La fábrica produce quinientos coches al día.
+BIZ:de:noun:die:Produktion;producción;La producción funciona las veinticuatro horas.
+BIZ:de:noun:das:Team;equipo;Nuestro equipo está formado por ocho personas.
+BIZ:de:noun:der:Teamleiter;jefe de equipo, líder de equipo;El jefe de equipo reparte las tareas.
+BIZ:de:noun:der:Abteilungsleiter;jefe de departamento, jefe de sección;El jefe de departamento ha aprobado las vacaciones.
+BIZ:de:noun:der:Beruf;profesión, oficio;¿A qué se dedica usted?
+BIZ:de:noun:die:Stelle;puesto, puesto de trabajo, plaza;El puesto está disponible de inmediato.
+BIZ:de:noun:die:Stellenanzeige;oferta de empleo, anuncio de empleo;Encontré la oferta de empleo en internet.
+BIZ:de:noun:die:Bewerbung;candidatura, solicitud de empleo;Hemos recibido más de cien candidaturas.
+BIZ:de:noun:der:Bewerber;candidato, aspirante, solicitante;El candidato ha causado muy buena impresión.
+BIZ:de:noun:das:Anschreiben;carta de presentación;En la carta de presentación explica usted su motivación.
+BIZ:de:noun:der:Lebenslauf;currículum, currículum vítae, CV;Por favor, envíenos su currículum.
+BIZ:de:noun:das:Zeugnis;certificado de trabajo, referencias, informe laboral;El certificado de trabajo de la última empresa es muy bueno.
+BIZ:de:noun:das:Vorstellungsgespräch;entrevista de trabajo;Mañana tengo una entrevista de trabajo en Siemens.
+BIZ:de:noun:die:Qualifikation;cualificación, calificación, formación;Su cualificación encaja perfectamente con el puesto.
+BIZ:de:noun:die:Berufserfahrung;experiencia profesional, experiencia laboral;Tiene diez años de experiencia profesional en marketing.
+BIZ:de:noun:die:Kenntnis;conocimiento;Se requieren buenos conocimientos de inglés.
+BIZ:de:noun:die:Fähigkeit;capacidad, habilidad, aptitud;La capacidad de trabajar en equipo es una habilidad importante.
+BIZ:de:noun:die:Einstellung;contratación;Está prevista la contratación de nuevos empleados.
+BIZ:de:noun:die:Kündigung;dimisión, renuncia, despido;Ayer presentó su dimisión.
+BIZ:de:noun:die:Kündigungsfrist;plazo de preaviso;El plazo de preaviso es de tres meses.
+BIZ:de:noun:die:Entlassung;despido;La empresa prevé numerosos despidos.
+BIZ:de:noun:der:Arbeitsvertrag;contrato de trabajo, contrato laboral;Por favor, firme el contrato de trabajo antes del lunes.
+BIZ:de:noun:der:Vertrag;contrato;Firmamos el contrato ayer.
+BIZ:de:noun:die:Probezeit;periodo de prueba;El periodo de prueba dura seis meses.
+BIZ:de:noun:die:Vollzeit;jornada completa, tiempo completo;Trabaja a jornada completa como ingeniera.
+BIZ:de:noun:die:Teilzeit;media jornada, jornada parcial, tiempo parcial;Después del permiso parental trabaja a media jornada.
+BIZ:de:noun:die:Arbeitszeit;horario de trabajo, jornada laboral;Tenemos horarios de trabajo flexibles.
+BIZ:de:noun:die:Überstunde;hora extra, horas extraordinarias;Esta semana he hecho diez horas extra.
+BIZ:de:noun:die:Schicht;turno;Hoy trabaja en el turno de seis a dos.
+BIZ:de:noun:das:Homeoffice;teletrabajo, trabajo desde casa;Los viernes suelo teletrabajar.
+BIZ:de:noun:das:Gehalt;sueldo, salario;El sueldo se transfiere a final de mes.
+BIZ:de:noun:der:Lohn;salario, sueldo, paga;Los salarios subieron el año pasado.
+BIZ:de:noun:die:Gehaltserhöhung;aumento de sueldo, subida salarial;Quisiera hablar de un aumento de sueldo.
+BIZ:de:noun:die:Gehaltsvorstellung;pretensiones salariales, expectativas salariales;Por favor, indique sus pretensiones salariales.
+BIZ:de:noun:der:Mindestlohn;salario mínimo;El salario mínimo se ha vuelto a subir.
+BIZ:de:noun:die:Prämie;prima, gratificación, bonificación;Por el buen resultado hay una prima.
+BIZ:de:noun:der:Bonus;bonus, bonificación, prima;A final de año todos reciben un bonus.
+BIZ:de:noun:die:Sozialleistung;beneficios sociales, prestación social;La empresa ofrece atractivos beneficios sociales.
+BIZ:de:noun:der:Urlaub;vacaciones;Tengo treinta días de vacaciones al año.
+BIZ:de:noun:die:Krankmeldung;baja médica, parte de baja;Envíe la baja médica al departamento de recursos humanos, por favor.
+BIZ:de:noun:die:Elternzeit;permiso parental, excedencia por cuidado de hijos;Se toma un año de permiso parental.
+BIZ:de:noun:die:Karriere;carrera, carrera profesional;Ha hecho carrera en el banco.
+BIZ:de:noun:die:Beförderung;ascenso, promoción;Al cabo de tres años consiguió un ascenso.
+BIZ:de:noun:die:Weiterbildung;formación continua, formación complementaria;La empresa me paga la formación continua.
+BIZ:de:noun:die:Schulung;formación, curso de formación, capacitación;Todos los empleados deben asistir a la formación.
+BIZ:de:noun:die:Ausbildung;formación profesional, aprendizaje;Está haciendo una formación profesional como técnico administrativo industrial.
+BIZ:de:noun:der:Auszubildende;aprendiz, alumno en formación profesional;Nuestro aprendiz aprende rápido.
+BIZ:de:noun:das:Praktikum;prácticas, pasantía;Estoy haciendo prácticas en una agencia de publicidad.
+BIZ:de:noun:der:Praktikant;becario, estudiante en prácticas, pasante;El becario ayuda con la investigación.
+BIZ:de:noun:die:Fachkraft;profesional cualificado, trabajador cualificado, especialista;En Alemania faltan muchos profesionales cualificados.
+BIZ:de:noun:der:Fachkräftemangel;escasez de profesionales cualificados, falta de mano de obra cualificada;La escasez de profesionales cualificados es un gran problema.
+BIZ:de:noun:der:Arbeitsplatz;puesto de trabajo, empleo;La nueva fábrica crea 500 puestos de trabajo.
+BIZ:de:noun:die:Arbeitslosigkeit;desempleo, paro;El desempleo ha bajado ligeramente.
+BIZ:de:noun:der:Arbeitsmarkt;mercado laboral, mercado de trabajo;El mercado laboral para ingenieros es muy bueno.
+BIZ:de:noun:die:Stellenbeschreibung;descripción del puesto;La descripción del puesto enumera todas las tareas.
+BIZ:de:noun:die:Zielvereinbarung;acuerdo de objetivos;En el acuerdo de objetivos figuran los objetivos de este año.
+BIZ:de:noun:das:Mitarbeitergespräch;entrevista de evaluación, evaluación del desempeño;Una vez al año se realiza una entrevista de evaluación.
+BIZ:de:noun:die:Leistung;rendimiento, desempeño, trabajo;Su rendimiento este año ha sido excelente.
+BIZ:de:noun:die:Rente;jubilación, pensión;El año que viene se jubila.
+BIZ:de:noun:der:Ruhestand;jubilación, retiro;Después de 40 años se jubila.
+BIZ:de:noun:die:Geschäftsreise;viaje de negocios;Está a menudo de viaje de negocios.
+BIZ:de:noun:das:Büro;oficina, despacho;Hoy estoy en la oficina hasta las seis.
+BIZ:de:noun:die:Besprechung;reunión;La reunión empieza a las diez.
+BIZ:de:noun:die:Sitzung;reunión, sesión;La reunión se ha aplazado al jueves.
+BIZ:de:noun:das:Meeting;reunión;Hoy tengo tres reuniones seguidas.
+BIZ:de:noun:der:Termin;cita, reunión, fecha;¿Podemos aplazar la cita a mañana?
+BIZ:de:noun:die:Tagesordnung;orden del día;El primer punto del orden del día es el presupuesto.
+BIZ:de:noun:das:Protokoll;acta;¿Quién redacta hoy el acta?
+BIZ:de:noun:die:Konferenz;congreso, conferencia;Da una ponencia en el congreso.
+BIZ:de:noun:die:Präsentation;presentación;La presentación convenció a los clientes.
+BIZ:de:noun:der:Vortrag;ponencia, conferencia, charla;Su ponencia sobre análisis de mercado fue muy interesante.
+BIZ:de:noun:die:Frist;plazo;El plazo para la oferta vence mañana.
+BIZ:de:noun:die:Deadline;fecha límite, plazo;Solo cumpliremos la fecha límite con horas extra.
+BIZ:de:noun:die:Aufgabe;tarea, cometido;Esta tarea tiene máxima prioridad.
+BIZ:de:noun:die:Priorität;prioridad;Tenemos que fijar prioridades claras.
+BIZ:de:noun:das:Projekt;proyecto;El proyecto tiene que estar terminado a finales de junio.
+BIZ:de:noun:der:Projektleiter;jefe de proyecto, director de proyecto;El jefe de proyecto informa directamente al consejo de administración.
+BIZ:de:noun:der:Meilenstein;hito;Alcanzamos el primer hito a tiempo.
+BIZ:de:noun:der:Zeitplan;calendario, cronograma, planificación temporal;El calendario es muy ambicioso.
+BIZ:de:noun:der:Bericht;informe;El informe mensual está sobre su mesa.
+BIZ:de:noun:die:Unterlage;documentación, documentos;Por favor, traiga toda la documentación.
+BIZ:de:noun:das:Dokument;documento;Todavía hay que firmar el documento.
+BIZ:de:noun:die:Akte;expediente, archivo;El expediente está en el armario del jefe.
+BIZ:de:noun:das:Formular;formulario, impreso;Rellene este formulario, por favor.
+BIZ:de:noun:die:Unterschrift;firma;Sin firma el contrato no es válido.
+BIZ:de:noun:die:Anfrage;consulta, solicitud;Muchas gracias por su consulta.
+BIZ:de:noun:die:Rückmeldung;respuesta, comentarios, feedback;Todavía estoy esperando una respuesta del cliente.
+BIZ:de:noun:der:Empfang;recepción;Por favor, preséntese en recepción.
+BIZ:de:noun:die:Visitenkarte;tarjeta de visita;¿Me permite darle mi tarjeta de visita?
+BIZ:de:noun:der:Ansprechpartner;persona de contacto, interlocutor;Su persona de contacto es el señor Weber.
+BIZ:de:noun:die:Zuständigkeit;competencia, responsabilidad;Eso no es de mi competencia.
+BIZ:de:noun:die:Verantwortung;responsabilidad;Ella es la responsable de todo el equipo.
+BIZ:de:noun:die:Vertretung;sustitución, suplencia;Durante mis vacaciones me sustituye la señora Lenz.
+BIZ:de:noun:das:Management;dirección, gerencia, management;La dirección ha anunciado nuevos objetivos.
+BIZ:de:noun:die:Führung;dirección, liderazgo;Bajo su dirección las ventas han aumentado.
+BIZ:de:noun:die:Strategie;estrategia;La nueva estrategia apuesta por la sostenibilidad.
+BIZ:de:noun:das:Ziel;objetivo, meta;Nuestro objetivo es convertirnos en líderes del mercado.
+BIZ:de:noun:die:Entscheidung;decisión;La decisión se tomará la semana que viene.
+BIZ:de:noun:die:Planung;planificación;La planificación para el año que viene ya está en marcha.
+BIZ:de:noun:die:Maßnahme;medida;Tenemos que tomar medidas de inmediato.
+BIZ:de:noun:die:Umsetzung;implementación, puesta en práctica, ejecución;La implementación del plan llevará dos años.
+BIZ:de:noun:das:Controlling;control de gestión, controlling;El departamento de control de gestión supervisa todos los costes.
+BIZ:de:noun:die:Kennzahl;indicador, ratio, cifra clave;Los indicadores más importantes apuntan al alza.
+BIZ:de:noun:die:Effizienz;eficiencia;Queremos aumentar la eficiencia de los procesos.
+BIZ:de:noun:die:Produktivität;productividad;La productividad ha aumentado un cinco por ciento.
+BIZ:de:noun:der:Prozess;proceso;Estamos optimizando nuestros procesos internos.
+BIZ:de:noun:die:Qualitätssicherung;control de calidad, aseguramiento de la calidad;Control de calidad revisa cada producto.
+BIZ:de:noun:das:Risiko;riesgo;El riesgo es demasiado alto para nosotros.
+BIZ:de:noun:die:Herausforderung;reto, desafío;La digitalización es un gran reto.
+BIZ:de:noun:die:Lösung;solución;Seguro que encontramos una solución.
+BIZ:de:noun:der:Engpass;escasez, cuello de botella;Hay escasez de materias primas.
+BIZ:de:noun:die:Kompetenz;competencia, conocimientos;Tiene muchos conocimientos en el ámbito de las finanzas.
+BIZ:de:noun:die:Zusammenarbeit;colaboración, cooperación;Esperamos con ilusión la colaboración.
+BIZ:de:noun:die:Motivation;motivación;La motivación en el equipo es muy alta.
+BIZ:de:noun:die:Rücksprache;consulta;Después de consultarlo con el jefe le aviso.
+BIZ:de:noun:die:Finanzen;finanzas;Ella es la responsable de las finanzas de la empresa.
+BIZ:de:noun:der:Umsatz;facturación, ventas, volumen de negocio;La facturación ha aumentado un diez por ciento.
+BIZ:de:noun:der:Gewinn;beneficio, ganancia;La empresa ha obtenido un beneficio elevado.
+BIZ:de:noun:der:Verlust;pérdida;En el tercer trimestre hubo pérdidas.
+BIZ:de:noun:die:Kosten;costes, costos, gastos;Tenemos que reducir los costes.
+BIZ:de:noun:die:Ausgabe;gasto;Los gastos en publicidad han aumentado.
+BIZ:de:noun:die:Einnahme;ingreso;Los ingresos no cubren los costes.
+BIZ:de:noun:das:Budget;presupuesto;El presupuesto del proyecto es limitado.
+BIZ:de:noun:die:Bilanz;balance;El balance se publica en marzo.
+BIZ:de:noun:der:Jahresabschluss;cuentas anuales, cierre del ejercicio;El asesor fiscal elabora las cuentas anuales.
+BIZ:de:noun:das:Geschäftsjahr;ejercicio, ejercicio económico, año fiscal;El ejercicio termina el 30 de septiembre.
+BIZ:de:noun:das:Quartal;trimestre;En el segundo trimestre el negocio fue bien.
+BIZ:de:noun:die:Rechnung;factura;La factura debe pagarse en un plazo de 14 días.
+BIZ:de:noun:die:Zahlung;pago;Hemos recibido su pago.
+BIZ:de:noun:das:Zahlungsziel;plazo de pago;El plazo de pago es de treinta días.
+BIZ:de:noun:die:Mahnung;requerimiento de pago, recordatorio de pago;El cliente ya ha recibido el segundo requerimiento de pago.
+BIZ:de:noun:die:Überweisung;transferencia bancaria, transferencia;La transferencia tarda uno o dos días.
+BIZ:de:noun:die:Quittung;recibo, comprobante;Por favor, guarde el recibo.
+BIZ:de:noun:der:Beleg;comprobante, justificante, recibo;Para cada gasto necesitamos un comprobante.
+BIZ:de:noun:die:Steuer;impuesto;La empresa paga cada año muchos impuestos.
+BIZ:de:noun:die:Mehrwertsteuer;IVA, impuesto sobre el valor añadido;Todos los precios incluyen IVA.
+BIZ:de:noun:die:Steuererklärung;declaración de la renta, declaración de impuestos;La declaración de impuestos debe presentarse antes de julio.
+BIZ:de:noun:der:Steuerberater;asesor fiscal;Nuestro asesor fiscal se encarga de la liquidación.
+BIZ:de:noun:die:Investition;inversión;La inversión en máquinas nuevas vale la pena.
+BIZ:de:noun:der:Investor;inversor, inversionista;La start-up busca un nuevo inversor.
+BIZ:de:noun:das:Kapital;capital;Para crear una empresa hace falta suficiente capital.
+BIZ:de:noun:der:Kredit;crédito, préstamo;El banco nos ha concedido un crédito.
+BIZ:de:noun:das:Darlehen;préstamo;El préstamo debe devolverse en cinco años.
+BIZ:de:noun:der:Zins;interés, tipo de interés;Los tipos de interés están muy bajos en este momento.
+BIZ:de:noun:die:Schuld;deuda;La empresa tiene grandes deudas con el banco.
+BIZ:de:noun:die:Aktie;acción;La acción ha caído hoy un tres por ciento.
+BIZ:de:noun:der:Aktionär;accionista;Los accionistas reciben un dividendo más alto.
+BIZ:de:noun:die:Dividende;dividendo;El dividendo se paga en mayo.
+BIZ:de:noun:die:Börse;bolsa, bolsa de valores;La empresa saldrá a bolsa el año que viene.
+BIZ:de:noun:die:Rendite;rentabilidad, rendimiento;La rentabilidad de esta inversión es del cuatro por ciento.
+BIZ:de:noun:die:Liquidität;liquidez;La liquidez de la empresa está garantizada.
+BIZ:de:noun:die:Abschreibung;amortización, depreciación;La amortización de las máquinas se realiza a lo largo de diez años.
+BIZ:de:noun:die:Buchung;asiento contable, apunte;Cada asiento contable debe estar justificado con un comprobante.
+BIZ:de:noun:das:Konto;cuenta, cuenta bancaria;Por favor, transfiera el importe a nuestra cuenta.
+BIZ:de:noun:der:Betrag;importe, cantidad, suma;El importe ya se ha cargado.
+BIZ:de:noun:der:Wirtschaftsprüfer;auditor, auditor de cuentas;El auditor ha revisado el balance.
+BIZ:de:noun:die:Prüfung;revisión, auditoría, examen;La revisión de los libros dura una semana.
+BIZ:de:noun:die:Kalkulation;cálculo, cálculo de costes;El cálculo muestra que el proyecto es rentable.
+BIZ:de:noun:der:Kostenvoranschlag;presupuesto;¿Puede enviarnos un presupuesto?
+BIZ:de:noun:die:Spesen;gastos, dietas, gastos de viaje;La empresa reembolsa los gastos.
+BIZ:de:noun:die:Insolvenz;insolvencia, quiebra, concurso de acreedores;La empresa tuvo que declararse en concurso de acreedores.
+BIZ:de:noun:die:Pleite;quiebra, bancarrota;Tras la quiebra todos perdieron su empleo.
+BIZ:de:noun:der:Verkauf;venta;La venta de los nuevos modelos empieza en mayo.
+BIZ:de:noun:der:Absatz;ventas, volumen de ventas;Las ventas en China han aumentado mucho.
+BIZ:de:noun:der:Verkäufer;vendedor, dependiente;El vendedor me explicó el producto.
+BIZ:de:noun:der:Außendienst;servicio externo, trabajo de campo, ventas externas;Trabaja como comercial externo y viaja mucho.
+BIZ:de:noun:das:Marketing;marketing, mercadotecnia;En marketing trabajamos mucho con las redes sociales.
+BIZ:de:noun:die:Werbung;publicidad, anuncios;La empresa invierte mucho dinero en publicidad.
+BIZ:de:noun:die:Werbekampagne;campaña publicitaria;La nueva campaña publicitaria empieza en otoño.
+BIZ:de:noun:die:Zielgruppe;público objetivo, grupo destinatario;Nuestro público objetivo son las familias jóvenes.
+BIZ:de:noun:die:Marke;marca;Esta marca es conocida en todo el mundo.
+BIZ:de:noun:das:Image;imagen;La empresa quiere mejorar su imagen.
+BIZ:de:noun:die:Marktforschung;estudio de mercado, investigación de mercados;El estudio de mercado muestra una gran demanda.
+BIZ:de:noun:der:Marktanteil;cuota de mercado;Nuestra cuota de mercado es del veinte por ciento.
+BIZ:de:noun:der:Marktführer;líder del mercado;La empresa es líder del mercado en Europa.
+BIZ:de:noun:die:Markteinführung;lanzamiento al mercado, lanzamiento;El lanzamiento del producto será en primavera.
+BIZ:de:noun:das:Produkt;producto;Nuestro nuevo producto tiene buena acogida.
+BIZ:de:noun:das:Sortiment;surtido, gama de productos;Ampliamos nuestro surtido con productos ecológicos.
+BIZ:de:noun:der:Preis;precio;El precio es negociable.
+BIZ:de:noun:der:Rabatt;descuento, rebaja;Para grandes cantidades concedemos un diez por ciento de descuento.
+BIZ:de:noun:das:Skonto;descuento por pronto pago;Si paga en un plazo de diez días, hay un dos por ciento de descuento por pronto pago.
+BIZ:de:noun:die:Messe;feria, feria comercial;Presentamos nuestro producto en la feria.
+BIZ:de:noun:die:Pressemitteilung;comunicado de prensa, nota de prensa;El comunicado de prensa se publica mañana por la mañana.
+BIZ:de:noun:der:Kunde;cliente;El cliente está muy satisfecho con el servicio.
+BIZ:de:noun:der:Kundenstamm;cartera de clientes, clientela;Tenemos una cartera de clientes amplia y fiel.
+BIZ:de:noun:der:Kundendienst;servicio de atención al cliente, servicio técnico;Por favor, diríjase a nuestro servicio de atención al cliente.
+BIZ:de:noun:die:Reklamation;reclamación;La reclamación se tramitó rápidamente.
+BIZ:de:noun:die:Beschwerde;queja, reclamación;Nos tomamos en serio cada queja.
+BIZ:de:noun:die:Garantie;garantía;El aparato tiene dos años de garantía.
+BIZ:de:noun:der:Auftrag;pedido, encargo;Hemos recibido un gran pedido de China.
+BIZ:de:noun:der:Auftraggeber;cliente, contratante, comitente;El cliente está satisfecho con el resultado.
+BIZ:de:noun:die:Bestellung;pedido;Su pedido se enviará mañana.
+BIZ:de:noun:das:Angebot;oferta, presupuesto;Con gusto le enviamos una oferta.
+BIZ:de:noun:die:Nachfrage;demanda;La demanda de coches eléctricos está aumentando.
+BIZ:de:noun:die:Auftragsbestätigung;confirmación del pedido;Recibirá la confirmación del pedido por correo electrónico.
+BIZ:de:noun:die:Verhandlung;negociación;Las negociaciones con el proveedor fueron difíciles.
+BIZ:de:noun:der:Kompromiss;compromiso, acuerdo, término medio;Al final llegamos a un acuerdo.
+BIZ:de:noun:die:Vereinbarung;acuerdo, pacto;Nos atenemos al acuerdo.
+BIZ:de:noun:die:Bedingung;condición;En estas condiciones no podemos suministrar.
+BIZ:de:noun:die:Konditionen;condiciones (comerciales);Las condiciones de la oferta son muy buenas.
+BIZ:de:noun:der:Lieferant;proveedor, suministrador;Tenemos un nuevo proveedor de embalajes.
+BIZ:de:noun:die:Lieferung;entrega, envío, suministro;Está previsto que la entrega llegue el martes.
+BIZ:de:noun:die:Lieferzeit;plazo de entrega;El plazo de entrega es de unas dos semanas.
+BIZ:de:noun:die:Logistik;logística;La logística es un factor de coste importante.
+BIZ:de:noun:das:Lager;almacén, stock, existencias;La mercancía ya no está en stock.
+BIZ:de:noun:der:Lagerbestand;existencias, inventario, stock;Tenemos que reducir las existencias.
+BIZ:de:noun:die:Ware;mercancía, producto, artículo;La mercancía resultó dañada durante el transporte.
+BIZ:de:noun:die:Sendung;envío, paquete;El envío ya está en camino.
+BIZ:de:noun:der:Versand;envío, expedición;El envío es gratuito a partir de 50 euros.
+BIZ:de:noun:die:Spedition;empresa de transportes, transportista, agencia de transportes;La empresa de transportes recoge los palés mañana.
+BIZ:de:noun:der:Lieferschein;albarán, nota de entrega;Por favor, compruebe la mercancía con el albarán.
+BIZ:de:noun:die:Lieferkette;cadena de suministro;La cadena de suministro se vio alterada por la crisis.
+BIZ:de:noun:der:Zoll;arancel, aduana, derechos de aduana;Estas mercancías están sujetas a aranceles elevados.
+BIZ:de:noun:der:Export;exportación;La exportación a Asia se ha duplicado.
+BIZ:de:noun:der:Import;importación;La importación de materias primas se encarece.
+BIZ:de:noun:die:Wirtschaft;economía;La economía alemana vuelve a crecer.
+BIZ:de:noun:der:Markt;mercado;Queremos abrir nuevos mercados.
+BIZ:de:noun:das:Wachstum;crecimiento;El crecimiento de la economía se ha ralentizado.
+BIZ:de:noun:die:Inflation;inflación;La inflación es del tres por ciento.
+BIZ:de:noun:die:Konjunktur;coyuntura económica, actividad económica, economía;La economía se ha recuperado claramente.
+BIZ:de:noun:die:Rezession;recesión;Los expertos advierten de una recesión.
+BIZ:de:noun:die:Krise;crisis;Muchas empresas han superado bien la crisis.
+BIZ:de:noun:der:Handel;comercio;El comercio con China es muy importante.
+BIZ:de:noun:der:Einzelhandel;comercio minorista, venta al por menor;El comercio minorista sufre por el comercio en línea.
+BIZ:de:noun:der:Großhandel;comercio mayorista, venta al por mayor;Compramos la mercancía al por mayor.
+BIZ:de:noun:die:Globalisierung;globalización;La globalización está cambiando el mundo laboral.
+BIZ:de:noun:die:Nachhaltigkeit;sostenibilidad;La sostenibilidad desempeña un papel cada vez más importante.
+BIZ:de:noun:das:Recht;derecho;Todo empleado tiene derecho a vacaciones.
+BIZ:de:noun:das:Gesetz;ley;La nueva ley entra en vigor en enero.
+BIZ:de:noun:die:Klausel;cláusula;Esta cláusula del contrato no está clara.
+BIZ:de:noun:die:Haftung;responsabilidad (civil), responsabilidad legal;La responsabilidad se limita al patrimonio de la empresa.
+BIZ:de:noun:die:Vollmacht;poder, autorización, apoderamiento;Tiene un poder sobre la cuenta.
+BIZ:de:noun:der:Anwalt;abogado;Nuestro abogado está revisando el contrato.
+BIZ:de:noun:die:Rechtsabteilung;departamento jurídico, asesoría jurídica;El departamento jurídico tiene que dar su aprobación.
+BIZ:de:noun:das:Handelsregister;registro mercantil;La empresa está inscrita en el registro mercantil.
+BIZ:de:noun:der:Datenschutz;protección de datos;Hay que respetar la protección de datos.
+BIZ:de:noun:der:Schadensersatz;indemnización por daños y perjuicios, indemnización;El cliente exige una indemnización por daños y perjuicios.
+BIZ:de:noun:die:Vertragsstrafe;penalización contractual, cláusula penal;En caso de retraso hay riesgo de una penalización contractual.
+BIZ:de:noun:die:Geheimhaltungsvereinbarung;acuerdo de confidencialidad;Por favor, firme primero el acuerdo de confidencialidad.
+BIZ:de:noun:der:Gründer;fundador;Los fundadores se conocen desde la universidad.
+BIZ:de:noun:die:Gründung;fundación, creación, constitución;La creación de una empresa cuesta tiempo y dinero.
+BIZ:de:noun:das:Start-up;start-up, empresa emergente;Trabaja en una start-up en Berlín.
+BIZ:de:noun:der:Unternehmer;empresario, emprendedor;Como empresario se asume un gran riesgo.
+BIZ:de:noun:die:Selbstständigkeit;trabajo por cuenta propia, autoempleo;Dar el paso de trabajar por cuenta propia fue valiente.
+BIZ:de:noun:der:Geschäftsplan;plan de negocio;El banco quiere ver primero el plan de negocio.
+BIZ:de:noun:das:Geschäftsmodell;modelo de negocio;El modelo de negocio se basa en suscripciones.
+BIZ:de:noun:die:Finanzierung;financiación, financiamiento;La financiación del proyecto está asegurada.
+BIZ:de:noun:die:Förderung;ayudas, subvención, apoyo;Para los emprendedores hay ayudas públicas.
+BIZ:de:noun:der:Geschäftspartner;socio comercial, socio;Nuestros socios comerciales son de Japón.
+BIZ:de:noun:das:Geschäft;negocio, negocios;El negocio va bien.
+BIZ:de:noun:der:Abschluss;firma, cierre, conclusión;La firma del contrato está prevista para junio.
+BIZ:de:verb::arbeiten;trabajar;Trabaja en un gran banco.
+BIZ:de:verb::sich bewerben;presentar una candidatura, postularse, solicitar (un puesto);Está presentando su candidatura a un puesto.
+BIZ:de:verb::einstellen;contratar;En otoño contrataremos a tres ingenieros.
+BIZ:de:verb::kündigen;dimitir, renunciar, despedir;Dimitió al cabo de dos años.
+BIZ:de:verb::entlassen;despedir;La empresa tuvo que despedir a cincuenta empleados.
+BIZ:de:verb::befördern;ascender, promocionar;La ascendieron a jefa de departamento.
+BIZ:de:verb::verdienen;ganar;¿Cuánto gana un ingeniero?
+BIZ:de:verb::beschäftigen;emplear, dar empleo a;La empresa emplea a 300 trabajadores.
+BIZ:de:verb::einarbeiten;formar, familiarizar (con el puesto);La señora Klein está formando al nuevo compañero.
+BIZ:de:verb::vertreten;sustituir, representar;¿Quién le sustituye durante sus vacaciones?
+BIZ:de:verb::leiten;dirigir, encabezar;Lleva tres años dirigiendo el marketing.
+BIZ:de:verb::führen;dirigir, llevar, gestionar;Dirige la empresa familiar en tercera generación.
+BIZ:de:verb::delegieren;delegar;Un buen jefe delega tareas.
+BIZ:de:verb::planen;planear, planificar, prever;Planeamos abrir una nueva sucursal en Leipzig.
+BIZ:de:verb::organisieren;organizar;¿Quién organiza la fiesta de Navidad?
+BIZ:de:verb::entscheiden;decidir;El consejo de administración decide sobre el presupuesto.
+BIZ:de:verb::umsetzen;poner en práctica, implementar, llevar a cabo;Tenemos que poner en práctica el plan rápidamente.
+BIZ:de:verb::verantworten;ser responsable de, responder de;Es responsable de todas las compras.
+BIZ:de:verb::koordinieren;coordinar;Coordina el trabajo de los tres equipos.
+BIZ:de:verb::besprechen;hablar, tratar, discutir;Lo trataremos en la próxima reunión.
+BIZ:de:verb::vereinbaren;acordar, concertar;Hemos concertado una cita para el lunes.
+BIZ:de:verb::verschieben;aplazar, posponer;La reunión se ha aplazado al viernes.
+BIZ:de:verb::absagen;cancelar, anular;Lamentablemente tengo que cancelar la cita.
+BIZ:de:verb::teilnehmen;participar, asistir;Asisto a la conferencia.
+BIZ:de:verb::präsentieren;presentar;Mañana presentamos los resultados.
+BIZ:de:verb::vorstellen;presentar;¿Me permite presentarle a nuestro nuevo compañero?
+BIZ:de:verb::berichten;informar, rendir cuentas;Rinde cuentas directamente al director general.
+BIZ:de:verb::erledigen;hacer, despachar, encargarse de;Lo tendré hecho para esta noche.
+BIZ:de:verb::bearbeiten;tramitar, gestionar, procesar;Tramitamos su consulta lo antes posible.
+BIZ:de:verb::weiterleiten;reenviar, remitir;He reenviado su correo electrónico al compañero.
+BIZ:de:verb::unterschreiben;firmar;Por favor, firme aquí abajo.
+BIZ:de:verb::genehmigen;aprobar, autorizar;El jefe ha aprobado mis vacaciones.
+BIZ:de:verb::zustimmen;aprobar, estar de acuerdo con, dar el visto bueno;El consejo de supervisión ha aprobado el plan.
+BIZ:de:verb::ablehnen;rechazar;El cliente ha rechazado nuestra oferta.
+BIZ:de:verb::verhandeln;negociar;Todavía estamos negociando el precio.
+BIZ:de:verb::anbieten;ofrecer;Podemos ofrecerle un descuento.
+BIZ:de:verb::bestellen;pedir, encargar;El cliente ha pedido 200 unidades.
+BIZ:de:verb::liefern;entregar, suministrar;Entregamos en un plazo de tres días.
+BIZ:de:verb::verschicken;enviar, mandar;La mercancía se envía hoy mismo.
+BIZ:de:verb::verkaufen;vender;Vendemos nuestros productos en toda Europa.
+BIZ:de:verb::einkaufen;comprar, adquirir;Compramos las materias primas en Asia.
+BIZ:de:verb::reklamieren;reclamar, presentar una reclamación;El cliente ha reclamado por la mercancía defectuosa.
+BIZ:de:verb::sich beschweren;quejarse;Un cliente se ha quejado del servicio.
+BIZ:de:verb::betreuen;atender, encargarse de;Ella atiende a nuestros clientes más importantes.
+BIZ:de:verb::werben;anunciar, hacer publicidad, promocionarse;La empresa se anuncia con precios bajos.
+BIZ:de:verb::vermarkten;comercializar;Comercializamos el producto sobre todo en internet.
+BIZ:de:verb::zahlen;pagar;El cliente todavía no ha pagado.
+BIZ:de:verb::überweisen;transferir, hacer una transferencia;Transfiero el importe hoy mismo.
+BIZ:de:verb::mahnen;reclamar el pago, enviar un requerimiento de pago;Tuvimos que reclamarle el pago al cliente dos veces.
+BIZ:de:verb::investieren;invertir;Invertimos en nuevas tecnologías.
+BIZ:de:verb::finanzieren;financiar;El banco financia el proyecto.
+BIZ:de:verb::kalkulieren;calcular;Tenemos que volver a calcular los precios.
+BIZ:de:verb::sparen;ahorrar;Con el nuevo software ahorramos mucho tiempo.
+BIZ:de:verb::senken;reducir, bajar;Queremos reducir los costes un diez por ciento.
+BIZ:de:verb::steigern;aumentar, incrementar;Hemos aumentado considerablemente la facturación.
+BIZ:de:verb::wachsen;crecer;La empresa ha crecido mucho.
+BIZ:de:verb::erzielen;obtener, lograr, alcanzar;Hemos obtenido un beneficio récord.
+BIZ:de:verb::sich lohnen;valer la pena, compensar, ser rentable;La inversión ha valido la pena.
+BIZ:de:verb::abrechnen;liquidar, presentar (gastos);Los gastos de viaje los liquido la semana que viene.
+BIZ:de:verb::buchen;reservar;Por favor, resérveme un vuelo a Berlín.
+BIZ:de:verb::gründen;fundar, crear;Fundó su empresa en 2015.
+BIZ:de:verb::expandieren;expandirse;La start-up quiere expandirse a Francia.
+BIZ:de:verb::fusionieren;fusionarse;Las dos empresas se han fusionado.
+BIZ:de:verb::übernehmen;adquirir, absorber, asumir;El grupo ha adquirido la pequeña empresa.
+BIZ:de:verb::produzieren;producir, fabricar;Producimos exclusivamente en Alemania.
+BIZ:de:verb::herstellen;fabricar, producir;La empresa fabrica piezas de automóvil.
+BIZ:de:verb::exportieren;exportar;Exportamos a más de cuarenta países.
+BIZ:de:verb::importieren;importar;La empresa importa café de Brasil.
+BIZ:de:verb::lagern;almacenar;La mercancía se almacena en Hamburgo.
+BIZ:de:verb::haften;responder (de), ser responsable;El proveedor responde de los daños.
+BIZ:de:verb::abschließen;cerrar, firmar (un contrato), concluir;Ayer cerramos un contrato.
+BIZ:de:verb::beraten;asesorar, aconsejar;Asesoramos a empresas en cuestiones fiscales.
+BIZ:de:verb::sich einigen;ponerse de acuerdo, llegar a un acuerdo;Nos hemos puesto de acuerdo en un precio.
+BIZ:de:verb::erhöhen;subir, aumentar;El proveedor ha subido los precios.
+BIZ:de:verb::kürzen;recortar, reducir;El presupuesto se ha recortado a la mitad.
+BIZ:de:verb::erstatten;reembolsar, devolver;Se le reembolsarán los gastos de viaje.
+BIZ:de:verb::prüfen;examinar, revisar, comprobar;Examinamos su solicitud detenidamente.
+BIZ:de:verb::kontrollieren;controlar, revisar, inspeccionar;La calidad se controla periódicamente.
+BIZ:de:verb::optimieren;optimizar;Optimizamos los procesos en el almacén.
+BIZ:de:verb::kooperieren;cooperar, colaborar;Colaboramos estrechamente con la universidad.
+BIZ:de:adj::beruflich;profesional, por trabajo;Por trabajo estoy a menudo en Asia.
+BIZ:de:adj::geschäftlich;de negocios, comercial, por negocios;Está atendiendo una llamada de trabajo.
+BIZ:de:adj::befristet;temporal, de duración determinada;Tengo un contrato temporal.
+BIZ:de:adj::unbefristet;indefinido, de duración indefinida;Después del periodo de prueba consiguió un contrato indefinido.
+BIZ:de:adj::selbstständig;autónomo, por cuenta propia, independiente;Desde hace dos años es autónoma.
+BIZ:de:adj::angestellt;empleado, contratado;Está empleado en una compañía de seguros.
+BIZ:de:adj::arbeitslos;desempleado, parado, sin trabajo;Tras la quiebra estuvo tres meses en paro.
+BIZ:de:adj::zuständig;responsable, competente, encargado;¿Quién es el responsable de las facturas?
+BIZ:de:adj::verantwortlich;responsable;Es responsable del marketing.
+BIZ:de:adj::erfahren;experimentado, con experiencia;Buscamos un jefe de proyecto con experiencia.
+BIZ:de:adj::qualifiziert;cualificado, calificado;Está altamente cualificada para este puesto.
+BIZ:de:adj::belastbar;resistente al estrés, capaz de trabajar bajo presión;El candidato debe saber trabajar bajo presión y ser flexible.
+BIZ:de:adj::zuverlässig;fiable, de confianza, confiable;Es un empleado muy fiable.
+BIZ:de:adj::teamfähig;con capacidad de trabajo en equipo;Buscamos compañeros y compañeras con capacidad de trabajo en equipo.
+BIZ:de:adj::flexibel;flexible;Nuestros horarios de trabajo son muy flexibles.
+BIZ:de:adj::wirtschaftlich;económico;La situación económica es difícil.
+BIZ:de:adj::rentabel;rentable;La nueva fábrica ya es rentable a los dos años.
+BIZ:de:adj::profitabel;rentable, lucrativo;El negocio es muy rentable.
+BIZ:de:adj::wettbewerbsfähig;competitivo;Nuestros precios tienen que seguir siendo competitivos.
+BIZ:de:adj::kostenlos;gratuito, gratis;El asesoramiento es gratuito para usted.
+BIZ:de:adj::kostengünstig;económico, barato, de bajo coste;Buscamos una solución económica.
+BIZ:de:adj::brutto;bruto, en bruto;Gana 5000 euros brutos al mes.
+BIZ:de:adj::netto;neto;El precio es de 100 euros netos.
+BIZ:de:adj::fällig;pagadero, vencido, que vence;La factura vence el 15 de mayo.
+BIZ:de:adj::zahlungsunfähig;insolvente;Por desgracia, el cliente es insolvente.
+BIZ:de:adj::vertraulich;confidencial;Esta información es estrictamente confidencial.
+BIZ:de:adj::verbindlich;vinculante;La oferta es vinculante hasta final de mes.
+BIZ:de:adj::unverbindlich;sin compromiso;Con gusto le enviamos una oferta sin compromiso.
+BIZ:de:adj::gesetzlich;legal, establecido por la ley;El derecho legal a vacaciones es de 20 días.
+BIZ:de:adj::international;internacional;Trabajamos en un equipo internacional.
+BIZ:de:adj::dringend;urgente;Tengo una pregunta urgente sobre el contrato.
+BIZ:de:adj::termingerecht;dentro del plazo, puntual, a tiempo;La entrega se realizó dentro del plazo.
+BIZ:de:adj::nachhaltig;sostenible;Apostamos por una producción sostenible.
+BIZ:de:adj::erfolgreich;exitoso, con éxito;El proyecto tuvo mucho éxito.
+BIZ:de:adv::voraussichtlich;previsiblemente, probablemente, según lo previsto;Previsiblemente, la mercancía llegará el lunes.
+BIZ:de:adv::umgehend;inmediatamente, de inmediato, sin demora;Por favor, responda de inmediato.
+BIZ:de:noun:der:Computer;ordenador, computadora;Hoy mi ordenador arranca muy lento.
+BIZ:de:noun:der:Rechner;ordenador, computadora;Hay que reiniciar el ordenador de la oficina.
+BIZ:de:noun:der:Laptop;portátil, ordenador portátil, laptop;Hoy teletrabajo con mi portátil.
+BIZ:de:noun:das:Notebook;portátil, ordenador portátil;El nuevo portátil tiene un procesador muy rápido.
+BIZ:de:noun:das:Tablet;tableta, tablet;En la reunión tomo notas en la tableta.
+BIZ:de:noun:das:Smartphone;smartphone, teléfono inteligente, móvil;La aplicación funciona en cualquier smartphone.
+BIZ:de:noun:das:Gerät;dispositivo, aparato;Por favor, conecte el dispositivo a la red wifi.
+BIZ:de:noun:die:Hardware;hardware, equipo informático;El hardware ya tiene cinco años.
+BIZ:de:noun:der:Bildschirm;pantalla, monitor;Me gusta trabajar con dos pantallas.
+BIZ:de:noun:der:Monitor;monitor, pantalla;El monitor parpadea desde esta mañana.
+BIZ:de:noun:die:Tastatur;teclado;A este teclado le falta la tecla Z.
+BIZ:de:noun:die:Taste;tecla, botón;Pulse la tecla Intro.
+BIZ:de:noun:die:Maus;ratón, mouse;El ratón inalámbrico necesita pilas nuevas.
+BIZ:de:noun:der:Drucker;impresora;La impresora del segundo piso se ha quedado sin papel.
+BIZ:de:noun:der:Scanner;escáner;Coloque el documento en el escáner.
+BIZ:de:noun:der:Prozessor;procesador;Con esta tarea el procesador está al cien por cien.
+BIZ:de:noun:der:Arbeitsspeicher;memoria RAM, memoria de trabajo;Para el software necesitamos más memoria RAM.
+BIZ:de:noun:der:Speicher;memoria, almacenamiento;La memoria del móvil está casi llena.
+BIZ:de:noun:die:Festplatte;disco duro;Por desgracia, el disco duro se ha estropeado.
+BIZ:de:noun:der:USB-Stick;memoria USB, pendrive, lápiz de memoria;Tengo la presentación en una memoria USB.
+BIZ:de:noun:das:Kabel;cable;¿Qué cable es el del monitor?
+BIZ:de:noun:der:Anschluss;puerto, conexión, conector;El portátil solo tiene dos puertos USB.
+BIZ:de:noun:der:Akku;batería;La batería ya solo dura dos horas.
+BIZ:de:noun:das:Ladegerät;cargador;¿Tienes un cargador para mi móvil?
+BIZ:de:noun:die:Webcam;cámara web, webcam;Mi cámara web no funciona en Teams.
+BIZ:de:noun:das:Headset;auriculares con micrófono, headset;Para las videollamadas uso unos auriculares con micrófono.
+BIZ:de:noun:das:Mikrofon;micrófono;Su micrófono todavía está silenciado.
+BIZ:de:noun:der:Lautsprecher;altavoz, bocina;El sonido no sale por el altavoz.
+BIZ:de:noun:die:Grafikkarte;tarjeta gráfica;Para entrenar IA se necesita una tarjeta gráfica potente.
+BIZ:de:noun:die:Platine;placa de circuito, placa;En la placa se ha quemado un componente.
+BIZ:de:noun:das:Laufwerk;unidad, unidad de red;Los archivos están en la unidad S.
+BIZ:de:noun:der:Server;servidor;El servidor lleva una hora sin estar accesible.
+BIZ:de:noun:das:Rechenzentrum;centro de datos, centro de procesamiento de datos;Nuestro centro de datos está en Fráncfort.
+BIZ:de:noun:der:Router;router, enrutador;Reinicia el router, por favor.
+BIZ:de:noun:die:Schnittstelle;interfaz, API;Los dos sistemas se comunican a través de una interfaz.
+BIZ:de:noun:das:Peripheriegerät;periférico, dispositivo periférico;La impresora y el escáner son periféricos.
+BIZ:de:noun:die:Dockingstation;estación de acoplamiento, dock;Conecto el portátil a la estación de acoplamiento.
+BIZ:de:noun:der:Beamer;proyector;El proyector de la sala de conferencias ya está encendido.
+BIZ:de:noun:der:Touchscreen;pantalla táctil;El terminal tiene una gran pantalla táctil.
+BIZ:de:noun:das:Betriebssystem;sistema operativo;¿Qué sistema operativo tiene tu ordenador?
+BIZ:de:noun:die:Software;software, programa;Vamos a comprar un nuevo software para la contabilidad.
+BIZ:de:noun:das:Programm;programa;El programa se cuelga al guardar.
+BIZ:de:noun:die:Anwendung;aplicación, programa;Esta aplicación solo funciona en Windows.
+BIZ:de:noun:die:App;aplicación, app;Descárgate la aplicación de la tienda.
+BIZ:de:noun:das:Update;actualización;La actualización se instalará esta noche.
+BIZ:de:noun:die:Aktualisierung;actualización;Después de la actualización todo vuelve a funcionar.
+BIZ:de:noun:die:Version;versión;Por favor, utilice siempre la versión más reciente.
+BIZ:de:noun:die:Lizenz;licencia;Necesitamos diez licencias más para la herramienta.
+BIZ:de:noun:die:Installation;instalación;La instalación dura unos diez minutos.
+BIZ:de:noun:die:Benutzeroberfläche;interfaz de usuario;La nueva interfaz de usuario es mucho más clara.
+BIZ:de:noun:die:Datei;archivo, fichero;Te mando el archivo por correo electrónico.
+BIZ:de:noun:der:Ordner;carpeta;Guarda el documento en la carpeta correcta.
+BIZ:de:noun:das:Verzeichnis;directorio;El script está en el directorio scripts.
+BIZ:de:noun:der:Desktop;escritorio;El acceso directo está en el escritorio.
+BIZ:de:noun:das:Fenster;ventana;Cierre todas las ventanas abiertas, por favor.
+BIZ:de:noun:das:Symbol;icono;Haga clic en el icono de arriba a la derecha.
+BIZ:de:noun:das:Menü;menú;Encontrarás la configuración en el menú Herramientas.
+BIZ:de:noun:die:Funktion;función;Esta función solo existe en la versión Pro.
+BIZ:de:noun:das:Tool;herramienta;Con esta herramienta planificamos nuestros sprints.
+BIZ:de:noun:das:Werkzeug;herramienta;Git es una herramienta importante para los desarrolladores.
+BIZ:de:noun:der:Browser;navegador;Abre el enlace en otro navegador.
+BIZ:de:noun:die:Erweiterung;extensión, complemento;La extensión bloquea la publicidad en el navegador.
+BIZ:de:noun:das:Plug-in;plugin, complemento;Para el editor hay un plugin muy útil.
+BIZ:de:noun:die:Tabelle;tabla, hoja de cálculo;Los datos están en una hoja de cálculo de Excel.
+BIZ:de:noun:die:Vorlage;plantilla;Usa la plantilla para informes de errores, por favor.
+BIZ:de:noun:das:Format;formato;El formato del archivo no es compatible.
+BIZ:de:noun:die:Verknüpfung;acceso directo, vínculo;Creo un acceso directo en el escritorio.
+BIZ:de:noun:der:Cursor;cursor;Mueve el cursor al final de la línea.
+BIZ:de:noun:der:Klick;clic;Con un clic se crea el informe.
+BIZ:de:noun:die:Zwischenablage;portapapeles;El texto ya está en el portapapeles.
+BIZ:de:noun:der:Papierkorb;papelera, papelera de reciclaje;El archivo borrado todavía está en la papelera.
+BIZ:de:noun:die:Sicherungskopie;copia de seguridad;Haz antes una copia de seguridad de la base de datos.
+BIZ:de:noun:das:Backup;copia de seguridad, backup;La copia de seguridad se hace automáticamente cada noche.
+BIZ:de:noun:das:Internet;internet;Sin internet hoy no podemos trabajar.
+BIZ:de:noun:das:Netz;red;La red está hoy extremadamente lenta.
+BIZ:de:noun:das:Netzwerk;red;La impresora no aparece en la red.
+BIZ:de:noun:das:WLAN;wifi, red inalámbrica;¿Cuál es la contraseña del wifi?
+BIZ:de:noun:die:Verbindung;conexión;Se ha interrumpido la conexión con el servidor.
+BIZ:de:noun:die:Internetverbindung;conexión a internet;Mi conexión a internet se corta constantemente.
+BIZ:de:noun:die:Bandbreite;ancho de banda;Para las videoconferencias se necesita suficiente ancho de banda.
+BIZ:de:noun:der:Provider;proveedor de internet, proveedor de servicios;Nos cambiamos a un nuevo proveedor.
+BIZ:de:noun:die:Website;sitio web, web;El sitio web se está renovando.
+BIZ:de:noun:die:Webseite;página web, sitio web;En esta página web encontrarás la documentación.
+BIZ:de:noun:die:Homepage;página web, página de inicio, sitio web;Los datos de contacto están en nuestra página web.
+BIZ:de:noun:der:Link;enlace, vínculo;Mándame el enlace de la reunión, por favor.
+BIZ:de:noun:die:Domain;dominio;Hemos registrado un nuevo dominio.
+BIZ:de:noun:die:IP-Adresse;dirección IP;Cada dispositivo recibe su propia dirección IP.
+BIZ:de:noun:der:Download;descarga;La descarga todavía tardará unos minutos.
+BIZ:de:noun:der:Upload;subida, carga;La subida de los vídeos ha fallado.
+BIZ:de:noun:die:Suchmaschine;buscador, motor de búsqueda;Nuestra página debería aparecer más arriba en el buscador.
+BIZ:de:noun:das:Firmennetz;red corporativa, red de la empresa;Desde casa solo puedes acceder a la red de la empresa a través de la VPN.
+BIZ:de:noun:das:VPN;VPN, red privada virtual;Conéctate primero a la VPN.
+BIZ:de:noun:das:Intranet;intranet;Encontrarás los formularios en la intranet.
+BIZ:de:noun:der:Zugang;acceso;Todavía no tengo acceso al sistema.
+BIZ:de:noun:der:Zugriff;acceso;Solo los administradores tienen acceso a estos datos.
+BIZ:de:noun:der:Port;puerto;El servicio funciona en el puerto 8080.
+BIZ:de:noun:die:Firewall;cortafuegos, firewall;El cortafuegos bloquea esta conexión.
+BIZ:de:noun:die:Störung;avería, fallo, incidencia;Debido a una avería la red ha caído.
+BIZ:de:noun:der:Ausfall;caída, fallo, interrupción del servicio;La caída del servidor duró dos horas.
+BIZ:de:noun:die:Ladezeit;tiempo de carga;Tenemos que reducir el tiempo de carga de la página.
+BIZ:de:noun:der:Traffic;tráfico;El lunes tuvimos muchísimo tráfico en la página.
+BIZ:de:noun:der:Hotspot;punto de acceso, hotspot;Trabajo a través del punto de acceso de mi móvil.
+BIZ:de:noun:der:Stream;retransmisión, transmisión en directo, streaming;La retransmisión de la conferencia empieza a las nueve.
+BIZ:de:noun:der:Code;código;El código está bien documentado.
+BIZ:de:noun:der:Quellcode;código fuente;El código fuente está en GitHub.
+BIZ:de:noun:der:Programmierer;programador;Buscamos un programador de Java con experiencia.
+BIZ:de:noun:die:Programmiererin;programadora;La programadora encontró el error rápidamente.
+BIZ:de:noun:der:Entwickler;desarrollador;Dos desarrolladores trabajan en la nueva aplicación.
+BIZ:de:noun:die:Entwicklerin;desarrolladora;Trabaja como desarrolladora en una start-up.
+BIZ:de:noun:die:Softwareentwicklung;desarrollo de software;Tiene diez años de experiencia en desarrollo de software.
+BIZ:de:noun:die:Programmiersprache;lenguaje de programación;Python es un lenguaje de programación popular.
+BIZ:de:noun:der:Fehler;error, fallo;Todavía hay un pequeño error en el código.
+BIZ:de:noun:der:Bug;bug, error, fallo;El bug solo aparece en Android.
+BIZ:de:noun:die:Fehlermeldung;mensaje de error;Mándame una captura de pantalla del mensaje de error, por favor.
+BIZ:de:noun:die:Fehlerbehebung;corrección de errores, depuración, solución de problemas;La corrección de errores llevó más tiempo de lo previsto.
+BIZ:de:noun:der:Absturz;bloqueo, caída, cuelgue;Tras el bloqueo se perdieron todos los datos.
+BIZ:de:noun:der:Algorithmus;algoritmo;El algoritmo ordena los resultados por relevancia.
+BIZ:de:noun:die:Variable;variable;Esta variable no se usa en ningún sitio.
+BIZ:de:noun:die:Schleife;bucle;El programa se queda colgado en un bucle infinito.
+BIZ:de:noun:die:Bibliothek;biblioteca;Para los gráficos usamos una biblioteca externa.
+BIZ:de:noun:das:Framework;framework, marco de trabajo;¿Qué framework usáis para el frontend?
+BIZ:de:noun:das:Frontend;frontend, interfaz de usuario;Ella es la responsable del frontend.
+BIZ:de:noun:das:Backend;backend, parte del servidor;El backend está escrito en Go.
+BIZ:de:noun:die:Datenbankabfrage;consulta a la base de datos;La consulta a la base de datos es demasiado lenta.
+BIZ:de:noun:das:Skript;script;Un pequeño script lo hace automáticamente.
+BIZ:de:noun:die:Codezeile;línea de código;El proyecto tiene más de cien mil líneas de código.
+BIZ:de:noun:der:Test;prueba, test;Todas las pruebas se han superado con éxito.
+BIZ:de:noun:das:Testing;pruebas, testing;Un equipo propio se encarga de las pruebas.
+BIZ:de:noun:der:Tester;tester, probador;El tester ha notificado tres errores nuevos.
+BIZ:de:noun:das:Release;versión, lanzamiento;La próxima versión está prevista para mayo.
+BIZ:de:noun:das:Deployment;despliegue, implementación;El despliegue se hace automáticamente a través del pipeline.
+BIZ:de:noun:die:Entwicklungsumgebung;entorno de desarrollo;Uso Visual Studio Code como entorno de desarrollo.
+BIZ:de:noun:die:Testumgebung;entorno de pruebas;Prueba primero el cambio en el entorno de pruebas.
+BIZ:de:noun:der:Branch;rama;Crea una rama propia para cada funcionalidad.
+BIZ:de:noun:der:Commit;commit, confirmación;El último commit ha roto la compilación.
+BIZ:de:noun:das:Repository;repositorio;El repositorio solo es accesible internamente.
+BIZ:de:noun:die:Versionskontrolle;control de versiones;Aquí nadie trabaja sin control de versiones.
+BIZ:de:noun:das:Code-Review;revisión de código;Cada cambio necesita una revisión de código.
+BIZ:de:noun:die:Dokumentation;documentación;Lamentablemente, la documentación no está actualizada.
+BIZ:de:noun:das:Feature;funcionalidad, función;La nueva funcionalidad tiene buena acogida entre los usuarios.
+BIZ:de:noun:der:Prototyp;prototipo;Para el viernes mostraremos un primer prototipo.
+BIZ:de:noun:die:Architektur;arquitectura;La arquitectura del sistema es demasiado complicada.
+BIZ:de:noun:die:Programmierung;programación;La programación de la interfaz lleva dos semanas.
+BIZ:de:noun:der:Compiler;compilador;El compilador muestra una advertencia.
+BIZ:de:noun:die:Abhängigkeit;dependencia;Tenemos que actualizar las dependencias del proyecto.
+BIZ:de:noun:die:Daten;datos;Los datos se transmiten cifrados.
+BIZ:de:noun:die:Datenbank;base de datos;Todos los clientes están guardados en la base de datos.
+BIZ:de:noun:der:Datensatz;registro;La tabla contiene más de un millón de registros.
+BIZ:de:noun:die:Abfrage;consulta;Con esta consulta encuentras todos los tickets abiertos.
+BIZ:de:noun:die:Spalte;columna;Añade una nueva columna a la tabla.
+BIZ:de:noun:die:Zeile;línea, fila;El error está en la línea 42.
+BIZ:de:noun:das:Feld;campo;Este campo no puede quedar vacío.
+BIZ:de:noun:die:Datenmenge;volumen de datos, cantidad de datos;El volumen de datos crece mucho cada año.
+BIZ:de:noun:die:Datenanalyse;análisis de datos;Para el análisis de datos usamos Python.
+BIZ:de:noun:die:Datenverarbeitung;procesamiento de datos, tratamiento de datos;El tratamiento de datos se realiza solo en la UE.
+BIZ:de:noun:die:Datenübertragung;transmisión de datos;La transmisión de datos está cifrada de extremo a extremo.
+BIZ:de:noun:die:Speicherkapazität;capacidad de almacenamiento;Necesitamos más capacidad de almacenamiento en la nube.
+BIZ:de:noun:die:Migration;migración;La migración de los datos está prevista para el fin de semana.
+BIZ:de:noun:der:Speicherplatz;espacio de almacenamiento, espacio en disco;En la unidad apenas queda espacio libre.
+BIZ:de:noun:die:Statistik;estadística;La estadística muestra el número de usuarios activos.
+BIZ:de:noun:das:Diagramm;gráfico, diagrama;El gráfico muestra la carga del servidor por hora.
+BIZ:de:noun:die:Auswertung;análisis, evaluación;El análisis de los registros todavía está en curso.
+BIZ:de:noun:das:Logfile;archivo de registro, log;En el archivo de registro aparece el mensaje de error exacto.
+BIZ:de:noun:die:Cloud;nube;Todos nuestros documentos están en la nube.
+BIZ:de:noun:der:Cloud-Speicher;almacenamiento en la nube;El almacenamiento en la nube está disponible para todos los empleados.
+BIZ:de:noun:der:Anbieter;proveedor;Estamos comparando varios proveedores de nube.
+BIZ:de:noun:der:Dienst;servicio;El servicio no está disponible temporalmente.
+BIZ:de:noun:das:Hosting;alojamiento web, hosting;El alojamiento nos cuesta veinte euros al mes.
+BIZ:de:noun:die:Synchronisierung;sincronización;La sincronización con el móvil tarda un poco.
+BIZ:de:noun:die:Skalierbarkeit;escalabilidad;La escalabilidad es muy importante para nuestra plataforma.
+BIZ:de:noun:die:Plattform;plataforma;La plataforma ya tiene dos millones de usuarios.
+BIZ:de:noun:die:Virtualisierung;virtualización;Gracias a la virtualización nos ahorramos muchos servidores.
+BIZ:de:noun:die:Sicherheit;seguridad;La seguridad de nuestros datos tiene máxima prioridad.
+BIZ:de:noun:die:IT-Sicherheit;seguridad informática, ciberseguridad;Él es el responsable de la seguridad informática en nuestra empresa.
+BIZ:de:noun:das:Passwort;contraseña;Tu contraseña debe tener al menos doce caracteres.
+BIZ:de:noun:das:Kennwort;contraseña, clave;Por favor, cambie su contraseña cada tres meses.
+BIZ:de:noun:der:Benutzername;nombre de usuario, usuario;Introduzca su nombre de usuario y su contraseña.
+BIZ:de:noun:der:Account;cuenta, cuenta de usuario;Para la herramienta necesitas tu propia cuenta.
+BIZ:de:noun:die:Anmeldung;inicio de sesión, acceso;El inicio de sesión solo funciona con la cuenta de la empresa.
+BIZ:de:noun:die:Verschlüsselung;cifrado, encriptación;Todos los correos electrónicos están protegidos con un cifrado fuerte.
+BIZ:de:noun:die:Zwei-Faktor-Authentifizierung;autenticación de dos factores, verificación en dos pasos;Por favor, active la autenticación de dos factores.
+BIZ:de:noun:die:Berechtigung;permiso, autorización, derechos de acceso;No tienes permiso para esta carpeta.
+BIZ:de:noun:das:Virus;virus;El archivo adjunto contenía un virus peligroso.
