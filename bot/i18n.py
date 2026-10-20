@@ -21,6 +21,11 @@ TEXTS = {
     "learn_de": {"ru": "🇩🇪 Немецкий", "en": "🇩🇪 German", "es": "🇩🇪 Alemán"},
     "learn_en": {"ru": "🇬🇧 Английский", "en": "🇬🇧 English", "es": "🇬🇧 Inglés"},
     "learn_es": {"ru": "🇪🇸 Испанский", "en": "🇪🇸 Spanish", "es": "🇪🇸 Español"},
+    "same_lang": {
+        "ru": "Бот теперь на том же языке, который ты учишь. Выбери другой язык для изучения:",
+        "en": "The bot now speaks the language you're learning. Choose another language to learn:",
+        "es": "El bot ahora está en el idioma que aprendes. Elige otro idioma para aprender:",
+    },
     "ask_learn": {
         "ru": "Какой язык будем изучать?",
         "en": "Which language do you want to learn?",

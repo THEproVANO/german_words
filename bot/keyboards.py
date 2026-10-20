@@ -26,12 +26,13 @@ ui_languages = InlineKeyboardMarkup(inline_keyboard=[
 
 
 def languages(lang: str) -> InlineKeyboardMarkup:
-    """Только языки, для которых загружен словарь (с переводом на язык бота, если он свой)."""
+    """Только языки, для которых загружен словарь (с переводом на язык бота, если он свой).
+    Язык самого бота не предлагаем: учить свой язык незачем."""
     def tl(code: str) -> str:
         return lang if lang in TRANSLATION_LANGS and code != lang else "ru"
     return InlineKeyboardMarkup(inline_keyboard=[
         [_button(t(lang, f"learn_{code}"), f"lang:{code}")]
-        for code in LANGUAGES if db.available_levels(code, tl(code))
+        for code in LANGUAGES if code != lang and db.available_levels(code, tl(code))
     ])
 
 

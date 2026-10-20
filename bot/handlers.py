@@ -39,6 +39,8 @@ async def cmd_start(message: Message, bot: Bot) -> None:
     if user["level"]:
         lang = user["ui_lang"]
         await message.answer(t(lang, "welcome_back"), reply_markup=keyboards.main_menu(lang))
+        if user["lang"] == lang:
+            await message.answer(t(lang, "same_lang"), reply_markup=keyboards.languages(lang))
         quiz = db.get_active_quiz(user_id)
         if quiz:
             await service.send_question(bot, user, quiz["id"])
@@ -61,6 +63,9 @@ async def choose_ui(call: CallbackQuery) -> None:
         db.update_user(user["id"], ui_lang=lang)
         await call.message.edit_text(t(lang, "ui_set", name=UI_LANGUAGES[lang]))
         await call.message.answer(t(lang, "welcome_back"), reply_markup=keyboards.main_menu(lang))
+        if user["lang"] == lang:
+            # Язык бота совпал с изучаемым — предлагаем выбрать другой изучаемый язык
+            await call.message.answer(t(lang, "same_lang"), reply_markup=keyboards.languages(lang))
     else:
         # Первая настройка: заодно подставляем часовой пояс, типичный для этого языка
         db.update_user(user["id"], ui_lang=lang, tz=DEFAULT_TZ_BY_UI[lang])
@@ -72,7 +77,7 @@ async def choose_ui(call: CallbackQuery) -> None:
 async def choose_language(call: CallbackQuery) -> None:
     lang = call.data.split(":")[1]
     ui = db.get_user(call.from_user.id)["ui_lang"]
-    if lang not in LANGUAGES:
+    if lang not in LANGUAGES or lang == ui:
         await call.answer()
         return
     # При смене изучаемого языка из профиля уровень выбирается заново: у языков разный набор уровней
