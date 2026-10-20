@@ -3047,3 +3047,603 @@ BIZ:en:verb::subscribe;suscribirse;Suscríbete a nuestro boletín para recibir n
 BIZ:en:verb::zoom in;acercar, ampliar (zoom);Acerca la imagen para ver los detalles del gráfico.
 BIZ:en:verb::filter;filtrar;Filtra la lista por fecha para encontrar el pedido.
 BIZ:en:verb::customize;personalizar;Puedes personalizar el panel según tus necesidades.
+en:noun::perception;percepción;Las redes sociales afectan a nuestra percepción de la realidad.
+en:noun::instinct;instinto, impulso;Mi primer instinto fue salir corriendo.
+en:noun::impulse;impulso;Compré el vestido por impulso.
+en:noun::frustration;frustración, rabia;Gritó de frustración ante el ordenador estropeado.
+en:noun::resentment;resentimiento, rencor;Sentía un profundo resentimiento hacia su hermano.
+en:noun::confusion;confusión;Hubo cierta confusión sobre la hora de la reunión.
+en:noun::curiosity;curiosidad;El niño miró la caja con curiosidad.
+en:noun::enthusiasm;entusiasmo;Empezó su nuevo trabajo con gran entusiasmo.
+en:noun::determination;determinación, tesón;Su determinación la ayudó a ganar la carrera.
+en:noun::self-esteem;autoestima;El acoso escolar puede dañar la autoestima de un niño.
+en:noun::insecurity;inseguridad;Los adolescentes a menudo luchan contra la inseguridad sobre su aspecto.
+en:noun::phobia;fobia;Tiene fobia a las arañas.
+en:noun::trauma;trauma;El accidente le dejó un profundo trauma emocional.
+en:noun::mindset;mentalidad, forma de pensar;El éxito empieza con la mentalidad adecuada.
+en:noun::willpower;fuerza de voluntad;Hace falta fuerza de voluntad para dejar el azúcar.
+en:noun::stereotype;estereotipo;La película desafía los estereotipos sobre las personas mayores.
+en:noun::bias;sesgo, parcialidad;Acusaron al periódico de parcialidad política.
+en:noun::conscience;conciencia (moral);Le remordía la conciencia por la mentira.
+en:noun::intuition;intuición;Confió en su intuición y rechazó la oferta.
+en:noun::obsession;obsesión;Su obsesión por el ejercicio físico preocupa a su mujer.
+en:noun::satisfaction;satisfacción;Ayudar a los demás le produce una gran satisfacción.
+en:noun::empathy;empatía;Los buenos médicos muestran empatía hacia sus pacientes.
+en:noun::compassion;compasión;Trató a los refugiados con compasión.
+en:noun::gratitude;gratitud, agradecimiento;Expresó su gratitud a los médicos.
+en:noun::despair;desesperación;Lloró desesperada al oír la noticia.
+en:noun::aggression;agresividad, agresión;Se dice que algunos videojuegos fomentan la agresividad.
+en:noun::manipulation;manipulación;La publicidad a menudo se basa en la manipulación emocional.
+en:noun::persuasion;persuasión;Tras un poco de persuasión, aceptó venir.
+en:noun::peer;compañero, igual (de la misma edad);Los adolescentes a menudo sienten la presión de sus compañeros.
+en:noun::self-control;autocontrol, dominio de sí mismo;Perdió el autocontrol y empezó a gritar.
+en:noun::temptation;tentación;No pude resistir la tentación de comerme el pastel.
+en:noun::denial;negación;Todavía está en fase de negación respecto a su enfermedad.
+en:noun::therapist;terapeuta;Su terapeuta la ayudó a afrontar la ansiedad.
+en:noun::psychologist;psicólogo;El colegio ha contratado a un psicólogo a tiempo completo.
+en:noun::psychiatrist;psiquiatra;El psiquiatra le recetó medicación para la depresión.
+en:noun::counsellor;orientador, consejero;Los alumnos pueden hablar con un orientador sobre sus problemas.
+en:noun::well-being;bienestar;El ejercicio es bueno para tu bienestar mental.
+en:noun::mentality;mentalidad;Tenemos que cambiar la mentalidad de todo el equipo.
+en:noun::trait;rasgo (de carácter);La honestidad es su mejor rasgo.
+en:noun::temperament;temperamento, carácter;Las dos hermanas tienen temperamentos muy distintos.
+en:noun::ego;ego, amor propio;Ganar el premio le subió el ego.
+en:noun::awareness;conciencia, concienciación;La campaña aumentó la concienciación sobre la salud mental.
+en:noun::consciousness;conocimiento, consciencia;Perdió el conocimiento tras golpearse la cabeza.
+en:noun::anticipation;expectación, ilusión;Los niños esperaban la Navidad con ilusión.
+en:noun::hostility;hostilidad;Le sorprendió la hostilidad de la multitud.
+en:noun::rebellion;rebeldía, rebelión;La rebeldía adolescente es una parte normal del crecimiento.
+en:noun::conformity;conformidad, sumisión (a las normas);El colegio exigía un estricto cumplimiento de sus normas.
+en:noun::craving;antojo, ansia;Ahora mismo tengo antojo de chocolate.
+en:noun::nostalgia;nostalgia;Las canciones antiguas me llenan de nostalgia.
+en:noun::grief;dolor, pena, duelo;Tras su muerte, el dolor la desbordó.
+en:noun::rage;ira, rabia, furia;Temblaba de rabia.
+en:noun::delight;placer, alegría, deleite;Los niños gritaban de alegría.
+en:noun::acquaintance;conocido;No es un amigo, solo un conocido.
+en:noun::companion;compañero;Su perro es su compañero inseparable.
+en:noun::companionship;compañía;Las personas mayores a menudo necesitan más compañía que ayuda.
+en:noun::separation;separación;La larga separación fue dura para ambos.
+en:noun::spouse;cónyuge, esposo, esposa;Los empleados pueden traer a sus cónyuges a la fiesta.
+en:noun::fiancé;prometido, novio;Me presentó a su prometido.
+en:noun::groom;novio (en la boda);El novio dio un discurso divertido.
+en:noun::widow;viuda;Lleva diez años viuda.
+en:noun::widower;viudo;El viejo viudo vive solo con su gato.
+en:noun::sibling;hermano, hermana;Se lleva bien con todos sus hermanos.
+en:noun::in-laws;suegros, familia política;Vamos a pasar la Navidad con mis suegros.
+en:noun::ancestor;antepasado;Mis antepasados venían de un pequeño pueblo de Irlanda.
+en:noun::descendant;descendiente;Es descendiente de un pintor famoso.
+en:noun::upbringing;crianza, educación;Recibió una estricta educación religiosa.
+en:noun::loyalty;lealtad, fidelidad;Los perros son conocidos por su lealtad.
+en:noun::betrayal;traición;Nunca le perdonó su traición.
+en:noun::affection;cariño, afecto;Le demuestra su cariño cocinando para ella.
+en:noun::intimacy;intimidad;La confianza es la base de la intimidad en una relación.
+en:noun::romance;romance, idilio;Su romance de vacaciones terminó en boda.
+en:noun::rival;rival, competidor;Las dos empresas son rivales feroces.
+en:noun::rivalry;rivalidad;Hay una fuerte rivalidad entre los dos equipos.
+en:noun::ally;aliado;Encontró un aliado en su nuevo jefe.
+en:noun::mentor;mentor;Mi primer jefe fue también mi mentor.
+en:noun::role model;modelo a seguir, ejemplo;Los padres deberían ser buenos modelos a seguir para sus hijos.
+en:noun::admirer;admirador;Recibió flores de un admirador secreto.
+en:noun::sincerity;sinceridad;Nadie dudó de la sinceridad de su disculpa.
+en:noun::generosity;generosidad;Nos conmovió la generosidad de unos desconocidos.
+en:noun::modesty;modestia;A pesar de su éxito, es conocido por su modestia.
+en:noun::arrogance;arrogancia, soberbia;Su arrogancia lo hizo muy impopular.
+en:noun::stubbornness;terquedad, obstinación;Su terquedad a veces causa problemas en el trabajo.
+en:noun::selfishness;egoísmo;Su egoísmo destruyó su amistad.
+en:noun::humility;humildad;Los grandes líderes muestran humildad y escuchan a los demás.
+en:noun::integrity;integridad, honradez;Es una mujer de gran integridad.
+en:noun::charm;encanto;Se ganó a todos con su encanto.
+en:noun::wit;ingenio, agudeza;Sus libros están llenos de ingenio y sabiduría.
+en:noun::reputation;reputación, fama;El restaurante tiene una reputación excelente.
+en:noun::quarrel;pelea, riña, discusión;Tuvieron una pelea por dinero.
+en:noun::disagreement;desacuerdo, discrepancia;Hubo un desacuerdo sobre el presupuesto.
+en:noun::dispute;disputa, conflicto, litigio;La disputa entre los vecinos acabó en los tribunales.
+en:noun::reconciliation;reconciliación;Tras años de silencio, por fin hubo una reconciliación.
+en:noun::apology;disculpa;Pidió disculpas públicamente por sus palabras.
+en:noun::commitment;compromiso;El matrimonio es un compromiso serio.
+en:noun::devotion;devoción, entrega, dedicación;Su entrega a su familia es admirable.
+en:noun::admiration;admiración;Siento una gran admiración por las enfermeras.
+en:noun::contempt;desprecio, desdén;Me miró con desprecio.
+en:noun::misunderstanding;malentendido;La discusión se debió a un simple malentendido.
+en:noun::tension;tensión;Había una tensión evidente entre los dos hermanos.
+en:noun::harmony;armonía;Los vecinos conviven en armonía.
+en:noun::bravery;valentía, valor;El bombero recibió una medalla al valor.
+en:noun::coward;cobarde;Solo un cobarde abandonaría a sus amigos.
+en:noun::cowardice;cobardía;Sus propios hombres lo acusaron de cobardía.
+en:noun::hypocrite;hipócrita;Me llama vago, pero es un hipócrita.
+en:noun::hypocrisy;hipocresía;La gente está harta de la hipocresía de los políticos.
+en:noun::introvert;introvertido;Como es introvertida, prefiere las tardes tranquilas en casa.
+en:noun::extrovert;extrovertido;Es un auténtico extrovertido al que le encantan las fiestas.
+en:noun::optimist;optimista;Es una optimista que siempre ve el lado bueno.
+en:noun::pessimist;pesimista;No seas tan pesimista con el futuro.
+en:noun::optimism;optimismo;Hay un optimismo creciente sobre la economía.
+en:noun::pessimism;pesimismo;Su pesimismo empieza a afectar a todo el equipo.
+en:noun::perfectionist;perfeccionista;Es una perfeccionista que lo revisa todo dos veces.
+en:noun::flattery;halagos, adulación;Con halagos no vas a conseguir nada de mí.
+en:noun::tenderness;ternura;Acarició la cabeza del bebé con ternura.
+en:noun::confidant;confidente;Su hermana siempre ha sido su confidente más cercana.
+en:noun::loner;solitario;Era un solitario que rara vez hablaba con nadie.
+en:noun::masterpiece;obra maestra;El cuadro se considera su mayor obra maestra.
+en:noun::sculptor;escultor;El escultor trabajó en la estatua durante tres años.
+en:noun::canvas;lienzo;El artista pintó sobre un lienzo enorme.
+en:noun::sketch;boceto, esbozo, apunte;Hizo un boceto rápido del puente.
+en:noun::novelist;novelista;Es uno de los novelistas más conocidos de Francia.
+en:noun::verse;estrofa, verso;La canción tiene tres estrofas y un estribillo.
+en:noun::rhyme;rima;A los niños les encantan los cuentos escritos en rima.
+en:noun::narrator;narrador;La narradora de la historia es una chica joven.
+en:noun::narrative;narrativa, narración, relato;La novela tiene una estructura narrativa compleja.
+en:noun::protagonist;protagonista;El protagonista de la historia es un anciano solitario.
+en:noun::sequel;secuela, continuación;La secuela fue incluso mejor que la película original.
+en:noun::trilogy;trilogía;Acabo de terminar el último libro de la trilogía.
+en:noun::genre;género;La ciencia ficción es mi género favorito.
+en:noun::fiction;ficción, narrativa;Prefiere la ficción a los libros de historia.
+en:noun::biography;biografía;Estoy leyendo una biografía de Winston Churchill.
+en:noun::autobiography;autobiografía;En su autobiografía describe su difícil infancia.
+en:noun::memoir;memorias;La actriz ha escrito unas memorias sobre su carrera.
+en:noun::playwright;dramaturgo;Shakespeare es el dramaturgo inglés más famoso.
+en:noun::script;guion;Los actores recibieron el guion una semana antes del rodaje.
+en:noun::rehearsal;ensayo;El ensayo final es el viernes por la tarde.
+en:noun::premiere;estreno;Las estrellas llegaron al estreno de la película en Londres.
+en:noun::critic;crítico;La película fue elogiada por la crítica.
+en:noun::criticism;críticas, crítica;La nueva ley recibió muchas críticas.
+en:noun::reviewer;crítico, reseñista;El crítico calificó el libro de auténtica obra maestra.
+en:noun::applause;aplausos;El cantante abandonó el escenario entre fuertes aplausos.
+en:noun::producer;productor;El productor decidió cambiar el final.
+en:noun::cast;reparto, elenco;La película tiene un reparto excelente.
+en:noun::soundtrack;banda sonora;Compré la banda sonora después de ver la película.
+en:noun::conductor;director de orquesta;El director de orquesta levantó las manos y empezó la música.
+en:noun::composer;compositor;Mozart es mi compositor favorito.
+en:noun::symphony;sinfonía;La orquesta interpretó una sinfonía de Beethoven.
+en:noun::choir;coro;Canta en el coro de la iglesia.
+en:noun::lyrics;letra (de una canción);Nunca consigo recordar la letra de esta canción.
+en:noun::melody;melodía;La canción tiene una melodía sencilla pero bonita.
+en:noun::rhythm;ritmo;Bailaron al ritmo de los tambores.
+en:noun::broadcaster;cadena (de radio o televisión), locutor;La cadena pública emitirá el concierto en directo.
+en:noun::columnist;columnista;Es columnista deportivo de un periódico nacional.
+en:noun::correspondent;corresponsal;Nuestro corresponsal informa desde el lugar de los hechos.
+en:noun::coverage;cobertura (informativa);Las elecciones recibieron una amplia cobertura mediática.
+en:noun::propaganda;propaganda;La película era pura propaganda política.
+en:noun::tabloid;prensa sensacionalista, tabloide;La prensa sensacionalista publicó fotos de la pareja.
+en:noun::publisher;editorial, editor;Diez editoriales rechazaron su primera novela.
+en:noun::manuscript;manuscrito;Envió el manuscrito a varias editoriales.
+en:noun::edition;edición;Esta es la primera edición de la novela.
+en:noun::illustration;ilustración;El libro tiene unas preciosas ilustraciones a color.
+en:noun::illustrator;ilustrador;El ilustrador dibujó todas las imágenes a mano.
+en:noun::animation;animación;Trabaja en animación para un gran estudio de cine.
+en:noun::craft;artesanía, oficio;La alfarería es una artesanía tradicional en esta región.
+en:noun::craftsman;artesano;La mesa la hizo un hábil artesano.
+en:noun::imagination;imaginación;Los niños tienen una imaginación maravillosa.
+en:noun::creativity;creatividad;El trabajo requiere mucha creatividad.
+en:noun::inspiration;inspiración, fuente de inspiración;El mar fue una gran fuente de inspiración para el pintor.
+en:noun::metaphor;metáfora;El poema usa el mar como metáfora de la vida.
+en:noun::symbol;símbolo;La paloma es un símbolo de la paz.
+en:noun::theme;tema;El amor es el tema principal de la novela.
+en:noun::irony;ironía;Lo irónico es que odia volar pero se hizo piloto.
+en:noun::satire;sátira;El programa es una sátira ingeniosa de la política actual.
+en:noun::tragedy;tragedia;Hamlet es una de las mayores tragedias de Shakespeare.
+en:noun::myth;mito;Es un mito que los peces de colores tengan poca memoria.
+en:noun::legend;leyenda;Según la leyenda, en la cueva vivía un dragón.
+en:noun::heroine;heroína, protagonista;La protagonista de la novela es una joven enfermera valiente.
+en:noun::villain;villano, malo (de la película);El villano de la película lo interpretó un actor famoso.
+en:noun::fairy tale;cuento de hadas;Mi abuela me leía un cuento de hadas todas las noches.
+en:noun::blockbuster;éxito de taquilla, superproducción;La película se convirtió en el éxito de taquilla del verano.
+en:noun::sitcom;comedia de situación, sitcom;Anoche vimos una vieja comedia de situación estadounidense.
+en:noun::caption;pie de foto, leyenda;Lee el pie de foto que hay debajo de la imagen.
+en:noun::diagnosis;diagnóstico;El médico confirmó el diagnóstico después de las pruebas.
+en:noun::remedy;remedio;La miel es un remedio tradicional para el dolor de garganta.
+en:noun::injection;inyección;La enfermera le puso una inyección en el brazo.
+en:noun::bacterium;bacteria;Algunas bacterias son en realidad buenas para la salud.
+en:noun::immunity;inmunidad, defensas;La vitamina C puede ayudar a reforzar las defensas.
+en:noun::asthma;asma;Siempre lleva un inhalador por su asma.
+en:noun::diabetes;diabetes;Las personas con diabetes deben vigilar su consumo de azúcar.
+en:noun::tumour;tumor;Los cirujanos extirparon el tumor con éxito.
+en:noun::stroke;derrame cerebral, ictus;Mi abuelo sufrió un ictus el año pasado.
+en:noun::heart attack;infarto, ataque al corazón;Murió de un infarto a los sesenta años.
+en:noun::rash;sarpullido, erupción (cutánea);La bebé tiene un sarpullido rojo en la cara.
+en:noun::fracture;fractura;La radiografía mostró una fractura en la muñeca.
+en:noun::disorder;trastorno;Sufre un trastorno alimentario.
+en:noun::obesity;obesidad;La obesidad infantil es un problema creciente.
+en:noun::insomnia;insomnio;El estrés es una causa frecuente de insomnio.
+en:noun::fatigue;cansancio, fatiga;El cansancio es un efecto secundario frecuente del medicamento.
+en:noun::outbreak;brote (de una enfermedad);Ha habido un brote de sarampión en la ciudad.
+en:noun::side effect;efecto secundario;El dolor de cabeza es un efecto secundario frecuente de este medicamento.
+en:noun::posture;postura;Pasar todo el día sentado en un escritorio es malo para la postura.
+en:noun::undergraduate;estudiante universitario (de grado);El curso está abierto a todos los estudiantes de grado.
+en:noun::assessment;evaluación;La evaluación continua cuenta la mitad de la nota final.
+en:noun::plagiarism;plagio;Expulsaron al estudiante por plagio.
+en:noun::admission;admisión, ingreso;La admisión en la universidad depende de los resultados de los exámenes.
+en:noun::faculty;facultad;Estudia en la facultad de Derecho.
+en:noun::literacy;alfabetización;El programa tiene como objetivo mejorar la alfabetización de adultos.
+en:noun::aptitude;aptitud, facilidad;Muestra una facilidad natural para los idiomas.
+en:noun::wisdom;sabiduría;Dicen que la sabiduría llega con la edad.
+en:noun::insight;visión, comprensión, idea;El libro ofrece una visión fascinante de la vida en Japón.
+en:noun::comprehension;comprensión;El examen evalúa la comprensión lectora.
+en:noun::apprenticeship;aprendizaje (de un oficio), formación profesional;Hizo una formación de tres años como electricista.
+en:noun::internship;prácticas, pasantía;Hizo unas prácticas en un bufete de abogados.
+en:noun::bullying;acoso escolar, bullying;El colegio tiene una política estricta contra el acoso escolar.
+en:noun::fluency;fluidez, soltura;Leer ayuda a mejorar tu fluidez en inglés.
+en:noun::consequence;consecuencia;Tuvo que afrontar las consecuencias de sus actos.
+en:noun::tendency;tendencia;Tiene tendencia a exagerar.
+en:noun::aspect;aspecto;El dinero es solo un aspecto del problema.
+en:noun::approach;enfoque, planteamiento;Necesitamos un nuevo enfoque para este problema.
+en:noun::notion;idea, noción;Rechazó la idea de que el dinero da la felicidad.
+en:noun::outcome;resultado, desenlace;Nadie podía predecir el resultado de las elecciones.
+en:noun::circumstance;circunstancia;Bajo ninguna circunstancia debes abrir esta puerta.
+en:noun::perspective;perspectiva, punto de vista;Viajar te da una nueva perspectiva de la vida.
+en:noun::uncertainty;incertidumbre;Hay mucha incertidumbre sobre el futuro.
+en:noun::likelihood;probabilidad;Hoy hay pocas probabilidades de lluvia.
+en:noun::priority;prioridad;Mi familia es mi máxima prioridad.
+en:noun::dilemma;dilema;Se enfrentó a un difícil dilema moral.
+en:noun::controversy;polémica, controversia;La nueva ley generó mucha polémica.
+en:noun::contradiction;contradicción;Hay una contradicción entre lo que dice y lo que hace.
+en:noun::coincidence;coincidencia, casualidad;¡Qué casualidad encontrarte aquí!
+en:noun::significance;importancia, trascendencia;Pocos entendieron la importancia del descubrimiento.
+en:noun::obligation;obligación, compromiso;No tiene ninguna obligación de comprar nada.
+en:noun::misconception;idea errónea, concepto erróneo;Es una idea errónea muy extendida que los murciélagos son ciegos.
+en:noun::dignity;dignidad;Todo el mundo merece ser tratado con dignidad.
+en:noun::drawback;inconveniente, desventaja;El principal inconveniente del piso es su tamaño.
+en:noun::obstacle;obstáculo;La falta de dinero es el mayor obstáculo.
+en:noun::setback;revés, contratiempo;La lesión fue un duro revés para el equipo.
+en:noun::implication;consecuencia, repercusión, implicación;Debemos considerar las repercusiones de esta decisión.
+en:noun::census;censo;El último censo mostró un aumento de la población.
+en:noun::inhabitant;habitante;La isla tiene solo doscientos habitantes.
+en:noun::adolescence;adolescencia;A muchas personas la adolescencia les resulta una etapa difícil.
+en:noun::adolescent;adolescente;El libro está escrito para adolescentes y jóvenes adultos.
+en:noun::adulthood;edad adulta, vida adulta;Pocas amistades de la infancia perduran hasta la edad adulta.
+en:noun::inheritance;herencia;Se gastó toda la herencia en una casa.
+en:noun::heir;heredero;Es el único heredero del negocio familiar.
+en:noun::orphan;huérfano;La guerra dejó huérfanos a miles de niños.
+en:noun::orphanage;orfanato;Creció en un orfanato de Rumanía.
+en:noun::beggar;mendigo;Había un mendigo sentado delante de la estación.
+en:noun::slavery;esclavitud;La esclavitud se abolió en Gran Bretaña en 1833.
+en:noun::colony;colonia;La India fue en su día una colonia británica.
+en:noun::empire;imperio;El Imperio romano duró siglos.
+en:noun::monarchy;monarquía;Gran Bretaña sigue siendo una monarquía constitucional.
+en:noun::republic;república;Francia se convirtió en una república tras la revolución.
+en:noun::dictatorship;dictadura;El país sufrió una dictadura militar.
+en:noun::oppression;opresión;El pueblo luchó contra años de opresión.
+en:noun::revolution;revolución;Internet provocó una revolución en la comunicación.
+en:noun::uprising;levantamiento, sublevación, alzamiento;El ejército aplastó rápidamente el levantamiento.
+en:noun::rebel;rebelde, insurgente;Los rebeldes tomaron el control de la capital.
+en:noun::terrorism;terrorismo;El gobierno aprobó nuevas leyes para combatir el terrorismo.
+en:noun::hostage;rehén;Los rehenes fueron liberados al cabo de tres días.
+en:noun::kidnapping;secuestro;La policía investiga el secuestro de un empresario.
+en:noun::murderer;asesino;El asesino fue condenado a cadena perpetua.
+en:noun::shoplifter;ladrón (de tiendas), mechero;El guardia de seguridad pilló a un ladrón en la puerta.
+en:noun::smuggling;contrabando, tráfico;Lo detuvieron por tráfico de drogas.
+en:noun::inmate;recluso, preso;La cárcel alberga a más de mil reclusos.
+en:noun::bail;fianza;Quedó en libertad bajo fianza hasta el juicio.
+en:noun::custody;custodia;Tras el divorcio, la madre obtuvo la custodia de los niños.
+en:noun::surveillance;vigilancia;El edificio está bajo videovigilancia constante.
+en:noun::liberty;libertad;Por fin les concedieron la libertad a los presos.
+en:noun::dependence;dependencia;Debemos reducir nuestra dependencia del petróleo.
+en:noun::reliance;dependencia;Depender demasiado de un solo proveedor es arriesgado.
+en:noun::stability;estabilidad;El país necesita urgentemente estabilidad política.
+en:noun::chaos;caos;La huelga provocó el caos en las carreteras.
+en:noun::transformation;transformación;La ciudad ha experimentado una transformación completa.
+en:noun::transition;transición, paso;El paso del colegio a la universidad puede ser duro.
+en:noun::pattern;patrón, pauta;Los científicos observaron un patrón en los datos.
+en:noun::variation;variación, diferencia;Hay mucha variación de precios entre tiendas.
+en:noun::distinction;distinción, diferencia;Es importante distinguir entre hechos y opiniones.
+en:noun::similarity;semejanza, parecido, similitud;Hay muchas semejanzas entre los dos idiomas.
+en:noun::contrast;contraste;A diferencia de su hermano, él es muy callado.
+en:noun::extent;medida, alcance, grado;Hasta cierto punto, estoy de acuerdo contigo.
+en:noun::scope;alcance, ámbito;Esta cuestión queda fuera del alcance de nuestro estudio.
+en:noun::intention;intención;No tengo ninguna intención de dejar mi trabajo.
+en:noun::motive;móvil, motivo;La policía sigue buscando un móvil para el crimen.
+en:noun::justification;justificación;No hay justificación para semejante violencia.
+en:noun::reasoning;razonamiento;No acabo de seguir tu razonamiento.
+en:noun::logic;lógica;Su argumento no tiene ninguna lógica.
+en:noun::interpretation;interpretación;El poema admite diferentes interpretaciones.
+en:noun::clarification;aclaración;Necesito alguna aclaración sobre este punto.
+en:noun::illusion;ilusión (falsa creencia), espejismo;Vive con la ilusión de que todo el mundo lo aprecia.
+en:noun::virtue;virtud;Mi abuela siempre decía que la paciencia es una virtud.
+en:noun::ethics;ética;El curso abarca la ética y el derecho médicos.
+en:noun::morality;moralidad, moral;La película plantea preguntas sobre la moralidad.
+en:noun::honour;honor;Es un honor conocerle.
+en:noun::sacrifice;sacrificio;Sus padres hicieron muchos sacrificios por su educación.
+en:noun::fate;destino, suerte;Nadie sabe lo que nos depara el destino.
+en:noun::destiny;destino;Creía que su destino era ser médica.
+en:noun::threat;amenaza;El cambio climático es una grave amenaza para nuestro planeta.
+en:noun::barrier;barrera, obstáculo;El idioma puede ser una barrera para la comunicación.
+en:noun::struggle;lucha;La vida era una lucha constante para la familia.
+en:noun::accomplishment;logro, hazaña;Terminar el maratón fue todo un logro.
+en:noun::essence;esencia, fondo;El fondo del problema es la falta de confianza.
+en:noun::consensus;consenso;Hay un consenso cada vez mayor entre los científicos.
+en:noun::limitation;limitación;Debemos aceptar las limitaciones del sistema antiguo.
+en:noun::capacity;capacidad, aforo;El estadio tiene un aforo de cincuenta mil personas.
+en:noun::existence;existencia;¿Crees en la existencia de los fantasmas?
+en:noun::absence;ausencia;Nadie notó su ausencia en la reunión.
+en:noun::presence;presencia;Se requiere su presencia en la reunión.
+en:noun::consistency;constancia, coherencia;La constancia es la clave para aprender un idioma.
+en:noun::flexibility;flexibilidad;El trabajo ofrece mucha flexibilidad.
+en:noun::complexity;complejidad;La gente a menudo subestima la complejidad de la tarea.
+en:noun::simplicity;sencillez, simplicidad;Me encanta la sencillez de este diseño.
+en:noun::ideology;ideología;El partido cambió de ideología con los años.
+en:noun::guideline;pauta, directriz, norma;Sigue siempre las normas de seguridad en el laboratorio.
+en:noun::exaggeration;exageración;No es ninguna exageración decir que me salvó la vida.
+en:noun::consideration;consideración, reflexión;Tras pensarlo detenidamente, aceptamos la oferta.
+en:noun::recognition;reconocimiento;Por fin recibió reconocimiento por su trabajo.
+en:noun::criterion;criterio;¿Qué criterios utilizas para elegir un colegio?
+en:noun::requirement;requisito, exigencia;Para este puesto se requiere un título universitario.
+en:noun::necessity;necesidad, artículo de primera necesidad;Un coche es una necesidad si vives en el campo.
+en:noun::accountability;rendición de cuentas, responsabilidad;La ciudadanía exige más rendición de cuentas a los políticos.
+en:noun::relevance;pertinencia, relevancia;No veo la pertinencia de esta pregunta.
+en:noun::emphasis;énfasis, hincapié;El colegio pone mucho énfasis en el deporte.
+en:noun::paradox;paradoja;Es una paradoja que los países más ricos sean los que más comida desperdician.
+en:noun::probability;probabilidad;La probabilidad de ganar la lotería es muy baja.
+en:noun::certainty;certeza, seguridad;Puedo decir con certeza que es inocente.
+en:noun::preference;preferencia;¿Prefieres vino tinto o blanco?
+en:noun::alternative;alternativa, opción;No tuvimos más remedio que esperar.
+en:noun::viewpoint;punto de vista;Intenta ver el problema desde mi punto de vista.
+en:noun::scenario;escenario, supuesto;En el peor de los casos, lo perderemos todo.
+en:noun::context;contexto;Tienes que entender la palabra en su contexto.
+en:noun::factor;factor;El precio es un factor importante en nuestra decisión.
+en:noun::impact;impacto, influencia, efecto;Las redes sociales tienen un enorme impacto en los jóvenes.
+en:noun::syllabus;programa (de estudios), temario;El profesor nos dio el temario del trimestre.
+en:noun::tutorial;tutorial, clase práctica;Vi un tutorial en internet sobre cómo arreglarlo.
+en:noun::postgraduate;estudiante de posgrado;Es una estudiante de posgrado que estudia química.
+en:noun::evaluation;evaluación, valoración;La evaluación del proyecto llevará un mes.
+en:noun::enrolment;matrícula, inscripción;La matrícula para el nuevo curso empieza en septiembre.
+en:noun::dormitory;residencia (de estudiantes), dormitorio colectivo;Comparte habitación en la residencia de estudiantes.
+en:noun::competence;competencia, capacidad;Nadie duda de su competencia profesional.
+en:noun::intellect;intelecto, inteligencia;Se la admira por su agudo intelecto.
+en:noun::handout;fotocopia, material (de clase);El profesor dio una fotocopia a cada alumno.
+en:noun::apprentice;aprendiz;Trabaja como aprendiz de un carpintero.
+en:noun::trainee;becario, aprendiz, persona en prácticas;El banco ha contratado a diez nuevos becarios este año.
+en:noun::detention;castigo (quedarse después de clase);Lo castigaron a quedarse después de clase por llegar tarde otra vez.
+en:noun::academic;académico, profesor universitario;Es una académica respetada de Cambridge.
+en:noun::proficiency;dominio, competencia;Necesitas un certificado de dominio del inglés.
+en:noun::learner;estudiante, alumno;Este diccionario está pensado para estudiantes de nivel avanzado.
+en:noun::scholar;erudito, estudioso, académico;Era un respetado estudioso de la historia antigua.
+en:noun::vaccination;vacunación;La vacunación es gratuita para todos los niños.
+en:noun::blister;ampolla;Los zapatos nuevos me hicieron ampollas en los pies.
+en:noun::pharmacist;farmacéutico;Consulte al farmacéutico si tiene alguna pregunta.
+en:noun::paramedic;paramédico, técnico de emergencias sanitarias;Los paramédicos llegaron en menos de diez minutos.
+en:noun::protein;proteína;Los huevos son una buena fuente de proteínas.
+en:noun::calorie;caloría;Esta bebida contiene muchas calorías.
+en:noun::fibre;fibra;La fruta y la verdura son ricas en fibra.
+en:noun::cholesterol;colesterol;Tiene que bajar su nivel de colesterol.
+en:noun::metabolism;metabolismo;El ejercicio regular acelera el metabolismo.
+en:noun::digestion;digestión;El té de jengibre es bueno para la digestión.
+en:noun::appetite;apetito, hambre;Perdió el apetito cuando estuvo enfermo.
+en:noun::exhaustion;agotamiento;El corredor se desplomó de agotamiento.
+en:noun::dehydration;deshidratación;Bebe mucha agua para evitar la deshidratación.
+en:noun::pulse;pulso;La enfermera le tomó el pulso.
+en:noun::organ;órgano;El corazón es un órgano vital.
+en:noun::liver;hígado;Demasiado alcohol puede dañar el hígado.
+en:noun::kidney;riñón;Donó un riñón a su hermano.
+en:noun::skull;cráneo;El casco te protege el cráneo en un accidente.
+en:noun::spine;columna vertebral, espalda;Sentarse mal durante horas puede dañar la columna.
+en:noun::rib;costilla;Se rompió dos costillas en el accidente.
+en:noun::joint;articulación;Nadar es bueno para las personas con dolor en las articulaciones.
+en:noun::tissue;tejido (orgánico);La enfermedad daña el tejido cerebral.
+en:noun::vein;vena;La enfermera me sacó sangre de una vena del brazo.
+en:noun::nerve;nervio;La lesión le dañó un nervio de la mano.
+en:noun::limb;extremidad, miembro;Perdió una extremidad en la guerra.
+en:noun::wrist;muñeca (parte del cuerpo);Se rompió la muñeca esquiando.
+en:noun::ankle;tobillo;Me torcí el tobillo jugando al fútbol.
+en:noun::forehead;frente;Se secó el sudor de la frente.
+en:noun::eyebrow;ceja;Arqueó una ceja sorprendido.
+en:noun::jaw;mandíbula;El boxeador se rompió la mandíbula en la pelea.
+en:noun::waist;cintura;Los pantalones me quedan grandes de cintura.
+en:noun::hip;cadera;Mi abuela se rompió la cadera el invierno pasado.
+en:noun::sweat;sudor;Estaba empapado de sudor después de correr.
+en:noun::midwife;comadrona, matrona, partera;La comadrona ayudó a dar a luz al bebé en casa.
+en:noun::wheelchair;silla de ruedas;Después del accidente tuvo que usar silla de ruedas.
+en:noun::crutch;muleta;Anduvo con muletas durante seis semanas.
+en:noun::epidemic;epidemia;La epidemia de gripe obligó a cerrar muchos colegios.
+en:noun::pandemic;pandemia;La pandemia cambió nuestra forma de trabajar.
+en:noun::physiotherapy;fisioterapia;Tras la operación necesitó meses de fisioterapia.
+en:noun::artery;arteria;La comida grasa puede obstruir las arterias.
+en:noun::hormone;hormona;El estrés afecta al nivel de hormonas del cuerpo.
+en:noun::antibiotic;antibiótico;El médico le recetó antibióticos para la infección.
+en:noun::painkiller;analgésico, calmante;Se tomó un analgésico para el dolor de cabeza.
+en:noun::ointment;pomada, ungüento;Ponte esta pomada en la quemadura dos veces al día.
+en:noun::stitch;punto (de sutura);El corte necesitó cinco puntos.
+en:noun::sprain;esguince;No está roto, solo es un esguince fuerte.
+en:noun::cramp;calambre;Me dio un calambre en la pierna mientras nadaba.
+en:noun::migraine;migraña, jaqueca;Se quedó en la cama con migraña.
+en:noun::nausea;náuseas;Las náuseas son un efecto secundario frecuente de este medicamento.
+en:noun::dizziness;mareo, vértigo;Los síntomas incluyen dolor de cabeza y mareos.
+en:noun::heartbeat;latido (del corazón), latidos;El médico escuchó los latidos del corazón del bebé.
+en:verb::act;actuar;Tenemos que actuar rápido para ayudarles.
+en:verb::advertise;anunciar, hacer publicidad;La empresa anuncia sus productos en la tele.
+en:verb::affect;afectar, influir en;El tiempo puede afectar a tu estado de ánimo.
+en:noun::airline;aerolínea, compañía aérea;¿Con qué aerolínea vuelas?
+en:adj::all right;bien;¿Estás bien? Pareces cansado.
+en:adv::any more;ya no, más;Ya no vivo en Londres.
+en:noun::appearance;aspecto, apariencia;Cambió completamente de aspecto.
+en:noun::architect;arquitecto;El arquitecto diseñó una nueva y preciosa biblioteca.
+en:noun::architecture;arquitectura;Me encanta la arquitectura antigua de esta ciudad.
+en:noun::arrangement;acuerdo, plan, preparativos;Quedamos en vernos a las seis.
+en:noun::assistant;asistente, ayudante;Mi asistente le enviará los documentos.
+en:noun::award;premio, galardón;La película ganó un premio a la mejor música.
+en:noun::background;fondo;Al fondo de la foto hay una montaña.
+en:noun::bar;bar;Quedemos en el bar después del trabajo.
+en:noun::baseball;béisbol;Mi hermano juega al béisbol todos los sábados.
+en:adj::based;basado;La película está basada en una historia real.
+en:num::billion;mil millones;En la Tierra viven unos ocho mil millones de personas.
+en:noun::bit;trozo, poco;¿Me das un trozo de tu pastel?
+en:adj::blank;en blanco, vacío;Escribe tu nombre en el espacio en blanco.
+en:verb::boil;hervir;Hierve el agua antes de hacer el té.
+en:noun::bottom;fondo, parte de abajo;Las llaves están en el fondo de mi bolso.
+en:noun::camp;campamento;Los niños pasaron una semana en un campamento de verano.
+en:verb::chat;charlar, chatear;Charlamos durante horas por teléfono.
+en:noun::cigarette;cigarrillo, cigarro;Dejó de fumar cigarrillos el año pasado.
+en:adj::classical;clásico;Le gusta escuchar música clásica.
+en:noun::clothing;ropa;Esta tienda vende ropa de abrigo para el invierno.
+en:adj::connected;conectado, relacionado;¿Está tu ordenador conectado a internet?
+en:noun::continent;continente;África es un continente muy grande.
+en:adv::correctly;correctamente, bien;¿He escrito bien tu nombre?
+en:noun::credit;crédito;Compramos el coche a crédito.
+en:noun::death;muerte, fallecimiento;Su muerte fue un golpe para todos.
+en:noun::diary;diario, agenda;Escribe en su diario todas las noches.
+en:adv::differently;de otra manera, de forma diferente;Cada persona aprende de forma diferente.
+en:adj::direct;directo;¿Hay algún vuelo directo a Roma?
+en:adj::disabled;discapacitado, con discapacidad;El edificio tiene ascensor para personas con discapacidad.
+en:noun::distance;distancia;¿Cuál es la distancia entre las dos ciudades?
+en:adj::divorced;divorciado;Mis padres están divorciados.
+en:noun::document;documento;Por favor, firme este documento en la parte inferior.
+en:noun::driving;conducción, manejo;Este verano voy a dar clases de conducir.
+en:noun::earth;Tierra, tierra (suelo);La Tierra gira alrededor del Sol.
+en:noun::education;educación, enseñanza;La educación es muy importante para los niños.
+en:adj::electrical;eléctrico;Vendemos electrodomésticos como televisores y frigoríficos.
+en:noun::ending;final, desenlace;La película tiene un final feliz.
+en:noun::error;error;Hay un error en esta frase.
+en:adj::everyday;cotidiano, diario;Los móviles forman parte de nuestra vida cotidiana.
+en:noun::farming;agricultura, ganadería;La agricultura es un trabajo duro.
+en:noun::figure;cifra, número;Escribe el número en cifras, no en letras.
+en:adv::firstly;en primer lugar;En primer lugar, quiero daros las gracias a todos.
+en:noun::flying;volar, viajar en avión;A mi hermana le da miedo volar.
+en:adj::following;siguiente;Nos fuimos a la mañana siguiente.
+en:adv::forward;adelante, hacia delante;Por favor, da un paso adelante.
+en:noun::frog;rana;Una rana verde saltó al estanque.
+en:noun::gap;hueco, espacio en blanco;Rellena los huecos con las palabras correctas.
+en:noun::gas;gas;Cocinamos en una cocina de gas.
+en:noun::god;dios;Los antiguos griegos creían en muchos dioses.
+en:noun::golf;golf;Mi abuelo juega al golf los domingos.
+en:noun::ground;suelo, tierra;La manzana cayó al suelo.
+en:noun::guy;tipo, chico, tío;Es un tipo muy majo.
+en:adv::happily;felizmente, alegremente;Vivían felices en un pequeño pueblo.
+en:noun::heat;calor;No puedo dormir con este calor.
+en:noun::height;altura, estatura;¿Qué altura tiene este edificio?
+en:noun::hero;héroe;El bombero fue un auténtico héroe.
+en:pron::hers;suyo, suya (de ella);Este bolso no es mío. Es suyo.
+en:pron::herself;sí misma, ella misma, se;Se hizo el vestido ella misma.
+en:pron::himself;sí mismo, él mismo, se;Se hizo daño jugando al fútbol.
+en:noun::hockey;hockey;Canadá es famosa por el hockey sobre hielo.
+en:noun::hole;agujero, hoyo;Tengo un agujero en el calcetín.
+en:adj::human;humano;El cuerpo humano necesita agua todos los días.
+en:noun::image;imagen;Las imágenes de la pantalla eran muy nítidas.
+en:prep::including;incluido, incluyendo;El viaje cuesta 500 euros, comidas incluidas.
+en:adj::individual;individual, personalizado;Cada alumno recibe ayuda individual.
+en:noun::instructor;instructor, profesor;Mi profesor de autoescuela es muy paciente.
+en:noun::introduction;introducción;Lee la introducción antes de empezar el libro.
+en:noun::item;artículo, elemento, punto;¿Cuántos artículos hay en la lista?
+en:pron::itself;sí mismo, se (cosa o animal);El gato se está lavando.
+en:noun::jazz;jazz;A mi padre le encanta escuchar jazz.
+en:noun::king;rey;El rey vivía en un castillo enorme.
+en:noun::lady;señora, dama;Una señora mayor me preguntó cómo llegar a un sitio.
+en:noun::learning;aprendizaje;El aprendizaje en línea es popular hoy en día.
+en:adj::least;menos, el menor;Es el que menos dinero tiene de todos nosotros.
+en:adj::less;menos;Deberías comer menos azúcar.
+en:noun::level;nivel;¿Qué nivel de inglés tienes?
+en:noun::listener;oyente;El programa de radio tiene miles de oyentes.
+en:noun::mail;correo, correspondencia;¿Nos ha llegado correo hoy?
+en:adj::major;importante, grave, principal;El tráfico es un problema grave en las grandes ciudades.
+en:noun::manner;modales, manera;Es de mala educación hablar con la boca llena.
+en:verb::marry;casarse con;Quiere casarse con ella el año que viene.
+en:noun::material;material, tela;Esta chaqueta está hecha de un material ligero.
+en:noun::mathematics;matemáticas;Las matemáticas eran mi asignatura favorita en el colegio.
+en:noun::metal;metal;La mesa es de metal y cristal.
+en:noun::middle;centro, medio, mitad;Hay una fuente en el centro de la plaza.
+en:adj::missing;que falta, desaparecido;A este libro le faltan dos páginas.
+en:noun::motorcycle;moto, motocicleta;Va al trabajo en moto.
+en:noun::movement;movimiento;No hagas ningún movimiento brusco.
+en:noun::nature;naturaleza;Me encanta pasear por la naturaleza.
+en:noun::noise;ruido;¿Qué es ese ruido tan raro?
+en:prep::onto;sobre, encima de (con movimiento);El gato se subió de un salto a la mesa.
+en:noun::option;opción;Tenemos dos opciones: quedarnos o irnos.
+en:verb::organize;organizar;Organizó una fiesta por su cumpleaños.
+en:pron::ourselves;nosotros mismos, nos;Construimos la casa nosotros mismos.
+en:noun::pants;pantalones (EE. UU.), calzoncillos (R. U.);Se compró unos pantalones nuevos.
+en:noun::parking;aparcamiento, estacionamiento;Aparcar es gratis los domingos.
+en:adj::particular;concreto, en particular;¿Hay alguna película en concreto que quieras ver?
+en:noun::penny;penique;Cuesta noventa y nueve peniques.
+en:noun::per cent;por ciento;El cincuenta por ciento de los alumnos son chicas.
+en:noun::permission;permiso, autorización;Necesitas permiso para hacer fotos aquí.
+en:noun::pop;pop (música);Escucha música pop todo el día.
+en:noun::possession;pertenencias, bienes;Perdió todas sus pertenencias en el incendio.
+en:noun::power;electricidad, corriente, poder;Después de la tormenta no había electricidad.
+en:noun::profile;perfil;Actualiza tu foto de perfil en la web.
+en:noun::program;programa (informático);Este programa te ayuda a aprender idiomas.
+en:noun::pub;pub, bar;Vamos a cenar al pub.
+en:noun::quantity;cantidad;Compra primero una pequeña cantidad de arroz.
+en:noun::queen;reina;La reina saludó a la multitud con la mano.
+en:noun::rate;tarifa, precio, tasa;El hotel ofrece una tarifa especial para estudiantes.
+en:verb::realize;darse cuenta de;Me di cuenta de que había perdido las llaves.
+en:verb::recognize;reconocer;No te reconocí con el pelo corto.
+en:noun::record;récord, registro;Batió el récord mundial de natación.
+en:noun::recording;grabación;Escucha la grabación y responde a las preguntas.
+en:noun::region;región, zona;Esta región es famosa por su vino.
+en:verb::respond;responder, contestar, reaccionar;No respondió a mi mensaje.
+en:noun::response;respuesta, reacción;Todavía estamos esperando una respuesta.
+en:noun::rock;roca, peña, rock (música);Los niños se subieron a una roca grande.
+en:adv::sadly;lamentablemente, por desgracia, tristemente;Lamentablemente, el concierto se canceló.
+en:noun::schedule;agenda, horario, programa;Tengo una agenda muy apretada esta semana.
+en:noun::season;estación (del año), temporada;El verano es mi estación favorita.
+en:adv::secondly;en segundo lugar;En segundo lugar, necesitamos más dinero.
+en:noun::service;servicio, atención;El servicio en este restaurante es excelente.
+en:pron::several;varios;He estado en París varias veces.
+en:noun::shape;forma;El pastel tiene forma de corazón.
+en:noun::side;lado, cara;Escribe solo por una cara del papel.
+en:noun::site;sitio web, web, lugar;Puedes comprar las entradas en nuestra web.
+en:verb::ski;esquiar;Todos los inviernos esquiamos en la montaña.
+en:noun::smartphone;smartphone, teléfono inteligente;Hoy en día casi todo el mundo tiene un smartphone.
+en:noun::smoking;tabaco, fumar;Está prohibido fumar en el edificio.
+en:noun::soccer;fútbol;En Estados Unidos, al fútbol lo llaman soccer.
+en:noun::sort;tipo, clase;¿Qué tipo de música te gusta?
+en:noun::speaker;hablante, orador, altavoz;Es hablante nativo de español.
+en:adj::specific;concreto, específico;¿Puedes darme un ejemplo concreto?
+en:noun::speed;velocidad;El tren circula a gran velocidad.
+en:noun::spider;araña;¡Hay una araña enorme en la bañera!
+en:noun::stair;escalera, escalón;Subió corriendo las escaleras hasta su habitación.
+en:noun::stamp;sello, estampilla;Necesito un sello para esta carta.
+en:noun::strategy;estrategia;Necesitamos una nueva estrategia para ganar.
+en:noun::structure;estructura;La estructura de la redacción es muy clara.
+en:adj::such;tan, tal;Hacía un día tan bonito.
+en:noun::system;sistema;El colegio tiene un nuevo sistema informático.
+en:noun::teaching;enseñanza, docencia;Quiere dedicarse a la enseñanza.
+en:noun::technology;tecnología;La tecnología moderna nos facilita la vida.
+en:adj::teenage;adolescente;Tienen dos hijos adolescentes.
+en:pron::themselves;ellos mismos, se;Los niños prepararon la cena ellos mismos.
+en:noun::thinking;pensamiento, razonamiento;Este trabajo requiere un razonamiento claro.
+en:conj::though;aunque;Aunque hacía frío, fuimos a nadar.
+en:noun::throat;garganta;Hoy me duele la garganta.
+en:noun::tool;herramienta;Para este trabajo necesitas las herramientas adecuadas.
+en:noun::top;cima, parte de arriba;Subimos a la cima de la colina.
+en:noun::tower;torre;Desde la torre se ve toda la ciudad.
+en:noun::track;sendero, camino, pista;Seguimos un sendero estrecho a través del bosque.
+en:noun::trainer;zapatilla de deporte, entrenador;Necesito zapatillas nuevas para correr.
+en:noun::trouble;problemas, líos;Siempre se mete en líos en el colegio.
+en:noun::truck;camión;Un camión grande bloqueaba la carretera.
+en:noun::understanding;comprensión, conocimiento;Comprende bien el problema.
+en:noun::unit;unidad, tema (de un libro de texto);Por favor, abrid los libros por la unidad cinco.
+en:adj::usual;habitual, de siempre;Quedemos en el sitio de siempre.
+en:noun::van;furgoneta;Trasladaron los muebles en una furgoneta pequeña.
+en:noun::variety;variedad;La tienda vende una gran variedad de quesos.
+en:noun::voice;voz;Tiene una voz preciosa.
+en:noun::web;internet, red;Encontré la receta en internet.
+en:noun::weight;peso;¿Cuánto pesas?
+en:pron::whose;de quién;¿De quién es este móvil?
+en:noun::wood;madera, bosque;La silla es de madera.
+en:adj::worse;peor;El tiempo está peor que ayer.
+en:adj::worst;peor, el peor;Ese fue el peor día de mi vida.
+en:noun::yard;patio, jardín;Los niños están jugando en el patio.
+en:verb::come on;vamos, venga, date prisa;¡Venga, que vamos a llegar tarde!
+en:verb::bake;hornear, hacer (pan o pasteles);Mi madre hace pan todos los fines de semana.
+en:noun::captain;capitán;El capitán del equipo marcó dos goles.
+en:interj::congratulations;enhorabuena, felicidades;¡Enhorabuena por tu nuevo trabajo!
+en:noun::countryside;campo;Pasamos el fin de semana en el campo.
+en:noun::dinosaur;dinosaurio;El museo tiene un enorme esqueleto de dinosaurio.
+en:noun::file;archivo, fichero;Guarda el archivo antes de cerrarlo.
+en:noun::footballer;futbolista;Quiere ser futbolista profesional.
+en:noun::ghost;fantasma;¿Crees en los fantasmas?
+en:noun::horror;terror, horror;Nunca veo películas de terror por la noche.
+en:noun::magic;magia;Los niños disfrutaron del espectáculo de magia.
+en:noun::stuff;cosas;Pon tus cosas en tu habitación, por favor.
+en:noun::cotton;algodón;Esta camisa es de algodón.
+en:noun::ad;anuncio;Vi un anuncio de un piso barato.
+en:verb::apologize;disculparse, pedir perdón;Se disculpó por llegar tarde.
+en:noun::beauty;belleza;Admiramos la belleza de las montañas.
+en:noun::block;bloque (de pisos), manzana;Vive en un bloque de pisos cerca del parque.
+en:noun::chapter;capítulo;Acabo de terminar el primer capítulo.
+en:verb::click;hacer clic, pulsar;Haz clic en el enlace para abrir la página.
+en:noun::enemy;enemigo;Los perros y los gatos no siempre son enemigos.
+en:noun::gram;gramo;Añade 200 gramos de azúcar.
+en:noun::ingredient;ingrediente;Mezcla todos los ingredientes en un bol.
+en:verb::mix;mezclar;Mezcla la harina con la leche.
+en:noun::rugby;rugby;El rugby es muy popular en Nueva Zelanda.
+en:noun::leather;cuero, piel;Se compró una chaqueta de cuero negra.
+en:noun::shell;concha, caracola;Los niños recogieron conchas en la playa.
