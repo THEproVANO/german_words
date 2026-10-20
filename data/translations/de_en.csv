@@ -6141,3 +6141,603 @@ BIZ:de:noun:das:Unternehmen;company, enterprise, business;The company employs ov
 BIZ:de:noun:der:Betrieb;business, plant, company;Our plant operates in shifts.
 BIZ:de:noun:der:Konzern;group, corporation, conglomerate;The group has subsidiaries in twelve countries.
 BIZ:de:noun:die:Gesellschaft;company, corporation;The company was founded in 1998.
+de:verb::verpatzen;botch, mess up, blow;He botched the performance.
+de:verb::wegstecken;take (in stride), get over, cope with;A defeat like that takes some getting over.
+de:adj::aufbrausend;hot-tempered, quick-tempered, irascible;He has a quick temper.
+de:adj::aufgeweckt;bright, smart, alert;That is a very bright child.
+de:adj::beherrscht;composed, self-controlled, restrained;She remained calm and composed.
+de:adj::besserwisserisch;know-it-all, smart-alecky;His know-it-all tone gets on my nerves.
+de:adj::bodenständig;down-to-earth, grounded;She is a very down-to-earth woman.
+de:adj::borniert;narrow-minded, bigoted, small-minded;What a narrow-minded opinion!
+de:adj::dickköpfig;stubborn, pig-headed, obstinate;He is pretty stubborn.
+de:adj::durchtrieben;cunning, crafty, sly;He is a crafty businessman.
+de:adj::einfühlsam;empathetic, sensitive, understanding;She is a very empathetic doctor.
+de:adj::eingeschüchtert;intimidated, cowed;The child seemed intimidated.
+de:adj::engstirnig;narrow-minded, blinkered;Don't be so narrow-minded!
+de:adj::feinfühlig;sensitive, tactful, perceptive;He reacted very sensitively.
+de:adj::gewieft;shrewd, savvy, canny;She is a shrewd negotiator.
+de:adj::gleichmütig;calm, unperturbed, equanimous;He took the news calmly.
+de:adj::großspurig;boastful, swaggering, pompous;He carries himself with a lot of swagger.
+de:adj::gutgläubig;trusting, credulous, naive;She is far too trusting.
+de:adj::habgierig;greedy, avaricious, grasping;The greedy landlord keeps raising the rent.
+de:adj::hinterhältig;underhanded, sneaky, insidious;That was an underhanded attack.
+de:adj::kaltschnäuzig;callous, cold-blooded, brazen;He reacted completely callously.
+de:adj::kleinkariert;petty, small-minded, narrow-minded;That's too petty for me.
+de:adj::leichtgläubig;gullible, credulous;He is very gullible.
+de:adj::nachtragend;unforgiving, resentful, grudge-bearing;She doesn't hold grudges at all.
+de:adj::rechtschaffen;upright, honest, righteous;He is an upright man.
+de:adj::reizbar;irritable, touchy, edgy;He is always irritable before exams.
+de:adj::scharfsinnig;astute, perceptive, sharp;She is an astute observer.
+de:adj::schroff;curt, brusque, gruff;His answer was rather curt.
+de:adj::selbstgefällig;smug, complacent, self-satisfied;He smiled smugly.
+de:adj::souverän;confident, assured, masterful;She handled the situation with confidence.
+de:adj::spießig;stuffy, petty bourgeois, square;He thinks his neighbors are stuffy.
+de:adj::taktlos;tactless, insensitive;That was a tactless remark.
+de:adj::umgänglich;easygoing, sociable, affable;He is a very easygoing person.
+de:adj::unbeirrt;undeterred, unwavering, steadfast;She pursued her goal undeterred.
+de:adj::unbeschwert;carefree, lighthearted;She had a carefree childhood.
+de:adj::ungehobelt;uncouth, boorish, rude;His manners are pretty uncouth.
+de:adj::unnahbar;aloof, unapproachable, distant;She seems cool and aloof.
+de:adj::verschlossen;reserved, withdrawn, introverted;He is a rather reserved person.
+de:adj::weltfremd;unrealistic, out of touch, naive;His ideas are completely unrealistic.
+de:adj::wortkarg;taciturn, laconic, of few words;Her father is a man of very few words.
+de:adj::zuvorkommend;courteous, obliging, attentive;The staff were very courteous.
+de:adj::zwanghaft;compulsive, obsessive;He has a compulsive need for order.
+de:adj::abgedroschen;trite, hackneyed, clichéd;That's a hackneyed phrase.
+de:adj::anrüchig;disreputable, shady, unsavory;The bar has a disreputable reputation.
+de:adj::aufschlussreich;revealing, informative, enlightening;The conversation was very revealing.
+de:adj::ausufernd;excessive, out of control, sprawling;The bureaucracy is out of control.
+de:adj::belastend;stressful, burdensome, draining;The situation is very stressful.
+de:adj::bestechend;compelling, captivating, striking;The idea is strikingly simple.
+de:adj::dubios;dubious, shady, questionable;That is a dubious offer.
+de:adj::erbärmlich;wretched, miserable, pitiful;The accommodation was in a wretched state.
+de:adj::erdrückend;overwhelming, crushing;The evidence is overwhelming.
+de:adj::erhebend;uplifting, elevating, exhilarating;That was an uplifting feeling.
+de:adj::glimpflich;without serious harm, lightly, mild;The accident ended without serious consequences.
+de:adj::grotesk;grotesque, absurd;The situation was downright grotesque.
+de:adj::haarsträubend;hair-raising, appalling, outrageous;Conditions are appalling.
+de:adj::hanebüchen;outrageous, preposterous, absurd;That's utterly preposterous nonsense!
+de:adj::heillos;utter, hopeless, total;There was utter chaos.
+de:adj::horrend;horrendous, exorbitant;The prices are exorbitant.
+de:adj::lapidar;terse, curt, succinct;"He answered tersely: ""No."""
+de:adj::lästig;annoying, irritating, bothersome;These flies are really annoying.
+de:adj::makellos;flawless, impeccable, immaculate;She speaks flawless German.
+de:adj::mäßig;mediocre, middling, so-so;The food was only mediocre.
+de:adj::miserabel;miserable, lousy, dreadful;The weather was lousy.
+de:adj::nichtssagend;meaningless, vacuous, noncommittal;He gave a vacuous answer.
+de:adj::ominös;mysterious, ominous, dubious;Who is this mysterious Mr. X?
+de:adj::prächtig;magnificent, splendid, gorgeous;The castle is magnificent.
+de:adj::schäbig;shabby, mean, shameful;That was shabby behavior.
+de:adj::skurril;quirky, bizarre, offbeat;He has a quirky sense of humor.
+de:adj::stümperhaft;bungled, amateurish, botched;The repair was amateurish.
+de:adj::trügerisch;deceptive, misleading, illusory;The calm is deceptive.
+de:adj::unsäglich;dreadful, unspeakable, appalling;That was a dreadful discussion.
+de:adj::unverblümt;blunt, frank, outspoken;She said bluntly what she thought.
+de:adj::verfänglich;tricky, awkward, compromising;That's a tricky question.
+de:adj::vorbildlich;exemplary, model;His behavior was exemplary.
+de:adj::wohlwollend;favorable, benevolent, sympathetic;The proposal was received favorably.
+de:adj::zwielichtig;shady, dubious, disreputable;He has shady friends.
+de:adj::bündig;concise, succinct, to the point;He answered short and to the point.
+de:adj::erschwinglich;affordable, reasonably priced;The apartments are hardly affordable anymore.
+de:adj::etabliert;established, well-established;That is an established method.
+de:adj::flächendeckend;comprehensive, nationwide, across the board;Internet access is not yet available everywhere.
+de:adj::hochkarätig;high-caliber, top-class, prominent;Many high-profile guests came.
+de:adj::kostendeckend;cost-covering, break-even;The price doesn't cover costs.
+de:adj::marode;dilapidated, crumbling, run-down;The bridge is completely dilapidated.
+de:adj::rentabel;profitable, viable, cost-effective;The business is no longer profitable.
+de:adj::richtungsweisend;groundbreaking, trendsetting, landmark;The ruling is a landmark decision.
+de:adj::sachdienlich;relevant, pertinent, useful;The police are asking for any relevant information.
+de:adj::stichprobenartig;random, spot-check;Bags are checked at random.
+de:adj::unbürokratisch;unbureaucratic, without red tape;Help came quickly and without red tape.
+de:adj::zweckmäßig;functional, practical, expedient;The furnishings are simple but functional.
+de:noun:der:Ansturm;rush, onslaught, run (on);There was a big rush for tickets on the first day.
+de:noun:die:Anlaufstelle;point of contact, first port of call, contact point;The citizens' office is the first port of call.
+de:noun:der:Ausnahmezustand;state of emergency;The government declared a state of emergency.
+de:noun:der:Ballungsraum;conurbation, metropolitan area, urban area;Rents are high in the metropolitan area.
+de:noun:die:Bausubstanz;building fabric, structure (of a building);The building's structure is still in good condition.
+de:noun:die:Bebauung;development, buildings, construction;The dense development bothers many residents.
+de:noun:das:Brachland;wasteland, fallow land, brownfield;The wasteland was turned into a park.
+de:noun:die:Gentrifizierung;gentrification;Gentrification is pushing out longtime residents.
+de:noun:das:Gemeinwesen;community, commonwealth, polity;Everyone should contribute to the community.
+de:noun:das:Gemeinwohl;common good, public good, public welfare;That serves the common good.
+de:noun:die:Kommune;municipality, local authority;The municipalities have no money.
+de:noun:der:Leerstand;vacancy, empty properties, vacant premises;There are a lot of vacant properties in the city center.
+de:noun:der:Nahverkehr;local public transport, public transit, commuter transport;Local public transport is to be expanded.
+de:noun:der:Pendelverkehr;commuter traffic, commuting;Commuter traffic puts a strain on the roads.
+de:noun:die:Stadtplanung;urban planning, city planning, town planning;Urban planning needs to become more sustainable.
+de:noun:die:Verkehrsanbindung;transport links, transport connections;The apartment has good transport links.
+de:noun:die:Zersiedelung;urban sprawl, overdevelopment;The urban sprawl across the countryside continues to spread.
+de:noun:die:Abhängigkeitserkrankung;addiction, substance use disorder;Addictions need to be treated.
+de:noun:die:Entzündung;inflammation, infection;He has an inflammation in his knee.
+de:noun:die:Genesung;recovery, convalescence;We wish you a speedy recovery!
+de:noun:die:Heilungschance;chance of recovery, chance of a cure, prognosis;The chances of recovery are good.
+de:noun:die:Kur;health cure, spa treatment, rehabilitation stay;She is going to the Baltic coast for a health cure.
+de:noun:die:Linderung;relief, alleviation;The medication provides relief.
+de:noun:die:Prävention;prevention;Prevention is cheaper than treatment.
+de:noun:der:Rückfall;relapse;He had a relapse after a year.
+de:noun:das:Symptom;symptom;Fever is a typical symptom.
+de:noun:die:Unverträglichkeit;intolerance;She is lactose intolerant.
+de:noun:der:Verschleiß;wear and tear, wear, deterioration;The joint shows signs of wear and tear.
+de:noun:das:Auftreten;manner, demeanor, presence;His self-assured manner impressed everyone.
+de:noun:das:Benehmen;behavior, manners, conduct;His behavior was outrageous.
+de:noun:der:Charme;charm;He has a lot of charm.
+de:noun:die:Gestik;gestures, gesticulation;His gestures are very animated.
+de:noun:die:Mimik;facial expressions;You could tell from her facial expression that she was angry.
+de:noun:die:Körpersprache;body language;Body language reveals a lot.
+de:noun:die:Umgangsform;manners, etiquette;He has good manners.
+de:noun:der:Anstand;decency, propriety, good manners;It's a question of decency.
+de:noun:der:Ausrutscher;slip, lapse, blunder;That was just a one-off slip.
+de:noun:der:Fauxpas;faux pas, gaffe;He committed an embarrassing faux pas.
+de:noun:das:Fettnäpfchen;faux pas, gaffe, (put one's foot in it);He puts his foot in it every time.
+de:noun:die:Floskel;empty phrase, platitude, cliché;Those are just empty phrases.
+de:noun:die:Höflichkeitsfloskel;polite phrase, pleasantry, formality;How are you? is often just a pleasantry.
+de:noun:der:Smalltalk;small talk;I'm not good at small talk.
+de:noun:die:Anspielung;allusion, insinuation, hint;I don't get your allusion.
+de:noun:die:Andeutung;hint, intimation, suggestion;He dropped a vague hint.
+de:noun:die:Ausflucht;excuse, pretext, evasion;No excuses!
+de:noun:die:Beteuerung;assurance, protestation, declaration;Despite all his protestations, nobody believed him.
+de:noun:die:Bloßstellung;exposure, public humiliation, unmasking;Being exposed in public was humiliating.
+de:noun:die:Einwilligung;consent, approval;We need your written consent for that.
+de:noun:die:Ermahnung;warning, admonition, reprimand;Despite all the warnings, he was late.
+de:noun:das:Gerede;gossip, talk, idle chatter;Don't pay any attention to what people say.
+de:noun:der:Klatsch;gossip;Gossip spreads quickly in the village.
+de:noun:die:Lästerei;gossip, backbiting, bitching;The constant backbiting in the office is annoying.
+de:noun:die:Schmeichelei;flattery;Flattery will get you nowhere.
+de:noun:die:Unterstellung;insinuation, allegation, imputation;That is a malicious insinuation!
+de:noun:die:Verleumdung;slander, defamation, libel;He is suing for defamation.
+de:noun:die:Zurechtweisung;rebuke, reprimand, reproof;He accepted the rebuke in silence.
+de:noun:das:Anwesen;estate, property;They live on a large estate.
+de:noun:die:Behausung;dwelling, abode, shelter;The dwelling was very basic.
+de:noun:die:Bleibe;place to stay, lodging, roof over one's head;He's looking for a place to stay for the night.
+de:noun:das:Domizil;residence, home, abode;His new residence is by the lake.
+de:noun:das:Gerümpel;junk, clutter, lumber;The basement is full of junk.
+de:noun:das:Inventar;fixtures and fittings, furnishings, inventory;The fixtures and fittings come with the apartment.
+de:noun:der:Krimskrams;odds and ends, knick-knacks, stuff;There are lots of odds and ends in the drawer.
+de:noun:der:Nachlass;estate, inheritance, legacy;She is handling her father's estate.
+de:noun:die:Wohnlage;residential area, location, neighborhood;The house is in a good residential area.
+de:noun:die:Abreise;departure;It rained on the day of departure.
+de:noun:der:Abstecher;detour, side trip, excursion;We made a side trip to Prague.
+de:noun:die:Anreise;journey (there), arrival, travel to;The journey there is by train.
+de:noun:die:Fernreise;long-haul trip, long-distance travel;She dreams of a long-haul trip to Asia.
+de:noun:das:Reisefieber;pre-travel jitters, travel nerves;I get pre-travel jitters before every vacation.
+de:noun:die:Stippvisite;flying visit, quick visit, brief stop;He only dropped by for a flying visit.
+de:noun:die:Wanderlust;wanderlust, urge to travel;In spring I'm gripped by wanderlust.
+de:noun:der:Zwischenstopp;stopover, layover;We have a stopover in Dubai.
+de:noun:die:Anmaßung;presumption, arrogance, impertinence;That is incredibly presumptuous!
+de:noun:die:Anbiederung;ingratiation, sucking up, currying favor;The way he sucks up to the boss is embarrassing.
+de:noun:die:Arglist;malice, fraud, deceit;The contract was obtained by fraud.
+de:noun:die:Arroganz;arrogance;His arrogance puts a lot of people off.
+de:noun:die:Aufrichtigkeit;sincerity, honesty;There is no doubt about his sincerity.
+de:noun:die:Behäbigkeit;sluggishness, ponderousness, slowness;The sluggishness of the administration is well known.
+de:noun:die:Beklommenheit;apprehension, uneasiness, anxiety;He entered the room with apprehension.
+de:noun:die:Bigotterie;bigotry, hypocrisy, sanctimoniousness;The novel criticizes society's hypocrisy.
+de:noun:die:Borniertheit;narrow-mindedness, small-mindedness;Her narrow-mindedness is hard to bear.
+de:noun:die:Dreistigkeit;audacity, impudence, nerve;That's the height of audacity!
+de:noun:die:Duldsamkeit;forbearance, tolerance, patience;She endured his behavior with great forbearance.
+de:noun:die:Eigenbrötelei;reclusiveness, solitariness, eccentricity;His reclusiveness makes him lonely.
+de:noun:die:Engstirnigkeit;narrow-mindedness;Narrow-mindedness hinders progress.
+de:noun:die:Erhabenheit;majesty, grandeur, sublimity;The majesty of the mountains impressed him.
+de:noun:die:Feigheit;cowardice;That was sheer cowardice.
+de:noun:die:Gefallsucht;need to please, craving for approval, vanity;Her craving for approval is obvious.
+de:noun:die:Gehässigkeit;spite, malice, spitefulness;His spite knows no bounds.
+de:noun:die:Gutgläubigkeit;credulity, trustfulness, naivety;He took advantage of her trustfulness.
+de:noun:der:Hochmut;pride, arrogance, haughtiness;Pride comes before a fall.
+de:noun:die:Inbrunst;fervor, ardor, passion;She sang with great fervor.
+de:noun:die:Kaltschnäuzigkeit;callousness, brazenness, cold-bloodedness;He went on lying with frightening brazenness.
+de:noun:die:Kleinmütigkeit;faintheartedness, timidity, lack of courage;His faintheartedness surprised everyone.
+de:noun:die:Langmut;forbearance, patience, long-suffering;Her forbearance is admirable.
+de:noun:die:Larmoyanz;self-pity, mawkishness, sentimentality;The film's self-pity bothered me.
+de:noun:die:Niedertracht;malice, vileness, baseness;That was an act of pure malice.
+de:noun:die:Prahlerei;boasting, bragging, showing off;His constant bragging gets on my nerves.
+de:noun:die:Rechthaberei;dogmatism, insistence on being right, self-righteousness;His insistence on always being right makes any discussion impossible.
+de:noun:die:Redlichkeit;honesty, integrity, probity;No one doubts his integrity.
+de:noun:die:Selbstgefälligkeit;smugness, complacency, self-satisfaction;His smugness is unbearable.
+de:noun:die:Sanftmut;gentleness, meekness, mildness;She treated him with gentleness.
+de:noun:die:Spitzfindigkeit;hairsplitting, quibble, technicality;Those are legal technicalities.
+de:noun:der:Starrsinn;obstinacy, stubbornness, pigheadedness;His obstinacy has done him harm.
+de:noun:die:Tücke;pitfall, quirk, snag;Technology has its quirks.
+de:noun:der:Übermut;high spirits, exuberance, recklessness;In a fit of high spirits he jumped into the cold water.
+de:noun:die:Unbekümmertheit;lightheartedness, carefreeness, nonchalance;She ran off with childlike nonchalance.
+de:noun:die:Unverfrorenheit;audacity, impudence, effrontery;The audacity with which he lies!
+de:noun:die:Verbohrtheit;stubbornness, pigheadedness, obstinacy;His pigheadedness is alarming.
+de:noun:die:Verlogenheit;mendacity, dishonesty, hypocrisy;The dishonesty of politics disappoints many people.
+de:noun:die:Wankelmütigkeit;fickleness, indecisiveness, vacillation;Her fickleness makes planning difficult.
+de:noun:die:Weltgewandtheit;worldliness, sophistication, savoir-faire;He impressed people with his sophistication.
+de:noun:die:Zaghaftigkeit;timidity, hesitancy, tentativeness;His timidity cost him the opportunity.
+de:noun:die:Zügellosigkeit;unruliness, lack of restraint, debauchery;The wildness of the party shocked the neighbors.
+de:noun:der:Argwohn;suspicion, mistrust, distrust;She regarded him with suspicion.
+de:noun:die:Beflissenheit;eagerness, zeal, assiduousness;He completed all the tasks with great zeal.
+de:noun:der:Groll;resentment, grudge, rancor;He bears her no grudge.
+de:noun:die:Missstimmung;bad atmosphere, discord, ill feeling;There was a bad atmosphere in the team.
+de:noun:die:Rührung;emotion, being moved, tenderness;She was moved to tears.
+de:noun:der:Überschwang;exuberance, effusiveness, excess (of emotion);In an outburst of emotion he hugged everyone.
+de:noun:die:Verdrossenheit;disaffection, disillusionment, discontent;Disaffection with politics is growing.
+de:noun:die:Verzagtheit;despondency, discouragement, dejection;After the defeat, despondency set in.
+de:noun:die:Wollust;lust, sensuality, voluptuousness;The novel describes lust and desire.
+de:noun:die:Abgeschiedenheit;seclusion, isolation, remoteness;He enjoys the seclusion of the village.
+de:noun:die:Behaglichkeit;coziness, comfort, snugness;The coziness of the room invited one to linger.
+de:noun:die:Beschaulichkeit;tranquility, peacefulness, contemplativeness;The village has an air of tranquility.
+de:noun:die:Betriebsamkeit;bustle, hustle and bustle, activity;The city is a hive of activity.
+de:noun:die:Einöde;wilderness, wasteland, middle of nowhere;He lives in the middle of nowhere.
+de:noun:die:Idylle;idyll, idyllic place;The village is a true idyll.
+de:noun:die:Kargheit;barrenness, austerity, starkness;The barrenness of the landscape has its own charm.
+de:noun:die:Pracht;splendor, magnificence, glory;The castle shines in all its splendor.
+de:noun:die:Trostlosigkeit;bleakness, dreariness, desolation;The bleakness of the suburb depresses him.
+de:noun:die:Vergänglichkeit;transience, impermanence, transitoriness;The poem is about the transience of life.
+de:noun:die:Wildnis;wilderness, wild;They spent two weeks in the wilderness.
+de:noun:die:Abschweifung;digression, tangent;Excuse the little digression.
+de:noun:die:Allegorie;allegory;The story is an allegory of power.
+de:noun:die:Anekdote;anecdote;He told a funny anecdote.
+de:noun:der:Aphorismus;aphorism, maxim;He collects aphorisms.
+de:noun:der:Duktus;style, tone, manner (of writing);The style of the text is very matter-of-fact.
+de:noun:der:Euphemismus;euphemism;Release is a euphemism for dismissal.
+de:noun:die:Floskelhaftigkeit;reliance on empty phrases, clichéd quality, triteness;Everyone noticed how clichéd the speech was.
+de:noun:die:Ironie;irony;That was meant ironically.
+de:noun:die:Metapher;metaphor;The poet uses a lot of metaphors.
+de:noun:das:Paradoxon;paradox;That's a real paradox.
+de:noun:das:Pathos;pathos, emotionalism, grandiloquence;He spoke with great pathos.
+de:noun:die:Polemik;polemic, polemics;The article is pure polemic.
+de:noun:die:Rhetorik;rhetoric;His rhetoric is impressive.
+de:noun:der:Sarkasmus;sarcasm;Her sarcasm is hurtful.
+de:noun:die:Stilblüte;howler, unintentionally funny phrasing, malapropism;The essay contains a few howlers.
+de:noun:der:Subtext;subtext;The subtext of the conversation was clear.
+de:noun:die:Wortklauberei;hairsplitting, quibbling, nitpicking;That's just hairsplitting!
+de:noun:das:Wortspiel;pun, wordplay, play on words;The title is a play on words.
+de:verb::anbiedern;ingratiate oneself, suck up, curry favor;He sucks up to the boss.
+de:verb::anfeinden;be hostile to, attack, antagonize;She is attacked for her opinions.
+de:verb::anhimmeln;idolize, adore, worship;The fans idolize the singer.
+de:verb::aufbauschen;blow out of proportion, exaggerate, sensationalize;The press blew the story out of proportion.
+de:verb::aufwiegeln;incite, stir up, rouse;He stirred up the crowd.
+de:verb::ausbaden;pay for, take the consequences, face the music;Now you'll have to face the consequences yourself.
+de:verb::ausmerzen;eradicate, eliminate, root out;All the errors were eliminated.
+de:verb::aussöhnen;reconcile, make up;He has reconciled with his father.
+de:verb::bändigen;control, restrain, tame;He could barely contain his anger.
+de:verb::beargwöhnen;be suspicious of, eye with suspicion, distrust;The neighbors are suspicious of the stranger.
+de:verb::bedrängen;press, harass, crowd;The journalists pressed the politician hard.
+de:verb::beflügeln;inspire, spur on, give wings to;Success has spurred him on.
+de:verb::begnadigen;pardon, grant clemency;The president pardoned the prisoner.
+de:verb::behelligen;bother, trouble, pester;I don't want to bother you any further.
+de:verb::beirren;put off, confuse, deter;Don't let anyone put you off!
+de:verb::bekunden;express, show, declare;Many have expressed their interest.
+de:verb::belächeln;smile at (condescendingly), scoff at, laugh off;His ideas were scoffed at at first.
+de:verb::beschwören;implore, beg, beseech;He implored her not to go.
+de:verb::besänftigen;soothe, calm, placate;She calmed him down with a smile.
+de:verb::bezichtigen;accuse, charge;He was accused of fraud.
+de:verb::brandmarken;brand, stigmatize, denounce;He was branded a traitor.
+de:verb::darben;starve, go hungry, suffer want;Many people had to go hungry during the war.
+de:verb::demütigen;humiliate, humble;He was humiliated in front of everyone.
+de:verb::ducken;duck, crouch;He ducked to avoid the ball.
+de:verb::echauffieren;get worked up, get upset, get heated;Why are you getting so worked up?
+de:verb::entbehren;lack, be without, be devoid of;This claim is completely without foundation.
+de:verb::entsagen;renounce, give up, forgo;He has renounced all luxury.
+de:verb::entzweien;divide, split, set at odds;The dispute over the inheritance has divided the family.
+de:verb::erbosen;anger, infuriate, incense;His answer infuriated me.
+de:verb::ergötzen;delight, gloat (sich ergötzen an), revel in;He gloats over their misfortune.
+de:verb::erheischen;demand, call for, require;The situation calls for swift action.
+de:verb::ermannen;pluck up courage, steel oneself, pull oneself together;He plucked up his courage and spoke to her.
+de:verb::erschleichen;obtain by deception, worm one's way into, wangle;He wormed his way into their confidence.
+de:verb::ersinnen;devise, think up, concoct;She devised a clever plan.
+de:verb::feilschen;haggle, bargain;People haggle at the market.
+de:verb::frohlocken;rejoice, exult, gloat;The opposition is gloating over the defeat.
+de:verb::geißeln;castigate, condemn, denounce;The author castigates the abuses.
+de:verb::gieren;crave, lust after, hunger for;He craves recognition.
+de:verb::hätscheln;pamper, cuddle, coddle;She pampers her dog like a child.
+de:verb::hegen;harbor, cherish, entertain;He has high hopes.
+de:verb::heucheln;feign, fake, pretend;She is feigning interest.
+de:verb::huldigen;pay homage to, pay tribute to;The crowd paid homage to the king.
+de:verb::kokettieren;flirt, play up, make coy references to;He likes to play up his age.
+de:verb::kuschen;knuckle under, cave in, cower;He always knuckles under to the boss.
+de:verb::lavieren;maneuver, steer a middle course, hedge;The politician is maneuvering between positions.
+de:verb::lechzen;crave, thirst for, long for;The land is crying out for rain.
+de:verb::liebäugeln;toy with the idea of, flirt with, have one's eye on;He's toying with the idea of a new car.
+de:verb::lobpreisen;praise, extol, laud;Critics are extolling the film.
+de:verb::maßregeln;reprimand, discipline, rebuke;The official was disciplined.
+de:verb::mokieren;make fun of, mock, sneer at;She makes fun of his dress sense.
+de:verb::pochen;insist (on), knock, throb;He insists on his rights.
+de:verb::prassen;live it up, splurge, feast lavishly;They live in luxury while others go hungry.
+de:verb::sich räuspern;clear one's throat;He cleared his throat and began to speak.
+de:verb::schikanieren;harass, bully, torment;The boss bullies his staff.
+de:verb::schmähen;revile, vilify, disparage;He was publicly vilified.
+de:verb::schmollen;sulk, pout;She has been sulking all day.
+de:verb::schwadronieren;pontificate, blather, sound off;He pontificates about politics.
+de:verb::sinnieren;ponder, muse, brood;He sat by the window, musing.
+de:verb::sticheln;make digs, needle, take jabs at;She's constantly making digs at her sister.
+de:verb::strotzen;be full of, teem with, brim with;The text is riddled with errors.
+de:verb::taxieren;size up, appraise, eye up;He sized up the new guy from head to toe.
+de:verb::trachten;strive for, seek, aspire to;He strives for power.
+de:verb::übervorteilen;cheat, swindle, take advantage of;He was cheated when he made the purchase.
+de:verb::verballhornen;mangle, parody, garble (a name or word);He likes to mangle people's names.
+de:verb::verdonnern;sentence, condemn, order (colloquial);He was slapped with a fine.
+de:verb::verhätscheln;pamper, spoil, mollycoddle;The grandparents spoil the grandchildren.
+de:verb::verunglimpfen;denigrate, vilify, disparage;He was vilified in the media.
+de:verb::vereiteln;thwart, foil, prevent;The police foiled the attack.
+de:verb::verfemen;ostracize, outlaw, ban;The artist was ostracized during his lifetime.
+de:verb::verprellen;alienate, put off, antagonize;With this policy the party is alienating its voters.
+de:verb::verwünschen;curse, damn;He cursed the day he met her.
+de:verb::wettern;rail (against), rant, fulminate;He rails against the government.
+de:verb::zaudern;hesitate, dither, vacillate;He hesitated too long.
+de:verb::zetern;shriek, nag, kick up a fuss;The neighbor is kicking up a fuss about the noise.
+de:verb::züchtigen;beat, flog, punish physically;In the past, children were often beaten.
+de:adj::abfällig;disparaging, derogatory, dismissive;He made disparaging remarks about his colleagues.
+de:adj::abgebrüht;hardened, hard-boiled, unflappable;He is a hardened professional.
+de:adj::abstrus;abstruse, bizarre, absurd;That's an absurd theory.
+de:adj::adäquat;adequate, appropriate, suitable;We are looking for an appropriate solution.
+de:adj::affektiert;affected, mannered, pretentious;She speaks in a very affected way.
+de:adj::akkurat;meticulous, precise, accurate;He works very meticulously.
+de:adj::apathisch;apathetic, listless;After the news he seemed listless.
+de:adj::arglos;innocent, guileless, unsuspecting;She asked quite innocently.
+de:adj::ausschweifend;dissolute, debauched, wild;He led a dissolute life.
+de:adj::banal;banal, trite, commonplace;The plot is pretty banal.
+de:adj::behäbig;portly, slow-moving, placid;He is a portly elderly gentleman.
+de:adj::beklommen;uneasy, anxious, apprehensive;She felt uneasy.
+de:adj::bieder;conventional, staid, unadventurous;The apartment is furnished in a staid style.
+de:adj::blasiert;blasé, supercilious, condescending;He has a supercilious smile.
+de:adj::dekadent;decadent;The life of the rich seems decadent.
+de:adj::delikat;delicate, sensitive, tricky;That's a delicate matter.
+de:adj::despotisch;despotic, tyrannical, autocratic;He runs the company like a despot.
+de:adj::diffus;vague, diffuse, nebulous;I just have a vague feeling.
+de:adj::dilettantisch;amateurish, dilettante, unprofessional;The work has been done in an amateurish way.
+de:adj::dreist;brazen, barefaced, impudent;That's a barefaced lie.
+de:adj::dünkelhaft;conceited, arrogant, snobbish;He has a conceited manner.
+de:adj::eklatant;glaring, blatant, flagrant;That's a glaring error.
+de:adj::elitär;elitist, exclusive;The club is very exclusive.
+de:adj::eloquent;eloquent, articulate;She is an eloquent speaker.
+de:adj::ephemer;ephemeral, fleeting, short-lived;Fame is often fleeting.
+de:adj::erbaulich;encouraging, uplifting, edifying;The news is not very encouraging.
+de:adj::erhaben;above (erhaben über), sublime, lofty;He is above all suspicion.
+de:adj::exaltiert;overexcited, exaggerated, histrionic;Her behavior was a bit over the top.
+de:adj::exorbitant;exorbitant, extortionate;The costs are exorbitant.
+de:adj::fahrig;jittery, fidgety, flustered;He was all jittery with nerves.
+de:adj::feige;cowardly;That was cowardly of you.
+de:adj::flatterhaft;fickle, flighty, capricious;He is considered fickle.
+de:adj::frivol;risqué, frivolous, racy;The joke was a bit risqué.
+de:adj::geschwätzig;talkative, chatty, garrulous;The taxi driver was very chatty.
+de:adj::gestelzt;stilted, affected, stiff;He speaks in a very stilted way.
+de:adj::gravitätisch;solemn, dignified, stately;He strode solemnly through the hall.
+de:adj::habituell;habitual, customary;That is habitual behavior.
+de:adj::harsch;harsh, severe, scathing;The criticism was very harsh.
+de:adj::hehr;noble, lofty, exalted;Those are noble goals.
+de:adj::hölzern;wooden, stiff, stilted;His language comes across as wooden.
+de:adj::illuster;illustrious, distinguished;It was an illustrious gathering.
+de:adj::immanent;inherent, intrinsic, immanent;The risk is inherent in the system.
+de:adj::impulsiv;impulsive;He often reacts impulsively.
+de:adj::indigniert;indignant, offended;She reacted indignantly.
+de:adj::indiskret;indiscreet, intrusive;That was an indiscreet question.
+de:adj::infam;infamous, vile, outrageous;That's a vile lie.
+de:adj::inhärent;inherent, intrinsic;The problems are inherent in the system.
+de:adj::integer;honest, of integrity, upright;He is considered a man of absolute integrity.
+de:adj::jovial;jovial, genial, affable;The boss likes to act jovial.
+de:adj::kapriziös;capricious, temperamental, fickle;She is rather capricious.
+de:adj::kauzig;eccentric, odd, quirky;Our neighbor is an eccentric old man.
+de:adj::kokett;flirtatious, coquettish;She smiled flirtatiously.
+de:adj::kryptisch;cryptic, enigmatic;His message was rather cryptic.
+de:adj::larmoyant;self-pitying, maudlin, whiny;The tone of the letter is self-pitying.
+de:adj::lethargisch;lethargic, sluggish;I feel lethargic after eating.
+de:adj::lakonisch;laconic, terse;His answer was laconic.
+de:adj::launenhaft;changeable, capricious, moody;The weather is changeable today.
+de:adj::maßlos;extremely, immensely, excessive;He is extremely disappointed.
+de:adj::melancholisch;melancholy, melancholic, wistful;The music is very melancholy.
+de:adj::mondän;fashionable, chic, glamorous;She lives in a fashionable neighborhood.
+de:adj::mürrisch;grumpy, sullen, surly;He is always grumpy in the morning.
+de:adj::naiv;naive;How can anyone be so naive?
+de:adj::obsolet;obsolete, outdated;The rule has long been obsolete.
+de:adj::opulent;lavish, sumptuous, opulent;There was a lavish feast.
+de:adj::pedantisch;pedantic, nitpicking, fussy;He is terribly pedantic.
+de:adj::perfide;perfidious, treacherous, devious;That was a devious plan.
+de:adj::pikiert;miffed, piqued, peeved;She was a little miffed by his remark.
+de:adj::plump;clumsy, crude, heavy-handed;That was a clumsy attempt.
+de:adj::prätentiös;pretentious;The film is rather pretentious.
+de:adj::prosaisch;prosaic, mundane, matter-of-fact;The explanation is quite prosaic.
+de:adj::prüde;prudish, prim;She is rather prudish.
+de:adj::rabiat;violent, aggressive, rough;He suddenly turned violent.
+de:adj::rastlos;tireless, restless, ceaseless;He works tirelessly.
+de:adj::redselig;talkative, chatty, garrulous;After two glasses of wine he became talkative.
+de:adj::rüde;rude, coarse, brusque;He has a rude tone.
+de:adj::sardonisch;sardonic;He laughed sardonically.
+de:adj::schelmisch;mischievous, impish, roguish;She smiled mischievously.
+de:adj::schwülstig;bombastic, pompous, overblown;The speech was bombastic.
+de:adj::servil;servile, obsequious, subservient;His behavior toward the boss is servile.
+de:adj::spröde;aloof, reserved, standoffish;She seems a bit aloof.
+de:adj::subtil;subtle, fine;That's a subtle difference.
+de:adj::süffisant;smug, self-satisfied, complacent;He smiled smugly.
+de:adj::trivial;trivial, simple, banal;The solution is not trivial.
+de:adj::unbeugsam;unbending, indomitable, uncompromising;She has an indomitable will.
+de:adj::unverhohlen;undisguised, unconcealed, open;He showed undisguised joy.
+de:adj::urban;urban, cosmopolitan;The neighborhood has an urban flair.
+de:adj::verbrämt;veiled, dressed up, couched;That's nicely veiled criticism.
+de:adj::verschroben;eccentric, cranky, odd;He has eccentric views.
+de:adj::vorlaut;cheeky, forward, impertinent;Don't be so cheeky!
+de:adj::weltgewandt;worldly, sophisticated, urbane;She is very sophisticated.
+de:adj::wehmütig;wistful, nostalgic, melancholy;He looks back wistfully.
+de:adj::zynisch;cynical;His remark was very cynical.
+de:noun:die:Abkehr;turning away, move away, abandonment;The decision was made to move away from nuclear power.
+de:noun:der:Abglanz;reflection, pale reflection, echo;That's only a pale reflection of earlier times.
+de:noun:die:Anbetung;worship, adoration;The worship of success is typical of our time.
+de:noun:der:Anbeginn;beginning, dawn, very start;Since the dawn of time, people have been searching for meaning.
+de:noun:das:Ansinnen;request, demand, suggestion;That's an outrageous request.
+de:noun:der:Antagonismus;antagonism, conflict;The antagonism between the classes is growing.
+de:noun:die:Apathie;apathy, listlessness;He sank into deep apathy.
+de:noun:der:Aufbruch;new beginning, awakening, departure;There was a sense of a new beginning.
+de:noun:der:Ausverkauf;sellout, selling off, clearance sale;This is a sellout of our values.
+de:noun:die:Bedrängnis;difficulty, distress, trouble;He got into financial difficulties.
+de:noun:die:Begierde;desire, craving, lust;His lust for power was boundless.
+de:noun:das:Behagen;pleasure, contentment, comfort;He ate the cake with obvious pleasure.
+de:noun:die:Beliebigkeit;arbitrariness, randomness, anything-goes attitude;The arbitrariness of modern art is often criticized.
+de:noun:der:Dünkel;conceit, arrogance, snobbery;He is full of conceit.
+de:noun:die:Ehrerbietung;deference, respect, reverence;He treated her with great deference.
+de:noun:der:Eklat;scandal, uproar, commotion;The speech caused an uproar.
+de:noun:die:Entgleisung;lapse, gaffe, offensive slip;His verbal gaffe was sharply criticized.
+de:noun:die:Ernüchterung;disillusionment, sobering realization, letdown;After the euphoria came disillusionment.
+de:noun:die:Erwartungshaltung;expectations, level of expectation;The fans' expectations are enormous.
+de:noun:die:Fehde;feud, vendetta;There is an old feud between the families.
+de:noun:das:Feingefühl;sensitivity, tact, delicacy;Tact is called for here.
+de:noun:der:Frevel;sacrilege, outrage, crime;That would be a crime against nature.
+de:noun:die:Gediegenheit;solidity, high quality, refinement;The solid quality of the furniture is convincing.
+de:noun:das:Gefüge;structure, fabric, framework;The social fabric is starting to crumble.
+de:noun:der:Habitus;demeanor, bearing, habitus;His demeanor betrays his background.
+de:noun:die:Hybris;hubris;His hubris led to his downfall.
+de:noun:die:Ignoranz;ignorance, disregard;The authorities' disregard is shocking.
+de:noun:die:Indiskretion;indiscretion, leak;The plan became known through a leak.
+de:noun:die:Inkonsequenz;inconsistency;His inconsistency confuses the children.
+de:noun:die:Konstellation;constellation, configuration, situation;That's a difficult political situation.
+de:noun:die:Kontroverse;controversy, dispute;The book sparked a fierce controversy.
+de:noun:der:Kulturkampf;culture war;A culture war is raging in the USA.
+de:noun:die:Lauterkeit;integrity, sincerity, honesty;There is no doubt about the sincerity of his intentions.
+de:noun:die:Machenschaften;machinations, scheming, wheeling and dealing;The company's machinations were exposed.
+de:noun:der:Makel;flaw, blemish, defect;The vase has a small flaw.
+de:noun:die:Marotte;quirk, foible, idiosyncrasy;Everyone has their quirks.
+de:noun:der:Missgriff;mistake, blunder, wrong choice;The choice of minister was a blunder.
+de:noun:die:Mittelmäßigkeit;mediocrity;He won't settle for mediocrity.
+de:noun:die:Muße;leisure, time to oneself, peace and quiet;I need leisure time to read.
+de:noun:der:Nimbus;aura, mystique, halo;The aura of invincibility is gone.
+de:noun:das:Novum;novelty, first, something new;That's an absolute first.
+de:noun:die:Obrigkeit;authorities, those in authority;He has no respect for authority.
+de:noun:der:Opportunismus;opportunism;He is accused of opportunism.
+de:noun:der:Pragmatismus;pragmatism;She solved the problem pragmatically.
+de:noun:die:Prägung;formative influence, imprint, character;Childhood leaves a deep imprint.
+de:noun:die:Prunksucht;love of ostentation, extravagance;The king's love of pomp ruined the country.
+de:noun:die:Quintessenz;quintessence, gist, essence;The gist of the book is simple.
+de:noun:das:Ränkespiel;intrigue, scheming, plotting;He is a master of intrigue.
+de:noun:der:Rausch;intoxication, euphoria, frenzy;He was intoxicated with success.
+de:noun:das:Refugium;refuge, retreat, sanctuary;The garden is his refuge.
+de:noun:die:Reminiszenz;reminiscence, homage, nod (to);The film is a homage to the '80s.
+de:noun:die:Ressentiments;resentment, prejudice, hostility;There is strong resentment toward foreigners.
+de:noun:die:Sättigung;saturation, satiety;The market has reached saturation.
+de:noun:die:Scheinheiligkeit;hypocrisy, sanctimoniousness;His hypocrisy is unbearable.
+de:noun:der:Schlendrian;sloppiness, slackness, laxity;There is a certain sloppiness at the agency.
+de:noun:die:Schmach;disgrace, humiliation, shame;The defeat was a disgrace.
+de:noun:die:Schwelle;threshold, verge, brink;We are on the threshold of a new era.
+de:noun:die:Selbstbezogenheit;self-absorption, self-centeredness, egocentrism;His self-absorption bothers many people.
+de:noun:die:Selbstverleugnung;self-denial, self-sacrifice, selflessness;She cared for her mother with great self-sacrifice.
+de:noun:der:Sinneswandel;change of heart, change of mind;What led to this change of heart?
+de:noun:die:Stagnation;stagnation;The economy is stagnating.
+de:noun:die:Stringenz;rigor, stringency, coherence;The work is convincing in its rigor.
+de:noun:der:Tatendrang;drive, energy, zest for action;After his vacation he is full of energy.
+de:noun:der:Trugschluss;fallacy, false conclusion, misconception;That's a dangerous fallacy.
+de:noun:der:Übereifer;overzealousness, excessive zeal;He made mistakes out of overzealousness.
+de:noun:der:Umbruch;upheaval, radical change, transition;Society is in a state of upheaval.
+de:noun:die:Unbill;adversity, hardship, injustice;He bore all of life's hardships.
+de:noun:der:Unfug;nonsense, rubbish, mischief;That's all nonsense!
+de:noun:die:Untiefe;depths, abyss, shallows;The novel plumbs the depths of the human soul.
+de:noun:die:Usance;custom, practice, convention;That is in line with commercial practice.
+de:noun:die:Verblendung;delusion, blindness, infatuation;In his delusion he didn't see the danger.
+de:noun:die:Verfehlung;misconduct, offense, wrongdoing;He had to answer for his wrongdoings.
+de:noun:die:Verquickung;entanglement, intertwining, mixing;The entanglement of politics and business is problematic.
+de:noun:die:Versiertheit;expertise, skill, proficiency;His skill in dealing with customers is well known.
+de:noun:die:Vetternwirtschaft;nepotism, cronyism;Nepotism is rife in the company.
+de:noun:der:Wankelmut;fickleness, indecisiveness, inconstancy;His fickleness makes him unpredictable.
+de:noun:der:Widersinn;absurdity, contradiction, nonsense;That's a complete absurdity.
+de:noun:die:Zerknirschung;remorse, contrition, repentance;He apologized with visible remorse.
+de:noun:die:Zwietracht;discord, strife, dissension;He sows discord in the family.
+de:verb::abebben;subside, ebb away, die down;The excitement has slowly died down.
+de:verb::abflauen;die down, abate, subside;The wind is gradually dying down.
+de:verb::abschotten;cut oneself off, isolate, shield;He is cutting himself off from the world.
+de:verb::abwiegeln;play down, downplay, deflect;The minister deflected all questions.
+de:verb::anecken;rub people the wrong way, cause offense, ruffle feathers;He rubs everyone the wrong way with his manner.
+de:verb::anzetteln;instigate, start, stir up;Who started the fight?
+de:verb::aufoktroyieren;impose, force on;You can't force your opinion on anyone.
+de:verb::aufrütteln;shake up, rouse, jolt;The report jolted the public.
+de:verb::ausufern;get out of hand, escalate, spiral out of control;The discussion got completely out of hand.
+de:verb::bekritteln;nitpick, carp at, find fault with;He finds fault with everything I do.
+de:verb::brillieren;shine, excel, be brilliant;She shone in the lead role.
+de:verb::bröckeln;crumble, flake off;The facade is crumbling.
+de:verb::durchkreuzen;thwart, foil, upset (plans);The weather upset our plans.
+de:verb::einverleiben;absorb, swallow up, annex;The corporation swallowed up the company.
+de:verb::entfachen;spark, kindle, ignite;The speech sparked a heated debate.
+de:verb::entlocken;coax (out of), elicit, draw out;She couldn't get a word out of him.
+de:verb::entrinnen;escape, get away from;He narrowly escaped death.
+de:verb::entsprießen;spring from, sprout from, grow out of;A company grew out of this idea.
+de:verb::erblassen;turn pale, go white, blanch;She turned pale at the news.
+de:verb::erdreisten;dare, have the nerve, presume;How dare you say something like that?
+de:verb::ernüchtern;sober, disillusion, bring down to earth;The result brought us back down to earth.
+de:verb::erodieren;erode, wear away;Trust in politics is eroding.
+de:verb::fabulieren;spin yarns, fabricate, romance;He likes to spin yarns about great adventures.
+de:verb::fußen;be based on, rest on, be founded on;The theory is based on old findings.
+de:verb::gebaren;behave, conduct oneself, act;He behaves like a king.
+de:verb::gereichen;redound to, bring, do (credit);That does him credit.
+de:verb::goutieren;appreciate, approve of, relish;The audience didn't appreciate the joke.
+de:verb::harren;await, wait for;The problem still awaits a solution.
+de:verb::hinwegsetzen;disregard, ignore, flout;He flouted all the rules.
+de:verb::hinwegtäuschen;disguise, hide, obscure;That can't disguise the problems.
+de:verb::innehaben;hold, occupy (a position);He has held the post since 2010.
+de:verb::innehalten;pause, stop briefly;She paused for a moment and thought.
+de:verb::konterkarieren;counteract, thwart, undermine;That undermines our efforts.
+de:verb::kolportieren;spread, peddle, circulate (rumors);The press is spreading rumors.
+de:verb::kulminieren;culminate, climax;The dispute culminated in a brawl.
+de:verb::lancieren;launch, introduce, plant (a story);The company is launching a new product.
+de:verb::mäandern;meander, wind;The river meanders through the valley.
+de:verb::manifestieren;manifest itself, show itself, be reflected;The crisis is manifesting itself in rising prices.
+de:verb::oktroyieren;impose, dictate, force on;The rules were imposed from above.
+de:verb::paktieren;make a pact, collude, collaborate;He is colluding with the opponent.
+de:verb::perpetuieren;perpetuate;Images like that perpetuate prejudice.
+de:verb::prädestinieren;predestine, make ideally suited;She is ideally suited for this task.
+de:verb::proklamieren;proclaim, declare;The republic was proclaimed.
+de:verb::rekurrieren;refer back to, draw on, have recourse to;He draws on earlier studies.
+de:verb::sich anschicken;be about to, get ready, prepare;He was about to leave the room.
+de:verb::sich ausbedingen;stipulate, insist on, reserve (a right);He stipulated a right of veto for himself.
+de:verb::sich ereifern;get worked up, get excited, get heated;He got worked up about the injustice.
+de:verb::sich erkühnen;dare, venture, make so bold as to;Who dares to contradict me?
+de:verb::sich ergehen;indulge in, launch into, go on at length;He launched into lengthy explanations.
+de:verb::sich gerieren;pose as, act as, present oneself as;He poses as an expert.
+de:verb::sich verbitten;not tolerate, refuse to put up with, object to;I won't tolerate that tone!
+de:verb::sich verdingen;hire oneself out, work as, take a job as;He hired himself out as a harvest worker.
+de:verb::sich verwahren;protest (against), reject, object to;I reject these accusations.
+de:verb::sich zieren;be coy, play hard to get, hold back;Don't be shy, have a piece!
+de:verb::sondieren;explore, sound out, probe;The parties are exploring a coalition.
+de:verb::stilisieren;stylize, make out to be, cast as;He was made out to be a hero.
+de:verb::torpedieren;torpedo, sabotage, scupper;The opposition torpedoes every bill.
+de:verb::tradieren;hand down, pass on, transmit;The story was passed down orally.
+de:verb::umgarnen;beguile, ensnare, sweet-talk;He tried to beguile her with compliments.
+de:verb::unterminieren;undermine, subvert;He is undermining the boss's authority.
+de:verb::verbrämen;dress up, veil, sugarcoat;He sugarcoats his criticism with compliments.
+de:verb::verklären;romanticize, idealize, glorify;She romanticizes her childhood.
+de:verb::verkennen;misjudge, underestimate, fail to recognize;He misjudged the seriousness of the situation.
+de:verb::verpuffen;fizzle out, peter out, come to nothing;The effect quickly fizzled out.
+de:verb::verquicken;mix, combine, intertwine;You shouldn't mix your private and professional life.
+de:verb::verschleppen;delay, protract, drag out;The authority is dragging out the decision.
+de:verb::verwässern;water down, dilute;The bill was heavily watered down.
+de:verb::vorgaukeln;delude (into believing), pretend, create the illusion of;He deluded her into believing everything was perfect.
+de:verb::vorpreschen;forge ahead, jump the gun, rush ahead;The minister jumped the gun with his proposal.
+de:verb::widerfahren;happen to, befall;He has suffered a great injustice.
+de:verb::zehren;live on, feed on, drain;We are still living on the memories.
+de:verb::zementieren;cement, entrench, consolidate;The law entrenches inequality.
+de:verb::zuwiderlaufen;run counter to, go against, conflict with;That runs counter to our interests.
+de:adj::anheimelnd;cozy, homey, inviting;The cabin feels very cozy.
+de:adj::artig;well-behaved, good;The children were very well-behaved today.
+de:adj::aufreibend;exhausting, draining, grueling;Caregiving is very draining.
+de:adj::ausgefeilt;sophisticated, polished, well thought-out;That's a sophisticated concept.
+de:adj::ausgemacht;utter, complete, downright;That's utter nonsense.
+de:adj::beflissen;eager (to please), attentive, zealous;The waiter was very attentive.
+de:adj::bestürzt;dismayed, shocked, upset;Everyone was dismayed by the news.
+de:adj::betulich;fussy, old-fashioned, staid;His manner is a little fussy.
+de:adj::beschaulich;quiet, tranquil, peaceful;They lead a quiet life in the country.
+de:adj::blindwütig;frenzied, mindless, rabid;It was a frenzied attack.
+de:adj::brachial;brute, violent, forceful;He got his way by brute force.
+de:adj::dezidiert;decided, firm, explicit;He holds a firm opinion.
+de:adj::eigenmächtig;unilateral, unauthorized, high-handed;He decided on his own authority.
+de:adj::einschneidend;drastic, radical, far-reaching;Those were drastic changes.
+de:adj::einträglich;lucrative, profitable;It's a lucrative business.
+de:adj::empirisch;empirical;The theory is empirically proven.
+de:adj::engmaschig;close, tight, frequent;The patients are monitored closely.
+de:adj::entbehrungsreich;deprived, full of hardship;He had a childhood full of hardship.
+de:adj::erklecklich;considerable, sizable, substantial;He donated a considerable sum.
+de:adj::erlesen;exquisite, choice, select;They served exquisite wines.
+de:adj::erquicklich;pleasant, gratifying, refreshing;The situation isn't exactly pleasant.
+de:adj::exzessiv;excessive, to excess;He exercises excessively.
+de:adj::fragil;fragile, delicate;The peace is very fragile.
+de:adj::geläutert;reformed, purified, chastened;He came out of prison a reformed man.
+de:adj::gemächlich;leisurely, unhurried;We strolled leisurely through the park.
+de:adj::gerissen;cunning, crafty, wily;He is a crafty businessman.
+de:adj::geruhsam;leisurely, relaxing, peaceful;We had a relaxing evening.
+de:adj::gezielt;targeted, specific, deliberate;We need to provide targeted support.
+de:adj::grundlegend;fundamental, basic;That's a fundamental question.
+de:adj::hämisch;malicious, gloating, spiteful;He grinned maliciously.
+de:adj::handverlesen;handpicked, carefully selected;The guests were handpicked.
+de:adj::hartgesotten;hardened, hard-boiled, seasoned;Even hardened police officers were shocked.
+de:adj::heimtückisch;insidious, treacherous, malicious;The disease is insidious.
+de:adj::hellhörig;alert, suspicious, (prick up one's ears);That offer made me prick up my ears.
+de:adj::hochtrabend;pompous, high-flown, grandiose;He talks in a very pompous way.
+de:adj::inbrünstig;fervent, ardent, passionate;She prayed fervently.
+de:adj::inflationär;excessive, overused, inflationary;The word is massively overused.
+de:adj::innig;close, intimate, heartfelt;They have a close relationship.
+de:adj::klamm;short of money, hard up, strapped for cash;I'm a bit strapped for cash at the moment.
