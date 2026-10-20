@@ -3598,3 +3598,146 @@ de:adj::virtuell;virtual, virtually;The meeting will take place virtually.
 de:adj::global;global;It is a global problem.
 de:adj::kommunal;local, municipal;The local elections are in May.
 de:adj::staatlich;state, state-run, public;He is studying at a state university.
+BIZ:de:noun:die:Schadsoftware;malware, malicious software;The antivirus program found malware.
+BIZ:de:noun:der:Virenscanner;virus scanner, antivirus software;The virus scanner checks all downloads automatically.
+BIZ:de:noun:der:Hacker;hacker;Hackers tried to break into the system.
+BIZ:de:noun:der:Hackerangriff;hacker attack, hack;After the hacker attack, all passwords had to be changed.
+BIZ:de:noun:der:Cyberangriff;cyberattack;A cyberattack brought production to a standstill.
+BIZ:de:noun:die:Sicherheitslücke;security vulnerability, security hole;The update fixes a critical security vulnerability.
+BIZ:de:noun:die:Phishing-Mail;phishing email;Never click on links in a phishing email.
+BIZ:de:noun:das:Datenleck;data leak, data breach;Customer data was made public through a data leak.
+BIZ:de:noun:die:künstliche Intelligenz;artificial intelligence;We use artificial intelligence in customer service.
+BIZ:de:noun:die:KI;AI;The AI writes first drafts of our texts.
+BIZ:de:noun:das:maschinelle Lernen;machine learning;We use machine learning to detect fraud attempts.
+BIZ:de:noun:das:Modell;model;The model was trained on millions of texts.
+BIZ:de:noun:der:Chatbot;chatbot;The chatbot answers simple customer questions.
+BIZ:de:noun:der:Prompt;prompt;With a better prompt, you get better answers.
+BIZ:de:noun:die:Automatisierung;automation;Automation saves us a lot of time.
+BIZ:de:noun:die:Digitalisierung;digitalization, digital transformation;Digitalization is changing the way we work.
+BIZ:de:noun:die:Trainingsdaten;training data;The quality of the training data is crucial.
+BIZ:de:noun:der:Sprint;sprint;In the next sprint, we'll build the search function.
+BIZ:de:noun:das:Ticket;ticket;Please create a ticket for the problem.
+BIZ:de:noun:das:Backlog;backlog;The task is at the very top of the backlog.
+BIZ:de:noun:der:Product Owner;product owner;The product owner sets the priorities.
+BIZ:de:noun:das:Daily;daily stand-up, daily;In the daily stand-up, everyone briefly reports on their tasks.
+BIZ:de:noun:die:Anforderung;requirement;The client's requirements have changed.
+BIZ:de:noun:das:Lastenheft;requirements specification;The requirements specification lists everything the client wants.
+BIZ:de:noun:die:Benutzerfreundlichkeit;usability, user-friendliness;The app's usability needs to improve.
+BIZ:de:noun:der:Benutzer;user;The user can edit their profile themselves.
+BIZ:de:noun:der:Nutzer;user;Most users come via their smartphones.
+BIZ:de:noun:der:Administrator;administrator;Please contact the administrator.
+BIZ:de:noun:der:Admin;admin;Only the admin can create new users.
+BIZ:de:noun:der:Support;support, tech support;I've already called support twice.
+BIZ:de:noun:der:Helpdesk;help desk;The help desk is available from 8 a.m. to 6 p.m.
+BIZ:de:noun:die:IT-Abteilung;IT department;The IT department will set up your laptop.
+BIZ:de:noun:der:Fernzugriff;remote access;May I access your computer remotely?
+BIZ:de:noun:der:Screenshot;screenshot;Please take a screenshot of the message.
+BIZ:de:noun:die:Anleitung;instructions, manual, guide;The instructions explain every step in detail.
+BIZ:de:noun:die:E-Mail;email;I've only just read your email.
+BIZ:de:noun:der:Anhang;attachment;The attachment is too large to send.
+BIZ:de:noun:der:Posteingang;inbox;My inbox is full of spam.
+BIZ:de:noun:der:Spam;spam, spam folder;Unfortunately, the email ended up in spam.
+BIZ:de:noun:die:Videokonferenz;video conference;The video conference starts in five minutes.
+BIZ:de:noun:der:Chat;chat;Just message me in the chat when you're done.
+BIZ:de:noun:die:Benachrichtigung;notification;I turned off notifications in the evening.
+BIZ:de:noun:die:Nachricht;message;You have a new message in Slack.
+BIZ:de:noun:die:Bildschirmfreigabe;screen sharing;Can you start screen sharing for a moment?
+BIZ:de:noun:der:Passwortmanager;password manager;A password manager stores all your login details securely.
+BIZ:de:noun:die:Zugangsdaten;login details, credentials;You'll get the login details from the admin.
+BIZ:de:verb::speichern;save;Have you saved the document yet?
+BIZ:de:verb::herunterladen;download;I've already downloaded the new version.
+BIZ:de:verb::hochladen;upload;Can you upload the presentation to the cloud?
+BIZ:de:verb::installieren;install;IT installed the program for me.
+BIZ:de:verb::deinstallieren;uninstall;I uninstalled the old app.
+BIZ:de:verb::aktualisieren;update, refresh;Please update your browser.
+BIZ:de:verb::updaten;update;I still need to update my phone.
+BIZ:de:verb::löschen;delete, erase;Who deleted the file?
+BIZ:de:verb::kopieren;copy;I copied the text into the email.
+BIZ:de:verb::einfügen;paste, insert;Have you pasted the link yet?
+BIZ:de:verb::ausschneiden;cut;I cut the paragraph and moved it.
+BIZ:de:verb::klicken;click;I clicked the wrong button.
+BIZ:de:verb::tippen;type;She types very fast on the keyboard.
+BIZ:de:verb::eingeben;enter, type in;Did you enter the correct password?
+BIZ:de:verb::sich anmelden;log in, sign in;I can't log in.
+BIZ:de:verb::sich einloggen;log in;Have you logged in yet?
+BIZ:de:verb::sich abmelden;log out, sign out;Don't forget to log out.
+BIZ:de:verb::sich ausloggen;log out;I've logged out on all devices.
+BIZ:de:verb::starten;start, launch;Did you restart the program?
+BIZ:de:verb::neu starten;restart, reboot;I just restarted the computer.
+BIZ:de:verb::hochfahren;boot up, start up;The computer takes a long time to boot up.
+BIZ:de:verb::herunterfahren;shut down;Please shut down the computers in the evening.
+BIZ:de:verb::abstürzen;crash;The program has crashed again.
+BIZ:de:verb::hängen;hang, freeze;The browser has been frozen for five minutes.
+BIZ:de:verb::programmieren;program, code;He has been programming in Java for ten years.
+BIZ:de:verb::entwickeln;develop;We're developing an app for doctors.
+BIZ:de:verb::testen;test;Did you test the feature thoroughly?
+BIZ:de:verb::beheben;fix, resolve;We fixed the bug yesterday.
+BIZ:de:verb::debuggen;debug;I've been debugging the code for two hours.
+BIZ:de:verb::kompilieren;compile;The code won't compile.
+BIZ:de:verb::implementieren;implement;We're implementing the new interface by the end of May.
+BIZ:de:verb::ausführen;run, execute;I ran the script twice.
+BIZ:de:verb::laufen;run;The app runs smoothly on all devices.
+BIZ:de:verb::einrichten;set up;IT set up my email account.
+BIZ:de:verb::konfigurieren;configure;The server needs to be reconfigured.
+BIZ:de:verb::verbinden;connect, pair;I connected the headset via Bluetooth.
+BIZ:de:verb::anschließen;connect, plug in;Have you connected the printer yet?
+BIZ:de:verb::synchronisieren;sync, synchronize;The phone syncs the contacts automatically.
+BIZ:de:verb::sichern;back up, save;We back up all data daily.
+BIZ:de:verb::wiederherstellen;restore, recover;Luckily, we were able to restore the data.
+BIZ:de:verb::verschlüsseln;encrypt;All hard drives are encrypted.
+BIZ:de:verb::entschlüsseln;decrypt;Without a key, you can't decrypt the file.
+BIZ:de:verb::sperren;lock, block;After three failed attempts, the account is locked.
+BIZ:de:verb::entsperren;unlock;Can you unlock my account, please?
+BIZ:de:verb::zurücksetzen;reset;I reset my password.
+BIZ:de:verb::scannen;scan;I'll scan the contract and send it to you.
+BIZ:de:verb::drucken;print;Can you print the slides for me?
+BIZ:de:verb::suchen;look for, search for;I've been looking for the file for an hour.
+BIZ:de:verb::googeln;google;I quickly googled the error message.
+BIZ:de:verb::surfen;surf (the internet), browse;He surfs the internet during his break.
+BIZ:de:verb::streamen;stream;We're streaming the presentation live.
+BIZ:de:verb::teilen;share;I'm sharing my screen now.
+BIZ:de:verb::anhängen;attach;I attached the invoice as a PDF.
+BIZ:de:verb::versenden;send, send out;The newsletter is sent out every Monday.
+BIZ:de:verb::chatten;chat;We mostly chat on Teams.
+BIZ:de:verb::digitalisieren;digitize;We're digitizing all the old files.
+BIZ:de:verb::automatisieren;automate;We can easily automate this process.
+BIZ:de:verb::trainieren;train (a model);We're training the model on our own data.
+BIZ:de:verb::generieren;generate;The AI generated the text in seconds.
+BIZ:de:verb::verarbeiten;process, handle;The system processes a thousand requests per second.
+BIZ:de:verb::übertragen;transmit, transfer;The data is transmitted in encrypted form.
+BIZ:de:verb::abrufen;retrieve, check (email);I haven't checked my email yet.
+BIZ:de:verb::filtern;filter;You can filter the list by date.
+BIZ:de:verb::sortieren;sort;The table is sorted by name.
+BIZ:de:verb::migrieren;migrate;We're migrating all data to the cloud.
+BIZ:de:verb::hosten;host;We host the website with a German provider.
+BIZ:de:verb::ausfallen;fail, go down;This morning the network went down completely.
+BIZ:de:verb::freigeben;share, release, approve;I shared the folder with the team.
+BIZ:de:verb::zugreifen;access;I can't access the server from home.
+BIZ:de:adj::digital;digital, digitally;We now sign contracts only digitally.
+BIZ:de:adj::online;online;Are you online right now?
+BIZ:de:adj::offline;offline;The app also works offline.
+BIZ:de:adj::kabellos;wireless, cordless;I use a wireless keyboard.
+BIZ:de:adj::virtuell;virtual, virtually;The team meets virtually every morning.
+BIZ:de:adj::sicher;secure, safe;Is this connection really secure?
+BIZ:de:adj::verschlüsselt;encrypted;The file is stored encrypted.
+BIZ:de:adj::kompatibel;compatible;The software isn't compatible with Mac.
+BIZ:de:adj::benutzerfreundlich;user-friendly;The new interface is very user-friendly.
+BIZ:de:adj::intuitiv;intuitive;The app is very intuitive to use.
+BIZ:de:adj::automatisch;automatic, automatically;The system creates the reports automatically.
+BIZ:de:adj::manuell;manual, manually;Unfortunately, we have to enter this data manually.
+BIZ:de:adj::stabil;stable;The new version runs very stably.
+BIZ:de:adj::fehlerhaft;faulty, defective, corrupt;The corrupt file couldn't be opened.
+BIZ:de:adj::kaputt;broken;My charging cable is broken.
+BIZ:de:adj::erreichbar;reachable, available;The server is reachable again.
+BIZ:de:adj::verfügbar;available;The update will be available from tomorrow.
+BIZ:de:adj::veraltet;outdated, obsolete;Unfortunately, your browser is outdated.
+BIZ:de:adj::aktuell;current, latest, up-to-date;Is this the current version of the file?
+BIZ:de:adj::technisch;technical;We're having a technical problem at the moment.
+BIZ:de:adj::mobil;mobile, on mobile;More and more customers shop on mobile devices.
+BIZ:de:adj::interaktiv;interactive;The training is designed to be very interactive.
+BIZ:de:adj::künstlich;artificial;Artificial intelligence is changing many professions.
+BIZ:de:adj::passwortgeschützt;password-protected;The folder is password-protected.
+BIZ:de:adj::leistungsstark;powerful, high-performance;We need a powerful server.
+BIZ:de:adj::drahtlos;wireless, wirelessly;The data is transmitted wirelessly.
+BIZ:de:adj::cloudbasiert;cloud-based;We use a cloud-based solution for accounting.
+BIZ:de:adj::remote;remote, remotely;Our team works fully remotely.
