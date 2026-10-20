@@ -38,7 +38,7 @@ def load_words() -> int:
 
 
 # Флаг языка перевода в карточке и вопросе теста
-FLAGS = {"ru": "🇷🇺", "es": "🇪🇸"}
+FLAGS = {"ru": "🇷🇺", "en": "🇬🇧", "es": "🇪🇸"}
 
 
 def _add_translations(lang: str, rows: list[dict]) -> None:
