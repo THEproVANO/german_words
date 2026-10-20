@@ -3,7 +3,7 @@
 Output: plain text file, one word per line, NO header, exactly 11 fields separated by `;`:
 level;pos;article;word;plural;praesens;praeteritum;perfekt;translations;example;example_ru
 
-- level: the level you were assigned (A1–C2, or BIZ for the "Business & IT" topic set).
+- level: the level you were assigned (A1–C2, or BIZ for the "Work, business & IT" topic set).
 - pos: one of noun, verb, adj, adv, prep, pron, conj, num, part, interj
 - article: nouns only (required): der, die or das. Empty for non-nouns.
 - word: nouns WITHOUT the article, capitalised (Vertrag). Verbs in the infinitive (reflexive with "sich ": sich bewerben).

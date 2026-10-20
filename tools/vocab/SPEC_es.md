@@ -3,7 +3,7 @@
 Output: plain text file, one word per line, NO header, exactly 11 fields separated by `;`:
 level;pos;article;word;plural;praesens;praeteritum;perfekt;translations;example;example_ru
 
-- level: the CEFR level you were assigned (A1, A2, B1, B2, C1 or C2, or BIZ for the "Business & IT" topic set). Use Instituto Cervantes "Plan curricular" / common Spanish frequency lists as the guide.
+- level: the CEFR level you were assigned (A1, A2, B1, B2, C1 or C2, or BIZ for the "Work, business & IT" topic set). Use Instituto Cervantes "Plan curricular" / common Spanish frequency lists as the guide.
 - pos: one of noun, verb, adj, adv, prep, pron, conj, num, part, interj
 - article: nouns only (required): `el` or `la` (the singular definite article as actually used: "el agua", "el mapa", "la mano"). Spanish has only these two; for common-gender nouns (estudiante, turista) pick `el`. Empty for non-nouns.
 - word: nouns WITHOUT the article, lowercase (la casa -> `casa`). Adjectives in masculine singular (rojo). Verbs in the infinitive (reflexive with -se: levantarse).
