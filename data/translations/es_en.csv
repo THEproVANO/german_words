@@ -3598,3 +3598,299 @@ es:noun:el:método;method;This method is very effective.
 es:noun:la:manera;way, manner;There's no other way to do it.
 es:noun:la:situación;situation;The situation is complicated.
 es:noun:el:ambiente;atmosphere, environment;There's a good atmosphere at the office.
+BIZ:es:noun:el:equipo informático;computer equipment, IT equipment, hardware;The company replaces its computer equipment every four years.
+BIZ:es:noun:la:informática;computing, IT, computer science;I work in the IT department.
+BIZ:es:noun:el:informático;IT specialist, IT technician, computer scientist;Call the IT guy, the network isn't working.
+BIZ:es:noun:el:software;software;This software is free for personal use.
+BIZ:es:noun:el:programa;program, application;Close all programs before updating.
+BIZ:es:noun:la:aplicación;application, app;Download the app from the official store.
+BIZ:es:noun:la:app;app;This app is used to clock in.
+BIZ:es:noun:el:sistema operativo;operating system;What operating system does your laptop use?
+BIZ:es:noun:la:versión;version;The new version of the program is already out.
+BIZ:es:noun:la:actualización;update, upgrade;The update will take about ten minutes.
+BIZ:es:noun:la:instalación;installation;The installation stopped because of an error.
+BIZ:es:noun:la:licencia;license;We have bought fifty licenses for the program.
+BIZ:es:noun:el:archivo;file;Attach the file to the email, please.
+BIZ:es:noun:el:fichero;file;The configuration file is in that folder.
+BIZ:es:noun:la:carpeta;folder;Save the reports in the shared folder.
+BIZ:es:noun:el:escritorio;desktop (computer screen);I have too many icons on the desktop.
+BIZ:es:noun:el:icono;icon;Double-click the program icon.
+BIZ:es:noun:la:ventana;window;A window with a warning has opened.
+BIZ:es:noun:el:menú;menu;Look for the option in the settings menu.
+BIZ:es:noun:el:botón;button;Press the green button to continue.
+BIZ:es:noun:el:clic;click;With one click you can share the document.
+BIZ:es:noun:el:enlace;link;I'll send you the link to the meeting.
+BIZ:es:noun:la:pestaña;tab;I have twenty tabs open in the browser.
+BIZ:es:noun:el:navegador;browser, web browser;Try opening the page in another browser.
+BIZ:es:noun:el:ajuste;setting;Change the language in your phone's settings.
+BIZ:es:noun:la:configuración;configuration, settings;The server configuration is wrong.
+BIZ:es:noun:la:función;function, feature;This feature is only available in the paid version.
+BIZ:es:noun:la:herramienta;tool;We use several tools to manage tasks.
+BIZ:es:noun:la:plataforma;platform;All the courses are on the online platform.
+BIZ:es:noun:la:interfaz;interface;The new app's interface is very intuitive.
+BIZ:es:noun:el:usuario;user;The user can't log in.
+BIZ:es:noun:la:cuenta;account;Create an account with your work email.
+BIZ:es:noun:el:perfil;profile;Update your profile picture.
+BIZ:es:noun:el:nombre de usuario;username, user name;Enter your username and password.
+BIZ:es:noun:el:error;error;A strange error appears when saving.
+BIZ:es:noun:el:fallo;failure, fault, glitch;A system failure stopped production.
+BIZ:es:noun:el:mensaje de error;error message;Send me a screenshot of the error message.
+BIZ:es:noun:la:captura de pantalla;screenshot;Attach a screenshot to the ticket.
+BIZ:es:noun:el:internet;internet;There's no internet in the whole office today.
+BIZ:es:noun:la:red;network;The internal network is very slow this morning.
+BIZ:es:noun:el:wifi;Wi-Fi;What's the Wi-Fi password?
+BIZ:es:noun:la:conexión;connection;The connection drops every few minutes.
+BIZ:es:noun:el:router;router;Restart the router and try again.
+BIZ:es:noun:el:servidor;server;The mail server is down.
+BIZ:es:noun:la:página web;website, web page;We have redesigned the company website.
+BIZ:es:noun:el:sitio web;website;That website isn't secure.
+BIZ:es:noun:la:web;website, web;You'll find all the information on our website.
+BIZ:es:noun:el:dominio;domain;The domain has to be renewed before March.
+BIZ:es:noun:la:dirección IP;IP address;Each device has its own IP address.
+BIZ:es:noun:el:ancho de banda;bandwidth;Video calls use a lot of bandwidth.
+BIZ:es:noun:la:velocidad;speed;The download speed is very low.
+BIZ:es:noun:la:fibra óptica;fiber optics, fiber;We now have fiber in the new building.
+BIZ:es:noun:la:banda ancha;broadband;The rural area still doesn't have broadband.
+BIZ:es:noun:la:descarga;download;The file download was interrupted.
+BIZ:es:noun:la:subida;upload;Uploading videos takes quite a while.
+BIZ:es:noun:el:buscador;search engine, search bar;Type the product name in the search bar.
+BIZ:es:noun:la:búsqueda;search;The search returned no results.
+BIZ:es:noun:la:intranet;intranet;The forms are on the intranet.
+BIZ:es:noun:la:nube;cloud;All our data is in the cloud.
+BIZ:es:noun:el:almacenamiento;storage;We need more storage space.
+BIZ:es:noun:el:centro de datos;data center;The data center is in Madrid.
+BIZ:es:noun:el:alojamiento;hosting;Web hosting costs ten euros a month.
+BIZ:es:noun:la:copia de seguridad;backup;We make a backup every night.
+BIZ:es:noun:la:sincronización;synchronization, sync;File synchronization has failed.
+BIZ:es:noun:la:virtualización;virtualization;Virtualization reduces the number of servers.
+BIZ:es:noun:la:máquina virtual;virtual machine;We tested the program in a virtual machine.
+BIZ:es:noun:el:contenedor;container;Each service runs in its own container.
+BIZ:es:noun:la:infraestructura;infrastructure;We are migrating all our infrastructure to the cloud.
+BIZ:es:noun:la:migración;migration;The data migration will take a weekend.
+BIZ:es:noun:la:escalabilidad;scalability;The cloud offers greater scalability.
+BIZ:es:noun:la:disponibilidad;availability, uptime;We guarantee ninety-nine percent availability.
+BIZ:es:noun:la:suscripción;subscription;The annual subscription works out cheaper.
+BIZ:es:noun:el:dato;data, piece of information;The data is updated every hour.
+BIZ:es:noun:la:base de datos;database;The database has more than a million records.
+BIZ:es:noun:el:registro;record, entry, log;Delete the duplicate record from the table.
+BIZ:es:noun:la:tabla;table;Add a new column to the table.
+BIZ:es:noun:la:columna;column;Sort the data by the second column.
+BIZ:es:noun:la:fila;row;Each row corresponds to a customer.
+BIZ:es:noun:el:campo;field;The email field is required.
+BIZ:es:noun:la:consulta;query;This query takes too long to run.
+BIZ:es:noun:la:hoja de cálculo;spreadsheet;Put the data into a spreadsheet.
+BIZ:es:noun:el:formato;format;Save the document in PDF format.
+BIZ:es:noun:el:análisis de datos;data analysis;Data analysis helps us make decisions.
+BIZ:es:noun:el:macrodato;big data;The company is investing in big data analysis.
+BIZ:es:noun:la:métrica;metric;We review the website metrics every week.
+BIZ:es:noun:el:gráfico;chart, graph;The chart shows last month's traffic.
+BIZ:es:noun:el:tráfico;traffic;Website traffic rose by twenty percent.
+BIZ:es:noun:la:programación;programming, coding;He studied programming in an intensive course.
+BIZ:es:noun:el:programador;programmer;We are looking for a programmer with experience in Java.
+BIZ:es:noun:el:desarrollador;developer;The developers are working on the new version.
+BIZ:es:noun:el:desarrollo;development;Developing the app took six months.
+BIZ:es:noun:el:código;code;Review the code before pushing it.
+BIZ:es:noun:el:código fuente;source code;The source code is in a private repository.
+BIZ:es:noun:el:lenguaje de programación;programming language;Python is a very popular programming language.
+BIZ:es:noun:el:algoritmo;algorithm;The algorithm recommends products to each customer.
+BIZ:es:noun:la:variable;variable;This variable stores the user's name.
+BIZ:es:noun:el:bucle;loop;The program gets stuck in an infinite loop.
+BIZ:es:noun:la:biblioteca;library (software);We use an external library for the charts.
+BIZ:es:noun:el:repositorio;repository, repo;Clone the repository to your computer.
+BIZ:es:noun:el:fallo de programación;bug, programming error;We found a bug in the payment system.
+BIZ:es:noun:el:bug;bug;This bug only shows up on old phones.
+BIZ:es:noun:la:depuración;debugging;Debugging the code took us all day.
+BIZ:es:noun:la:prueba;test;All the automated tests have passed.
+BIZ:es:noun:el:entorno;environment;First we test it in the test environment.
+BIZ:es:noun:el:despliegue;deployment;The deployment is scheduled for Friday.
+BIZ:es:noun:la:interfaz de programación;API, application programming interface;The API makes it possible to connect both systems.
+BIZ:es:noun:el:script;script;This script automates the backups.
+BIZ:es:noun:el:framework;framework;What framework do you use for the frontend?
+BIZ:es:noun:el:frontend;frontend, front end;She is in charge of the website's frontend.
+BIZ:es:noun:el:backend;backend, back end;The backend is written in Python.
+BIZ:es:noun:el:código abierto;open source;We prefer to use open-source tools.
+BIZ:es:noun:la:automatización;automation;Automation saves us a lot of hours.
+BIZ:es:noun:la:arquitectura;architecture;The system architecture needs to be improved.
+BIZ:es:noun:el:módulo;module;The billing module has a bug.
+BIZ:es:noun:el:parche;patch;They have released an urgent security patch.
+BIZ:es:noun:la:seguridad;security;Data security is our priority.
+BIZ:es:noun:la:ciberseguridad;cybersecurity;We take a cybersecurity course every year.
+BIZ:es:noun:la:contraseña;password;Change your password every three months.
+BIZ:es:noun:el:cifrado;encryption;All messages use end-to-end encryption.
+BIZ:es:noun:el:cortafuegos;firewall;The firewall blocks that connection.
+BIZ:es:noun:el:antivirus;antivirus;The antivirus has detected a suspicious file.
+BIZ:es:noun:el:virus;virus;The computer was infected with a virus.
+BIZ:es:noun:el:malware;malware;The malware came in an email attachment.
+BIZ:es:noun:el:ataque;attack;We suffered a cyberattack last month.
+BIZ:es:noun:el:hacker;hacker;A hacker accessed customer data.
+BIZ:es:noun:el:pirata informático;hacker, cybercriminal;The hacker was arrested in Valencia.
+BIZ:es:noun:la:suplantación de identidad;phishing, identity theft, impersonation;Watch out for phishing emails.
+BIZ:es:noun:la:vulnerabilidad;vulnerability;A serious vulnerability has been found in the system.
+BIZ:es:noun:la:amenaza;threat;Digital threats are growing every year.
+BIZ:es:noun:el:acceso;access;I don't have access to the project folder.
+BIZ:es:noun:el:permiso;permission;You need administrator permissions to install it.
+BIZ:es:noun:la:autenticación;authentication;Turn on two-step authentication.
+BIZ:es:noun:la:verificación;verification;You'll receive a verification code by text message.
+BIZ:es:noun:la:clave;password, key, code;Enter the access code.
+BIZ:es:noun:la:privacidad;privacy;Read the privacy policy before accepting.
+BIZ:es:noun:la:protección de datos;data protection;The data protection law is very strict.
+BIZ:es:noun:la:filtración;leak;There was a leak of personal data.
+BIZ:es:noun:el:administrador;administrator, admin;Ask the system administrator for access.
+BIZ:es:noun:la:inteligencia artificial;artificial intelligence, AI;Artificial intelligence already writes many reports.
+BIZ:es:noun:el:aprendizaje automático;machine learning;We use machine learning to detect fraud.
+BIZ:es:noun:el:modelo;model;We have trained the model on our own data.
+BIZ:es:noun:la:red neuronal;neural network;A neural network recognizes the images.
+BIZ:es:noun:el:chatbot;chatbot;The chatbot answers frequently asked questions.
+BIZ:es:noun:el:asistente virtual;virtual assistant;The virtual assistant organizes my schedule.
+BIZ:es:noun:la:instrucción;instruction, prompt;Write a clear prompt for the AI.
+BIZ:es:noun:el:entrenamiento;training;Training the model takes several days.
+BIZ:es:noun:el:robot;robot;A robot sorts the packages in the warehouse.
+BIZ:es:noun:la:realidad virtual;virtual reality, VR;We train staff using virtual reality.
+BIZ:es:noun:el:reconocimiento de voz;speech recognition, voice recognition;Speech recognition works very well in Spanish.
+BIZ:es:noun:la:digitalización;digitization, digitalization;The digitization of the files will be finished in June.
+BIZ:es:noun:la:transformación digital;digital transformation;Digital transformation is changing the way we work.
+BIZ:es:noun:el:sistema;system;The system will restart tonight.
+BIZ:es:noun:el:soporte técnico;technical support, tech support;Call technical support if the problem continues.
+BIZ:es:noun:la:incidencia;incident, issue, ticket;Open a ticket on the support portal.
+BIZ:es:noun:el:ticket;ticket;Your ticket will be resolved within twenty-four hours.
+BIZ:es:noun:el:servicio de asistencia;help desk, support service;The help desk opens at eight.
+BIZ:es:noun:el:técnico;technician, engineer;A technician is coming tomorrow to check the printer.
+BIZ:es:noun:el:manual de usuario;user manual, user guide;Check the user manual before calling.
+BIZ:es:noun:el:tutorial;tutorial;There's a video tutorial on how to install it.
+BIZ:es:noun:el:acceso remoto;remote access;The technician connected via remote access.
+BIZ:es:noun:el:proyecto;project;The migration project is behind schedule.
+BIZ:es:noun:el:jefe de proyecto;project manager;The project manager assigns the tasks every Monday.
+BIZ:es:noun:el:requisito;requirement;The client has changed the requirements again.
+BIZ:es:noun:la:especificación;specification, spec;Read the technical specification before coding.
+BIZ:es:noun:la:metodología ágil;agile methodology, Agile;We have been working with agile methodology for years.
+BIZ:es:noun:el:sprint;sprint;This sprint lasts two weeks.
+BIZ:es:noun:el:prototipo;prototype;We showed the prototype to the client yesterday.
+BIZ:es:noun:la:funcionalidad;functionality, feature;We'll add that feature in the next version.
+BIZ:es:noun:la:documentación;documentation;The documentation for the new module is missing.
+BIZ:es:noun:el:correo electrónico;email;I've sent you an email with the details.
+BIZ:es:noun:el:adjunto;attachment;The attachment is too large to send.
+BIZ:es:noun:la:bandeja de entrada;inbox;My inbox is full of emails.
+BIZ:es:noun:el:correo basura;spam, junk mail;The message ended up in the junk mail folder.
+BIZ:es:noun:la:videollamada;video call;We have a video call with the Lima team.
+BIZ:es:noun:el:chat;chat;Message me on the chat if you have any questions.
+BIZ:es:noun:la:mensajería instantánea;instant messaging;We use instant messaging for urgent matters.
+BIZ:es:noun:la:red social;social network, social media;The company has profiles on several social networks.
+BIZ:es:noun:la:notificación;notification;Turn off notifications during the meeting.
+BIZ:es:verb::guardar;save;Don't forget to save your changes before exiting.
+BIZ:es:verb::descargar;download;I downloaded the report from the intranet.
+BIZ:es:verb::instalar;install;The program has to be installed on all the computers.
+BIZ:es:verb::desinstalar;uninstall;Uninstall the old version first.
+BIZ:es:verb::actualizar;update, upgrade;Yesterday I updated the operating system.
+BIZ:es:verb::reiniciar;restart, reboot;Restart the computer to finish the installation.
+BIZ:es:verb::encender;turn on, switch on;I turn on my laptop as soon as I arrive.
+BIZ:es:verb::apagar;turn off, switch off, shut down;Turn off the computers before you leave.
+BIZ:es:verb::conectar;connect, plug in;Connect the printer to the network.
+BIZ:es:verb::desconectar;disconnect, unplug;Unplug the cable before opening the computer.
+BIZ:es:verb::conectarse;connect, log on, join (online);I'm joining the meeting from home.
+BIZ:es:verb::cargar;load;The page takes a long time to load.
+BIZ:es:verb::subir;upload;Upload the document to the cloud, please.
+BIZ:es:verb::borrar;delete, erase;I deleted the file by mistake.
+BIZ:es:verb::eliminar;delete, remove;Remove the users who no longer work here.
+BIZ:es:verb::copiar;copy;Copy the text and paste it into the chat.
+BIZ:es:verb::pegar;paste;Paste the link into the browser.
+BIZ:es:verb::cortar;cut;Cut this image and move it down.
+BIZ:es:verb::imprimir;print, print out;Print two copies of the report.
+BIZ:es:verb::escanear;scan;I scanned the invoices this morning.
+BIZ:es:verb::pulsar;press, click;Press the Enter key to confirm.
+BIZ:es:verb::clicar;click;Click on the link to download the file.
+BIZ:es:verb::teclear;type, key in;Type your password without spaces.
+BIZ:es:verb::buscar;search, look for;Search for the file by its name.
+BIZ:es:verb::navegar;browse, surf (the web);Browsing with this connection is very slow.
+BIZ:es:verb::acceder;access, log in;I can't access my account.
+BIZ:es:verb::registrarse;register, sign up;Sign up with your company email.
+BIZ:es:verb::abrir;open;I can't open this attachment.
+BIZ:es:verb::programar;program, code;I learned to program at university.
+BIZ:es:verb::desarrollar;develop;We are developing an app for customers.
+BIZ:es:verb::codificar;encode, code;The system encodes the data before sending it.
+BIZ:es:verb::compilar;compile;The project takes five minutes to compile.
+BIZ:es:verb::ejecutar;run, execute;Run the script as administrator.
+BIZ:es:verb::depurar;debug;I spent the afternoon debugging the code.
+BIZ:es:verb::probar;test, try out;Test the new version before releasing it.
+BIZ:es:verb::implementar;implement, introduce;We are going to implement a new management system.
+BIZ:es:verb::desplegar;deploy, roll out;We deploy the update every Tuesday.
+BIZ:es:verb::configurar;configure, set up;Can you help me set up my email?
+BIZ:es:verb::personalizar;customize, personalize;You can customize the dashboard.
+BIZ:es:verb::sincronizar;sync, synchronize;The phone syncs contacts automatically.
+BIZ:es:verb::compartir;share;Can you share your screen?
+BIZ:es:verb::cifrar;encrypt;We encrypt all customer data.
+BIZ:es:verb::descifrar;decrypt, decipher;Without the key the file can't be decrypted.
+BIZ:es:verb::encriptar;encrypt;The app encrypts messages automatically.
+BIZ:es:verb::proteger;protect;I protect my files with a password.
+BIZ:es:verb::bloquear;lock, block;The system locked the account after three attempts.
+BIZ:es:verb::desbloquear;unlock;Unlock your phone with your fingerprint.
+BIZ:es:verb::hackear;hack;His email account was hacked.
+BIZ:es:verb::piratear;hack, pirate;Someone tried to hack our website.
+BIZ:es:verb::infectar;infect;A virus infected several computers.
+BIZ:es:verb::restaurar;restore;We restored the system from the last backup.
+BIZ:es:verb::recuperar;recover, retrieve;Can a deleted file be recovered?
+BIZ:es:verb::migrar;migrate, move;We migrated our email to the cloud last year.
+BIZ:es:verb::procesar;process;The server processes thousands of orders an hour.
+BIZ:es:verb::analizar;analyze;I analyzed the app's usage data.
+BIZ:es:verb::filtrar;filter;Filter the table by date.
+BIZ:es:verb::digitalizar;digitize, scan;All the old contracts need to be digitized.
+BIZ:es:verb::automatizar;automate;We automated the sending of invoices.
+BIZ:es:verb::entrenar;train;We trained the model on data from the last year.
+BIZ:es:verb::solucionar;solve, fix;The technician fixed the problem in ten minutes.
+BIZ:es:verb::resolver;resolve, solve;We have resolved the issue.
+BIZ:es:verb::fallar;fail, go down;The connection fails when it rains.
+BIZ:es:verb::colgarse;freeze, hang, crash;The program freezes every time I print.
+BIZ:es:verb::caerse;go down, crash;The mail server has gone down.
+BIZ:es:verb::funcionar;work, function;The printer hasn't been working since yesterday.
+BIZ:es:verb::seleccionar;select, highlight;Select all the text with the mouse.
+BIZ:es:verb::arrastrar;drag;Drag the file into the folder.
+BIZ:es:verb::deshacer;undo;You can undo the last change.
+BIZ:es:verb::grabar;record;We're going to record the meeting for anyone who can't attend.
+BIZ:es:verb::silenciar;mute;Mute your microphone when you're not speaking.
+BIZ:es:verb::chatear;chat;We chatted with the customer during the installation.
+BIZ:es:verb::comprimir;compress, zip;Compress the folder before sending it.
+BIZ:es:verb::descomprimir;unzip, extract, decompress;Unzip the file onto the desktop.
+BIZ:es:verb::formatear;format;I had to format the hard drive.
+BIZ:es:verb::validar;validate;The form validates the email address automatically.
+BIZ:es:verb::verificar;verify, confirm;Verify your identity with the code from the text message.
+BIZ:es:verb::suscribirse;subscribe, sign up;I subscribed to the tech newsletter.
+BIZ:es:verb::escalar;escalate;If you can't resolve it, escalate the ticket.
+BIZ:es:verb::alojar;host;We host the website on our own server.
+BIZ:es:verb::reproducir;reproduce;I can't reproduce the error on my computer.
+BIZ:es:verb::introducir;enter, input;Enter the verification code.
+BIZ:es:adj::digital;digital;We signed the contract with a digital signature.
+BIZ:es:adj::tecnológico;technology, technological, tech;It's a tech company based in Barcelona.
+BIZ:es:adj::inalámbrico;wireless;I prefer a wireless mouse.
+BIZ:es:adj::virtual;virtual;We have a virtual meeting at ten.
+BIZ:es:adj::conectado;connected, online, logged in;There are twenty users online right now.
+BIZ:es:adj::desconectado;disconnected, offline;The server has been offline for an hour.
+BIZ:es:adj::compatible;compatible;This app isn't compatible with my phone.
+BIZ:es:adj::incompatible;incompatible;The two programs are incompatible.
+BIZ:es:adj::actualizado;updated, up to date;Always keep your antivirus up to date.
+BIZ:es:adj::obsoleto;obsolete, outdated;This operating system is already obsolete.
+BIZ:es:adj::seguro;secure, safe, strong (password);Always use a strong password.
+BIZ:es:adj::fiable;reliable, dependable;We need a reliable cloud provider.
+BIZ:es:adj::encriptado;encrypted;The data travels encrypted over the network.
+BIZ:es:adj::automático;automatic;Automatic updates are turned on.
+BIZ:es:adj::intuitivo;intuitive, user-friendly;The program is very intuitive.
+BIZ:es:adj::interactivo;interactive;We have created an interactive sales map.
+BIZ:es:adj::remoto;remote;The development team is fully remote.
+BIZ:es:adj::local;local;Save a copy on the local disk.
+BIZ:es:adj::predeterminado;default, preset;Restore the default settings.
+BIZ:es:adj::caído;down (not working);The website has been down all morning.
+BIZ:es:adj::lento;slow;The computer is very slow today.
+BIZ:es:adj::escalable;scalable;We are looking for a scalable solution.
+BIZ:es:adj::robusto;robust, reliable;It's a robust, proven system.
+BIZ:es:adj::malicioso;malicious;Don't open malicious links.
+BIZ:es:adj::sospechoso;suspicious;I've received a suspicious email.
+BIZ:es:adj::inteligente;smart, intelligent;They installed a smart lighting system.
+BIZ:es:adj::electrónico;electronic;You'll receive the electronic invoice by email.
+BIZ:es:adj::multimedia;multimedia;We are preparing a multimedia presentation.
+BIZ:es:adj::accesible;accessible;The website must be accessible to blind people.
+BIZ:es:adj::obligatorio;required, mandatory, compulsory;The marked fields are required.
+BIZ:es:adj::opcional;optional;This installation step is optional.
+BIZ:es:adj::válido;valid;The code is no longer valid.
+BIZ:es:adj::defectuoso;defective, faulty;We returned the keyboard because it was faulty.
+BIZ:es:adj::dañado;damaged, corrupted;The file is corrupted and won't open.
+BIZ:es:adj::personalizado;personalized, customized, tailored;We offer each customer a personalized service.
+BIZ:es:adj::colaborativo;collaborative;We use a collaborative online editor.
+BIZ:es:adj::ágil;agile, streamlined, efficient;We need a more streamlined process.
