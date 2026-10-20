@@ -3894,3 +3894,603 @@ BIZ:es:adj::dañado;damaged, corrupted;The file is corrupted and won't open.
 BIZ:es:adj::personalizado;personalized, customized, tailored;We offer each customer a personalized service.
 BIZ:es:adj::colaborativo;collaborative;We use a collaborative online editor.
 BIZ:es:adj::ágil;agile, streamlined, efficient;We need a more streamlined process.
+es:verb::aburrir;bore;This film really bores me.
+es:verb::renovar;renew, renovate;I have to renew my passport this year.
+es:verb::multar;fine;They fined me for parking badly.
+es:verb::repostar;refuel, fill up (with fuel);We have to fill up before leaving the city.
+es:verb::transportar;transport, carry;This truck transports fruit to France.
+es:verb::escanear;scan;Scan the document and send it to me.
+es:verb::actualizar;update;You need to update the app.
+es:verb::atrapar;catch, trap;The police caught the thief on the metro.
+es:adv::al principio;at first, at the beginning;At first I didn't understand anything.
+es:adv::rara vez;rarely, seldom;I rarely go out at night.
+es:adv::de pronto;suddenly, all of a sudden;Suddenly it started to rain.
+es:adv::mientras tanto;meanwhile, in the meantime;I'll cook and you, meanwhile, set the table.
+es:adv::constantemente;constantly;My neighbor constantly complains about the noise.
+es:adv::claramente;clearly;Please speak more clearly.
+es:adv::completamente;completely, totally;I completely agree with you.
+es:adv::simplemente;simply, just;I just wanted to thank you.
+es:adv::precisamente;precisely, exactly, just;We were just talking about you.
+es:adv::dentro de poco;soon, shortly;The holidays start soon.
+es:adv::de momento;for now, for the time being;For now I'm living with my parents.
+es:adv::por fin;finally, at last;Summer has finally arrived.
+es:adv::por lo general;generally, as a rule, usually;I usually have dinner at nine.
+es:adv::en general;in general, on the whole;In general, people here are very friendly.
+es:adv::al menos;at least;Call at least once a week.
+es:adv::por lo menos;at least;The trip takes at least three hours.
+es:adv::poco a poco;little by little, gradually;Little by little my Spanish is improving.
+es:adv::en serio;seriously;Are you serious?
+es:adv::en voz alta;aloud, out loud;Read the text aloud, please.
+es:adv::en voz baja;quietly, in a low voice;Speak quietly, the baby is sleeping.
+es:adv::a mano;by hand;I wrote the letter by hand.
+es:adv::tal vez;maybe, perhaps;Maybe we'll go to the beach tomorrow.
+es:adv::de memoria;by heart;I know the poem by heart.
+es:adv::ni siquiera;not even;He didn't even say goodbye to me.
+es:adv::habitualmente;usually, habitually;I usually take the metro to work.
+es:adv::personalmente;personally;Personally, I prefer the countryside to the city.
+es:adv::obviamente;obviously;Obviously, I'm not going to be the one who pays.
+es:adv::sinceramente;honestly, sincerely;Honestly, I don't like this plan at all.
+es:adv::a diario;daily, every day;I use the computer every day.
+es:adv::de todos modos;anyway, in any case;I'm not hungry, but I'll eat something anyway.
+es:adv::frecuentemente;frequently, often;I travel frequently for work.
+es:adv::absolutamente;absolutely;I don't understand absolutely anything.
+es:noun:el:sindicalista;trade unionist, union representative;The trade unionist spoke to the workers.
+es:noun:la:experiencia laboral;work experience;They are asking for three years of work experience.
+es:noun:el:tutor;tutor, class teacher;The class teacher spoke with the student's parents.
+es:noun:el:temario;syllabus, list of topics;The syllabus for the exam is very extensive.
+es:noun:la:nota media;grade point average, average mark;She needs a high average mark to get into Medicine.
+es:noun:la:bibliografía;bibliography, reading list;Look at the bibliography at the end of the book.
+es:noun:la:sabiduría;wisdom;Grandparents' wisdom is very valuable.
+es:noun:el:razonamiento;reasoning;His reasoning seems quite logical to me.
+es:noun:el:embalaje;packaging, packing;The packaging of the parcel was damaged.
+es:noun:la:fuente de energía;energy source, source of energy;Wind is a clean energy source.
+es:noun:el:medio de transporte;means of transport;The bicycle is an eco-friendly means of transport.
+es:noun:la:circulación;traffic, circulation;Traffic is very heavy at this time.
+es:noun:el:peatón;pedestrian;Pedestrians must cross at the zebra crossing.
+es:noun:el:carril;lane;Always drive in the right-hand lane.
+es:noun:el:carril bici;bike lane, cycle lane;They've built a new bike lane in my neighborhood.
+es:noun:la:humedad;humidity, damp;In summer the humidity here is unbearable.
+es:noun:el:pronóstico;forecast, prognosis;The weather forecast says rain.
+es:noun:la:ola de calor;heatwave;Europe is suffering a record heatwave.
+es:noun:la:cordillera;mountain range;The Andes are the longest mountain range in the world.
+es:noun:el:acantilado;cliff;From the cliff you can see the whole sea.
+es:noun:la:bahía;bay;We sailed around the bay at sunset.
+es:noun:la:desembocadura;mouth (of a river);The city lies at the mouth of the river.
+es:noun:el:embalse;reservoir;The reservoir is almost empty because of the drought.
+es:noun:la:erupción;eruption, rash;The eruption forced the village to be evacuated.
+es:noun:la:escapada;getaway, short trip;We had a weekend getaway to the mountains.
+es:noun:la:tarjeta de embarque;boarding pass;Show your boarding pass, please.
+es:noun:la:cancelación;cancellation;The cancellation of the flight ruined our trip.
+es:noun:la:muralla;city wall, wall;The wall surrounds the whole old town.
+es:noun:el:casco antiguo;old town, historic center;We strolled around the old town of Toledo.
+es:noun:la:periferia;outskirts, periphery;Many factories are on the outskirts of the city.
+es:noun:la:tubería;pipe;A pipe burst and the bathroom flooded.
+es:noun:la:fachada;facade, front (of a building);They are painting the facade of the building.
+es:noun:el:ático;penthouse, attic flat;They live in a penthouse with a huge terrace.
+es:noun:la:tarea doméstica;household chore, housework;We share the household chores at home.
+es:noun:el:moratón;bruise;I hit myself and got a bruise.
+es:noun:el:esguince;sprain;He got a sprain playing football.
+es:noun:la:fractura;fracture;The X-ray showed a fracture in the arm.
+es:noun:el:vendaje;bandage, dressing;The nurse changed his bandage.
+es:noun:el:quirófano;operating room, operating theatre;The patient is already in the operating room.
+es:noun:la:camilla;stretcher, examination couch;They took him to hospital on a stretcher.
+es:noun:la:anestesia;anesthesia, anesthetic;They operated on him under general anesthesia.
+es:noun:la:hinchazón;swelling;Put ice on it to reduce the swelling.
+es:noun:el:mareo;dizziness, travel sickness;I felt dizzy when I got out of bed.
+es:noun:la:náusea;nausea;The medicine can cause nausea.
+es:noun:el:picor;itch, itching;The bite is very itchy.
+es:noun:el:insomnio;insomnia;He has been suffering from insomnia for months.
+es:noun:la:jaqueca;migraine, bad headache;I have a terrible migraine today.
+es:noun:la:cadera;hip;My grandmother broke her hip.
+es:noun:la:columna vertebral;spine, backbone;Bad posture damages the spine.
+es:noun:el:riñón;kidney;He had a kidney transplant last year.
+es:noun:el:hígado;liver;Alcohol damages the liver.
+es:noun:la:vena;vein;The nurse couldn't find the vein.
+es:noun:la:tensión arterial;blood pressure;I have to keep an eye on my blood pressure.
+es:noun:el:latido;heartbeat, beat;The doctor listened to the baby's heartbeat.
+es:noun:la:respiración;breathing, breath;Hold your breath for a few seconds.
+es:noun:la:pestaña;eyelash, tab;An eyelash fell into her eye.
+es:noun:la:barbilla;chin;He rested his chin on his hand.
+es:noun:el:muslo;thigh;He injured his thigh in the race.
+es:noun:el:esqueleto;skeleton;The human skeleton has more than two hundred bones.
+es:noun:el:centro de salud;health center, local clinic;Make an appointment at the health center.
+es:noun:la:pomada;ointment, cream;Put this ointment on twice a day.
+es:noun:el:botiquín;first-aid kit;I always keep a first-aid kit in the car.
+es:noun:el:alta;discharge (from hospital);Tomorrow they will discharge my father.
+es:noun:la:recaída;relapse;He had a relapse after the operation.
+es:noun:la:terapia;therapy;She goes to therapy once a week.
+es:noun:el:fisioterapeuta;physiotherapist, physical therapist;The physiotherapist recommended these exercises to me.
+es:noun:el:arrepentimiento;repentance, regret, remorse;He showed sincere repentance.
+es:noun:el:remordimiento;remorse, guilt;I feel remorse for what I said to him.
+es:noun:el:resentimiento;resentment;I don't bear him any resentment.
+es:noun:el:asco;disgust, revulsion;Raw food disgusts me.
+es:noun:la:compasión;compassion, pity;She feels compassion for abandoned animals.
+es:noun:la:lealtad;loyalty;I really value my friends' loyalty.
+es:noun:la:fidelidad;fidelity, faithfulness;Fidelity is fundamental in a relationship.
+es:noun:la:vanidad;vanity;His vanity knows no bounds.
+es:noun:la:humildad;humility, modesty;She talks about her successes with great humility.
+es:noun:la:terquedad;stubbornness, obstinacy;His stubbornness gets him into a lot of trouble.
+es:noun:la:torpeza;clumsiness;Sorry for my clumsiness, I've got something on you.
+es:noun:la:sensatez;good sense, sensibleness;She acted sensibly at a difficult moment.
+es:noun:la:sensibilidad;sensitivity, sensibility;He has a great artistic sensibility.
+es:noun:la:ingenuidad;naivety, innocence;They took advantage of his naivety.
+es:noun:la:astucia;cunning, shrewdness, cleverness;He won the game thanks to his cunning.
+es:noun:la:cobardía;cowardice;Running away was an act of cowardice.
+es:noun:la:sospecha;suspicion;I have a suspicion that he lied to us.
+es:noun:la:decepción;disappointment, letdown;The film was a big disappointment.
+es:noun:la:desesperación;despair, desperation;She wept in despair when she got the news.
+es:noun:el:consuelo;comfort, consolation;His words were a great comfort to me.
+es:noun:la:carcajada;guffaw, burst of laughter;Everyone burst out laughing.
+es:noun:el:suspiro;sigh;He gave a sigh of relief.
+es:noun:el:pánico;panic, terror;Speaking in public terrifies him.
+es:noun:el:escalofrío;shiver, chill;I've got the shivers, I think I have a fever.
+es:noun:el:noviazgo;courtship, relationship (before marriage);Their relationship lasted five years before they married.
+es:noun:la:ruptura;breakup, split;She had a very hard time after the breakup.
+es:noun:la:reconciliación;reconciliation;At last there was a reconciliation between the brothers.
+es:noun:el:malentendido;misunderstanding;It was all a misunderstanding.
+es:noun:la:bronca;telling-off, row;My mother gave me a telling-off for coming home late.
+es:noun:el:cotilleo;gossip;I'm not interested in office gossip.
+es:noun:el:padrastro;stepfather;He gets on very well with his stepfather.
+es:noun:la:madrastra;stepmother;In the fairy tale, the stepmother was very cruel.
+es:noun:el:padrino;godfather;My uncle is my godfather.
+es:noun:el:descendiente;descendant;He is a descendant of Italian immigrants.
+es:noun:el:bisabuelo;great-grandfather;My great-grandfather fought in the war.
+es:noun:la:crianza;upbringing, raising (of children);Raising children requires a lot of patience.
+es:noun:la:maternidad;maternity, motherhood;She is on maternity leave.
+es:noun:la:adopción;adoption;They started the adoption process.
+es:noun:el:concejal;councillor, council member;The councillor for culture opened the exhibition.
+es:noun:la:candidatura;candidacy;She announced her candidacy for mayor.
+es:noun:la:urna;ballot box;Citizens went to the polls.
+es:noun:la:abstención;abstention, low turnout;Abstention was very high in these elections.
+es:noun:la:legislatura;legislative term, parliament;He promised to pass the law during this parliament.
+es:noun:la:revuelta;revolt, uprising;The rise in prices sparked a revolt.
+es:noun:el:golpe de Estado;coup, coup d'état;The coup failed within a few hours.
+es:noun:el:dictador;dictator;The dictator ruled for forty years.
+es:noun:la:colonia;colony;Cuba was a Spanish colony.
+es:noun:la:conquista;conquest;The conquest of America changed history.
+es:noun:el:imperio;empire;The Roman Empire lasted for centuries.
+es:noun:el:reinado;reign;During his reign there were many wars.
+es:noun:la:invasión;invasion;The invasion began at dawn.
+es:noun:la:tregua;truce, ceasefire;The two sides agreed to a truce.
+es:noun:el:rehén;hostage;The kidnappers released the hostages.
+es:noun:el:secuestro;kidnapping, hijacking;The hijacking of the plane lasted ten hours.
+es:noun:la:estafa;scam, fraud, swindle;That offer is clearly a scam.
+es:noun:el:asesinato;murder;The police are investigating the murder.
+es:noun:el:asesino;murderer, killer;They arrested the murderer two days later.
+es:noun:la:agresión;assault, attack;She reported an assault on the metro.
+es:noun:el:atraco;robbery, hold-up;There was a robbery at the bank on my street.
+es:noun:el:hurto;theft, petty theft;Phone theft is common on the metro.
+es:noun:el:vandalismo;vandalism;The park suffered acts of vandalism.
+es:noun:la:patrulla;patrol;A police patrol arrived right away.
+es:noun:la:coartada;alibi;The suspect has a solid alibi.
+es:noun:el:cómplice;accomplice;His accomplice was waiting for him in the car.
+es:noun:el:veredicto;verdict;The verdict will be announced tomorrow.
+es:noun:la:cadena perpetua;life imprisonment, life sentence;He was sentenced to life imprisonment.
+es:noun:el:mercado laboral;labor market, job market;The job market is changing rapidly.
+es:noun:la:multinacional;multinational (company);She works for a pharmaceutical multinational.
+es:noun:la:pyme;SME, small business;SMEs create a lot of jobs.
+es:noun:la:paga extra;bonus payment, extra month's pay;In December we get our extra month's pay.
+es:noun:el:finiquito;severance pay, final settlement;When he left the company they paid him his final settlement.
+es:noun:el:teletrabajo;remote work, teleworking;Remote work has become very common.
+es:noun:la:conciliación;work-life balance, reconciliation;Balancing work and family life is difficult with this schedule.
+es:noun:la:excedencia;leave of absence, unpaid leave;She asked for a leave of absence to look after her son.
+es:noun:el:cargo;post, position;He holds an important position in the ministry.
+es:noun:el:encargado;manager, person in charge;Speak to the store manager.
+es:noun:la:carta de presentación;cover letter, covering letter;Attach a cover letter to your CV.
+es:noun:la:convocatoria;call (for applications), announcement;The call for scholarship applications has been published.
+es:noun:el:aspirante;applicant, candidate;There are a hundred applicants for a single job.
+es:noun:la:recaudación;takings, proceeds, revenue;The proceeds from the concert went to an NGO.
+es:noun:el:déficit;deficit;The public deficit has increased this year.
+es:noun:el:capricho;whim, treat, indulgence;This bag was a treat to myself.
+es:noun:el:consumismo;consumerism;Consumerism affects the environment.
+es:noun:el:eslogan;slogan;The campaign slogan is very catchy.
+es:noun:la:atención al cliente;customer service;I called customer service.
+es:noun:la:entrega;delivery, handover;Delivery of the order is free.
+es:noun:el:regateo;haggling, bargaining;Haggling is normal at the market.
+es:noun:el:columnista;columnist;He is a columnist for a national newspaper.
+es:noun:la:rueda de prensa;press conference;The minister gave a press conference this morning.
+es:noun:el:redactor;writer, editor (of texts);He works as a writer for a magazine.
+es:noun:el:corresponsal;correspondent;She is a correspondent in Brussels.
+es:noun:el:oyente;listener;The program has millions of listeners.
+es:noun:el:plató;set, studio (TV);The guests are already on set.
+es:noun:el:rodaje;shooting, filming;Shooting of the film lasted three months.
+es:noun:la:cartelera;listings (cinema, theatre), billboard;What films are showing this week?
+es:noun:el:reparto;cast, distribution;The film has an excellent cast.
+es:noun:la:banda sonora;soundtrack;The soundtrack of this film is beautiful.
+es:noun:el:subtítulo;subtitle;I prefer watching series with subtitles.
+es:noun:el:doblaje;dubbing;The dubbing of this series is very bad.
+es:noun:la:secuela;sequel, aftereffect;The sequel is better than the first film.
+es:noun:el:galardón;award, prize;He received the award for best actor.
+es:noun:el:certamen;competition, contest;She won a young poets' competition.
+es:noun:el:lienzo;canvas;He painted the picture on a huge canvas.
+es:noun:el:pincel;paintbrush, brush;Clean the brushes well after painting.
+es:noun:el:boceto;sketch, draft;The architect showed us a sketch of the building.
+es:noun:el:mural;mural;There is a huge mural on the front of the school.
+es:noun:la:obra de arte;work of art;This painting is a true work of art.
+es:noun:el:coleccionista;collector;A collector bought the painting for millions.
+es:noun:la:vanguardia;avant-garde, vanguard;Picasso was an avant-garde artist.
+es:noun:la:arquitectura;architecture;I love the architecture of Barcelona.
+es:noun:la:cúpula;dome;The cathedral's dome is impressive.
+es:noun:la:estrofa;stanza, verse;The poem has four stanzas.
+es:noun:la:rima;rhyme;Find a rhyme for this word.
+es:noun:el:narrador;narrator;The narrator tells the story in the first person.
+es:noun:el:prólogo;prologue, foreword, preface;The foreword was written by a famous novelist.
+es:noun:el:ejemplar;copy (of a book), specimen;A million copies were sold.
+es:noun:la:biografía;biography;I'm reading a biography of Frida Kahlo.
+es:noun:la:fábula;fable;Every fable ends with a moral.
+es:noun:el:refrán;proverb, saying;As the saying goes, better late than never.
+es:noun:el:ciberacoso;cyberbullying;Cyberbullying is a serious problem among young people.
+es:noun:la:copia de seguridad;backup;Make a backup of your files.
+es:noun:el:almacenamiento;storage;I need more storage on my phone.
+es:noun:la:captura de pantalla;screenshot;Take a screenshot of the message for me.
+es:noun:el:procesador;processor;This laptop has a very fast processor.
+es:noun:el:escáner;scanner;Use the scanner to digitize the documents.
+es:noun:el:internauta;internet user;Many internet users criticized the ad.
+es:noun:la:plataforma;platform;We watch series on several streaming platforms.
+es:noun:la:publicación;post, publication;Her latest post has thousands of comments.
+es:noun:la:etiqueta;label, tag, etiquette;Read the label before washing the clothes.
+es:noun:la:notificación;notification;I turned off the notifications on my phone.
+es:noun:la:videollamada;video call;We talk on a video call every Sunday.
+es:noun:el:antivirus;antivirus (software);Install a good antivirus on your computer.
+es:noun:la:configuración;settings, configuration;Change the language in the phone's settings.
+es:noun:la:fibra óptica;fiber optics, fiber-optic broadband;They've installed fiber-optic broadband throughout the building.
+es:noun:el:oxígeno;oxygen;Plants produce oxygen.
+es:noun:el:mamífero;mammal;The whale is a mammal.
+es:noun:el:reptil;reptile;The crocodile is a reptile.
+es:noun:el:depredador;predator;The wolf is a natural predator.
+es:noun:la:presa;prey, dam;The eagle caught its prey.
+es:noun:la:manada;pack, herd;We saw a pack of wolves in the mountains.
+es:noun:el:rebaño;flock, herd;The shepherd looks after his flock.
+es:noun:la:pluma;feather;I found an eagle feather.
+es:noun:la:garra;claw, talon;The bear has enormous claws.
+es:noun:el:águila;eagle;An eagle was flying over the valley.
+es:noun:el:murciélago;bat (animal);Bats come out at night.
+es:noun:el:tronco;trunk;The trunk of this tree is enormous.
+es:noun:la:semilla;seed;We plant tomato seeds in spring.
+es:noun:el:riego;irrigation, watering;Drip irrigation saves water.
+es:noun:la:plaga;plague, infestation, pest;A plague of locusts destroyed the harvest.
+es:noun:la:helada;frost;There was a very hard frost last night.
+es:noun:el:rayo;lightning, bolt of lightning, ray;Lightning struck the tree.
+es:noun:el:arco iris;rainbow;After the rain a rainbow appeared.
+es:noun:la:península;peninsula;Spain is on the Iberian Peninsula.
+es:noun:el:archipiélago;archipelago;The Canaries are a volcanic archipelago.
+es:noun:la:meseta;plateau, tableland;Madrid is in the middle of the plateau.
+es:noun:la:ladera;slope, hillside, mountainside;The village is on the mountainside.
+es:noun:el:manantial;spring (of water);We drank water from a spring.
+es:noun:la:cascada;waterfall;We hiked to the waterfall.
+es:noun:el:arroyo;stream, brook;A little stream runs through the forest.
+es:noun:el:pantano;marsh, swamp, reservoir;There are lots of mosquitoes near the marsh.
+es:noun:el:alcance;reach, scope;Keep medicines out of the reach of children.
+es:noun:la:carencia;lack, deficiency, shortage;She has a vitamin deficiency.
+es:noun:la:presencia;presence;Your presence is required at the meeting.
+es:noun:la:abundancia;abundance, plenty;There is plenty of water in this area.
+es:noun:la:excepción;exception;Everyone came, with the exception of Juan.
+es:noun:la:virtud;virtue;Honesty is a virtue.
+es:noun:la:suposición;assumption, supposition, guess;That's just an assumption.
+es:noun:la:certeza;certainty;I'm not certain that he'll come.
+es:noun:la:coherencia;coherence, consistency;His speech lacks coherence.
+es:noun:la:contradicción;contradiction;There is a contradiction in his statements.
+es:noun:el:caos;chaos;After the match, the city was in chaos.
+es:noun:el:procedimiento;procedure, process;The procedure for applying for a visa is slow.
+es:noun:la:trayectoria;career, track record, trajectory;She has a long professional career.
+es:noun:el:auge;boom, rise, peak;Rural tourism is booming.
+es:noun:el:declive;decline;The textile industry is in decline.
+es:noun:el:transcurso;course (of time);Questions came up during the course of the meeting.
+es:noun:el:margen;margin;Write your notes in the margin.
+es:noun:la:profundidad;depth;The lake is twenty meters deep.
+es:noun:la:anchura;width;Measure the width of the window.
+es:noun:la:lengua materna;mother tongue, native language;My mother tongue is Russian.
+es:noun:el:dialecto;dialect;In that region they speak their own dialect.
+es:noun:la:jerga;slang, jargon;I don't understand teenagers' slang.
+es:noun:el:sinónimo;synonym;Find a synonym for this word.
+es:noun:la:ironía;irony;He said it with a lot of irony.
+es:noun:la:tertulia;discussion, talk show, get-together;I listen to a political talk show on the radio.
+es:noun:el:promedio;average;The average age is thirty.
+es:noun:la:especia;spice;This sauce contains lots of spices.
+es:noun:la:cucharada;spoonful, tablespoon (measure);Add two tablespoons of sugar.
+es:noun:la:pizca;pinch;Add a pinch of salt.
+es:noun:la:ración;portion, serving;We ordered a portion of squid.
+es:noun:la:sobremesa;after-meal conversation, lingering at the table after a meal;The after-lunch chat lasted longer than the meal itself.
+es:noun:el:comensal;diner, guest (at a meal);The table seats eight diners.
+es:noun:el:embutido;cured meats, sausage;People in Spain eat a lot of cured meats.
+es:noun:el:marisco;seafood, shellfish;The seafood in Galicia is excellent.
+es:noun:la:legumbre;legume, pulse;Legumes are very nutritious.
+es:noun:la:grasa;fat, grease;This food has too much fat.
+es:noun:la:caloría;calorie;This dessert has a lot of calories.
+es:noun:la:proteína;protein;Eggs have a lot of protein.
+es:noun:el:desempeño;performance;They assessed his performance over the past year.
+es:noun:el:notario;notary;We signed the sale in front of the notary.
+es:noun:el:testamento;will, testament;In his will he left his entire fortune to his grandchildren.
+es:noun:el:heredero;heir;His son is the sole heir to the company.
+es:noun:la:custodia;custody;The mother was granted custody of the children.
+es:noun:la:encrucijada;crossroads;The country is at a historic crossroads.
+es:noun:el:trasfondo;background, underlying context;There is an economic background behind the protest.
+es:noun:la:índole;nature, kind;They are problems of a personal nature.
+es:noun:la:pauta;guideline, pattern;The doctor gave me some guidelines for sleeping better.
+es:noun:el:indicio;sign, indication, clue;There is no sign that he lied.
+es:noun:el:detonante;trigger;The rise in the price of bread was the trigger for the protests.
+es:noun:el:afán;eagerness, zeal, drive;She works with a drive to better herself.
+es:noun:el:anhelo;longing, yearning;His greatest longing was to return to his homeland.
+es:noun:el:empeño;determination, effort;She put a lot of effort into learning the language.
+es:noun:la:desgana;reluctance, lack of enthusiasm, lack of appetite;He did his homework very reluctantly.
+es:noun:la:apatía;apathy;I'm worried about young people's apathy towards politics.
+es:noun:el:ajetreo;hustle and bustle;The hustle and bustle of the big city wears me out.
+es:noun:el:bullicio;bustle, hubbub;I like the bustle of the markets.
+es:noun:el:alboroto;racket, commotion, uproar;The children made a huge racket in class.
+es:noun:el:estruendo;crash, roar, din;There was a loud crash when the tree fell.
+es:noun:el:murmullo;murmur;You could hear the murmur of the audience before the concert.
+es:noun:el:susurro;whisper, rustle;She spoke to me in a whisper so as not to wake the baby.
+es:noun:el:eco;echo;In the cave you could hear the echo of our voices.
+es:noun:el:resplandor;glow, brightness;We saw the glow of the fire from far away.
+es:noun:el:destello;flash, sparkle, glint;A flash of light lit up the room.
+es:noun:la:penumbra;half-light, semi-darkness;The room was in half-light.
+es:noun:el:mendigo;beggar;A beggar was asking for money at the church door.
+es:noun:el:vagabundo;tramp, vagrant, homeless person;A homeless man was sleeping on the park bench.
+es:noun:el:forastero;stranger, outsider;In the village they recognize a stranger right away.
+es:noun:el:anfitrión;host;The host welcomed us very warmly.
+es:noun:el:huésped;guest;The hotel can accommodate a hundred guests.
+es:noun:el:transeúnte;passer-by;A passer-by called the ambulance.
+es:noun:el:interlocutor;person one is talking to, interlocutor;You should look the person you're talking to in the eye.
+es:noun:el:mediador;mediator;A mediator helped to resolve the conflict.
+es:noun:la:chabola;shack, shanty;Thousands of families live in shacks.
+es:noun:la:limosna;alms, handout;He gave some money to the man on the corner.
+es:noun:la:caridad;charity;They donate money to charity every Christmas.
+es:noun:el:hacinamiento;overcrowding;Overcrowding in prisons is a serious problem.
+es:noun:la:precariedad;precariousness, insecurity;Job insecurity affects young people above all.
+es:noun:el:pensionista;pensioner, retiree;Pensioners protested against the rise in prices.
+es:noun:la:tercera edad;old age, senior citizens;There are special activities for senior citizens.
+es:noun:el:cuidador;caregiver, carer;They hired a carer for their grandfather.
+es:noun:la:accesibilidad;accessibility;They have improved the building's wheelchair accessibility.
+es:noun:el:desempleado;unemployed person;The number of unemployed people has fallen this month.
+es:noun:la:destreza;skill, dexterity;He handles the knife with great skill.
+es:noun:la:aptitud;aptitude, ability;She has an aptitude for music.
+es:noun:el:don;gift, talent;He has a special gift for languages.
+es:noun:la:soltura;fluency, ease;She speaks English very fluently.
+es:noun:el:desmayo;faint, fainting fit;She fainted because of the heat.
+es:noun:la:quemadura;burn;He burned himself with the oil.
+es:noun:la:picadura;bite, sting (insect);I have a mosquito bite on my arm.
+es:noun:la:ampolla;blister;My new shoes have given me blisters.
+es:noun:el:sarpullido;rash;He came out in a rash because of the allergy.
+es:noun:la:resaca;hangover;I have a terrible hangover today.
+es:noun:la:grapadora;stapler;Can you pass me the stapler?
+es:noun:el:destornillador;screwdriver;I need a screwdriver to assemble the furniture.
+es:noun:la:cinta adhesiva;sticky tape, adhesive tape;Seal the box with adhesive tape.
+es:noun:el:mechero;lighter;Do you have a lighter? I want to light the candles.
+es:noun:la:cerilla;match;He lit the fire with a match.
+es:noun:la:gotera;leak (in a roof or ceiling);There's a leak in the bathroom ceiling.
+es:noun:el:moho;mold, mildew;There's mold on the wall because of the damp.
+es:noun:la:cucaracha;cockroach;I saw a cockroach in the kitchen.
+es:noun:el:aval;guarantee, guarantor;The bank requires a guarantor to give you the loan.
+es:noun:la:morosidad;late payment, default, arrears;Customers' late payments worry the bank.
+es:noun:el:embargo;seizure (of property), embargo;The judge ordered the seizure of the house.
+es:noun:la:burbuja inmobiliaria;housing bubble, property bubble;The housing bubble burst in 2008.
+es:noun:el:poder adquisitivo;purchasing power;Citizens have lost purchasing power.
+es:noun:el:altibajo;ups and downs (usually plural);The relationship has had a lot of ups and downs.
+es:noun:el:contratiempo;setback, mishap, hitch;We had a slight setback on the trip.
+es:noun:la:premisa;premise;Your argument starts from a false premise.
+es:noun:el:paradigma;paradigm;The internet brought a paradigm shift in communication.
+es:noun:el:postulado;postulate, tenet;This postulate is the basis of the whole theory.
+es:noun:el:axioma;axiom;He took it as an axiom that no one disputed.
+es:noun:el:planteamiento;approach, formulation, framing;The way the problem is framed seems correct to me.
+es:noun:el:sesgo;bias, slant;The study shows a clear ideological bias.
+es:noun:la:vertiente;aspect, side, slope;We analyzed the economic aspect of the conflict.
+es:noun:la:coyuntura;situation, juncture, circumstances;In the current situation it's not a good idea to invest.
+es:noun:el:cometido;task, role, mission;Her task is to coordinate all the teams.
+es:noun:la:idoneidad;suitability;The suitability of each candidate will be assessed.
+es:noun:la:pericia;skill, expertise;He landed the plane with great skill.
+es:noun:el:acervo;heritage, collection, body (of knowledge);The library holds a rich collection of documents.
+es:noun:el:bagaje;background, (body of) experience;She came to the job with extensive professional experience.
+es:noun:la:erudición;erudition, learning, scholarship;His lectures stand out for their erudition.
+es:noun:el:rigor;rigor, strictness;This subject must be treated with scientific rigor.
+es:noun:la:salvedad;reservation, qualification, exception;I agree, with one important reservation.
+es:noun:la:disyuntiva;dilemma, choice;We are faced with a difficult dilemma.
+es:noun:la:paradoja;paradox;It's a paradox that a rich country has so much poverty.
+es:noun:la:falacia;fallacy;That reasoning is an obvious fallacy.
+es:noun:la:discrepancia;discrepancy, disagreement;There are discrepancies between the two reports.
+es:noun:el:consenso;consensus;A consensus was finally reached between the parties.
+es:noun:la:conjetura;conjecture, speculation, guess;For now they are just conjectures without proof.
+es:noun:la:inferencia;inference;The inference doesn't hold up with these data.
+es:noun:la:deducción;deduction;He reached the solution by simple deduction.
+es:noun:el:corolario;corollary;The corollary of all this is obvious.
+es:noun:el:precepto;precept, rule;He observes all the precepts of his religion.
+es:noun:el:dogma;dogma;He never accepted any dogma without questioning it.
+es:noun:la:doctrina;doctrine, case law;The court's case law has changed over the years.
+es:noun:el:precursor;precursor, forerunner, pioneer;He was a forerunner of modern cinema.
+es:noun:el:exponente;exponent, representative, example;He is the leading exponent of Spanish surrealism.
+es:noun:el:índice;index, table of contents;Look up the term in the book's index.
+es:noun:el:epígrafe;heading, section, epigraph;Read the chapter heading carefully.
+es:noun:el:apéndice;appendix;The full data are in the appendix.
+es:noun:la:monografía;monograph;She published a monograph on Baroque poetry.
+es:noun:la:ponencia;paper, presentation (at a conference);She presented her paper at the conference in Salamanca.
+es:noun:el:ponente;speaker, presenter;The speaker answered all the questions.
+es:noun:el:doctorando;doctoral student, PhD student;Every PhD student has a thesis supervisor.
+es:noun:el:posgrado;postgraduate course, graduate degree;He decided to do a postgraduate degree in London.
+es:noun:la:tutoría;tutorial, office hours, tutoring;I have a tutorial with the professor on Thursday.
+es:noun:la:errata;typo, misprint, erratum;I've found a typo on page ten.
+es:noun:el:plagio;plagiarism;He was accused of plagiarism in his doctoral thesis.
+es:noun:la:autoría;authorship;The authorship of the painting remains uncertain.
+es:noun:la:taxonomía;taxonomy, classification;He proposed a new taxonomy of species.
+es:noun:la:tipología;typology, range of types;There is a wide range of types of employment contracts.
+es:noun:el:muestreo;sampling;The sampling was done at random.
+es:noun:el:parámetro;parameter;Adjust the parameters before starting the program.
+es:noun:la:correlación;correlation;There is no correlation between the two phenomena.
+es:noun:la:causalidad;causality, causation;Correlation does not imply causation.
+es:noun:la:salvaguarda;safeguard, protection;It is a safeguard against abuses of power.
+es:noun:el:entramado;network, web, framework;They uncovered a network of shell companies.
+es:noun:el:engranaje;gears, machinery, mechanism;Every employee is a cog in the company's machinery.
+es:noun:la:premura;haste, urgency;He wrote it too hastily.
+es:noun:el:cariz;turn, aspect, complexion;The situation is taking a worrying turn.
+es:noun:el:talante;attitude, disposition, temperament;He showed a willingness to talk during the negotiation.
+es:noun:el:ahínco;determination, eagerness, diligence;She studied hard to pass the exam.
+es:noun:la:tenacidad;tenacity, persistence;Her tenacity led her to success.
+es:noun:la:perspicacia;insight, perceptiveness, shrewdness;He solved the case thanks to his insight.
+es:noun:la:sagacidad;shrewdness, astuteness, sagacity;I admire that journalist's shrewdness.
+es:noun:la:lucidez;lucidity, clarity of mind;At ninety he spoke with surprising lucidity.
+es:noun:la:clarividencia;foresight, clear-sightedness, clairvoyance;He foresaw the crisis with great foresight.
+es:noun:la:ecuanimidad;impartiality, fairness, equanimity;The judge acted impartially.
+es:noun:la:prudencia;caution, prudence;Drive carefully, there's ice.
+es:noun:la:mesura;restraint, moderation;He spoke with restraint despite his anger.
+es:noun:la:sobriedad;sobriety, restraint, simplicity;The decor stands out for its simplicity.
+es:noun:la:austeridad;austerity;The government announced austerity measures.
+es:noun:la:liquidez;liquidity, cash flow;The company has liquidity problems.
+es:noun:la:solvencia;solvency, creditworthiness, reliability;The bank checked the client's creditworthiness.
+es:noun:la:insolvencia;insolvency;The company declared itself insolvent.
+es:noun:el:concurso de acreedores;insolvency proceedings, bankruptcy proceedings;The construction company filed for insolvency proceedings.
+es:noun:el:endeudamiento;indebtedness, debt;Household debt keeps growing.
+es:noun:el:avalista;guarantor;His father signed as guarantor of the loan.
+es:noun:el:activo;asset;The company sold part of its assets.
+es:noun:el:pasivo;liabilities;Liabilities now exceed assets.
+es:noun:el:auditor;auditor;The auditor checked all the accounts.
+es:noun:la:cotización;share price, quotation, contribution;The company's share price fell on the stock market.
+es:noun:la:adquisición;acquisition, purchase;The acquisition cost several million.
+es:noun:la:franquicia;franchise;He bought a fast-food franchise.
+es:noun:la:competitividad;competitiveness;Export competitiveness needs to be improved.
+es:noun:el:emprendimiento;entrepreneurship, venture;The government promotes youth entrepreneurship.
+es:noun:la:licitación;tender, bidding;The company won the public tender.
+es:noun:el:pliego;specifications document, sheet;Read the specifications carefully.
+es:noun:la:adjudicación;awarding (of a contract), allocation;The awarding of the contract was controversial.
+es:noun:la:devaluación;devaluation;The devaluation of the peso made imports more expensive.
+es:noun:el:estancamiento;stagnation;The economy is going through a period of stagnation.
+es:noun:la:reactivación;revival, recovery;A recovery in consumer spending is expected.
+es:noun:el:repunte;upturn, rise, rebound;There was a rise in prices in the summer.
+es:noun:el:superávit;surplus;The country recorded a trade surplus.
+es:noun:el:erario;public treasury, public purse;He embezzled money from the public purse.
+es:noun:la:evasión;evasion, escape;He was convicted of tax evasion.
+es:noun:el:blanqueo;laundering;He is being investigated for money laundering.
+es:noun:la:malversación;embezzlement, misappropriation;He was accused of embezzling public funds.
+es:noun:el:cohecho;bribery;The official was tried for bribery.
+es:noun:el:tráfico de influencias;influence peddling;He is being investigated for influence peddling.
+es:noun:el:organigrama;organizational chart, org chart;Look at the org chart to find out who your boss is.
+es:noun:el:convenio;agreement;The collective agreement sets the wages.
+es:noun:el:pluriempleo;holding several jobs, moonlighting;Holding several jobs at once is common among young people.
+es:noun:la:remuneración;remuneration, pay;Pay is in line with experience.
+es:noun:el:incentivo;incentive;They offer tax incentives to companies.
+es:noun:el:emolumento;emolument, fee, salary;His salary is public.
+es:noun:el:gravamen;tax, levy, encumbrance;A new tax was imposed on tobacco.
+es:noun:la:partida;budget item, item (in accounts);They have cut the education budget.
+es:noun:el:recorte;cut, cutback;The cuts affected the health service.
+es:noun:el:derroche;waste, extravagance;That is a waste of public resources.
+es:noun:el:despilfarro;wastefulness, squandering;They criticize the administration's wastefulness.
+es:noun:el:comicios;elections;The elections will be held in May.
+es:noun:el:sufragio;suffrage, vote;Women won universal suffrage in 1931.
+es:noun:el:escrutinio;vote count, scrutiny;The vote count finished at midnight.
+es:noun:la:investidura;investiture, confidence vote (for a new leader);The candidate failed to win the investiture vote.
+es:noun:la:moción;motion;The opposition tabled a motion of no confidence.
+es:noun:el:independentismo;independence movement, pro-independence movement;The independence movement gained support in the region.
+es:noun:el:separatismo;separatism;Separatism divided society.
+es:noun:el:populismo;populism;Populism is growing all over Europe.
+es:noun:la:demagogia;demagoguery, demagogy;His promises are pure demagoguery.
+es:noun:el:caciquismo;caciquism, rule by local political bosses;Rule by local bosses dominated rural politics.
+es:noun:el:clientelismo;clientelism, patronage politics;They denounced the ruling party's clientelism.
+es:noun:el:nepotismo;nepotism;He hired his cousins: a clear case of nepotism.
+es:noun:el:totalitarismo;totalitarianism;The book analyzes the origins of totalitarianism.
+es:noun:la:tiranía;tyranny;The people rose up against tyranny.
+es:noun:la:represión;repression, crackdown;The police crackdown was brutal.
+es:noun:la:disidencia;dissent, dissidence;The regime punished any dissent.
+es:noun:el:disidente;dissident;The dissident spent years in prison.
+es:noun:el:exilio;exile;Many intellectuals went into exile.
+es:noun:el:cónsul;consul;The consul helped us renew our passport.
+es:noun:el:armisticio;armistice;The armistice was signed in November.
+es:noun:el:veto;veto, ban;Russia exercised its right of veto.
+es:noun:la:cancillería;foreign ministry, chancellery;The foreign ministry issued an official statement.
+es:noun:el:gabinete;cabinet, office;The president convened his cabinet.
+es:noun:el:pleno;plenary session, full assembly;The full Congress passed the law.
+es:noun:el:senador;senator;The senator voted against the reform.
+es:noun:la:alcaldía;mayoralty, office of mayor, city hall;He is running for mayor of Seville.
+es:noun:la:diputación;provincial council;The provincial council is funding the new museum.
+es:noun:el:sondeo;poll, survey;According to the latest poll, the left will win.
+es:noun:el:padrón;register of residents, municipal register;You have to register on the municipal register of residents.
+es:noun:el:censo;census;The latest census recorded an increase in population.
+es:noun:el:mitin;rally (political);Thousands of people attended the rally.
+es:noun:el:plebiscito;plebiscite, referendum;They called a plebiscite on the new constitution.
+es:noun:la:querella;lawsuit, criminal complaint;They filed a criminal complaint against the mayor.
+es:noun:el:demandante;plaintiff, claimant;The plaintiff is demanding compensation.
+es:noun:el:demandado;defendant;The defendant did not appear at the trial.
+es:noun:el:imputado;accused, suspect (under investigation);The accused refused to testify.
+es:noun:la:fiscalía;public prosecutor's office, prosecution;The prosecution is asking for ten years in prison.
+es:noun:el:magistrado;judge, magistrate;The judge rejected the defense's request.
+es:noun:la:apelación;appeal;The defense lodged an appeal.
+es:noun:el:indulto;pardon;The government granted the prisoners a pardon.
+es:noun:la:amnistía;amnesty;The amnesty law caused a lot of controversy.
+es:noun:la:prescripción;statute of limitations, prescription;The crime went unpunished because the statute of limitations had expired.
+es:noun:la:jurisprudencia;case law, jurisprudence;This ruling sets a precedent.
+es:noun:el:litigio;litigation, lawsuit, dispute;The brothers have been in litigation over the house for years.
+es:noun:el:alegato;plea, closing argument, argument;The lawyer delivered a brilliant closing argument.
+es:noun:la:alegación;objection, submission, allegation;They have ten days to submit objections.
+es:noun:el:atenuante;mitigating circumstance;The judge applied the mitigating circumstance of confession.
+es:noun:el:agravante;aggravating circumstance;Treachery is an aggravating circumstance of the crime.
+es:noun:la:eximente;exonerating circumstance, defense;He pleaded self-defense as an exonerating circumstance.
+es:noun:la:citación;summons, subpoena;He received a summons from the court.
+es:noun:la:comparecencia;appearance (before a court or committee), testimony;The minister's appearance lasted two hours.
+es:noun:el:peritaje;expert report, expert assessment;The expert report confirmed that the signature was forged.
+es:noun:el:perito;expert, expert witness;The expert witness testified before the court.
+es:noun:el:sumario;case file, pre-trial proceedings;The judge lifted the secrecy on the case file.
+es:noun:la:diligencia;investigative step, proceedings, diligence;The judge ordered further investigative steps.
+es:noun:el:reo;defendant, convict;The defendant listened to the sentence in silence.
+es:noun:el:recluso;prisoner, inmate;The inmate was granted prison leave.
+es:noun:la:redada;raid;The police carried out a raid at the port.
+es:noun:el:allanamiento;breaking and entering, search (of premises);He is accused of breaking and entering.
+es:noun:la:tutela;guardianship, protection;The judge granted guardianship to the grandmother.
+es:noun:la:patria potestad;parental authority, custody;He was stripped of his parental authority.
+es:noun:el:albacea;executor (of a will);The executor distributed the inheritance.
+es:noun:el:usufructo;usufruct, right of use;The widow has the usufruct of the house.
+es:noun:la:rescisión;termination, cancellation (of a contract);She requested the termination of the contract.
+es:noun:el:incumplimiento;breach, non-compliance, failure to fulfill;They sued him for breach of contract.
+es:noun:el:estatuto;statute, bylaws, articles;The association's bylaws forbid it.
+es:noun:la:ordenanza;bylaw, ordinance;A new bylaw prohibits drinking in the street.
+es:noun:la:vigencia;validity, force;The law will come into force in January.
+es:noun:la:derogación;repeal;They are calling for the repeal of the labor reform.
+es:noun:el:resquicio;loophole, chink, gap;They found a legal loophole to avoid paying.
+es:noun:la:impunidad;impunity;We cannot allow these crimes to go unpunished.
+es:noun:la:infracción;offense, violation, infringement;He was fined for a traffic offense.
+es:noun:el:homicidio;homicide, manslaughter;He was convicted of involuntary manslaughter.
+es:noun:la:extorsión;extortion;The gang lived off extortion.
+es:noun:el:chantaje;blackmail;I won't give in to your blackmail.
+es:noun:la:calumnia;slander, calumny;That's a slander and I'll prove it.
+es:noun:la:injuria;insult, defamation;He reported him for serious defamation.
+es:noun:la:difamación;defamation, libel;The newspaper was sued for libel.
+es:noun:la:prevaricación;perversion of justice, malfeasance (in office);The judge was convicted of perverting the course of justice.
+es:noun:el:encubrimiento;cover-up, concealment, harboring;He is accused of covering up the crime.
+es:noun:la:complicidad;complicity, rapport;There was an obvious rapport between them.
+es:noun:la:reincidencia;reoffending, recidivism;Reoffending increases the sentence.
+es:noun:el:reincidente;reoffender, repeat offender;The repeat offender went back to prison a few months later.
+es:noun:el:agresor;attacker, assailant, aggressor;The attacker fled before the police arrived.
+es:noun:el:sicario;hitman, hired killer;A hitman was hired to kill him.
+es:noun:la:represalia;reprisal, retaliation;He feared reprisals if he talked.
+es:noun:el:salvoconducto;safe-conduct, pass;They gave him a safe-conduct to cross the border.
+es:noun:el:genoma;genome;Scientists sequenced the human genome.
+es:noun:el:cromosoma;chromosome;People have twenty-three pairs of chromosomes.
+es:noun:la:mutación;mutation;A genetic mutation causes this disease.
+es:noun:el:microorganismo;microorganism;This microorganism lives in extreme conditions.
+es:noun:el:patógeno;pathogen;The pathogen is transmitted through the air.
+es:noun:el:anticuerpo;antibody;The vaccine produces antibodies against the virus.
+es:noun:la:inmunidad;immunity;The deputy enjoys parliamentary immunity.
+es:noun:el:brote;outbreak, shoot, bud;A flu outbreak has been detected at the school.
+es:noun:la:cepa;strain, vine stock;A new strain of the virus has appeared.
+es:noun:la:secuenciación;sequencing;DNA sequencing is getting cheaper and cheaper.
+es:noun:la:clonación;cloning;Animal cloning raises ethical dilemmas.
+es:noun:la:enzima;enzyme;This enzyme helps digest fats.
+es:noun:el:isótopo;isotope;They used a radioactive isotope to date the fossil.
+es:noun:la:radiactividad;radioactivity;They measured the radioactivity in the area.
+es:noun:la:fisión;fission;Nuclear fission releases a great deal of energy.
+es:noun:la:nebulosa;nebula;The telescope captured a distant nebula.
+es:noun:el:meteorito;meteorite;A meteorite fell in the desert.
+es:noun:el:asteroide;asteroid;An asteroid will pass close to Earth.
+es:noun:el:espectro;spectrum, ghost;White light contains the whole spectrum of colors.
+es:noun:el:vatio;watt;This light bulb uses ten watts.
+es:noun:el:voltaje;voltage;The voltage in Europe is 230 volts.
+es:noun:el:fósil;fossil;They found a dinosaur fossil.
+es:noun:el:invernadero;greenhouse;They grow tomatoes in a greenhouse.
+es:noun:el:deshielo;thaw, melting (of ice);The melting of the polar ice is accelerating.
+es:noun:la:desertización;desertification;Desertification threatens the south of Spain.
+es:noun:la:erosión;erosion;Soil erosion reduces harvests.
+es:noun:la:fotosíntesis;photosynthesis;Plants produce oxygen through photosynthesis.
+es:noun:el:metano;methane;Livestock emit large amounts of methane.
+es:noun:el:ozono;ozone;The ozone layer is recovering.
+es:noun:el:acuífero;aquifer;Overexploitation is depleting the aquifer.
+es:noun:la:placa;plate (tectonic), plaque, sheet;The earthquake was caused by the collision of two plates.
+es:noun:el:seísmo;earthquake, tremor;The earthquake reached a magnitude of six.
+es:noun:el:maremoto;tsunami, tidal wave;The tsunami devastated the coast.
+es:noun:la:lava;lava;The lava destroyed hundreds of houses.
+es:noun:el:magma;magma;Magma rises from the Earth's interior.
+es:noun:el:yacimiento;deposit, (archaeological) site;They discovered a natural gas deposit.
