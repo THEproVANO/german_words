@@ -2998,3 +2998,52 @@ en:verb::turn out;resultar;La fiesta resultó ser muy divertida.
 en:verb::wear out;desgastar, gastar, agotar;Correr desgasta rápidamente las zapatillas.
 en:verb::wipe out;aniquilar, acabar con, exterminar;La enfermedad acabó con toda la población.
 en:verb::bring about;provocar, ocasionar, traer consigo;Internet trajo consigo enormes cambios.
+BIZ:en:adj::digital;digital;La mayoría de nuestros documentos ahora son digitales.
+BIZ:en:adj::online;en línea, online, virtual;Esta semana la reunión será en línea.
+BIZ:en:adj::offline;sin conexión, offline;La aplicación también funciona sin conexión.
+BIZ:en:adj::wireless;inalámbrico;En la oficina usamos auriculares inalámbricos.
+BIZ:en:adj::mobile;móvil;Nuestra versión móvil es muy popular.
+BIZ:en:adj::virtual;virtual;Hacemos reuniones virtuales con el equipo en el extranjero.
+BIZ:en:adj::remote;remoto, a distancia;La mitad de nuestros desarrolladores trabaja en equipos remotos.
+BIZ:en:adj::secure;seguro;Usa una conexión segura para la banca en línea.
+BIZ:en:adj::encrypted;cifrado, encriptado;Todos los archivos se envían cifrados.
+BIZ:en:adj::user-friendly;fácil de usar, intuitivo;El nuevo sitio web es muy fácil de usar.
+BIZ:en:adj::compatible;compatible;Este software no es compatible con sistemas antiguos.
+BIZ:en:adj::automatic;automático;El sistema envía recordatorios automáticos a los usuarios.
+BIZ:en:adj::automated;automatizado;Tenemos pruebas automatizadas para cada versión.
+BIZ:en:adj::scalable;escalable;Necesitamos una solución escalable para millones de usuarios.
+BIZ:en:adj::stable;estable;La última versión es mucho más estable.
+BIZ:en:adj::buggy;lleno de errores, con muchos fallos;La primera versión de la aplicación tenía muchísimos errores.
+BIZ:en:adj::outdated;obsoleto, desactualizado, anticuado;Todavía usamos algunos programas obsoletos.
+BIZ:en:adj::up-to-date;actualizado, al día;Mantén tu antivirus actualizado.
+BIZ:en:adj::open-source;de código abierto;Linux es un sistema operativo de código abierto.
+BIZ:en:adj::cloud-based;en la nube, basado en la nube;Nos pasamos a un sistema de contabilidad en la nube.
+BIZ:en:adj::real-time;en tiempo real;La aplicación muestra datos de tráfico en tiempo real.
+BIZ:en:adj::technical;técnico;Tuvimos un problema técnico con el sonido.
+BIZ:en:adj::interactive;interactivo;La formación incluye ejercicios interactivos.
+BIZ:en:adj::default;predeterminado, por defecto;Puedes cambiar la configuración predeterminada más tarde.
+BIZ:en:adj::available;disponible;La nueva actualización está disponible para descargar.
+BIZ:en:adj::unavailable;no disponible;El servicio no está disponible temporalmente.
+BIZ:en:adj::corrupted;dañado, corrupto;El archivo está dañado y no se puede abrir.
+BIZ:en:adj::critical;crítico, grave;Es un error crítico, corrígelo de inmediato.
+BIZ:en:adj::agile;ágil;Nuestro equipo trabaja con metodologías ágiles.
+BIZ:en:adj::artificial;artificial;Hoy en día las voces artificiales suenan muy naturales.
+BIZ:en:adj::intelligent;inteligente;El sistema hace sugerencias inteligentes a los usuarios.
+BIZ:en:adj::sensitive;confidencial, sensible (datos);Nunca envíes datos confidenciales por correo electrónico.
+BIZ:en:adj::malicious;malicioso;El correo electrónico contenía un enlace malicioso.
+BIZ:en:noun::firmware;firmware;Actualiza el firmware del router para solucionar el problema.
+BIZ:en:noun::driver;controlador, driver;La impresora necesita un controlador nuevo.
+BIZ:en:noun::cursor;cursor;Mueve el cursor al final de la línea.
+BIZ:en:noun::resolution;resolución;Este monitor tiene una resolución muy alta.
+BIZ:en:noun::token;token, testigo (informática);El token de acceso caduca al cabo de una hora.
+BIZ:en:noun::endpoint;endpoint, punto de conexión (API);Este endpoint de la API devuelve una lista de usuarios.
+BIZ:en:noun::ransomware;ransomware, programa de secuestro de datos;El ransomware cifró todos los archivos del servidor.
+BIZ:en:noun::chip;chip, procesador;El nuevo teléfono tiene un chip más rápido.
+BIZ:en:verb::reinstall;reinstalar;Tuve que reinstalar todo el sistema operativo.
+BIZ:en:verb::overwrite;sobrescribir;Ten cuidado de no sobrescribir el archivo original.
+BIZ:en:verb::compress;comprimir;Comprime las imágenes antes de subirlas.
+BIZ:en:verb::bookmark;guardar en marcadores, añadir a favoritos;Guardé la página en marcadores para encontrarla más tarde.
+BIZ:en:verb::subscribe;suscribirse;Suscríbete a nuestro boletín para recibir novedades de productos.
+BIZ:en:verb::zoom in;acercar, ampliar (zoom);Acerca la imagen para ver los detalles del gráfico.
+BIZ:en:verb::filter;filtrar;Filtra la lista por fecha para encontrar el pedido.
+BIZ:en:verb::customize;personalizar;Puedes personalizar el panel según tus necesidades.
