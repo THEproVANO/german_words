@@ -63,6 +63,12 @@ def translation(w: sqlite3.Row, tl: str) -> tuple[str, str, str]:
     return w["translations"], w["example_ru"], FLAGS["ru"]
 
 
+def word_line(w: sqlite3.Row, tl: str) -> str:
+    """Строка для списка слов: «<b>der Apfel</b> — яблоко»."""
+    word = f"{w['article']} {w['word']}".strip()
+    return f"<b>{html.escape(word)}</b> — {html.escape(translation(w, tl)[0])}"
+
+
 def _bold(text: str) -> str:
     return re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", html.escape(text))
 

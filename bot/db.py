@@ -223,7 +223,8 @@ def progress(user: sqlite3.Row) -> tuple[int, int]:
 
 def words_for_dates(user_id: int, start: date, end: date) -> list[int]:
     rows = conn.execute(
-        "SELECT word_id FROM user_words WHERE user_id = ? AND study_date BETWEEN ? AND ?",
+        "SELECT word_id FROM user_words WHERE user_id = ? AND study_date BETWEEN ? AND ?"
+        " ORDER BY sent_at",
         (user_id, start.isoformat(), end.isoformat()),
     ).fetchall()
     return [r[0] for r in rows]

@@ -355,6 +355,11 @@ TEXTS = {
         "es": "📊 <b>Resumen del día</b>\nPalabras aprendidas hoy: <b>{today}</b>\n"
               "Total aprendidas: <b>{learned}</b> de {total} ({percent}%)\n\n{stats}",
     },
+    "day_words": {
+        "ru": "📚 <b>Слова за сегодня</b>\n\n{words}",
+        "en": "📚 <b>Today's words</b>\n\n{words}",
+        "es": "📚 <b>Palabras de hoy</b>\n\n{words}",
+    },
     "summary_weekly": {
         "ru": "📈 <b>Итоги недели</b>\nИзучено за неделю: <b>{week}</b> (в среднем {avg} в день)\n"
               "Всего изучено: <b>{learned}</b> из {total} ({percent}%)\n\n"

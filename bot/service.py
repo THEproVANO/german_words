@@ -136,6 +136,30 @@ async def start_test(bot: Bot, user: sqlite3.Row, weekly: bool) -> None:
                      datetime.now(timezone.utc), word_ids)
 
 
+def _quiz_day(user: sqlite3.Row, quiz: sqlite3.Row) -> date:
+    """Учебный день, к которому относится тест (у пробного — сегодняшний)."""
+    if quiz["kind"].startswith("test_"):
+        return study_date(local_now(user))
+    return date.fromisoformat(quiz["study_date"])
+
+
+def day_words_messages(user: sqlite3.Row, quiz: sqlite3.Row) -> list[str]:
+    """Список слов за день с переводами — после теста дня. Длинный список режется на части,
+    чтобы не упереться в лимит длины сообщения Telegram."""
+    d = _quiz_day(user, quiz)
+    tl = db.tr_lang(user)
+    lines = [words.word_line(db.get_word(i), tl) for i in db.words_for_dates(user["id"], d, d)]
+    chunks, current = [], []
+    for line in lines:
+        if current and len("\n".join(current + [line])) > 3500:
+            chunks.append(current)
+            current = []
+        current.append(line)
+    if current:
+        chunks.append(current)
+    return [t(user["ui_lang"], "day_words", words="\n".join(c)) for c in chunks]
+
+
 def summary_text(user: sqlite3.Row, quiz: sqlite3.Row) -> str:
     """Сводка после теста: прогресс, результат теста, а для недельного — темп и прогноз."""
     lang = user["ui_lang"]
@@ -143,10 +167,7 @@ def summary_text(user: sqlite3.Row, quiz: sqlite3.Row) -> str:
     stats = t(lang, "quiz_stats", first=first, mistakes=mistakes, revealed=revealed)
     learned, total = db.progress(user)
     percent = round(100 * learned / total) if total else 0
-    if quiz["kind"].startswith("test_"):
-        d = study_date(local_now(user))
-    else:
-        d = date.fromisoformat(quiz["study_date"])
+    d = _quiz_day(user, quiz)
 
     if not quiz["kind"].endswith("weekly"):
         today = len(db.words_for_dates(user["id"], d, d))
@@ -174,6 +195,9 @@ async def finish_quiz(bot: Bot, user: sqlite3.Row, quiz: sqlite3.Row) -> None:
     done = "weekly_done" if quiz["kind"].endswith("weekly") else "daily_done"
     await bot.send_message(user["id"], t(lang, done))
     await bot.send_message(user["id"], summary_text(user, quiz))
+    if not quiz["kind"].endswith("weekly"):
+        for text in day_words_messages(user, quiz):
+            await bot.send_message(user["id"], text)
     if quiz["kind"] == "daily":
         if await start_weekly_if_due(bot, user, date.fromisoformat(quiz["study_date"])):
             return
