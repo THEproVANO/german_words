@@ -3972,3 +3972,751 @@ B2;noun;la;burbuja inmobiliaria;;;;;пузырь на рынке недвижи�
 B2;noun;el;poder adquisitivo;-;;;;покупательная способность;Los ciudadanos han perdido **poder adquisitivo**.;Граждане утратили покупательную способность.
 B2;noun;el;altibajo;;;;;взлёты и падения (обычно мн.);La relación ha tenido muchos **altibajos**.;В отношениях было много взлётов и падений.
 B2;noun;el;contratiempo;;;;;неприятность, непредвиденное препятствие;Tuvimos un pequeño **contratiempo** en el viaje.;В поездке у нас возникла небольшая неприятность.
+C1;noun;la;premisa;;;;;предпосылка, посылка;Tu argumento parte de una **premisa** falsa.;Твой аргумент исходит из ложной предпосылки.
+C1;noun;el;paradigma;;;;;парадигма, образец;Internet supuso un cambio de **paradigma** en la comunicación.;Интернет означал смену парадигмы в общении.
+C1;noun;el;postulado;;;;;постулат;Este **postulado** es la base de toda la teoría.;Этот постулат — основа всей теории.
+C1;noun;el;axioma;;;;;аксиома;Lo tomaba como un **axioma** que nadie discutía.;Он принимал это как аксиому, которую никто не оспаривал.
+C1;noun;el;planteamiento;;;;;постановка вопроса, подход;El **planteamiento** del problema me parece correcto.;Постановка проблемы кажется мне правильной.
+C1;noun;el;sesgo;;;;;предвзятость, искажение, уклон;El estudio presenta un claro **sesgo** ideológico.;Исследование имеет явный идеологический уклон.
+C1;noun;la;vertiente;;;;;аспект, сторона, склон;Analizamos la **vertiente** económica del conflicto.;Мы анализируем экономическую сторону конфликта.
+C1;noun;la;coyuntura;;;;;конъюнктура, обстановка, момент;En la **coyuntura** actual no conviene invertir.;В нынешней обстановке не стоит инвестировать.
+C1;noun;el;cometido;;;;;задача, поручение, миссия;Su **cometido** es coordinar a todos los equipos.;Его задача — координировать все команды.
+C1;noun;la;idoneidad;-;;;;пригодность, соответствие;Se evaluará la **idoneidad** de cada candidato.;Будет оценена пригодность каждого кандидата.
+C1;noun;la;pericia;-;;;;мастерство, опытность;Aterrizó el avión con gran **pericia**.;Он посадил самолёт с большим мастерством.
+C1;noun;el;acervo;;;;;достояние, наследие, фонд;La biblioteca conserva un rico **acervo** documental.;Библиотека хранит богатый документальный фонд.
+C1;noun;el;bagaje;;;;;багаж знаний, опыт;Llegó al puesto con un amplio **bagaje** profesional.;Он пришёл на должность с богатым профессиональным опытом.
+C1;noun;la;erudición;-;;;;эрудиция, учёность;Sus conferencias destacan por su **erudición**.;Его лекции выделяются эрудицией.
+C1;noun;el;rigor;;;;;строгость, точность;Hay que tratar este tema con **rigor** científico.;К этой теме нужно подходить с научной строгостью.
+C1;noun;la;salvedad;;;;;оговорка, исключение;Estoy de acuerdo, con una **salvedad** importante.;Я согласен, с одной важной оговоркой.
+C1;noun;la;disyuntiva;;;;;дилемма, альтернатива;Nos encontramos ante una difícil **disyuntiva**.;Мы оказались перед трудной дилеммой.
+C1;noun;la;paradoja;;;;;парадокс;Es una **paradoja** que el país rico tenga tanta pobreza.;Парадоксально, что в богатой стране столько бедности.
+C1;noun;la;falacia;;;;;ложный довод, заблуждение;Ese razonamiento es una **falacia** evidente.;Это рассуждение — очевидная логическая ошибка.
+C1;noun;la;discrepancia;;;;;расхождение, разногласие;Existen **discrepancias** entre los dos informes.;Между двумя отчётами есть расхождения.
+C1;noun;el;consenso;;;;;консенсус, согласие;Finalmente se alcanzó un **consenso** entre los partidos.;В итоге партии достигли консенсуса.
+C1;noun;la;conjetura;;;;;догадка, предположение;Por ahora solo son **conjeturas** sin pruebas.;Пока это лишь догадки без доказательств.
+C1;noun;la;inferencia;;;;;умозаключение, вывод;La **inferencia** no se sostiene con estos datos.;С этими данными такой вывод не выдерживает критики.
+C1;noun;la;deducción;;;;;дедукция, вывод, вычет;Llegó a la solución por simple **deducción**.;Он пришёл к решению простой дедукцией.
+C1;noun;el;corolario;;;;;следствие, вывод;El **corolario** de todo esto es evidente.;Вывод из всего этого очевиден.
+C1;noun;el;precepto;;;;;предписание, заповедь;Cumple con todos los **preceptos** de su religión.;Он соблюдает все предписания своей религии.
+C1;noun;el;dogma;;;;;догма;Nunca aceptó ningún **dogma** sin cuestionarlo.;Он никогда не принимал догму, не подвергая её сомнению.
+C1;noun;la;doctrina;;;;;доктрина, учение;La **doctrina** del tribunal ha cambiado con los años.;Позиция суда изменилась с годами.
+C1;noun;el;precursor;;;;;предшественник, предвестник;Fue un **precursor** del cine moderno.;Он был предшественником современного кино.
+C1;noun;el;exponente;;;;;представитель, образец, показатель;Es el máximo **exponente** del surrealismo español.;Он главный представитель испанского сюрреализма.
+C1;noun;el;índice;;;;;индекс, указатель;Busca el término en el **índice** del libro.;Найди термин в указателе книги.
+C1;noun;el;epígrafe;;;;;эпиграф, рубрика, раздел;Lee con atención el **epígrafe** del capítulo.;Внимательно прочитай эпиграф главы.
+C1;noun;el;apéndice;;;;;приложение, аппендикс;Los datos completos están en el **apéndice**.;Полные данные находятся в приложении.
+C1;noun;la;monografía;;;;;монография;Publicó una **monografía** sobre la poesía barroca.;Он опубликовал монографию о поэзии барокко.
+C1;noun;la;ponencia;;;;;доклад;Presentó su **ponencia** en el congreso de Salamanca.;Он представил свой доклад на конгрессе в Саламанке.
+C1;noun;el;ponente;;;;;докладчик;El **ponente** respondió a todas las preguntas.;Докладчик ответил на все вопросы.
+C1;noun;el;doctorando;;;;;аспирант, докторант;Cada **doctorando** tiene un director de tesis.;У каждого аспиранта есть научный руководитель.
+C1;noun;el;posgrado;;;;;послевузовское образование;Decidió hacer un **posgrado** en Londres.;Он решил получить постдипломное образование в Лондоне.
+C1;noun;la;tutoría;;;;;консультация, кураторство;Tengo **tutoría** con el profesor el jueves.;У меня консультация с преподавателем в четверг.
+C1;noun;la;errata;;;;;опечатка;He encontrado una **errata** en la página diez.;Я нашёл опечатку на десятой странице.
+C1;noun;el;plagio;;;;;плагиат;Lo acusaron de **plagio** en su tesis doctoral.;Его обвинили в плагиате в докторской диссертации.
+C1;noun;la;autoría;-;;;;авторство;La **autoría** del cuadro sigue siendo dudosa.;Авторство картины по-прежнему сомнительно.
+C1;noun;la;taxonomía;;;;;таксономия, классификация;Propuso una nueva **taxonomía** de las especies.;Он предложил новую классификацию видов.
+C1;noun;la;tipología;;;;;типология;Hay una gran **tipología** de contratos laborales.;Существует большое разнообразие трудовых договоров.
+C1;noun;el;muestreo;;;;;выборка;El **muestreo** se hizo de forma aleatoria.;Выборка была сделана случайным образом.
+C1;noun;el;parámetro;;;;;параметр;Ajusta los **parámetros** antes de iniciar el programa.;Настрой параметры перед запуском программы.
+C1;noun;la;correlación;;;;;корреляция, соотношение;No hay **correlación** entre ambos fenómenos.;Между этими явлениями нет корреляции.
+C1;noun;la;causalidad;-;;;;причинность;Correlación no implica **causalidad**.;Корреляция не означает причинность.
+C1;noun;la;salvaguarda;;;;;гарантия, защита;Es una **salvaguarda** contra los abusos de poder.;Это гарантия от злоупотреблений властью.
+C1;noun;el;entramado;;;;;структура, сеть, переплетение;Descubrieron un **entramado** de empresas fantasma.;Обнаружили сеть фиктивных компаний.
+C1;noun;el;engranaje;;;;;механизм, зубчатая передача;Cada empleado es parte del **engranaje** de la empresa.;Каждый сотрудник — часть механизма компании.
+C1;noun;la;premura;-;;;;спешка, срочность;Lo redactó con demasiada **premura**.;Он составил это в слишком большой спешке.
+C1;noun;el;cariz;;;;;оборот, характер, вид;La situación está tomando un **cariz** preocupante.;Ситуация принимает тревожный оборот.
+C1;noun;el;talante;;;;;нрав, настрой, манера;Mostró un **talante** dialogante durante la negociación.;Он проявил готовность к диалогу на переговорах.
+C1;noun;el;ahínco;-;;;;усердие, рвение;Estudió con **ahínco** para aprobar el examen.;Он усердно учился, чтобы сдать экзамен.
+C1;noun;la;tenacidad;-;;;;упорство, стойкость;Su **tenacidad** le llevó al éxito.;Упорство привело его к успеху.
+C1;noun;la;perspicacia;-;;;;проницательность;Resolvió el caso gracias a su **perspicacia**.;Он раскрыл дело благодаря своей проницательности.
+C1;noun;la;sagacidad;-;;;;прозорливость, смекалка;Admiro la **sagacidad** de ese periodista.;Я восхищаюсь прозорливостью этого журналиста.
+C1;noun;la;lucidez;-;;;;ясность ума, трезвость;Habló con una **lucidez** sorprendente a sus noventa años.;В свои девяносто он говорил с удивительной ясностью ума.
+C1;noun;la;clarividencia;-;;;;дальновидность, ясновидение;Previó la crisis con gran **clarividencia**.;Он предвидел кризис с большой дальновидностью.
+C1;noun;la;ecuanimidad;-;;;;беспристрастность, невозмутимость;El juez actuó con **ecuanimidad**.;Судья действовал беспристрастно.
+C1;noun;la;prudencia;-;;;;осторожность, благоразумие;Conduce con **prudencia**, hay hielo.;Езжай осторожно, на дороге лёд.
+C1;noun;la;mesura;-;;;;умеренность, сдержанность;Habló con **mesura** a pesar de su enfado.;Несмотря на гнев, он говорил сдержанно.
+C1;noun;la;sobriedad;-;;;;сдержанность, трезвость, простота;La decoración destaca por su **sobriedad**.;Интерьер отличается сдержанностью.
+C1;noun;la;austeridad;-;;;;строгая экономия, аскетизм;El Gobierno anunció medidas de **austeridad**.;Правительство объявило меры жёсткой экономии.
+C1;noun;la;liquidez;-;;;;ликвидность;La empresa tiene problemas de **liquidez**.;У компании проблемы с ликвидностью.
+C1;noun;la;solvencia;-;;;;платёжеспособность, надёжность;El banco comprobó la **solvencia** del cliente.;Банк проверил платёжеспособность клиента.
+C1;noun;la;insolvencia;-;;;;неплатёжеспособность;La compañía se declaró en **insolvencia**.;Компания объявила себя неплатёжеспособной.
+C1;noun;el;concurso de acreedores;;;;;процедура банкротства;La constructora presentó **concurso de acreedores**.;Строительная компания подала на банкротство.
+C1;noun;el;endeudamiento;;;;;задолженность, долговая нагрузка;El **endeudamiento** de las familias sigue creciendo.;Долговая нагрузка семей продолжает расти.
+C1;noun;el;avalista;;;;;поручитель;Su padre firmó como **avalista** del préstamo.;Его отец подписался поручителем по кредиту.
+C1;noun;el;activo;;;;;актив;La empresa vendió parte de sus **activos**.;Компания продала часть своих активов.
+C1;noun;el;pasivo;;;;;пассив, обязательства;El **pasivo** supera ya al activo.;Обязательства уже превышают активы.
+C1;noun;el;auditor;;;;;аудитор;El **auditor** revisó todas las cuentas.;Аудитор проверил все счета.
+C1;noun;la;cotización;;;;;котировка, взнос;La **cotización** de la empresa cayó en bolsa.;Котировки компании упали на бирже.
+C1;noun;la;adquisición;;;;;приобретение, покупка;La **adquisición** costó varios millones.;Приобретение обошлось в несколько миллионов.
+C1;noun;la;franquicia;;;;;франшиза;Compró una **franquicia** de comida rápida.;Он купил франшизу фастфуда.
+C1;noun;la;competitividad;-;;;;конкурентоспособность;Hay que mejorar la **competitividad** de las exportaciones.;Нужно повысить конкурентоспособность экспорта.
+C1;noun;el;emprendimiento;;;;;предпринимательство, начинание;El Gobierno fomenta el **emprendimiento** juvenil.;Правительство поощряет молодёжное предпринимательство.
+C1;noun;la;licitación;;;;;тендер, торги;La empresa ganó la **licitación** pública.;Компания выиграла государственный тендер.
+C1;noun;el;pliego;;;;;документ, лист, перечень условий;Lee bien el **pliego** de condiciones.;Внимательно прочитай перечень условий.
+C1;noun;la;adjudicación;;;;;присуждение контракта, распределение;La **adjudicación** del contrato fue polémica.;Присуждение контракта вызвало споры.
+C1;noun;la;devaluación;;;;;девальвация;La **devaluación** del peso encareció las importaciones.;Девальвация песо удорожила импорт.
+C1;noun;el;estancamiento;;;;;застой, стагнация;La economía vive un período de **estancamiento**.;Экономика переживает период застоя.
+C1;noun;la;reactivación;;;;;оживление, возобновление;Se espera una **reactivación** del consumo.;Ожидается оживление потребления.
+C1;noun;el;repunte;;;;;подъём, рост;Hubo un **repunte** de los precios en verano.;Летом произошёл рост цен.
+C1;noun;el;superávit;;;;;профицит, излишек;El país registró **superávit** comercial.;Страна зафиксировала профицит торгового баланса.
+C1;noun;el;erario;;;;;казна;Malversó dinero del **erario** público.;Он растратил деньги из государственной казны.
+C1;noun;la;evasión;;;;;уклонение, побег;Lo condenaron por **evasión** fiscal.;Его осудили за уклонение от уплаты налогов.
+C1;noun;el;blanqueo;;;;;отмывание;Lo investigan por **blanqueo** de capitales.;Его расследуют за отмывание денег.
+C1;noun;la;malversación;;;;;растрата, хищение;Fue acusado de **malversación** de fondos públicos.;Его обвинили в растрате государственных средств.
+C1;noun;el;cohecho;;;;;взяточничество;El funcionario fue juzgado por **cohecho**.;Чиновника судили за взяточничество.
+C1;noun;el;tráfico de influencias;-;;;;злоупотребление влиянием;Lo investigan por **tráfico de influencias**.;Его расследуют за злоупотребление влиянием.
+C1;noun;el;organigrama;;;;;организационная структура;Mira el **organigrama** para saber quién es tu jefe.;Посмотри оргструктуру, чтобы узнать, кто твой начальник.
+C1;noun;el;convenio;;;;;соглашение, договор;El **convenio** colectivo fija los salarios.;Коллективный договор устанавливает зарплаты.
+C1;noun;el;pluriempleo;-;;;;работа на нескольких местах;El **pluriempleo** es habitual entre los jóvenes.;Работа на нескольких местах обычна среди молодёжи.
+C1;noun;la;remuneración;;;;;вознаграждение, оплата;La **remuneración** es acorde con la experiencia.;Оплата соответствует опыту.
+C1;noun;el;incentivo;;;;;стимул, поощрение;Ofrecen **incentivos** fiscales a las empresas.;Компаниям предлагают налоговые льготы.
+C1;noun;el;emolumento;;;;;жалованье, вознаграждение;Sus **emolumentos** son públicos.;Его вознаграждение является публичным.
+C1;noun;el;gravamen;;;;;налог, обременение;Se impuso un nuevo **gravamen** sobre el tabaco.;Ввели новый налог на табак.
+C1;noun;la;partida;;;;;статья расходов, партия;Han recortado la **partida** de educación.;Сократили статью расходов на образование.
+C1;noun;el;recorte;;;;;сокращение, урезание;Los **recortes** afectaron a la sanidad.;Сокращения затронули здравоохранение.
+C1;noun;el;derroche;;;;;расточительство;Eso es un **derroche** de recursos públicos.;Это расточительство государственных средств.
+C1;noun;el;despilfarro;;;;;растрата, транжирство;Critican el **despilfarro** de la administración.;Критикуют транжирство администрации.
+C1;noun;el;comicios;pl;;;;выборы;Los **comicios** se celebrarán en mayo.;Выборы состоятся в мае.
+C1;noun;el;sufragio;;;;;избирательное право, голосование;Las mujeres lograron el **sufragio** universal en 1931.;Женщины добились всеобщего избирательного права в 1931 году.
+C1;noun;el;escrutinio;;;;;подсчёт голосов, тщательная проверка;El **escrutinio** terminó a medianoche.;Подсчёт голосов закончился в полночь.
+C1;noun;la;investidura;;;;;инвеститура, вступление в должность;El candidato no superó la sesión de **investidura**.;Кандидат не прошёл голосование об утверждении в должности.
+C1;noun;la;moción;;;;;предложение, резолюция;La oposición presentó una **moción** de censura.;Оппозиция внесла вотум недоверия.
+C1;noun;el;independentismo;-;;;;движение за независимость;El **independentismo** ganó apoyos en la región.;Движение за независимость получило поддержку в регионе.
+C1;noun;el;separatismo;-;;;;сепаратизм;El **separatismo** dividió a la sociedad.;Сепаратизм расколол общество.
+C1;noun;el;populismo;-;;;;популизм;El **populismo** crece en toda Europa.;Популизм растёт по всей Европе.
+C1;noun;la;demagogia;-;;;;демагогия;Sus promesas son pura **demagogia**.;Его обещания — чистая демагогия.
+C1;noun;el;caciquismo;-;;;;касикизм, власть местных воротил;El **caciquismo** dominó la política rural.;Власть местных воротил господствовала в сельской политике.
+C1;noun;el;clientelismo;-;;;;клиентелизм, кумовство в политике;Denunciaron el **clientelismo** del partido gobernante.;Осудили клиентелизм правящей партии.
+C1;noun;el;nepotismo;-;;;;непотизм, кумовство;Contrató a sus primos: un caso claro de **nepotismo**.;Он нанял своих двоюродных братьев — явный случай кумовства.
+C1;noun;el;totalitarismo;-;;;;тоталитаризм;El libro analiza los orígenes del **totalitarismo**.;Книга анализирует истоки тоталитаризма.
+C1;noun;la;tiranía;;;;;тирания;El pueblo se levantó contra la **tiranía**.;Народ восстал против тирании.
+C1;noun;la;represión;;;;;репрессии, подавление;La **represión** policial fue brutal.;Полицейские репрессии были жестокими.
+C1;noun;la;disidencia;;;;;инакомыслие, диссидентство;El régimen castigaba cualquier **disidencia**.;Режим наказывал любое инакомыслие.
+C1;noun;el;disidente;;;;;диссидент, инакомыслящий;El **disidente** pasó años en prisión.;Диссидент провёл годы в тюрьме.
+C1;noun;el;exilio;;;;;изгнание, эмиграция;Muchos intelectuales partieron al **exilio**.;Многие интеллектуалы отправились в изгнание.
+C1;noun;el;cónsul;;;;;консул;El **cónsul** nos ayudó a renovar el pasaporte.;Консул помог нам продлить паспорт.
+C1;noun;el;armisticio;;;;;перемирие;El **armisticio** se firmó en noviembre.;Перемирие было подписано в ноябре.
+C1;noun;el;veto;;;;;вето, запрет;Rusia ejerció su derecho de **veto**.;Россия воспользовалась правом вето.
+C1;noun;la;cancillería;;;;;министерство иностранных дел, канцелярия;La **cancillería** emitió un comunicado oficial.;МИД выпустил официальное заявление.
+C1;noun;el;gabinete;;;;;кабинет, правительство;El presidente reunió a su **gabinete**.;Президент собрал свой кабинет.
+C1;noun;el;pleno;;;;;пленарное заседание;El **pleno** del Congreso aprobó la ley.;Пленарное заседание Конгресса одобрило закон.
+C1;noun;el;senador;;;;;сенатор;El **senador** votó en contra de la reforma.;Сенатор проголосовал против реформы.
+C1;noun;la;alcaldía;;;;;мэрия, должность мэра;Se presenta a la **alcaldía** de Sevilla.;Он баллотируется на пост мэра Севильи.
+C1;noun;la;diputación;;;;;провинциальный совет, депутация;La **diputación** financia el nuevo museo.;Провинциальный совет финансирует новый музей.
+C1;noun;el;sondeo;;;;;опрос, зондирование;Según el último **sondeo**, ganará la izquierda.;Согласно последнему опросу, победят левые.
+C1;noun;el;padrón;;;;;реестр жителей;Hay que inscribirse en el **padrón** municipal.;Нужно зарегистрироваться в муниципальном реестре жителей.
+C1;noun;el;censo;;;;;перепись, ценз;El último **censo** registró un aumento de población.;Последняя перепись зафиксировала рост населения.
+C1;noun;el;mitin;;;;;митинг;Miles de personas acudieron al **mitin**.;Тысячи людей пришли на митинг.
+C1;noun;el;plebiscito;;;;;плебисцит;Convocaron un **plebiscito** sobre la nueva constitución.;Назначили плебисцит по новой конституции.
+C1;noun;la;querella;;;;;иск, жалоба в суд;Presentaron una **querella** contra el alcalde.;Против мэра подали иск.
+C1;noun;el;demandante;;;;;истец;El **demandante** exige una compensación.;Истец требует компенсации.
+C1;noun;el;demandado;;;;;ответчик;El **demandado** no se presentó al juicio.;Ответчик не явился на суд.
+C1;noun;el;imputado;;;;;обвиняемый, подозреваемый;El **imputado** se negó a declarar.;Обвиняемый отказался давать показания.
+C1;noun;la;fiscalía;;;;;прокуратура;La **fiscalía** pide diez años de cárcel.;Прокуратура требует десять лет тюрьмы.
+C1;noun;el;magistrado;;;;;судья, магистрат;El **magistrado** rechazó la petición de la defensa.;Судья отклонил ходатайство защиты.
+C1;noun;la;apelación;;;;;апелляция, обжалование;La defensa presentó una **apelación**.;Защита подала апелляцию.
+C1;noun;el;indulto;;;;;помилование;El Gobierno concedió el **indulto** a los presos.;Правительство помиловало заключённых.
+C1;noun;la;amnistía;;;;;амнистия;La ley de **amnistía** generó mucha polémica.;Закон об амнистии вызвал много споров.
+C1;noun;la;prescripción;;;;;срок давности, предписание;El delito quedó impune por **prescripción**.;Преступление осталось безнаказанным за истечением срока давности.
+C1;noun;la;jurisprudencia;;;;;судебная практика, юриспруденция;Esta sentencia sienta **jurisprudencia**.;Этот приговор создаёт судебный прецедент.
+C1;noun;el;litigio;;;;;судебный спор, тяжба;Los hermanos llevan años en **litigio** por la casa.;Братья годами судятся из-за дома.
+C1;noun;el;alegato;;;;;речь в защиту, довод;El abogado pronunció un brillante **alegato** final.;Адвокат произнёс блестящую заключительную речь.
+C1;noun;la;alegación;;;;;заявление, возражение, довод;Tienen diez días para presentar **alegaciones**.;У них есть десять дней, чтобы подать возражения.
+C1;noun;el;atenuante;;;;;смягчающее обстоятельство;El juez aplicó el **atenuante** de confesión.;Судья применил смягчающее обстоятельство признания.
+C1;noun;el;agravante;;;;;отягчающее обстоятельство;La alevosía es un **agravante** del delito.;Вероломство — отягчающее обстоятельство преступления.
+C1;noun;la;eximente;;;;;обстоятельство, исключающее вину;Alegó la **eximente** de legítima defensa.;Он сослался на необходимую самооборону.
+C1;noun;la;citación;;;;;повестка, вызов в суд;Recibió una **citación** del juzgado.;Он получил повестку из суда.
+C1;noun;la;comparecencia;;;;;явка, выступление;La **comparecencia** del ministro duró dos horas.;Выступление министра длилось два часа.
+C1;noun;el;peritaje;;;;;экспертиза;El **peritaje** confirmó que la firma era falsa.;Экспертиза подтвердила, что подпись поддельная.
+C1;noun;el;perito;;;;;эксперт, специалист;El **perito** declaró ante el tribunal.;Эксперт дал показания в суде.
+C1;noun;el;sumario;;;;;материалы дела, следствие;El juez levantó el secreto del **sumario**.;Судья снял тайну следствия.
+C1;noun;la;diligencia;;;;;следственное действие, усердие;El juez ordenó nuevas **diligencias**.;Судья распорядился о новых следственных действиях.
+C1;noun;el;reo;;;;;подсудимый, осуждённый;El **reo** escuchó la sentencia en silencio.;Подсудимый молча выслушал приговор.
+C1;noun;el;recluso;;;;;заключённый;El **recluso** obtuvo un permiso penitenciario.;Заключённый получил отпуск из тюрьмы.
+C1;noun;la;redada;;;;;облава, рейд;La policía hizo una **redada** en el puerto.;Полиция провела облаву в порту.
+C1;noun;el;allanamiento;;;;;незаконное проникновение, обыск;Lo acusan de **allanamiento** de morada.;Его обвиняют в незаконном проникновении в жилище.
+C1;noun;la;tutela;;;;;опека, защита;El juez otorgó la **tutela** a la abuela.;Судья передал опеку бабушке.
+C1;noun;la;patria potestad;-;;;;родительские права;Le retiraron la **patria potestad**.;Его лишили родительских прав.
+C1;noun;el;albacea;;;;;душеприказчик;El **albacea** repartió la herencia.;Душеприказчик распределил наследство.
+C1;noun;el;usufructo;;;;;узуфрукт, право пользования;La viuda tiene el **usufructo** de la casa.;Вдова имеет право пожизненного пользования домом.
+C1;noun;la;rescisión;;;;;расторжение;Pidió la **rescisión** del contrato.;Он потребовал расторжения договора.
+C1;noun;el;incumplimiento;;;;;невыполнение, нарушение;Lo demandaron por **incumplimiento** de contrato.;На него подали в суд за нарушение договора.
+C1;noun;el;estatuto;;;;;устав, статут;Lo prohíben los **estatutos** de la asociación.;Это запрещено уставом ассоциации.
+C1;noun;la;ordenanza;;;;;постановление, распоряжение;Una nueva **ordenanza** prohíbe beber en la calle.;Новое постановление запрещает распивать на улице.
+C1;noun;la;vigencia;-;;;;действие, срок действия;La ley entrará en **vigencia** en enero.;Закон вступит в силу в январе.
+C1;noun;la;derogación;;;;;отмена закона;Piden la **derogación** de la reforma laboral.;Требуют отмены трудовой реформы.
+C1;noun;el;resquicio;;;;;лазейка, щель;Encontraron un **resquicio** legal para no pagar.;Они нашли юридическую лазейку, чтобы не платить.
+C1;noun;la;impunidad;-;;;;безнаказанность;No podemos permitir la **impunidad** de estos crímenes.;Мы не можем допустить безнаказанности этих преступлений.
+C1;noun;la;infracción;;;;;нарушение, правонарушение;Le multaron por una **infracción** de tráfico.;Его оштрафовали за нарушение ПДД.
+C1;noun;el;homicidio;;;;;убийство;Fue condenado por **homicidio** imprudente.;Его осудили за убийство по неосторожности.
+C1;noun;la;extorsión;;;;;вымогательство;La banda vivía de la **extorsión**.;Банда жила вымогательством.
+C1;noun;el;chantaje;;;;;шантаж;No voy a ceder a tu **chantaje**.;Я не поддамся на твой шантаж.
+C1;noun;la;calumnia;;;;;клевета;Eso es una **calumnia** y lo demostraré.;Это клевета, и я это докажу.
+C1;noun;la;injuria;;;;;оскорбление;Lo denunció por **injurias** graves.;Он подал на него в суд за тяжкие оскорбления.
+C1;noun;la;difamación;;;;;диффамация, клевета;El periódico fue demandado por **difamación**.;На газету подали в суд за клевету.
+C1;noun;la;prevaricación;;;;;вынесение заведомо неправосудного решения, злоупотребление должностью;El juez fue condenado por **prevaricación**.;Судью осудили за вынесение заведомо неправосудного решения.
+C1;noun;el;encubrimiento;;;;;укрывательство;Le acusan de **encubrimiento** del crimen.;Его обвиняют в укрывательстве преступления.
+C1;noun;la;complicidad;;;;;соучастие, сообщничество;Entre ellos había una evidente **complicidad**.;Между ними было явное взаимопонимание.
+C1;noun;la;reincidencia;;;;;рецидив;La **reincidencia** agrava la pena.;Рецидив отягчает наказание.
+C1;noun;el;reincidente;;;;;рецидивист;El **reincidente** volvió a prisión a los pocos meses.;Рецидивист через несколько месяцев снова попал в тюрьму.
+C1;noun;el;agresor;;;;;агрессор, нападавший;El **agresor** huyó antes de que llegara la policía.;Нападавший скрылся до приезда полиции.
+C1;noun;el;sicario;;;;;наёмный убийца;Un **sicario** fue contratado para matarlo.;Для его убийства наняли киллера.
+C1;noun;la;represalia;;;;;репрессалия, ответная мера;Temía **represalias** si hablaba.;Он боялся мести, если заговорит.
+C1;noun;el;salvoconducto;;;;;охранная грамота, пропуск;Le dieron un **salvoconducto** para cruzar la frontera.;Ему выдали пропуск для пересечения границы.
+C1;noun;el;genoma;;;;;геном;Los científicos secuenciaron el **genoma** humano.;Учёные расшифровали геном человека.
+C1;noun;el;cromosoma;;;;;хромосома;Las personas tienen veintitrés pares de **cromosomas**.;У людей двадцать три пары хромосом.
+C1;noun;la;mutación;;;;;мутация;Una **mutación** genética causa esta enfermedad.;Это заболевание вызывает генетическая мутация.
+C1;noun;el;microorganismo;;;;;микроорганизм;Este **microorganismo** vive en condiciones extremas.;Этот микроорганизм живёт в экстремальных условиях.
+C1;noun;el;patógeno;;;;;патоген, возбудитель;El **patógeno** se transmite por el aire.;Возбудитель передаётся воздушным путём.
+C1;noun;el;anticuerpo;;;;;антитело;La vacuna genera **anticuerpos** contra el virus.;Вакцина вырабатывает антитела против вируса.
+C1;noun;la;inmunidad;-;;;;иммунитет, неприкосновенность;El diputado goza de **inmunidad** parlamentaria.;Депутат обладает парламентской неприкосновенностью.
+C1;noun;el;brote;;;;;вспышка, росток;Se ha detectado un **brote** de gripe en el colegio.;В школе выявлена вспышка гриппа.
+C1;noun;la;cepa;;;;;штамм, лоза;Apareció una nueva **cepa** del virus.;Появился новый штамм вируса.
+C1;noun;la;secuenciación;;;;;секвенирование;La **secuenciación** del ADN es cada vez más barata.;Секвенирование ДНК становится всё дешевле.
+C1;noun;la;clonación;;;;;клонирование;La **clonación** de animales plantea dilemas éticos.;Клонирование животных ставит этические дилеммы.
+C1;noun;la;enzima;;;;;фермент;Esta **enzima** ayuda a digerir las grasas.;Этот фермент помогает переваривать жиры.
+C1;noun;el;isótopo;;;;;изотоп;Usaron un **isótopo** radiactivo para datar el fósil.;Для датировки окаменелости использовали радиоактивный изотоп.
+C1;noun;la;radiactividad;-;;;;радиоактивность;Midieron la **radiactividad** en la zona.;В зоне измерили радиоактивность.
+C1;noun;la;fisión;;;;;деление;La **fisión** nuclear libera gran energía.;Ядерное деление высвобождает огромную энергию.
+C1;noun;la;nebulosa;;;;;туманность;El telescopio captó una **nebulosa** lejana.;Телескоп запечатлел далёкую туманность.
+C1;noun;el;meteorito;;;;;метеорит;Un **meteorito** cayó en el desierto.;В пустыню упал метеорит.
+C1;noun;el;asteroide;;;;;астероид;Un **asteroide** pasará cerca de la Tierra.;Рядом с Землёй пролетит астероид.
+C1;noun;el;espectro;;;;;спектр, призрак;La luz blanca contiene todo el **espectro** de colores.;Белый свет содержит весь спектр цветов.
+C1;noun;el;vatio;;;;;ватт;Esta bombilla consume diez **vatios**.;Эта лампочка потребляет десять ватт.
+C1;noun;el;voltaje;;;;;напряжение (электрическое);El **voltaje** en Europa es de 230 voltios.;Напряжение в Европе — 230 вольт.
+C1;noun;el;fósil;;;;;окаменелость, ископаемое;Encontraron un **fósil** de dinosaurio.;Нашли окаменелость динозавра.
+C1;noun;el;invernadero;;;;;теплица, парник;Cultivan tomates en un **invernadero**.;Они выращивают помидоры в теплице.
+C1;noun;el;deshielo;;;;;таяние льдов, оттепель;El **deshielo** de los polos se acelera.;Таяние полярных льдов ускоряется.
+C1;noun;la;desertización;-;;;;опустынивание;La **desertización** amenaza el sur de España.;Опустынивание угрожает югу Испании.
+C1;noun;la;erosión;;;;;эрозия, разрушение;La **erosión** del suelo reduce las cosechas.;Эрозия почвы снижает урожаи.
+C1;noun;la;fotosíntesis;-;;;;фотосинтез;Las plantas producen oxígeno mediante la **fotosíntesis**.;Растения вырабатывают кислород посредством фотосинтеза.
+C1;noun;el;metano;-;;;;метан;El ganado emite grandes cantidades de **metano**.;Скот выделяет большое количество метана.
+C1;noun;el;ozono;-;;;;озон;La capa de **ozono** se está recuperando.;Озоновый слой восстанавливается.
+C1;noun;el;acuífero;;;;;водоносный слой;La sobreexplotación agota el **acuífero**.;Чрезмерная эксплуатация истощает водоносный слой.
+C1;noun;la;placa;;;;;плита, табличка, пластина;El terremoto se produjo por el choque de dos **placas**.;Землетрясение произошло из-за столкновения двух плит.
+C1;noun;el;seísmo;;;;;землетрясение, сейсм;El **seísmo** alcanzó una magnitud de seis grados.;Землетрясение достигло магнитуды шесть.
+C1;noun;el;maremoto;;;;;цунами, моретрясение;El **maremoto** arrasó la costa.;Цунами опустошило побережье.
+C1;noun;la;lava;-;;;;лава;La **lava** destruyó cientos de casas.;Лава уничтожила сотни домов.
+C1;noun;el;magma;-;;;;магма;El **magma** asciende desde el interior de la Tierra.;Магма поднимается из недр Земли.
+C1;noun;el;yacimiento;;;;;месторождение, раскопки;Descubrieron un **yacimiento** de gas natural.;Обнаружили месторождение природного газа.
+C1;noun;el;sedimento;;;;;осадок, отложение;El río deposita **sedimentos** en la desembocadura.;Река откладывает наносы в устье.
+C1;noun;el;estrato;;;;;слой, пласт;Pertenece a un **estrato** social acomodado.;Он принадлежит к обеспеченному слою общества.
+C1;noun;el;vertido;;;;;сброс, разлив;Un **vertido** de petróleo contaminó la playa.;Разлив нефти загрязнил пляж.
+C1;noun;la;patología;;;;;патология, заболевание;Padece una **patología** cardíaca grave.;Он страдает серьёзным заболеванием сердца.
+C1;noun;la;afección;;;;;заболевание, поражение;Sufre una **afección** respiratoria crónica.;Он страдает хроническим заболеванием дыхательных путей.
+C1;noun;el;síndrome;;;;;синдром;Le diagnosticaron **síndrome** de fatiga crónica.;Ему диагностировали синдром хронической усталости.
+C1;noun;el;tumor;;;;;опухоль;Le extirparon un **tumor** benigno.;Ему удалили доброкачественную опухоль.
+C1;noun;la;metástasis;;;;;метастаз;Por suerte no había **metástasis**.;К счастью, метастазов не было.
+C1;noun;la;quimioterapia;;;;;химиотерапия;Empezó la **quimioterapia** la semana pasada.;На прошлой неделе он начал химиотерапию.
+C1;noun;el;donante;;;;;донор;Se necesitan **donantes** de sangre urgentemente.;Срочно нужны доноры крови.
+C1;noun;la;prótesis;;;;;протез;Lleva una **prótesis** de cadera.;У него протез тазобедренного сустава.
+C1;noun;el;posoperatorio;;;;;послеоперационный период;El **posoperatorio** fue más largo de lo previsto.;Послеоперационный период был дольше, чем ожидалось.
+C1;noun;la;convalecencia;;;;;выздоровление;Pasó la **convalecencia** en casa de sus padres.;Период выздоровления он провёл у родителей.
+C1;noun;la;fisioterapia;;;;;физиотерапия;Hace **fisioterapia** para recuperar la rodilla.;Он ходит на физиотерапию, чтобы восстановить колено.
+C1;noun;el;placebo;;;;;плацебо;La mitad de los pacientes recibió un **placebo**.;Половина пациентов получила плацебо.
+C1;noun;el;fármaco;;;;;лекарство, препарат;Este **fármaco** tiene pocos efectos secundarios.;У этого препарата мало побочных эффектов.
+C1;noun;la;contraindicación;;;;;противопоказание;Lee las **contraindicaciones** antes de tomarlo.;Прочитай противопоказания, прежде чем принимать.
+C1;noun;el;achaque;;;;;недомогание, болячка;Mi abuela tiene los **achaques** propios de la edad.;У моей бабушки возрастные болячки.
+C1;noun;la;cicatrización;-;;;;заживление, рубцевание;La **cicatrización** de la herida va bien.;Заживление раны идёт хорошо.
+C1;noun;el;hematoma;;;;;гематома, синяк;Tenía un **hematoma** enorme en la pierna.;У него была огромная гематома на ноге.
+C1;noun;la;inflamación;;;;;воспаление, отёк;El hielo reduce la **inflamación**.;Лёд уменьшает отёк.
+C1;noun;el;sistema inmunitario;;;;;иммунная система;El estrés debilita el **sistema inmunitario**.;Стресс ослабляет иммунную систему.
+C1;noun;la;biopsia;;;;;биопсия;Le hicieron una **biopsia** para descartar un cáncer.;Ему сделали биопсию, чтобы исключить рак.
+C1;noun;la;ecografía;;;;;УЗИ;La **ecografía** mostró que era una niña.;УЗИ показало, что будет девочка.
+C1;noun;la;resonancia;;;;;резонанс, МРТ;Me han hecho una **resonancia** de la rodilla.;Мне сделали МРТ колена.
+C1;noun;la;sutura;;;;;шов;Le pusieron cinco puntos de **sutura**.;Ему наложили пять швов.
+C1;noun;el;ictus;;;;;инсульт;Su abuelo sufrió un **ictus** el año pasado.;Его дедушка перенёс инсульт в прошлом году.
+C1;noun;el;infarto;;;;;инфаркт;Murió de un **infarto** a los sesenta años.;Он умер от инфаркта в шестьдесят лет.
+C1;noun;la;cardiopatía;;;;;болезнь сердца;Nació con una **cardiopatía** congénita.;Он родился с врождённым пороком сердца.
+C1;noun;la;demencia;;;;;деменция, слабоумие;La **demencia** senil afecta a millones de personas.;Старческая деменция поражает миллионы людей.
+C1;noun;la;esquizofrenia;;;;;шизофрения;Le diagnosticaron **esquizofrenia** a los veinte años.;Ему диагностировали шизофрению в двадцать лет.
+C1;noun;la;anorexia;-;;;;анорексия;La **anorexia** afecta sobre todo a adolescentes.;Анорексия поражает в основном подростков.
+C1;noun;la;abstinencia;-;;;;воздержание, абстиненция;Sufría síndrome de **abstinencia**.;Он страдал от абстинентного синдрома.
+C1;noun;la;sobredosis;;;;;передозировка;Murió de una **sobredosis** de heroína.;Он умер от передозировки героина.
+C1;noun;la;eutanasia;-;;;;эвтаназия;El Parlamento aprobó la ley de **eutanasia**.;Парламент принял закон об эвтаназии.
+C1;noun;la;bioética;-;;;;биоэтика;El comité de **bioética** revisó el ensayo.;Комитет по биоэтике рассмотрел испытание.
+C1;noun;la;nanotecnología;-;;;;нанотехнологии;La **nanotecnología** revolucionará la medicina.;Нанотехнологии совершат революцию в медицине.
+C1;noun;el;ciberataque;;;;;кибератака;Un **ciberataque** paralizó el hospital.;Кибератака парализовала больницу.
+C1;noun;el;cifrado;;;;;шифрование;Los mensajes tienen **cifrado** de extremo a extremo.;Сообщения защищены сквозным шифрованием.
+C1;noun;la;interfaz;;;;;интерфейс;La **interfaz** de la aplicación es muy intuitiva.;Интерфейс приложения очень интуитивный.
+C1;noun;la;robótica;-;;;;робототехника;Estudia **robótica** en la universidad.;Он изучает робототехнику в университете.
+C1;verb;;abstenerse;;yo me abstengo;me abstuve;abstenido;воздерживаться;Varios diputados **se abstuvieron** en la votación.;Несколько депутатов воздержались при голосовании.
+C1;verb;;acrecentar;;yo acreciento;acrecenté;acrecentado;увеличивать, усиливать;La crisis **acrecentó** la desconfianza hacia el gobierno.;Кризис усилил недоверие к правительству.
+C1;verb;;adolecer;;yo adolezco;adolecí;adolecido;страдать (недостатком), грешить;El informe **adolece** de falta de rigor.;Доклад страдает недостатком строгости.
+C1;verb;;agilizar;;;agilicé;agilizado;ускорять, упрощать;Necesitamos **agilizar** los trámites administrativos.;Нам нужно ускорить административные процедуры.
+C1;verb;;agudizar;;;agudicé;agudizado;обострять;La sequía **agudizó** los problemas del campo.;Засуха обострила проблемы сельского хозяйства.
+C1;verb;;alentar;;yo aliento;alenté;alentado;поощрять, воодушевлять;Sus padres siempre lo **alentaron** a estudiar.;Родители всегда поощряли его учиться.
+C1;verb;;aludir;;;aludí;aludido;намекать, ссылаться;En su discurso **aludió** a la crisis económica.;В своей речи он упомянул экономический кризис.
+C1;verb;;amortiguar;;;amortigüé;amortiguado;смягчать, амортизировать;La alfombra **amortigua** el ruido de los pasos.;Ковёр смягчает шум шагов.
+C1;verb;;apaciguar;;;apacigüé;apaciguado;успокаивать, умиротворять;Intentó **apaciguar** los ánimos con una broma.;Он попытался успокоить всех шуткой.
+C1;verb;;apremiar;;;apremié;apremiado;торопить, поджимать;El tiempo **apremia** y debemos decidir ya.;Время поджимает, и мы должны решить сейчас.
+C1;verb;;arraigar;;;arraigué;arraigado;укореняться, пускать корни;Esa costumbre **arraigó** profundamente en la región.;Этот обычай глубоко укоренился в регионе.
+C1;verb;;atenuar;;yo atenúo;atenué;atenuado;смягчать, ослаблять;El abogado intentó **atenuar** la responsabilidad de su cliente.;Адвокат пытался смягчить ответственность своего клиента.
+C1;verb;;avalar;;;avalé;avalado;подтверждать, ручаться;Los datos **avalan** nuestra hipótesis.;Данные подтверждают нашу гипотезу.
+C1;verb;;avivar;;;avivé;avivado;разжигать, оживлять;Sus palabras **avivaron** la polémica.;Его слова разожгли полемику.
+C1;verb;;cerciorarse;;;me cercioré;cerciorado;удостовериться, убедиться;**Me cercioré** de que la puerta estaba cerrada.;Я удостоверился, что дверь заперта.
+C1;verb;;cimentar;;yo cimiento;cimenté;cimentado;закладывать основу, укреплять;Aquel éxito **cimentó** su prestigio internacional.;Тот успех укрепил его международный авторитет.
+C1;verb;;coaccionar;;;coaccioné;coaccionado;принуждать, оказывать давление;Lo **coaccionaron** para que firmara el contrato.;Его принудили подписать контракт.
+C1;verb;;colmar;;;colmé;colmado;переполнять, удовлетворять полностью;Este último error **colmó** mi paciencia.;Эта последняя ошибка переполнила моё терпение.
+C1;verb;;compaginar;;;compaginé;compaginado;совмещать, сочетать;Es difícil **compaginar** el trabajo con la familia.;Трудно совмещать работу и семью.
+C1;verb;;complacer;;yo complazco;complací;complacido;угождать, доставлять удовольствие;Me **complace** anunciar el ganador del premio.;Мне приятно объявить победителя премии.
+C1;verb;;conciliar;;;concilié;conciliado;примирять, совмещать;No logro **conciliar** el sueño por las noches.;Я не могу заснуть по ночам.
+C1;verb;;condicionar;;;condicioné;condicionado;обусловливать, влиять;El clima **condiciona** la economía de la zona.;Климат определяет экономику региона.
+C1;verb;;conferir;;yo confiero;conferí;conferido;придавать, присваивать;La luz **confiere** a la sala un aire cálido.;Освещение придаёт залу уютный вид.
+C1;verb;;congeniar;;;congenié;congeniado;ладить, сходиться характерами;Enseguida **congenié** con mis nuevos compañeros.;Я сразу поладил с новыми коллегами.
+C1;verb;;consolidar;;;consolidé;consolidado;укреплять, консолидировать;La empresa **consolidó** su posición en el mercado.;Компания укрепила свои позиции на рынке.
+C1;verb;;constatar;;;constaté;constatado;констатировать, удостоверять;Los médicos **constataron** una clara mejoría.;Врачи констатировали явное улучшение.
+C1;verb;;contrarrestar;;;contrarresté;contrarrestado;противодействовать, нейтрализовать;Hay que **contrarrestar** los efectos de la inflación.;Нужно противодействовать последствиям инфляции.
+C1;verb;;corroborar;;;corroboré;corroborado;подтверждать;Los testigos **corroboraron** su versión de los hechos.;Свидетели подтвердили его версию событий.
+C1;verb;;costear;;;costeé;costeado;оплачивать, покрывать расходы;Sus abuelos le **costearon** los estudios.;Бабушка и дедушка оплатили ему учёбу.
+C1;verb;;cuantificar;;;cuantifiqué;cuantificado;количественно оценивать;Es imposible **cuantificar** el daño emocional.;Невозможно количественно оценить эмоциональный ущерб.
+C1;verb;;debilitar;;;debilité;debilitado;ослаблять;La enfermedad **debilitó** mucho a mi abuelo.;Болезнь сильно ослабила моего дедушку.
+C1;verb;;decantarse;;;me decanté;decantado;склоняться (к выбору), выбирать;Al final **me decanté** por la opción más barata.;В итоге я выбрал самый дешёвый вариант.
+C1;verb;;deliberar;;;deliberé;deliberado;совещаться, обсуждать;El jurado **deliberó** durante tres horas.;Присяжные совещались три часа.
+C1;verb;;demorar;;;demoré;demorado;задерживать, откладывать;El vuelo se **demoró** por la niebla.;Рейс задержали из-за тумана.
+C1;verb;;deparar;;;deparé;deparado;готовить (о судьбе), сулить;Nadie sabe qué nos **depara** el futuro.;Никто не знает, что нам готовит будущее.
+C1;verb;;derivar;;;derivé;derivado;вытекать, происходить, перенаправлять;Muchos problemas **derivan** de la falta de comunicación.;Многие проблемы происходят от недостатка общения.
+C1;verb;;desatar;;;desaté;desatado;развязывать, вызывать;La noticia **desató** una ola de protestas.;Новость вызвала волну протестов.
+C1;verb;;desbordar;;;desbordé;desbordado;переполнять, выходить из берегов;El río **desbordó** su cauce tras las lluvias.;После дождей река вышла из берегов.
+C1;verb;;desencadenar;;;desencadené;desencadenado;вызывать, спровоцировать;Un pequeño incidente **desencadenó** la guerra.;Небольшой инцидент спровоцировал войну.
+C1;verb;;desentenderse;;yo me desentiendo;me desentendí;desentendido;самоустраняться, не вмешиваться;El padre **se desentendió** de la educación de sus hijos.;Отец самоустранился от воспитания детей.
+C1;verb;;desestimar;;;desestimé;desestimado;отклонять, отвергать;El juez **desestimó** la demanda por falta de pruebas.;Судья отклонил иск за недостатком доказательств.
+C1;verb;;desglosar;;;desglosé;desglosado;разбивать по статьям, детализировать;¿Puede **desglosar** los gastos de la factura?;Можете детализировать расходы в счёте?
+C1;verb;;desistir;;;desistí;desistido;отказываться (от намерения);No **desistió** hasta conseguir su objetivo.;Он не отступал, пока не добился своей цели.
+C1;verb;;desprenderse;;;me desprendí;desprendido;избавляться, следовать (из чего-то);Me cuesta **desprenderme** de los libros viejos.;Мне трудно расставаться со старыми книгами.
+C1;verb;;desvelar;;;desvelé;desvelado;раскрывать, разглашать;La prensa **desveló** los detalles del acuerdo.;Пресса раскрыла подробности соглашения.
+C1;verb;;desvincularse;;;me desvinculé;desvinculado;отмежёвываться, разрывать связь;El partido **se desvinculó** de sus declaraciones.;Партия отмежевалась от его заявлений.
+C1;verb;;dilucidar;;;dilucidé;dilucidado;прояснять, выяснять;La investigación debe **dilucidar** las causas del accidente.;Расследование должно выяснить причины аварии.
+C1;verb;;discernir;;yo discierno;discerní;discernido;различать, распознавать;A veces cuesta **discernir** lo verdadero de lo falso.;Иногда трудно отличить правду от лжи.
+C1;verb;;disipar;;;disipé;disipado;рассеивать, развеивать;Sus explicaciones **disiparon** todas mis dudas.;Его объяснения развеяли все мои сомнения.
+C1;verb;;disuadir;;;disuadí;disuadido;отговаривать;Sus amigos lo **disuadieron** de dejar la carrera.;Друзья отговорили его бросать учёбу.
+C1;verb;;divagar;;;divagué;divagado;отвлекаться от темы, болтать;Deja de **divagar** y ve al grano.;Хватит отвлекаться, переходи к сути.
+C1;verb;;eludir;;;eludí;eludido;уклоняться, избегать;El ministro **eludió** responder a la pregunta.;Министр уклонился от ответа на вопрос.
+C1;verb;;emanar;;;emané;emanado;исходить, излучать;De la cocina **emanaba** un olor delicioso.;Из кухни исходил восхитительный запах.
+C1;verb;;empañar;;;empañé;empañado;омрачать, затуманивать;El escándalo **empañó** su brillante carrera.;Скандал омрачил его блестящую карьеру.
+C1;verb;;enmendar;;yo enmiendo;enmendé;enmendado;исправлять, вносить поправки;Quiso **enmendar** sus errores del pasado.;Он хотел исправить свои прошлые ошибки.
+C1;verb;;entablar;;;entablé;entablado;завязывать (разговор, отношения);En el tren **entablé** conversación con una anciana.;В поезде я разговорился с пожилой женщиной.
+C1;verb;;entorpecer;;yo entorpezco;entorpecí;entorpecido;мешать, затруднять;La burocracia **entorpece** el desarrollo de proyectos.;Бюрократия затрудняет развитие проектов.
+C1;verb;;entrañar;;;entrañé;entrañado;влечь за собой, заключать в себе;Esta operación **entraña** ciertos riesgos.;Эта операция сопряжена с определёнными рисками.
+C1;verb;;enunciar;;;enuncié;enunciado;формулировать, излагать;El profesor **enunció** el teorema en la pizarra.;Преподаватель сформулировал теорему на доске.
+C1;verb;;erradicar;;;erradiqué;erradicado;искоренять;El objetivo es **erradicar** la pobreza extrema.;Цель — искоренить крайнюю бедность.
+C1;verb;;esclarecer;;yo esclarezco;esclarecí;esclarecido;прояснять, раскрывать;La policía todavía no ha **esclarecido** el crimen.;Полиция до сих пор не раскрыла преступление.
+C1;verb;;escatimar;;;escatimé;escatimado;скупиться, жалеть;No **escatimaron** esfuerzos para ayudarnos.;Они не жалели сил, чтобы нам помочь.
+C1;verb;;esgrimir;;;esgrimí;esgrimido;выдвигать (доводы), приводить;La empresa **esgrimió** razones económicas para el despido.;Компания привела экономические причины увольнения.
+C1;verb;;estipular;;;estipulé;estipulado;оговаривать, устанавливать;El contrato **estipula** un plazo de dos meses.;Договор устанавливает срок в два месяца.
+C1;verb;;evocar;;;evoqué;evocado;вызывать в памяти, напоминать;Esta canción **evoca** mi infancia en el pueblo.;Эта песня напоминает мне о детстве в деревне.
+C1;verb;;exhortar;;;exhorté;exhortado;призывать, увещевать;El presidente **exhortó** a la población a mantener la calma.;Президент призвал население сохранять спокойствие.
+C1;verb;;eximir;;;eximí;eximido;освобождать (от обязанности);La ley **exime** de impuestos a las pequeñas empresas.;Закон освобождает малые предприятия от налогов.
+C1;verb;;fraguar;;;fragüé;fraguado;замышлять, вынашивать;Los conspiradores **fraguaron** un plan contra el rey.;Заговорщики замыслили план против короля.
+C1;verb;;fundamentar;;;fundamenté;fundamentado;обосновывать;Debes **fundamentar** tus opiniones con datos.;Ты должен обосновывать своё мнение данными.
+C1;verb;;gestarse;;;me gesté;gestado;зарождаться, назревать;La revolución **se gestó** durante años de descontento.;Революция назревала годами недовольства.
+C1;verb;;hostigar;;;hostigué;hostigado;преследовать, донимать;Lo **hostigaban** constantemente en el trabajo.;Его постоянно травили на работе.
+C1;verb;;imperar;;;imperé;imperado;господствовать, царить;En la reunión **imperaba** un ambiente tenso.;На собрании царила напряжённая атмосфера.
+C1;verb;;implantar;;;implanté;implantado;внедрять, вводить;El gobierno **implantó** un nuevo sistema fiscal.;Правительство ввело новую налоговую систему.
+C1;verb;;incidir;;;incidí;incidido;влиять, делать акцент;El ponente **incidió** en la importancia de la educación.;Докладчик подчеркнул важность образования.
+C1;verb;;incurrir;;;incurrí;incurrido;впадать (в ошибку), совершать;El autor **incurre** en varias contradicciones.;Автор впадает в ряд противоречий.
+C1;verb;;indagar;;;indagué;indagado;расследовать, выяснять;Los periodistas **indagaron** en el pasado del político.;Журналисты покопались в прошлом политика.
+C1;verb;;inferir;;yo infiero;inferí;inferido;делать вывод, заключать;De sus palabras **infiero** que no está contento.;Из его слов я заключаю, что он недоволен.
+C1;verb;;infringir;;yo infrinjo;infringí;infringido;нарушать (закон, правило);El conductor **infringió** varias normas de tráfico.;Водитель нарушил несколько правил дорожного движения.
+C1;verb;;inhibir;;;inhibí;inhibido;подавлять, сдерживать;El miedo **inhibe** la creatividad de los alumnos.;Страх подавляет творческие способности учеников.
+C1;verb;;inmiscuirse;;yo me inmiscuyo;me inmiscuí;inmiscuido;вмешиваться;No quiero **inmiscuirme** en vuestros asuntos.;Я не хочу вмешиваться в ваши дела.
+C1;verb;;instar;;;insté;instado;настоятельно призывать;La ONU **instó** a ambas partes a negociar.;ООН настоятельно призвала обе стороны к переговорам.
+C1;verb;;intuir;;yo intuyo;intuí;intuido;интуитивно чувствовать, догадываться;**Intuyo** que algo no va bien.;Я чувствую, что что-то не так.
+C1;verb;;menoscabar;;;menoscabé;menoscabado;подрывать, умалять;Esas críticas **menoscaban** su autoridad.;Эта критика подрывает его авторитет.
+C1;verb;;mermar;;;mermé;mermado;уменьшать, снижать;La lesión **mermó** su rendimiento en la temporada.;Травма снизила его результативность в сезоне.
+C1;verb;;mitigar;;;mitigué;mitigado;смягчать, облегчать;Estas medidas buscan **mitigar** el cambio climático.;Эти меры направлены на смягчение изменения климата.
+C1;verb;;obstaculizar;;;obstaculicé;obstaculizado;препятствовать;Las protestas **obstaculizaron** el tráfico.;Протесты затруднили движение транспорта.
+C1;verb;;ostentar;;;ostenté;ostentado;занимать (пост), выставлять напоказ;**Ostentó** el cargo de alcalde durante doce años.;Он занимал пост мэра двенадцать лет.
+C1;verb;;paliar;;;palié;paliado;облегчать, смягчать;Las ayudas sirvieron para **paliar** la crisis.;Помощь позволила смягчить кризис.
+C1;verb;;perdurar;;;perduré;perdurado;сохраняться, длиться;Su recuerdo **perdurará** en nuestra memoria.;Память о нём сохранится в наших сердцах.
+C1;verb;;persistir;;;persistí;persistido;сохраняться, упорствовать;Si los síntomas **persisten**, consulte a su médico.;Если симптомы сохраняются, обратитесь к врачу.
+C1;verb;;plasmar;;;plasmé;plasmado;воплощать, отражать;El pintor **plasmó** su angustia en el lienzo.;Художник воплотил свою тоску на холсте.
+C1;verb;;ponderar;;;ponderé;ponderado;взвешивать, обдумывать;Hay que **ponderar** las ventajas y los inconvenientes.;Нужно взвесить преимущества и недостатки.
+C1;verb;;postergar;;;postergué;postergado;откладывать, отодвигать;**Postergaron** la reunión hasta la próxima semana.;Встречу отложили до следующей недели.
+C1;verb;;postular;;;postulé;postulado;выдвигать (теорию), постулировать;Einstein **postuló** la teoría de la relatividad.;Эйнштейн выдвинул теорию относительности.
+C1;verb;;preconizar;;;preconicé;preconizado;проповедовать, отстаивать;El partido **preconiza** una reforma educativa profunda.;Партия выступает за глубокую реформу образования.
+C1;verb;;primar;;;primé;primado;преобладать, иметь приоритет;En esta empresa **prima** la calidad sobre la cantidad.;В этой компании качество важнее количества.
+C1;verb;;propiciar;;;propicié;propiciado;способствовать, благоприятствовать;El buen tiempo **propició** la llegada de turistas.;Хорошая погода способствовала притоку туристов.
+C1;verb;;recabar;;;recabé;recabado;собирать (информацию, данные);La policía está **recabando** información sobre el caso.;Полиция собирает информацию по делу.
+C1;verb;;recalcar;;;recalqué;recalcado;подчёркивать, акцентировать;El director **recalcó** la necesidad de ahorrar.;Директор подчеркнул необходимость экономить.
+C1;verb;;recapacitar;;;recapacité;recapacitado;поразмыслить, одуматься;**Recapacita** antes de tomar una decisión tan grave.;Подумай хорошенько, прежде чем принимать такое серьёзное решение.
+C1;verb;;recriminar;;;recriminé;recriminado;упрекать, обвинять;Le **recriminó** su falta de compromiso.;Он упрекнул его в отсутствии ответственности.
+C1;verb;;redundar;;;redundé;redundado;оборачиваться (чем-то), идти на пользу;Esta inversión **redundará** en beneficio de todos.;Эта инвестиция пойдёт на пользу всем.
+C1;verb;;refutar;;;refuté;refutado;опровергать;El científico **refutó** la teoría con nuevos datos.;Учёный опроверг теорию новыми данными.
+C1;verb;;regir;;yo rijo;regí;regido;управлять, действовать (о законе);Estas normas **rigen** desde el año pasado.;Эти нормы действуют с прошлого года.
+C1;verb;;reiterar;;;reiteré;reiterado;повторять, подтверждать;El presidente **reiteró** su compromiso con la paz.;Президент вновь подтвердил свою приверженность миру.
+C1;verb;;remitir;;;remití;remitido;отправлять, ослабевать, отсылать;Le **remito** adjunto el documento solicitado.;Направляю вам во вложении запрошенный документ.
+C1;verb;;repercutir;;;repercutí;repercutido;сказываться, отражаться;La subida de precios **repercute** en el consumo.;Рост цен сказывается на потреблении.
+C1;verb;;resarcir;;yo resarzo;resarcí;resarcido;возмещать, компенсировать;La compañía deberá **resarcir** a los afectados.;Компании придётся возместить ущерб пострадавшим.
+C1;verb;;rescindir;;;rescindí;rescindido;расторгать;El club **rescindió** el contrato del entrenador.;Клуб расторг контракт с тренером.
+C1;verb;;retomar;;;retomé;retomado;возобновлять, возвращаться к;Después de la pausa **retomamos** la discusión.;После перерыва мы возобновили обсуждение.
+C1;verb;;salvaguardar;;;salvaguardé;salvaguardado;охранять, защищать;Es necesario **salvaguardar** los derechos de los trabajadores.;Необходимо защищать права работников.
+C1;verb;;sancionar;;;sancioné;sancionado;наказывать, штрафовать;**Sancionaron** al jugador con tres partidos.;Игрока дисквалифицировали на три матча.
+C1;verb;;sobrellevar;;;sobrellevé;sobrellevado;переносить, выдерживать;Supo **sobrellevar** la enfermedad con dignidad.;Он сумел достойно перенести болезнь.
+C1;verb;;socavar;;;socavé;socavado;подрывать;La corrupción **socava** la confianza en las instituciones.;Коррупция подрывает доверие к институтам.
+C1;verb;;solventar;;;solventé;solventado;решать, улаживать;Logramos **solventar** el problema en pocas horas.;Нам удалось решить проблему за несколько часов.
+C1;verb;;subsanar;;;subsané;subsanado;исправлять, устранять;Debe **subsanar** los errores de la solicitud.;Вам нужно исправить ошибки в заявлении.
+C1;verb;;sucumbir;;;sucumbí;sucumbido;поддаваться, погибать;Al final **sucumbió** a la tentación.;В конце концов он поддался искушению.
+C1;verb;;suscitar;;;suscité;suscitado;вызывать (интерес, споры);La propuesta **suscitó** un intenso debate.;Предложение вызвало бурную дискуссию.
+C1;verb;;sustentar;;;sustenté;sustentado;поддерживать, обосновывать;No hay pruebas que **sustenten** esa acusación.;Нет доказательств, подтверждающих это обвинение.
+C1;verb;;tergiversar;;;tergiversé;tergiversado;искажать, перевирать;Los medios **tergiversaron** mis palabras.;СМИ исказили мои слова.
+C1;verb;;trascender;;yo trasciendo;trascendí;trascendido;выходить за пределы, становиться известным;La noticia **trascendió** a la prensa internacional.;Новость просочилась в международную прессу.
+C1;verb;;urgir;;yo urjo;urgí;urgido;быть срочным, торопить;**Urge** encontrar una solución al problema.;Необходимо срочно найти решение проблемы.
+C1;verb;;vislumbrar;;;vislumbré;vislumbrado;различать вдали, предвидеть;Por fin se **vislumbra** el final de la crisis.;Наконец виден конец кризиса.
+C1;verb;;vulnerar;;;vulneré;vulnerado;нарушать (права);Esta ley **vulnera** los derechos fundamentales.;Этот закон нарушает основные права.
+C1;verb;;zanjar;;;zanjé;zanjado;уладить, закрыть (вопрос);Con esa respuesta **zanjó** la discusión.;Этим ответом он закрыл спор.
+C1;verb;;acechar;;;aceché;acechado;подстерегать, выслеживать;El peligro **acecha** en cada esquina.;Опасность подстерегает на каждом углу.
+C1;verb;;achacar;;;achaqué;achacado;приписывать, сваливать вину;**Achacó** el fracaso a la mala suerte.;Он списал неудачу на невезение.
+C1;verb;;acuñar;;;acuñé;acuñado;чеканить, вводить (термин);Fue él quien **acuñó** ese término.;Именно он ввёл этот термин.
+C1;verb;;afianzar;;;afiancé;afianzado;укреплять, упрочивать;El equipo **afianzó** su liderato con esta victoria.;Этой победой команда упрочила своё лидерство.
+C1;verb;;aflorar;;;afloré;aflorado;проявляться, выходить на поверхность;Durante la discusión **afloraron** viejos rencores.;Во время спора всплыли старые обиды.
+C1;verb;;agraviar;;;agravié;agraviado;оскорблять, обижать;Sus comentarios **agraviaron** a toda la comunidad.;Его комментарии оскорбили всё сообщество.
+C1;verb;;ahondar;;;ahondé;ahondado;углубляться, вникать;El documental **ahonda** en las causas del conflicto.;Документальный фильм углубляется в причины конфликта.
+C1;verb;;alardear;;;alardeé;alardeado;хвастаться, кичиться;Siempre **alardea** de sus contactos importantes.;Он вечно хвастается своими важными связями.
+C1;verb;;albergar;;;albergué;albergado;вмещать, питать (надежду);Todavía **albergo** la esperanza de volver a verla.;Я всё ещё питаю надежду увидеть её снова.
+C1;verb;;amedrentar;;;amedrenté;amedrentado;запугивать;No se dejó **amedrentar** por las amenazas.;Он не позволил запугать себя угрозами.
+C1;verb;;amoldarse;;;me amoldé;amoldado;приспосабливаться;Los niños **se amoldan** rápido a los cambios.;Дети быстро приспосабливаются к переменам.
+C1;verb;;anhelar;;;anhelé;anhelado;страстно желать, жаждать;**Anhelaba** volver a su tierra natal.;Он страстно желал вернуться на родину.
+C1;verb;;apelar;;;apelé;apelado;обжаловать, взывать;El acusado **apeló** la sentencia.;Обвиняемый обжаловал приговор.
+C1;verb;;apuntalar;;;apuntalé;apuntalado;подпирать, поддерживать;Las reformas buscan **apuntalar** la economía.;Реформы призваны поддержать экономику.
+C1;verb;;arremeter;;;arremetí;arremetido;нападать, обрушиваться;El líder de la oposición **arremetió** contra el gobierno.;Лидер оппозиции обрушился на правительство.
+C1;verb;;articular;;;articulé;articulado;выстраивать, чётко произносить;Estaba tan nervioso que no podía **articular** palabra.;Он так нервничал, что не мог вымолвить ни слова.
+C1;verb;;asediar;;;asedié;asediado;осаждать, донимать;Los periodistas **asediaron** a la actriz a la salida.;Журналисты осадили актрису на выходе.
+C1;verb;;asentir;;yo asiento;asentí;asentido;соглашаться, кивать в знак согласия;Ella **asintió** con la cabeza sin decir nada.;Она молча кивнула в знак согласия.
+C1;verb;;atisbar;;;atisbé;atisbado;различать, замечать;A lo lejos **atisbamos** las luces del puerto.;Вдали мы различили огни порта.
+C1;verb;;augurar;;;auguré;augurado;предвещать, предсказывать;Los expertos **auguran** un año difícil.;Эксперты предсказывают трудный год.
+C1;verb;;barajar;;;barajé;barajado;рассматривать (варианты), тасовать;La policía **baraja** varias hipótesis.;Полиция рассматривает несколько версий.
+C1;verb;;blindar;;;blindé;blindado;защищать, бронировать;El club quiere **blindar** a su mejor jugador.;Клуб хочет надёжно удержать своего лучшего игрока.
+C1;verb;;brotar;;;broté;brotado;прорастать, возникать;De sus ojos **brotaron** lágrimas de alegría.;Из её глаз брызнули слёзы радости.
+C1;verb;;calar;;;calé;calado;промокать насквозь, раскусить;Lo **calé** en cuanto empezó a mentir.;Я раскусил его, как только он начал врать.
+C1;verb;;canalizar;;;canalicé;canalizado;направлять, канализировать;Intenta **canalizar** tu energía hacia el deporte.;Попробуй направить свою энергию в спорт.
+C1;verb;;ceñirse;;yo me ciño;me ceñí;ceñido;придерживаться, ограничиваться;Por favor, **cíñase** a los hechos.;Пожалуйста, придерживайтесь фактов.
+C1;verb;;claudicar;;;claudiqué;claudicado;сдаваться, отступаться;Nunca **claudicó** ante las presiones.;Он никогда не уступал давлению.
+C1;verb;;codiciar;;;codicié;codiciado;жаждать, домогаться;Era el puesto más **codiciado** de la empresa.;Это была самая желанная должность в компании.
+C1;verb;;cohibir;;yo cohíbo;cohibí;cohibido;смущать, стеснять;La presencia del jefe **cohíbe** a los empleados.;Присутствие начальника стесняет сотрудников.
+C1;verb;;compenetrarse;;;me compenetré;compenetrado;сработаться, понимать друг друга;Los dos actores **se compenetran** muy bien.;Два актёра прекрасно понимают друг друга.
+C1;verb;;concertar;;yo concierto;concerté;concertado;договариваться, назначать;**Concertamos** una cita para el lunes.;Мы договорились о встрече на понедельник.
+C1;verb;;condescender;;yo condesciendo;condescendí;condescendido;снисходить, уступать;No pienso **condescender** a sus caprichos.;Я не собираюсь потакать его капризам.
+C1;verb;;conmemorar;;;conmemoré;conmemorado;отмечать (годовщину), увековечивать;Hoy se **conmemora** el fin de la guerra.;Сегодня отмечается годовщина окончания войны.
+C1;verb;;conmover;;yo conmuevo;conmoví;conmovido;трогать, волновать;Su historia nos **conmovió** profundamente.;Его история глубоко нас тронула.
+C1;verb;;consagrar;;;consagré;consagrado;посвящать, утверждать (в статусе);**Consagró** su vida a la investigación.;Он посвятил свою жизнь науке.
+C1;verb;;constreñir;;yo constriño;constreñí;constreñido;ограничивать, сковывать;Las normas **constriñen** la libertad de los artistas.;Правила сковывают свободу художников.
+C1;verb;;contraer;;yo contraigo;contraje;contraído;заключать (брак), подхватить (болезнь), брать (обязательства);**Contrajo** matrimonio a los treinta años.;Он вступил в брак в тридцать лет.
+C1;verb;;contravenir;;yo contravengo;contravine;contravenido;нарушать, противоречить;Esa decisión **contraviene** la normativa europea.;Это решение противоречит европейским нормам.
+C1;verb;;cotejar;;;cotejé;cotejado;сверять, сопоставлять;Hay que **cotejar** la copia con el original.;Нужно сверить копию с оригиналом.
+C1;verb;;cotizar;;;coticé;cotizado;котироваться, платить взносы;**Cotizó** a la Seguridad Social durante cuarenta años.;Он платил взносы в соцстрах сорок лет.
+C1;verb;;decaer;;yo decaigo;decaí;decaído;приходить в упадок, ослабевать;El interés del público **decayó** con los años.;Интерес публики с годами угас.
+C1;verb;;decretar;;;decreté;decretado;постановлять, объявлять;El gobierno **decretó** el estado de emergencia.;Правительство объявило чрезвычайное положение.
+C1;verb;;degradar;;;degradé;degradado;ухудшать, разрушать, понижать;La contaminación **degrada** los ecosistemas marinos.;Загрязнение разрушает морские экосистемы.
+C1;verb;;delegar;;;delegué;delegado;делегировать, поручать;Un buen jefe sabe **delegar** tareas.;Хороший руководитель умеет делегировать задачи.
+C1;verb;;delimitar;;;delimité;delimitado;разграничивать, очерчивать;Primero hay que **delimitar** el objeto de estudio.;Сначала нужно очертить предмет исследования.
+C1;verb;;depurar;;;depuré;depurado;очищать, устанавливать (ответственность);Se deben **depurar** responsabilidades por el accidente.;Необходимо установить ответственность за аварию.
+C1;verb;;derrochar;;;derroché;derrochado;растрачивать, излучать;**Derrochó** su herencia en pocos años.;Он растратил наследство за несколько лет.
+C1;verb;;desacreditar;;;desacredité;desacreditado;дискредитировать;Intentaron **desacreditar** al testigo principal.;Они пытались дискредитировать главного свидетеля.
+C1;verb;;desalentar;;yo desaliento;desalenté;desalentado;обескураживать, лишать мужества;Los malos resultados no la **desalentaron**.;Плохие результаты её не обескуражили.
+C1;verb;;desamparar;;;desamparé;desamparado;покидать без помощи;El sistema **desampara** a los más vulnerables.;Система оставляет без защиты самых уязвимых.
+C1;verb;;desaprovechar;;;desaproveché;desaprovechado;упускать, не использовать;No **desaproveches** esta oportunidad única.;Не упусти эту уникальную возможность.
+C1;verb;;descifrar;;;descifré;descifrado;расшифровывать;Nadie pudo **descifrar** el mensaje secreto.;Никто не смог расшифровать тайное послание.
+C1;verb;;desconcertar;;yo desconcierto;desconcerté;desconcertado;сбивать с толку, озадачивать;Su reacción me **desconcertó** por completo.;Его реакция совершенно сбила меня с толку.
+C1;verb;;desdeñar;;;desdeñé;desdeñado;пренебрегать, презирать;**Desdeñó** la oferta sin pensarlo.;Он с пренебрежением отверг предложение не раздумывая.
+C1;verb;;desenmascarar;;;desenmascaré;desenmascarado;разоблачать;La periodista **desenmascaró** al estafador.;Журналистка разоблачила мошенника.
+C1;verb;;desentrañar;;;desentrañé;desentrañado;разгадывать, распутывать;Los científicos intentan **desentrañar** el misterio.;Учёные пытаются разгадать эту тайну.
+C1;verb;;desequilibrar;;;desequilibré;desequilibrado;выводить из равновесия;Un gol tardío **desequilibró** el partido.;Поздний гол нарушил равновесие в матче.
+C1;verb;;desgastar;;;desgasté;desgastado;изнашивать, истощать;Tantos conflictos **desgastan** cualquier relación.;Столько конфликтов истощают любые отношения.
+C1;verb;;deslumbrar;;;deslumbré;deslumbrado;ослеплять, поражать;Su talento **deslumbró** al jurado.;Его талант поразил жюри.
+C1;verb;;desmantelar;;;desmantelé;desmantelado;демонтировать, ликвидировать;La policía **desmanteló** una red de narcotráfico.;Полиция ликвидировала сеть наркоторговцев.
+C1;verb;;desmoronarse;;;me desmoroné;desmoronado;рушиться, разваливаться;Su mundo **se desmoronó** tras el divorcio.;После развода его мир рухнул.
+C1;verb;;despilfarrar;;;despilfarré;despilfarrado;транжирить, разбазаривать;El ayuntamiento **despilfarró** el dinero público.;Мэрия разбазарила государственные деньги.
+C1;verb;;desplomarse;;;me desplomé;desplomado;рушиться, резко падать;La bolsa **se desplomó** tras el anuncio.;После объявления биржа обвалилась.
+C1;verb;;destituir;;yo destituyo;destituí;destituido;снимать с должности, смещать;El consejo **destituyó** al director general.;Совет снял с должности генерального директора.
+C1;verb;;desvirtuar;;yo desvirtúo;desvirtué;desvirtuado;искажать, обесценивать;Esos cambios **desvirtúan** el sentido original del texto.;Эти изменения искажают первоначальный смысл текста.
+C1;verb;;dictaminar;;;dictaminé;dictaminado;выносить заключение, постановлять;El tribunal **dictaminó** que el despido era improcedente.;Суд постановил, что увольнение было незаконным.
+C1;verb;;difamar;;;difamé;difamado;клеветать, порочить;Lo denunciaron por **difamar** a un concejal.;На него подали в суд за клевету на члена совета.
+C1;verb;;dignarse;;;me digné;dignado;соизволить, снизойти;Ni siquiera **se dignó** a saludarnos.;Он даже не соизволил с нами поздороваться.
+C1;verb;;dirimir;;;dirimí;dirimido;разрешать (спор), улаживать;Los tribunales **dirimirán** el conflicto.;Конфликт разрешат суды.
+C1;verb;;discrepar;;;discrepé;discrepado;расходиться во мнениях, не соглашаться;**Discrepo** totalmente de tu opinión.;Я совершенно не согласен с твоим мнением.
+C1;verb;;disentir;;yo disiento;disentí;disentido;не соглашаться, расходиться во взглядах;Dos miembros del comité **disintieron** de la decisión.;Двое членов комитета не согласились с решением.
+C1;verb;;dispersar;;;dispersé;dispersado;разгонять, рассеивать;La policía **dispersó** a los manifestantes.;Полиция разогнала демонстрантов.
+C1;verb;;distorsionar;;;distorsioné;distorsionado;искажать;Las redes sociales a menudo **distorsionan** la realidad.;Социальные сети часто искажают реальность.
+C1;verb;;efectuar;;yo efectúo;efectué;efectuado;осуществлять, производить;El pago se **efectuará** a final de mes.;Оплата будет произведена в конце месяца.
+C1;verb;;emerger;;yo emerjo;emergí;emergido;всплывать, появляться;Están **emergiendo** nuevas potencias económicas.;Появляются новые экономические державы.
+C1;verb;;empatizar;;;empaticé;empatizado;сопереживать, проявлять эмпатию;Le cuesta **empatizar** con los demás.;Ему трудно сопереживать другим.
+C1;verb;;encauzar;;;encaucé;encauzado;направлять в нужное русло;Un buen tutor le ayudó a **encauzar** su carrera.;Хороший наставник помог ему направить карьеру в нужное русло.
+C1;verb;;encomendar;;yo encomiendo;encomendé;encomendado;поручать, вверять;Le **encomendaron** una misión muy delicada.;Ему поручили очень деликатное задание.
+C1;verb;;endurecer;;yo endurezco;endurecí;endurecido;ужесточать, делать твёрже;El gobierno **endureció** las penas por corrupción.;Правительство ужесточило наказания за коррупцию.
+C1;verb;;enfatizar;;;enfaticé;enfatizado;подчёркивать, выделять;La autora **enfatiza** el papel de la mujer.;Автор подчёркивает роль женщины.
+C1;verb;;engrosar;;;engrosé;engrosado;пополнять, увеличивать;Miles de jóvenes **engrosan** las listas del paro.;Тысячи молодых людей пополняют ряды безработных.
+C1;verb;;enmarcar;;;enmarqué;enmarcado;вписывать в контекст, обрамлять;Esta medida se **enmarca** en el plan de ahorro.;Эта мера вписывается в план экономии.
+C1;verb;;ensalzar;;;ensalcé;ensalzado;превозносить, восхвалять;La crítica **ensalzó** su última novela.;Критики превознесли его последний роман.
+C1;verb;;entrever;;yo entreveo;entreví;entrevisto;смутно видеть, угадывать;En sus palabras se **entrevé** cierta tristeza.;В его словах угадывается некоторая грусть.
+C1;verb;;equiparar;;;equiparé;equiparado;приравнивать, уравнивать;Quieren **equiparar** los salarios de hombres y mujeres.;Они хотят уравнять зарплаты мужчин и женщин.
+C1;verb;;erigir;;yo erijo;erigí;erigido;воздвигать, возводить;**Erigieron** un monumento en honor a las víctimas.;Воздвигли памятник в честь жертв.
+C1;verb;;esbozar;;;esbocé;esbozado;набрасывать, намечать;**Esbozó** una sonrisa al verme llegar.;Увидев меня, он слегка улыбнулся.
+C1;verb;;esmerarse;;;me esmeré;esmerado;стараться изо всех сил;**Se esmeró** mucho en la preparación de la cena.;Он очень постарался, готовя ужин.
+C1;verb;;estancarse;;;me estanqué;estancado;застаиваться, застопориться;Las negociaciones **se estancaron** en el último momento.;Переговоры застопорились в последний момент.
+C1;verb;;estrechar;;;estreché;estrechado;укреплять (связи), сжимать (руку);Ambos países quieren **estrechar** sus relaciones.;Обе страны хотят укрепить свои отношения.
+C1;verb;;evadir;;;evadí;evadido;уклоняться, избегать;Lo acusaron de **evadir** impuestos.;Его обвинили в уклонении от уплаты налогов.
+C1;verb;;exacerbar;;;exacerbé;exacerbado;обострять, усугублять;La crisis **exacerbó** las desigualdades sociales.;Кризис усугубил социальное неравенство.
+C1;verb;;explayarse;;;me explayé;explayado;распространяться (о чём-то), подробно говорить;**Se explayó** durante una hora sobre su viaje.;Он целый час распространялся о своей поездке.
+C1;verb;;extrapolar;;;extrapolé;extrapolado;экстраполировать, переносить;No se pueden **extrapolar** estos datos a toda la población.;Эти данные нельзя переносить на всё население.
+C1;verb;;fluctuar;;yo fluctúo;fluctué;fluctuado;колебаться;El precio del petróleo **fluctúa** constantemente.;Цена на нефть постоянно колеблется.
+C1;verb;;forjar;;;forjé;forjado;ковать, создавать;**Forjó** su fortuna con mucho esfuerzo.;Он сколотил состояние ценой больших усилий.
+C1;verb;;fusionar;;;fusioné;fusionado;объединять, сливать;Los dos bancos se **fusionaron** el año pasado.;Два банка слились в прошлом году.
+C1;verb;;gravar;;;gravé;gravado;облагать налогом;El nuevo impuesto **grava** las bebidas azucaradas.;Новый налог облагает сладкие напитки.
+C1;verb;;homologar;;;homologué;homologado;признавать, сертифицировать;Tuve que **homologar** mi título universitario.;Мне пришлось подтвердить свой диплом.
+C1;verb;;imputar;;;imputé;imputado;вменять в вину, предъявлять обвинение;El juez **imputó** al alcalde por malversación.;Судья предъявил мэру обвинение в растрате.
+C1;verb;;inculcar;;;inculqué;inculcado;прививать, внушать;Mis padres me **inculcaron** el amor por la lectura.;Родители привили мне любовь к чтению.
+C1;verb;;indultar;;;indulté;indultado;помиловать;El presidente **indultó** a varios presos políticos.;Президент помиловал нескольких политзаключённых.
+C1;verb;;infundir;;;infundí;infundido;внушать, вселять;Su voz tranquila **infunde** confianza.;Его спокойный голос внушает доверие.
+C1;verb;;insinuar;;yo insinúo;insinué;insinuado;намекать;¿Qué **insinúas** con ese comentario?;На что ты намекаешь этим замечанием?
+C1;verb;;instaurar;;;instauré;instaurado;устанавливать, вводить;Tras la guerra se **instauró** una dictadura.;После войны была установлена диктатура.
+C1;verb;;interceder;;;intercedí;intercedido;заступаться, ходатайствовать;Su madre **intercedió** por él ante el director.;Мать заступилась за него перед директором.
+C1;verb;;interpelar;;;interpelé;interpelado;обращаться с запросом, призывать к ответу;La oposición **interpeló** al ministro en el Congreso.;Оппозиция сделала запрос министру в Конгрессе.
+C1;verb;;ironizar;;;ironicé;ironizado;иронизировать;El humorista **ironizó** sobre la situación política.;Юморист иронизировал над политической ситуацией.
+C1;verb;;jactarse;;;me jacté;jactado;хвастаться, кичиться;**Se jacta** de no haber leído nunca un libro.;Он хвастается тем, что никогда не читал ни одной книги.
+C1;verb;;lidiar;;;lidié;lidiado;справляться, иметь дело (с трудностями);Tengo que **lidiar** con clientes muy exigentes.;Мне приходится иметь дело с очень требовательными клиентами.
+C1;verb;;matizar;;;maticé;matizado;уточнять, вносить нюансы;Quisiera **matizar** lo que acabo de decir.;Я хотел бы уточнить то, что только что сказал.
+C1;verb;;mediar;;;medié;mediado;посредничать;Noruega **medió** en el conflicto entre ambos países.;Норвегия выступила посредником в конфликте двух стран.
+C1;verb;;menguar;;;mengüé;menguado;убывать, уменьшаться;Sus fuerzas **menguaban** día tras día.;Его силы убывали с каждым днём.
+C1;verb;;menospreciar;;;menosprecié;menospreciado;недооценивать, пренебрегать;No **menosprecies** a tus rivales.;Не недооценивай своих соперников.
+C1;verb;;mofarse;;;me mofé;mofado;насмехаться;**Se mofaban** de él por su acento.;Над ним насмехались из-за его акцента.
+C1;verb;;obviar;;;obvié;obviado;обходить, опускать;**Obviaré** los detalles técnicos para no aburrirles.;Я опущу технические детали, чтобы вас не утомлять.
+C1;verb;;otorgar;;;otorgué;otorgado;присуждать, предоставлять;Le **otorgaron** el premio Nobel de Literatura.;Ему присудили Нобелевскую премию по литературе.
+C1;verb;;pactar;;;pacté;pactado;договариваться, заключать пакт;Los partidos **pactaron** un gobierno de coalición.;Партии договорились о коалиционном правительстве.
+C1;verb;;perpetuar;;yo perpetúo;perpetué;perpetuado;увековечивать, закреплять;Estos anuncios **perpetúan** los estereotipos de género.;Эта реклама закрепляет гендерные стереотипы.
+C1;verb;;plagiar;;;plagié;plagiado;заниматься плагиатом;Lo acusaron de **plagiar** su tesis doctoral.;Его обвинили в плагиате докторской диссертации.
+C1;verb;;pormenorizar;;;pormenoricé;pormenorizado;детализировать;El informe **pormenoriza** cada uno de los gastos.;Отчёт детализирует каждую статью расходов.
+C1;verb;;precipitarse;;;me precipité;precipitado;торопиться, действовать опрометчиво;No **te precipites**, piénsalo bien.;Не торопись, хорошо подумай.
+C1;verb;;prestarse;;;me presté;prestado;вызваться, поддаваться (толкованию);Esta frase **se presta** a malentendidos.;Эта фраза может быть неправильно понята.
+C1;verb;;prevalecer;;yo prevalezco;prevalecí;prevalecido;преобладать, брать верх;Al final **prevaleció** el sentido común.;В конце концов возобладал здравый смысл.
+C1;verb;;profesar;;;profesé;profesado;исповедовать, питать (чувство);**Profesa** una gran admiración por su maestro.;Он питает огромное восхищение к своему учителю.
+C1;verb;;propagar;;;propagué;propagado;распространять;El fuego se **propagó** rápidamente por el bosque.;Огонь быстро распространился по лесу.
+C1;verb;;propugnar;;;propugné;propugnado;отстаивать, выступать за;El sindicato **propugna** la reducción de la jornada.;Профсоюз выступает за сокращение рабочего дня.
+C1;verb;;quebrantar;;;quebranté;quebrantado;нарушать, подрывать;**Quebrantó** la ley y tuvo que pagar las consecuencias.;Он нарушил закон и поплатился за это.
+C1;verb;;ratificar;;;ratifiqué;ratificado;ратифицировать, подтверждать;El parlamento **ratificó** el tratado internacional.;Парламент ратифицировал международный договор.
+C1;verb;;reanudar;;;reanudé;reanudado;возобновлять;Las clases se **reanudarán** el lunes.;Занятия возобновятся в понедельник.
+C1;verb;;rebatir;;;rebatí;rebatido;опровергать, оспаривать;**Rebatió** todos los argumentos de su adversario.;Он опроверг все доводы своего оппонента.
+C1;verb;;recaer;;yo recaigo;recaí;recaído;снова заболеть, ложиться (на кого-то);Toda la responsabilidad **recae** sobre el director.;Вся ответственность ложится на директора.
+C1;verb;;recelar;;;recelé;recelado;опасаться, не доверять;Los vecinos **recelan** de los recién llegados.;Соседи с недоверием относятся к новичкам.
+C1;verb;;rectificar;;;rectifiqué;rectificado;исправлять, поправлять;**Rectificar** es de sabios.;Исправлять ошибки — признак мудрости.
+C1;verb;;relegar;;;relegué;relegado;отодвигать на второй план;El equipo quedó **relegado** al último puesto.;Команда скатилась на последнее место.
+C1;verb;;remontar;;;remonté;remontado;отыгрываться, восходить (к);El equipo logró **remontar** un 0-2 en la segunda parte.;Команде удалось отыграться с 0:2 во втором тайме.
+C1;verb;;replantearse;;;me replanteé;replanteado;пересматривать, переосмысливать;Después del accidente **se replanteó** su vida entera.;После аварии он переосмыслил всю свою жизнь.
+C1;verb;;reprimir;;;reprimí;reprimido;подавлять, сдерживать;No pudo **reprimir** las lágrimas.;Он не смог сдержать слёз.
+C1;verb;;resentirse;;yo me resiento;me resentí;resentido;страдать (от последствий), ослабевать;La calidad del servicio **se resintió** con los recortes.;Качество обслуживания пострадало из-за сокращений.
+C1;verb;;restablecer;;yo restablezco;restablecí;restablecido;восстанавливать;Tardaron horas en **restablecer** el suministro eléctrico.;Восстановление электроснабжения заняло несколько часов.
+C1;verb;;retractarse;;;me retracté;retractado;отрекаться (от слов), брать назад;El periodista **se retractó** de sus acusaciones.;Журналист взял назад свои обвинения.
+C1;verb;;revertir;;yo revierto;revertí;revertido;обращать вспять, возвращать;Aún estamos a tiempo de **revertir** la situación.;Мы ещё успеваем переломить ситуацию.
+C1;verb;;revocar;;;revoqué;revocado;отменять, аннулировать;El tribunal **revocó** la licencia de la empresa.;Суд отозвал лицензию компании.
+C1;verb;;saldar;;;saldé;saldado;погашать (долг), урегулировать;Por fin **saldé** mi deuda con el banco.;Наконец я погасил свой долг перед банком.
+C1;verb;;sanear;;;saneé;saneado;оздоравливать, приводить в порядок;El nuevo gerente consiguió **sanear** las cuentas.;Новому управляющему удалось оздоровить финансы.
+C1;verb;;secundar;;;secundé;secundado;поддерживать;La mayoría de los trabajadores **secundó** la huelga.;Большинство работников поддержало забастовку.
+C1;verb;;sobresalir;;yo sobresalgo;sobresalí;sobresalido;выделяться, выдаваться;**Sobresalía** entre sus compañeros por su inteligencia.;Он выделялся среди товарищей своим умом.
+C1;verb;;sopesar;;;sopesé;sopesado;взвешивать (варианты);Estoy **sopesando** las distintas alternativas.;Я взвешиваю разные варианты.
+C1;verb;;subestimar;;;subestimé;subestimado;недооценивать;Nunca **subestimes** el poder de la palabra.;Никогда не недооценивай силу слова.
+C1;verb;;subsistir;;;subsistí;subsistido;выживать, сохраняться;Muchas familias **subsisten** con muy poco dinero.;Многие семьи выживают на очень маленькие деньги.
+C1;verb;;sufragar;;;sufragué;sufragado;оплачивать, покрывать расходы;La empresa **sufragará** los gastos del viaje.;Компания оплатит расходы на поездку.
+C1;verb;;supeditar;;;supedité;supeditado;подчинять, ставить в зависимость;Todo está **supeditado** a la aprobación del presupuesto.;Всё зависит от утверждения бюджета.
+C1;verb;;suplir;;;suplí;suplido;восполнять, заменять;**Suple** su falta de experiencia con entusiasmo.;Недостаток опыта он восполняет энтузиазмом.
+C1;verb;;sustraer;;yo sustraigo;sustraje;sustraído;похищать, вычитать;Le **sustrajeron** la cartera en el metro.;У него украли кошелёк в метро.
+C1;verb;;tachar;;;taché;tachado;вычёркивать, называть (кем-то);Lo **tacharon** de traidor por cambiar de partido.;Его заклеймили предателем за смену партии.
+C1;verb;;tantear;;;tanteé;tanteado;прощупывать, зондировать;Antes de proponérselo, **tantea** su opinión.;Прежде чем предлагать, прощупай его мнение.
+C1;verb;;tildar;;;tildé;tildado;называть, клеймить;La prensa lo **tildó** de irresponsable.;Пресса назвала его безответственным.
+C1;verb;;titubear;;;titubeé;titubeado;колебаться, запинаться;Respondió sin **titubear** a todas las preguntas.;Он без колебаний ответил на все вопросы.
+C1;verb;;trastocar;;;trastoqué;trastocado;нарушать, переворачивать;La pandemia **trastocó** todos nuestros planes.;Пандемия нарушила все наши планы.
+C1;verb;;truncar;;;trunqué;truncado;обрывать, разрушать (надежды);Una lesión **truncó** su carrera deportiva.;Травма оборвала его спортивную карьеру.
+C1;verb;;ultimar;;;ultimé;ultimado;завершать, доводить до конца;Estamos **ultimando** los detalles de la boda.;Мы улаживаем последние детали свадьбы.
+C1;verb;;usurpar;;;usurpé;usurpado;узурпировать, присваивать;**Usurpó** la identidad de su hermano.;Он присвоил себе личность своего брата.
+C1;verb;;valerse;;yo me valgo;me valí;valido;пользоваться, обходиться (самому);Mi abuela ya no **se vale** por sí misma.;Моя бабушка уже не может себя обслуживать.
+C1;verb;;ventilar;;;ventilé;ventilado;проветривать, выносить на обсуждение;No me gusta **ventilar** mis problemas en público.;Я не люблю выносить свои проблемы на публику.
+C1;verb;;vetar;;;veté;vetado;накладывать вето, запрещать;Rusia **vetó** la resolución del Consejo de Seguridad.;Россия наложила вето на резолюцию Совета Безопасности.
+C1;verb;;zafarse;;;me zafé;zafado;вырываться, уклоняться;Consiguió **zafarse** de sus perseguidores.;Ему удалось вырваться от преследователей.
+C2;verb;;acicalarse;;;me acicalé;acicalado;прихорашиваться, наряжаться;Se pasó una hora **acicalándose** antes de la fiesta.;Она целый час прихорашивалась перед вечеринкой.
+C2;verb;;acotar;;;acoté;acotado;ограничивать, разграничивать, огораживать;Conviene **acotar** bien el tema de la tesis.;Тему диссертации стоит чётко ограничить.
+C2;verb;;acuciar;;;acucié;acuciado;торопить, мучить, донимать;Las deudas lo **acuciaban** desde hacía meses.;Долги мучили его уже несколько месяцев.
+C2;verb;;agasajar;;;agasajé;agasajado;радушно принимать, чествовать;Los anfitriones nos **agasajaron** con una cena espléndida.;Хозяева радушно угостили нас великолепным ужином.
+C2;verb;;agazaparse;;;me agazapé;agazapado;притаиться, затаиться;El gato se **agazapó** detrás del sofá.;Кот притаился за диваном.
+C2;verb;;aglutinar;;;aglutiné;aglutinado;объединять, сплачивать;El nuevo partido **aglutina** a varios movimientos sociales.;Новая партия объединяет несколько общественных движений.
+C2;verb;;ahuyentar;;;ahuyenté;ahuyentado;отпугивать, прогонять;El ruido **ahuyentó** a los pájaros del jardín.;Шум распугал птиц в саду.
+C2;verb;;amainar;;;amainé;amainado;стихать, ослабевать;Esperamos a que **amainara** la tormenta para salir.;Мы подождали, пока утихнет буря, чтобы выйти.
+C2;verb;;amilanarse;;;me amilané;amilanado;робеть, падать духом;Nunca se **amilana** ante las dificultades.;Она никогда не робеет перед трудностями.
+C2;verb;;amonestar;;;amonesté;amonestado;делать выговор, предупреждать;El árbitro **amonestó** al defensa por una entrada dura.;Судья вынес предупреждение защитнику за грубый подкат.
+C2;verb;;apabullar;;;apabullé;apabullado;ошеломлять, подавлять;Nos **apabulló** con una avalancha de datos.;Он ошеломил нас лавиной данных.
+C2;verb;;apostillar;;;apostillé;apostillado;добавлять (замечание), комментировать;«Y sin cobrar nada», **apostilló** con ironía.;«И ничего не получив», — иронично добавил он.
+C2;verb;;aquilatar;;;aquilaté;aquilatado;тщательно оценивать, взвешивать;Hay que **aquilatar** bien cada palabra del contrato.;Нужно тщательно взвесить каждое слово договора.
+C2;verb;;arrebatar;;;arrebaté;arrebatado;вырывать, отнимать;El ladrón le **arrebató** el bolso en plena calle.;Вор вырвал у неё сумку прямо на улице.
+C2;verb;;arrostrar;;;arrostré;arrostrado;встречать лицом к лицу, отважно переносить;Supo **arrostrar** las consecuencias de su decisión.;Он сумел мужественно принять последствия своего решения.
+C2;verb;;atosigar;;;atosigué;atosigado;донимать, торопить, изводить;Deja de **atosigarme** con tantas preguntas.;Перестань донимать меня столькими вопросами.
+C2;verb;;auspiciar;;;auspicié;auspiciado;покровительствовать, спонсировать;El congreso está **auspiciado** por la universidad.;Конгресс проводится под эгидой университета.
+C2;verb;;avasallar;;;avasallé;avasallado;подавлять, порабощать, подминать;No dejes que nadie te **avasalle** en las reuniones.;Не позволяй никому подминать тебя на совещаниях.
+C2;verb;;avenirse;;yo me avengo;me avine;avenido;соглашаться, ладить;Al final se **avino** a negociar con los sindicatos.;В конце концов он согласился вести переговоры с профсоюзами.
+C2;verb;;azuzar;;;azucé;azuzado;натравливать, подстрекать;**Azuzó** a los perros contra los intrusos.;Он натравил собак на непрошеных гостей.
+C2;verb;;barruntar;;;barrunté;barruntado;предчувствовать, подозревать;**Barrunto** que algo malo va a ocurrir.;Я предчувствую, что случится что-то плохое.
+C2;verb;;blandir;;;blandí;blandido;размахивать (оружием);El caballero **blandía** la espada con destreza.;Рыцарь ловко размахивал мечом.
+C2;verb;;bregar;;;bregué;bregado;биться, усердно трудиться, бороться;Lleva años **bregando** con la burocracia municipal.;Он годами бьётся с муниципальной бюрократией.
+C2;verb;;calibrar;;;calibré;calibrado;оценивать, калибровать;Hay que **calibrar** bien los riesgos antes de invertir.;Перед инвестициями нужно хорошо оценить риски.
+C2;verb;;cercenar;;;cercené;cercenado;урезать, отсекать;La nueva ley **cercena** la libertad de prensa.;Новый закон урезает свободу прессы.
+C2;verb;;colegir;;yo colijo;colegí;colegido;заключать, делать вывод;De sus palabras **colijo** que no está contento.;Из его слов я заключаю, что он недоволен.
+C2;verb;;conculcar;;;conculqué;conculcado;нарушать, попирать (права, закон);El régimen **conculcó** los derechos más básicos.;Режим попрал самые элементарные права.
+C2;verb;;convalecer;;yo convalezco;convalecí;convalecido;выздоравливать, поправляться;Todavía **convalece** de una operación de rodilla.;Он ещё восстанавливается после операции на колене.
+C2;verb;;coartar;;;coarté;coartado;ограничивать, сковывать;No quiero **coartar** tu libertad de elección.;Я не хочу ограничивать твою свободу выбора.
+C2;verb;;crispar;;;crispé;crispado;раздражать, нервировать;Su tono arrogante me **crispa** los nervios.;Его высокомерный тон действует мне на нервы.
+C2;verb;;deleitar;;;deleité;deleitado;доставлять наслаждение, услаждать;La orquesta **deleitó** al público con un concierto magnífico.;Оркестр порадовал публику великолепным концертом.
+C2;verb;;denostar;;yo denuesto;denosté;denostado;поносить, бранить;Muchos críticos **denostaron** la novela al publicarse.;Многие критики разгромили роман после выхода.
+C2;verb;;departir;;;departí;departido;беседовать;Pasamos la tarde **departiendo** con unos viejos amigos.;Мы провели вечер в беседе со старыми друзьями.
+C2;verb;;deplorar;;;deploré;deplorado;сожалеть, осуждать;El Gobierno **deplora** la violencia de los últimos días.;Правительство осуждает насилие последних дней.
+C2;verb;;desairar;;yo desaíro;desairé;desairado;пренебрегать, обижать невниманием;No quiso **desairar** a su anfitrión rechazando la invitación.;Он не хотел обидеть хозяина отказом от приглашения.
+C2;verb;;desbaratar;;;desbaraté;desbaratado;срывать, расстраивать (планы);La policía **desbarató** el plan de los atracadores.;Полиция сорвала план грабителей.
+C2;verb;;descollar;;yo descuello;descollé;descollado;выделяться, выдаваться;Desde niño **descollaba** en matemáticas.;С детства он выделялся в математике.
+C2;verb;;deslindar;;;deslindé;deslindado;разграничивать, размежевать;Es difícil **deslindar** lo público de lo privado.;Трудно разграничить общественное и частное.
+C2;verb;;desmenuzar;;;desmenucé;desmenuzado;крошить, детально разбирать;El profesor **desmenuzó** el poema verso a verso.;Преподаватель разобрал стихотворение строка за строкой.
+C2;verb;;dilapidar;;;dilapidé;dilapidado;расточать, проматывать;El club **dilapidó** su ventaja en los últimos minutos.;Клуб растерял своё преимущество в последние минуты.
+C2;verb;;embaucar;;;embauqué;embaucado;обманывать, облапошивать;Un estafador **embaucó** a varios jubilados del barrio.;Мошенник облапошил нескольких пенсионеров района.
+C2;verb;;embelesar;;;embelesé;embelesado;очаровывать, пленять;La voz de la soprano **embelesó** a todo el teatro.;Голос сопрано очаровал весь театр.
+C2;verb;;empecinarse;;;me empeciné;empecinado;упрямиться, упорствовать;Se **empecina** en hacerlo todo él solo.;Он упорно хочет сделать всё сам.
+C2;verb;;encarecer;;yo encarezco;encarecí;encarecido;удорожать, настоятельно просить;La sequía ha **encarecido** el precio del aceite.;Засуха привела к подорожанию оливкового масла.
+C2;verb;;enaltecer;;yo enaltezco;enaltecí;enaltecido;возвеличивать, делать честь;Su generosidad lo **enaltece** como persona.;Его щедрость делает ему честь как человеку.
+C2;verb;;engatusar;;;engatusé;engatusado;обхаживать, задабривать лестью;Intentó **engatusarme** con promesas que nunca cumplió.;Он пытался задобрить меня обещаниями, которые так и не выполнил.
+C2;verb;;enturbiar;;;enturbié;enturbiado;мутить, омрачать;Aquel incidente **enturbió** las relaciones entre ambos países.;Тот инцидент омрачил отношения между двумя странами.
+C2;verb;;escindir;;;escindí;escindido;расщеплять, раскалывать;El partido se **escindió** en dos facciones rivales.;Партия раскололась на две соперничающие фракции.
+C2;verb;;esquilmar;;;esquilmé;esquilmado;истощать, обирать;La pesca intensiva ha **esquilmado** los caladeros.;Интенсивный промысел истощил рыболовные угодья.
+C2;verb;;estribar;;;estribé;estribado;заключаться (в), основываться;El problema **estriba** en la falta de comunicación.;Проблема заключается в отсутствии общения.
+C2;verb;;expoliar;;;expolié;expoliado;грабить, расхищать;Los invasores **expoliaron** el patrimonio artístico de la ciudad.;Захватчики разграбили художественное наследие города.
+C2;verb;;fustigar;;;fustigué;fustigado;бичевать, резко критиковать;El columnista **fustiga** a diario la corrupción política.;Обозреватель ежедневно бичует политическую коррупцию.
+C2;verb;;gestar;;;gesté;gestado;вынашивать, зарождать;El proyecto se **gestó** durante una cena entre amigos.;Проект зародился во время ужина с друзьями.
+C2;verb;;granjearse;;;me granjeé;granjeado;снискать, завоевать (симпатию);Con su honradez se **granjeó** el respeto de todos.;Своей честностью он снискал всеобщее уважение.
+C2;verb;;husmear;;;husmeé;husmeado;вынюхивать, совать нос;Deja de **husmear** en mis asuntos personales.;Перестань совать нос в мои личные дела.
+C2;verb;;imbuir;;yo imbuyo;imbuí;imbuido;внушать, проникать (идеями);Sus maestros lo **imbuyeron** de un profundo sentido del deber.;Учителя привили ему глубокое чувство долга.
+C2;verb;;impeler;;;impelí;impelido;побуждать, толкать;La curiosidad lo **impelió** a abrir la carta.;Любопытство побудило его вскрыть письмо.
+C2;verb;;increpar;;;increpé;increpado;отчитывать, бранить;Un aficionado **increpó** al árbitro al final del partido.;Болельщик набросился с бранью на судью в конце матча.
+C2;verb;;infligir;;yo inflijo;infligí;infligido;наносить (урон), налагать (наказание);El equipo local **infligió** una dura derrota al líder.;Местная команда нанесла лидеру тяжёлое поражение.
+C2;verb;;inquirir;;yo inquiero;inquirí;inquirido;осведомляться, разузнавать;El inspector **inquirió** sobre sus movimientos esa noche.;Инспектор осведомился о его передвижениях той ночью.
+C2;verb;;languidecer;;yo languidezco;languidecí;languidecido;чахнуть, угасать, томиться;El pueblo **languidece** desde que cerró la fábrica.;Посёлок угасает с тех пор, как закрылась фабрика.
+C2;verb;;lastrar;;;lastré;lastrado;тормозить, обременять;La deuda **lastra** el crecimiento de la economía.;Долг тормозит рост экономики.
+C2;verb;;lisonjear;;;lisonjeé;lisonjeado;льстить;Lo **lisonjeaban** para conseguir su apoyo.;Ему льстили, чтобы заручиться его поддержкой.
+C2;verb;;malversar;;;malversé;malversado;растрачивать (казённые средства);El alcalde fue acusado de **malversar** fondos públicos.;Мэра обвинили в растрате государственных средств.
+C2;verb;;mancillar;;;mancillé;mancillado;пятнать, порочить;Aquel escándalo **mancilló** el honor de la familia.;Тот скандал запятнал честь семьи.
+C2;verb;;mascullar;;;mascullé;mascullado;бормотать, цедить сквозь зубы;**Masculló** una disculpa y salió de la sala.;Он пробормотал извинение и вышел из зала.
+C2;verb;;ningunear;;;ninguneé;ninguneado;игнорировать, ни во что не ставить;En la empresa siempre lo **ningunearon**.;В компании его всегда ни во что не ставили.
+C2;verb;;obcecarse;;;me obcequé;obcecado;упорствовать, ослепляться (идеей);Se **obcecó** en que tenía razón y no escuchó a nadie.;Он упёрся в то, что прав, и никого не слушал.
+C2;verb;;ofuscar;;;ofusqué;ofuscado;ослеплять, затуманивать (разум);La ira le **ofuscó** el juicio.;Гнев затуманил ему рассудок.
+C2;verb;;orquestar;;;orquesté;orquestado;организовывать, режиссировать;Alguien **orquestó** una campaña de desprestigio contra ella.;Кто-то организовал против неё кампанию по дискредитации.
+C2;verb;;pergeñar;;;pergeñé;pergeñado;набросать, состряпать;En una noche **pergeñó** el borrador del discurso.;За одну ночь он набросал черновик речи.
+C2;verb;;perpetrar;;;perpetré;perpetrado;совершать (преступление);El atentado fue **perpetrado** por un grupo radical.;Теракт был совершён радикальной группировкой.
+C2;verb;;prevaricar;;;prevariqué;prevaricado;злоупотреблять должностью;El juez fue condenado por **prevaricar**.;Судья был осуждён за вынесение заведомо неправосудных решений.
+C2;verb;;proferir;;yo profiero;proferí;proferido;произносить, изрыгать (ругательства);**Profirió** insultos contra los agentes.;Он выкрикивал оскорбления в адрес полицейских.
+C2;verb;;prorrumpir;;;prorrumpí;prorrumpido;разразиться (смехом, слезами);Al oír la noticia **prorrumpió** en llanto.;Услышав новость, она разразилась слезами.
+C2;verb;;pulular;;;pululé;pululado;кишеть, сновать;Por la plaza **pululaban** turistas de todas partes.;По площади сновали туристы со всего света.
+C2;verb;;refrendar;;;refrendé;refrendado;одобрять, утверждать, скреплять;Los votantes **refrendaron** la nueva constitución.;Избиратели одобрили новую конституцию.
+C2;verb;;regodearse;;;me regodeé;regodeado;смаковать, упиваться;Se **regodeaba** en el fracaso de su rival.;Он упивался провалом своего соперника.
+C2;verb;;remolonear;;;remoloneé;remoloneado;лениться, тянуть время;Los domingos me gusta **remolonear** en la cama.;По воскресеньям я люблю понежиться в постели.
+C2;verb;;soslayar;;;soslayé;soslayado;обходить, уклоняться (от вопроса);El ministro **soslayó** la pregunta sobre la corrupción.;Министр обошёл вопрос о коррупции.
+C2;verb;;subyugar;;;subyugué;subyugado;покорять, порабощать, пленять;El imperio **subyugó** a los pueblos vecinos.;Империя покорила соседние народы.
+C2;verb;;urdir;;;urdí;urdido;замышлять, плести (интриги);**Urdieron** un plan para derrocar al presidente.;Они замыслили план свержения президента.
+C2;verb;;vapulear;;;vapuleé;vapuleado;разносить, разгромить;La crítica **vapuleó** la última película del director.;Критика разгромила последний фильм режиссёра.
+C2;verb;;vilipendiar;;;vilipendié;vilipendiado;поносить, презирать;Fue **vilipendiado** por la prensa durante años.;Пресса годами поливала его грязью.
+C2;verb;;zaherir;;yo zahiero;zaherí;zaherido;язвить, уязвлять;Le encanta **zaherir** a los demás con sus comentarios.;Он обожает уязвлять других своими замечаниями.
+C2;verb;;abstraerse;;yo me abstraigo;me abstraje;abstraído;отвлекаться, уходить в себя;Cuando lee, se **abstrae** por completo del mundo.;Когда он читает, то полностью отключается от мира.
+C2;verb;;adular;;;adulé;adulado;льстить, угодничать;Siempre **adula** al jefe para conseguir favores.;Он всегда льстит начальнику, чтобы добиться поблажек.
+C2;verb;;atiborrar;;;atiborré;atiborrado;набивать, пичкать;Los niños se **atiborraron** de caramelos en la fiesta.;Дети объелись конфетами на празднике.
+C2;verb;;calumniar;;;calumnié;calumniado;клеветать;Lo demandó por **calumniarla** en televisión.;Она подала на него в суд за клевету на телевидении.
+C2;verb;;concitar;;;concité;concitado;вызывать, возбуждать (интерес, неприязнь);La propuesta **concitó** el rechazo de la oposición.;Предложение вызвало неприятие оппозиции.
+C2;verb;;condonar;;;condoné;condonado;прощать (долг), освобождать от наказания;El banco le **condonó** parte de la deuda.;Банк простил ему часть долга.
+C2;verb;;confabularse;;;me confabulé;confabulado;сговориться;Parece que todo se **confabula** contra nosotros.;Кажется, всё сговорилось против нас.
+C2;verb;;denigrar;;;denigré;denigrado;порочить, унижать;No hace falta **denigrar** a nadie para defender tus ideas.;Чтобы защищать свои идеи, не нужно никого унижать.
+C2;verb;;desembolsar;;;desembolsé;desembolsado;выплачивать, раскошеливаться;Tuvo que **desembolsar** una fortuna por la reparación.;Ему пришлось выложить целое состояние за ремонт.
+C2;verb;;desprestigiar;;;desprestigié;desprestigiado;дискредитировать, подрывать репутацию;Intentaron **desprestigiarlo** con rumores falsos.;Его пытались дискредитировать ложными слухами.
+C2;verb;;emular;;;emulé;emulado;подражать, соперничать;Quiere **emular** los éxitos de su padre.;Он хочет повторить успехи своего отца.
+C2;verb;;encandilar;;;encandilé;encandilado;ослеплять, очаровывать;El joven pianista **encandiló** al público.;Молодой пианист очаровал публику.
+C2;verb;;enervar;;;enervé;enervado;нервировать, раздражать;Me **enerva** su manera de interrumpir a todo el mundo.;Меня раздражает его манера всех перебивать.
+C2;verb;;enfrascarse;;;me enfrasqué;enfrascado;погружаться, уходить с головой;Se **enfrascó** en la lectura y olvidó la cena.;Он погрузился в чтение и забыл про ужин.
+C2;verb;;escarmentar;;yo escarmiento;escarmenté;escarmentado;учиться на ошибках, проучить;Después de aquel susto, **escarmentó** para siempre.;После того испуга он усвоил урок навсегда.
+C2;adj;;fehaciente;;;;;достоверный, неопровержимый;No existen pruebas **fehacientes** de su culpabilidad.;Не существует неопровержимых доказательств его вины.
+C2;adj;;ecuánime;;;;;беспристрастный, уравновешенный;Fue un juez **ecuánime** durante toda su carrera.;На протяжении всей карьеры он был беспристрастным судьёй.
+C2;adj;;ufano;;;;;гордый, самодовольный;Salió muy **ufano** después de ganar el debate.;Он вышел очень довольный собой после победы в дебатах.
+C2;adj;;adusto;;;;;суровый, угрюмый;Tenía un rostro **adusto** que intimidaba a los alumnos.;У него было суровое лицо, пугавшее учеников.
+C2;adj;;taciturno;;;;;молчаливый, угрюмый;Desde la muerte de su mujer está muy **taciturno**.;После смерти жены он стал очень молчаливым и угрюмым.
+C2;adj;;locuaz;;;;;словоохотливый, разговорчивый;Esa noche estaba especialmente **locuaz** y simpático.;В тот вечер он был особенно разговорчив и мил.
+C2;adj;;parco;;;;;скупой (на слова), умеренный;Es muy **parco** en palabras, pero muy eficaz.;Он очень скуп на слова, но очень эффективен.
+C2;adj;;prolijo;;;;;многословный, обстоятельный;Su explicación fue demasiado **prolija** y aburrida.;Его объяснение было слишком многословным и скучным.
+C2;adj;;exiguo;;;;;скудный, ничтожный;Vive con una pensión **exigua**.;Он живёт на скудную пенсию.
+C2;adj;;nimio;;;;;ничтожный, пустяковый;Discutieron por un detalle **nimio**.;Они поссорились из-за пустяковой детали.
+C2;adj;;baladí;;;;;пустячный, незначительный;No es un asunto **baladí**, merece atención.;Это не пустячный вопрос, он заслуживает внимания.
+C2;adj;;fútil;;;;;пустой, тщетный, никчёмный;Fue un intento **fútil** de salvar la relación.;Это была тщетная попытка спасти отношения.
+C2;adj;;ingente;;;;;огромный, колоссальный;El proyecto requirió una cantidad **ingente** de dinero.;Проект потребовал огромной суммы денег.
+C2;adj;;acérrimo;;;;;ярый, непримиримый;Es un defensor **acérrimo** de la escuela pública.;Он ярый защитник государственной школы.
+C2;adj;;aciago;;;;;злополучный, роковой;Nunca olvidaré aquel día **aciago**.;Я никогда не забуду тот злополучный день.
+C2;adj;;afable;;;;;приветливый, любезный;El nuevo vecino es un hombre muy **afable**.;Новый сосед — очень приветливый человек.
+C2;adj;;agorero;;;;;зловещий, каркающий (о беде);No seas tan **agorero**, todo saldrá bien.;Не каркай, всё будет хорошо.
+C2;adj;;aguerrido;;;;;закалённый, бывалый;Es un equipo joven pero muy **aguerrido**.;Это молодая, но очень боевая команда.
+C2;adj;;altivo;;;;;надменный, высокомерный;Lo miró con un gesto **altivo** y se marchó.;Она надменно взглянула на него и ушла.
+C2;adj;;anodino;;;;;бесцветный, заурядный;Fue una película **anodina** que nadie recuerda.;Это был заурядный фильм, который никто не помнит.
+C2;adj;;apócrifo;;;;;апокрифический, подложный;Esa cita de Einstein es **apócrifa**.;Эта цитата Эйнштейна приписана ему ложно.
+C2;adj;;atávico;;;;;атавистический, древний (о страхе, инстинкте);Siente un miedo **atávico** a la oscuridad.;Он испытывает первобытный страх перед темнотой.
+C2;adj;;avezado;;;;;опытный, бывалый;Solo un alpinista **avezado** puede subir esa montaña.;Только опытный альпинист может подняться на эту гору.
+C2;adj;;avieso;;;;;коварный, злонамеренный;Tenía intenciones **aviesas** desde el principio.;У него с самого начала были злые намерения.
+C2;adj;;beligerante;;;;;воинственный, воюющий;Adoptó una actitud muy **beligerante** en la reunión.;На совещании он занял очень воинственную позицию.
+C2;adj;;bisoño;;;;;неопытный, зелёный;Los soldados **bisoños** no estaban preparados para el combate.;Необстрелянные солдаты не были готовы к бою.
+C2;adj;;cándido;;;;;простодушный, наивный;Es demasiado **cándido** para este mundo de negocios.;Он слишком простодушен для этого мира бизнеса.
+C2;adj;;capcioso;;;;;каверзный, коварный (о вопросе);El periodista le hizo una pregunta **capciosa**.;Журналист задал ему каверзный вопрос.
+C2;adj;;cáustico;;;;;едкий, язвительный;Es famoso por su humor **cáustico**.;Он знаменит своим едким юмором.
+C2;adj;;circunspecto;;;;;осмотрительный, сдержанный;Se mostró muy **circunspecto** ante la prensa.;Перед прессой он держался очень сдержанно.
+C2;adj;;conspicuo;;;;;выдающийся, видный, заметный;Es un miembro **conspicuo** de la alta sociedad.;Он видный член высшего общества.
+C2;adj;;contumaz;;;;;упорствующий, закоренелый;Es un delincuente **contumaz** que no se arrepiente.;Это закоренелый преступник, который не раскаивается.
+C2;adj;;copioso;;;;;обильный;Tras una cena **copiosa**, nos fuimos a dormir.;После обильного ужина мы пошли спать.
+C2;adj;;craso;;;;;грубый (об ошибке), вопиющий;Cometió un error **craso** al firmar sin leer.;Он совершил грубую ошибку, подписав не читая.
+C2;adj;;denodado;;;;;отважный, самоотверженный;Agradecemos su **denodado** esfuerzo por ayudarnos.;Мы благодарны за ваши самоотверженные усилия помочь нам.
+C2;adj;;desabrido;;;;;неприветливый, резкий, пресный;Me contestó con un tono **desabrido**.;Он ответил мне резким тоном.
+C2;adj;;desaliñado;;;;;неопрятный, неряшливый;Llegó a la entrevista con un aspecto **desaliñado**.;Он пришёл на собеседование в неопрятном виде.
+C2;adj;;desdeñoso;;;;;пренебрежительный, презрительный;Nos dirigió una mirada **desdeñosa**.;Он бросил на нас презрительный взгляд.
+C2;adj;;desmesurado;;;;;чрезмерный, непомерный;Tiene una ambición **desmesurada**.;У него непомерные амбиции.
+C2;adj;;diáfano;;;;;прозрачный, ясный;Su explicación fue **diáfana** y convincente.;Его объяснение было ясным и убедительным.
+C2;adj;;díscolo;;;;;непослушный, строптивый;Era el alumno más **díscolo** de la clase.;Он был самым непослушным учеником в классе.
+C2;adj;;displicente;;;;;равнодушный, пренебрежительный;Nos atendió de forma **displicente** y sin interés.;Он обслужил нас равнодушно и без интереса.
+C2;adj;;efímero;;;;;эфемерный, мимолётный;La fama en internet suele ser **efímera**.;Слава в интернете обычно мимолётна.
+C2;adj;;egregio;;;;;выдающийся, знаменитый;Fue un **egregio** representante de la ciencia española.;Он был выдающимся представителем испанской науки.
+C2;adj;;elocuente;;;;;красноречивый;Su silencio fue más **elocuente** que cualquier palabra.;Его молчание было красноречивее любых слов.
+C2;adj;;enjuto;;;;;сухощавый, худой;Era un anciano **enjuto** de ojos vivos.;Это был сухощавый старик с живыми глазами.
+C2;adj;;enrevesado;;;;;запутанный, замысловатый;El trámite es tan **enrevesado** que nadie lo entiende.;Процедура настолько запутанная, что никто её не понимает.
+C2;adj;;escueto;;;;;краткий, лаконичный, сжатый;Respondió con un mensaje muy **escueto**.;Он ответил очень кратким сообщением.
+C2;adj;;espurio;;;;;поддельный, корыстный, незаконный;Lo hizo por motivos **espurios**.;Он сделал это из корыстных побуждений.
+C2;adj;;estrafalario;;;;;эксцентричный, нелепый;Siempre lleva ropa **estrafalaria** y llamativa.;Он всегда носит нелепую и броскую одежду.
+C2;adj;;execrable;;;;;отвратительный, гнусный;Fue un crimen **execrable** que conmocionó al país.;Это было гнусное преступление, потрясшее страну.
+C2;adj;;expedito;;;;;свободный (о пути), беспрепятственный;Ahora el camino está **expedito** para la reforma.;Теперь путь к реформе открыт.
+C2;adj;;fatuo;;;;;самодовольный, тщеславный и глупый;Es un hombre **fatuo** que solo habla de sí mismo.;Это самодовольный человек, который говорит только о себе.
+C2;adj;;febril;;;;;лихорадочный;Hubo una actividad **febril** antes de la inauguración.;Перед открытием царила лихорадочная активность.
+C2;adj;;flemático;;;;;флегматичный, невозмутимый;Su carácter **flemático** contrasta con el de su hermano.;Его флегматичный характер контрастирует с характером брата.
+C2;adj;;fortuito;;;;;случайный;Fue un encuentro **fortuito** en el aeropuerto.;Это была случайная встреча в аэропорту.
+C2;adj;;grandilocuente;;;;;высокопарный, напыщенный;Pronunció un discurso **grandilocuente** y vacío.;Он произнёс напыщенную и пустую речь.
+C2;adj;;hilarante;;;;;уморительный;La obra tiene escenas **hilarantes**.;В пьесе есть уморительные сцены.
+C2;adj;;hosco;;;;;угрюмый, нелюдимый;Su vecino es un hombre **hosco** que nunca saluda.;Его сосед — угрюмый человек, который никогда не здоровается.
+C2;adj;;huraño;;;;;нелюдимый, необщительный;Con los años se volvió **huraño** y desconfiado.;С годами он стал нелюдимым и недоверчивым.
+C2;adj;;idílico;;;;;идиллический;Pasamos unas vacaciones **idílicas** junto al mar.;Мы провели идиллический отпуск у моря.
+C2;adj;;ignoto;;;;;неведомый, неизвестный;Exploraron tierras **ignotas** del interior.;Они исследовали неведомые земли в глубине материка.
+C2;adj;;impasible;;;;;бесстрастный, невозмутимый;Escuchó la sentencia **impasible**.;Он выслушал приговор с бесстрастным видом.
+C2;adj;;impávido;;;;;бесстрашный, невозмутимый;Se quedó **impávido** ante los gritos del público.;Он остался невозмутим перед криками публики.
+C2;adj;;impertérrito;;;;;невозмутимый, неустрашимый;Siguió hablando **impertérrito** pese a las interrupciones.;Он невозмутимо продолжал говорить, несмотря на то, что его перебивали.
+C2;adj;;impoluto;;;;;безупречно чистый, незапятнанный;Llevaba una camisa blanca **impoluta**.;На нём была безупречно чистая белая рубашка.
+C2;adj;;improcedente;;;;;неуместный, незаконный (об увольнении);El juez declaró el despido **improcedente**.;Судья признал увольнение незаконным.
+C2;adj;;inane;;;;;пустой, бессодержательный;Fue una conversación **inane** sobre el tiempo.;Это был пустой разговор о погоде.
+C2;adj;;incólume;;;;;невредимый, нетронутый;Salió **incólume** del accidente.;Он вышел из аварии целым и невредимым.
+C2;adj;;inconmensurable;;;;;безмерный, неизмеримый;Su aportación a la ciencia es **inconmensurable**.;Его вклад в науку неизмерим.
+C2;adj;;indeleble;;;;;неизгладимый, несмываемый;Aquel viaje dejó una huella **indeleble** en su vida.;Та поездка оставила неизгладимый след в его жизни.
+C2;adj;;indómito;;;;;неукротимый, непокорный;Tenía un espíritu **indómito** y rebelde.;У неё был неукротимый и мятежный дух.
+C2;adj;;inefable;;;;;невыразимый, неописуемый;Sintió una alegría **inefable** al ver a su hijo.;Он испытал невыразимую радость, увидев сына.
+C2;adj;;inexorable;;;;;неумолимый, неотвратимый;El paso del tiempo es **inexorable**.;Ход времени неумолим.
+C2;adj;;infausto;;;;;несчастливый, злосчастный;Aquel **infausto** suceso cambió su destino.;То злосчастное событие изменило его судьбу.
+C2;adj;;inicuo;;;;;несправедливый, беззаконный;Fue una sentencia **inicua** que indignó a todos.;Это был несправедливый приговор, возмутивший всех.
+C2;adj;;inocuo;;;;;безвредный;El producto es totalmente **inocuo** para la salud.;Продукт совершенно безвреден для здоровья.
+C2;adj;;insidioso;;;;;коварный, вкрадчивый;Le hizo una pregunta **insidiosa** para comprometerlo.;Он задал ему коварный вопрос, чтобы скомпрометировать.
+C2;adj;;insigne;;;;;выдающийся, знаменитый;La ciudad homenajeó a su hijo más **insigne**.;Город почтил своего самого выдающегося уроженца.
+C2;adj;;insólito;;;;;необычный, небывалый;Fue un caso **insólito** en la historia del club.;Это был небывалый случай в истории клуба.
+C2;adj;;insulso;;;;;пресный, безвкусный, скучный;La sopa estaba **insulsa** y fría.;Суп был пресным и холодным.
+C2;adj;;intrépido;;;;;бесстрашный, отважный;Fue un explorador **intrépido** que recorrió África.;Он был бесстрашным исследователем, объездившим Африку.
+C2;adj;;inveterado;;;;;закоренелый, застарелый;Es un fumador **inveterado** desde los quince años.;Он заядлый курильщик с пятнадцати лет.
+C2;adj;;irascible;;;;;вспыльчивый, раздражительный;Su jefe es un hombre **irascible** y exigente.;Его начальник — вспыльчивый и требовательный человек.
+C2;adj;;jactancioso;;;;;хвастливый;Su tono **jactancioso** molestó a todos.;Его хвастливый тон всех раздражал.
+C2;adj;;lacónico;;;;;лаконичный, немногословный;Me dio una respuesta **lacónica**: «No».;Он дал мне лаконичный ответ: «Нет».
+C2;adj;;lánguido;;;;;томный, вялый;Nos miró con unos ojos **lánguidos**.;Она посмотрела на нас томными глазами.
+C2;adj;;lóbrego;;;;;мрачный, тёмный;Bajamos a un sótano **lóbrego** y húmedo.;Мы спустились в мрачный и сырой подвал.
+C2;adj;;lozano;;;;;свежий, цветущий;A sus setenta años sigue **lozano** y activo.;В свои семьдесят он всё ещё бодр и активен.
