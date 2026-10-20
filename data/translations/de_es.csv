@@ -3141,7 +3141,7 @@ BIZ:de:adj::leistungsstark;potente, de alto rendimiento;Necesitamos un servidor 
 BIZ:de:adj::drahtlos;inalámbrico;Los datos se transmiten de forma inalámbrica.
 BIZ:de:adj::cloudbasiert;basado en la nube, en la nube;Usamos una solución basada en la nube para la contabilidad.
 BIZ:de:adj::remote;remoto, a distancia, en remoto;Nuestro equipo trabaja totalmente en remoto.
-de:adj::artig;bueno, obediente (niño);Hoy los niños se han portado muy bien.
+de:adj::artig;bueno, obediente, formal;Hoy los niños se han portado muy bien.
 de:noun:der:Quatsch;tontería, disparate;¡No digas tonterías!
 de:adj::gesellschaftlich;social;Es un problema social.
 de:adj::kulturell;cultural;La ciudad tiene una amplia oferta cultural.
@@ -4943,3 +4943,602 @@ de:verb::einheimsen;cosechar, llevarse, acaparar;Cosechó muchos elogios.
 de:verb::ergattern;conseguir (con suerte o esfuerzo), hacerse con, pillar;Todavía conseguí hacerme con dos entradas.
 de:verb::verscherzen;echar a perder (sich), perder (por culpa propia);Se ha ganado la antipatía del jefe.
 de:verb::vermasseln;fastidiar, arruinar, cagarla (coloq.);La he fastidiado en el examen.
+de:verb::verpatzen;echar a perder, estropear, fastidiar;Ha arruinado la actuación.
+de:verb::wegstecken;encajar, asimilar, sobreponerse a;Una derrota así primero hay que encajarla.
+de:adj::aufbrausend;irascible, colérico, de genio vivo;Tiene un temperamento irascible.
+de:adj::aufgeweckt;despierto, espabilado, listo;Es un niño muy despierto.
+de:adj::beherrscht;contenido, sereno, dueño de sí mismo;Se mantuvo tranquila y serena.
+de:adj::besserwisserisch;sabelotodo, sabihondo, pedante;Su tono de sabelotodo me saca de quicio.
+de:adj::bodenständig;con los pies en la tierra, sencillo, arraigado;Es una mujer con los pies muy en la tierra.
+de:adj::borniert;cerrado, estrecho de miras, obtuso;¡Qué opinión tan cerrada!
+de:adj::dickköpfig;terco, cabezota, testarudo;Es bastante cabezota.
+de:adj::durchtrieben;astuto, taimado, pillo;Es un hombre de negocios taimado.
+de:adj::einfühlsam;sensible, empático, comprensivo;Es una médica muy empática.
+de:adj::eingeschüchtert;intimidado, cohibido, atemorizado;El niño parecía intimidado.
+de:adj::engstirnig;estrecho de miras, cerrado, intolerante;¡No seas tan estrecho de miras!
+de:adj::feinfühlig;sensible, delicado, con tacto;Reaccionó con mucha delicadeza.
+de:adj::gewieft;astuto, avispado, ducho;Es una negociadora astuta.
+de:adj::gleichmütig;impasible, sereno, ecuánime;Recibió la noticia impasible.
+de:adj::großspurig;fanfarrón, presuntuoso, arrogante;Se comporta de forma muy fanfarrona.
+de:adj::gutgläubig;crédulo, confiado, ingenuo;Es demasiado confiada.
+de:adj::habgierig;codicioso, avaricioso;El casero codicioso no para de subir el alquiler.
+de:adj::hinterhältig;traicionero, alevoso, solapado;Fue un ataque traicionero.
+de:adj::kaltschnäuzig;frío, insensible, desconsiderado;Reaccionó con total frialdad.
+de:adj::kleinkariert;mezquino, cuadriculado, de miras estrechas;Eso es demasiado cuadriculado para mí.
+de:adj::leichtgläubig;crédulo, ingenuo;Es muy crédulo.
+de:adj::nachtragend;rencoroso;No es nada rencorosa.
+de:adj::rechtschaffen;honrado, íntegro, recto;Es un hombre honrado.
+de:adj::reizbar;irritable, susceptible;Antes de los exámenes siempre está irritable.
+de:adj::scharfsinnig;perspicaz, sagaz, agudo;Es una observadora perspicaz.
+de:adj::schroff;brusco, áspero, tajante;Su respuesta fue bastante brusca.
+de:adj::selbstgefällig;engreído, autocomplaciente, pagado de sí mismo;Sonrió con suficiencia.
+de:adj::souverän;seguro (de sí mismo), con soltura, con aplomo;Dominó la situación con aplomo.
+de:adj::spießig;pequeñoburgués, convencional, carca;Le parecen carcas sus vecinos.
+de:adj::taktlos;falto de tacto, indiscreto, desconsiderado;Fue un comentario falto de tacto.
+de:adj::umgänglich;tratable, afable, sociable;Es una persona muy afable.
+de:adj::unbeirrt;impertérrito, inquebrantable, sin titubear;Persiguió su objetivo sin titubear.
+de:adj::unbeschwert;despreocupado, feliz, libre de preocupaciones;Tuvo una infancia despreocupada.
+de:adj::ungehobelt;grosero, maleducado, tosco;Sus modales son bastante groseros.
+de:adj::unnahbar;inaccesible, distante, inabordable;Parece fría y distante.
+de:adj::verschlossen;reservado, introvertido, cerrado;Es una persona más bien reservada.
+de:adj::weltfremd;alejado de la realidad, ingenuo, poco realista;Sus ideas están totalmente alejadas de la realidad.
+de:adj::wortkarg;parco en palabras, callado, taciturno;Su padre es muy parco en palabras.
+de:adj::zuvorkommend;atento, servicial, amable;El personal fue muy atento.
+de:adj::zwanghaft;compulsivo, obsesivo;Tiene una necesidad compulsiva de orden.
+de:adj::abgedroschen;trillado, manido, gastado;Es una frase manida.
+de:adj::anrüchig;de mala reputación, turbio, sospechoso;El local tiene mala reputación.
+de:adj::aufschlussreich;revelador, esclarecedor, instructivo;La conversación fue muy reveladora.
+de:adj::ausufernd;desmesurado, desbordante, excesivo;La burocracia es desmesurada.
+de:adj::belastend;agobiante, gravoso, (jur.) incriminatorio;La situación es muy agobiante.
+de:adj::bestechend;cautivador, impresionante, convincente;La idea es de una sencillez cautivadora.
+de:adj::dubios;dudoso, turbio, sospechoso;Es una oferta dudosa.
+de:adj::erbärmlich;lamentable, miserable, deplorable;El alojamiento estaba en un estado lamentable.
+de:adj::erdrückend;abrumador, aplastante;Las pruebas son abrumadoras.
+de:adj::erhebend;sublime, edificante, emocionante;Fue una sensación sublime.
+de:adj::glimpflich;sin graves consecuencias, leve;El accidente se saldó sin graves consecuencias.
+de:adj::grotesk;grotesco, absurdo;La situación era francamente grotesca.
+de:adj::haarsträubend;espeluznante, escandaloso, indignante;Son condiciones escandalosas.
+de:adj::hanebüchen;disparatado, absurdo, inaudito;¡Eso es un disparate absoluto!
+de:adj::heillos;tremendo, terrible, sin remedio;Reinaba un caos tremendo.
+de:adj::horrend;exorbitante, desorbitado, astronómico;Los precios son exorbitantes.
+de:adj::lapidar;lacónico, escueto, seco;Respondió lacónicamente: «No».
+de:adj::lästig;molesto, pesado, fastidioso;Estas moscas son realmente molestas.
+de:adj::makellos;impecable, intachable, perfecto;Habla un alemán impecable.
+de:adj::mäßig;mediocre, regular, moderado;La comida fue solo regular.
+de:adj::miserabel;pésimo, horrible, malísimo;El tiempo fue pésimo.
+de:adj::nichtssagend;insustancial, vacío, que no dice nada;Dio una respuesta que no decía nada.
+de:adj::ominös;misterioso, enigmático, ominoso;¿Quién es ese misterioso señor X?
+de:adj::prächtig;espléndido, magnífico, suntuoso;El palacio es magnífico.
+de:adj::schäbig;mezquino, ruin, (aspecto) cutre;Fue un comportamiento mezquino.
+de:adj::skurril;estrafalario, extravagante, peculiar;Tiene un humor estrafalario.
+de:adj::stümperhaft;chapucero, torpe;La reparación fue una chapuza.
+de:adj::trügerisch;engañoso, ilusorio;La calma es engañosa.
+de:adj::unsäglich;indecible, espantoso, lamentable;Fue una discusión espantosa.
+de:adj::unverblümt;sin rodeos, franco, directo;Dijo su opinión sin rodeos.
+de:adj::verfänglich;capcioso, comprometedor, delicado;Es una pregunta capciosa.
+de:adj::vorbildlich;ejemplar, modélico;Su comportamiento fue ejemplar.
+de:adj::wohlwollend;benévolo, favorable, bien dispuesto;La propuesta fue acogida favorablemente.
+de:adj::zwielichtig;turbio, sospechoso, de dudosa reputación;Tiene amigos turbios.
+de:adj::bündig;conciso, escueto, (breve y) al grano;Respondió de forma breve y concisa.
+de:adj::erschwinglich;asequible, económico;Los pisos ya casi no son asequibles.
+de:adj::etabliert;establecido, consolidado, reconocido;Es un método consolidado.
+de:adj::flächendeckend;en todo el territorio, generalizado, con cobertura total;Internet todavía no está disponible en todo el territorio.
+de:adj::hochkarätig;de primer nivel, de alto nivel, de primera categoría;Vinieron muchos invitados de primer nivel.
+de:adj::kostendeckend;que cubre los costes, rentable;El precio no cubre los costes.
+de:adj::marode;ruinoso, deteriorado, en mal estado;El puente está totalmente deteriorado.
+de:adj::rentabel;rentable;El negocio ya no es rentable.
+de:adj::richtungsweisend;pionero, orientador, que marca la pauta;La sentencia marca la pauta.
+de:adj::sachdienlich;útil, pertinente;La policía solicita información útil.
+de:adj::stichprobenartig;aleatorio, por muestreo, al azar;Los bolsos se revisan al azar.
+de:adj::unbürokratisch;sin trámites burocráticos, ágil, sin papeleo;La ayuda llegó rápido y sin trámites burocráticos.
+de:adj::zweckmäßig;práctico, funcional, adecuado;El mobiliario es sencillo pero práctico.
+de:noun:der:Ansturm;avalancha, aluvión, afluencia masiva;El primer día hubo una gran avalancha para conseguir las entradas.
+de:noun:die:Anlaufstelle;punto de contacto, oficina de atención, centro de referencia;La oficina municipal de atención al ciudadano es el primer punto de contacto.
+de:noun:der:Ausnahmezustand;estado de excepción, estado de emergencia;El gobierno declaró el estado de excepción.
+de:noun:der:Ballungsraum;área metropolitana, conurbación, aglomeración urbana;En el área metropolitana los alquileres son altos.
+de:noun:die:Bausubstanz;estructura (del edificio), estado de la construcción;La estructura del edificio aún está en buen estado.
+de:noun:die:Bebauung;edificación, urbanización, construcción;La densa edificación molesta a muchos vecinos.
+de:noun:das:Brachland;terreno baldío, solar, barbecho;El terreno baldío se convirtió en un parque.
+de:noun:die:Gentrifizierung;gentrificación;La gentrificación desplaza a los antiguos residentes.
+de:noun:das:Gemeinwesen;comunidad, colectividad, sociedad;Todos deberían contribuir a la comunidad.
+de:noun:das:Gemeinwohl;bien común, interés general;Esto sirve al bien común.
+de:noun:die:Kommune;municipio, ayuntamiento;Los municipios no tienen dinero.
+de:noun:der:Leerstand;inmuebles vacíos, locales desocupados, desocupación;En el centro de la ciudad hay muchos locales vacíos.
+de:noun:der:Nahverkehr;transporte público local, transporte urbano y de cercanías;Se va a ampliar el transporte público local.
+de:noun:der:Pendelverkehr;desplazamientos diarios al trabajo, tráfico pendular, servicio de lanzadera;Los desplazamientos diarios al trabajo congestionan las carreteras.
+de:noun:die:Stadtplanung;urbanismo, planificación urbana;El urbanismo tiene que ser más sostenible.
+de:noun:die:Verkehrsanbindung;conexión de transporte, comunicaciones;El piso está bien comunicado.
+de:noun:die:Zersiedelung;expansión urbana descontrolada, dispersión urbana;La expansión urbana descontrolada del paisaje avanza.
+de:noun:die:Abhängigkeitserkrankung;adicción, trastorno adictivo;Las adicciones deben tratarse.
+de:noun:die:Entzündung;inflamación;Tiene una inflamación en la rodilla.
+de:noun:die:Genesung;recuperación, restablecimiento, convalecencia;¡Le deseamos una pronta recuperación!
+de:noun:die:Heilungschance;posibilidad de curación, probabilidad de curación;Las posibilidades de curación son buenas.
+de:noun:die:Kur;cura (en un balneario), tratamiento termal, estancia en un balneario;Se va a un balneario del Báltico a hacer una cura.
+de:noun:die:Linderung;alivio;El medicamento proporciona alivio.
+de:noun:die:Prävention;prevención;La prevención es más barata que el tratamiento.
+de:noun:der:Rückfall;recaída;Al cabo de un año tuvo una recaída.
+de:noun:das:Symptom;síntoma;La fiebre es un síntoma típico.
+de:noun:die:Unverträglichkeit;intolerancia;Tiene intolerancia a la lactosa.
+de:noun:der:Verschleiß;desgaste;La articulación muestra signos de desgaste.
+de:noun:das:Auftreten;porte, actitud, presencia;Su actitud segura impresionó a todos.
+de:noun:das:Benehmen;comportamiento, modales, conducta;Su comportamiento fue intolerable.
+de:noun:der:Charme;encanto, simpatía;Tiene mucho encanto.
+de:noun:die:Gestik;gestos, gesticulación;Sus gestos son muy expresivos.
+de:noun:die:Mimik;expresión facial, mímica, gestos de la cara;Por su expresión facial se veía que estaba furiosa.
+de:noun:die:Körpersprache;lenguaje corporal;El lenguaje corporal revela mucho.
+de:noun:die:Umgangsform;modales, buenas maneras;Tiene buenos modales.
+de:noun:der:Anstand;decencia, decoro, buenos modales;Es una cuestión de decencia.
+de:noun:der:Ausrutscher;desliz, metedura de pata, fallo;Solo fue un desliz puntual.
+de:noun:der:Fauxpas;metedura de pata, desliz, indiscreción;Cometió una metedura de pata bochornosa.
+de:noun:das:Fettnäpfchen;metedura de pata, (ins Fettnäpfchen treten) meter la pata;Mete la pata en cada ocasión.
+de:noun:die:Floskel;frase hecha, tópico, fórmula vacía;No son más que frases hechas vacías.
+de:noun:die:Höflichkeitsfloskel;fórmula de cortesía;«¿Qué tal?» a menudo no es más que una fórmula de cortesía.
+de:noun:der:Smalltalk;charla trivial, conversación intrascendente, charla de cortesía;No se me da bien la charla trivial.
+de:noun:die:Anspielung;alusión, indirecta, insinuación;No entiendo tu indirecta.
+de:noun:die:Andeutung;insinuación, indicio, alusión;Hizo una vaga insinuación.
+de:noun:die:Ausflucht;excusa, evasiva, pretexto;¡Nada de excusas!
+de:noun:die:Beteuerung;aseveración, afirmación solemne, protesta (de inocencia);A pesar de todas sus aseveraciones, nadie le creyó.
+de:noun:die:Bloßstellung;humillación pública, exposición, desprestigio;La humillación pública fue degradante.
+de:noun:die:Einwilligung;consentimiento, autorización;Para ello necesitamos su consentimiento por escrito.
+de:noun:die:Ermahnung;amonestación, advertencia, reprimenda;A pesar de todas las advertencias, llegó tarde.
+de:noun:das:Gerede;habladurías, chismes, cotilleo;No hagas caso de las habladurías de la gente.
+de:noun:der:Klatsch;chismes, cotilleo, chismorreo;En el pueblo los chismes se propagan rápido.
+de:noun:die:Lästerei;maledicencia, criticadera, chismorreo;El eterno chismorreo en la oficina me saca de quicio.
+de:noun:die:Schmeichelei;halago, adulación, lisonja;Con halagos no conseguirás nada.
+de:noun:die:Unterstellung;insinuación, imputación infundada, acusación gratuita;¡Esa es una insinuación malintencionada!
+de:noun:die:Verleumdung;calumnia, difamación;Presenta una demanda por difamación.
+de:noun:die:Zurechtweisung;reprimenda, amonestación, regañina;Aceptó la reprimenda en silencio.
+de:noun:das:Anwesen;finca, propiedad, hacienda;Viven en una gran finca.
+de:noun:die:Behausung;vivienda, morada, cobijo;La vivienda era muy sencilla.
+de:noun:die:Bleibe;alojamiento, cobijo, techo;Busca un sitio donde pasar la noche.
+de:noun:das:Domizil;domicilio, residencia;Su nueva residencia está junto al lago.
+de:noun:das:Gerümpel;trastos, cachivaches, cosas viejas;El sótano está lleno de trastos.
+de:noun:das:Inventar;mobiliario, inventario, enseres;El mobiliario forma parte del piso.
+de:noun:der:Krimskrams;chismes, cachivaches, baratijas;En el cajón hay muchos cachivaches.
+de:noun:der:Nachlass;herencia, legado, (com.) descuento;Se ocupa de la herencia de su padre.
+de:noun:die:Wohnlage;ubicación (de la vivienda), zona residencial;La casa está en una buena zona residencial.
+de:noun:die:Abreise;partida, salida, marcha;El día de la partida llovió.
+de:noun:der:Abstecher;escapada, desvío, visita de paso;Hicimos una escapada a Praga.
+de:noun:die:Anreise;viaje de ida, llegada, desplazamiento;El viaje de ida se hace en tren.
+de:noun:die:Fernreise;viaje de larga distancia, viaje lejano;Sueña con un viaje lejano a Asia.
+de:noun:das:Reisefieber;nervios antes del viaje, nerviosismo de viaje;Antes de cada viaje de vacaciones me entran los nervios.
+de:noun:die:Stippvisite;visita breve, visita relámpago;Solo pasó para una visita relámpago.
+de:noun:die:Wanderlust;ganas de viajar, gusanillo viajero, ganas de hacer senderismo;En primavera me entran ganas de viajar.
+de:noun:der:Zwischenstopp;escala, parada intermedia;Hacemos escala en Dubái.
+de:noun:die:Anmaßung;presunción, arrogancia, osadía;¡Es una arrogancia increíble!
+de:noun:die:Anbiederung;servilismo, peloteo, adulación;Su peloteo al jefe es vergonzoso.
+de:noun:die:Arglist;dolo, mala fe, perfidia;El contrato se obtuvo con dolo.
+de:noun:die:Arroganz;arrogancia, soberbia;Su arrogancia repele a mucha gente.
+de:noun:die:Aufrichtigkeit;sinceridad, franqueza;No cabe duda de su sinceridad.
+de:noun:die:Behäbigkeit;lentitud, pachorra, parsimonia;La lentitud de la administración es conocida.
+de:noun:die:Beklommenheit;angustia, opresión, inquietud;Entró en la sala con angustia.
+de:noun:die:Bigotterie;santurronería, hipocresía (moral), mojigatería;La novela critica la hipocresía de la sociedad.
+de:noun:die:Borniertheit;cerrazón, estrechez de miras, obtusidad;Su cerrazón es difícil de soportar.
+de:noun:die:Dreistigkeit;descaro, desfachatez, insolencia;¡Es el colmo del descaro!
+de:noun:die:Duldsamkeit;tolerancia, paciencia, indulgencia;Soportó su comportamiento con gran paciencia.
+de:noun:die:Eigenbrötelei;excentricidad, retraimiento, carácter solitario;Su retraimiento lo aísla.
+de:noun:die:Engstirnigkeit;estrechez de miras, cerrazón, intolerancia;La estrechez de miras impide el progreso.
+de:noun:die:Erhabenheit;grandeza, majestuosidad, sublimidad;La majestuosidad de las montañas le impresionó.
+de:noun:die:Feigheit;cobardía;Fue pura cobardía.
+de:noun:die:Gefallsucht;afán de agradar, coquetería, deseo de gustar;Su afán de agradar es evidente.
+de:noun:die:Gehässigkeit;malevolencia, malicia, odio;Su malicia no tiene límites.
+de:noun:die:Gutgläubigkeit;credulidad, buena fe, ingenuidad;Se aprovechó de su credulidad.
+de:noun:der:Hochmut;soberbia, altivez, orgullo;El orgullo precede a la caída.
+de:noun:die:Inbrunst;fervor, pasión, ardor;Cantó con gran fervor.
+de:noun:die:Kaltschnäuzigkeit;frialdad, desfachatez, insensibilidad;Siguió mintiendo con una frialdad escalofriante.
+de:noun:die:Kleinmütigkeit;pusilanimidad, apocamiento, falta de valor;Su pusilanimidad sorprendió a todos.
+de:noun:die:Langmut;paciencia, longanimidad, indulgencia;Su paciencia es admirable.
+de:noun:die:Larmoyanz;sensiblería, sentimentalismo lacrimógeno, tono quejumbroso;Me molestó la sensiblería de la película.
+de:noun:die:Niedertracht;vileza, bajeza, infamia;Fue un acto de pura vileza.
+de:noun:die:Prahlerei;fanfarronería, jactancia, presunción;Su constante fanfarronería me saca de quicio.
+de:noun:die:Rechthaberei;afán de llevar siempre la razón, terquedad, dogmatismo;Su afán de llevar siempre la razón hace imposible cualquier discusión.
+de:noun:die:Redlichkeit;honradez, integridad, rectitud;Nadie duda de su honradez.
+de:noun:die:Selbstgefälligkeit;autocomplacencia, suficiencia, engreimiento;Su autocomplacencia es insoportable.
+de:noun:die:Sanftmut;mansedumbre, dulzura, apacibilidad;Lo trató con dulzura.
+de:noun:die:Spitzfindigkeit;sutileza, tecnicismo, sofisma;Son tecnicismos jurídicos.
+de:noun:der:Starrsinn;obstinación, terquedad, testarudez;Su obstinación le ha perjudicado.
+de:noun:die:Tücke;trampa, inconveniente, perfidia;La tecnología tiene sus trampas.
+de:noun:der:Übermut;euforia, exceso de confianza, temeridad;Llevado por la euforia, se lanzó al agua fría.
+de:noun:die:Unbekümmertheit;despreocupación, desenfado;Echó a correr con una despreocupación infantil.
+de:noun:die:Unverfrorenheit;descaro, desfachatez, desvergüenza;¡Con qué descaro miente!
+de:noun:die:Verbohrtheit;obstinación, cerrazón, terquedad;Su cerrazón es alarmante.
+de:noun:die:Verlogenheit;hipocresía, falsedad, mentira;La hipocresía de la política decepciona a muchos.
+de:noun:die:Wankelmütigkeit;volubilidad, inconstancia, veleidad;Su inconstancia dificulta la planificación.
+de:noun:die:Weltgewandtheit;mundología, saber estar, desenvoltura;Impresionaba por su mundología.
+de:noun:die:Zaghaftigkeit;timidez, vacilación, indecisión;Su indecisión le costó la oportunidad.
+de:noun:die:Zügellosigkeit;desenfreno, libertinaje, exceso;El desenfreno de la fiesta escandalizó a los vecinos.
+de:noun:der:Argwohn;recelo, suspicacia, desconfianza;Lo miraba con recelo.
+de:noun:die:Beflissenheit;celo, diligencia, aplicación;Hizo todas las tareas con gran celo.
+de:noun:der:Groll;rencor, resentimiento;No le guarda rencor.
+de:noun:die:Missstimmung;mal ambiente, malestar, tensión;Había mal ambiente en el equipo.
+de:noun:die:Rührung;emoción, conmoción, enternecimiento;De la emoción se le saltaron las lágrimas.
+de:noun:der:Überschwang;euforia, efusividad, arrebato;En plena euforia abrazó a todos.
+de:noun:die:Verdrossenheit;desencanto, hastío, descontento;Crece el desencanto con la política.
+de:noun:die:Verzagtheit;desaliento, abatimiento, desánimo;Tras la derrota reinaba el desánimo.
+de:noun:die:Wollust;lujuria, voluptuosidad, lascivia;La novela describe la lujuria y el deseo.
+de:noun:die:Abgeschiedenheit;aislamiento, retiro, apartamiento;Disfruta del aislamiento del pueblo.
+de:noun:die:Behaglichkeit;comodidad, confort, ambiente acogedor;Lo acogedor de la habitación invitaba a quedarse.
+de:noun:die:Beschaulichkeit;tranquilidad, sosiego, placidez;El pueblo transmite sosiego.
+de:noun:die:Betriebsamkeit;ajetreo, bullicio, actividad;En la ciudad hay mucho ajetreo.
+de:noun:die:Einöde;páramo, desierto, lugar desolado;Vive en un lugar desolado.
+de:noun:die:Idylle;idilio, lugar idílico;El pueblo es un auténtico lugar idílico.
+de:noun:die:Kargheit;aridez, austeridad, escasez;La aridez del paisaje tiene su encanto.
+de:noun:die:Pracht;esplendor, magnificencia, suntuosidad;El palacio brilla en todo su esplendor.
+de:noun:die:Trostlosigkeit;desolación, desconsuelo, tristeza;La desolación del extrarradio le deprime.
+de:noun:die:Vergänglichkeit;fugacidad, transitoriedad, caducidad;El poema trata de la fugacidad de la vida.
+de:noun:die:Wildnis;naturaleza salvaje, tierras vírgenes, monte;Pasaron dos semanas en plena naturaleza salvaje.
+de:noun:die:Abschweifung;digresión, divagación;Disculpe la pequeña digresión.
+de:noun:die:Allegorie;alegoría;La historia es una alegoría del poder.
+de:noun:die:Anekdote;anécdota;Contó una anécdota divertida.
+de:noun:der:Aphorismus;aforismo;Colecciona aforismos.
+de:noun:der:Duktus;estilo, tono, trazo (de la escritura);El estilo del texto es muy sobrio.
+de:noun:der:Euphemismus;eufemismo;«Liberación» es un eufemismo de despido.
+de:noun:die:Floskelhaftigkeit;abuso de frases hechas, carácter estereotipado, vacuidad;A todos les llamó la atención lo estereotipado del discurso.
+de:noun:die:Ironie;ironía;Lo dije con ironía.
+de:noun:die:Metapher;metáfora;El poeta usa muchas metáforas.
+de:noun:das:Paradoxon;paradoja;Es una auténtica paradoja.
+de:noun:das:Pathos;patetismo, grandilocuencia, solemnidad;Habló con gran solemnidad.
+de:noun:die:Polemik;polémica, crítica mordaz;El artículo es pura polémica.
+de:noun:die:Rhetorik;retórica;Su retórica es impresionante.
+de:noun:der:Sarkasmus;sarcasmo;Su sarcasmo es hiriente.
+de:noun:die:Stilblüte;gazapo, perla (involuntariamente cómica);La redacción contiene algunos gazapos.
+de:noun:der:Subtext;subtexto, trasfondo;El subtexto de la conversación estaba claro.
+de:noun:die:Wortklauberei;sutilezas verbales, juego de palabras quisquilloso, bizantinismo;¡Eso no son más que sutilezas verbales!
+de:noun:das:Wortspiel;juego de palabras;El título es un juego de palabras.
+de:verb::anbiedern;congraciarse, hacer la pelota, adular;Le hace la pelota al jefe.
+de:verb::anfeinden;hostigar, atacar, mostrar hostilidad hacia;La atacan por sus opiniones.
+de:verb::anhimmeln;idolatrar, adorar, endiosar;Los fans idolatran al cantante.
+de:verb::aufbauschen;exagerar, inflar, magnificar;La prensa ha exagerado la historia.
+de:verb::aufwiegeln;incitar, soliviantar, sublevar;Soliviantó a la multitud.
+de:verb::ausbaden;pagar el pato, cargar con las consecuencias;Ahora te toca a ti cargar con las consecuencias.
+de:verb::ausmerzen;erradicar, eliminar, suprimir;Se eliminaron todos los errores.
+de:verb::aussöhnen;reconciliar (sich: reconciliarse);Se ha reconciliado con su padre.
+de:verb::bändigen;domar, dominar, contener;Apenas podía contener su ira.
+de:verb::beargwöhnen;recelar de, desconfiar de, mirar con recelo;Los vecinos miran con recelo al forastero.
+de:verb::bedrängen;acosar, asediar, presionar;Los periodistas acosaban al político.
+de:verb::beflügeln;dar alas, estimular, inspirar;El éxito le ha dado alas.
+de:verb::begnadigen;indultar, conceder el indulto;El presidente ha indultado al preso.
+de:verb::behelligen;molestar, importunar;No quiero molestarle más.
+de:verb::beirren;desconcertar, confundir, desviar;¡No te dejes desconcertar!
+de:verb::bekunden;manifestar, expresar, mostrar;Muchos han manifestado su interés.
+de:verb::belächeln;sonreír con condescendencia, tomar a broma;Al principio sus ideas fueron tomadas a broma.
+de:verb::beschwören;suplicar, implorar, (juramento) jurar;Le suplicó que no se fuera.
+de:verb::besänftigen;calmar, apaciguar, aplacar;Lo calmó con una sonrisa.
+de:verb::bezichtigen;acusar, inculpar, culpar;Lo acusaron de fraude.
+de:verb::brandmarken;estigmatizar, tachar, marcar;Fue tachado de traidor.
+de:verb::darben;pasar penurias, pasar hambre, sufrir privaciones;En la guerra muchos tuvieron que pasar hambre.
+de:verb::demütigen;humillar;Fue humillado delante de todos.
+de:verb::ducken;agacharse (sich), (fig.) someterse;Se agachó para esquivar el balón.
+de:verb::echauffieren;acalorarse, alterarse, indignarse (sich);¿Por qué te alteras tanto?
+de:verb::entbehren;carecer de, prescindir de, echar en falta;Esta afirmación carece de todo fundamento.
+de:verb::entsagen;renunciar a, abjurar de;Ha renunciado a todo lujo.
+de:verb::entzweien;enemistar, dividir, desunir;La disputa por la herencia ha dividido a la familia.
+de:verb::erbosen;enfadar, irritar, enojar;Su respuesta me ha enfadado.
+de:verb::ergötzen;deleitar (sich an: regodearse en, deleitarse con);Se regodea en la desgracia de ella.
+de:verb::erheischen;exigir, requerir (culto);La situación exige actuar con rapidez.
+de:verb::ermannen;armarse de valor, sobreponerse (sich);Se armó de valor y le habló.
+de:verb::erschleichen;obtener con engaños, granjearse con artimañas;Se ha ganado su confianza con artimañas.
+de:verb::ersinnen;idear, concebir, inventar;Ideó un plan astuto.
+de:verb::feilschen;regatear;En el mercado se regatea.
+de:verb::frohlocken;regocijarse, jubilar, alegrarse (del mal ajeno);La oposición se regocija por la derrota.
+de:verb::geißeln;fustigar, censurar duramente, flagelar;El autor fustiga los abusos.
+de:verb::gieren;ansiar, codiciar (nach);Ansía reconocimiento.
+de:verb::hätscheln;mimar, consentir, acariciar;Mima a su perro como a un niño.
+de:verb::hegen;albergar, abrigar (sentimientos), cuidar;Alberga grandes esperanzas.
+de:verb::heucheln;fingir, simular, ser hipócrita;Finge interés.
+de:verb::huldigen;rendir homenaje, ovacionar, rendir pleitesía;La multitud rindió homenaje al rey.
+de:verb::kokettieren;coquetear (mit), presumir (de algo con falsa modestia);Le gusta coquetear con su edad.
+de:verb::kuschen;agachar la cabeza, someterse, achantarse;Ante el jefe siempre agacha la cabeza.
+de:verb::lavieren;nadar entre dos aguas, maniobrar, andar con rodeos;El político nada entre dos aguas.
+de:verb::lechzen;ansiar, anhelar, estar sediento de (nach);El país está sediento de lluvia.
+de:verb::liebäugeln;acariciar la idea de, coquetear con (mit);Acaricia la idea de comprarse un coche nuevo.
+de:verb::lobpreisen;alabar, ensalzar, glorificar;Los críticos alaban la película.
+de:verb::maßregeln;amonestar, sancionar, reprender;El funcionario fue sancionado.
+de:verb::mokieren;burlarse (sich über), mofarse;Se burla de su forma de vestir.
+de:verb::pochen;insistir (auf), exigir, (golpear) llamar;Insiste en su derecho.
+de:verb::prassen;derrochar, vivir a lo grande, despilfarrar;Ellos derrochan mientras otros pasan hambre.
+de:verb::sich räuspern;carraspear, aclararse la garganta;Carraspeó y empezó a hablar.
+de:verb::schikanieren;hostigar, acosar, hacer la vida imposible;El jefe hace la vida imposible a sus empleados.
+de:verb::schmähen;injuriar, vilipendiar, denigrar;Fue injuriado públicamente.
+de:verb::schmollen;estar de morros, enfurruñarse, estar enfurruñado;Lleva todo el día de morros.
+de:verb::schwadronieren;perorar, fanfarronear, hablar por los codos;Perora sobre política.
+de:verb::sinnieren;cavilar, meditar, reflexionar;Estaba sentado junto a la ventana, cavilando.
+de:verb::sticheln;lanzar pullas, soltar indirectas, pinchar;No para de lanzarle pullas a su hermana.
+de:verb::strotzen;rebosar (vor), estar plagado de, desbordar;El texto está plagado de errores.
+de:verb::taxieren;evaluar (con la mirada), calibrar, tasar;Examinó al nuevo de arriba abajo.
+de:verb::trachten;aspirar a, ambicionar (nach);Aspira al poder.
+de:verb::übervorteilen;engañar, timar, sacar ventaja de;En la compra lo timaron.
+de:verb::verballhornen;deformar, tergiversar (palabras), parodiar;Le gusta deformar los nombres.
+de:verb::verdonnern;condenar, obligar (coloq.);Lo condenaron a pagar una multa.
+de:verb::verhätscheln;mimar en exceso, malcriar, consentir;Los abuelos malcrían a los nietos.
+de:verb::verunglimpfen;denigrar, difamar, desacreditar;Fue denigrado en los medios.
+de:verb::vereiteln;frustrar, impedir, desbaratar;La policía frustró el atentado.
+de:verb::verfemen;proscribir, condenar al ostracismo, desterrar;El artista fue proscrito en vida.
+de:verb::verprellen;ahuyentar, alejar, espantar;Con esta política, el partido ahuyenta a sus votantes.
+de:verb::verwünschen;maldecir;Maldijo el día en que la conoció.
+de:verb::wettern;despotricar, echar pestes (gegen), tronar;Despotrica contra el gobierno.
+de:verb::zaudern;vacilar, titubear, dudar;Vaciló demasiado tiempo.
+de:verb::zetern;chillar, vociferar, protestar a gritos;La vecina protesta a gritos por el ruido.
+de:verb::züchtigen;castigar (físicamente), azotar;Antes se castigaba a menudo físicamente a los niños.
+de:adj::abfällig;despectivo, desdeñoso, peyorativo;Habló de forma despectiva de sus compañeros.
+de:adj::abgebrüht;curtido, insensible, avezado;Es un profesional curtido.
+de:adj::abstrus;abstruso, disparatado, enrevesado;Es una teoría disparatada.
+de:adj::adäquat;adecuado, apropiado;Buscamos una solución adecuada.
+de:adj::affektiert;afectado, amanerado, cursi;Habla de forma muy afectada.
+de:adj::akkurat;meticuloso, preciso, esmerado;Trabaja de forma muy meticulosa.
+de:adj::apathisch;apático, indiferente;Después de la noticia parecía apático.
+de:adj::arglos;ingenuo, cándido, sin malicia;Preguntó sin ninguna malicia.
+de:adj::ausschweifend;disoluto, desenfrenado, (relato) prolijo;Llevaba una vida disoluta.
+de:adj::banal;banal, trivial;La trama es bastante banal.
+de:adj::behäbig;cachazudo, pausado, (de complexión) corpulento;Es un señor mayor pausado.
+de:adj::beklommen;angustiado, oprimido, inquieto;Se sentía angustiada.
+de:adj::bieder;convencional, sencillo, anticuado;El piso está decorado de forma convencional.
+de:adj::blasiert;displicente, altanero, hastiado;Tiene una sonrisa displicente.
+de:adj::dekadent;decadente;La vida de los ricos parece decadente.
+de:adj::delikat;delicado, peliagudo, (comida) exquisito;Es un asunto delicado.
+de:adj::despotisch;despótico, tiránico;Dirige la empresa de forma despótica.
+de:adj::diffus;difuso, vago, impreciso;Solo tengo una sensación difusa.
+de:adj::dilettantisch;chapucero, de aficionado, poco profesional;El trabajo está hecho de forma chapucera.
+de:adj::dreist;descarado, desvergonzado, insolente;Es una mentira descarada.
+de:adj::dünkelhaft;engreído, presuntuoso, altanero;Tiene un carácter engreído.
+de:adj::eklatant;flagrante, manifiesto, escandaloso;Es un error flagrante.
+de:adj::elitär;elitista, exclusivo;El club es muy elitista.
+de:adj::eloquent;elocuente;Es una oradora elocuente.
+de:adj::ephemer;efímero, pasajero;La fama suele ser efímera.
+de:adj::erbaulich;edificante, alentador, reconfortante;Las noticias no son muy alentadoras.
+de:adj::erhaben;sublime, por encima de (über);Está por encima de toda sospecha.
+de:adj::exaltiert;exaltado, exagerado, histriónico;Su comportamiento fue algo exaltado.
+de:adj::exorbitant;exorbitante, desorbitado;Los costes son exorbitantes.
+de:adj::fahrig;nervioso, inquieto, distraído;Estaba muy inquieto por los nervios.
+de:adj::feige;cobarde;Eso fue de cobardes por tu parte.
+de:adj::flatterhaft;voluble, inconstante, veleidoso;Tiene fama de inconstante.
+de:adj::frivol;frívolo, picante, atrevido;El chiste era algo picante.
+de:adj::geschwätzig;charlatán, parlanchín, hablador;El taxista era muy hablador.
+de:adj::gestelzt;afectado, rebuscado, artificioso;Habla de forma muy rebuscada.
+de:adj::gravitätisch;solemne, majestuoso, grave;Atravesó la sala con paso solemne.
+de:adj::habituell;habitual, acostumbrado;Es un comportamiento habitual.
+de:adj::harsch;duro, áspero, severo;La crítica fue muy dura.
+de:adj::hehr;noble, elevado, sublime;Son objetivos nobles.
+de:adj::hölzern;acartonado, rígido, torpe;Su lenguaje resulta acartonado.
+de:adj::illuster;ilustre, distinguido, selecto;Era una compañía ilustre.
+de:adj::immanent;inmanente, inherente, intrínseco;El riesgo es inherente al sistema.
+de:adj::impulsiv;impulsivo;A menudo reacciona de forma impulsiva.
+de:adj::indigniert;indignado, ofendido;Reaccionó indignada.
+de:adj::indiskret;indiscreto, impertinente;Fue una pregunta indiscreta.
+de:adj::infam;infame, vil, ruin;Es una mentira infame.
+de:adj::inhärent;inherente, intrínseco;Los problemas son inherentes al sistema.
+de:adj::integer;íntegro, honrado, intachable;Tiene fama de ser absolutamente íntegro.
+de:adj::jovial;jovial, campechano, afable;Al jefe le gusta mostrarse campechano.
+de:adj::kapriziös;caprichoso, antojadizo;Es bastante caprichosa.
+de:adj::kauzig;estrafalario, excéntrico, raro;Nuestro vecino es un viejo excéntrico.
+de:adj::kokett;coqueto, coquetón;Sonrió con coquetería.
+de:adj::kryptisch;críptico, enigmático, oscuro;Su mensaje era bastante críptico.
+de:adj::larmoyant;lacrimógeno, quejumbroso, llorón;El tono de la carta es quejumbroso.
+de:adj::lethargisch;aletargado, letárgico, apático;Después de comer me siento aletargado.
+de:adj::lakonisch;lacónico, escueto;Su respuesta fue lacónica.
+de:adj::launenhaft;caprichoso, cambiante, voluble;Hoy el tiempo está cambiante.
+de:adj::maßlos;desmedido, inmenso, (adv.) enormemente;Está enormemente decepcionado.
+de:adj::melancholisch;melancólico;La música es muy melancólica.
+de:adj::mondän;elegante, chic, de moda;Vive en un barrio elegante.
+de:adj::mürrisch;malhumorado, gruñón, huraño;Por las mañanas siempre está gruñón.
+de:adj::naiv;ingenuo, cándido;¿Cómo se puede ser tan ingenuo?
+de:adj::obsolet;obsoleto, caduco;La norma está obsoleta desde hace tiempo.
+de:adj::opulent;opíparo, suntuoso, opulento;Hubo un banquete opíparo.
+de:adj::pedantisch;pedante, quisquilloso, puntilloso;Es terriblemente quisquilloso.
+de:adj::perfide;pérfido, malicioso, traicionero;Fue un plan pérfido.
+de:adj::pikiert;ofendido, picado, molesto;Se sintió algo molesta por su comentario.
+de:adj::plump;burdo, torpe, tosco;Fue un intento burdo.
+de:adj::prätentiös;pretencioso;La película es bastante pretenciosa.
+de:adj::prosaisch;prosaico, banal, corriente;La explicación es de lo más prosaica.
+de:adj::prüde;mojigato, pudoroso, gazmoño;Es bastante mojigata.
+de:adj::rabiat;violento, brutal, furioso;De repente se puso violento.
+de:adj::rastlos;incansable, sin descanso, inquieto;Trabaja sin descanso.
+de:adj::redselig;locuaz, parlanchín, hablador;Después de dos copas de vino se volvió locuaz.
+de:adj::rüde;grosero, rudo, brusco;Tiene un tono grosero.
+de:adj::sardonisch;sardónico, sarcástico;Se rio de forma sardónica.
+de:adj::schelmisch;pícaro, travieso, pillo;Sonrió con picardía.
+de:adj::schwülstig;ampuloso, grandilocuente, pomposo;El discurso fue ampuloso.
+de:adj::servil;servil, sumiso;Su actitud hacia el jefe es servil.
+de:adj::spröde;arisco, distante, (material) quebradizo;Parece algo arisca.
+de:adj::subtil;sutil;Es una diferencia sutil.
+de:adj::süffisant;socarrón, burlón, petulante;Sonrió con sorna.
+de:adj::trivial;trivial, banal;La solución no es trivial.
+de:adj::unbeugsam;inquebrantable, inflexible, indoblegable;Tiene una voluntad inquebrantable.
+de:adj::unverhohlen;manifiesto, abierto, no disimulado;Mostró una alegría no disimulada.
+de:adj::urban;urbano, cosmopolita;El barrio tiene un aire urbano.
+de:adj::verbrämt;velado, disfrazado, (prenda) ribeteado;Es una crítica elegantemente velada.
+de:adj::verschroben;estrafalario, excéntrico, raro;Tiene opiniones estrafalarias.
+de:adj::vorlaut;respondón, impertinente, descarado;¡No seas tan respondón!
+de:adj::weltgewandt;de mundo, cosmopolita, con mundología;Es muy cosmopolita.
+de:adj::wehmütig;nostálgico, melancólico;Mira atrás con nostalgia.
+de:adj::zynisch;cínico;Su comentario fue muy cínico.
+de:noun:die:Abkehr;abandono, renuncia, alejamiento;Se decidió el abandono de la energía nuclear.
+de:noun:der:Abglanz;reflejo, pálido reflejo, sombra;No es más que un pálido reflejo de tiempos pasados.
+de:noun:die:Anbetung;adoración, culto, veneración;El culto al éxito es típico de nuestro tiempo.
+de:noun:der:Anbeginn;principio, comienzo (culto);Desde el principio de los tiempos, el ser humano busca el sentido.
+de:noun:das:Ansinnen;pretensión, petición, exigencia;Es una pretensión desvergonzada.
+de:noun:der:Antagonismus;antagonismo;El antagonismo entre las clases crece.
+de:noun:die:Apathie;apatía;Se sumió en una profunda apatía.
+de:noun:der:Aufbruch;despegue, renovación, (viaje) partida;Reinaba un ambiente de renovación.
+de:noun:der:Ausverkauf;liquidación, rebajas, (fig.) venta;Esto es una liquidación de nuestros valores.
+de:noun:die:Bedrängnis;apuro, aprieto, dificultad;Se vio en apuros económicos.
+de:noun:die:Begierde;ansia, deseo, codicia;Su ansia de poder no tenía límites.
+de:noun:das:Behagen;placer, gusto, satisfacción;Se comió el pastel con evidente placer.
+de:noun:die:Beliebigkeit;arbitrariedad, indiferenciación, todo vale;A menudo se critica la arbitrariedad del arte moderno.
+de:noun:der:Dünkel;engreimiento, presunción, soberbia;Está lleno de presunción.
+de:noun:die:Ehrerbietung;deferencia, respeto, reverencia;La trató con gran deferencia.
+de:noun:der:Eklat;escándalo, revuelo;El discurso provocó un escándalo.
+de:noun:die:Entgleisung;salida de tono, desliz, (tren) descarrilamiento;Su salida de tono verbal fue duramente criticada.
+de:noun:die:Ernüchterung;desencanto, decepción, desilusión;Tras la euforia llegó el desencanto.
+de:noun:die:Erwartungshaltung;expectativas, nivel de expectativa;Las expectativas de los aficionados son enormes.
+de:noun:die:Fehde;enemistad, contienda, rencilla;Entre las familias existe una antigua enemistad.
+de:noun:das:Feingefühl;tacto, sensibilidad, delicadeza;Aquí hace falta tacto.
+de:noun:der:Frevel;sacrilegio, ultraje, crimen;Eso sería un sacrilegio contra la naturaleza.
+de:noun:die:Gediegenheit;solidez, calidad, buena factura;La solidez de los muebles convence.
+de:noun:das:Gefüge;estructura, tejido, entramado;El tejido social se tambalea.
+de:noun:der:Habitus;porte, actitud, hábitos;Su porte delata su origen.
+de:noun:die:Hybris;soberbia, arrogancia desmedida, hibris;Su soberbia lo llevó a la ruina.
+de:noun:die:Ignoranz;ignorancia, desconocimiento, desinterés;La ignorancia de las autoridades es alarmante.
+de:noun:die:Indiskretion;indiscreción, filtración;El plan salió a la luz por una indiscreción.
+de:noun:die:Inkonsequenz;incoherencia, inconsecuencia, falta de coherencia;Su incoherencia confunde a los niños.
+de:noun:die:Konstellation;constelación, configuración, situación;Es una situación política difícil.
+de:noun:die:Kontroverse;controversia, polémica;El libro desató una fuerte controversia.
+de:noun:der:Kulturkampf;guerra cultural;En EE. UU. se libra una guerra cultural.
+de:noun:die:Lauterkeit;integridad, sinceridad, pureza (de intenciones);No hay duda sobre la sinceridad de sus intenciones.
+de:noun:die:Machenschaften;maquinaciones, tejemanejes, intrigas;Las maquinaciones de la empresa salieron a la luz.
+de:noun:der:Makel;defecto, imperfección, tacha;El jarrón tiene un pequeño defecto.
+de:noun:die:Marotte;manía, rareza, capricho;Cada uno tiene sus manías.
+de:noun:der:Missgriff;error, desacierto, equivocación;La elección del ministro fue un desacierto.
+de:noun:die:Mittelmäßigkeit;mediocridad;No se conforma con la mediocridad.
+de:noun:die:Muße;ocio, tiempo libre, sosiego;Necesito tiempo y sosiego para leer.
+de:noun:der:Nimbus;aureola, halo, aura;Se acabó el aura de invencible.
+de:noun:das:Novum;novedad, primicia, hecho sin precedentes;Es una novedad absoluta.
+de:noun:die:Obrigkeit;autoridad, autoridades, poder;No tiene respeto por la autoridad.
+de:noun:der:Opportunismus;oportunismo;Le reprochan su oportunismo.
+de:noun:der:Pragmatismus;pragmatismo;Resolvió el problema con pragmatismo.
+de:noun:die:Prägung;huella, impronta, influencia;La infancia deja una profunda huella.
+de:noun:die:Prunksucht;afán de ostentación, gusto por el lujo;El afán de ostentación del rey arruinó el país.
+de:noun:die:Quintessenz;quintaesencia, esencia;La esencia del libro es sencilla.
+de:noun:das:Ränkespiel;intrigas, maquinaciones;Es un maestro de las intrigas.
+de:noun:der:Rausch;embriaguez, euforia, borrachera;Estaba embriagado por el éxito.
+de:noun:das:Refugium;refugio, remanso;El jardín es su refugio.
+de:noun:die:Reminiszenz;reminiscencia, evocación, homenaje;La película es una evocación de los años 80.
+de:noun:die:Ressentiments;resentimientos, prejuicios, animadversión;Hay una fuerte animadversión hacia los extranjeros.
+de:noun:die:Sättigung;saturación, saciedad;El mercado ha llegado a su saturación.
+de:noun:die:Scheinheiligkeit;hipocresía, santurronería, falsedad;Su hipocresía es insoportable.
+de:noun:der:Schlendrian;dejadez, desidia, rutina;En el organismo reina cierta dejadez.
+de:noun:die:Schmach;deshonra, oprobio, humillación;La derrota fue una humillación.
+de:noun:die:Schwelle;umbral, puerta;Estamos en el umbral de una nueva era.
+de:noun:die:Selbstbezogenheit;egocentrismo, ensimismamiento;Su egocentrismo molesta a muchos.
+de:noun:die:Selbstverleugnung;abnegación, renuncia a sí mismo;Cuidó a su madre con gran abnegación.
+de:noun:der:Sinneswandel;cambio de opinión, cambio de parecer;¿Qué ha provocado este cambio de opinión?
+de:noun:die:Stagnation;estancamiento, parálisis;La economía se encuentra estancada.
+de:noun:die:Stringenz;rigor, coherencia, rigurosidad;El trabajo convence por su rigor.
+de:noun:der:Tatendrang;ganas de hacer cosas, energía, empuje;Después de las vacaciones está lleno de energía.
+de:noun:der:Trugschluss;falacia, conclusión errónea, error de razonamiento;Es una falacia peligrosa.
+de:noun:der:Übereifer;exceso de celo;Por exceso de celo cometió errores.
+de:noun:der:Umbruch;transformación, cambio radical, cambio profundo;La sociedad se encuentra en plena transformación.
+de:noun:die:Unbill;adversidades, contratiempos, injusticias;Soportó todas las adversidades de la vida.
+de:noun:der:Unfug;tonterías, disparates, travesuras;¡Eso no son más que tonterías!
+de:noun:die:Untiefe;bajío, (fig.) abismo, profundidades;La novela sondea los abismos del alma humana.
+de:noun:die:Usance;uso, costumbre (comercial), práctica habitual;Esto se ajusta a los usos comerciales.
+de:noun:die:Verblendung;ofuscación, ceguera, obcecación;En su ofuscación no vio el peligro.
+de:noun:die:Verfehlung;falta, infracción, transgresión;Tuvo que responder por sus faltas.
+de:noun:die:Verquickung;mezcla, entrelazamiento, connivencia;La mezcla de política y economía es problemática.
+de:noun:die:Versiertheit;experiencia, pericia, destreza;Su pericia en el trato con los clientes es conocida.
+de:noun:die:Vetternwirtschaft;nepotismo, enchufismo, amiguismo;En la empresa reina el enchufismo.
+de:noun:der:Wankelmut;inconstancia, volubilidad, indecisión;Su volubilidad lo hace imprevisible.
+de:noun:der:Widersinn;contrasentido, absurdo, disparate;Es un completo contrasentido.
+de:noun:die:Zerknirschung;contrición, arrepentimiento, remordimiento;Se disculpó con visible arrepentimiento.
+de:noun:die:Zwietracht;discordia, desavenencia, cizaña;Siembra la discordia en la familia.
+de:verb::abebben;remitir, amainar, calmarse;El revuelo ha ido remitiendo poco a poco.
+de:verb::abflauen;amainar, calmarse, decaer;El viento va amainando poco a poco.
+de:verb::abschotten;aislar, cerrar (sich: aislarse, encerrarse);Se aísla del mundo.
+de:verb::abwiegeln;restar importancia, eludir, apaciguar;El ministro eludió todas las preguntas restándoles importancia.
+de:verb::anecken;chocar (con alguien), molestar, caer mal;Con su forma de ser choca con todo el mundo.
+de:verb::anzetteln;provocar, urdir, tramar;¿Quién ha provocado la pelea?
+de:verb::aufoktroyieren;imponer;No se le puede imponer a nadie la propia opinión.
+de:verb::aufrütteln;sacudir, despertar, conmocionar;El informe ha sacudido a la opinión pública.
+de:verb::ausufern;desbordarse, desmadrarse, írsele de las manos;El debate se ha desbordado por completo.
+de:verb::bekritteln;criticar, sacar faltas, poner pegas;Le saca faltas a todo lo que hago.
+de:verb::brillieren;brillar, lucirse, destacar;Brilló en el papel protagonista.
+de:verb::bröckeln;desmoronarse, desconcharse, resquebrajarse;La fachada se está desconchando.
+de:verb::durchkreuzen;frustrar, desbaratar, echar por tierra;El tiempo ha frustrado nuestros planes.
+de:verb::einverleiben;absorber, anexionarse, incorporar (sich);El consorcio ha absorbido la empresa.
+de:verb::entfachen;desatar, encender, avivar;El discurso desató un intenso debate.
+de:verb::entlocken;sonsacar, arrancar, extraer;No pudo sacarle ni una palabra.
+de:verb::entrinnen;escapar de, librarse de, eludir;Escapó de la muerte por poco.
+de:verb::entsprießen;surgir, brotar, nacer;De esta idea surgió una empresa.
+de:verb::erblassen;palidecer, ponerse pálido;Al oír la noticia, palideció.
+de:verb::erdreisten;atreverse, tener el descaro de (sich);¿Cómo tienes el descaro de decir algo así?
+de:verb::ernüchtern;desengañar, desilusionar, hacer bajar de las nubes;El resultado nos ha desilusionado.
+de:verb::erodieren;erosionarse, desgastarse;La confianza en la política se está erosionando.
+de:verb::fabulieren;fabular, fantasear, inventar historias;Le gusta fantasear sobre grandes aventuras.
+de:verb::fußen;basarse, fundarse (auf);La teoría se basa en conocimientos antiguos.
+de:verb::gebaren;comportarse, actuar (sich);Se comporta como un rey.
+de:verb::gereichen;redundar en, servir de (culto);Eso le honra.
+de:verb::goutieren;apreciar, aprobar, gustar de;Al público no le gustó el chiste.
+de:verb::harren;esperar, aguardar (culto);El problema aún espera una solución.
+de:verb::hinwegsetzen;hacer caso omiso de, pasar por alto (sich über);Ha hecho caso omiso de todas las normas.
+de:verb::hinwegtäuschen;ocultar, disimular, enmascarar (über);Eso no puede ocultar los problemas.
+de:verb::innehaben;ocupar, ostentar (un cargo);Ocupa el puesto desde 2010.
+de:verb::innehalten;detenerse, hacer una pausa;Se detuvo un momento a pensar.
+de:verb::konterkarieren;contrarrestar, frustrar, ir en contra de;Esto contrarresta nuestros esfuerzos.
+de:verb::kolportieren;difundir, propagar (rumores);La prensa difunde rumores.
+de:verb::kulminieren;culminar, alcanzar su punto álgido;La disputa culminó en una pelea.
+de:verb::lancieren;lanzar, (información) filtrar;La empresa lanza un nuevo producto.
+de:verb::mäandern;serpentear, zigzaguear;El río serpentea por el valle.
+de:verb::manifestieren;manifestarse, plasmarse (sich);La crisis se manifiesta en el aumento de los precios.
+de:verb::oktroyieren;imponer, dictar;Las normas fueron impuestas desde arriba.
+de:verb::paktieren;pactar, confabularse, conchabarse;Pacta con el adversario.
+de:verb::perpetuieren;perpetuar;Imágenes así perpetúan prejuicios.
+de:verb::prädestinieren;predestinar, estar hecho para;Está predestinada para esta tarea.
+de:verb::proklamieren;proclamar;Se proclamó la república.
+de:verb::rekurrieren;remitirse a, recurrir a (auf);Se remite a estudios anteriores.
+de:verb::sich anschicken;disponerse a, aprestarse a;Se dispuso a salir de la habitación.
+de:verb::sich ausbedingen;estipular, reservarse (un derecho), poner como condición;Se ha reservado un derecho de veto.
+de:verb::sich ereifern;acalorarse, exaltarse, indignarse;Se acaloró hablando de la injusticia.
+de:verb::sich erkühnen;atreverse, osar;¿Quién se atreve a contradecirme?
+de:verb::sich ergehen;extenderse en, explayarse en (in);Se explayó en largas explicaciones.
+de:verb::sich gerieren;presentarse como, dárselas de, hacerse pasar por;Se las da de experto.
+de:verb::sich verbitten;no tolerar, no consentir;¡No consiento ese tono!
+de:verb::sich verdingen;emplearse, ponerse a servir, trabajar (de);Se empleó como temporero en la cosecha.
+de:verb::sich verwahren;protestar contra, rechazar (gegen);Rechazo esas acusaciones.
+de:verb::sich zieren;hacerse de rogar, andarse con remilgos;¡No te hagas de rogar y coge un trozo!
+de:verb::sondieren;sondear, tantear, explorar;Los partidos sondean una coalición.
+de:verb::stilisieren;estilizar, idealizar, presentar como;Lo convirtieron en un héroe.
+de:verb::torpedieren;torpedear, boicotear, sabotear;La oposición torpedea cada ley.
+de:verb::tradieren;transmitir (por tradición);La historia se transmitió oralmente.
+de:verb::umgarnen;seducir, embelesar, engatusar;Intentó engatusarla con cumplidos.
+de:verb::unterminieren;socavar, minar;Socava la autoridad del jefe.
+de:verb::verbrämen;disfrazar, adornar, edulcorar;Disfraza sus críticas con cumplidos.
+de:verb::verklären;idealizar, glorificar, transfigurar;Idealiza su infancia.
+de:verb::verkennen;no reconocer, subestimar, malinterpretar;No supo ver la gravedad de la situación.
+de:verb::verpuffen;quedarse en nada, esfumarse, disiparse;El efecto se esfumó rápidamente.
+de:verb::verquicken;mezclar, entremezclar, vincular;No hay que mezclar lo privado con lo profesional.
+de:verb::verschleppen;dilatar, demorar, (persona) secuestrar;El organismo está dilatando la decisión.
+de:verb::verwässern;diluir, aguar, desvirtuar;El proyecto de ley fue muy desvirtuado.
+de:verb::vorgaukeln;hacer creer, engañar con, aparentar;Le hizo creer en un mundo perfecto.
+de:verb::vorpreschen;adelantarse, precipitarse, lanzarse;El ministro se ha adelantado con su propuesta.
+de:verb::widerfahren;sucederle a alguien, sufrir;Ha sufrido una gran injusticia.
+de:verb::zehren;vivir de (von), consumir, desgastar (an);Todavía vivimos de los recuerdos.
+de:verb::zementieren;consolidar, afianzar, cimentar;La ley consolida la desigualdad.
+de:verb::zuwiderlaufen;ir en contra de, contravenir, contradecir;Eso va en contra de nuestros intereses.
+de:adj::anheimelnd;acogedor, hogareño;La cabaña resulta muy acogedora.
+de:adj::aufreibend;agotador, extenuante, desgastante;El cuidado de enfermos es muy agotador.
+de:adj::ausgefeilt;elaborado, pulido, depurado;Es un concepto muy elaborado.
+de:adj::ausgemacht;absoluto, rematado, (decidido) acordado;Eso es una tontería absoluta.
+de:adj::beflissen;solícito, servicial, diligente;El camarero era muy solícito.
+de:adj::bestürzt;consternado, conmocionado, afectado;Todos estaban consternados por la noticia.
+de:adj::betulich;parsimonioso, pausado, demasiado solícito;Su forma de ser es algo parsimoniosa.
+de:adj::beschaulich;tranquilo, apacible, contemplativo;Llevan una vida tranquila en el campo.
+de:adj::blindwütig;ciego de ira, furibundo, enfurecido;Fue un ataque furibundo.
+de:adj::brachial;brutal, violento, bruto;Se impuso con fuerza bruta.
+de:adj::dezidiert;decidido, firme, rotundo;Defiende una opinión firme.
+de:adj::eigenmächtig;por cuenta propia, arbitrario, sin autorización;Ha decidido por cuenta propia.
+de:adj::einschneidend;drástico, decisivo, profundo;Fueron cambios drásticos.
+de:adj::einträglich;lucrativo, rentable, provechoso;Es un negocio lucrativo.
+de:adj::empirisch;empírico;La teoría está demostrada empíricamente.
+de:adj::engmaschig;estrecho, riguroso, de malla estrecha;Los pacientes están sometidos a un control estrecho.
+de:adj::entbehrungsreich;lleno de privaciones, de penurias;Tuvo una infancia llena de privaciones.
+de:adj::erklecklich;considerable, cuantioso, nada despreciable;Ha donado una suma considerable.
+de:adj::erlesen;selecto, exquisito, refinado;Sirvieron vinos selectos.
+de:adj::erquicklich;agradable, grato, reconfortante;La situación no es precisamente agradable.
+de:adj::exzessiv;excesivo, desmesurado;Hace deporte de forma excesiva.
+de:adj::fragil;frágil;La paz es muy frágil.
+de:adj::geläutert;purificado, regenerado, reformado;Salió de la cárcel regenerado.
+de:adj::gemächlich;pausado, tranquilo, sin prisas;Paseamos sin prisas por el parque.
+de:adj::gerissen;astuto, taimado, listo;Es un hombre de negocios astuto.
+de:adj::geruhsam;tranquilo, apacible, sosegado;Pasamos una tarde tranquila.
+de:adj::gezielt;específico, dirigido, selectivo;Tenemos que fomentar de forma específica.
+de:adj::grundlegend;fundamental, básico, esencial;Es una cuestión fundamental.
+de:adj::hämisch;malicioso, socarrón, con regodeo;Sonrió con malicia.
+de:adj::handverlesen;escogido (a mano), selecto;Los invitados fueron escogidos a dedo.
+de:adj::hartgesotten;curtido, endurecido, aguerrido;Incluso policías curtidos quedaron conmocionados.
+de:adj::heimtückisch;insidioso, traicionero, alevoso;La enfermedad es insidiosa.
+de:adj::hellhörig;receloso, alerta, (vivienda) con mal aislamiento acústico;Con esta oferta me puse alerta.
+de:adj::hochtrabend;grandilocuente, rimbombante, altisonante;Habla de forma muy grandilocuente.
+de:adj::inbrünstig;ferviente, fervoroso, ardiente;Rezó con fervor.
+de:adj::inflationär;inflacionario, excesivo, abusivo;La palabra se usa de forma abusiva.
+de:adj::innig;íntimo, entrañable, profundo;Tienen una relación muy íntima.
+de:adj::klamm;sin blanca, justo de dinero (coloq.), húmedo y frío;Ahora mismo ando algo justo de dinero.
