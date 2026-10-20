@@ -119,6 +119,13 @@ TEXTS = {
         "en": "Here is your first word:",
         "es": "Aquí tienes tu primera palabra:",
     },
+    "bot_updated": {
+        "ru": "🔄 Бот обновлён: меню и кнопки обновлены. Прогресс и настройки сохранены.",
+        "en": "🔄 The bot has been updated: the menu and buttons are refreshed. "
+              "Your progress and settings are kept.",
+        "es": "🔄 El bot se ha actualizado: el menú y los botones están al día. "
+              "Tu progreso y tus ajustes se mantienen.",
+    },
     "welcome_back": {
         "ru": "С возвращением! 👋",
         "en": "Welcome back! 👋",

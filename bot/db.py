@@ -1,7 +1,7 @@
 import sqlite3
 from datetime import date, datetime, timezone
 
-from .config import (ALL_LEVELS, DAY_END, DAY_START, DB_PATH, INTERVAL, LEVELS, TOPICS,
+from .config import (ALL_LEVELS, BOT_VERSION, DAY_END, DAY_START, DB_PATH, INTERVAL, LEVELS, TOPICS,
                      TRANSLATION_LANGS, WORDS_PER_DAY)
 
 SCHEMA = """
@@ -81,6 +81,8 @@ for _tl in TRANSLATION_LANGS:
     for _col in (f"translations_{_tl}", f"example_{_tl}"):
         if _col not in _word_columns:
             conn.execute(f"ALTER TABLE words ADD COLUMN {_col} TEXT NOT NULL DEFAULT ''")
+if "seen_version" not in _user_columns:
+    conn.execute("ALTER TABLE users ADD COLUMN seen_version INTEGER NOT NULL DEFAULT 0")
 # Французский интерфейс убран: у кого он был выбран, переключаем на английский
 conn.execute("UPDATE users SET ui_lang = 'en' WHERE ui_lang = 'fr'")
 conn.commit()
@@ -114,8 +116,8 @@ def get_user(user_id: int) -> sqlite3.Row | None:
 
 def create_user(user_id: int, tz: str) -> None:
     conn.execute(
-        "INSERT OR IGNORE INTO users (id, tz, created_at) VALUES (?, ?, ?)",
-        (user_id, tz, now_utc()),
+        "INSERT OR IGNORE INTO users (id, tz, created_at, seen_version) VALUES (?, ?, ?, ?)",
+        (user_id, tz, now_utc(), BOT_VERSION),
     )
     conn.commit()
 
@@ -124,6 +126,14 @@ def update_user(user_id: int, **fields) -> None:
     cols = ", ".join(f"{k} = ?" for k in fields)
     conn.execute(f"UPDATE users SET {cols} WHERE id = ?", (*fields.values(), user_id))
     conn.commit()
+
+
+def users_to_notify_update() -> list[sqlite3.Row]:
+    """Настроенные пользователи, которые ещё не получили сообщение о текущей версии бота."""
+    return conn.execute(
+        "SELECT * FROM users WHERE level IS NOT NULL AND blocked = 0 AND seen_version < ?",
+        (BOT_VERSION,),
+    ).fetchall()
 
 
 def active_users() -> list[sqlite3.Row]:

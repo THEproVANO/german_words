@@ -14,7 +14,7 @@ from aiogram.exceptions import TelegramForbiddenError
 
 from . import db, keyboards, words
 from .i18n import level_name, t
-from .config import DAILY_QUIZ_SIZE, QUIZ_HOUR, TICK_SECONDS, WEEKLY_QUIZ_SIZE
+from .config import BOT_VERSION, DAILY_QUIZ_SIZE, QUIZ_HOUR, TICK_SECONDS, WEEKLY_QUIZ_SIZE
 
 log = logging.getLogger(__name__)
 
@@ -263,6 +263,23 @@ async def process_user(bot: Bot, user: sqlite3.Row) -> None:
     # Отправляем одно слово за текущий слот; пропущенные (например, во время теста) не догоняем
     db.update_user(user["id"], last_slot_date=today, last_slot_idx=idx)
     await send_new_word(bot, user)
+
+
+async def notify_update(bot: Bot) -> None:
+    """После обновления версии: всем пользователям — сообщение и свежее меню.
+    С паузами, чтобы не упереться в ограничения Telegram на частоту сообщений."""
+    for user in db.users_to_notify_update():
+        lang = user["ui_lang"]
+        try:
+            await bot.send_message(user["id"], t(lang, "bot_updated"),
+                                   reply_markup=keyboards.main_menu(lang))
+        except TelegramForbiddenError:
+            db.update_user(user["id"], blocked=1)
+        except Exception:
+            log.exception("Не удалось отправить сообщение об обновлении %s", user["id"])
+            continue
+        db.update_user(user["id"], seen_version=BOT_VERSION)
+        await asyncio.sleep(0.1)
 
 
 async def scheduler(bot: Bot) -> None:

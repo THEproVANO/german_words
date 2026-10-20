@@ -23,10 +23,12 @@ async def main() -> None:
     dp.include_router(router)
 
     scheduler = asyncio.create_task(service.scheduler(bot))
+    updates = asyncio.create_task(service.notify_update(bot))
     try:
         await dp.start_polling(bot)
     finally:
         scheduler.cancel()
+        updates.cancel()
 
 
 if __name__ == "__main__":
