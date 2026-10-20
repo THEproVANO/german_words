@@ -5447,3 +5447,603 @@ en:noun::staple;alimento básico, elemento básico;El arroz es un alimento bási
 en:noun::hallmark;sello distintivo, seña de identidad;La atención al detalle es el sello distintivo de su obra.
 en:noun::idiosyncrasy;peculiaridad, rareza, manía;Todo el mundo tiene sus pequeñas manías.
 en:noun::quirk;capricho, peculiaridad, rareza;Por un capricho del destino, volvieron a encontrarse años después.
+BIZ:en:noun::redundancy;despido (por reducción de plantilla), recorte de personal;El cierre de la fábrica supone 300 despidos.
+BIZ:en:noun::severance pay;indemnización por despido;Recibió seis meses de indemnización por despido.
+BIZ:en:noun::retirement;jubilación, retiro;Está planificando su jubilación con cuidado.
+BIZ:en:noun::job description;descripción del puesto, funciones del puesto;El contacto con los clientes forma parte de las funciones de mi puesto.
+BIZ:en:noun::workload;carga de trabajo;Mi carga de trabajo se ha duplicado este mes.
+BIZ:en:noun::burnout;agotamiento, síndrome de desgaste profesional, burnout;Las jornadas largas pueden provocar agotamiento.
+BIZ:en:noun::work-life balance;conciliación de la vida laboral y personal, equilibrio entre trabajo y vida personal;El horario flexible mejora la conciliación de la vida laboral y personal.
+BIZ:en:noun::remote work;teletrabajo, trabajo a distancia, trabajo en remoto;El teletrabajo ya es habitual en nuestro equipo.
+BIZ:en:noun::trade union;sindicato;El sindicato convocó una huelga.
+BIZ:en:noun::strike;huelga;La huelga de pilotos provocó la cancelación de cientos de vuelos.
+BIZ:en:noun::freelancer;autónomo, trabajador independiente, freelance;Contratamos a un freelance para diseñar el logotipo.
+BIZ:en:noun::contractor;contratista;El contratista terminó la obra a tiempo.
+BIZ:en:noun::consultant;consultor, asesor;Contrataron a un consultor para revisar su estrategia.
+BIZ:en:noun::accountant;contable, contador;Nuestro contable prepara la declaración de la renta.
+BIZ:en:noun::office;oficina, despacho;Normalmente llego a la oficina a las nueve.
+BIZ:en:noun::meeting;reunión;La reunión se ha pasado al jueves.
+BIZ:en:noun::agenda;orden del día;¿Cuál es el primer punto del orden del día?
+BIZ:en:noun::minutes;acta (de una reunión);¿Quién levanta el acta hoy?
+BIZ:en:noun::chairperson;presidente, presidenta;La presidenta abrió la reunión a las diez.
+BIZ:en:noun::conference call;conferencia telefónica, multiconferencia;Tenemos una conferencia telefónica con el equipo de Estados Unidos.
+BIZ:en:noun::presentation;presentación;Su presentación impresionó a los clientes.
+BIZ:en:noun::report;informe;Tengo que terminar el informe antes del lunes.
+BIZ:en:noun::memo;memorándum, circular interna, nota interna;El gerente envió una circular a toda la plantilla.
+BIZ:en:noun::deadline;plazo, fecha límite;No podemos incumplir este plazo.
+BIZ:en:noun::schedule;agenda, horario, calendario;Tengo la agenda llena esta semana.
+BIZ:en:noun::project;proyecto;El proyecto va con retraso.
+BIZ:en:noun::milestone;hito;Este mes hemos alcanzado un hito importante.
+BIZ:en:noun::paperwork;papeleo, trámites;Pasé toda la mañana con el papeleo.
+BIZ:en:noun::stationery;material de oficina, artículos de papelería;Pedimos material de oficina una vez al mes.
+BIZ:en:noun::business card;tarjeta de visita;Aquí tiene mi tarjeta de visita.
+BIZ:en:noun::business trip;viaje de negocios, viaje de trabajo;Esta semana está fuera en un viaje de negocios.
+BIZ:en:noun::expenses;gastos (de representación o de viaje);Guarde los recibos para solicitar el reembolso de los gastos.
+BIZ:en:noun::feedback;comentarios, valoración, retroalimentación;Gracias por tus útiles comentarios.
+BIZ:en:noun::brainstorming;lluvia de ideas;Hagamos una sesión de lluvia de ideas después de comer.
+BIZ:en:noun::proposal;propuesta;El cliente aceptó nuestra propuesta.
+BIZ:en:noun::follow-up;seguimiento;Mañana enviaré un correo de seguimiento.
+BIZ:en:noun::management;dirección, gerencia;La dirección ha aprobado el nuevo presupuesto.
+BIZ:en:noun::manager;jefe, gerente, responsable;Le pediré a mi jefe un día libre.
+BIZ:en:noun::executive;ejecutivo, directivo;Los altos directivos se reunieron para tratar la crisis.
+BIZ:en:noun::CEO;director ejecutivo, consejero delegado, CEO;El consejero delegado anunció beneficios récord.
+BIZ:en:noun::director;director;La nombraron directora financiera.
+BIZ:en:noun::supervisor;supervisor, encargado;Informe de cualquier problema a su supervisor.
+BIZ:en:noun::leadership;liderazgo, dotes de mando;Demostró un fuerte liderazgo durante la crisis.
+BIZ:en:noun::strategy;estrategia;Necesitamos una nueva estrategia de marketing.
+BIZ:en:noun::objective;objetivo;Nuestro principal objetivo es reducir costes.
+BIZ:en:noun::target;objetivo, meta;En octubre cumplimos nuestro objetivo de ventas.
+BIZ:en:noun::responsibility;responsabilidad, competencia;La contratación es responsabilidad del gerente.
+BIZ:en:noun::delegation;delegación (de tareas);Una buena delegación le ahorra mucho tiempo a un gerente.
+BIZ:en:noun::efficiency;eficiencia;El nuevo sistema mejoró la eficiencia en un 20 por ciento.
+BIZ:en:noun::productivity;productividad;La productividad aumentó tras la formación.
+BIZ:en:noun::performance;rendimiento, resultados;Los resultados de la empresa este año fueron excelentes.
+BIZ:en:noun::KPI;KPI, indicador clave de rendimiento;La satisfacción del cliente es uno de nuestros KPI.
+BIZ:en:noun::risk;riesgo;Toda inversión conlleva cierto riesgo.
+BIZ:en:noun::implementation;implementación, puesta en marcha, ejecución;La implementación del plan llevará un año.
+BIZ:en:noun::workflow;flujo de trabajo;Tenemos que simplificar nuestro flujo de trabajo.
+BIZ:en:noun::bottleneck;cuello de botella;Las aprobaciones son el principal cuello de botella del proceso.
+BIZ:en:noun::compliance;cumplimiento (normativo);El cumplimiento de las normas de seguridad es obligatorio.
+BIZ:en:noun::guideline;directriz, pauta, norma;Por favor, sigan las nuevas directrices para los viajes.
+BIZ:en:noun::finance;finanzas;Es licenciada en finanzas.
+BIZ:en:noun::accounting;contabilidad;Trabaja en contabilidad.
+BIZ:en:noun::budget;presupuesto;El proyecto supera el presupuesto.
+BIZ:en:noun::revenue;ingresos;Los ingresos anuales alcanzaron los cinco millones de euros.
+BIZ:en:noun::turnover;facturación, volumen de negocio;La empresa tiene una facturación de diez millones.
+BIZ:en:noun::profit;beneficio, ganancia;La empresa obtuvo un beneficio de dos millones.
+BIZ:en:noun::loss;pérdida(s);La aerolínea anunció enormes pérdidas.
+BIZ:en:noun::margin;margen;Los márgenes de beneficio son bajos en el comercio minorista.
+BIZ:en:noun::income;ingresos;La mayor parte de nuestros ingresos procede de las exportaciones.
+BIZ:en:noun::expenditure;gasto(s);Debemos reducir nuestros gastos el año que viene.
+BIZ:en:noun::cost;coste, costo;Los costes laborales han aumentado considerablemente.
+BIZ:en:noun::overheads;gastos generales, gastos fijos;Mudarnos a una oficina más pequeña redujo nuestros gastos generales.
+BIZ:en:noun::cash flow;flujo de caja, liquidez;Un flujo de caja deficiente puede hundir a una pequeña empresa.
+BIZ:en:noun::asset;activo, bien;El principal activo de la empresa es su marca.
+BIZ:en:noun::liability;pasivo, deuda, obligación;El pasivo total supera al activo.
+BIZ:en:noun::balance sheet;balance (general);El balance muestra un activo sólido.
+BIZ:en:noun::audit;auditoría;La auditoría anual empieza la semana que viene.
+BIZ:en:noun::auditor;auditor;Los auditores encontraron varios errores.
+BIZ:en:noun::invoice;factura;Por favor, pague la factura en un plazo de 30 días.
+BIZ:en:noun::receipt;recibo, ticket, comprobante;Guarde el recibo para sus archivos.
+BIZ:en:noun::payment;pago;Hoy hemos recibido su pago.
+BIZ:en:noun::instalment;plazo, cuota;Puede pagar en tres plazos mensuales.
+BIZ:en:noun::deposit;depósito, señal, entrada;Pagamos una señal del 20 por ciento.
+BIZ:en:noun::loan;préstamo, crédito;El banco nos concedió un préstamo para máquinas nuevas.
+BIZ:en:noun::debt;deuda;La empresa está muy endeudada.
+BIZ:en:noun::interest;interés, intereses;El préstamo tiene un interés del 5 por ciento.
+BIZ:en:noun::interest rate;tipo de interés, tasa de interés;El banco central volvió a subir los tipos de interés.
+BIZ:en:noun::capital;capital;Necesitamos más capital para expandirnos.
+BIZ:en:noun::investment;inversión;Los inmuebles son una inversión segura.
+BIZ:en:noun::investor;inversor, inversionista;A los inversores les preocupan las nuevas normas.
+BIZ:en:noun::dividend;dividendo;La empresa pagó un dividendo de dos euros por acción.
+BIZ:en:noun::stock market;mercado bursátil, bolsa;La bolsa ha caído bruscamente hoy.
+BIZ:en:noun::stock exchange;bolsa (de valores);La empresa cotiza en la Bolsa de Londres.
+BIZ:en:noun::bond;bono, obligación;Los bonos del Estado se consideran de bajo riesgo.
+BIZ:en:noun::funding;financiación, financiamiento;La startup consiguió financiación de inversores.
+BIZ:en:noun::tax;impuesto(s);Las pequeñas empresas pagan menos impuestos.
+BIZ:en:noun::VAT;IVA;Los precios incluyen el IVA.
+BIZ:en:noun::tax return;declaración de impuestos, declaración de la renta;Tengo que presentar mi declaración de impuestos antes de julio.
+BIZ:en:noun::bookkeeping;contabilidad, teneduría de libros;Lleva la contabilidad de varias pequeñas empresas.
+BIZ:en:noun::forecast;previsión, pronóstico;La previsión de ventas parece optimista.
+BIZ:en:noun::fiscal year;ejercicio fiscal, año fiscal;Nuestro ejercicio fiscal termina en marzo.
+BIZ:en:noun::quarter;trimestre;Las ventas aumentaron en el tercer trimestre.
+BIZ:en:noun::earnings;beneficios, ganancias, resultados;Los beneficios trimestrales superaron las expectativas.
+BIZ:en:noun::valuation;valoración, tasación;La valoración de la startup se duplicó en un año.
+BIZ:en:noun::depreciation;depreciación, amortización;La depreciación reduce el valor de nuestras máquinas.
+BIZ:en:noun::bankruptcy;quiebra, bancarrota;La aerolínea se declaró en quiebra.
+BIZ:en:noun::insolvency;insolvencia;La empresa se enfrenta a la insolvencia.
+BIZ:en:noun::creditor;acreedor;La empresa no pudo pagar a sus acreedores.
+BIZ:en:noun::currency;moneda, divisa;El euro es una moneda fuerte.
+BIZ:en:noun::exchange rate;tipo de cambio, tasa de cambio;El tipo de cambio varía cada día.
+BIZ:en:noun::transaction;transacción, operación;El banco cobra una comisión por cada operación.
+BIZ:en:noun::subsidy;subvención, subsidio;Los agricultores dependen de las subvenciones estatales.
+BIZ:en:noun::shortfall;déficit, falta, insuficiencia;Hay un déficit de dos millones en el presupuesto.
+BIZ:en:noun::break-even point;punto de equilibrio, umbral de rentabilidad;Alcanzaremos el punto de equilibrio el año que viene.
+BIZ:en:noun::return on investment;retorno de la inversión, rentabilidad de la inversión;El retorno de la inversión superó el 15 por ciento.
+BIZ:en:noun::sales;ventas;Las ventas aumentaron un diez por ciento este año.
+BIZ:en:noun::marketing;marketing, mercadotecnia;Trabaja en marketing.
+BIZ:en:noun::market;mercado;Queremos entrar en el mercado asiático.
+BIZ:en:noun::market share;cuota de mercado, participación de mercado;Nuestra cuota de mercado creció hasta el 15 por ciento.
+BIZ:en:noun::market research;estudio de mercado, investigación de mercados;El estudio de mercado muestra una fuerte demanda.
+BIZ:en:noun::brand;marca;Es una de las marcas más conocidas del mundo.
+BIZ:en:noun::advertising;publicidad;Gastamos mucho en publicidad.
+BIZ:en:noun::advertisement;anuncio;Vi su anuncio en el periódico.
+BIZ:en:noun::campaign;campaña;La nueva campaña publicitaria empieza el mes que viene.
+BIZ:en:noun::target group;público objetivo, grupo destinatario;Los padres jóvenes son nuestro principal público objetivo.
+BIZ:en:noun::product;producto;Este producto se vende muy bien en Alemania.
+BIZ:en:noun::goods;mercancías, productos, bienes;Las mercancías se entregaron ayer.
+BIZ:en:noun::service;servicio;Ofrecemos un servicio las 24 horas.
+BIZ:en:noun::price;precio;Los precios subirán el mes que viene.
+BIZ:en:noun::pricing;precios, fijación de precios;Nuestros precios son muy competitivos.
+BIZ:en:noun::discount;descuento;Ofrecemos un descuento del 10 por ciento a los estudiantes.
+BIZ:en:noun::quote;presupuesto, cotización;¿Pueden enviarnos un presupuesto para 500 unidades?
+BIZ:en:noun::order;pedido;Hemos recibido un gran pedido de Japón.
+BIZ:en:noun::deal;trato, acuerdo, negocio;Cerramos el trato anoche.
+BIZ:en:noun::trade fair;feria comercial;Exponemos en una feria comercial en Milán.
+BIZ:en:noun::customer;cliente;El cliente siempre tiene razón.
+BIZ:en:noun::client;cliente;Hoy me reúno con un cliente importante.
+BIZ:en:noun::consumer;consumidor;Los consumidores gastan menos este año.
+BIZ:en:noun::customer service;atención al cliente, servicio de atención al cliente;Póngase en contacto con atención al cliente si necesita ayuda.
+BIZ:en:noun::complaint;queja, reclamación;Recibimos varias quejas por el retraso.
+BIZ:en:noun::refund;reembolso, devolución (del dinero);Puede obtener el reembolso íntegro en un plazo de 30 días.
+BIZ:en:noun::warranty;garantía;La impresora tiene una garantía de dos años.
+BIZ:en:noun::inquiry;consulta, solicitud de información;Gracias por su consulta sobre nuestros precios.
+BIZ:en:noun::negotiation;negociación;Las negociaciones duraron tres días.
+BIZ:en:noun::concession;concesión;No estamos dispuestos a hacer ninguna concesión.
+BIZ:en:noun::counteroffer;contraoferta;El comprador hizo una contraoferta.
+BIZ:en:noun::terms;condiciones, términos;Acordamos las condiciones del contrato.
+BIZ:en:noun::agreement;acuerdo, contrato, convenio;Ambas partes firmaron el acuerdo.
+BIZ:en:noun::deadlock;punto muerto, estancamiento;Las conversaciones han llegado a un punto muerto.
+BIZ:en:noun::leverage;poder de negociación, influencia, ventaja;Un pedido grande nos da más poder de negociación.
+BIZ:en:noun::supplier;proveedor;Buscamos un proveedor más barato.
+BIZ:en:noun::logistics;logística;La logística es una parte clave de nuestro negocio.
+BIZ:en:noun::supply chain;cadena de suministro;La crisis alteró las cadenas de suministro mundiales.
+BIZ:en:noun::delivery;entrega, envío, reparto;Envío gratuito en pedidos superiores a 50 euros.
+BIZ:en:noun::shipment;envío, remesa, cargamento;El envío llegó con dos días de retraso.
+BIZ:en:noun::freight;flete, transporte de mercancías, carga;Los costes de transporte de mercancías se han duplicado este año.
+BIZ:en:noun::warehouse;almacén;Las mercancías se guardan en nuestro almacén.
+BIZ:en:noun::inventory;inventario, existencias;Tenemos que reducir nuestro inventario.
+BIZ:en:noun::stock;existencias, stock;Este artículo está agotado.
+BIZ:en:noun::procurement;compras, aprovisionamiento, adquisiciones;El departamento de compras gestiona todos los contratos con proveedores.
+BIZ:en:noun::distribution;distribución;Tenemos una sólida red de distribución en Europa.
+BIZ:en:noun::retail;comercio minorista, venta al por menor;Lleva años trabajando en el comercio minorista.
+BIZ:en:noun::retailer;minorista, comerciante minorista;Los grandes minoristas están cerrando tiendas.
+BIZ:en:noun::customs;aduana;Las mercancías están retenidas en la aduana.
+BIZ:en:noun::tariff;arancel;El gobierno subió los aranceles al acero.
+BIZ:en:noun::economy;economía;La economía crece lentamente.
+BIZ:en:noun::inflation;inflación;La inflación alcanzó el cinco por ciento el mes pasado.
+BIZ:en:noun::recession;recesión;Muchas empresas cerraron durante la recesión.
+BIZ:en:noun::growth;crecimiento;El crecimiento económico se desaceleró este año.
+BIZ:en:noun::demand;demanda;La demanda de coches eléctricos está aumentando.
+BIZ:en:noun::unemployment;desempleo, paro;El desempleo bajó al cuatro por ciento.
+BIZ:en:noun::GDP;PIB;El PIB del país creció un dos por ciento.
+BIZ:en:noun::trade;comercio;El comercio entre los dos países está creciendo.
+BIZ:en:noun::downturn;recesión, desaceleración, caída;Las ventas cayeron durante la recesión económica.
+BIZ:en:noun::clause;cláusula;Revise la cláusula de cancelación del contrato.
+BIZ:en:noun::breach;incumplimiento, infracción;Esto es un claro incumplimiento de contrato.
+BIZ:en:noun::lawsuit;demanda, pleito;El cliente presentó una demanda contra la empresa.
+BIZ:en:noun::patent;patente;La empresa tiene la patente de este diseño.
+BIZ:en:noun::trademark;marca registrada, marca comercial;El logotipo es una marca registrada.
+BIZ:en:noun::copyright;derechos de autor;Los derechos de autor pertenecen a la editorial.
+BIZ:en:noun::regulation;normativa, reglamento, regulación;La nueva normativa afecta a todos los bancos.
+BIZ:en:noun::licence;licencia, permiso;Se necesita una licencia para vender alcohol.
+BIZ:en:noun::lawyer;abogado;Nuestro abogado revisó el acuerdo.
+BIZ:en:noun::confidentiality;confidencialidad;El personal debe firmar un acuerdo de confidencialidad.
+BIZ:en:noun::dispute;litigio, conflicto, disputa;El litigio se resolvió de forma extrajudicial.
+BIZ:en:noun::penalty;penalización, multa, sanción;La entrega tardía conllevará una penalización.
+BIZ:en:noun::entrepreneur;emprendedor, empresario;Es una joven emprendedora de éxito.
+BIZ:en:noun::entrepreneurship;emprendimiento, espíritu emprendedor;La universidad enseña emprendimiento.
+BIZ:en:noun::business plan;plan de negocio;El banco quiere ver su plan de negocio.
+BIZ:en:noun::venture capital;capital riesgo, capital de riesgo;La startup consiguió capital riesgo en su primer año.
+BIZ:en:noun::self-employment;trabajo por cuenta propia, autoempleo;Trabajar por cuenta propia te da más libertad.
+BIZ:en:noun::niche;nicho (de mercado);Encontraron un nicho rentable en la comida para mascotas.
+BIZ:en:noun::pitch;presentación (de venta o de una idea), pitch;Su presentación convenció a los inversores.
+BIZ:en:verb::hire;contratar;El mes pasado contratamos a tres ingenieros nuevos.
+BIZ:en:verb::employ;emplear, dar trabajo;La fábrica emplea a 500 personas.
+BIZ:en:verb::recruit;contratar, reclutar, captar (personal);Estamos contratando personal de ventas.
+BIZ:en:verb::apply;solicitar, presentar una solicitud;Solicitó un puesto de trabajo en el banco.
+BIZ:en:verb::fire;despedir, echar;Lo despidieron por llegar tarde todos los días.
+BIZ:en:verb::dismiss;despedir, destituir;La empresa despidió a dos gerentes.
+BIZ:en:verb::resign;dimitir, renunciar;El director dimitió tras el escándalo.
+BIZ:en:verb::retire;jubilarse, retirarse;Mi padre se jubiló a los 65 años.
+BIZ:en:verb::promote;ascender;La ascendieron a gerente sénior.
+BIZ:en:verb::earn;ganar (dinero);Gana unos 4.000 euros al mes.
+BIZ:en:verb::train;formar, capacitar;Formamos a todo el personal nuevo durante dos semanas.
+BIZ:en:verb::manage;dirigir, gestionar;Dirige un equipo de doce personas.
+BIZ:en:verb::run;dirigir, llevar (un negocio);Lleva un pequeño hotel junto al mar.
+BIZ:en:verb::lead;dirigir, liderar;Dirigió el proyecto de principio a fin.
+BIZ:en:verb::delegate;delegar;Los buenos gerentes delegan las tareas rutinarias.
+BIZ:en:verb::supervise;supervisar;Supervisa el turno de noche.
+BIZ:en:verb::approve;aprobar;El consejo aprobó el presupuesto.
+BIZ:en:verb::implement;implementar, poner en marcha, aplicar;Implementaremos el nuevo sistema en mayo.
+BIZ:en:verb::achieve;lograr, alcanzar, conseguir;El equipo alcanzó todos sus objetivos.
+BIZ:en:verb::meet;cumplir (un plazo, un objetivo);Cumplimos el plazo justo a tiempo.
+BIZ:en:verb::postpone;aplazar, posponer;Tuvimos que aplazar el lanzamiento.
+BIZ:en:verb::cancel;cancelar, anular;El cliente canceló el pedido.
+BIZ:en:verb::attend;asistir (a);Veinte personas asistieron a la reunión.
+BIZ:en:verb::chair;presidir;¿Quién va a presidir la reunión hoy?
+BIZ:en:verb::present;presentar, exponer;Presentó los resultados al consejo.
+BIZ:en:verb::discuss;hablar de, tratar, discutir;Hablemos de esto después de comer.
+BIZ:en:verb::negotiate;negociar;Negociamos un precio mejor.
+BIZ:en:verb::agree;acordar, ponerse de acuerdo;Ambas partes se pusieron de acuerdo sobre el precio.
+BIZ:en:verb::sign;firmar;Por favor, firme el contrato aquí.
+BIZ:en:verb::invest;invertir;Invirtieron millones en nueva tecnología.
+BIZ:en:verb::borrow;pedir prestado, tomar prestado;La empresa pidió dinero prestado para expandirse.
+BIZ:en:verb::lend;prestar, conceder préstamos;Los bancos están prestando menos a las pequeñas empresas.
+BIZ:en:verb::owe;deber;La empresa le debe dos millones al banco.
+BIZ:en:verb::charge;cobrar;Cobran 50 euros la hora.
+BIZ:en:verb::afford;permitirse, poder pagar;No podemos permitirnos una oficina más grande.
+BIZ:en:verb::sell;vender;Vendimos 2.000 unidades en marzo.
+BIZ:en:verb::purchase;comprar, adquirir;La empresa adquirió equipos nuevos.
+BIZ:en:verb::deliver;entregar, repartir;La mercancía se entregará el viernes.
+BIZ:en:verb::ship;enviar, despachar;Enviamos los pedidos en un plazo de 24 horas.
+BIZ:en:verb::supply;suministrar, abastecer, proveer;Suministran piezas a fabricantes de automóviles.
+BIZ:en:verb::export;exportar;Alemania exporta muchos coches a China.
+BIZ:en:verb::import;importar;Importamos café de Brasil.
+BIZ:en:verb::advertise;anunciar, publicitar;Anunciaron el puesto en internet.
+BIZ:en:verb::launch;lanzar;La empresa lanzó un nuevo producto.
+BIZ:en:verb::compete;competir;Las tiendas pequeñas no pueden competir con los supermercados.
+BIZ:en:verb::expand;expandirse, ampliar;La empresa se expandió a Asia.
+BIZ:en:verb::grow;crecer;Nuestro negocio creció un 20 por ciento.
+BIZ:en:verb::decline;disminuir, bajar, caer;Las ventas disminuyeron en el último trimestre.
+BIZ:en:verb::increase;aumentar, subir;Subimos los precios un cinco por ciento.
+BIZ:en:verb::reduce;reducir, recortar;Este año debemos reducir costes.
+BIZ:en:verb::outsource;externalizar, subcontratar;Externalizamos nuestro servicio de atención al cliente.
+BIZ:en:verb::merge;fusionarse;Los dos bancos se fusionaron el año pasado.
+BIZ:en:verb::acquire;adquirir, comprar;Google adquirió la empresa en 2014.
+BIZ:en:verb::found;fundar;La empresa se fundó en 1998.
+BIZ:en:verb::establish;establecer, crear, fundar;Abrieron una oficina en Dubái.
+BIZ:en:verb::restructure;reestructurar;El banco está reestructurando sus operaciones.
+BIZ:en:verb::comply;cumplir (con), ajustarse (a);Todos los productos deben cumplir la normativa de la UE.
+BIZ:en:verb::sue;demandar;El cliente demandó a la empresa por daños y perjuicios.
+BIZ:en:verb::terminate;rescindir, resolver, poner fin a;Rescindieron el contrato anticipadamente.
+BIZ:en:verb::settle;liquidar, saldar, pagar;Por favor, abone la factura en un plazo de 14 días.
+BIZ:en:verb::reimburse;reembolsar;La empresa le reembolsará los gastos de viaje.
+BIZ:en:verb::assess;evaluar, valorar;Primero tenemos que evaluar los riesgos.
+BIZ:en:verb::evaluate;evaluar;Evaluamos a tres proveedores.
+BIZ:en:verb::prioritise;priorizar, dar prioridad a;Tienes que priorizar tus tareas.
+BIZ:en:verb::collaborate;colaborar;Colaboramos estrechamente con nuestros socios.
+BIZ:en:verb::outperform;superar, tener mejores resultados que;Nuestras acciones superaron al mercado.
+BIZ:en:verb::go bankrupt;quebrar, ir a la quiebra, declararse en bancarrota;La aerolínea quebró el año pasado.
+BIZ:en:verb::set up;montar, crear, fundar;Montó su propia empresa en 2015.
+BIZ:en:verb::take over;adquirir, absorber, hacerse con el control de;Una empresa estadounidense adquirió la compañía.
+BIZ:en:verb::lay off;despedir (por falta de trabajo o recortes);La fábrica despidió a 200 trabajadores.
+BIZ:en:verb::take on;contratar;Este verano vamos a contratar personal nuevo.
+BIZ:en:verb::draw up;redactar, elaborar;El abogado redactó el contrato.
+BIZ:en:verb::carry out;realizar, llevar a cabo;Realizamos una encuesta a los clientes.
+BIZ:en:verb::follow up;hacer un seguimiento, volver a contactar;Mañana volveré a contactar con el cliente.
+BIZ:en:verb::put off;aplazar, posponer;Aplazaron la decisión hasta mayo.
+BIZ:en:verb::call off;suspender, cancelar, desconvocar;Se desconvocó la huelga.
+BIZ:en:verb::bring forward;adelantar;La reunión se adelantó al lunes.
+BIZ:en:verb::cut back;recortar, reducir (gastos);Tenemos que recortar en viajes.
+BIZ:en:verb::turn down;rechazar;Rechazó la oferta de trabajo.
+BIZ:en:verb::sort out;resolver, solucionar, arreglar;¿Puedes resolver este problema hoy?
+BIZ:en:verb::deal with;ocuparse de, encargarse de, tratar con;Se ocupa de las quejas de los clientes.
+BIZ:en:verb::go through;repasar, revisar;Repasemos las cifras de nuevo.
+BIZ:en:verb::look into;investigar, estudiar, examinar;Investigaremos su queja.
+BIZ:en:verb::point out;señalar, indicar;Señaló un error en el informe.
+BIZ:en:verb::run out of;quedarse sin, agotarse;Nos hemos quedado sin papel.
+BIZ:en:verb::break even;cubrir gastos, alcanzar el punto de equilibrio;La tienda cubrió gastos en su segundo año.
+BIZ:en:verb::close down;cerrar (definitivamente);La fábrica cerró en 2010.
+BIZ:en:verb::hand in;entregar, presentar;Ayer presentó su dimisión.
+BIZ:en:verb::fill in;rellenar, llenar (un formulario);Por favor, rellene este formulario de solicitud.
+BIZ:en:verb::step down;dimitir, renunciar, dejar el cargo;El consejero delegado dejó el cargo después de diez años.
+BIZ:en:verb::take off;despegar, dispararse (ventas, éxito);Las ventas se dispararon de verdad tras el anuncio.
+BIZ:en:verb::pay off;dar fruto, merecer la pena;Nuestro duro trabajo por fin dio sus frutos.
+BIZ:en:verb::get back to;volver a contactar, responder más tarde;Le responderé antes del viernes.
+BIZ:en:verb::phase out;retirar gradualmente, eliminar progresivamente;El modelo antiguo se retirará gradualmente.
+BIZ:en:verb::roll out;implantar, lanzar (progresivamente);El banco está implantando un nuevo servicio.
+BIZ:en:verb::wind up;liquidar, disolver (una empresa);La empresa se liquidó el año pasado.
+BIZ:en:verb::team up;asociarse, unir fuerzas;Nos asociamos con un socio francés.
+BIZ:en:adj::profitable;rentable, lucrativo;Es un negocio muy rentable.
+BIZ:en:adj::commercial;comercial;La película fue un éxito comercial.
+BIZ:en:adj::financial;financiero, económico;La empresa tiene problemas económicos.
+BIZ:en:adj::economic;económico;La situación económica está mejorando.
+BIZ:en:adj::competitive;competitivo;Nuestros precios son muy competitivos.
+BIZ:en:adj::corporate;corporativo, empresarial;Trabaja en finanzas corporativas.
+BIZ:en:adj::professional;profesional;Hizo una presentación muy profesional.
+BIZ:en:adj::efficient;eficiente, eficaz;Es una gerente muy eficiente.
+BIZ:en:adj::productive;productivo;Fue una reunión muy productiva.
+BIZ:en:adj::urgent;urgente;Tengo que hacer una llamada urgente.
+BIZ:en:adj::confidential;confidencial;Esta información es estrictamente confidencial.
+BIZ:en:adj::legal;jurídico, legal;Necesitamos asesoramiento jurídico antes de firmar.
+BIZ:en:adj::illegal;ilegal;La fijación de precios es ilegal.
+BIZ:en:adj::binding;vinculante;El acuerdo es jurídicamente vinculante.
+BIZ:en:adj::full-time;a tiempo completo, a jornada completa;Tiene un trabajo a tiempo completo.
+BIZ:en:adj::part-time;a tiempo parcial, a media jornada;Trabaja a tiempo parcial en una tienda.
+BIZ:en:adj::temporary;temporal;Tiene un contrato temporal.
+BIZ:en:adj::permanent;fijo, indefinido, permanente;Le ofrecieron un puesto fijo.
+BIZ:en:adj::self-employed;autónomo, por cuenta propia;Mi hermano es autónomo.
+BIZ:en:adj::unemployed;desempleado, parado, en paro;Lleva un año en paro.
+BIZ:en:adj::qualified;cualificado, calificado, titulado;Necesitamos ingenieros cualificados.
+BIZ:en:adj::experienced;experimentado, con experiencia;Buscamos un contable con experiencia.
+BIZ:en:adj::senior;sénior, de alto rango, superior;Es gerente sénior en el banco.
+BIZ:en:adj::junior;júnior, subalterno, de rango inferior;Empezó como analista júnior.
+BIZ:en:adj::annual;anual;El informe anual sale la semana que viene.
+BIZ:en:adj::quarterly;trimestral;Publicamos resultados trimestrales.
+BIZ:en:adj::gross;bruto;Su salario bruto es de 60.000 al año.
+BIZ:en:adj::net;neto;El beneficio neto aumentó un ocho por ciento.
+BIZ:en:adj::fixed;fijo;El alquiler es uno de nuestros costes fijos.
+BIZ:en:adj::overdue;vencido, atrasado, pendiente;Esta factura lleva dos semanas vencida.
+BIZ:en:adj::outstanding;pendiente (de pago);Hay tres pagos pendientes.
+BIZ:en:adj::bankrupt;en quiebra, en bancarrota;La empresa está ahora en quiebra.
+BIZ:en:adj::lucrative;lucrativo, rentable;Consiguieron un contrato lucrativo.
+BIZ:en:adj::sustainable;sostenible;Queremos un crecimiento sostenible.
+BIZ:en:adj::strategic;estratégico;Es una decisión estratégica.
+BIZ:en:adj::operational;operativo;Nos enfrentamos a varios problemas operativos.
+BIZ:en:adj::feasible;viable, factible;¿Es el plan viable desde el punto de vista financiero?
+BIZ:en:adj::cost-effective;rentable, económico, eficiente en costes;Esta es la solución más rentable.
+BIZ:en:adj::wholesale;al por mayor, mayorista;Compramos a precios al por mayor.
+BIZ:en:adj::flexible;flexible;Ofrecemos un horario de trabajo flexible.
+BIZ:en:adj::reliable;fiable, confiable;Necesitamos un proveedor fiable.
+BIZ:en:adj::customer-oriented;orientado al cliente;Somos una empresa orientada al cliente.
+BIZ:en:adj::entrepreneurial;emprendedor, empresarial;Tiene un gran espíritu emprendedor.
+BIZ:en:adj::multinational;multinacional;Trabaja para una empresa multinacional.
+BIZ:en:adj::state-owned;estatal, de propiedad estatal, público;La aerolínea es de propiedad estatal.
+BIZ:en:adj::listed;cotizado (en bolsa);Es una empresa que cotiza en bolsa.
+BIZ:en:verb::outline;esbozar, exponer a grandes rasgos;Expuso a grandes rasgos el plan para el año que viene.
+BIZ:en:verb::consult;consultar;Primero deberías consultar a un abogado.
+BIZ:en:verb::allocate;asignar, destinar;Destinamos más dinero al marketing.
+BIZ:en:verb::generate;generar;El nuevo producto generó enormes beneficios.
+BIZ:en:verb::diversify;diversificar(se);La empresa se diversificó hacia los productos sanitarios.
+BIZ:en:verb::cut;recortar, suprimir, reducir;La empresa suprimió 500 puestos de trabajo.
+BIZ:en:adj::in charge;a cargo, responsable, al mando;¿Quién está a cargo de este proyecto?
+BIZ:en:adj::accountable;responsable (de rendir cuentas);Los gerentes son responsables de sus presupuestos.
+BIZ:en:noun::hardware;hardware, equipo (informático);Tenemos que actualizar el hardware de la oficina.
+BIZ:en:noun::device;dispositivo, aparato;Reinicie el dispositivo y vuelva a intentarlo.
+BIZ:en:noun::laptop;portátil, ordenador portátil, laptop;Cada nuevo empleado recibe un portátil de la empresa.
+BIZ:en:noun::desktop;escritorio (de la pantalla);Por ahora, guarda el archivo en el escritorio.
+BIZ:en:noun::monitor;monitor, pantalla;En mi mesa trabajo con dos monitores.
+BIZ:en:noun::keyboard;teclado;Mi teclado dejó de funcionar después de la actualización.
+BIZ:en:noun::mouse;ratón, mouse;El ratón inalámbrico necesita pilas nuevas.
+BIZ:en:noun::printer;impresora;La impresora de la segunda planta se ha quedado sin papel.
+BIZ:en:noun::scanner;escáner;Usa el escáner para hacer una copia digital.
+BIZ:en:noun::processor;procesador;Este portátil tiene un procesador rápido.
+BIZ:en:noun::memory;memoria;El servidor se está quedando sin memoria.
+BIZ:en:noun::storage;almacenamiento, espacio de almacenamiento;Necesitamos más espacio de almacenamiento para las copias de seguridad.
+BIZ:en:noun::hard drive;disco duro;El viejo disco duro por fin se estropeó.
+BIZ:en:noun::screen;pantalla;¿Puedes compartir tu pantalla durante la llamada?
+BIZ:en:noun::touchscreen;pantalla táctil;La tableta tiene una pantalla táctil grande.
+BIZ:en:noun::tablet;tableta, tablet;El equipo de ventas usa tabletas en las reuniones.
+BIZ:en:noun::smartphone;smartphone, teléfono inteligente, móvil;La aplicación funciona en cualquier smartphone.
+BIZ:en:noun::charger;cargador;Me he dejado el cargador del portátil en casa.
+BIZ:en:noun::cable;cable;Conecta el cable en la parte trasera del monitor.
+BIZ:en:noun::port;puerto;Este portátil solo tiene dos puertos USB.
+BIZ:en:noun::headset;auriculares con micrófono, cascos;Por favor, usa auriculares con micrófono para las videollamadas.
+BIZ:en:noun::webcam;cámara web, webcam;Hoy no me funciona la cámara web.
+BIZ:en:noun::router;router, enrutador;Prueba primero a reiniciar el router.
+BIZ:en:noun::server;servidor;El sitio web está alojado en nuestro propio servidor.
+BIZ:en:noun::peripheral;periférico;Las impresoras y los escáneres son periféricos típicos.
+BIZ:en:noun::software;software, programas;La empresa solo usa software con licencia.
+BIZ:en:noun::app;aplicación, app;Descarga la aplicación de la tienda oficial.
+BIZ:en:noun::program;programa;Este programa convierte archivos PDF a Word.
+BIZ:en:noun::operating system;sistema operativo;¿Qué sistema operativo usas?
+BIZ:en:noun::version;versión;Por favor, instala la última versión del navegador.
+BIZ:en:noun::feature;función, funcionalidad;La nueva función ahorra mucho tiempo.
+BIZ:en:noun::settings;configuración, ajustes;Puedes cambiar el idioma en la configuración.
+BIZ:en:noun::license;licencia;Tenemos que renovar la licencia del software.
+BIZ:en:noun::interface;interfaz;La nueva interfaz es mucho más fácil de usar.
+BIZ:en:noun::user;usuario;El sistema tiene más de diez mil usuarios.
+BIZ:en:noun::menu;menú;Haz clic en el menú de la esquina superior.
+BIZ:en:noun::icon;icono;Haz doble clic en el icono para abrir el programa.
+BIZ:en:noun::window;ventana;Cierra esta ventana y abre una nueva.
+BIZ:en:noun::tab;pestaña;Tengo demasiadas pestañas abiertas en el navegador.
+BIZ:en:noun::folder;carpeta;Pon todos los archivos del proyecto en una sola carpeta.
+BIZ:en:noun::file;archivo, fichero;El archivo es demasiado grande para enviarlo por correo electrónico.
+BIZ:en:noun::attachment;archivo adjunto, adjunto;Se me olvidó añadir el archivo adjunto a mi correo.
+BIZ:en:noun::shortcut;atajo (de teclado), acceso directo;Usa este atajo de teclado para copiar texto.
+BIZ:en:noun::plugin;complemento, plugin, extensión;Instala el complemento para añadir la corrección ortográfica.
+BIZ:en:noun::browser;navegador;El sitio se ve diferente en cada navegador.
+BIZ:en:noun::spreadsheet;hoja de cálculo;Guarda todas las cifras en una hoja de cálculo.
+BIZ:en:noun::tool;herramienta;Esta herramienta nos ayuda a hacer el seguimiento de las tareas.
+BIZ:en:noun::internet;internet;No hay internet en todo el edificio.
+BIZ:en:noun::network;red;Conéctate primero a la red de la oficina.
+BIZ:en:noun::connection;conexión;La conexión se corta una y otra vez durante las llamadas.
+BIZ:en:noun::bandwidth;ancho de banda;Las videollamadas consumen mucho ancho de banda.
+BIZ:en:noun::wi-fi;wifi, red inalámbrica;¿Cuál es la contraseña del wifi aquí?
+BIZ:en:noun::website;sitio web, página web, web;Nuestro sitio web recibe miles de visitas al día.
+BIZ:en:noun::web page;página web;Esta página web carga muy despacio.
+BIZ:en:noun::link;enlace, vínculo;Te enviaré el enlace al documento.
+BIZ:en:noun::domain;dominio;Compramos un dominio nuevo para el proyecto.
+BIZ:en:noun::IP address;dirección IP;Cada dispositivo de la red tiene una dirección IP.
+BIZ:en:noun::protocol;protocolo;El protocolo define cómo se envían los datos.
+BIZ:en:noun::host;host, servidor (anfitrión);El host no responde a las solicitudes.
+BIZ:en:noun::hosting;alojamiento web, hosting;Pagamos el alojamiento web todos los meses.
+BIZ:en:noun::traffic;tráfico;El tráfico del sitio web se duplicó tras la campaña.
+BIZ:en:noun::latency;latencia;Una latencia alta hace que el juego sea injugable.
+BIZ:en:noun::proxy;proxy, servidor proxy;Todas las solicitudes pasan por un proxy.
+BIZ:en:noun::VPN;VPN, red privada virtual;Usa la VPN cuando trabajes desde casa.
+BIZ:en:noun::URL;URL, dirección web;Copia la URL de la barra de direcciones.
+BIZ:en:noun::search engine;buscador, motor de búsqueda;La mayoría de los visitantes nos encuentran a través de un buscador.
+BIZ:en:noun::cookie;cookie;El sitio utiliza cookies para recordar tu inicio de sesión.
+BIZ:en:noun::outage;caída (del servicio), interrupción, apagón;La caída del servicio duró casi tres horas.
+BIZ:en:noun::downtime;tiempo de inactividad, parada;Programamos la parada para la noche del domingo.
+BIZ:en:noun::uptime;tiempo de actividad, disponibilidad;El servicio tiene una disponibilidad del 99,9 por ciento.
+BIZ:en:noun::code;código;Escribe código limpio y legible.
+BIZ:en:noun::programming;programación;Aprendió programación en la universidad.
+BIZ:en:noun::developer;desarrollador;Estamos contratando a dos desarrolladores de backend.
+BIZ:en:noun::programmer;programador;El programador solucionó el problema en una hora.
+BIZ:en:noun::bug;error, fallo, bug;Encontramos un error en el módulo de pagos.
+BIZ:en:noun::error;error;El sistema muestra un error cuando inicio sesión.
+BIZ:en:noun::error message;mensaje de error;Envíame una captura de pantalla del mensaje de error.
+BIZ:en:noun::patch;parche;Instala el parche de seguridad lo antes posible.
+BIZ:en:noun::deployment;despliegue, implementación;Esta vez el despliegue fue sin problemas.
+BIZ:en:noun::repository;repositorio;Clona el repositorio en tu máquina local.
+BIZ:en:noun::pull request;pull request, solicitud de incorporación de cambios;Por favor, revisa mi pull request hoy.
+BIZ:en:noun::code review;revisión de código;Cada cambio pasa por una revisión de código.
+BIZ:en:noun::source code;código fuente;El código fuente está disponible en GitHub.
+BIZ:en:noun::function;función;Esta función devuelve el precio total.
+BIZ:en:noun::variable;variable;Dale a la variable un nombre significativo.
+BIZ:en:noun::loop;bucle;El programa se quedó atascado en un bucle infinito.
+BIZ:en:noun::library;biblioteca (de software), librería;Usamos una biblioteca de código abierto para los gráficos.
+BIZ:en:noun::framework;framework, marco de trabajo;¿Qué framework usas para el frontend?
+BIZ:en:noun::algorithm;algoritmo;El algoritmo de búsqueda es muy eficiente.
+BIZ:en:noun::API;API, interfaz de programación de aplicaciones;Los socios se conectan con nosotros a través de una API.
+BIZ:en:noun::frontend;frontend, parte del cliente;Trabaja principalmente en el frontend.
+BIZ:en:noun::backend;backend, parte del servidor;El backend gestiona todos los pagos.
+BIZ:en:noun::script;script;Escribí un pequeño script para renombrar los archivos.
+BIZ:en:noun::syntax;sintaxis;La sintaxis de este lenguaje es sencilla.
+BIZ:en:noun::compiler;compilador;El compilador muestra una advertencia en la línea diez.
+BIZ:en:noun::test;prueba, test;Todas las pruebas pasaron después del cambio.
+BIZ:en:noun::unit test;prueba unitaria;Escribe una prueba unitaria para cada función nueva.
+BIZ:en:noun::testing;pruebas, testeo;Las pruebas ocupan casi la mitad de nuestro tiempo.
+BIZ:en:noun::environment;entorno;Prueba primero el cambio en el entorno de preproducción.
+BIZ:en:noun::production;producción (entorno);Nunca pruebes código nuevo directamente en producción.
+BIZ:en:noun::documentation;documentación;La documentación explica cómo instalar la herramienta.
+BIZ:en:noun::open source;código abierto;Hoy en día muchas empresas dependen del código abierto.
+BIZ:en:noun::prototype;prototipo;Le mostramos al cliente un prototipo funcional.
+BIZ:en:noun::requirement;requisito;Los requisitos cambiaron a mitad del proyecto.
+BIZ:en:noun::dependency;dependencia;Este proyecto tiene demasiadas dependencias.
+BIZ:en:noun::data;datos;Recopilamos datos sobre cómo usan los clientes la aplicación.
+BIZ:en:noun::database;base de datos;Todos los pedidos se guardan en la base de datos.
+BIZ:en:noun::table;tabla;Añade una columna nueva a la tabla de usuarios.
+BIZ:en:noun::query;consulta;Esta consulta tarda demasiado en ejecutarse.
+BIZ:en:noun::record;registro;La tabla contiene alrededor de un millón de registros.
+BIZ:en:noun::field;campo;El campo del correo electrónico no puede estar vacío.
+BIZ:en:noun::backup;copia de seguridad;Hacemos una copia de seguridad completa cada noche.
+BIZ:en:noun::dataset;conjunto de datos, dataset;El conjunto de datos incluye las ventas de cinco años.
+BIZ:en:noun::analytics;analítica;La analítica web muestra dónde abandonan los usuarios el sitio.
+BIZ:en:noun::dashboard;panel (de control), dashboard;El panel muestra todas las métricas clave en tiempo real.
+BIZ:en:noun::format;formato;Guarda el informe en formato PDF.
+BIZ:en:noun::migration;migración;La migración de datos llevó todo el fin de semana.
+BIZ:en:noun::big data;big data, macrodatos;Los bancos usan el big data para detectar fraudes.
+BIZ:en:noun::cloud;nube;Todos nuestros archivos están guardados en la nube.
+BIZ:en:noun::cloud computing;computación en la nube;La computación en la nube redujo nuestros costes de hardware.
+BIZ:en:noun::provider;proveedor;Nos cambiamos a un nuevo proveedor de nube.
+BIZ:en:noun::instance;instancia;Inicia otra instancia para soportar la carga.
+BIZ:en:noun::virtual machine;máquina virtual;Cada desarrollador tiene una máquina virtual para hacer pruebas.
+BIZ:en:noun::container;contenedor;La aplicación se ejecuta en un contenedor Docker.
+BIZ:en:noun::scalability;escalabilidad;La escalabilidad es importante para un servicio en crecimiento.
+BIZ:en:noun::load;carga;Los servidores pueden soportar una carga elevada.
+BIZ:en:noun::infrastructure;infraestructura;Trasladamos nuestra infraestructura a la nube.
+BIZ:en:noun::data center;centro de datos;La empresa construyó un nuevo centro de datos en Finlandia.
+BIZ:en:noun::subscription;suscripción;El software solo está disponible mediante suscripción.
+BIZ:en:noun::pipeline;pipeline, cadena (de integración);El pipeline de compilación se ejecuta en cada commit.
+BIZ:en:noun::build;compilación, build;La última compilación falló por culpa de una prueba.
+BIZ:en:noun::automation;automatización;La automatización le ahorra a nuestro equipo muchas horas a la semana.
+BIZ:en:noun::monitoring;monitorización, supervisión, monitoreo;Una buena monitorización nos ayuda a detectar problemas a tiempo.
+BIZ:en:noun::log;registro, log;Revisa los registros para ver qué falló.
+BIZ:en:noun::rollback;reversión, rollback;Hicimos una reversión tras el lanzamiento fallido.
+BIZ:en:noun::configuration;configuración;Un pequeño error de configuración estropeó el sitio web.
+BIZ:en:noun::incident;incidente, incidencia;El equipo redactó un informe sobre el incidente.
+BIZ:en:noun::alert;alerta, aviso;Recibí una alerta de que el disco está casi lleno.
+BIZ:en:noun::security;seguridad;La seguridad de los datos es nuestra máxima prioridad.
+BIZ:en:noun::cybersecurity;ciberseguridad;La empresa invierte mucho en ciberseguridad.
+BIZ:en:noun::encryption;cifrado, encriptación;Todos los mensajes están protegidos mediante cifrado.
+BIZ:en:noun::firewall;cortafuegos, firewall;El cortafuegos bloqueó la conexión sospechosa.
+BIZ:en:noun::password;contraseña;Cambia tu contraseña cada tres meses.
+BIZ:en:noun::login;datos de acceso, inicio de sesión;No recuerdo mis datos de acceso a este sitio.
+BIZ:en:noun::username;nombre de usuario;Introduce tu nombre de usuario y contraseña.
+BIZ:en:noun::account;cuenta;Su cuenta ha sido bloqueada por motivos de seguridad.
+BIZ:en:noun::authentication;autenticación;Usamos la autenticación en dos pasos para todo el personal.
+BIZ:en:noun::access;acceso;Necesitas acceso de administrador para instalar software.
+BIZ:en:noun::permission;permiso;No tienes permiso para editar este archivo.
+BIZ:en:noun::virus;virus;El virus se propagó a través de un archivo adjunto de correo.
+BIZ:en:noun::malware;malware, software malicioso;El antivirus encontró malware en mi portátil.
+BIZ:en:noun::phishing;phishing, suplantación de identidad;Ten cuidado con los correos de phishing que piden contraseñas.
+BIZ:en:noun::hacker;hacker, pirata informático;Unos hackers robaron los datos de miles de clientes.
+BIZ:en:noun::attack;ataque;El sitio web dejó de funcionar tras un ciberataque.
+BIZ:en:noun::vulnerability;vulnerabilidad;Los investigadores encontraron una vulnerabilidad grave.
+BIZ:en:noun::threat;amenaza;El phishing es la amenaza de seguridad más común.
+BIZ:en:noun::spam;spam, correo basura;La mitad de mis correos son spam.
+BIZ:en:noun::privacy;privacidad;A los usuarios les importa mucho su privacidad.
+BIZ:en:noun::artificial intelligence;inteligencia artificial;La inteligencia artificial está transformando muchos sectores.
+BIZ:en:noun::machine learning;aprendizaje automático, machine learning;Usamos el aprendizaje automático para predecir la demanda.
+BIZ:en:noun::model;modelo;El modelo se entrenó con millones de imágenes.
+BIZ:en:noun::neural network;red neuronal;Una red neuronal reconoce caras en las fotos.
+BIZ:en:noun::prompt;prompt, instrucción (para la IA);Escribe un prompt claro para obtener una respuesta mejor.
+BIZ:en:noun::chatbot;chatbot, bot conversacional;El chatbot responde preguntas sencillas de los clientes.
+BIZ:en:noun::automation tool;herramienta de automatización;Compramos una herramienta de automatización para las pruebas.
+BIZ:en:noun::accuracy;precisión, exactitud;La precisión del modelo es de aproximadamente el 95 por ciento.
+BIZ:en:noun::sprint;sprint;Planificamos el próximo sprint el lunes.
+BIZ:en:noun::backlog;backlog, lista de tareas pendientes;Esta tarea sigue en el backlog.
+BIZ:en:noun::ticket;ticket, incidencia, solicitud;Por favor, crea un ticket para este problema.
+BIZ:en:noun::user story;historia de usuario;Cada historia de usuario describe una necesidad del cliente.
+BIZ:en:noun::stand-up;reunión diaria, daily, stand-up;Nuestra reunión diaria empieza a las diez.
+BIZ:en:noun::retrospective;retrospectiva;En la retrospectiva hablamos de lo que salió mal.
+BIZ:en:noun::roadmap;hoja de ruta;La hoja de ruta del producto abarca los próximos dos años.
+BIZ:en:noun::iteration;iteración;Cada iteración dura dos semanas.
+BIZ:en:noun::help desk;servicio de asistencia, soporte técnico;Llama al servicio de asistencia si tu ordenador no arranca.
+BIZ:en:noun::tech support;soporte técnico, asistencia técnica;El soporte técnico resolvió mi problema en cinco minutos.
+BIZ:en:noun::troubleshooting;resolución de problemas, diagnóstico de averías;Resolver problemas de red puede llevar horas.
+BIZ:en:noun::workaround;solución provisional, solución alternativa;Encontramos una solución provisional hasta que se corrija el error.
+BIZ:en:noun::screenshot;captura de pantalla;¿Me puedes enviar una captura de pantalla del problema?
+BIZ:en:noun::FAQ;preguntas frecuentes;Puedes encontrar la respuesta en las preguntas frecuentes.
+BIZ:en:noun::email;correo electrónico, correo, e-mail;Responderé a tu correo esta tarde.
+BIZ:en:noun::inbox;bandeja de entrada;Mi bandeja de entrada está llena de mensajes sin leer.
+BIZ:en:noun::video call;videollamada;Hablémoslo en una videollamada.
+BIZ:en:noun::chat;chat;Escribe tu pregunta en el chat del equipo.
+BIZ:en:noun::notification;notificación;Desactivé las notificaciones durante la reunión.
+BIZ:en:noun::channel;canal;Publica la actualización en el canal del proyecto.
+BIZ:en:noun::webinar;seminario web, webinar;Más de doscientas personas se unieron al seminario web.
+BIZ:en:noun::emoji;emoji;Respondió con un emoji de pulgar arriba.
+BIZ:en:noun::digitalization;digitalización;La digitalización cambió nuestra forma de trabajar.
+BIZ:en:noun::bot;bot;Un bot publica los resultados de la compilación en el chat.
+BIZ:en:noun::timeout;tiempo de espera agotado, timeout;La solicitud falló por tiempo de espera agotado.
+BIZ:en:noun::cache;caché;Borra la caché del navegador y vuelve a cargar la página.
+BIZ:en:noun::admin;administrador, admin;Pídele al administrador que restablezca tu contraseña.
+BIZ:en:noun::IT department;departamento de informática, departamento de TI;El departamento de informática configurará tu portátil.
+BIZ:en:verb::debug;depurar;Me llevó todo el día depurar este código.
+BIZ:en:verb::deploy;desplegar, implementar;Desplegamos código nuevo todos los viernes.
+BIZ:en:verb::install;instalar;Tienes que instalar los controladores más recientes.
+BIZ:en:verb::uninstall;desinstalar;Desinstala la versión antigua antes de actualizar.
+BIZ:en:verb::download;descargar, bajar;Puedes descargar el informe en PDF.
+BIZ:en:verb::upload;subir, cargar;Por favor, sube tus fotos a la carpeta compartida.
+BIZ:en:verb::update;actualizar(se);La aplicación se actualiza automáticamente.
+BIZ:en:verb::upgrade;actualizar, mejorar;Actualizamos todos los ordenadores al nuevo sistema.
+BIZ:en:verb::restart;reiniciar;Reinicia el ordenador para terminar la instalación.
+BIZ:en:verb::reboot;reiniciar(se);El servidor se reinició tras la actualización.
+BIZ:en:verb::crash;bloquearse, fallar, colgarse;El programa se bloqueó y perdí mi trabajo.
+BIZ:en:verb::freeze;congelarse, colgarse, bloquearse;Mi portátil se colgó en mitad de la presentación.
+BIZ:en:verb::log in;iniciar sesión, acceder;Inicia sesión con tu correo de la empresa.
+BIZ:en:verb::log out;cerrar sesión;Cierra siempre la sesión en los ordenadores compartidos.
+BIZ:en:verb::sign up;registrarse, darse de alta;Miles de usuarios se registraron en la primera semana.
+BIZ:en:verb::click;hacer clic, pulsar;Haz clic en el botón para guardar los cambios.
+BIZ:en:verb::scroll;desplazarse, hacer scroll;Desplázate hacia abajo para ver la lista completa.
+BIZ:en:verb::type;escribir, teclear;Vuelve a escribir tu contraseña para confirmarla.
+BIZ:en:verb::save;guardar;No olvides guardar el archivo.
+BIZ:en:verb::delete;borrar, eliminar;Sin querer borré toda la carpeta.
+BIZ:en:verb::copy;copiar;Copia el enlace y envíaselo al cliente.
+BIZ:en:verb::paste;pegar;Pega el texto en el correo.
+BIZ:en:verb::attach;adjuntar;He adjuntado el contrato a este correo.
+BIZ:en:verb::share;compartir;¿Puedes compartir el documento conmigo?
+BIZ:en:verb::connect;conectar;Conecta la impresora a la red wifi.
+BIZ:en:verb::disconnect;desconectar(se), cortarse;La llamada se cortó dos veces esta mañana.
+BIZ:en:verb::browse;navegar (por), explorar;Navegó por el sitio web durante unos minutos.
+BIZ:en:verb::search;buscar;Busca el nombre del cliente en la base de datos.
+BIZ:en:verb::stream;transmitir (en directo), retransmitir;Transmitimos la conferencia en directo por internet.
+BIZ:en:verb::develop;desarrollar;Nuestro equipo desarrolla aplicaciones móviles para bancos.
+BIZ:en:verb::compile;compilar;El código no compila en mi máquina.
+BIZ:en:verb::execute;ejecutar(se);El script se ejecuta cada hora.
+BIZ:en:verb::fix;corregir, arreglar, solucionar;Los desarrolladores corrigieron el error ayer.
+BIZ:en:verb::release;lanzar, publicar;La empresa lanzó una nueva versión de la aplicación.
+BIZ:en:verb::commit;hacer commit, confirmar (cambios);Haz commit de tus cambios antes de cambiar de rama.
+BIZ:en:verb::push;hacer push, subir (cambios);No hagas push directamente a la rama principal.
+BIZ:en:verb::review;revisar;¿Puedes revisar mi código antes de comer?
+BIZ:en:verb::refactor;refactorizar;Tenemos que refactorizar este módulo antiguo.
+BIZ:en:verb::integrate;integrar(se);La herramienta se integra con nuestro calendario.
+BIZ:en:verb::automate;automatizar;Automatizamos la mayoría de las tareas rutinarias.
+BIZ:en:verb::configure;configurar;El administrador configuró el nuevo servidor.
+BIZ:en:verb::migrate;migrar, trasladar;Migramos todos los datos a la nueva plataforma.
+BIZ:en:verb::store;almacenar, guardar;Los datos se almacenan en servidores europeos.
+BIZ:en:verb::back up;hacer una copia de seguridad;Haz una copia de seguridad de tus archivos antes de la actualización.
+BIZ:en:verb::restore;restaurar, recuperar;Restauramos la base de datos a partir de la copia de seguridad de ayer.
+BIZ:en:verb::sync;sincronizar(se);Mi teléfono se sincroniza automáticamente con mi portátil.
+BIZ:en:verb::process;procesar, tramitar;El sistema procesa miles de pedidos por hora.
+BIZ:en:verb::analyse;analizar;Analizamos los datos de la última campaña.
+BIZ:en:verb::scale;escalar;El servicio escala automáticamente en las horas punta.
+BIZ:en:verb::encrypt;cifrar, encriptar;Todas las contraseñas están cifradas en la base de datos.
+BIZ:en:verb::decrypt;descifrar, desencriptar;Solo el destinatario puede descifrar el mensaje.
+BIZ:en:verb::hack;hackear, piratear;Anoche alguien hackeó mi cuenta de correo.
+BIZ:en:verb::block;bloquear;El cortafuegos bloquea los sitios web sospechosos.
+BIZ:en:verb::authenticate;autenticar;La aplicación autentica a los usuarios mediante la huella dactilar.
+BIZ:en:verb::reset;restablecer, reiniciar;Tengo que restablecer mi contraseña.
+BIZ:en:verb::predict;predecir, pronosticar;El modelo predice las ventas del próximo mes.
+BIZ:en:verb::estimate;estimar, calcular;Estimamos la tarea en cinco puntos de historia.
+BIZ:en:verb::prioritize;priorizar, dar prioridad a;Tenemos que priorizar los errores críticos.
+BIZ:en:verb::assign;asignar;Me asignaron el ticket esta mañana.
+BIZ:en:verb::troubleshoot;solucionar problemas, diagnosticar (averías);Solucionó el problema de la impresora en unos minutos.
+BIZ:en:verb::escalate;escalar, derivar (a un nivel superior);Escalaré la incidencia al segundo nivel.
+BIZ:en:verb::forward;reenviar;¿Podrías reenviarme ese correo?
+BIZ:en:verb::mute;silenciar;Por favor, silencia tu micrófono cuando no estés hablando.
+BIZ:en:verb::post;publicar, colgar;Publicó los resultados en el chat del equipo.
