@@ -5764,3 +5764,397 @@ C2;adj;;iconoclastic;;;;;ниспровергающий авторитеты;Her
 C2;adj;;subversive;;;;;подрывной;The book was banned as **subversive**.;Книгу запретили как подрывную.
 C2;adj;;seditious;;;;;подстрекательский, мятежный;He was arrested for publishing **seditious** material.;Его арестовали за публикацию подстрекательских материалов.
 C2;adj;;divisive;;;;;вызывающий раскол;The referendum proved to be very **divisive**.;Референдум вызвал глубокий раскол.
+C1;noun;;abolition;-;;;;отмена, упразднение;They campaigned for the **abolition** of the death penalty.;Они выступали за отмену смертной казни.
+C1;noun;;accessibility;-;;;;доступность;The new ramp improved **accessibility** for wheelchair users.;Новый пандус повысил доступность для людей на колясках.
+C1;noun;;accord;accords;;;;соглашение, согласие;The two countries signed a peace **accord** last year.;В прошлом году две страны подписали мирное соглашение.
+C1;noun;;adversary;adversaries;;;;противник, соперник;He respected his political **adversary** despite their differences.;Он уважал своего политического противника, несмотря на разногласия.
+C1;noun;;adversity;-;;;;невзгоды, трудности;She showed great courage in the face of **adversity**.;Она проявила большую смелость перед лицом невзгод.
+C1;noun;;affiliation;affiliations;;;;принадлежность, связь (с организацией);The survey asked about our political **affiliation**.;В опросе спрашивали о нашей политической принадлежности.
+C1;noun;;agony;agonies;;;;мучение, агония;He lay on the ground in **agony** after the fall.;После падения он лежал на земле, корчась от боли.
+C1;noun;;allegiance;allegiances;;;;верность, преданность;Soldiers must swear **allegiance** to their country.;Солдаты должны присягнуть на верность своей стране.
+C1;noun;;allure;-;;;;привлекательность, очарование;The **allure** of city life attracts many young people.;Привлекательность городской жизни притягивает многих молодых людей.
+C1;noun;;amenity;amenities;;;;удобства, объекты инфраструктуры;The hotel offers all the usual **amenities**.;Отель предлагает все обычные удобства.
+C1;noun;;anarchy;-;;;;анархия, безвластие;The collapse of the government led to complete **anarchy**.;Падение правительства привело к полной анархии.
+C1;noun;;antagonism;antagonisms;;;;вражда, антагонизм;There was open **antagonism** between the two managers.;Между двумя менеджерами была открытая вражда.
+C1;noun;;antidote;antidotes;;;;противоядие;Laughter is the best **antidote** to stress.;Смех — лучшее противоядие от стресса.
+C1;noun;;antiquity;-;;;;древность, античность;These statues date back to classical **antiquity**.;Эти статуи относятся к классической античности.
+C1;noun;;artefact;artefacts;;;;артефакт, предмет старины;The museum displays **artefacts** from ancient Egypt.;В музее выставлены артефакты из Древнего Египта.
+C1;noun;;attrition;-;;;;истощение, постепенное сокращение;The company reduced staff through natural **attrition**.;Компания сократила штат за счёт естественной убыли.
+C1;noun;;backdrop;backdrops;;;;фон, задний план;The election took place against a **backdrop** of crisis.;Выборы прошли на фоне кризиса.
+C1;noun;;beneficiary;beneficiaries;;;;получатель выгоды, бенефициар;She was the main **beneficiary** of her uncle's will.;Она была главной наследницей по завещанию дяди.
+C1;noun;;blunder;blunders;;;;грубая ошибка, промах;Forgetting her name was a terrible **blunder**.;Забыть её имя было ужасным промахом.
+C1;noun;;bout;bouts;;;;приступ, схватка;He suffered a severe **bout** of flu last winter.;Прошлой зимой он перенёс тяжёлый приступ гриппа.
+C1;noun;;brink;-;;;;грань, край;The company is on the **brink** of bankruptcy.;Компания находится на грани банкротства.
+C1;noun;;brutality;brutalities;;;;жестокость, зверство;The film shows the **brutality** of war.;Фильм показывает жестокость войны.
+C1;noun;;buffer;buffers;;;;буфер, защитная прослойка;Savings act as a **buffer** against unexpected costs.;Сбережения служат буфером против непредвиденных расходов.
+C1;noun;;bystander;bystanders;;;;случайный свидетель, прохожий;An innocent **bystander** was injured in the attack.;Во время нападения пострадал случайный прохожий.
+C1;noun;;calamity;calamities;;;;бедствие, катастрофа;The flood was the worst **calamity** in the region's history.;Наводнение стало худшим бедствием в истории региона.
+C1;noun;;casualty;casualties;;;;пострадавший, жертва;The accident caused several **casualties**.;Авария повлекла за собой несколько жертв.
+C1;noun;;charisma;-;;;;харизма, обаяние;The new leader has enormous personal **charisma**.;Новый лидер обладает огромной личной харизмой.
+C1;noun;;clash;clashes;;;;столкновение, конфликт;There were violent **clashes** between police and protesters.;Произошли жестокие столкновения между полицией и протестующими.
+C1;noun;;clique;cliques;;;;клика, замкнутая группа;At school she never belonged to any **clique**.;В школе она никогда не входила ни в какую компанию.
+C1;noun;;cohort;cohorts;;;;когорта, группа (людей);The study followed a **cohort** of 500 students.;Исследование наблюдало за группой из 500 студентов.
+C1;noun;;composure;-;;;;самообладание, спокойствие;She quickly regained her **composure** after the shock.;Она быстро восстановила самообладание после шока.
+C1;noun;;conspiracy;conspiracies;;;;заговор;He was convinced there was a **conspiracy** against him.;Он был убеждён, что против него существует заговор.
+C1;noun;;constraint;constraints;;;;ограничение;Time **constraints** forced us to shorten the meeting.;Ограничения по времени заставили нас сократить встречу.
+C1;noun;;courtesy;courtesies;;;;вежливость, любезность;It is common **courtesy** to reply to emails.;Отвечать на письма — элементарная вежливость.
+C1;noun;;craftsmanship;-;;;;мастерство, искусная работа;The furniture shows excellent **craftsmanship**.;Эта мебель демонстрирует превосходное мастерство.
+C1;noun;;credential;credentials;;;;квалификация, документы (подтверждающие полномочия);She has impressive academic **credentials**.;У неё впечатляющая академическая квалификация.
+C1;noun;;crusade;crusades;;;;крестовый поход, кампания (борьба);He led a **crusade** against corruption.;Он возглавил кампанию против коррупции.
+C1;noun;;cynicism;-;;;;цинизм;There is growing **cynicism** about politicians.;Растёт циничное отношение к политикам.
+C1;noun;;decay;-;;;;гниение, упадок;The old buildings had fallen into **decay**.;Старые здания пришли в упадок.
+C1;noun;;decency;-;;;;порядочность, приличие;He didn't even have the **decency** to apologise.;Ему не хватило порядочности даже извиниться.
+C1;noun;;deception;deceptions;;;;обман;The whole scheme was based on **deception**.;Вся схема была основана на обмане.
+C1;noun;;deference;-;;;;почтение, уважение;He bowed his head in **deference** to the elders.;Он склонил голову в знак почтения к старшим.
+C1;noun;;demise;-;;;;кончина, крах;The internet led to the **demise** of many bookshops.;Интернет привёл к краху многих книжных магазинов.
+C1;noun;;density;densities;;;;плотность;The city has a high population **density**.;В городе высокая плотность населения.
+C1;noun;;detour;detours;;;;объезд, крюк;We had to make a **detour** because of roadworks.;Нам пришлось сделать крюк из-за дорожных работ.
+C1;noun;;disarray;-;;;;беспорядок, смятение;The party was in **disarray** after the election.;После выборов в партии царил полный разброд.
+C1;noun;;disclosure;disclosures;;;;раскрытие (информации);The law requires full **disclosure** of financial interests.;Закон требует полного раскрытия финансовых интересов.
+C1;noun;;dismay;-;;;;смятение, тревога, разочарование;To our **dismay**, the train was cancelled.;К нашему огорчению, поезд отменили.
+C1;noun;;disruption;disruptions;;;;срыв, нарушение (работы);The strike caused major **disruption** to train services.;Забастовка вызвала серьёзные перебои в движении поездов.
+C1;noun;;distortion;distortions;;;;искажение;The article was a **distortion** of the facts.;Статья была искажением фактов.
+C1;noun;;dogma;dogmas;;;;догма;Scientists should question **dogma** rather than accept it.;Учёные должны подвергать догмы сомнению, а не принимать их.
+C1;noun;;downfall;-;;;;падение, крах;Greed eventually led to his **downfall**.;В конце концов жадность привела его к падению.
+C1;noun;;dwelling;dwellings;;;;жилище, жильё;The village consists of a few simple **dwellings**.;Деревня состоит из нескольких простых жилищ.
+C1;noun;;echelon;echelons;;;;эшелон, уровень (власти);She reached the upper **echelons** of the company.;Она достигла верхних эшелонов компании.
+C1;noun;;edifice;edifices;;;;здание, сооружение;The cathedral is an impressive stone **edifice**.;Собор — внушительное каменное сооружение.
+C1;noun;;elite;elites;;;;элита;Only a small **elite** could afford such luxury.;Лишь небольшая элита могла позволить себе такую роскошь.
+C1;noun;;endeavour;endeavours;;;;усилие, начинание, попытка;We wish you every success in your future **endeavours**.;Желаем вам успехов во всех будущих начинаниях.
+C1;noun;;enigma;enigmas;;;;загадка, тайна;Her real motives remain an **enigma**.;Её истинные мотивы остаются загадкой.
+C1;noun;;entourage;entourages;;;;свита, окружение;The singer arrived with a large **entourage**.;Певец прибыл с большой свитой.
+C1;noun;;ethos;-;;;;дух, принципы, этос;The school has a strong **ethos** of cooperation.;В школе силён дух сотрудничества.
+C1;noun;;etiquette;-;;;;этикет;Business **etiquette** varies from country to country.;Деловой этикет различается от страны к стране.
+C1;noun;;eviction;evictions;;;;выселение;The family faced **eviction** after missing rent payments.;Семье грозило выселение из-за неуплаты аренды.
+C1;noun;;exile;exiles;;;;изгнание, ссылка;The poet spent twenty years in **exile**.;Поэт провёл двадцать лет в изгнании.
+C1;noun;;expedition;expeditions;;;;экспедиция;They organised an **expedition** to the North Pole.;Они организовали экспедицию на Северный полюс.
+C1;noun;;fabric;fabrics;;;;ткань, структура (общества);Crime is damaging the social **fabric** of the city.;Преступность разрушает социальную ткань города.
+C1;noun;;feat;feats;;;;подвиг, достижение;Climbing Everest alone is an incredible **feat**.;Подняться на Эверест в одиночку — невероятный подвиг.
+C1;noun;;fiasco;fiascos;;;;провал, фиаско;The product launch was a complete **fiasco**.;Запуск продукта обернулся полным провалом.
+C1;noun;;fidelity;-;;;;верность, точность;The translation shows great **fidelity** to the original.;Перевод отличается большой точностью по отношению к оригиналу.
+C1;noun;;flair;-;;;;талант, чутьё, стиль;She has a real **flair** for languages.;У неё настоящий талант к языкам.
+C1;noun;;flaw;flaws;;;;недостаток, изъян;There is a serious **flaw** in your argument.;В вашем аргументе есть серьёзный изъян.
+C1;noun;;fluke;flukes;;;;случайная удача, счастливая случайность;Their victory was not just a **fluke**.;Их победа не была просто счастливой случайностью.
+C1;noun;;folly;follies;;;;глупость, безрассудство;It would be **folly** to ignore the warnings.;Было бы безрассудством игнорировать предупреждения.
+C1;noun;;footage;-;;;;отснятый материал, видеозапись;Police are examining security camera **footage**.;Полиция изучает записи камер видеонаблюдения.
+C1;noun;;fragment;fragments;;;;фрагмент, обломок;Archaeologists found **fragments** of ancient pottery.;Археологи нашли фрагменты древней керамики.
+C1;noun;;frenzy;frenzies;;;;безумие, неистовство, ажиотаж;The news sent the media into a **frenzy**.;Эта новость вызвала ажиотаж в СМИ.
+C1;noun;;friction;-;;;;трение, разногласия;There is some **friction** between the two departments.;Между двумя отделами есть определённые трения.
+C1;noun;;frontier;frontiers;;;;граница, рубеж;Space remains the final **frontier** for humanity.;Космос остаётся последним рубежом для человечества.
+C1;noun;;fulfilment;-;;;;удовлетворение, выполнение;She finds great **fulfilment** in helping others.;Она находит большое удовлетворение в помощи другим.
+C1;noun;;futility;-;;;;тщетность, бесполезность;He realised the **futility** of arguing with her.;Он осознал бесполезность спора с ней.
+C1;noun;;gist;-;;;;суть, основная мысль;I didn't understand every word, but I got the **gist**.;Я не понял каждое слово, но уловил суть.
+C1;noun;;glimpse;glimpses;;;;мимолётный взгляд, проблеск;We caught a **glimpse** of the actor leaving the hotel.;Мы мельком увидели актёра, выходящего из отеля.
+C1;noun;;harassment;-;;;;притеснение, домогательства;The company has a strict policy against **harassment**.;В компании строгая политика против домогательств.
+C1;noun;;haste;-;;;;спешка, поспешность;In his **haste**, he forgot his passport.;В спешке он забыл паспорт.
+C1;noun;;havoc;-;;;;хаос, разрушения;The storm caused **havoc** across the region.;Шторм вызвал хаос по всему региону.
+C1;noun;;heyday;-;;;;расцвет, лучшие времена;In its **heyday**, the town was a busy port.;В период расцвета город был оживлённым портом.
+C1;noun;;hoax;hoaxes;;;;мистификация, ложная тревога;The bomb threat turned out to be a **hoax**.;Угроза взрыва оказалась ложной.
+C1;noun;;hub;hubs;;;;центр, узел;The city is a major transport **hub**.;Город является крупным транспортным узлом.
+C1;noun;;hurdle;hurdles;;;;препятствие, барьер;Funding is the biggest **hurdle** for the project.;Финансирование — самое большое препятствие для проекта.
+C1;noun;;hype;-;;;;шумиха, ажиотаж;The film didn't live up to the **hype**.;Фильм не оправдал шумихи вокруг него.
+C1;noun;;imagery;-;;;;образность, образы;The poem is full of vivid **imagery**.;Стихотворение полно ярких образов.
+C1;noun;;imbalance;imbalances;;;;дисбаланс, неравновесие;There is a huge **imbalance** between rich and poor.;Между богатыми и бедными огромный дисбаланс.
+C1;noun;;impartiality;-;;;;беспристрастность;Judges must maintain strict **impartiality**.;Судьи должны сохранять строгую беспристрастность.
+C1;noun;;imposition;impositions;;;;навязывание, введение (налога), обуза;I hope my visit isn't an **imposition** on you.;Надеюсь, мой визит вас не обременяет.
+C1;noun;;inclination;inclinations;;;;склонность, желание;I have no **inclination** to go out tonight.;У меня нет никакого желания выходить сегодня вечером.
+C1;noun;;incompetence;-;;;;некомпетентность;The disaster was caused by sheer **incompetence**.;Катастрофа была вызвана полной некомпетентностью.
+C1;noun;;infancy;-;;;;младенчество, начальная стадия;The technology is still in its **infancy**.;Эта технология всё ещё находится на начальной стадии.
+C1;noun;;infringement;infringements;;;;нарушение (прав, закона);The company was sued for copyright **infringement**.;На компанию подали в суд за нарушение авторских прав.
+C1;noun;;intrigue;intrigues;;;;интрига, интриги;The novel is full of political **intrigue**.;Роман полон политических интриг.
+C1;noun;;juncture;junctures;;;;момент, стечение обстоятельств;At this **juncture**, we cannot make any promises.;На данном этапе мы не можем ничего обещать.
+C1;noun;;knack;-;;;;сноровка, умение;She has a **knack** for making people feel welcome.;Она умеет сделать так, чтобы люди чувствовали себя желанными.
+C1;noun;;labyrinth;labyrinths;;;;лабиринт;The old town is a **labyrinth** of narrow streets.;Старый город — это лабиринт узких улочек.
+C1;noun;;lapse;lapses;;;;промах, оплошность, провал (в памяти);A brief **lapse** of concentration caused the accident.;Кратковременная потеря концентрации привела к аварии.
+C1;noun;;latitude;latitudes;;;;свобода действий, широта (геогр.);Teachers are given considerable **latitude** in their methods.;Учителям предоставляется значительная свобода в выборе методов.
+C1;noun;;layman;laymen;;;;непрофессионал, неспециалист;Can you explain that in **layman's** terms?;Можете объяснить это простыми словами?
+C1;noun;;leeway;-;;;;свобода действий, запас;The new rules give managers more **leeway**.;Новые правила дают менеджерам больше свободы действий.
+C1;noun;;lifespan;lifespans;;;;продолжительность жизни, срок службы;The average **lifespan** of a laptop is about five years.;Средний срок службы ноутбука около пяти лет.
+C1;noun;;limbo;-;;;;неопределённость, подвешенное состояние;Our plans are in **limbo** until we hear back.;Наши планы в подвешенном состоянии, пока мы не получим ответ.
+C1;noun;;lure;lures;;;;приманка, соблазн;The **lure** of easy money attracted many investors.;Соблазн лёгких денег привлёк многих инвесторов.
+C1;noun;;mainstream;-;;;;основное направление, мейнстрим;Her ideas have now entered the **mainstream**.;Её идеи теперь стали общепринятыми.
+C1;noun;;malfunction;malfunctions;;;;неисправность, сбой;A technical **malfunction** delayed the flight.;Техническая неисправность задержала рейс.
+C1;noun;;mastery;-;;;;мастерство, полное владение;He achieved complete **mastery** of the violin.;Он достиг полного мастерства игры на скрипке.
+C1;noun;;menace;menaces;;;;угроза, опасность;Drunk drivers are a **menace** to everyone on the road.;Пьяные водители представляют угрозу для всех на дороге.
+C1;noun;;microcosm;microcosms;;;;микрокосм, мир в миниатюре;The village is a **microcosm** of English society.;Эта деревня — английское общество в миниатюре.
+C1;noun;;mischief;-;;;;озорство, проказы;The children were always getting into **mischief**.;Дети вечно проказничали.
+C1;noun;;mishap;mishaps;;;;неудача, неприятный случай;The trip passed without any **mishap**.;Поездка прошла без каких-либо происшествий.
+C1;noun;;mockery;-;;;;насмешка, издевательство;The trial was a **mockery** of justice.;Этот суд был издевательством над правосудием.
+C1;noun;;moderation;-;;;;умеренность;Wine is fine if you drink it in **moderation**.;Вино допустимо, если пить его умеренно.
+C1;noun;;monotony;-;;;;монотонность, однообразие;He took up painting to escape the **monotony** of work.;Он занялся живописью, чтобы уйти от однообразия работы.
+C1;noun;;morale;-;;;;моральный дух, настрой;Staff **morale** is very low after the cuts.;После сокращений моральный дух сотрудников очень низок.
+C1;noun;;mortality;-;;;;смертность, бренность;Infant **mortality** has fallen sharply in recent decades.;Детская смертность резко снизилась за последние десятилетия.
+C1;noun;;mosaic;mosaics;;;;мозаика;The floor is decorated with a Roman **mosaic**.;Пол украшен римской мозаикой.
+C1;noun;;motif;motifs;;;;мотив (узор, тема);The flower **motif** appears throughout the design.;Цветочный мотив встречается во всём дизайне.
+C1;noun;;mutation;mutations;;;;мутация;The disease is caused by a genetic **mutation**.;Болезнь вызвана генетической мутацией.
+C1;noun;;negligence;-;;;;халатность, небрежность;The doctor was accused of medical **negligence**.;Врача обвинили во врачебной халатности.
+C1;noun;;nemesis;nemeses;;;;заклятый враг, возмездие;The champion finally met his **nemesis** in the final.;Чемпион наконец встретил своего заклятого соперника в финале.
+C1;noun;;norm;norms;;;;норма;Working from home has become the **norm**.;Работа из дома стала нормой.
+C1;noun;;novelty;novelties;;;;новизна, новинка;The **novelty** of the new phone soon wore off.;Новизна нового телефона быстро прошла.
+C1;noun;;nuisance;nuisances;;;;неудобство, досадная помеха;The noise from the bar is a real **nuisance**.;Шум из бара — настоящая помеха.
+C1;noun;;oblivion;-;;;;забвение;Many famous writers have faded into **oblivion**.;Многие знаменитые писатели канули в забвение.
+C1;noun;;omission;omissions;;;;упущение, пропуск;The **omission** of her name from the list was a mistake.;Отсутствие её имени в списке было ошибкой.
+C1;noun;;ordeal;ordeals;;;;тяжёлое испытание;The hostages described their terrible **ordeal**.;Заложники описали пережитое ими тяжёлое испытание.
+C1;noun;;outburst;outbursts;;;;вспышка (гнева, эмоций);He apologised for his angry **outburst**.;Он извинился за свою вспышку гнева.
+C1;noun;;outrage;outrages;;;;возмущение, негодование;The decision caused public **outrage**.;Решение вызвало общественное возмущение.
+C1;noun;;pact;pacts;;;;пакт, договор;The two friends made a **pact** to keep the secret.;Двое друзей договорились хранить тайну.
+C1;noun;;paranoia;-;;;;паранойя, мания преследования;His **paranoia** made him suspicious of everyone.;Паранойя сделала его подозрительным ко всем.
+C1;noun;;pastime;pastimes;;;;времяпрепровождение, хобби;Fishing is his favourite **pastime**.;Рыбалка — его любимое времяпрепровождение.
+C1;noun;;patronage;-;;;;покровительство, спонсорство;The arts flourished under royal **patronage**.;Искусство процветало под королевским покровительством.
+C1;noun;;peril;perils;;;;опасность, угроза;Sailors faced many **perils** on the long voyage.;В долгом плавании моряки сталкивались со многими опасностями.
+C1;noun;;perk;perks;;;;льгота, бонус (на работе);A company car is one of the **perks** of the job.;Служебный автомобиль — одна из льгот этой работы.
+C1;noun;;pitfall;pitfalls;;;;подводный камень, ловушка;The guide explains the common **pitfalls** of buying a house.;Руководство объясняет типичные подводные камни при покупке дома.
+C1;noun;;plight;-;;;;тяжёлое положение, бедственное положение;The film highlights the **plight** of refugees.;Фильм обращает внимание на бедственное положение беженцев.
+C1;noun;;poise;-;;;;самообладание, грация;She answered the difficult questions with great **poise**.;Она ответила на трудные вопросы с большим самообладанием.
+C1;noun;;portrayal;portrayals;;;;изображение, образ (в искусстве);His **portrayal** of the king won him an award.;Его исполнение роли короля принесло ему награду.
+C1;noun;;potency;-;;;;сила, действенность;The drug loses its **potency** over time.;Со временем лекарство теряет свою силу.
+C1;noun;;practitioner;practitioners;;;;практикующий специалист;She is a general **practitioner** in a small town.;Она врач общей практики в маленьком городе.
+C1;noun;;precaution;precautions;;;;мера предосторожности;We took every **precaution** to avoid infection.;Мы приняли все меры предосторожности, чтобы избежать заражения.
+C1;noun;;predisposition;predispositions;;;;предрасположенность;Some people have a genetic **predisposition** to diabetes.;У некоторых людей есть генетическая предрасположенность к диабету.
+C1;noun;;prestige;-;;;;престиж;The job brings a lot of **prestige** but little money.;Эта работа приносит много престижа, но мало денег.
+C1;noun;;pretext;pretexts;;;;предлог, отговорка;He called her on the **pretext** of asking for advice.;Он позвонил ей под предлогом того, что хочет попросить совета.
+C1;noun;;prodigy;prodigies;;;;вундеркинд, чудо;Mozart was a musical **prodigy**.;Моцарт был музыкальным вундеркиндом.
+C1;noun;;provocation;provocations;;;;провокация;He loses his temper at the slightest **provocation**.;Он выходит из себя при малейшей провокации.
+C1;noun;;prowess;-;;;;мастерство, доблесть;He is famous for his athletic **prowess**.;Он славится своим спортивным мастерством.
+C1;noun;;reassurance;reassurances;;;;заверение, успокоение;Patients need **reassurance** before an operation.;Пациентам нужно успокоение перед операцией.
+C1;noun;;reciprocity;-;;;;взаимность;Good relationships are based on **reciprocity**.;Хорошие отношения строятся на взаимности.
+C1;noun;;recollection;recollections;;;;воспоминание;I have no **recollection** of meeting him.;Я совсем не помню, чтобы встречался с ним.
+C1;noun;;rehabilitation;-;;;;реабилитация, восстановление;He spent months in **rehabilitation** after the injury.;После травмы он провёл месяцы на реабилитации.
+C1;noun;;remorse;-;;;;раскаяние, угрызения совести;The prisoner showed no **remorse** for his crimes.;Заключённый не проявил никакого раскаяния в своих преступлениях.
+C1;noun;;resemblance;resemblances;;;;сходство;There is a strong **resemblance** between the two sisters.;Между двумя сёстрами сильное сходство.
+C1;noun;;restraint;restraints;;;;сдержанность, ограничение;Both sides were urged to show **restraint**.;Обе стороны призвали проявить сдержанность.
+C1;noun;;retrospect;-;;;;ретроспектива, взгляд в прошлое;In **retrospect**, it was the wrong decision.;Оглядываясь назад, это было неправильное решение.
+C1;noun;;reverence;-;;;;благоговение, почтение;They spoke of their teacher with deep **reverence**.;Они говорили о своём учителе с глубоким почтением.
+C1;noun;;revival;revivals;;;;возрождение, оживление;The town is enjoying an economic **revival**.;Город переживает экономическое возрождение.
+C1;noun;;rite;rites;;;;обряд, ритуал;Getting a driving licence is a **rite** of passage for teenagers.;Получение водительских прав — своего рода обряд посвящения для подростков.
+C1;noun;;sanity;-;;;;здравомыслие, рассудок;Running every morning helps me keep my **sanity**.;Утренние пробежки помогают мне сохранять рассудок.
+C1;noun;;shortcoming;shortcomings;;;;недостаток, изъян;Despite its **shortcomings**, the plan was approved.;Несмотря на недостатки, план был утверждён.
+C1;noun;;shortfall;shortfalls;;;;нехватка, дефицит;The hospital faces a **shortfall** of nurses.;Больница сталкивается с нехваткой медсестёр.
+C1;noun;;siege;sieges;;;;осада;The city was under **siege** for six months.;Город находился в осаде шесть месяцев.
+C1;noun;;snag;snags;;;;загвоздка, препятствие;The only **snag** is that it's quite expensive.;Единственная загвоздка в том, что это довольно дорого.
+C1;noun;;solidarity;-;;;;солидарность;Workers went on strike in **solidarity** with their colleagues.;Рабочие объявили забастовку в знак солидарности с коллегами.
+C1;noun;;stamina;-;;;;выносливость;Marathon runners need a lot of **stamina**.;Марафонцам нужна большая выносливость.
+C1;noun;;standpoint;standpoints;;;;точка зрения;From a financial **standpoint**, the plan makes sense.;С финансовой точки зрения план имеет смысл.
+C1;noun;;stigma;stigmas;;;;клеймо, стигма;There is still a **stigma** attached to mental illness.;С психическими заболеваниями до сих пор связано клеймо.
+C1;noun;;stint;stints;;;;срок (работы), период;After a brief **stint** in the army, he became a teacher.;После недолгой службы в армии он стал учителем.
+C1;noun;;tally;tallies;;;;подсчёт, счёт;Keep a **tally** of how much you spend each week.;Ведите подсчёт того, сколько вы тратите каждую неделю.
+C1;noun;;testament;testaments;;;;свидетельство, доказательство, завещание;The building is a **testament** to his talent.;Это здание — свидетельство его таланта.
+C1;noun;;testimony;testimonies;;;;показания, свидетельство;The witness gave **testimony** in court yesterday.;Вчера свидетель дал показания в суде.
+C1;noun;;unrest;-;;;;беспорядки, волнения;There is growing social **unrest** in the capital.;В столице растут общественные волнения.
+C1;noun;;vengeance;-;;;;месть, отмщение;He swore **vengeance** on the men who killed his father.;Он поклялся отомстить людям, убившим его отца.
+C1;noun;;vigour;-;;;;энергия, сила, бодрость;She returned to work with renewed **vigour**.;Она вернулась к работе с новыми силами.
+C1;noun;;void;voids;;;;пустота;His death left a **void** in her life.;Его смерть оставила пустоту в её жизни.
+C1;noun;;wrath;-;;;;гнев, ярость;Nobody wanted to face the **wrath** of the boss.;Никто не хотел навлечь на себя гнев начальника.
+C1;noun;;zeal;-;;;;рвение, усердие;He worked with great **zeal** on the new project.;Он работал над новым проектом с большим рвением.
+C1;verb;;abbreviate;;;abbreviated;abbreviated;сокращать (слово);In addresses, Street is usually **abbreviated** to St.;В адресах слово Street обычно сокращают до St.
+C1;verb;;abduct;;;abducted;abducted;похищать (человека);The businessman was **abducted** outside his home.;Бизнесмена похитили возле его дома.
+C1;verb;;adjourn;;;adjourned;adjourned;откладывать, объявлять перерыв (заседания);The judge **adjourned** the trial until Monday.;Судья отложил слушание до понедельника.
+C1;verb;;allot;;;allotted;allotted;выделять, отводить (время, средства);Each speaker was **allotted** ten minutes.;Каждому выступающему отвели десять минут.
+C1;verb;;allude;;;alluded;alluded;намекать, ссылаться;She **alluded** to problems in her marriage.;Она намекнула на проблемы в своём браке.
+C1;verb;;applaud;;;applauded;applauded;аплодировать, одобрять;The audience **applauded** loudly at the end.;В конце зрители громко аплодировали.
+C1;verb;;arouse;;;aroused;aroused;вызывать, возбуждать (интерес, подозрение);His strange behaviour **aroused** suspicion.;Его странное поведение вызвало подозрения.
+C1;verb;;aspire;;;aspired;aspired;стремиться, мечтать;She **aspires** to become a surgeon.;Она мечтает стать хирургом.
+C1;verb;;attest;;;attested;attested;подтверждать, свидетельствовать;Many patients can **attest** to his skill.;Многие пациенты могут подтвердить его мастерство.
+C1;verb;;beckon;;;beckoned;beckoned;манить, подзывать жестом;The waiter **beckoned** us to follow him.;Официант жестом позвал нас следовать за ним.
+C1;verb;;befriend;;;befriended;befriended;подружиться, взять под опеку;He **befriended** a lonely old man next door.;Он подружился с одиноким стариком по соседству.
+C1;verb;;bicker;;;bickered;bickered;препираться, пререкаться;The children **bickered** all the way home.;Дети препирались всю дорогу домой.
+C1;verb;;brace;;;braced;braced;готовиться (к худшему), укреплять;We **braced** ourselves for bad news.;Мы приготовились к плохим новостям.
+C1;verb;;breed;;;bred;bred;разводить, порождать;In many cities, poverty often **breeds** crime.;Во многих городах бедность часто порождает преступность.
+C1;verb;;cling;;;clung;clung;цепляться, держаться;The child **clung** to her mother's hand.;Ребёнок цеплялся за руку матери.
+C1;verb;;conceptualize;;;conceptualized;conceptualized;концептуализировать, осмыслять;It is hard to **conceptualize** such large numbers.;Трудно осмыслить такие большие числа.
+C1;verb;;congregate;;;congregated;congregated;собираться (толпой);Fans **congregated** outside the stadium.;Болельщики собрались у стадиона.
+C1;verb;;crave;;;craved;craved;жаждать, страстно желать;Pregnant women often **crave** unusual foods.;Беременных женщин часто тянет на необычную еду.
+C1;verb;;crumble;;;crumbled;crumbled;крошиться, рушиться;The old walls are slowly **crumbling**.;Старые стены медленно разрушаются.
+C1;verb;;dabble;;;dabbled;dabbled;баловаться, заниматься поверхностно;He **dabbled** in painting when he was younger.;В молодости он немного баловался живописью.
+C1;verb;;dazzle;;;dazzled;dazzled;ослеплять, поражать;She **dazzled** the audience with her performance.;Она поразила публику своим выступлением.
+C1;verb;;decipher;;;deciphered;deciphered;расшифровывать, разбирать;I can't **decipher** his handwriting.;Я не могу разобрать его почерк.
+C1;verb;;deflate;;;deflated;deflated;сдувать, сбивать спесь;The criticism completely **deflated** him.;Критика его совершенно обескуражила.
+C1;verb;;delve;;;delved;delved;копаться, углубляться;The book **delves** into the history of the region.;Книга углубляется в историю региона.
+C1;verb;;demolish;;;demolished;demolished;сносить, разрушать;The old factory will be **demolished** next year.;Старую фабрику снесут в следующем году.
+C1;verb;;deviate;;;deviated;deviated;отклоняться;The pilot had to **deviate** from the planned route.;Пилоту пришлось отклониться от запланированного маршрута.
+C1;verb;;discard;;;discarded;discarded;выбрасывать, отказываться;Please **discard** any used tissues in the bin.;Пожалуйста, выбрасывайте использованные салфетки в урну.
+C1;verb;;disguise;;;disguised;disguised;маскировать, скрывать;She couldn't **disguise** her disappointment.;Она не смогла скрыть своего разочарования.
+C1;verb;;eclipse;;;eclipsed;eclipsed;затмевать;His success was **eclipsed** by his brother's fame.;Его успех затмила слава брата.
+C1;verb;;elude;;;eluded;eluded;ускользать, избегать;The thief **eluded** the police for weeks.;Вор неделями ускользал от полиции.
+C1;verb;;entice;;;enticed;enticed;соблазнять, заманивать;Low prices **entice** customers into the shop.;Низкие цены заманивают покупателей в магазин.
+C1;verb;;entrust;;;entrusted;entrusted;доверять, поручать;She **entrusted** her savings to a financial adviser.;Она доверила свои сбережения финансовому консультанту.
+C1;verb;;enumerate;;;enumerated;enumerated;перечислять;He **enumerated** the reasons for his decision.;Он перечислил причины своего решения.
+C1;verb;;equate;;;equated;equated;приравнивать, отождествлять;Many people **equate** wealth with happiness.;Многие люди отождествляют богатство со счастьем.
+C1;verb;;erupt;;;erupted;erupted;извергаться, вспыхивать;Violence **erupted** after the match.;После матча вспыхнуло насилие.
+C1;verb;;evade;;;evaded;evaded;уклоняться, избегать;He was accused of trying to **evade** taxes.;Его обвинили в попытке уклониться от налогов.
+C1;verb;;exempt;;;exempted;exempted;освобождать (от обязанности);Students are **exempted** from paying the fee.;Студенты освобождены от уплаты сбора.
+C1;verb;;fathom;;;fathomed;fathomed;понять, постичь;I can't **fathom** why she said that.;Я не могу понять, почему она это сказала.
+C1;verb;;gauge;;;gauged;gauged;оценивать, измерять;It's hard to **gauge** public opinion on this issue.;Трудно оценить общественное мнение по этому вопросу.
+C1;verb;;grapple;;;grappled;grappled;бороться, пытаться справиться;The government is **grappling** with rising inflation.;Правительство пытается справиться с растущей инфляцией.
+C1;verb;;hone;;;honed;honed;оттачивать, совершенствовать;She spent years **honing** her writing skills.;Она годами оттачивала свои писательские навыки.
+C1;verb;;hover;;;hovered;hovered;парить, зависать, колебаться;A helicopter **hovered** above the building.;Над зданием завис вертолёт.
+C1;verb;;immerse;;;immersed;immersed;погружать(ся);He **immersed** himself in his studies.;Он погрузился в учёбу.
+C1;verb;;incite;;;incited;incited;подстрекать, разжигать;He was arrested for **inciting** violence.;Его арестовали за подстрекательство к насилию.
+C1;verb;;incur;;;incurred;incurred;навлекать, нести (расходы);The company **incurred** huge losses last year.;В прошлом году компания понесла огромные убытки.
+C1;verb;;indulge;;;indulged;indulged;потакать, баловать себя;I occasionally **indulge** in a piece of chocolate cake.;Иногда я балую себя кусочком шоколадного торта.
+C1;verb;;interrogate;;;interrogated;interrogated;допрашивать;The suspect was **interrogated** for hours.;Подозреваемого допрашивали несколько часов.
+C1;verb;;intimidate;;;intimidated;intimidated;запугивать;He tried to **intimidate** the witness.;Он пытался запугать свидетеля.
+C1;verb;;linger;;;lingered;lingered;задерживаться, сохраняться;The smell of smoke **lingered** in the room.;Запах дыма долго держался в комнате.
+C1;verb;;magnify;;;magnified;magnified;увеличивать, преувеличивать;The lens **magnifies** objects up to fifty times.;Эта линза увеличивает предметы до пятидесяти раз.
+C1;verb;;marginalize;;;marginalized;marginalized;отодвигать на второй план, маргинализировать;Older workers often feel **marginalized** in the workplace.;Пожилые работники часто чувствуют себя отодвинутыми на второй план.
+C1;verb;;mimic;;;mimicked;mimicked;подражать, имитировать;The parrot can **mimic** human speech.;Попугай умеет имитировать человеческую речь.
+C1;verb;;misconstrue;;;misconstrued;misconstrued;неверно истолковать;My comments were **misconstrued** by the press.;Пресса неверно истолковала мои слова.
+C1;verb;;mobilize;;;mobilized;mobilized;мобилизовать;The union **mobilized** thousands of workers for the protest.;Профсоюз мобилизовал тысячи рабочих на протест.
+C1;verb;;muster;;;mustered;mustered;собирать (силы, мужество);She **mustered** the courage to ask for a raise.;Она набралась смелости попросить повышения зарплаты.
+C1;verb;;obscure;;;obscured;obscured;заслонять, затемнять, скрывать;Clouds **obscured** our view of the mountains.;Облака закрыли нам вид на горы.
+C1;verb;;pacify;;;pacified;pacified;успокаивать, умиротворять;The mother tried to **pacify** her crying baby.;Мать пыталась успокоить плачущего ребёнка.
+C1;verb;;paraphrase;;;paraphrased;paraphrased;перефразировать, пересказывать;Try to **paraphrase** the text in your own words.;Попробуйте пересказать текст своими словами.
+C1;verb;;penetrate;;;penetrated;penetrated;проникать, пронизывать;The bullet **penetrated** his shoulder.;Пуля пробила ему плечо.
+C1;verb;;preside;;;presided;presided;председательствовать, руководить;The judge **presided** over the trial.;Судья председательствовал на процессе.
+C1;verb;;purport;;;purported;purported;претендовать, якобы являться;The letter **purports** to be from the bank.;Письмо якобы пришло из банка.
+C1;verb;;ratify;;;ratified;ratified;ратифицировать, утверждать;The treaty was **ratified** by all member states.;Договор ратифицировали все государства-члены.
+C1;verb;;rebound;;;rebounded;rebounded;отскакивать, восстанавливаться;Share prices **rebounded** after the announcement.;После объявления курсы акций восстановились.
+C1;verb;;reimburse;;;reimbursed;reimbursed;возмещать (расходы);The company will **reimburse** your travel expenses.;Компания возместит ваши транспортные расходы.
+C1;verb;;reinstate;;;reinstated;reinstated;восстанавливать (в должности);The court ordered that she be **reinstated** in her job.;Суд постановил восстановить её на работе.
+C1;verb;;relegate;;;relegated;relegated;понижать, отодвигать, переводить в низшую лигу;The team was **relegated** to the second division.;Команду перевели во второй дивизион.
+C1;verb;;renovate;;;renovated;renovated;ремонтировать, реставрировать;They **renovated** the old farmhouse completely.;Они полностью отремонтировали старый фермерский дом.
+C1;verb;;repel;;;repelled;repelled;отталкивать, отражать (атаку);This natural spray **repels** mosquitoes for several hours.;Этот натуральный спрей отпугивает комаров на несколько часов.
+C1;verb;;repudiate;;;repudiated;repudiated;отвергать, отрекаться;The minister **repudiated** the accusations.;Министр отверг обвинения.
+C1;verb;;resonate;;;resonated;resonated;находить отклик, резонировать;His speech **resonated** with young voters.;Его речь нашла отклик у молодых избирателей.
+C1;verb;;resurrect;;;resurrected;resurrected;воскрешать, возрождать;The band **resurrected** some of their old songs.;Группа возродила некоторые из своих старых песен.
+C1;verb;;retract;;;retracted;retracted;отзывать, брать назад (слова);The newspaper **retracted** the story the next day.;На следующий день газета опровергла статью.
+C1;verb;;revert;;;reverted;reverted;возвращаться (к прежнему);After the holidays we **reverted** to our usual routine.;После праздников мы вернулись к обычному распорядку.
+C1;verb;;salvage;;;salvaged;salvaged;спасать (от гибели, потери);They managed to **salvage** some furniture from the fire.;Им удалось спасти часть мебели из огня.
+C1;verb;;saturate;;;saturated;saturated;насыщать, пропитывать;The market is **saturated** with cheap phones.;Рынок перенасыщен дешёвыми телефонами.
+C1;verb;;shatter;;;shattered;shattered;разбивать вдребезги, разрушать;The news **shattered** all her hopes.;Новость разрушила все её надежды.
+C1;verb;;shed;;;shed;shed;сбрасывать, проливать, терять;The company plans to **shed** 500 jobs.;Компания планирует сократить 500 рабочих мест.
+C1;verb;;smother;;;smothered;smothered;душить, подавлять, покрывать (толстым слоем);She **smothered** her toast in butter.;Она густо намазала тост маслом.
+C1;verb;;soothe;;;soothed;soothed;успокаивать, облегчать (боль);This cream will **soothe** your skin.;Этот крем успокоит вашу кожу.
+C1;verb;;straddle;;;straddled;straddled;сидеть верхом, охватывать (две сферы);The town **straddles** the border between two countries.;Город расположен по обе стороны границы двух стран.
+C1;verb;;subvert;;;subverted;subverted;подрывать, ниспровергать;They were accused of trying to **subvert** the government.;Их обвинили в попытке свергнуть правительство.
+C1;verb;;surmount;;;surmounted;surmounted;преодолевать;She **surmounted** many obstacles to become a doctor.;Она преодолела множество препятствий, чтобы стать врачом.
+C1;verb;;taint;;;tainted;tainted;запятнать, испортить, заражать;The scandal **tainted** his reputation forever.;Скандал навсегда запятнал его репутацию.
+C1;verb;;tamper;;;tampered;tampered;вмешиваться, подделывать, портить;Someone had **tampered** with the lock.;Кто-то повредил замок.
+C1;verb;;unravel;;;unravelled/unraveled;unravelled/unraveled;распутывать, разгадывать, рушиться;Detectives finally **unravelled** the mystery.;Детективы наконец разгадали тайну.
+C1;verb;;uproot;;;uprooted;uprooted;вырывать с корнем, срывать с места;The storm **uprooted** several trees in the park.;Буря вырвала с корнем несколько деревьев в парке.
+C1;verb;;vie;;;vied;vied;соперничать, состязаться;Several companies are **vying** for the contract.;Несколько компаний соперничают за контракт.
+C1;verb;;withhold;;;withheld;withheld;удерживать, утаивать;The police **withheld** the victim's name.;Полиция не стала разглашать имя жертвы.
+C1;verb;;wrestle;;;wrestled;wrestled;бороться, мучиться (с проблемой);He **wrestled** with the decision for weeks.;Он неделями мучился над этим решением.
+C1;verb;;abide by;;;abided by;abided by;соблюдать, придерживаться;All members must **abide by** the rules.;Все члены обязаны соблюдать правила.
+C1;verb;;blurt out;;;blurted out;blurted out;выпалить, сболтнуть;He **blurted out** the secret before he could stop himself.;Он выпалил секрет, не успев себя остановить.
+C1;verb;;boil down to;;;boiled down to;boiled down to;сводиться к;The problem **boils down to** a lack of money.;Проблема сводится к нехватке денег.
+C1;verb;;bottle up;;;bottled up;bottled up;сдерживать, держать в себе (чувства);It's not healthy to **bottle up** your emotions.;Держать эмоции в себе вредно.
+C1;verb;;branch out;;;branched out;branched out;расширять деятельность, пробовать новое;The bakery has **branched out** into catering.;Пекарня расширила деятельность и занялась кейтерингом.
+C1;verb;;chip in;;;chipped in;chipped in;скинуться, вставить слово;We all **chipped in** to buy her a present.;Мы все скинулись, чтобы купить ей подарок.
+C1;verb;;crop up;;;cropped up;cropped up;внезапно возникать;Something has **cropped up**, so I'll be late.;Кое-что неожиданно случилось, так что я опоздаю.
+C1;verb;;dawn on;;;dawned on;dawned on;осенить, дойти (о понимании);It suddenly **dawned on** me that I'd left my keys.;Меня вдруг осенило, что я забыл ключи.
+C1;verb;;drum up;;;drummed up;drummed up;привлекать, добиваться (поддержки);They are trying to **drum up** support for the campaign.;Они пытаются привлечь поддержку кампании.
+C1;verb;;eke out;;;eked out;eked out;растягивать, с трудом добывать (средства);The family **eked out** a living from farming.;Семья с трудом зарабатывала на жизнь сельским хозяйством.
+C1;verb;;factor in;;;factored in;factored in;учитывать, принимать в расчёт;Don't forget to **factor in** the cost of insurance.;Не забудьте учесть стоимость страховки.
+C1;verb;;flesh out;;;fleshed out;fleshed out;детализировать, дополнять;We need to **flesh out** the details of the plan.;Нам нужно проработать детали плана.
+C1;verb;;follow through;;;followed through;followed through;доводить до конца;He never **follows through** on his promises.;Он никогда не выполняет своих обещаний до конца.
+C1;verb;;jot down;;;jotted down;jotted down;быстро записать, набросать;I **jotted down** her phone number on a napkin.;Я быстро записал её номер телефона на салфетке.
+C1;verb;;muddle through;;;muddled through;muddled through;кое-как справиться;We had no plan, but we **muddled through** somehow.;У нас не было плана, но мы как-то справились.
+C1;verb;;piece together;;;pieced together;pieced together;восстанавливать (картину событий);Police are trying to **piece together** what happened.;Полиция пытается восстановить картину произошедшего.
+C1;verb;;pore over;;;pored over;pored over;внимательно изучать, корпеть над;She **pored over** the documents all night.;Она всю ночь корпела над документами.
+C1;verb;;rein in;;;reined in;reined in;обуздывать, сдерживать;The government must **rein in** public spending.;Правительство должно сдерживать государственные расходы.
+C1;verb;;size up;;;sized up;sized up;оценивать (человека, ситуацию);She quickly **sized up** the situation and called for help.;Она быстро оценила ситуацию и позвала на помощь.
+C1;verb;;sound out;;;sounded out;sounded out;прощупывать (мнение), выяснять;I'll **sound out** my boss about a day off.;Я прощупаю почву у начальника насчёт выходного.
+C1;verb;;tap into;;;tapped into;tapped into;использовать, задействовать (ресурс);The company wants to **tap into** the Asian market.;Компания хочет выйти на азиатский рынок.
+C1;verb;;usher in;;;ushered in;ushered in;возвещать, открывать (новую эпоху);The invention **ushered in** a new era of communication.;Это изобретение открыло новую эру в средствах связи.
+C1;verb;;while away;;;whiled away;whiled away;коротать (время);We **whiled away** the afternoon playing cards.;Мы коротали день за игрой в карты.
+C1;verb;;yearn for;;;yearned for;yearned for;тосковать по, страстно желать;She **yearned for** the peace of the countryside.;Она тосковала по покою сельской жизни.
+C1;adj;;abject;;;;;крайний, жалкий, беспросветный;They live in **abject** poverty.;Они живут в крайней нищете.
+C1;adj;;abrasive;;;;;резкий, грубый, абразивный;His **abrasive** manner upsets his colleagues.;Его резкая манера раздражает коллег.
+C1;adj;;acrimonious;;;;;язвительный, ожесточённый;The couple went through an **acrimonious** divorce.;Пара пережила ожесточённый развод.
+C1;adj;;admissible;;;;;допустимый, приемлемый (в суде);The evidence was not **admissible** in court.;Эти доказательства были недопустимы в суде.
+C1;adj;;amicable;;;;;дружественный, мирный;They reached an **amicable** agreement.;Они пришли к мирному соглашению.
+C1;adj;;appalling;;;;;ужасающий, отвратительный;The prisoners lived in **appalling** conditions.;Заключённые жили в ужасающих условиях.
+C1;adj;;apt;;;;;уместный, меткий, склонный;That's a very **apt** description of him.;Это очень меткое описание его.
+C1;adj;;ardent;;;;;пылкий, страстный, ярый;He is an **ardent** supporter of the local team.;Он ярый болельщик местной команды.
+C1;adj;;austere;;;;;строгий, аскетичный, суровый;The monks live an **austere** life.;Монахи ведут аскетичную жизнь.
+C1;adj;;auxiliary;;;;;вспомогательный, дополнительный;The hospital has an **auxiliary** power supply.;В больнице есть резервный источник питания.
+C1;adj;;benevolent;;;;;доброжелательный, благотворительный;He was a **benevolent** ruler loved by his people.;Он был доброжелательным правителем, любимым народом.
+C1;adj;;benign;;;;;доброкачественный, безвредный, мягкий;Luckily, the tumour was **benign**.;К счастью, опухоль оказалась доброкачественной.
+C1;adj;;buoyant;;;;;плавучий, бодрый, оживлённый (о рынке);The housing market remains **buoyant**.;Рынок жилья остаётся оживлённым.
+C1;adj;;coarse;;;;;грубый, крупный (о помоле);The fabric felt **coarse** against her skin.;Ткань казалась грубой на ощупь.
+C1;adj;;compulsive;;;;;навязчивый, заядлый;He is a **compulsive** gambler.;Он заядлый игрок.
+C1;adj;;condescending;;;;;снисходительный, высокомерный;I hate his **condescending** tone.;Ненавижу его снисходительный тон.
+C1;adj;;congenial;;;;;приятный, близкий по духу;We worked in a **congenial** atmosphere.;Мы работали в приятной атмосфере.
+C1;adj;;contrived;;;;;надуманный, неестественный;The ending of the film felt rather **contrived**.;Концовка фильма показалась довольно надуманной.
+C1;adj;;cryptic;;;;;загадочный, зашифрованный;She left a **cryptic** message on my phone.;Она оставила загадочное сообщение на моём телефоне.
+C1;adj;;deft;;;;;ловкий, искусный;With a few **deft** movements, he fixed the machine.;Несколькими ловкими движениями он починил машину.
+C1;adj;;deplorable;;;;;прискорбный, плачевный;The state of the roads is **deplorable**.;Состояние дорог плачевное.
+C1;adj;;discreet;;;;;сдержанный, тактичный, осмотрительный;Please be **discreet** about what I told you.;Пожалуйста, не распространяйся о том, что я тебе рассказал.
+C1;adj;;drastic;;;;;радикальный, резкий;The government took **drastic** measures to cut costs.;Правительство приняло радикальные меры для сокращения расходов.
+C1;adj;;elusive;;;;;неуловимый, труднодостижимый;Success remained **elusive** for many years.;Успех оставался недосягаемым много лет.
+C1;adj;;eminent;;;;;выдающийся, видный;She is an **eminent** scientist in her field.;Она выдающийся учёный в своей области.
+C1;adj;;empirical;;;;;эмпирический, опытный;There is little **empirical** evidence for this theory.;Для этой теории мало эмпирических доказательств.
+C1;adj;;enigmatic;;;;;загадочный;She gave him an **enigmatic** smile.;Она загадочно ему улыбнулась.
+C1;adj;;erratic;;;;;непредсказуемый, неустойчивый;His behaviour has become increasingly **erratic**.;Его поведение становится всё более непредсказуемым.
+C1;adj;;esoteric;;;;;эзотерический, понятный немногим;The lecture was too **esoteric** for most students.;Лекция была слишком мудрёной для большинства студентов.
+C1;adj;;exquisite;;;;;изысканный, утончённый;The restaurant serves **exquisite** French cuisine.;Ресторан подаёт изысканную французскую кухню.
+C1;adj;;extravagant;;;;;расточительный, экстравагантный;Buying a new car was a bit **extravagant**.;Покупка новой машины была несколько расточительной.
+C1;adj;;fallible;;;;;способный ошибаться, небезупречный;Even the most experienced experts are **fallible**.;Даже самые опытные эксперты могут ошибаться.
+C1;adj;;far-fetched;;;;;надуманный, неправдоподобный;His story sounds a bit **far-fetched** to me.;Его история кажется мне несколько неправдоподобной.
+C1;adj;;fickle;;;;;непостоянный, переменчивый;Fans can be very **fickle**.;Болельщики бывают очень непостоянными.
+C1;adj;;flawed;;;;;ошибочный, несовершенный, с изъяном;The study was seriously **flawed**.;Исследование было серьёзно ошибочным.
+C1;adj;;frail;;;;;хрупкий, слабый (здоровьем);My grandmother is getting very **frail**.;Моя бабушка становится очень слабой.
+C1;adj;;frantic;;;;;неистовый, лихорадочный, отчаянный;There was a **frantic** search for the missing child.;Шли лихорадочные поиски пропавшего ребёнка.
+C1;adj;;frugal;;;;;бережливый, скромный (о еде);They live a very **frugal** life.;Они ведут очень скромную жизнь.
+C1;adj;;futile;;;;;тщетный, бесполезный;All attempts to save him were **futile**.;Все попытки спасти его были тщетными.
+C1;adj;;gratuitous;;;;;неоправданный, беспричинный;The film contains a lot of **gratuitous** violence.;В фильме много неоправданного насилия.
+C1;adj;;gregarious;;;;;общительный, стадный;She is a **gregarious** person who loves parties.;Она общительный человек, который обожает вечеринки.
+C1;adj;;gullible;;;;;легковерный, доверчивый;Only a **gullible** person would believe that.;Только легковерный человек поверит в это.
+C1;adj;;hypothetical;;;;;гипотетический, предположительный;Let's consider a **hypothetical** situation.;Давайте рассмотрим гипотетическую ситуацию.
+C1;adj;;impartial;;;;;беспристрастный;We need an **impartial** observer to judge the contest.;Нам нужен беспристрастный наблюдатель для судейства конкурса.
+C1;adj;;impeccable;;;;;безупречный;Her grandfather always had **impeccable** manners.;У её дедушки всегда были безупречные манеры.
+C1;adj;;imperative;;;;;крайне необходимый, настоятельный;It is **imperative** that we act now.;Крайне необходимо, чтобы мы действовали сейчас.
+C1;adj;;incessant;;;;;непрекращающийся, беспрерывный;The **incessant** noise kept me awake.;Непрекращающийся шум не давал мне уснуть.
+C1;adj;;incoherent;;;;;бессвязный, непоследовательный;He was so drunk that he was **incoherent**.;Он был так пьян, что говорил бессвязно.
+C1;adj;;indispensable;;;;;незаменимый, необходимый;She has become **indispensable** to the company.;Она стала незаменимой для компании.
+C1;adj;;inept;;;;;неумелый, неуклюжий;The government's response was completely **inept**.;Реакция правительства была совершенно неумелой.
+C1;adj;;insatiable;;;;;ненасытный;She has an **insatiable** appetite for knowledge.;У неё ненасытная жажда знаний.
+C1;adj;;insidious;;;;;коварный, незаметно подкрадывающийся;High blood pressure is an **insidious** disease.;Высокое давление — коварная болезнь.
+C1;adj;;intricate;;;;;замысловатый, запутанный;The carpet has an **intricate** pattern.;На ковре замысловатый узор.
+C1;adj;;lavish;;;;;роскошный, щедрый;They threw a **lavish** party for their anniversary.;Они устроили роскошную вечеринку в честь годовщины.
+C1;adj;;lenient;;;;;снисходительный, мягкий;The judge was criticised for being too **lenient**.;Судью критиковали за чрезмерную мягкость.
+C1;adj;;lethal;;;;;смертельный, летальный;He was given a **lethal** injection.;Ему сделали смертельную инъекцию.
+C1;adj;;lucid;;;;;ясный, понятный, в здравом уме;She gave a **lucid** explanation of the problem.;Она дала ясное объяснение проблемы.
+C1;adj;;lucrative;;;;;прибыльный, доходный;He has a **lucrative** job in finance.;У него прибыльная работа в сфере финансов.
+C1;adj;;ludicrous;;;;;нелепый, смехотворный;The idea is absolutely **ludicrous**.;Эта идея совершенно нелепа.
+C1;adj;;mundane;;;;;обыденный, приземлённый;She was tired of **mundane** household tasks.;Она устала от обыденных домашних дел.
+C1;adj;;notorious;;;;;печально известный, пресловутый;The area is **notorious** for crime.;Этот район печально известен своей преступностью.
+C1;adj;;ominous;;;;;зловещий, угрожающий;There were **ominous** black clouds in the sky.;На небе были зловещие чёрные тучи.
+C1;adj;;opaque;;;;;непрозрачный, непонятный;The bathroom window is made of **opaque** glass.;Окно ванной сделано из непрозрачного стекла.
+C1;adj;;outspoken;;;;;откровенный, прямолинейный;She is an **outspoken** critic of the government.;Она открыто критикует правительство.
+C1;adj;;pragmatic;;;;;прагматичный, практичный;We need a **pragmatic** approach to the problem.;Нам нужен прагматичный подход к проблеме.
+C1;adj;;precarious;;;;;ненадёжный, шаткий, рискованный;The company is in a **precarious** financial position.;Компания находится в шатком финансовом положении.
+C1;adj;;prolific;;;;;плодовитый, продуктивный;He was a **prolific** writer with over fifty novels.;Он был плодовитым писателем, автором более пятидесяти романов.
+C1;adj;;prudent;;;;;благоразумный, осмотрительный;It would be **prudent** to save some money.;Было бы благоразумно отложить немного денег.
+C1;adj;;relentless;;;;;неумолимый, неустанный;The team faced **relentless** pressure from the media.;Команда испытывала неослабевающее давление со стороны СМИ.
+C1;adj;;rudimentary;;;;;элементарный, зачаточный;I have only a **rudimentary** knowledge of Spanish.;У меня лишь элементарные знания испанского.
+C1;adj;;ruthless;;;;;безжалостный, беспощадный;He was a **ruthless** businessman.;Он был безжалостным бизнесменом.
+C1;adj;;seamless;;;;;бесшовный, плавный, слаженный;The app offers a **seamless** user experience.;Приложение обеспечивает плавную работу для пользователя.
+C1;adj;;sombre;;;;;мрачный, угрюмый, тёмный;The mood at the funeral was **sombre**.;Настроение на похоронах было мрачным.
+C1;adj;;staunch;;;;;стойкий, верный, убеждённый;She is a **staunch** defender of human rights.;Она стойкий защитник прав человека.
+C1;adj;;stringent;;;;;строгий, жёсткий;The country has **stringent** laws on gun ownership.;В стране строгие законы о владении оружием.
+C1;adj;;unprecedented;;;;;беспрецедентный;The company saw **unprecedented** growth last year.;В прошлом году компания показала беспрецедентный рост.
+C1;adj;;whimsical;;;;;причудливый, прихотливый;The book has a **whimsical** sense of humour.;В книге причудливое чувство юмора.
+C1;adj;;zealous;;;;;ревностный, усердный;He is a **zealous** supporter of the cause.;Он ревностный сторонник этого дела.
+C1;adv;;adversely;;;;;неблагоприятно, отрицательно;The drought has **adversely** affected crops.;Засуха неблагоприятно сказалась на урожае.
+C1;adv;;allegedly;;;;;якобы, предположительно;The man **allegedly** stole thousands of pounds.;Мужчина якобы украл тысячи фунтов.
+C1;adv;;candidly;;;;;откровенно, честно;She spoke **candidly** about her past.;Она откровенно рассказала о своём прошлом.
+C1;adv;;conversely;;;;;и наоборот, напротив;Some people love the city. **Conversely**, others prefer the countryside.;Некоторые любят город. Другие, напротив, предпочитают деревню.
+C1;adv;;duly;;;;;должным образом, своевременно;The documents were **duly** signed by both parties.;Документы были должным образом подписаны обеими сторонами.
+C1;adv;;emphatically;;;;;решительно, категорически;He **emphatically** denied the accusations.;Он категорически отверг обвинения.
+C1;adv;;inadvertently;;;;;нечаянно, ненамеренно;I **inadvertently** deleted the important file.;Я нечаянно удалил важный файл.
+C1;adv;;inherently;;;;;по своей сути, изначально;No job is **inherently** boring.;Ни одна работа не скучна по своей сути.
+C1;adv;;invariably;;;;;неизменно, всегда;He is **invariably** late for meetings.;Он неизменно опаздывает на встречи.
+C1;adv;;markedly;;;;;заметно, значительно;Her health has improved **markedly** this year.;Её здоровье заметно улучшилось в этом году.
+C1;adv;;ostensibly;;;;;якобы, по видимости;He came, **ostensibly** to help, but mostly just talked.;Он пришёл якобы помочь, но в основном просто болтал.
+C1;adv;;painstakingly;;;;;кропотливо, тщательно;The old church was **painstakingly** restored.;Старая церковь была кропотливо отреставрирована.
+C1;adv;;predominantly;;;;;преимущественно, главным образом;The area is **predominantly** residential.;Этот район преимущественно жилой.
+C1;adv;;profoundly;;;;;глубоко, в высшей степени;The book **profoundly** changed the way I think.;Книга глубоко изменила мой образ мыслей.
+C1;adv;;purportedly;;;;;якобы, предположительно;The painting is **purportedly** by Rembrandt.;Картина якобы принадлежит кисти Рембрандта.
+C1;adv;;reportedly;;;;;по сообщениям, как сообщается;The singer is **reportedly** planning a world tour.;По сообщениям, певец планирует мировое турне.
+C1;adv;;tentatively;;;;;предварительно, неуверенно, осторожно;The meeting is **tentatively** scheduled for Friday.;Встреча предварительно назначена на пятницу.
+C1;adv;;undeniably;;;;;бесспорно, несомненно;The young pianist is **undeniably** talented.;Молодой пианист несомненно талантлив.
+C1;adv;;unwittingly;;;;;невольно, по незнанию;He **unwittingly** helped the criminals escape.;Он невольно помог преступникам сбежать.
+C1;adv;;vehemently;;;;;яростно, горячо;She **vehemently** opposed the new plan.;Она яростно выступала против нового плана.
+C1;adv;;wholeheartedly;;;;;всем сердцем, безоговорочно;I **wholeheartedly** agree with you.;Я полностью с вами согласен.
