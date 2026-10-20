@@ -3,7 +3,7 @@
 Output: plain text file, one word per line, NO header, exactly 11 fields separated by `;`:
 level;pos;article;word;plural;praesens;praeteritum;perfekt;translations;example;example_ru
 
-- level: the CEFR level you were assigned (A2, B1 or B2).
+- level: the level you were assigned (A1–C2, or BIZ for the "Business & IT" topic set).
 - pos: one of noun, verb, adj, adv, prep, pron, conj, num, part, interj
 - article: ALWAYS empty.
 - word: base form, lowercase (except proper-like words). Verbs WITHOUT "to". Phrasal verbs allowed (e.g. "give up").

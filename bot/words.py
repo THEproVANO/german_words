@@ -5,8 +5,8 @@ import sqlite3
 import unicodedata
 
 from . import db
-from .config import DATA_DIR, LEVELS
-from .i18n import POS_NAMES, pos_name, t
+from .config import ALL_LEVELS, DATA_DIR, TOPICS
+from .i18n import POS_NAMES, level_name, pos_name, t
 
 FIELDS = ["level", "pos", "article", "word", "plural", "praesens", "praeteritum",
           "perfekt", "translations", "example", "example_ru"]
@@ -21,12 +21,15 @@ def load_words() -> int:
         with path.open(encoding="utf-8") as f:
             for n, row in enumerate(csv.DictReader(f, delimiter=";"), start=2):
                 row = {k: (row.get(k) or "").strip() for k in FIELDS}
-                if row["level"] not in LEVELS or row["pos"] not in POS_NAMES["ru"]:
+                if row["level"] not in ALL_LEVELS or row["pos"] not in POS_NAMES["ru"]:
                     raise ValueError(f"{path.name}, строка {n}: неверный уровень или часть речи")
                 if not (row["word"] and row["translations"] and row["example"]):
                     raise ValueError(f"{path.name}, строка {n}: не заполнены обязательные поля")
                 row["lang"] = lang
                 row["key"] = f"{lang}:{row['pos']}:{row['article']}:{row['word']}"
+                if row["level"] in TOPICS:
+                    # Тематический набор может повторять слова из A1–C2, поэтому ключ свой
+                    row["key"] = f"{row['level']}:{row['key']}"
                 rows.append(row)
         db.upsert_words(rows)
         total += len(rows)
@@ -61,7 +64,7 @@ def format_card(w: sqlite3.Row, lang: str) -> str:
             head += " — " + " — ".join(e(f) for f in forms)
 
     return (
-        f"<i>{pos_name(lang, w['pos'])}</i> · {w['level']}\n"
+        f"<i>{pos_name(lang, w['pos'])}</i> · {level_name(lang, w['level'])}\n"
         f"{head}\n"
         f"🇷🇺 {e(w['translations'])}\n\n"
         f"{_bold(w['example'])}\n"

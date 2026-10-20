@@ -13,6 +13,9 @@ DB_PATH = os.getenv("DB_PATH", str(ROOT / "bot.db"))
 DATA_DIR = ROOT / "data"
 
 LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
+# Тематические наборы слов: выбираются как отдельный уровень, без уровней ниже
+TOPICS = ["BIZ"]
+ALL_LEVELS = LEVELS + TOPICS
 LANGUAGES = ["de", "en", "es"]
 
 # Расписание слов по умолчанию: по одному слову каждые INTERVAL минут с DAY_START до DAY_END,

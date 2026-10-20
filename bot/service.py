@@ -13,7 +13,7 @@ from aiogram import Bot
 from aiogram.exceptions import TelegramForbiddenError
 
 from . import db, keyboards, words
-from .i18n import t
+from .i18n import level_name, t
 from .config import DAILY_QUIZ_SIZE, QUIZ_HOUR, TICK_SECONDS, WEEKLY_QUIZ_SIZE
 
 log = logging.getLogger(__name__)
@@ -70,7 +70,7 @@ async def send_new_word(bot: Bot, user: sqlite3.Row) -> bool:
     lang = user["ui_lang"]
     await bot.send_message(user["id"], words.format_card(word, lang))
     if db.pick_new_word(user) is None:
-        await bot.send_message(user["id"], t(lang, "last_word", level=user["level"]))
+        await bot.send_message(user["id"], t(lang, "last_word", level=level_name(lang, user["level"])))
     return True
 
 
@@ -156,11 +156,11 @@ def summary_text(user: sqlite3.Row, quiz: sqlite3.Row) -> str:
     per_day = len(slots(user))
     remaining = total - learned
     if remaining <= 0 or per_day == 0:
-        forecast = t(lang, "forecast_done", level=user["level"])
+        forecast = t(lang, "forecast_done", level=level_name(lang, user["level"]))
     else:
         days = math.ceil(remaining / per_day)
         finish = (local_now(user).date() + timedelta(days=days)).strftime("%d.%m.%Y")
-        forecast = t(lang, "forecast", level=user["level"], days=days, date=finish)
+        forecast = t(lang, "forecast", level=level_name(lang, user["level"]), days=days, date=finish)
     avg = f"{week / 7:.1f}" if lang == "en" else f"{week / 7:.1f}".replace(".", ",")
     return t(lang, "summary_weekly", week=week, avg=avg, learned=learned,
              total=total, percent=percent, schedule=schedule_text(user), per_day=per_day,

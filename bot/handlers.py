@@ -3,9 +3,9 @@ from aiogram.filters import Command, CommandStart
 from aiogram.types import CallbackQuery, Message
 
 from . import db, keyboards, service
-from .config import (ADMIN_IDS, DAILY_QUIZ_SIZE, DEFAULT_TZ, DEFAULT_TZ_BY_UI, LANGUAGES,
-                     LEVELS, QUIZ_HOUR, TIMEZONES, WEEKLY_QUIZ_SIZE)
-from .i18n import CHOOSE_UI, UI_LANGUAGES, all_variants, city, t
+from .config import (ADMIN_IDS, ALL_LEVELS, DAILY_QUIZ_SIZE, DEFAULT_TZ, DEFAULT_TZ_BY_UI, LANGUAGES,
+                     LEVELS, QUIZ_HOUR, TIMEZONES, TOPICS, WEEKLY_QUIZ_SIZE)
+from .i18n import CHOOSE_UI, UI_LANGUAGES, all_variants, city, level_name, t
 
 router = Router()
 
@@ -77,7 +77,7 @@ async def choose_language(call: CallbackQuery) -> None:
     # При смене изучаемого языка из профиля уровень выбирается заново: у языков разный набор уровней
     db.update_user(call.from_user.id, lang=lang)
     await call.message.edit_text(t(ui, "lang_chosen", language=t(ui, f"learn_{lang}")),
-                                 reply_markup=keyboards.levels(db.available_levels(lang)))
+                                 reply_markup=keyboards.levels(ui, db.available_levels(lang)))
     await call.answer()
 
 
@@ -85,6 +85,9 @@ async def choose_language(call: CallbackQuery) -> None:
 async def choose_level(call: CallbackQuery, bot: Bot) -> None:
     level = call.data.split(":")[1]
     user_id = call.from_user.id
+    if level not in ALL_LEVELS:
+        await call.answer()
+        return
     async with service.user_locks[user_id]:
         user = db.get_user(user_id)
         if not user or not user["lang"]:
@@ -94,10 +97,10 @@ async def choose_level(call: CallbackQuery, bot: Bot) -> None:
         lang = user["ui_lang"]
         db.update_user(user_id, level=level)
         await call.answer()
-        if level == LEVELS[0]:
-            # Ниже первого уровня ничего нет, спрашивать незачем
+        if level == LEVELS[0] or level in TOPICS:
+            # Ниже первого уровня ничего нет, у тематического набора уровней нет — спрашивать незачем
             db.update_user(user_id, include_lower=1)
-            await call.message.edit_text(t(lang, "level_set", level=level))
+            await call.message.edit_text(t(lang, "level_set", level=level_name(lang, level)))
             await finish_setup(bot, db.get_user(user_id))
             return
         await call.message.edit_text(t(lang, "ask_scope", level=level),
@@ -119,8 +122,8 @@ async def choose_scope(call: CallbackQuery, bot: Bot) -> None:
 
 
 def scope_text(user) -> str:
-    if user["level"] == LEVELS[0]:
-        return user["level"]
+    if user["level"] == LEVELS[0] or user["level"] in TOPICS:
+        return level_name(user["ui_lang"], user["level"])
     return t(user["ui_lang"], "scope_all" if user["include_lower"] else "scope_only",
              level=user["level"])
 
@@ -229,7 +232,7 @@ async def profile_action(call: CallbackQuery, bot: Bot) -> None:
         await call.message.answer(CHOOSE_UI, reply_markup=keyboards.ui_languages)
     else:
         text, markup = {
-            "level": ("ask_level", keyboards.levels(db.available_levels(user["lang"]))),
+            "level": ("ask_level", keyboards.levels(lang, db.available_levels(user["lang"]))),
             "learn": ("ask_learn", keyboards.languages(lang)),
             "tz": ("ask_tz", keyboards.timezones(lang)),
             "interval": ("ask_interval", keyboards.intervals(lang)),

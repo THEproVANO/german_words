@@ -3,8 +3,9 @@ from aiogram.types import (InlineKeyboardButton, InlineKeyboardMarkup, KeyboardB
 
 from . import db
 from .config import (DAY_END_OPTIONS, DAY_START_OPTIONS, INTERVAL_OPTIONS, LANGUAGES, TIMEZONES,
+                     TOPICS,
                      WORDS_PER_DAY_OPTIONS)
-from .i18n import UI_LANGUAGES, city, t
+from .i18n import UI_LANGUAGES, city, level_name, t
 
 
 def _button(text: str, data: str) -> InlineKeyboardButton:
@@ -32,12 +33,13 @@ def languages(lang: str) -> InlineKeyboardMarkup:
     ])
 
 
-def levels(available: list[str]) -> InlineKeyboardMarkup:
-    """Кнопки уровней по три в ряд — только те уровни, где есть слова."""
-    return InlineKeyboardMarkup(inline_keyboard=[
-        [_button(lvl, f"level:{lvl}") for lvl in available[i:i + 3]]
-        for i in range(0, len(available), 3)
-    ])
+def levels(lang: str, available: list[str]) -> InlineKeyboardMarkup:
+    """Кнопки уровней по три в ряд и тематические наборы отдельными строками —
+    только те, где есть слова."""
+    cefr = [lvl for lvl in available if lvl not in TOPICS]
+    rows = [[_button(lvl, f"level:{lvl}") for lvl in cefr[i:i + 3]] for i in range(0, len(cefr), 3)]
+    rows += [[_button(level_name(lang, lvl), f"level:{lvl}")] for lvl in available if lvl in TOPICS]
+    return InlineKeyboardMarkup(inline_keyboard=rows)
 
 
 def scope(lang: str, level: str) -> InlineKeyboardMarkup:

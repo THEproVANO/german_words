@@ -164,21 +164,21 @@ TEXTS = {
         "es": "Primero termina el test 📝",
     },
     "all_learned": {
-        "ru": "Все слова этого уровня уже изучены 🎉 Выбери уровень выше в профиле.",
-        "en": "You've learned all the words of this level 🎉 Choose a higher level in your profile.",
-        "fr": "Tu as appris tous les mots de ce niveau 🎉 Choisis un niveau supérieur dans ton profil.",
+        "ru": "Все слова этого уровня уже изучены 🎉 Выбери другой уровень в профиле.",
+        "en": "You've learned all the words of this level 🎉 Choose another level in your profile.",
+        "fr": "Tu as appris tous les mots de ce niveau 🎉 Choisis un autre niveau dans ton profil.",
         "es": "Ya has aprendido todas las palabras de este nivel 🎉 "
-              "Elige un nivel superior en tu perfil.",
+              "Elige otro nivel en tu perfil.",
     },
     "last_word": {
         "ru": "🎉 Это было последнее слово уровня {level}! "
-              "Выбери уровень выше в профиле, чтобы продолжить.",
+              "Выбери другой уровень в профиле, чтобы продолжить.",
         "en": "🎉 That was the last word of level {level}! "
-              "Choose a higher level in your profile to continue.",
+              "Choose another level in your profile to continue.",
         "fr": "🎉 C'était le dernier mot du niveau {level} ! "
-              "Choisis un niveau supérieur dans ton profil pour continuer.",
+              "Choisis un autre niveau dans ton profil pour continuer.",
         "es": "🎉 ¡Esa era la última palabra del nivel {level}! "
-              "Elige un nivel superior en tu perfil para continuar.",
+              "Elige otro nivel en tu perfil para continuar.",
     },
     "no_quiz": {
         "ru": "Сейчас нет активного теста. Используй кнопки меню 👇",
@@ -242,6 +242,8 @@ TEXTS = {
     "btn_pause": {"ru": "⏸ Пауза", "en": "⏸ Pause", "fr": "⏸ Pause", "es": "⏸ Pausa"},
     "btn_resume": {"ru": "▶️ Продолжить", "en": "▶️ Resume", "fr": "▶️ Reprendre",
                    "es": "▶️ Reanudar"},
+    "level_BIZ": {"ru": "💼 Бизнес и IT", "en": "💼 Business & IT", "fr": "💼 Affaires et IT",
+                  "es": "💼 Negocios e IT"},
     "btn_restart": {"ru": "🔄 Перезапуск (для обновления версии бота)",
                     "en": "🔄 Restart (to update the bot version)",
                     "fr": "🔄 Redémarrer (pour mettre à jour le bot)",
@@ -587,6 +589,11 @@ def t(lang: str, key: str, **kwargs) -> str:
 def all_variants(key: str) -> set[str]:
     """Текст на всех языках: нужен, чтобы узнавать кнопки меню на любом языке."""
     return set(TEXTS[key].values())
+
+
+def level_name(lang: str, level: str) -> str:
+    """A1…C2 как есть, тематический уровень — названием на языке бота."""
+    return TEXTS[f"level_{level}"][lang] if f"level_{level}" in TEXTS else level
 
 
 def pos_name(lang: str, pos: str) -> str:

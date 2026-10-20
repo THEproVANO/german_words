@@ -1,7 +1,8 @@
 import sqlite3
 from datetime import date, datetime, timezone
 
-from .config import DAY_END, DAY_START, DB_PATH, INTERVAL, LEVELS, WORDS_PER_DAY
+from .config import (ALL_LEVELS, DAY_END, DAY_START, DB_PATH, INTERVAL, LEVELS, TOPICS,
+                     WORDS_PER_DAY)
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS users (
@@ -87,8 +88,11 @@ def levels_up_to(level: str) -> list[str]:
 
 
 def user_levels(user: sqlite3.Row) -> list[str]:
-    """Уровни, из которых пользователь получает слова: выбранный и, по желанию, все ниже."""
-    return levels_up_to(user["level"]) if user["include_lower"] else [user["level"]]
+    """Уровни, из которых пользователь получает слова: выбранный и, по желанию, все ниже.
+    У тематического уровня уровней ниже нет."""
+    if user["level"] in TOPICS or not user["include_lower"]:
+        return [user["level"]]
+    return levels_up_to(user["level"])
 
 
 def _in(values: list) -> str:
@@ -144,7 +148,7 @@ def upsert_words(rows: list[dict]) -> None:
 def available_levels(lang: str) -> list[str]:
     """Уровни, для которых в словаре изучаемого языка есть слова."""
     present = {r[0] for r in conn.execute("SELECT DISTINCT level FROM words WHERE lang = ?", (lang,))}
-    return [lvl for lvl in LEVELS if lvl in present]
+    return [lvl for lvl in ALL_LEVELS if lvl in present]
 
 
 def get_word(word_id: int) -> sqlite3.Row:
@@ -162,8 +166,12 @@ def pick_new_word(user: sqlite3.Row) -> sqlite3.Row | None:
         f"""SELECT * FROM words
             WHERE lang = ? AND level IN ({_in(levels)})
               AND id NOT IN (SELECT word_id FROM user_words WHERE user_id = ?)
+              -- То же слово из другого набора (A2 и «Бизнес и IT») второй раз не присылаем
+              AND (lang, pos, word) NOT IN (
+                  SELECT w.lang, w.pos, w.word FROM user_words uw JOIN words w ON w.id = uw.word_id
+                  WHERE uw.user_id = ?)
             ORDER BY RANDOM() LIMIT 1""",
-        (user["lang"], *levels, user["id"]),
+        (user["lang"], *levels, user["id"], user["id"]),
     ).fetchone()
 
 
@@ -183,10 +191,14 @@ def progress(user: sqlite3.Row) -> tuple[int, int]:
         f"SELECT COUNT(*) FROM words WHERE lang = ? AND level IN ({_in(levels)})",
         (user["lang"], *levels),
     ).fetchone()[0]
+    # Изученным считается и слово, полученное в другом наборе (A2 и «Бизнес и IT»)
     learned = conn.execute(
-        f"""SELECT COUNT(*) FROM user_words uw JOIN words w ON w.id = uw.word_id
-            WHERE uw.user_id = ? AND w.lang = ? AND w.level IN ({_in(levels)})""",
-        (user["id"], user["lang"], *levels),
+        f"""SELECT COUNT(*) FROM words w
+            WHERE w.lang = ? AND w.level IN ({_in(levels)})
+              AND (w.lang, w.pos, w.word) IN (
+                  SELECT w2.lang, w2.pos, w2.word FROM user_words uw
+                  JOIN words w2 ON w2.id = uw.word_id WHERE uw.user_id = ?)""",
+        (user["lang"], *levels, user["id"]),
     ).fetchone()[0]
     return learned, total
 
