@@ -5,7 +5,7 @@ import sqlite3
 import unicodedata
 
 from . import db
-from .config import ALL_LEVELS, DATA_DIR, TOPICS
+from .config import ALL_LEVELS, DATA_DIR, TOPICS, TRANSLATION_LANGS
 from .i18n import POS_NAMES, level_name, pos_name, t
 
 FIELDS = ["level", "pos", "article", "word", "plural", "praesens", "praeteritum",
@@ -31,17 +31,45 @@ def load_words() -> int:
                     # Тематический набор может повторять слова из A1–C2, поэтому ключ свой
                     row["key"] = f"{row['level']}:{row['key']}"
                 rows.append(row)
+        _add_translations(lang, rows)
         db.upsert_words(rows)
         total += len(rows)
     return total
+
+
+# Флаг языка перевода в карточке и вопросе теста
+FLAGS = {"ru": "🇷🇺", "es": "🇪🇸"}
+
+
+def _add_translations(lang: str, rows: list[dict]) -> None:
+    """Подставляет переводы на другие языки бота из data/translations/<lang>_<tl>.csv
+    (ключ;перевод;пример). Слова без перевода этим пользователям не присылаются."""
+    for tl in TRANSLATION_LANGS:
+        path = DATA_DIR / "translations" / f"{lang}_{tl}.csv"
+        found = {}
+        if path.exists():
+            with path.open(encoding="utf-8") as f:
+                for parts in csv.reader(f, delimiter=";"):
+                    if len(parts) == 3 and parts[1].strip() and parts[2].strip():
+                        found[parts[0]] = (parts[1].strip(), parts[2].strip())
+        for row in rows:
+            row[f"translations_{tl}"], row[f"example_{tl}"] = found.get(row["key"], ("", ""))
+
+
+def translation(w: sqlite3.Row, tl: str) -> tuple[str, str, str]:
+    """(переводы, перевод примера, флаг) на языке tl; если перевода нет — русские."""
+    if tl != "ru" and w[f"translations_{tl}"]:
+        return w[f"translations_{tl}"], w[f"example_{tl}"], FLAGS[tl]
+    return w["translations"], w["example_ru"], FLAGS["ru"]
 
 
 def _bold(text: str) -> str:
     return re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", html.escape(text))
 
 
-def format_card(w: sqlite3.Row, lang: str) -> str:
+def format_card(w: sqlite3.Row, lang: str, tl: str = "ru") -> str:
     e = html.escape
+    tr, example_tr, flag = translation(w, tl)
     article = w["article"]
     if w["lang"] == "es" and w["plural"] == "pl":
         # Испанские слова только во мн. ч. показываем с артиклем мн. ч.: las vacaciones
@@ -66,9 +94,9 @@ def format_card(w: sqlite3.Row, lang: str) -> str:
     return (
         f"<i>{pos_name(lang, w['pos'])}</i> · {level_name(lang, w['level'])}\n"
         f"{head}\n"
-        f"🇷🇺 {e(w['translations'])}\n\n"
+        f"{flag} {e(tr)}\n\n"
         f"{_bold(w['example'])}\n"
-        f"<i>{e(w['example_ru'])}</i>"
+        f"<i>{e(example_tr)}</i>"
     )
 
 
@@ -100,12 +128,12 @@ def _meanings(translations: str) -> set[str]:
     return {m.strip().lower() for m in re.sub(r"\([^)]*\)", "", translations).split(",") if m.strip()}
 
 
-def is_synonym(answer: str, w: sqlite3.Row) -> bool:
+def is_synonym(answer: str, w: sqlite3.Row, tl: str = "ru") -> bool:
     """Ответ — другое слово из словаря с тем же переводом (film вместо movie): это не ошибка."""
     normalized = _normalize(answer, w["lang"])
-    meanings = _meanings(w["translations"])
+    meanings = _meanings(translation(w, tl)[0])
     return any(other["id"] != w["id"] and _normalize(other["word"], w["lang"]) == normalized
-               and meanings & _meanings(other["translations"])
+               and meanings & _meanings(translation(other, tl)[0])
                for other in db.words_by_pos(w["lang"], w["pos"]))
 
 
@@ -120,6 +148,7 @@ def hint(w: sqlite3.Row, long: bool = False) -> str:
     return word[:shown] + "…"
 
 
-def quiz_question(w: sqlite3.Row, number: int, total: int, lang: str) -> str:
-    return t(lang, "question", n=number, total=total, tr=html.escape(w["translations"]),
+def quiz_question(w: sqlite3.Row, number: int, total: int, lang: str, tl: str = "ru") -> str:
+    tr, _, flag = translation(w, tl)
+    return t(lang, "question", n=number, total=total, tr=html.escape(tr), flag=flag,
              pos=pos_name(lang, w["pos"]), hint=html.escape(hint(w)))

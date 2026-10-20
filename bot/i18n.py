@@ -268,9 +268,9 @@ TEXTS = {
         "es": "Escribe la palabra {answer_rules}\nNo llegarán palabras nuevas hasta que termines el test.",
     },
     "question": {
-        "ru": "Вопрос {n}/{total}\n🇷🇺 <b>{tr}</b> ({pos})\nНачинается на: <code>{hint}</code>",
-        "en": "Question {n}/{total}\n🇷🇺 <b>{tr}</b> ({pos})\nStarts with: <code>{hint}</code>",
-        "es": "Pregunta {n}/{total}\n🇷🇺 <b>{tr}</b> ({pos})\nEmpieza por: <code>{hint}</code>",
+        "ru": "Вопрос {n}/{total}\n{flag} <b>{tr}</b> ({pos})\nНачинается на: <code>{hint}</code>",
+        "en": "Question {n}/{total}\n{flag} <b>{tr}</b> ({pos})\nStarts with: <code>{hint}</code>",
+        "es": "Pregunta {n}/{total}\n{flag} <b>{tr}</b> ({pos})\nEmpieza por: <code>{hint}</code>",
     },
     "correct": {"ru": "✅ Верно! <b>{word}</b>", "en": "✅ Correct! <b>{word}</b>",
                 "es": "✅ ¡Correcto! <b>{word}</b>"},
@@ -393,6 +393,11 @@ TEXTS = {
     },
 
     # --- описание работы бота ---
+    "tr_note": {
+        "ru": "",
+        "en": "\n\n🇷🇺 For now, word translations are in Russian only.",
+        "es": "\n\n🇷🇺 De momento, las traducciones de las palabras de este idioma solo están en ruso.",
+    },
     "rules": {
         "ru": "ℹ️ <b>Как работает бот</b>\n\n"
               "📩 <b>Новые слова</b> приходят по одному: {schedule}. Слова выбираются случайно "
@@ -409,7 +414,7 @@ TEXTS = {
               "⛔ Пока тест не пройден, новые слова не приходят. Расписание продолжится сразу "
               "после прохождения теста.\n\n"
               "⚙️ В профиле можно изменить интервал, количество слов в день, время рассылки, "
-              "часовой пояс, уровень, изучаемый язык и язык бота, а также поставить бота на паузу.",
+              "часовой пояс, уровень, изучаемый язык и язык бота, а также поставить бота на паузу.{tr_note}",
         "en": "ℹ️ <b>How the bot works</b>\n\n"
               "📩 <b>New words</b> arrive one at a time: {schedule}. Words are picked at random "
               "from your level (and the levels below, if you chose so), and they never repeat. Every word you "
@@ -427,8 +432,7 @@ TEXTS = {
               "⛔ No new words arrive until you pass the quiz. The schedule resumes right after "
               "you pass it.\n\n"
               "⚙️ In your profile you can change the interval, words per day, delivery hours, "
-              "time zone, level, language to learn and bot language, or pause the bot.\n\n"
-              "🇷🇺 For now, word translations are in Russian only.",
+              "time zone, level, language to learn and bot language, or pause the bot.{tr_note}",
         "es": "ℹ️ <b>Cómo funciona el bot</b>\n\n"
               "📩 <b>Las palabras nuevas</b> llegan de una en una: {schedule}. Se eligen al azar "
               "de tu nivel (y de los niveles inferiores, si así lo elegiste), y no se repiten. Cada palabra "
@@ -446,8 +450,7 @@ TEXTS = {
               "⛔ Hasta que no superes el test, no llegarán palabras nuevas. El horario continúa "
               "en cuanto lo superes.\n\n"
               "⚙️ En tu perfil puedes cambiar el intervalo, las palabras al día, el horario de "
-              "envío, la zona horaria, el nivel, el idioma que aprendes y el idioma del bot, o poner el bot en pausa.\n\n"
-              "🇷🇺 De momento, las traducciones de las palabras solo están en ruso.",
+              "envío, la zona horaria, el nivel, el idioma que aprendes y el idioma del bot, o poner el bot en pausa.{tr_note}",
     },
 }
 

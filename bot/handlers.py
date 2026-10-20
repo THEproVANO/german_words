@@ -15,6 +15,7 @@ def rules_text(user) -> str:
     return t(lang, "rules", schedule=service.schedule_text(user), quiz_hour=QUIZ_HOUR,
              answer_rules=t(lang, f"answer_rules_{user['lang']}"),
              card_rules=t(lang, f"card_rules_{user['lang']}"),
+             tr_note=t(lang, "tr_note") if db.tr_lang(user) == "ru" else "",
              daily=DAILY_QUIZ_SIZE, weekly=WEEKLY_QUIZ_SIZE)
 
 
@@ -76,8 +77,9 @@ async def choose_language(call: CallbackQuery) -> None:
         return
     # При смене изучаемого языка из профиля уровень выбирается заново: у языков разный набор уровней
     db.update_user(call.from_user.id, lang=lang)
+    levels = db.available_levels(lang, db.tr_lang(db.get_user(call.from_user.id)))
     await call.message.edit_text(t(ui, "lang_chosen", language=t(ui, f"learn_{lang}")),
-                                 reply_markup=keyboards.levels(ui, db.available_levels(lang)))
+                                 reply_markup=keyboards.levels(ui, levels))
     await call.answer()
 
 
@@ -232,7 +234,7 @@ async def profile_action(call: CallbackQuery, bot: Bot) -> None:
         await call.message.answer(CHOOSE_UI, reply_markup=keyboards.ui_languages)
     else:
         text, markup = {
-            "level": ("ask_level", keyboards.levels(lang, db.available_levels(user["lang"]))),
+            "level": ("ask_level", keyboards.levels(lang, db.available_levels(user["lang"], db.tr_lang(user)))),
             "learn": ("ask_learn", keyboards.languages(lang)),
             "tz": ("ask_tz", keyboards.timezones(lang)),
             "interval": ("ask_interval", keyboards.intervals(lang)),

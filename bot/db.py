@@ -2,7 +2,7 @@ import sqlite3
 from datetime import date, datetime, timezone
 
 from .config import (ALL_LEVELS, DAY_END, DAY_START, DB_PATH, INTERVAL, LEVELS, TOPICS,
-                     WORDS_PER_DAY)
+                     TRANSLATION_LANGS, WORDS_PER_DAY)
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS users (
@@ -76,6 +76,11 @@ if "ui_lang" not in _user_columns:
     conn.execute("ALTER TABLE users ADD COLUMN ui_lang TEXT NOT NULL DEFAULT 'ru'")
 if "revealed" not in {r["name"] for r in conn.execute("PRAGMA table_info(quiz_items)")}:
     conn.execute("ALTER TABLE quiz_items ADD COLUMN revealed INTEGER NOT NULL DEFAULT 0")
+for _tl in TRANSLATION_LANGS:
+    _word_columns = {r["name"] for r in conn.execute("PRAGMA table_info(words)")}
+    for _col in (f"translations_{_tl}", f"example_{_tl}"):
+        if _col not in _word_columns:
+            conn.execute(f"ALTER TABLE words ADD COLUMN {_col} TEXT NOT NULL DEFAULT ''")
 # Французский интерфейс убран: у кого он был выбран, переключаем на английский
 conn.execute("UPDATE users SET ui_lang = 'en' WHERE ui_lang = 'fr'")
 conn.commit()
@@ -131,25 +136,36 @@ def active_users() -> list[sqlite3.Row]:
 # --- words ---
 
 def upsert_words(rows: list[dict]) -> None:
+    extra = [f"{kind}_{tl}" for tl in TRANSLATION_LANGS for kind in ("translations", "example")]
+    columns = ["lang", "key", "level", "pos", "article", "word", "plural", "praesens",
+               "praeteritum", "perfekt", "translations", "example", "example_ru", *extra]
+    updates = ", ".join(f"{c} = excluded.{c}" for c in columns if c not in ("lang", "key"))
     conn.executemany(
-        """INSERT INTO words (lang, key, level, pos, article, word, plural, praesens,
-                              praeteritum, perfekt, translations, example, example_ru)
-           VALUES (:lang, :key, :level, :pos, :article, :word, :plural, :praesens,
-                   :praeteritum, :perfekt, :translations, :example, :example_ru)
-           ON CONFLICT (key) DO UPDATE SET
-               level = excluded.level, pos = excluded.pos, article = excluded.article,
-               word = excluded.word, plural = excluded.plural, praesens = excluded.praesens,
-               praeteritum = excluded.praeteritum, perfekt = excluded.perfekt,
-               translations = excluded.translations, example = excluded.example,
-               example_ru = excluded.example_ru""",
-        rows,
+        f"""INSERT INTO words ({", ".join(columns)}) VALUES ({", ".join(":" + c for c in columns)})
+            ON CONFLICT (key) DO UPDATE SET {updates}""",
+        [{c: r.get(c, "") for c in columns} for r in rows],
     )
     conn.commit()
 
 
-def available_levels(lang: str) -> list[str]:
-    """Уровни, для которых в словаре изучаемого языка есть слова."""
-    present = {r[0] for r in conn.execute("SELECT DISTINCT level FROM words WHERE lang = ?", (lang,))}
+def tr_lang(user: sqlite3.Row) -> str:
+    """На каком языке показывать переводы слов: свой перевод, если он есть для языка бота,
+    иначе русский. Испанские слова испанцу переводить незачем — им остаётся русский."""
+    ui = user["ui_lang"]
+    return ui if ui in TRANSLATION_LANGS and user["lang"] != ui else "ru"
+
+
+def _translated(user: sqlite3.Row, alias: str = "") -> str:
+    """Условие SQL: только слова с переводом на язык пользователя (для русского — все)."""
+    tl = tr_lang(user)
+    return f" AND {alias}translations_{tl} != ''" if tl != "ru" else ""
+
+
+def available_levels(lang: str, tl: str = "ru") -> list[str]:
+    """Уровни, для которых в словаре изучаемого языка есть слова (с переводом на язык tl)."""
+    where = f" AND translations_{tl} != ''" if tl != "ru" else ""
+    present = {r[0] for r in conn.execute(
+        f"SELECT DISTINCT level FROM words WHERE lang = ?{where}", (lang,))}
     return [lvl for lvl in ALL_LEVELS if lvl in present]
 
 
@@ -171,7 +187,7 @@ def pick_new_word(user: sqlite3.Row) -> sqlite3.Row | None:
               -- То же слово из другого набора (A2 и «Бизнес и IT») второй раз не присылаем
               AND (lang, pos, word) NOT IN (
                   SELECT w.lang, w.pos, w.word FROM user_words uw JOIN words w ON w.id = uw.word_id
-                  WHERE uw.user_id = ?)
+                  WHERE uw.user_id = ?){_translated(user)}
             ORDER BY RANDOM() LIMIT 1""",
         (user["lang"], *levels, user["id"], user["id"]),
     ).fetchone()
@@ -190,7 +206,7 @@ def progress(user: sqlite3.Row) -> tuple[int, int]:
     """(изучено, всего) для уровней пользователя."""
     levels = user_levels(user)
     total = conn.execute(
-        f"SELECT COUNT(*) FROM words WHERE lang = ? AND level IN ({_in(levels)})",
+        f"SELECT COUNT(*) FROM words WHERE lang = ? AND level IN ({_in(levels)}){_translated(user)}",
         (user["lang"], *levels),
     ).fetchone()[0]
     # Изученным считается и слово, полученное в другом наборе (A2 и «Бизнес и IT»)
@@ -199,7 +215,7 @@ def progress(user: sqlite3.Row) -> tuple[int, int]:
             WHERE w.lang = ? AND w.level IN ({_in(levels)})
               AND (w.lang, w.pos, w.word) IN (
                   SELECT w2.lang, w2.pos, w2.word FROM user_words uw
-                  JOIN words w2 ON w2.id = uw.word_id WHERE uw.user_id = ?)""",
+                  JOIN words w2 ON w2.id = uw.word_id WHERE uw.user_id = ?){_translated(user, "w.")}""",
         (user["lang"], *levels, user["id"]),
     ).fetchone()[0]
     return learned, total

@@ -3,7 +3,7 @@ from aiogram.types import (InlineKeyboardButton, InlineKeyboardMarkup, KeyboardB
 
 from . import db
 from .config import (DAY_END_OPTIONS, DAY_START_OPTIONS, INTERVAL_OPTIONS, LANGUAGES, TIMEZONES,
-                     TOPICS,
+                     TOPICS, TRANSLATION_LANGS,
                      WORDS_PER_DAY_OPTIONS)
 from .i18n import UI_LANGUAGES, city, level_name, t
 
@@ -26,10 +26,12 @@ ui_languages = InlineKeyboardMarkup(inline_keyboard=[
 
 
 def languages(lang: str) -> InlineKeyboardMarkup:
-    """Только языки, для которых загружен словарь."""
+    """Только языки, для которых загружен словарь (с переводом на язык бота, если он свой)."""
+    def tl(code: str) -> str:
+        return lang if lang in TRANSLATION_LANGS and code != lang else "ru"
     return InlineKeyboardMarkup(inline_keyboard=[
         [_button(t(lang, f"learn_{code}"), f"lang:{code}")]
-        for code in LANGUAGES if db.available_levels(code)
+        for code in LANGUAGES if db.available_levels(code, tl(code))
     ])
 
 

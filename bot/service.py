@@ -68,7 +68,7 @@ async def send_new_word(bot: Bot, user: sqlite3.Row) -> bool:
         return False
     db.mark_sent(user["id"], word["id"], study_date(local_now(user)))
     lang = user["ui_lang"]
-    await bot.send_message(user["id"], words.format_card(word, lang))
+    await bot.send_message(user["id"], words.format_card(word, lang, db.tr_lang(user)))
     if db.pick_new_word(user) is None:
         await bot.send_message(user["id"], t(lang, "last_word", level=level_name(lang, user["level"])))
     return True
@@ -79,7 +79,8 @@ async def send_new_word(bot: Bot, user: sqlite3.Row) -> bool:
 async def send_question(bot: Bot, user: sqlite3.Row, quiz_id: int) -> None:
     item = db.current_item(quiz_id)
     done, total = db.quiz_counts(quiz_id)
-    question = words.quiz_question(db.get_word(item["word_id"]), done + 1, total, user["ui_lang"])
+    question = words.quiz_question(db.get_word(item["word_id"]), done + 1, total, user["ui_lang"],
+                                   db.tr_lang(user))
     await bot.send_message(user["id"], question)
 
 
@@ -194,7 +195,7 @@ async def handle_answer(bot: Bot, user: sqlite3.Row, quiz: sqlite3.Row, text: st
         else:
             await finish_quiz(bot, user, quiz)
         return
-    if words.is_synonym(text, word):
+    if words.is_synonym(text, word, db.tr_lang(user)):
         # Синоним не считается ошибкой: просто подсказываем, какое слово загадано
         await bot.send_message(user["id"], t(lang, "synonym", answer=html.escape(text.strip()),
                                              hint=words.hint(word, long=True)))
@@ -219,7 +220,8 @@ async def reveal_answer(bot: Bot, user: sqlite3.Row, item_id: int) -> None:
     word = db.get_word(item["word_id"])
     db.move_item_to_end(item["id"], quiz["id"])
     lang = user["ui_lang"]
-    await bot.send_message(user["id"], t(lang, "revealed", card=words.format_card(word, lang)))
+    card = words.format_card(word, lang, db.tr_lang(user))
+    await bot.send_message(user["id"], t(lang, "revealed", card=card))
     await send_question(bot, user, quiz["id"])
 
 
