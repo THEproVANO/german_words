@@ -5094,3 +5094,603 @@ BIZ:es:noun:el:periférico;peripheral, peripheral device;The mouse and keyboard 
 BIZ:es:noun:la:tarjeta gráfica;graphics card;To train models you need a good graphics card.
 BIZ:es:noun:la:placa base;motherboard;The server's motherboard had to be replaced.
 BIZ:es:noun:el:chip;chip, microchip;The chip shortage delayed the delivery of equipment.
+es:noun:el:devenir;course of events, unfolding, evolution;No one can foresee the course of history.
+es:noun:el:porvenir;future;A bright future awaits him.
+es:noun:el:cénit;zenith, peak;He was at the peak of his career.
+es:noun:la:decadencia;decline, decadence;The empire went into decline.
+es:noun:el:decaimiento;weakness, lethargy, low spirits;After the flu he felt very weak and run down.
+es:noun:el:deterioro;deterioration, wear;The deterioration of bilateral relations is cause for concern.
+es:noun:el:menoscabo;detriment, impairment;He did it without detriment to his obligations.
+es:noun:la:merma;decrease, reduction, loss;There was a drop in income.
+es:noun:la:mengua;diminution, detriment;He accepted it without loss of dignity.
+es:noun:el:detrimento;detriment, harm;Some were favored to the detriment of others.
+es:noun:el:perjuicio;damage, harm, loss;The strike caused serious damage to the company.
+es:noun:el:lucro;profit, gain;It is a non-profit association.
+es:noun:el:rédito;return, profit, interest;The party is trying to gain political mileage from the scandal.
+es:noun:la:plusvalía;capital gain, capital gains tax;When he sold the apartment he paid the capital gains tax.
+es:noun:el:bono;bond, voucher, pass;The State issued ten-year bonds.
+es:noun:la:moratoria;moratorium;The government approved a moratorium on evictions.
+es:noun:la:prórroga;extension, deferment, extra time;He requested an extension of the contract.
+es:noun:el:aplazamiento;postponement, deferral;They announced the postponement of the meeting.
+es:noun:la:demora;delay;We apologize for the delay.
+es:noun:la:dilación;delay, procrastination;We must act without delay.
+es:noun:la:tardanza;delay, lateness, slowness;No one understood why he was so slow to respond.
+es:noun:el:apremio;urgency, pressure, demand for payment;He received a payment demand from the tax office.
+es:noun:la:contingencia;contingency, eventuality;We have a plan for any contingency.
+es:noun:la:eventualidad;eventuality, possibility;We must be prepared for any eventuality.
+es:noun:el:percance;mishap, setback;We arrived late because of a minor mishap.
+es:noun:el:revés;setback, reverse, back (side);The company suffered a severe financial setback.
+es:noun:el:tropiezo;stumble, slip, setback;One setback does not mean the end of your career.
+es:noun:el:traspié;stumble, trip, blunder;He stumbled getting off the bus.
+es:noun:el:desengaño;disappointment, disillusionment;She suffered a romantic disappointment.
+es:noun:el:abatimiento;dejection, despondency;After the defeat he fell into deep despondency.
+es:noun:el:desánimo;discouragement, despondency;Discouragement took hold of the team.
+es:noun:la:dejadez;neglect, slovenliness;The house showed years of neglect.
+es:noun:la:negligencia;negligence;The accident was due to medical negligence.
+es:noun:la:imprudencia;recklessness, imprudence;Driving like that is reckless.
+es:noun:la:temeridad;recklessness, rashness, temerity;Climbing without a rope was reckless.
+es:noun:la:osadía;audacity, daring, nerve;He had the audacity to contradict the boss.
+es:noun:la:audacia;boldness, daring, audacity;The plan requires boldness and patience.
+es:noun:el:arrojo;courage, bravery, daring;The firefighters acted with great courage.
+es:noun:la:intrepidez;fearlessness, intrepidity;I admire the fearlessness of explorers.
+es:noun:la:fortaleza;strength, fortitude, fortress;She showed great strength in the face of illness.
+es:noun:el:aplomo;composure, poise, self-assurance;He responded to the criticism with composure.
+es:noun:la:serenidad;calm, serenity, composure;He stayed calm at all times.
+es:noun:el:desconsuelo;grief, distress, despair;She wept inconsolably at the funeral.
+es:noun:el:duelo;mourning, grief, duel;The family needs time to grieve.
+es:noun:el:luto;mourning;Three days of official mourning were declared.
+es:noun:el:pésame;condolences;I offered my condolences to the widow.
+es:noun:la:condolencia;condolence, sympathy;They sent their condolences to the family.
+es:noun:el:desahogo;outlet, relief, comfort;Writing is an outlet for him.
+es:noun:la:catarsis;catharsis;Therapy was a catharsis for her.
+es:noun:la:euforia;euphoria, elation;After the victory, euphoria reigned.
+es:noun:el:deleite;delight, pleasure;He listened to the music with delight.
+es:noun:el:goce;enjoyment, pleasure;The enjoyment of life lies in simple things.
+es:noun:la:complacencia;complacency, indulgence, satisfaction;The authorities acted with excessive complacency.
+es:noun:la:ingratitud;ingratitude;His ingratitude after so much effort hurt me.
+es:noun:la:animadversión;animosity, ill will, antipathy;He feels deep animosity toward his brother-in-law.
+es:noun:la:animosidad;animosity, hostility;There was some animosity between the two teams.
+es:noun:la:hostilidad;hostility;The proposal was met with hostility.
+es:noun:la:aversión;aversion, dislike;I have an aversion to enclosed spaces.
+es:noun:la:repulsión;revulsion, repulsion, disgust;He felt revulsion at the sight of the scene.
+es:noun:la:repugnancia;disgust, repugnance, revulsion;Injustice disgusts him.
+es:noun:el:menosprecio;contempt, disdain, scorn;He spoke of his colleagues with contempt.
+es:noun:el:desdén;disdain, scorn;He looked at him with disdain and left.
+es:noun:el:ninguneo;belittling, dismissal, being ignored;They denounce the way women scientists are ignored and belittled.
+es:noun:el:escarnio;derision, ridicule, mockery;He was the object of public ridicule.
+es:noun:la:mofa;mockery, ridicule;They made fun of his accent.
+es:noun:la:sorna;sarcasm, irony, mocking tone;He said it to me with a certain sarcasm.
+es:noun:la:guasa;joking, teasing, kidding;Don't take it seriously, he said it as a joke.
+es:noun:la:chanza;joke, jest, banter;They spent the afternoon joking and laughing.
+es:noun:la:ocurrencia;witty remark, idea, notion;What a funny idea!
+es:noun:la:agudeza;sharpness, acuity, insight;He analyzed the problem with great insight.
+es:noun:el:ingenio;ingenuity, wit, inventiveness;He solved the problem with great ingenuity.
+es:noun:el:donaire;grace, elegance, poise;She danced with great grace.
+es:noun:el:salero;charm, flair, salt shaker;That girl has a lot of charm.
+es:noun:el:carisma;charisma;The candidate has great charisma.
+es:noun:el:magnetismo;magnetism, charisma;His personal magnetism attracted everyone.
+es:noun:el:hechizo;spell, charm, enchantment;The witch cast a spell on the prince.
+es:noun:el:embrujo;spell, enchantment, allure;He fell under the spell of Seville.
+es:noun:la:seducción;seduction, charm, allure;The art of seduction is not easy.
+es:noun:la:coquetería;coquetry, flirtatiousness;She smiled flirtatiously at the photographer.
+es:noun:la:galantería;gallantry, chivalry;He gallantly held the door open for her.
+es:noun:la:cortesía;courtesy, politeness;Out of courtesy, I'll buy you a coffee.
+es:noun:la:urbanidad;civility, good manners, etiquette;The rules of etiquette have changed a lot.
+es:noun:el:modales;manners;That boy has very good manners.
+es:noun:el:protocolo;protocol, etiquette;Protocol requires formal dress.
+es:noun:el:ceremonial;ceremonial, ceremony;The ceremony of the royal wedding was impressive.
+es:noun:el:ritual;ritual;Having coffee in the morning is my ritual.
+es:noun:el:rito;rite;They held the wedding according to the Catholic rite.
+es:noun:la:liturgia;liturgy;The liturgy was celebrated in Latin.
+es:noun:la:devoción;devotion;She has great devotion to the Virgin Mary.
+es:noun:el:fervor;fervor, passion, zeal;The fans sang with fervor.
+es:noun:la:superstición;superstition;According to superstition, Tuesday the thirteenth brings bad luck.
+es:noun:la:herejía;heresy;He was accused of heresy by the Inquisition.
+es:noun:el:hereje;heretic;They burned the heretic in the square.
+es:noun:la:apostasía;apostasy;His apostasy scandalized the community.
+es:noun:la:blasfemia;blasphemy;For believers, that is blasphemy.
+es:noun:el:sacrilegio;sacrilege;Robbing a church was considered sacrilege.
+es:noun:la:profanación;desecration, profanation;They condemned the desecration of the graves.
+es:noun:el:laicismo;secularism, laicism;Secularism advocates the separation of Church and State.
+es:noun:la:laicidad;secularity, secular nature (of the state);The Constitution guarantees the secular nature of the State.
+es:noun:la:secularización;secularization;The secularization of society is advancing rapidly.
+es:noun:el:ateísmo;atheism;He never hid his atheism.
+es:noun:el:agnosticismo;agnosticism;His agnosticism drove him away from the Church.
+es:noun:el:agnóstico;agnostic;He describes himself as an agnostic, not an atheist.
+es:noun:el:misticismo;mysticism;Spanish mysticism reached its height in the 16th century.
+es:noun:el:ascetismo;asceticism;The monks lived in the most absolute asceticism.
+es:noun:la:penitencia;penance, penitence;The priest gave him a penance.
+es:noun:la:expiación;atonement, expiation;He sought atonement for his sins.
+es:noun:la:redención;redemption;The novel is about guilt and redemption.
+es:noun:la:salvación;salvation, saving, rescue;That loan was the company's salvation.
+es:noun:la:perdición;ruin, downfall, undoing;Gambling was his undoing.
+es:noun:el:recargo;surcharge, late fee, penalty;If you pay late, there is a ten percent surcharge.
+es:noun:el:contrabando;smuggling, contraband;They arrested a gang involved in tobacco smuggling.
+es:noun:el:contrabandista;smuggler;The police arrested the smuggler at the border.
+es:noun:el:narcotráfico;drug trafficking;Drug trafficking causes a lot of violence in the region.
+es:noun:el:narcotraficante;drug trafficker, drug dealer;They extradited the drug trafficker to the United States.
+es:noun:el:estafador;swindler, fraudster, con man;The swindler deceived dozens of pensioners.
+es:noun:el:timo;rip-off, scam, con;That price is a rip-off!
+es:noun:el:timador;con man, swindler, scammer;A con man posed as a gas technician.
+es:noun:la:argucia;ploy, trick, subterfuge;He used all kinds of legal ploys to avoid paying.
+es:noun:la:treta;trick, ruse, ploy;It was a ruse to distract the guard.
+es:noun:la:estratagema;stratagem, ruse, scheme;He devised a stratagem to escape.
+es:noun:la:maniobra;maneuver, ploy;It was a political maneuver to buy time.
+es:noun:el:pretexto;pretext, excuse;He used it as an excuse not to come.
+es:noun:el:rodeo;detour, beating around the bush, rodeo;Tell me straight out, please.
+es:noun:el:tabú;taboo;Death is still a taboo in many families.
+es:noun:el:estigma;stigma;There is still a stigma surrounding mental illness.
+es:noun:el:tópico;cliché, stereotype, commonplace;It's a cliché to say that Spaniards are unpunctual.
+es:noun:el:cliché;cliché;The film is full of clichés.
+es:noun:la:banalidad;banality, platitude;He uttered one platitude after another.
+es:noun:la:trivialidad;triviality, trivia;Let's not waste time on trivialities.
+es:noun:la:nimiedad;trifle, triviality;They got angry over a trifle.
+es:noun:la:minucia;trifle, minor detail;Don't worry about those trifles.
+es:noun:el:pormenor;detail, particular;He told us all the details of the trip.
+es:noun:la:matización;clarification, qualification, nuance;I would like to add a clarification to what you said.
+es:noun:la:exactitud;accuracy, precision, exactness;I don't remember the date exactly.
+es:noun:la:rigurosidad;rigor, rigorousness, thoroughness;The study stands out for its rigor.
+es:noun:la:meticulosidad;meticulousness, thoroughness;He went over the contract meticulously.
+es:noun:la:minuciosidad;thoroughness, meticulousness;The detective examined the scene thoroughly.
+es:noun:el:esmero;care, painstaking effort;She prepared dinner with great care.
+es:noun:el:tesón;tenacity, determination, perseverance;Thanks to his tenacity, he earned his degree.
+es:noun:la:constancia;perseverance, consistency, proof;Learning a language requires perseverance.
+es:noun:la:perseverancia;perseverance;With perseverance, anything can be achieved.
+es:noun:la:persistencia;persistence;The persistence of inflation is a cause for concern.
+es:noun:la:obstinación;obstinacy, stubbornness;His obstinacy prevented him from seeing the mistake.
+es:noun:la:testarudez;stubbornness, obstinacy;With his stubbornness, it's impossible to argue with him.
+es:noun:la:porfía;persistence, insistence, stubbornness;He achieved it through sheer persistence.
+es:noun:el:antojo;whim, craving;Pregnant women sometimes have strange cravings.
+es:noun:la:veleidad;whim, fickleness, vagary;We can't depend on the vagaries of the market.
+es:noun:la:volubilidad;fickleness, changeability;His partner's fickleness bothered him.
+es:noun:la:inconstancia;inconstancy, fickleness, inconsistency;His inconsistency keeps him from finishing anything.
+es:noun:la:ligereza;lightness, flippancy, levity;He spoke too flippantly about the matter.
+es:noun:la:frivolidad;frivolity, flippancy;They criticized the frivolity of his statements.
+es:noun:la:superficialidad;superficiality, shallowness;The shallowness of those conversations wears me out.
+es:noun:la:hondura;depth, profundity;I was struck by the depth of his reflections.
+es:noun:el:núcleo;core, nucleus, heart;The core of the problem is a lack of money.
+es:noun:la:entraña;heart, core, essence;We have to get to the heart of the conflict.
+es:noun:el:germen;seed, origin, germ;That meeting was the seed of the movement.
+es:noun:el:embrión;embryo;The project is still in its embryonic stage.
+es:noun:la:génesis;genesis, origin;The book explains the genesis of the crisis.
+es:noun:la:procedencia;origin, source, provenance;We don't know where the money came from.
+es:noun:la:gestación;gestation, pregnancy, development;The project took two years to develop.
+es:noun:la:concepción;conception, notion, idea;They have a different conception of freedom.
+es:noun:el:alumbramiento;childbirth, delivery;The birth took place without complications.
+es:noun:la:desavenencia;disagreement, discord, rift;There were disagreements between the partners.
+es:noun:la:rencilla;quarrel, feud, squabble;They are old feuds between neighbors.
+es:noun:la:reyerta;brawl, fight;A young man was injured in a brawl.
+es:noun:el:altercado;altercation, scuffle, row;There was an altercation at the door of the nightclub.
+es:noun:la:pugna;struggle, conflict, contest;There is an internal struggle for the leadership.
+es:noun:la:enemistad;enmity, hostility, feud;The enmity between the two families lasted for decades.
+es:noun:la:concordia;harmony, concord;They signed an agreement of peace and harmony.
+es:noun:la:avenencia;agreement, settlement, compromise;The parties reached an agreement.
+es:noun:la:escisión;split, splinter, schism;The split in the party weakened the left.
+es:noun:el:cisma;schism, split, rift;The debate caused a schism in the organization.
+es:noun:la:indigencia;destitution, poverty, homelessness;Thousands of people live in destitution.
+es:noun:la:mendicidad;begging, mendicancy;The city council wants to ban begging in the center.
+es:noun:el:desamparo;helplessness, abandonment, neglect;The refugees live in utter helplessness.
+es:noun:la:gentrificación;gentrification;Gentrification drives out long-time residents.
+es:noun:el:extrarradio;outskirts, suburbs;He lives on the outskirts of Madrid.
+es:noun:la:masificación;overcrowding, mass tourism;Tourist overcrowding worries local residents.
+es:noun:la:despoblación;depopulation;Rural depopulation is a serious problem.
+es:noun:el:absentismo;absenteeism, truancy;School truancy has increased this year.
+es:noun:la:homologación;official recognition, validation, certification;She is waiting for her degree to be officially recognized.
+es:noun:la:convalidación;credit transfer, recognition (of studies or qualifications);He applied to have several subjects recognized for credit.
+es:verb::aletargar;make drowsy, make lethargic, lull;The midday heat makes the whole village drowsy.
+es:verb::cabildear;lobby;Big companies lobby to soften the law.
+es:verb::camuflar;camouflage, disguise;The soldier camouflaged his helmet with branches.
+es:verb::cautivar;captivate, charm;Her voice captivated the audience from the start.
+es:verb::colindar;border, adjoin, be adjacent to;Our property borders a pine forest.
+es:verb::deambular;wander, roam, stroll;He spent the afternoon wandering around the old town.
+es:verb::debatirse;struggle, be torn (between);She was torn between accepting the job or staying.
+es:verb::declinar;decline, turn down, wane;The minister declined the invitation due to scheduling reasons.
+es:verb::desbancar;oust, displace, supplant;The new app ousted its main competitor.
+es:verb::eclipsar;eclipse, overshadow, outshine;The young actor outshone the veteran leads.
+es:verb::encubrir;cover up, cover for, conceal;He was accused of covering for his corrupt partner.
+es:verb::endeudarse;get into debt, borrow;He went into debt to buy an apartment that was too expensive.
+es:verb::escudriñar;scrutinize, examine closely;The detective scrutinized every corner of the room.
+es:verb::esquivar;dodge, avoid, sidestep;The spokesperson dodged all the awkward questions.
+es:verb::excarcelar;release (from prison);The judge ordered the release of the accused for lack of evidence.
+es:verb::idolatrar;idolize, worship;Teenagers idolize that singer.
+es:verb::irrumpir;burst in, storm in, break into;The police burst into the premises in the early hours.
+es:verb::moldear;shape, mold;Childhood shapes the way we see the world.
+es:verb::patentar;patent;The company patented its invention last year.
+es:verb::proliferar;proliferate, multiply, spread;In summer, mosquitoes proliferate by the river.
+es:verb::recrudecer;intensify, flare up, worsen;The fighting intensified during the night.
+es:verb::regocijarse;rejoice, be delighted;Everyone rejoiced at the news of his recovery.
+es:verb::repudiar;repudiate, reject, condemn;Society condemns all forms of violence.
+es:verb::subyacer;underlie, lie beneath;Beneath his anger lies a deep fear.
+es:verb::ultrajar;outrage, insult, desecrate;His words insulted the memory of the victims.
+es:verb::vaticinar;predict, forecast, prophesy;Experts are predicting a recession next year.
+es:verb::abatir;dishearten, depress, shoot down;The news completely devastated him.
+es:verb::abogar;advocate, champion, plead (for);The NGO advocates for the rights of refugees.
+es:verb::adjudicar;award, allocate;The city council awarded the construction contract to a local company.
+es:verb::adueñarse;take hold of, take over, seize;Panic took hold of the passengers.
+es:verb::agobiar;overwhelm, pester, weigh down;Don't overwhelm me with so many questions.
+es:verb::allanar;smooth, pave (the way), raid;His experience paved the way for the new employees.
+es:verb::amenizar;liven up, enliven, entertain;A jazz band entertained guests during dinner.
+es:verb::ampararse;invoke, take refuge (in), hide behind;He invoked the law so as not to testify.
+es:verb::arrasar;devastate, destroy, sweep (win big);The hurricane devastated several coastal towns.
+es:verb::arrojar;throw, hurl, yield (results);The study yields very promising results.
+es:verb::asentar;lay, establish, consolidate;This agreement lays the foundations for cooperation.
+es:verb::asesorar;advise, counsel;A lawyer advised us on the contract.
+es:verb::atañer;concern, pertain to;This matter does not concern you at all.
+es:verb::avecinarse;approach, loom, be on the way;Difficult times lie ahead for the economy.
+es:verb::bordear;skirt, border, run along;The path runs along the lake for several kilometers.
+es:verb::capitanear;lead, head, captain;She led the project from day one.
+es:verb::catalogar;catalog, classify, label;Critics hailed the film as a masterpiece.
+es:verb::circunscribir;limit, restrict, confine;The debate was confined to economic issues.
+es:verb::cohesionar;unite, bring together, bind;The difficulties brought the team together.
+es:verb::confluir;converge, meet, flow together;Five streets converge on this square.
+es:verb::consensuar;agree on, reach a consensus on;The parties agreed on an education reform.
+es:verb::convalidar;have recognized, validate (a qualification);I had to have my university degree recognized in Spain.
+es:verb::converger;converge, coincide;All opinions converge on the same point.
+es:verb::culminar;culminate, end, conclude;The tour culminated in a concert in Madrid.
+es:verb::deponer;lay down (arms), depose, oust;The rebels agreed to lay down their arms.
+es:verb::derogar;repeal, revoke (a law);Parliament repealed the controversial law.
+es:verb::desembocar;flow into, lead to, result in;The protests led to a government crisis.
+es:verb::desempolvar;dust off, revive;This summer I dusted off my old guitar.
+es:verb::desplegar;deploy, unfold, spread out;The UN deployed troops in the area.
+es:verb::embargar;seize, repossess, overcome (of emotions);The bank repossessed his house for non-payment.
+es:verb::encarar;face, confront, tackle;Problems must be faced with courage.
+es:verb::ensañarse;be merciless, savage, lay into;The press laid into the coach after the defeat.
+es:verb::especular;speculate;The media are speculating about his possible resignation.
+es:verb::exceder;exceed, surpass;The spending exceeded the planned budget.
+es:verb::expropiar;expropriate, seize;The State expropriated the land for the highway.
+es:verb::extenuar;exhaust, wear out;The long walk exhausted us.
+es:verb::fiscalizar;audit, oversee, monitor;This body oversees public spending.
+es:verb::forcejear;struggle, wrestle;The victim struggled with the thief.
+es:verb::hilvanar;tack (sewing), string together, piece together;He was so nervous he couldn't string two sentences together.
+es:verb::incautar;seize, confiscate;The police seized two tons of drugs.
+es:verb::incentivar;encourage, incentivize, promote;The government wants to encourage the use of public transport.
+es:verb::inducir;induce, cause, lead;This medication can induce sleep.
+es:verb::inmutarse;flinch, bat an eyelid, be fazed;They gave him the bad news and he didn't even bat an eyelid.
+es:verb::instigar;instigate, incite;He is accused of instigating the revolt.
+es:verb::invalidar;invalidate, nullify;The court invalidated the results of the vote.
+es:verb::legitimar;legitimize, legitimate;The ballot box legitimized the new government.
+es:verb::merodear;prowl, lurk, hang around;A strange man was prowling around the school.
+es:verb::mimetizarse;blend in, camouflage oneself;The chameleon blends in with its surroundings.
+es:verb::mitificar;mythologize, idealize, romanticize;We tend to romanticize the days of our youth.
+es:verb::omitir;omit, leave out;The report leaves out key data.
+es:verb::paralizar;paralyze, bring to a standstill;The strike brought transport across the city to a standstill.
+es:verb::patrocinar;sponsor;A drinks brand sponsors the festival.
+es:verb::pernoctar;stay overnight, spend the night;The pilgrims spent the night in a hostel.
+es:verb::procurar;try, endeavor, obtain;Try to arrive on time tomorrow.
+es:verb::prorrogar;extend, postpone;They have extended the deadline until Friday.
+es:verb::proveer;provide, supply;The company supplies us with office materials.
+es:verb::racionar;ration;During the drought they had to ration water.
+es:verb::recluir;confine, shut away, lock up;He shut himself away at home for months.
+es:verb::reincidir;reoffend, relapse, repeat (an offense);If he reoffends, he will lose his driver's license.
+es:verb::rentabilizar;make profitable, get a return on, make the most of;We need to get a return on the investment as soon as possible.
+es:verb::repeler;repel, repulse;This fabric repels water.
+es:verb::replantear;rethink, reconsider, reframe;We have to rethink the whole strategy.
+es:verb::requerir;require, need;This position requires a lot of experience.
+es:verb::rezagarse;fall behind, lag behind;Two cyclists fell behind on the climb.
+es:verb::sofocar;put out, extinguish, suppress;Firefighters took hours to put out the fire.
+es:verb::subvencionar;subsidize, fund;The ministry subsidizes cultural projects.
+es:verb::surtir;supply, stock, have (an effect);The new measures had no effect.
+es:verb::velar;watch over, ensure, keep vigil;Parents must ensure their children's safety.
+es:verb::cabecear;nod off, nod, head (the ball);Grandpa was nodding off in front of the TV.
+es:verb::entrometerse;meddle, interfere, butt in;Don't meddle in other people's business.
+es:verb::escabullirse;slip away, sneak off;He slipped out of the meeting without anyone seeing him.
+es:verb::tambalearse;stagger, totter, wobble;The drunk was staggering along the sidewalk.
+es:verb::aferrarse;cling (to), hold on (to);He clings to the hope of seeing her again.
+es:verb::rehuir;avoid, shun, shy away from;He always avoids conflicts with his colleagues.
+es:verb::encasillar;pigeonhole, typecast;I don't like being typecast as a comic actor.
+es:adj::acuciante;pressing, urgent;The lack of housing is a pressing problem.
+es:adj::apremiante;urgent, pressing;We have an urgent need for funding.
+es:adj::bienintencionado;well-meaning, well-intentioned;It was well-meaning advice, though not very useful.
+es:adj::candente;burning, hot (topical), red-hot;Immigration is a hot topic in Europe.
+es:adj::certero;accurate, spot-on, well-aimed;He gave an accurate analysis of the situation.
+es:adj::cohibido;self-conscious, inhibited, shy;In front of so many people I felt self-conscious.
+es:adj::convulso;turbulent, troubled;We are living through a very turbulent political period.
+es:adj::desolador;devastating, bleak, heartbreaking;The landscape after the fire was bleak.
+es:adj::encomiable;commendable, praiseworthy;Her work with refugees is commendable.
+es:adj::endeble;weak, flimsy, feeble;His argument is rather weak.
+es:adj::espinoso;thorny, tricky, prickly;I'd rather not talk about such a thorny issue.
+es:adj::esporádico;sporadic, occasional;We only have sporadic contact with them.
+es:adj::exhaustivo;exhaustive, thorough, comprehensive;They carried out a thorough analysis of the data.
+es:adj::fidedigno;reliable, trustworthy;The news comes from a reliable source.
+es:adj::flagrante;flagrant, blatant;It is a flagrant violation of human rights.
+es:adj::férreo;iron, strict, unyielding;The dictator maintained iron control over the press.
+es:adj::gélido;icy, freezing, frosty;He greeted us with an icy stare.
+es:adj::inaudito;unheard of, unprecedented, outrageous;It's outrageous that no one has resigned yet.
+es:adj::incipiente;incipient, emerging, budding;There are signs of an incipient economic recovery.
+es:adj::incisivo;incisive, cutting, sharp;The journalist asked very incisive questions.
+es:adj::ineludible;unavoidable, inescapable;It is an inescapable responsibility of the State.
+es:adj::inescrutable;inscrutable, impenetrable;His face remained inscrutable.
+es:adj::inhóspito;inhospitable, harsh;The desert is an inhospitable place.
+es:adj::intachable;impeccable, irreproachable, spotless;She has an impeccable professional record.
+es:adj::intrínseco;intrinsic, inherent;Risk is inherent in any investment.
+es:adj::inverosímil;implausible, unlikely, far-fetched;He told us a completely far-fetched story.
+es:adj::jocoso;jocular, humorous, joking;He spoke about the accident in a joking tone.
+es:adj::latente;latent, underlying;There is an underlying tension between the two countries.
+es:adj::lúcido;lucid, clear-headed;At ninety he is still completely lucid.
+es:adj::lúgubre;gloomy, dismal, somber;The hotel looked gloomy.
+es:adj::mezquino;petty, mean, stingy;It was very petty behavior on his part.
+es:adj::mordaz;caustic, scathing, biting;He is famous for his biting humor.
+es:adj::nefasto;disastrous, harmful, dire;The decision had disastrous consequences.
+es:adj::nítido;sharp, clear, crisp;The picture from this camera is very sharp.
+es:adj::ostentoso;ostentatious, showy, flashy;He was wearing a very flashy gold watch.
+es:adj::paulatino;gradual, slow;There is a gradual drop in unemployment.
+es:adj::perspicaz;perceptive, insightful, shrewd;She is a very perceptive observer.
+es:adj::pertinaz;persistent, prolonged, stubborn;A prolonged drought is affecting the region.
+es:adj::plausible;plausible, reasonable;It's a fairly plausible explanation.
+es:adj::prolífico;prolific;He was a very prolific writer.
+es:adj::recóndito;remote, hidden, secluded;They live in a remote mountain village.
+es:adj::reticente;reluctant, unwilling, wary;At first he was reluctant to cooperate.
+es:adj::sagaz;shrewd, astute, sharp;He is a shrewd and patient negotiator.
+es:adj::sesgado;biased, one-sided, slanted;The report offers a very biased view.
+es:adj::somero;cursory, brief, superficial;He only gave the text a cursory review.
+es:adj::sosegado;calm, peaceful, quiet;They lead a peaceful life in the country.
+es:adj::subyacente;underlying;We need to tackle the underlying problem.
+es:adj::suntuoso;sumptuous, lavish, luxurious;They stayed in a sumptuous palace.
+es:adj::tajante;categorical, emphatic, flat;His answer was a flat no.
+es:adj::tortuoso;tortuous, winding, convoluted;It was a long and tortuous road.
+es:adj::trascendental;momentous, crucial, transcendental;It was a momentous decision for the country.
+es:adj::ubicuo;ubiquitous;Cell phones have become ubiquitous.
+es:adj::vehemente;vehement, passionate, fervent;He defended his position vehemently.
+es:adj::verosímil;plausible, believable, credible;The novel's plot is hardly believable.
+es:adj::vertiginoso;dizzying, breakneck, rapid;Technology is advancing at a breakneck pace.
+es:adj::voraz;voracious, ravenous;She is a voracious reader.
+es:adj::zalamero;cajoling, sweet-talking, fawning;The boy turns on the charm when he wants something.
+es:adj::álgido;critical, peak, climactic;The crisis reached its peak in March.
+es:adj::ávido;eager, avid, hungry (for);Young people are eager for new experiences.
+es:adj::alentador;encouraging, heartening;The latest figures are very encouraging.
+es:adj::ambivalente;ambivalent, mixed;I have mixed feelings about that city.
+es:adj::apacible;gentle, mild, peaceful;He was a gentle and generous man.
+es:adj::atónito;astonished, stunned, amazed;We were stunned by the news.
+es:adj::austero;austere, frugal, plain;He leads a very austere life.
+es:adj::cabizbajo;crestfallen, downcast, head down;He came out of the exam crestfallen.
+es:adj::consabido;usual, familiar, well-known;He repeated the usual speech about the crisis.
+es:adj::cuantioso;substantial, considerable, heavy;They suffered heavy losses due to the storm.
+es:adj::desenfadado;casual, relaxed, lighthearted;The show has a fresh, lighthearted style.
+es:adj::desprevenido;unprepared, off guard, unawares;The storm caught us off guard.
+es:adj::escabroso;sordid, lurid, rugged;He avoided the more sordid details of the case.
+es:adj::exento;exempt, free (from);These products are exempt from tax.
+es:adj::hermético;airtight, hermetic, secretive;Keep food in an airtight container.
+es:adj::imperioso;pressing, urgent, imperious;There is a pressing need for reforms.
+es:adj::inapelable;indisputable, unappealable, final;The team achieved an indisputable victory.
+es:adj::inquebrantable;unshakable, unwavering, steadfast;She has unshakable faith in her project.
+es:adj::insaciable;insatiable;He has an insatiable curiosity about everything.
+es:adj::irrisorio;ridiculous, laughable, paltry;They offered him a laughable salary.
+es:adj::oneroso;burdensome, onerous, costly;The loan terms are very onerous.
+es:adj::perenne;perennial, evergreen, everlasting;The pine is an evergreen tree.
+es:adj::pujante;thriving, booming, vigorous;It is one of the most thriving economies in the region.
+es:adj::quisquilloso;fussy, picky, touchy;My boss is very fussy about details.
+es:adj::recalcitrante;recalcitrant, inveterate, die-hard;He is an inveterate smoker.
+es:adj::rocambolesco;outlandish, far-fetched, incredible;He told us an outlandish story about his trip.
+es:adj::tozudo;stubborn, obstinate, pigheaded;He is so stubborn that he never changes his mind.
+es:adj::trillado;hackneyed, trite, well-worn;It's an overly hackneyed argument.
+es:adj::vetusto;ancient, old, decrepit;They live in an ancient building in the center.
+es:adv::adrede;on purpose, deliberately;I didn't do it on purpose, I promise.
+es:adv::antaño;formerly, in the past, in days gone by;In the past, this neighborhood was an industrial area.
+es:adv::cabalmente;fully, properly, thoroughly;He fully met all his obligations.
+es:adv::deliberadamente;deliberately, intentionally;He deliberately concealed the information from the judge.
+es:adv::encarecidamente;earnestly, urgently, strongly;I earnestly urge you to reconsider your decision.
+es:adv::escasamente;sparsely, scarcely, barely;The area is sparsely populated.
+es:adv::expresamente;specifically, expressly;I came specifically to talk to you.
+es:adv::fehacientemente;conclusively, reliably, irrefutably;His guilt has not been conclusively proven.
+es:adv::indistintamente;interchangeably, indiscriminately;Both words are used interchangeably.
+es:adv::ineludiblemente;inevitably, unavoidably;This will inevitably lead to conflict.
+es:adv::inexorablemente;inexorably, relentlessly;Time passes inexorably.
+es:adv::otrora;formerly, once, erstwhile;The once-prosperous factory is now abandoned.
+es:adv::recíprocamente;mutually, reciprocally;Both countries undertake to help each other.
+es:adv::rotundamente;flatly, categorically, emphatically;He flatly refused to sign the document.
+es:adv::sobremanera;exceedingly, greatly, extremely;His attitude annoyed me greatly.
+es:adv::someramente;briefly, cursorily;He briefly explained the main points.
+es:adv::sucintamente;succinctly, concisely, briefly;Summarize the content of the article succinctly.
+es:adv::tajantemente;categorically, flatly, emphatically;The director categorically denied the accusations.
+es:adv::taxativamente;strictly, expressly, categorically;The regulations strictly prohibit smoking in the building.
+es:adv::tácitamente;tacitly, implicitly;Everyone tacitly accepted the new rules.
+es:verb::abjurar;abjure, renounce, recant;The philosopher refused to renounce his ideas.
+es:verb::abominar;abhor, loathe, detest;He abhors any form of violence.
+es:verb::abrumar;overwhelm;So much kindness overwhelms me a little.
+es:verb::achantarse;back down, be intimidated, chicken out;Don't back down in the face of his threats.
+es:verb::acongojar;distress, grieve, sadden;The news of his illness distressed us all.
+es:verb::acribillar;riddle (with bullets), bombard (with questions);The journalists bombarded him with questions.
+es:verb::aducir;cite, put forward, adduce;He cited personal reasons for not attending.
+es:verb::agenciarse;get hold of, wangle, come by;He managed to get hold of two tickets for the concert.
+es:verb::agolparse;crowd, throng, come flooding;Memories came flooding into his mind.
+es:verb::agostar;parch, wither, scorch;The heat parched the wheat fields.
+es:verb::ajusticiar;execute, put to death;The prisoner was executed at dawn.
+es:verb::amagar;feint, threaten, make as if to;The boxer feinted with his left and struck.
+es:verb::amotinarse;mutiny, riot, rebel;The prisoners rioted over the poor conditions.
+es:verb::anegar;flood, inundate;The rains flooded the streets of the center.
+es:verb::anquilosarse;stagnate, become set in one's ways, ossify;The party has become stuck in old ideas.
+es:verb::apercibirse;notice, realize, become aware;No one noticed his absence.
+es:verb::apiadarse;take pity (on), have mercy (on);The judge took pity on the young defendant.
+es:verb::aplacar;placate, appease, soothe;Nothing could appease his anger.
+es:verb::apoltronarse;get too comfortable, become complacent, settle in;He has grown too comfortable in his position as director.
+es:verb::apostatar;renounce (one's faith), apostatize;He renounced his parents' faith.
+es:verb::arengar;rally, harangue, address (to rouse);The captain gave his players a rousing talk before the match.
+es:verb::argüir;argue, contend, claim;He argued that he did not have enough evidence.
+es:verb::arrellanarse;settle back, lounge, sprawl;He settled back on the sofa with a book.
+es:verb::arredrarse;be daunted, flinch, shrink back;He isn't daunted by any difficulty.
+es:verb::arrumbar;cast aside, put away, relegate;They put the old furniture away in the attic.
+es:verb::asestar;deal, deliver (a blow);The crisis dealt a heavy blow to the sector.
+es:verb::asolar;devastate, ravage;The drought devastated the entire region.
+es:verb::atenazar;grip, paralyze, torment;Fear gripped her and she couldn't move.
+es:verb::atrincherarse;dig in, entrench oneself;He dug in on his position and wouldn't give in.
+es:verb::avistar;sight, spot, catch sight of;The sailors sighted land at dawn.
+es:verb::azorar;fluster, embarrass;The question visibly flustered him.
+es:verb::bisbisear;mutter, mumble, whisper;The old woman muttered prayers in the church.
+es:verb::blasonar;boast, brag, flaunt;He's always boasting about his important connections.
+es:verb::bosquejar;sketch, outline;He outlined the broad strokes of the project.
+es:verb::bramar;roar, bellow, howl;The wind howled through the trees.
+es:verb::cacarear;cackle, cluck, brag about;Bragging about his achievements so much eventually gets tiresome.
+es:verb::caldear;heat up, inflame, stir up;His statements inflamed the atmosphere even further.
+es:verb::camelar;sweet-talk, cajole, butter up;He tried to butter up the boss with flattery.
+es:verb::campar;run riot, roam freely (campar a sus anchas), do as one pleases;Thieves roam freely around the neighborhood.
+es:verb::carcomer;eat away at, gnaw at, consume;Envy is eating him up inside.
+es:verb::cejar;give up, give in, let up;We will not give up our efforts.
+es:verb::columbrar;make out, glimpse, discern;In the distance, the church tower could be made out.
+es:verb::compungirse;feel sorry, be saddened, feel remorse;He was saddened to see the suffering of others.
+es:verb::conchabarse;gang up, conspire, collude;They colluded to cheat their partner.
+es:verb::conminar;order (under threat), warn, urge;The police ordered him to leave the building.
+es:verb::consumar;carry out, complete, consummate;The coup was carried out in a few hours.
+es:verb::contemporizar;compromise, temporize, accommodate;He preferred to compromise rather than confront the boss.
+es:verb::contrariar;contradict, annoy, cross;He doesn't like being contradicted.
+es:verb::corear;chant, sing along;The audience chanted the singer's name.
+es:verb::curtir;harden, toughen, tan (leather);The years at sea hardened him.
+es:verb::desagraviar;make amends (to), make it up (to);He wanted to make it up to his friend with a dinner.
+es:verb::desasosegar;unsettle, disturb, make uneasy;His silence makes me uneasy.
+es:verb::descarriarse;go astray, go off the rails;The boy went off the rails as a teenager.
+es:verb::desdecirse;retract, go back on one's word, backtrack;The minister backtracked the next day.
+es:verb::desfalcar;embezzle;The treasurer embezzled the club's funds.
+es:verb::desgañitarse;shout oneself hoarse, scream;She shouted herself hoarse calling him, but he didn't hear her.
+es:verb::desollar;skin, flay;The hunter carefully skinned the rabbit.
+es:verb::despotricar;rant, rail (against);He spent the dinner ranting about the government.
+es:verb::desquiciar;drive crazy, unhinge;That constant noise drives me crazy.
+es:verb::desternillarse;split one's sides laughing, crack up;We were in stitches at his jokes.
+es:verb::destilar;distill, exude, ooze;His words oozed resentment.
+es:verb::desvalijar;rob, ransack, clean out;Someone broke into his car in the parking lot and cleaned it out.
+es:verb::devanarse;rack (one's brains);I racked my brains looking for a solution.
+es:verb::eclosionar;hatch, emerge, blossom;The movement emerged in the sixties.
+es:verb::embadurnar;smear, daub, cover;The child smeared chocolate all over his face.
+es:verb::embarullar;muddle, mix up, confuse;Please don't muddle things up any further.
+es:verb::embestir;charge, ram, attack;The bull charged at the barrier.
+es:verb::embotar;dull, blunt;Tiredness dulled his senses.
+es:verb::emponzoñar;poison;Jealousy poisoned their relationship.
+es:verb::encallar;run aground, stall, reach deadlock;The negotiations stalled on the final point.
+es:verb::encapricharse;become infatuated, set one's heart on, take a fancy to;He set his heart on a very expensive car.
+es:verb::encomiar;praise, extol, commend;Critics praised his performance.
+es:verb::endilgar;foist on, saddle with, lumber with;They saddled me with the most boring job.
+es:verb::endiosar;deify, make conceited, put on a pedestal;Fame went to his head and he lost friends.
+es:verb::enardecer;inflame, stir up, fire up;The speech fired up the crowd.
+es:verb::enajenar;alienate, dispose of (property), drive mad;The State sold off several public companies.
+es:verb::encabritarse;rear up;The horse reared up when it heard the shot.
+es:verb::endosar;saddle with, offload, endorse (a check);He always offloads his problems on me.
+es:verb::enfangarse;get muddy, get mixed up (in), sink (into);He got mixed up in shady deals.
+es:verb::engalanar;decorate, adorn, deck out;They decorated the square for the festivities.
+es:verb::engarzar;set (a stone), link, string together;The jeweler set the diamond in gold.
+es:verb::engreírse;become conceited, get big-headed;With success, he became far too conceited.
+es:verb::enjugar;wipe (away), dry, wipe out (a debt);The company managed to wipe out its losses.
+es:verb::enquistarse;become entrenched, drag on, fester;The conflict has dragged on for years.
+es:verb::enrarecer;sour, poison (the atmosphere), rarefy;Distrust soured the working atmosphere.
+es:verb::ensimismarse;become lost in thought, withdraw into oneself;He became lost in thought looking out the window.
+es:verb::entronizar;enthrone, exalt;They enthroned the new king in the cathedral.
+es:verb::enzarzarse;get embroiled (in), get into (an argument);They got into a pointless argument.
+es:verb::errar;err, miss, wander;To err is human, to forgive divine.
+es:verb::escamotear;conceal, withhold, make disappear;The report withholds important data.
+es:verb::escarnecer;mock, ridicule, deride;They ridiculed him publicly for his mistake.
+es:verb::escrutar;scrutinize, examine, count (votes);He looked me up and down in silence.
+es:verb::estatuir;establish, lay down, decree;The law lays down tenants' rights.
+es:verb::estragar;spoil, ruin, damage;Too much sugar ruins the palate.
+es:verb::exculpar;exonerate, clear, acquit;The new evidence completely exonerates him.
+es:verb::expiar;atone (for), expiate;He wanted to atone for his sins by helping others.
+es:verb::fenecer;expire, end, pass away;The deadline expires next Monday.
+es:verb::finiquitar;settle, wrap up, finish off;We want to wrap up this matter as soon as possible.
+es:verb::fisgonear;snoop, pry, poke around;Stop snooping in my drawers.
+es:verb::flagelar;flagellate, whip, castigate;The press lashed out at the minister over his handling of affairs.
+es:verb::fulminar;strike down, glare (fulminar con la mirada), annihilate;She gave me a withering look.
+es:verb::galvanizar;galvanize, rouse;His speech galvanized the entire opposition.
+es:verb::gandulear;laze around, loaf, idle;He spent the summer lazing around at home.
+es:verb::garabatear;scribble, scrawl, doodle;He scribbled his number on a napkin.
+es:verb::gimotear;whimper, whine, snivel;The child was whining because he wanted an ice cream.
+es:verb::glosar;comment on, annotate, gloss;The teacher commented on the poet's verses.
+es:verb::guarecerse;take shelter, shelter;We took shelter from the rain under a bridge.
+es:verb::hurgar;rummage, poke, dig (into);Don't dig into old wounds.
+es:verb::impugnar;challenge, contest, appeal;The opposition challenged the election result.
+es:verb::incoar;initiate, institute, open (proceedings);The judge opened disciplinary proceedings.
+es:verb::inmolar;sacrifice, immolate;He set himself on fire as a sign of protest.
+es:verb::jalonar;mark, punctuate, dot;Successes marked his long career.
+es:verb::lapidar;stone, crucify (figuratively), tear to shreds;Social media tore him to shreds mercilessly.
+es:verb::litigar;litigate, go to court, sue;The siblings are going to court over the inheritance.
+es:adj::magnánimo;magnanimous, generous;The winner was magnanimous toward his rivals.
+es:adj::malévolo;malevolent, malicious, spiteful;He made a malicious comment about his colleague.
+es:adj::mendaz;mendacious, lying, untruthful;He is a lying, opportunistic politician.
+es:adj::mojigato;prudish, prissy, sanctimonious;His aunt is too prudish for those jokes.
+es:adj::mustio;wilted, withered, gloomy;The flowers in the vase have already wilted.
+es:adj::nefando;heinous, abominable, unspeakable;They committed heinous crimes during the war.
+es:adj::obcecado;obsessed, blinded, stubborn;He is obsessed with the idea of revenge.
+es:adj::obsecuente;obsequious, servile, fawning;He is surrounded by obsequious aides who never disagree.
+es:adj::obtuso;obtuse, dense, slow-witted;Don't be obtuse and listen to what I'm telling you.
+es:adj::ominoso;ominous, foreboding;An ominous silence filled the room.
+es:adj::opíparo;sumptuous, lavish (of a meal);They served us a sumptuous dinner.
+es:adj::oprobioso;shameful, disgraceful, ignominious;It was a shameful episode in our history.
+es:adj::orondo;smug, self-satisfied, portly;He was as smug as could be after insulting her.
+es:adj::palmario;clear, evident, obvious;His guilt is evident in light of the evidence.
+es:adj::parsimonioso;unhurried, leisurely, slow;He walked through the park at a leisurely pace.
+es:adj::pazguato;simple, dim-witted, naive;Don't play dumb, you know what happened.
+es:adj::pedante;pedantic, pretentious;His pedantic tone irritates everyone.
+es:adj::pendenciero;quarrelsome, belligerent, rowdy;He was a quarrelsome boy who was always looking for a fight.
+es:adj::perentorio;peremptory, urgent, pressing;We received an urgent order to evacuate.
+es:adj::pernicioso;harmful, pernicious, damaging;Tobacco is harmful to health.
+es:adj::petulante;arrogant, smug, conceited;His arrogant attitude cost him his job.
+es:adj::pletórico;bursting (with), brimming (with), elated;He reached the finish line bursting with joy.
+es:adj::preclaro;illustrious, eminent;He was one of the most illustrious minds of his century.
+es:adj::prístino;pristine, unspoiled;The lake retains its pristine beauty.
+es:adj::procaz;crude, insolent, indecent;He addressed some crude words to her that offended everyone.
+es:adj::pródigo;generous, lavish, prodigal;Nature was generous to this land.
+es:adj::prosaico;prosaic, mundane;Let's get back to more mundane matters, like money.
+es:adj::provecto;advanced (of age), venerable;He died at an advanced age, surrounded by grandchildren.
+es:adj::pudibundo;prudish, bashful;The film scandalized the prudish society of the time.
+es:adj::pueril;puerile, childish;I found it a rather childish argument.
+es:adj::pugnaz;combative, pugnacious, belligerent;He kept a combative tone throughout the debate.
+es:adj::pulcro;neat, tidy, immaculate;He submitted a neat, well-documented piece of work.
+es:adj::pusilánime;cowardly, faint-hearted, pusillanimous;It was a cowardly response to injustice.
+es:adj::quimérico;fanciful, unrealistic, chimerical;His plan seems completely unrealistic to me.
+es:adj::rancio;rancid, stale, old-fashioned;The butter smells rancid.
+es:adj::raudo;swift, quick, rapid;He rushed off to get help.
+es:adj::redomado;out-and-out, utter, consummate;He is an out-and-out liar.
+es:adj::refractario;resistant, averse, refractory;He is resistant to any change.
+es:adj::remiso;reluctant, unwilling, remiss;He was reluctant to cooperate with the police.
+es:adj::renuente;reluctant, unwilling;The government is reluctant to negotiate.
+es:adj::rimbombante;pompous, grandiloquent, high-flown;He uses pompous language to say nothing at all.
+es:adj::rubicundo;ruddy, rosy, reddish;His face was ruddy from the cold.
+es:adj::sañudo;vicious, savage, ferocious;He was the victim of a vicious attack in the press.
+es:adj::sardónico;sardonic, sarcastic;He answered with a sardonic smile.
+es:adj::sempiterno;eternal, everlasting, perpetual;He was wearing his ever-present black hat.
+es:adj::sibilino;cryptic, enigmatic, sibylline;He answered with a cryptic phrase that no one understood.
+es:adj::sigiloso;stealthy, quiet, secretive;The cat crept stealthily toward its prey.
+es:adj::sinuoso;winding, sinuous;We climbed a winding mountain road.
+es:adj::socarrón;wry, sly, mocking;He looked at me with a wry expression.
+es:adj::soez;vulgar, crude, foul;I won't tolerate that foul language in class.
+es:adj::solapado;veiled, covert, sly;There is a veiled criticism in his words.
+es:adj::solícito;attentive, obliging, solicitous;The waiter was very attentive to us.
+es:adj::subrepticio;surreptitious, stealthy, covert;They made a surreptitious change to the contract.
+es:adj::sucinto;succinct, concise, brief;Give a succinct account of the facts.
+es:adj::supino;utter, crass, abysmal (of ignorance);He showed crass ignorance of the subject.
+es:adj::suspicaz;suspicious, distrustful, wary;He is very suspicious of strangers.
+es:adj::tácito;tacit, unspoken, implicit;There was a tacit agreement between the two.
+es:adj::tétrico;gloomy, grim, eerie;The house looked eerie at night.
+es:adj::timorato;timid, fearful, faint-hearted;He is too timid to make decisions.
+es:adj::torvo;grim, menacing, fierce (of a look);He shot me a menacing look from the doorway.
+es:adj::tosco;rough, crude, coarse;It was a crude but sturdy piece of furniture.
+es:adj::trasnochado;outdated, old-fashioned, stale;He defends some rather outdated ideas.
+es:adj::trémulo;trembling, tremulous, quivering;He spoke in a voice trembling with emotion.
+es:adj::truculento;gruesome, gory, lurid;The film has scenes that are too gruesome.
+es:adj::turbio;murky, shady, cloudy;He was involved in shady dealings.
+es:adj::umbrío;shady, shadowy;We rested in a shady corner of the garden.
+es:adj::untuoso;unctuous, oily, greasy;He speaks in an unctuous tone that I don't like.
+es:adj::vacuo;vacuous, empty, hollow;It was a vacuous speech full of clichés.
+es:adj::veleidoso;fickle, capricious, inconstant;He has a fickle and unpredictable nature.
+es:adj::venal;venal, corrupt, bribable;Several corrupt judges were denounced.
+es:adj::venial;venial, minor, forgivable;It was a minor mistake that nobody held against him.
+es:adj::virulento;virulent, vitriolic, scathing;He published a vitriolic article against the mayor.
+es:adj::voluble;fickle, changeable, inconstant;Public opinion is very fickle.
+es:adj::zafio;boorish, uncouth, coarse;His boorish behavior embarrassed everyone.
+es:adj::abyecto;abject, despicable, vile;It was a despicable and unforgivable act.
+es:adj::acomodaticio;accommodating, opportunistic, compliant;He is an opportunistic politician who changes with the wind.
+es:adj::adocenado;mediocre, run-of-the-mill, commonplace;He writes run-of-the-mill novels without any originality.
+es:adj::alambicado;convoluted, overelaborate, contrived;His style is too convoluted for the general public.
+es:adj::alevoso;treacherous, perfidious;It was a treacherous attack from behind.
+es:adj::altisonante;high-flown, grandiloquent, bombastic;He gave a bombastic, empty speech.
+es:adj::apoteósico;tremendous, triumphant, spectacular;The concert had a spectacular finale.
+es:adj::arisco;unfriendly, standoffish, skittish;It's a skittish cat that won't let itself be petted.
+es:adj::artero;crafty, cunning, sly;He used crafty means to gain power.
+es:adj::atrabiliario;irascible, bad-tempered, cantankerous;He was a cantankerous old man who argued with everyone.
+es:adj::campechano;down-to-earth, easygoing, folksy;The king was known for being down-to-earth.
+es:adj::castizo;traditional, authentic, typical;He lives in a very traditional Madrid neighborhood.
+es:adj::chabacano;vulgar, tacky, crude;The show resorts to crude humor.
+es:adj::cicatero;stingy, mean, tight-fisted;Don't be stingy, leave a good tip.
+es:adj::cariacontecido;crestfallen, downcast, glum;He came home crestfallen after the exam.
+es:adj::decrépito;decrepit, dilapidated;The building is in a decrepit state.
+es:adj::deleznable;despicable, contemptible, deplorable;It is despicable behavior that deserves punishment.
+es:adj::desaforado;unbridled, boundless, wild;He had an unbridled ambition for power.
+es:adv::aposta;on purpose, deliberately;Don't get angry, I didn't break it on purpose.
+es:adv::ipso facto;immediately, at once, ipso facto;If you don't pay, they cut off your electricity immediately.
+es:adv::por doquier;everywhere, all over;There was trash everywhere after the party.
+es:adv::ex profeso;specifically, expressly, on purpose;I came specifically to talk to you.
