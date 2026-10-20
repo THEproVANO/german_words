@@ -3143,3 +3143,1203 @@ BIZ:de:adj::cloudbasiert;basado en la nube, en la nube;Usamos una solución basa
 BIZ:de:adj::remote;remoto, a distancia, en remoto;Nuestro equipo trabaja totalmente en remoto.
 de:adj::artig;bueno, obediente (niño);Hoy los niños se han portado muy bien.
 de:noun:der:Quatsch;tontería, disparate;¡No digas tonterías!
+de:adj::gesellschaftlich;social;Es un problema social.
+de:adj::kulturell;cultural;La ciudad tiene una amplia oferta cultural.
+de:adj::ökologisch;ecológico;Compramos productos ecológicos.
+de:adj::erneuerbar;renovable;Las energías renovables son cada vez más importantes.
+de:adj::historisch;histórico;Es un acontecimiento histórico.
+de:adj::medizinisch;médico (adj.), sanitario;Necesita asistencia médica.
+de:adj::juristisch;jurídico, legal;Es un problema jurídico.
+de:adj::zwischenmenschlich;interpersonal;Las relaciones interpersonales son importantes.
+de:adj::emotional;emocional, emotivo;Reaccionó de forma muy emocional.
+de:adj::rational;racional;Mantengámonos racionales.
+de:adj::logisch;lógico;¡Pero si es lógico!
+de:adj::relevant;relevante, pertinente;Esta información es muy relevante.
+de:adj::präzise;preciso, exacto;Por favor, responda con precisión.
+de:adj::vage;vago, impreciso;Su respuesta fue muy vaga.
+de:adj::komplex;complejo;El tema es muy complejo.
+de:adj::nüchtern;en ayunas, sobrio;Por favor, venga en ayunas para la extracción de sangre.
+de:adv::allmählich;poco a poco, paulatinamente;Poco a poco va oscureciendo.
+de:adv::andernfalls;de lo contrario, en caso contrario;Por favor, pague antes del viernes, de lo contrario recibirá un aviso de pago.
+de:adv::ausnahmsweise;excepcionalmente, por una vez;Por una vez, hoy puedes quedarte despierto hasta más tarde.
+de:adv::äußerst;sumamente, extremadamente;Esto es sumamente importante.
+de:adv::beinahe;casi, por poco;Por poco pierdo el tren.
+de:adv::bekanntlich;como es sabido, como se sabe;Como es sabido, fumar es perjudicial.
+de:adv::bestenfalls;en el mejor de los casos;Esto tardará, en el mejor de los casos, dos semanas.
+de:adv::schlimmstenfalls;en el peor de los casos;En el peor de los casos, tendremos que empezar de nuevo.
+de:adv::dennoch;sin embargo, no obstante, aun así;Fue difícil, sin embargo, lo conseguimos.
+de:adv::derzeit;actualmente, en este momento;Actualmente la oficina está cerrada.
+de:adv::durchweg;sin excepción, totalmente;Las críticas fueron positivas sin excepción.
+de:adv::eher;más bien, antes;Bebo más bien té que café.
+de:adv::einigermaßen;más o menos, bastante;Estoy más o menos bien.
+de:adv::folglich;por consiguiente, por lo tanto;Estaba enfermo, por lo tanto no pudo venir.
+de:adv::gewissermaßen;en cierto modo, por así decirlo;En cierto modo, es un cumplido.
+de:adv::größtenteils;en su mayor parte, mayormente;El trabajo está terminado en su mayor parte.
+de:adv::hauptsächlich;principalmente, sobre todo;Leo principalmente novelas.
+de:adv::hierbei;en esto, al hacerlo;En esto hay que tener cuidado.
+de:adv::hingegen;en cambio, por el contrario;Él es ruidoso, su hermana, en cambio, es muy tranquila.
+de:adv::infolgedessen;en consecuencia, por consiguiente;Llovió, en consecuencia se suspendió el partido.
+de:adv::insbesondere;en particular, especialmente;Me gusta la fruta, en particular las manzanas.
+de:adv::jederzeit;en cualquier momento, siempre que quiera;Puedes llamarme en cualquier momento.
+de:adv::keineswegs;de ningún modo, en absoluto;Esto no es seguro en absoluto.
+de:adv::kürzlich;recientemente, hace poco;Me lo encontré hace poco.
+de:adv::mittlerweile;entretanto, ya, a estas alturas;Ahora ya vivo en Berlín.
+de:adv::nachträglich;con retraso, a posteriori;¡Feliz cumpleaños con retraso!
+de:adv::notfalls;en caso necesario, si hace falta;Si hace falta, tomamos un taxi.
+de:adv::offenbar;al parecer, por lo visto;Por lo visto, se le ha olvidado.
+de:adv::schätzungsweise;aproximadamente, unos;Vinieron aproximadamente 1000 personas.
+de:adv::sozusagen;por así decirlo, como quien dice;Él es, por así decirlo, el jefe aquí.
+de:adv::stets;siempre;Siempre es amable.
+de:adv::teils;en parte;El tiempo estuvo en parte soleado, en parte nublado.
+de:adv::überwiegend;mayoritariamente, predominantemente;Los clientes están mayoritariamente satisfechos.
+de:adv::umso;tanto (más, mejor);Cuanto antes, mejor.
+de:adv::ursprünglich;en un principio, originalmente;En un principio queríamos ir a Italia.
+de:adv::vergeblich;en vano, inútilmente;Esperé en vano.
+de:adv::vermutlich;probablemente, presumiblemente;Probablemente venga mañana.
+de:adv::vielmehr;más bien, sino más bien;No es un problema, sino más bien una oportunidad.
+de:adv::völlig;completamente, totalmente;Estoy completamente agotado.
+de:adv::weitgehend;en gran medida, en gran parte;El problema está resuelto en gran medida.
+de:adv::zeitweise;a ratos, temporalmente;A ratos llueve.
+de:adv::zuvor;antes, previamente;Nunca antes lo había visto.
+de:adv::zweifellos;sin duda, indudablemente;Él es sin duda el mejor.
+de:adv::zwischendurch;entre medias, de vez en cuando;Entre medias me como una manzana.
+de:adv::demnächst;próximamente, dentro de poco;La nueva tienda abrirá próximamente.
+de:adv::neuerdings;últimamente, desde hace poco;Desde hace poco va al trabajo en bici.
+de:adv::bislang;hasta ahora, hasta el momento;Hasta ahora no hay información.
+de:adv::sicherheitshalber;por si acaso, por seguridad;Por si acaso, me llevo un paraguas.
+de:adv::vorübergehend;temporalmente, provisionalmente;La tienda está cerrada temporalmente.
+de:adv::womöglich;posiblemente, a lo mejor;A lo mejor se le ha olvidado.
+de:adv::zumindest;al menos, por lo menos;¡Al menos llama!
+de:adv::zugleich;a la vez, al mismo tiempo;Es profesor y a la vez músico.
+de:adv::seither;desde entonces;Desde entonces no nos hemos visto.
+de:conj::sofern;siempre que, si;Si no surge ningún imprevisto, iré.
+de:conj::soweit;por lo que, según;Por lo que yo sé, está de vacaciones.
+de:conj::wohingegen;mientras que;A él le gusta el café, mientras que ella prefiere el té.
+de:conj::zumal;sobre todo porque, más aún cuando;Me quedo en casa, sobre todo porque llueve.
+de:conj::geschweige denn;y mucho menos, ni mucho menos;Apenas puede andar, y mucho menos correr.
+de:conj::insofern;en la medida en que, en tanto que;Tiene razón en la medida en que el problema es nuevo.
+de:conj::wenngleich;aunque, si bien;Aunque fue difícil, lo conseguimos.
+de:prep::anhand;a partir de, mediante, con ayuda de;Explico la regla a partir del ejemplo.
+de:prep::anlässlich;con motivo de, con ocasión de;Con motivo de su cumpleaños hubo una fiesta.
+de:prep::dank;gracias a;Gracias a tu ayuda lo conseguimos.
+de:prep::einschließlich;incluido, inclusive;El precio incluye el IVA.
+de:prep::hinsichtlich;en cuanto a, respecto a;En cuanto al precio, no hay problemas.
+de:prep::infolge;a consecuencia de, debido a;A consecuencia de la tormenta se fue la luz.
+de:prep::mangels;por falta de, a falta de;Fue absuelto por falta de pruebas.
+de:prep::mittels;mediante, por medio de;El pago se realiza mediante transferencia.
+de:prep::ungeachtet;a pesar de, pese a;A pesar de las críticas, siguió adelante.
+de:prep::zugunsten;a favor de, en beneficio de;El concierto se celebra a beneficio de la ayuda a la infancia.
+de:prep::zwecks;con el fin de, a efectos de;Para inscribirse, venga por favor a la oficina.
+de:prep::seitens;por parte de;Por parte de la empresa no hay objeciones.
+de:prep::entgegen;en contra de, contrariamente a;Contra todo pronóstico, ganó.
+de:prep::gemäß;según, conforme a, de acuerdo con;Según el contrato, usted paga mensualmente.
+de:prep::samt;junto con, con;Vino junto con su familia.
+de:prep::binnen;en un plazo de, dentro de;Por favor, responda en un plazo de una semana.
+de:prep::abzüglich;menos, descontando;El precio, descontando la rebaja, es de 80 euros.
+de:prep::zuzüglich;más, sin incluir;El alquiler es de 700 euros más gastos de comunidad.
+de:noun:die:Arbeitsatmosphäre;ambiente de trabajo, ambiente laboral;El ambiente de trabajo es muy agradable.
+de:noun:der:Arbeitsablauf;flujo de trabajo, proceso de trabajo;Estamos optimizando los procesos de trabajo.
+de:noun:die:Aufstiegsmöglichkeit;posibilidad de ascenso, oportunidad de promoción;La empresa ofrece buenas posibilidades de ascenso.
+de:noun:die:Beförderung;ascenso, promoción (laboral);Le han dado un ascenso.
+de:noun:der:Betriebsrat;comité de empresa;El comité de empresa representa a los empleados.
+de:noun:der:Dienstleister;proveedor de servicios;Trabajamos con un proveedor de servicios externo.
+de:noun:die:Dienstreise;viaje de negocios, viaje de trabajo;La empresa corre con los gastos del viaje de negocios.
+de:noun:die:Einarbeitung;periodo de formación inicial, incorporación;La formación inicial dura cuatro semanas.
+de:noun:die:Fachkenntnis;conocimientos técnicos, conocimientos especializados;Para el puesto se necesitan buenos conocimientos técnicos.
+de:noun:die:Führungskraft;directivo, cargo directivo;Es una directiva con experiencia.
+de:noun:die:Geschäftsführung;dirección (de la empresa), gerencia;La dirección ha tomado una decisión.
+de:noun:der:Geschäftspartner;socio comercial;Hoy nos reunimos con nuestros socios comerciales.
+de:noun:die:Gleitzeit;horario flexible;Aquí tenemos horario flexible.
+de:noun:das:Homeoffice;teletrabajo;Teletrabajo dos días a la semana.
+de:noun:die:Kompetenz;competencia, capacidad;La competencia social es importante en el trabajo.
+de:noun:die:Leitung;dirección, gestión;Ella asume la dirección del proyecto.
+de:noun:der:Mindestlohn;salario mínimo;Se ha subido el salario mínimo.
+de:noun:die:Mitarbeiterin;empleada, colaboradora;La nueva empleada empieza mañana.
+de:noun:das:Personal;personal, plantilla;El personal es muy amable.
+de:noun:die:Personalabteilung;departamento de recursos humanos, departamento de personal;Envíe la solicitud al departamento de recursos humanos.
+de:noun:die:Präsentation;presentación;Mañana hago una presentación.
+de:noun:das:Protokoll;acta;¿Quién redacta hoy el acta?
+de:noun:der:Schichtdienst;trabajo por turnos;Las enfermeras trabajan por turnos.
+de:noun:die:Stellenbeschreibung;descripción del puesto;Lea atentamente la descripción del puesto.
+de:noun:der:Tarifvertrag;convenio colectivo;El nuevo convenio colectivo entra en vigor en julio.
+de:noun:die:Teilzeit;media jornada, jornada parcial;Ella trabaja a media jornada.
+de:noun:die:Vollzeit;jornada completa;Trabajo a jornada completa.
+de:noun:der:Urlaubsanspruch;derecho a vacaciones;Tengo derecho a 30 días de vacaciones.
+de:noun:die:Vereinbarkeit;conciliación, compatibilidad;La conciliación de la vida familiar y laboral es difícil.
+de:noun:die:Verhandlungsbasis;precio negociable, base de negociación;El precio es negociable.
+de:noun:die:Weiterentwicklung;desarrollo, perfeccionamiento;La empresa invierte en el desarrollo de sus empleados.
+de:noun:die:Zielgruppe;público objetivo, grupo destinatario;Los jóvenes son nuestro público objetivo.
+de:noun:die:Zuverlässigkeit;fiabilidad, formalidad;Para mí la fiabilidad es muy importante.
+de:noun:die:App;aplicación, app;He instalado una nueva aplicación.
+de:noun:der:Algorithmus;algoritmo;El algoritmo decide lo que vemos.
+de:noun:der:Datenschutz;protección de datos;La protección de datos es muy estricta en Alemania.
+de:noun:die:Festplatte;disco duro;El disco duro está lleno.
+de:noun:die:Funktion;función;El móvil tiene muchas funciones.
+de:noun:der:Hacker;hacker, pirata informático;Unos hackers robaron los datos.
+de:noun:die:Künstliche Intelligenz;inteligencia artificial;La inteligencia artificial está cambiando el mundo.
+de:noun:der:Nutzer;usuario;La aplicación tiene millones de usuarios.
+de:noun:die:Plattform;plataforma;La plataforma pone en contacto a compradores y vendedores.
+de:noun:der:Server;servidor;El servidor se ha caído.
+de:noun:die:Software;software, programa;Necesitamos un software nuevo.
+de:noun:der:Speicher;memoria, almacenamiento;La memoria de mi móvil está llena.
+de:noun:die:Technologie;tecnología;Las nuevas tecnologías se desarrollan rápidamente.
+de:noun:das:Update;actualización;Por favor, instale la actualización.
+de:noun:der:Virus;virus;El ordenador tiene un virus.
+de:noun:die:Verschlüsselung;cifrado, encriptación;El cifrado protege los datos.
+de:noun:der:Zugriff;acceso;No tengo acceso a mi correo electrónico.
+de:noun:die:Abwehrkraft;defensas (del organismo);Las vitaminas refuerzan las defensas.
+de:noun:das:Immunsystem;sistema inmunitario;El deporte fortalece el sistema inmunitario.
+de:noun:die:Beschwerden;molestias, dolencias;¿Tiene alguna molestia?
+de:noun:die:Diagnose;diagnóstico;El diagnóstico fue un golpe.
+de:noun:die:Therapie;terapia, tratamiento;La terapia dura varias semanas.
+de:noun:die:Heilung;curación, cicatrización;La curación lleva tiempo.
+de:noun:die:Vorsorge;prevención;Más vale prevenir que curar.
+de:noun:die:Vorsorgeuntersuchung;revisión médica preventiva, chequeo;Hágase revisiones médicas preventivas con regularidad.
+de:noun:der:Facharzt;médico especialista, especialista;El médico de cabecera me deriva al especialista.
+de:noun:die:Notaufnahme;urgencias;Lo llevaron a urgencias.
+de:noun:die:Intensivstation;unidad de cuidados intensivos, UCI;El paciente está en la UCI.
+de:noun:die:Krankenversicherung;seguro médico, seguro de enfermedad;En Alemania el seguro médico es obligatorio.
+de:noun:die:Zuzahlung;copago;Los medicamentos tienen copago.
+de:noun:das:Übergewicht;sobrepeso;El sobrepeso es un riesgo para el corazón.
+de:noun:der:Bewegungsmangel;falta de ejercicio, sedentarismo;La falta de ejercicio enferma.
+de:noun:die:Erschöpfung;agotamiento;Sufre de agotamiento.
+de:noun:das:Burnout;síndrome de desgaste profesional, burnout;Muchos profesores sufren burnout.
+de:noun:die:Depression;depresión;Sufre una depresión.
+de:noun:die:Schlafstörung;trastorno del sueño;El estrés puede provocar trastornos del sueño.
+de:noun:die:Ausgewogenheit;equilibrio;Procure que su alimentación sea equilibrada.
+de:noun:das:Vitamin;vitamina;La fruta contiene muchas vitaminas.
+de:noun:das:Wohlbefinden;bienestar;El deporte favorece el bienestar.
+de:noun:die:Lebensweise;estilo de vida, modo de vida;Es importante llevar un estilo de vida saludable.
+de:noun:der:Ausgleich;compensación, contrapeso;El deporte es una buena forma de compensar el trabajo.
+de:noun:die:Work-Life-Balance;conciliación de la vida laboral y personal, equilibrio entre trabajo y vida personal;Es importante un buen equilibrio entre trabajo y vida personal.
+de:noun:die:Artenvielfalt;biodiversidad, diversidad de especies;La biodiversidad está amenazada.
+de:noun:der:Ausstoß;emisión;Las emisiones de CO2 tienen que bajar.
+de:noun:die:Dürre;sequía;La sequía ha destruido la cosecha.
+de:noun:die:Überschwemmung;inundación;Después de la lluvia hubo una inundación.
+de:noun:das:Hochwasser;crecida, inundación;La crecida dañó muchas casas.
+de:noun:die:Katastrophe;catástrofe, desastre;Fue una catástrofe.
+de:noun:die:Erderwärmung;calentamiento global;El calentamiento global es un problema grave.
+de:noun:der:Treibhauseffekt;efecto invernadero;El efecto invernadero está cambiando el clima.
+de:noun:das:Kraftwerk;central eléctrica;La vieja central eléctrica va a ser desconectada.
+de:noun:die:Solarenergie;energía solar;La energía solar es respetuosa con el medio ambiente.
+de:noun:die:Windkraft;energía eólica;Alemania apuesta por la energía eólica.
+de:noun:der:Rohstoff;materia prima;Las materias primas son cada vez más escasas.
+de:noun:die:Ressource;recurso;Tenemos que ahorrar recursos.
+de:noun:das:Recycling;reciclaje;El reciclaje protege el medio ambiente.
+de:noun:der:Pfand;depósito (por envase), fianza;La botella tiene un depósito de 25 céntimos.
+de:noun:der:Naturschutz;protección de la naturaleza, conservación de la naturaleza;Se compromete con la protección de la naturaleza.
+de:noun:das:Naturschutzgebiet;reserva natural, espacio natural protegido;En la reserva natural no se puede acampar.
+de:noun:der:Lebensraum;hábitat;Muchos animales están perdiendo su hábitat.
+de:noun:der:Verkehrslärm;ruido del tráfico;El ruido del tráfico me molesta por la noche.
+de:noun:der:Feinstaub;partículas finas, polvo fino;En la ciudad hay muchas partículas finas en el aire.
+de:noun:die:Luftverschmutzung;contaminación del aire, contaminación atmosférica;La contaminación del aire en las grandes ciudades es un problema.
+de:noun:der:Verzicht;renuncia;Me cuesta renunciar al coche.
+de:noun:die:Berichterstattung;cobertura informativa, información;La cobertura informativa fue parcial.
+de:noun:die:Presse;prensa;La prensa informa de ello con detalle.
+de:noun:die:Pressefreiheit;libertad de prensa;La libertad de prensa es un bien muy valioso.
+de:noun:der:Leserbrief;carta al director, carta de un lector;He escrito una carta al director.
+de:noun:der:Kommentar;comentario;¡No leas los comentarios!
+de:noun:die:Nachrichtensendung;informativo, noticiario, telediario;El informativo empieza a las 20 horas.
+de:noun:die:Reportage;reportaje;He visto un reportaje muy interesante.
+de:noun:die:Dokumentation;documental, documentación;El documental sobre África fue genial.
+de:noun:die:Auflage;tirada;El periódico tiene una gran tirada.
+de:noun:die:Fake News;noticias falsas, bulos, fake news;Las noticias falsas se propagan rápidamente.
+de:noun:die:Manipulation;manipulación;Eso es pura manipulación.
+de:noun:die:Einschaltquote;índice de audiencia, audiencia;El programa tiene altos índices de audiencia.
+de:noun:der:Follower;seguidor;Ella tiene muchos seguidores.
+de:noun:das:Abonnement;suscripción, abono;He cancelado mi suscripción.
+de:noun:der:Anwalt;abogado;Mi abogado se encarga de ello.
+de:noun:der:Richter;juez;El juez ha pronunciado la sentencia.
+de:noun:der:Angeklagte;acusado;El acusado guarda silencio.
+de:noun:der:Beweis;prueba;No hay pruebas.
+de:noun:das:Gefängnis;cárcel, prisión;Tuvo que ir a la cárcel.
+de:noun:die:Geldstrafe;multa;Le pusieron una multa.
+de:noun:das:Bußgeld;multa (administrativa), sanción;Por exceso de velocidad te ponen una multa.
+de:noun:der:Verdacht;sospecha;Está bajo sospecha.
+de:noun:der:Verdächtige;sospechoso;La policía ha detenido al sospechoso.
+de:noun:die:Ermittlung;investigación, pesquisa;Las investigaciones están en curso.
+de:noun:der:Betrug;estafa, fraude, engaño;¡Esto es una estafa!
+de:noun:die:Kriminalität;criminalidad, delincuencia;La criminalidad ha disminuido.
+de:noun:der:Mieterschutz;protección del inquilino;La protección del inquilino es fuerte en Alemania.
+de:noun:der:Mietvertrag;contrato de alquiler, contrato de arrendamiento;He firmado el contrato de alquiler.
+de:noun:die:Mieterhöhung;subida del alquiler;Nos han subido el alquiler.
+de:noun:die:Eigentumswohnung;piso en propiedad;Se han comprado un piso en propiedad.
+de:noun:der:Makler;agente inmobiliario;El agente inmobiliario nos enseña el piso.
+de:noun:die:Besichtigung;visita;La visita al piso es el sábado.
+de:noun:der:Grundriss;plano, distribución;La distribución del piso es práctica.
+de:noun:die:Wohnfläche;superficie habitable;La superficie habitable es de 80 metros cuadrados.
+de:noun:der:Quadratmeter;metro cuadrado;El piso tiene 60 metros cuadrados.
+de:noun:die:Wohnungsnot;escasez de vivienda;En las grandes ciudades hay escasez de vivienda.
+de:noun:die:Sozialwohnung;vivienda social, vivienda de protección oficial;Hay muy pocas viviendas sociales.
+de:noun:der:Schimmel;moho;En el baño hay moho.
+de:noun:der:Lärm;ruido;El ruido de la obra es insoportable.
+de:noun:die:Nachtruhe;descanso nocturno, horario de silencio nocturno;A partir de las 22 horas rige el horario de silencio nocturno.
+de:noun:die:Bildungschance;oportunidad educativa;Todos los niños deben tener las mismas oportunidades educativas.
+de:noun:das:Bildungssystem;sistema educativo;Hay que reformar el sistema educativo.
+de:noun:die:Ganztagsschule;escuela de jornada completa;Mi hija va a una escuela de jornada completa.
+de:noun:der:Lehrplan;plan de estudios, currículo;Eso no está en el plan de estudios.
+de:noun:die:Fachhochschule;universidad de ciencias aplicadas, escuela técnica superior;Estudia en una universidad de ciencias aplicadas.
+de:noun:der:Bachelor;grado, licenciatura;Ella tiene un grado en Biología.
+de:noun:der:Master;máster;Después del grado haré el máster.
+de:noun:die:Doktorarbeit;tesis doctoral;Está escribiendo su tesis doctoral.
+de:noun:die:Hausarbeit;trabajo escrito (académico), trabajo de curso;Tengo que escribir un trabajo.
+de:noun:das:Referat;exposición oral, ponencia;Mañana hago una exposición oral.
+de:noun:die:Quellenangabe;cita de fuentes, referencia bibliográfica;¡No olvides citar las fuentes!
+de:noun:die:Anerkennung;reconocimiento, convalidación (de títulos);La convalidación de mi título tarda mucho.
+de:noun:die:Lernmethode;método de aprendizaje, método de estudio;Cada uno tiene su propio método de estudio.
+de:noun:der:Lernerfolg;éxito en el aprendizaje, progreso;Practicar con regularidad lleva al éxito en el aprendizaje.
+de:noun:der:Muttersprachler;hablante nativo;Practico con un hablante nativo.
+de:noun:der:Dialekt;dialecto;En Baviera se habla un dialecto muy marcado.
+de:noun:die:Umgangssprache;lenguaje coloquial;Eso es lenguaje coloquial.
+de:noun:die:Redewendung;expresión, giro, modismo;No conozco esta expresión.
+de:noun:das:Sprichwort;refrán, proverbio;¿Cómo es el refrán?
+de:noun:die:Grammatik;gramática;La gramática alemana es difícil.
+de:noun:der:Akzent;acento;Habla con un ligero acento.
+de:verb::abgrenzen;delimitar, marcar límites (sich);A veces también hay que saber marcar límites.
+de:verb::abhalten;impedir, disuadir, celebrar (una reunión);El tiempo no me impide salir a correr.
+de:verb::ablenken;distraer;El móvil me distrae cuando estudio.
+de:verb::abraten;desaconsejar;Te lo desaconsejo.
+de:verb::absehen;prever;Todavía no se puede prever el final.
+de:verb::absichern;asegurar, proteger;Deberíamos asegurarnos económicamente.
+de:verb::abstürzen;colgarse (un ordenador), estrellarse, caerse;Se me ha vuelto a colgar el ordenador.
+de:verb::abwägen;sopesar, ponderar;Tenemos que sopesar las ventajas y los inconvenientes.
+de:verb::abwechseln;alternar, turnarse (sich);Nos turnamos para conducir.
+de:verb::anfallen;surgir, generarse (gastos);No se generan costes adicionales.
+de:verb::anfertigen;confeccionar, elaborar, hacer;Me estoy haciendo un vestido a medida.
+de:verb::angehen;concernir, importar (a alguien);¡Eso no es asunto tuyo!
+de:verb::sich angewöhnen;acostumbrarse a, adquirir la costumbre de;Me he acostumbrado a madrugar.
+de:verb::sich abgewöhnen;dejar (un hábito), quitarse la costumbre de;He dejado de fumar.
+de:verb::anlehnen;apoyar, arrimar;Apoya la bici contra la pared.
+de:verb::anmerken;señalar, comentar, observar;Quisiera señalar algo más.
+de:verb::anschaffen;adquirir, comprar;Nos hemos comprado un coche nuevo.
+de:verb::anschließen;conectar, unirse (sich);¿Puedes conectar la impresora?
+de:verb::ansteigen;aumentar, subir;Las temperaturas siguen subiendo.
+de:verb::anstoßen;brindar, empujar, dar impulso a;¡Brindemos por el nuevo año!
+de:verb::antreten;incorporarse (a un puesto), comenzar, presentarse;Se incorpora a su nuevo puesto en mayo.
+de:verb::anvertrauen;confiar (algo a alguien);Me confió un secreto.
+de:verb::aufbewahren;guardar, conservar;Por favor, guarde bien el recibo.
+de:verb::aufbringen;reunir (dinero), sacar (fuerzas);No puedo reunir ese dinero.
+de:verb::aufführen;representar (una obra), enumerar;El teatro representa una obra nueva.
+de:verb::aufgreifen;retomar, recoger (una idea);Me gustaría retomar su idea.
+de:verb::aufheitern;animar, alegrar, despejarse (el cielo);El chiste me animó.
+de:verb::aufholen;recuperar, ponerse al día;Tengo que ponerme al día con la materia.
+de:verb::auflisten;enumerar, hacer una lista;Por favor, enumere todos los gastos.
+de:verb::aufmuntern;animar, levantar el ánimo;Solo quería animarte.
+de:verb::aufrufen;convocar, llamar a;El partido convoca a la protesta.
+de:verb::aufschieben;aplazar, posponer, dejar para más tarde;¡No dejes siempre el trabajo para más tarde!
+de:verb::auftauchen;aparecer, surgir;De repente ha vuelto a aparecer.
+de:verb::auftreten;actuar, presentarse, surgir;El grupo actúa esta noche.
+de:verb::aufwenden;emplear, invertir, dedicar;Hemos dedicado mucho tiempo.
+de:verb::ausbrechen;declararse (un incendio), estallar, fugarse;En el bosque se ha declarado un incendio.
+de:verb::ausdenken;inventar, idear (sich);¡Eso te lo has inventado!
+de:verb::ausfallen;suspenderse, cancelarse, averiarse;Hoy no hay clase.
+de:verb::ausführen;sacar a pasear, ejecutar, realizar;Saca a pasear al perro todas las noches.
+de:verb::ausgrenzen;excluir, marginar;Nadie debería ser marginado.
+de:verb::aushalten;aguantar, soportar;Ya no aguanto el ruido.
+de:verb::auskommen;arreglárselas, llevarse bien (con alguien);Nos arreglamos bien con el dinero.
+de:verb::auslachen;reírse de, burlarse de;Se rieron de él.
+de:verb::auslassen;omitir, saltarse;Te has saltado una palabra.
+de:verb::ausrechnen;calcular;¿Puedes calcularlo rápidamente?
+de:verb::ausreden;terminar de hablar, dejar hablar;¡Déjame terminar, por favor!
+de:verb::ausschließen;descartar, excluir;No puedo descartarlo.
+de:verb::ausstatten;equipar, amueblar;La cocina está equipada de forma moderna.
+de:verb::aussterben;extinguirse;Muchas especies animales se han extinguido.
+de:verb::austauschen;intercambiar, cambiar, sustituir;Intercambiamos experiencias.
+de:verb::auswandern;emigrar;Emigraron a Canadá.
+de:verb::auswerten;evaluar, analizar;Estamos analizando la encuesta.
+de:verb::beibringen;enseñar;Mi padre me enseñó a nadar.
+de:verb::beichten;confesar;Tengo que confesarte algo.
+de:verb::beitreten;afiliarse, hacerse socio, adherirse;Se ha hecho socio del club.
+de:verb::bekämpfen;combatir, luchar contra;Tenemos que combatir la pobreza.
+de:verb::bekanntgeben;anunciar, dar a conocer, comunicar;Los resultados se darán a conocer mañana.
+de:verb::belästigen;molestar, acosar;¡Por favor, no me moleste!
+de:verb::beleidigen;ofender, insultar;Me ha ofendido.
+de:verb::beneiden;envidiar;Te envidio por tu trabajo.
+de:verb::berechnen;cobrar, calcular;No cobramos ninguna tarifa.
+de:verb::bereuen;arrepentirse de, lamentar;No me arrepiento de nada.
+de:verb::besiegen;vencer, derrotar;Derrotaron al rival.
+de:verb::beteiligen;hacer partícipe, dar participación;Todos los empleados recibieron una participación en los beneficios.
+de:verb::bewahren;mantener, conservar, guardar;¡Mantenga la calma!
+de:verb::bezeugen;atestiguar, dar fe de;Puedo dar fe de ello.
+de:verb::blamieren;poner en ridículo, hacer el ridículo (sich);He hecho un ridículo espantoso.
+de:verb::bremsen;frenar;El conductor frenó demasiado tarde.
+de:verb::dulden;tolerar, consentir;No voy a tolerar eso.
+de:verb::durchfallen;suspender (un examen);Ha suspendido el examen.
+de:verb::durchhalten;aguantar, resistir;Tienes que aguantar un poco más.
+de:verb::durchlesen;leer entero, leer de principio a fin;Lee el contrato con atención de principio a fin.
+de:verb::durchsuchen;registrar, revisar;La policía ha registrado el piso.
+de:verb::einbeziehen;incluir, implicar, involucrar;Deberíamos implicar a todos los empleados.
+de:verb::einbrechen;entrar a robar;Nos han entrado a robar en casa.
+de:verb::eindringen;penetrar, entrar, colarse;Ha entrado agua en el sótano.
+de:verb::einleiten;iniciar, abrir;La policía ha abierto una investigación.
+de:verb::einräumen;admitir, reconocer, colocar (en su sitio);Admitió su error.
+de:verb::einreisen;entrar (en un país);Entró en el país con un visado.
+de:verb::einschlagen;emprender, tomar (un camino), romper (a golpes);Emprendió una carrera como médica.
+de:verb::einsehen;reconocer, darse cuenta de;Reconozco que me he equivocado.
+de:verb::eintreffen;llegar;Los invitados han llegado.
+de:verb::einwandern;inmigrar;Sus padres inmigraron desde Turquía.
+de:verb::empören;indignar, escandalizar;La decisión indignó a muchos.
+de:verb::entfernen;quitar, eliminar;La mancha no sale.
+de:verb::entgehen;perderse (algo), escaparse;No te has perdido nada.
+de:verb::entkommen;escapar, huir;El ladrón se ha escapado.
+de:verb::entlarven;desenmascarar;El estafador fue desenmascarado.
+de:verb::entschädigen;indemnizar, compensar;La empresa indemnizó a los clientes.
+de:verb::entwerfen;diseñar, esbozar;Ella diseña vestidos.
+de:verb::erarbeiten;elaborar, desarrollar;Hemos elaborado juntos una solución.
+de:verb::erben;heredar;Heredó la casa de su abuela.
+de:verb::ergreifen;tomar (medidas), agarrar, coger;El Gobierno toma medidas.
+de:verb::erleiden;sufrir, padecer;Sufrió un infarto.
+de:verb::ermahnen;amonestar, llamar la atención;El profesor llama la atención a los alumnos.
+de:verb::erobern;conquistar;El producto ha conquistado el mercado.
+de:verb::erschweren;dificultar;La lluvia dificulta el trabajo.
+de:verb::erstatten;reembolsar, devolver;Los gastos serán reembolsados.
+de:verb::ertragen;soportar, aguantar;No puedo soportar el dolor.
+de:verb::erwerben;adquirir, comprar;Ha adquirido un terreno.
+de:verb::erziehen;educar, criar;Ella crio sola a sus hijos.
+de:verb::fälschen;falsificar;El pasaporte era falso.
+de:verb::festlegen;fijar, establecer;Tenemos que fijar una fecha.
+de:verb::festnehmen;detener, arrestar;La policía ha detenido al ladrón.
+de:verb::fliehen;huir;Huyeron de la guerra.
+de:verb::formulieren;formular, expresar;¿Cómo debo formularlo?
+de:verb::fürchten;temer;Me temo que tienes razón.
+de:verb::gedenken;conmemorar, recordar (a alguien);Recordamos a las víctimas.
+de:verb::gehorchen;obedecer;El perro obedece a la primera.
+de:verb::gelingen;salir bien, lograr, conseguir;El pastel me ha salido muy bien.
+de:verb::genehmigen;autorizar, aprobar, conceder;Me han concedido las vacaciones.
+de:verb::gönnen;permitirse (sich), no envidiar;¡Tómate un descanso!
+de:verb::haften;responder (de), ser responsable;Los padres son responsables de sus hijos.
+de:verb::herausfinden;averiguar, descubrir;He averiguado quién fue.
+de:verb::herausfordern;desafiar, retar;La tarea supone un reto para mí.
+de:verb::hervorrufen;provocar, causar;El medicamento puede provocar alergias.
+de:verb::hinnehmen;aceptar, resignarse a;No puedo aceptarlo sin más.
+de:verb::hinterfragen;cuestionar, poner en tela de juicio;Hay que cuestionarlo todo de forma crítica.
+de:verb::klarstellen;aclarar, dejar claro;Quisiera aclarar algo.
+de:verb::kürzen;recortar, reducir, acortar;Se ha recortado el presupuesto.
+de:verb::lästern;criticar, cotillear, hablar mal de;Hablan mal del jefe.
+de:verb::loben;elogiar, alabar;El jefe me ha elogiado.
+de:verb::meiden;evitar, rehuir;Evita las aglomeraciones.
+de:verb::missbrauchen;abusar de;Abusó de su confianza.
+de:verb::missverstehen;malinterpretar, entender mal;Me has entendido mal.
+de:verb::motivieren;motivar;El entrenador motiva al equipo.
+de:verb::nachgeben;ceder;Al final cedió.
+de:verb::nachholen;recuperar, hacer más tarde;Haremos la fiesta la semana que viene.
+de:verb::nachlassen;disminuir, remitir, ceder;El dolor va remitiendo poco a poco.
+de:verb::nachvollziehen;comprender, entender;Lo entiendo perfectamente.
+de:verb::offenbaren;revelar, confesar;Me reveló sus sentimientos.
+de:verb::optimieren;optimizar;Tenemos que optimizar los procesos.
+de:verb::plaudern;charlar, conversar;Estuvimos charlando durante horas.
+de:verb::prägen;marcar, influir, moldear;La infancia marca a las personas.
+de:verb::präsentieren;presentar;Ella presenta los resultados.
+de:verb::provozieren;provocar;¡No te dejes provocar!
+de:verb::rauben;robar, quitar;El ruido me quita el sueño.
+de:verb::rechtfertigen;justificar;Eso no se puede justificar.
+de:verb::reklamieren;reclamar, presentar una reclamación;Quisiera presentar una reclamación por este artículo.
+de:verb::renovieren;reformar, renovar;Estamos reformando el baño.
+de:verb::resultieren;resultar, derivarse;De ello se derivan nuevos problemas.
+de:verb::schonen;cuidar, no forzar, proteger;Debería no forzar la rodilla.
+de:verb::sinken;bajar, descender, hundirse;Los precios han bajado.
+de:verb::spenden;donar;Donamos dinero para niños necesitados.
+de:verb::spüren;sentir, notar;Siento el frío.
+de:verb::stärken;fortalecer, reforzar;El deporte refuerza la autoestima.
+de:verb::stürzen;caerse, sufrir una caída;Se cayó en el hielo.
+de:verb::tolerieren;tolerar;No toleramos la violencia.
+de:verb::trösten;consolar;Ella consuela a su amiga.
+de:verb::übertreiben;exagerar;¡Exageras!
+de:verb::übertragen;transmitir, retransmitir, transferir;El partido se retransmite en directo.
+de:verb::überstehen;superar, sobrevivir a;Hemos superado bien la crisis.
+de:verb::umschulen;reciclarse profesionalmente, reconvertirse;Se ha reciclado profesionalmente como enfermero.
+de:verb::unterdrücken;reprimir, contener, oprimir;No pudo contener la risa.
+de:verb::unterhalten;entretener, mantener;Entretiene a los invitados con chistes.
+de:verb::unterlaufen;cometerse (un error), colarse (un error);Se me ha colado un error.
+de:verb::unterstellen;atribuir, insinuar, acusar de;¿Me estás acusando de mentir?
+de:verb::verdächtigen;sospechar de;Sospechan que ha cometido el robo.
+de:verb::verdoppeln;duplicar, doblar;Los precios se han duplicado.
+de:verb::vereinbaren;acordar, concertar;Hemos concertado una cita.
+de:verb::vereinfachen;simplificar, facilitar;El nuevo sistema facilita el trabajo.
+de:verb::verfassen;redactar, escribir;Redactó una carta.
+de:verb::verfolgen;seguir, perseguir;Sigo las noticias.
+de:verb::vergeben;perdonar, adjudicar;Le he perdonado.
+de:verb::verhaften;detener, arrestar;El autor fue detenido.
+de:verb::verkürzen;acortar, reducir;Se ha reducido la jornada laboral.
+de:verb::verlaufen;transcurrir, desarrollarse;La operación ha transcurrido bien.
+de:verb::sich verlaufen;perderse;Nos perdimos en el bosque.
+de:verb::verleihen;conceder, otorgar, prestar;Le concedieron un premio.
+de:verb::vermehren;multiplicarse (sich), reproducirse (sich), aumentar;Las bacterias se multiplican rápidamente.
+de:verb::versagen;fallar, fracasar;Los frenos fallaron.
+de:verb::versäumen;perderse, faltar a, no acudir;Falté a la cita.
+de:verb::verschwenden;desperdiciar, malgastar;¡No pierdas el tiempo!
+de:verb::versöhnen;reconciliar, reconciliarse (sich);Los dos se han reconciliado.
+de:verb::verstärken;reforzar, intensificar;Tenemos que reforzar el equipo.
+de:verb::verwechseln;confundir;Siempre confundo a los gemelos.
+de:verb::verzögern;retrasar, demorar;La entrega se retrasa.
+de:verb::vorantreiben;impulsar, hacer avanzar;Tenemos que impulsar el proyecto.
+de:verb::vorausgehen;preceder;A la discusión le precedió un malentendido.
+de:verb::vorsehen;prever;Eso no está previsto en el plan.
+de:verb::wagen;atreverse, arriesgar;Quien no arriesga no gana.
+de:verb::weiterleiten;reenviar, transmitir;Te reenvío el correo electrónico.
+de:verb::wiederherstellen;restablecer, restaurar, recuperar;Se pudieron recuperar los datos.
+de:verb::zurücktreten;dimitir, retroceder;El ministro ha dimitido.
+de:verb::zusammenbrechen;colapsar, derrumbarse, desplomarse;El sistema ha colapsado.
+de:verb::zustande kommen;llevarse a cabo, realizarse, materializarse;El contrato no llegó a materializarse.
+de:verb::zwingen;obligar, forzar;Nadie puede obligarte a hacerlo.
+de:noun:die:Abenteuerlust;afán de aventura, espíritu aventurero;Su afán de aventura es enorme.
+de:noun:der:Abgrund;abismo, precipicio;El coche se quedó al borde del precipicio.
+de:noun:die:Abkürzung;atajo, abreviatura;Tomamos un atajo por el parque.
+de:noun:die:Ablenkung;distracción;Necesito un poco de distracción.
+de:noun:der:Absturz;accidente (aéreo), caída;En el accidente no hubo supervivientes.
+de:noun:die:Anfrage;consulta, solicitud;Muchas gracias por su consulta.
+de:noun:die:Angelegenheit;asunto, cuestión;Es un asunto privado mío.
+de:noun:der:Anhang;archivo adjunto, anexo;Encontrará el archivo en el adjunto.
+de:noun:der:Anhänger;partidario, seguidor, remolque;Es partidario de ese partido.
+de:noun:die:Anlage;instalación, planta;La instalación se está construyendo ahora.
+de:noun:die:Anmerkung;observación, comentario, nota;¿Tiene alguna observación más?
+de:noun:die:Anschaffung;adquisición, compra;El coche fue una compra cara.
+de:noun:der:Anschlag;atentado;En el atentado resultaron heridas muchas personas.
+de:noun:die:Ansprache;discurso, alocución;El presidente pronuncia un discurso.
+de:noun:der:Ansprechpartner;persona de contacto, interlocutor;¿Quién es mi persona de contacto?
+de:noun:der:Anwohner;vecino, residente;Los vecinos se quejan del ruido.
+de:noun:der:Applaus;aplauso, aplausos;Hubo grandes aplausos.
+de:noun:die:Aufnahme;admisión, ingreso, grabación;La admisión en el club es gratuita.
+de:noun:die:Aufregung;nervios, agitación, emoción;De los nervios no pude dormir.
+de:noun:der:Ausblick;vista, panorama, perspectiva;Desde aquí hay una vista estupenda.
+de:noun:der:Ausfall;avería, fallo, cancelación;Por una avería el tren no circula.
+de:noun:der:Auslöser;desencadenante, detonante, disparador;El detonante de la discusión fue una nimiedad.
+de:noun:die:Ausrüstung;equipo, equipamiento;Para la excursión se necesita un buen equipo.
+de:noun:die:Aussicht;perspectiva, vista;Las perspectivas de encontrar trabajo son buenas.
+de:noun:die:Ausstrahlung;carisma, magnetismo, emisión;Tiene un carisma increíble.
+de:noun:der:Austausch;intercambio;El intercambio con los compañeros es importante.
+de:noun:die:Bedienung;servicio, camarero;El servicio fue muy amable.
+de:noun:die:Begleitung;compañía, acompañamiento;Los niños solo pueden venir acompañados de un adulto.
+de:noun:der:Bekanntenkreis;círculo de conocidos;En mi círculo de conocidos hay muchos médicos.
+de:noun:die:Beratungsstelle;centro de asesoramiento, oficina de orientación;Diríjase a un centro de asesoramiento.
+de:noun:die:Berufserfahrung;experiencia profesional, experiencia laboral;Tiene cinco años de experiencia profesional.
+de:noun:der:Bestand;existencias, stock, reservas;Las existencias de mercancía son escasas.
+de:noun:der:Besuch;visita;¡Gracias por tu visita!
+de:noun:der:Bettler;mendigo;Un mendigo está sentado delante del supermercado.
+de:noun:die:Bewährung;libertad condicional;Le cayeron dos años de libertad condicional.
+de:noun:der:Bezug;relación, referencia;Con respecto a su pregunta, puedo decir...
+de:noun:die:Blamage;vergüenza, ridículo, bochorno;Fue un auténtico ridículo.
+de:noun:die:Bremse;freno;Los frenos no funcionan.
+de:noun:der:Briefwechsel;correspondencia, intercambio de cartas;Mantenemos una correspondencia muy activa.
+de:noun:der:Buchhalter;contable;El contable revisa las facturas.
+de:noun:die:Clique;pandilla, grupo de amigos;El fin de semana quedo con mi pandilla.
+de:noun:der:Dachboden;desván, buhardilla;Las cosas viejas están en el desván.
+de:noun:der:Einbrecher;ladrón (que entra en casas);Los ladrones robaron joyas.
+de:noun:die:Einkaufsliste;lista de la compra;Escribo una lista de la compra.
+de:noun:der:Einwand;objeción;¿Hay alguna objeción?
+de:noun:der:Empfang;recepción;Por favor, preséntese en la recepción.
+de:noun:der:Entschluss;decisión, resolución;He tomado una decisión.
+de:noun:der:Entwurf;borrador, boceto, proyecto;Esto es solo un primer borrador.
+de:noun:die:Errungenschaft;logro, conquista, avance;Internet es un gran logro.
+de:noun:der:Fachbereich;departamento, facultad, área;¿En qué facultad estudias?
+de:noun:die:Fahrlässigkeit;negligencia, imprudencia;El accidente se debió a una negligencia grave.
+de:noun:die:Fehlentscheidung;decisión equivocada, error;Fue claramente una decisión equivocada.
+de:noun:die:Feindschaft;enemistad;Entre las familias reina la enemistad.
+de:noun:das:Fernweh;ganas de viajar, anhelo de lugares lejanos;En invierno me entran ganas de viajar lejos.
+de:noun:das:Heimweh;nostalgia, añoranza del hogar, morriña;En el extranjero a menudo sentía nostalgia de casa.
+de:noun:die:Festnahme;detención, arresto;La policía informa de una detención.
+de:noun:der:Fleck;mancha;La camisa tiene una mancha.
+de:noun:die:Gebrauchsanleitung;instrucciones de uso, manual de instrucciones;Las instrucciones de uso están en inglés.
+de:noun:der:Gegenwert;equivalente, contravalor;Recibirá el equivalente en efectivo.
+de:noun:die:Gesamtheit;totalidad, conjunto;La sociedad en su conjunto se ve afectada.
+de:noun:der:Geschäftsführer;director gerente, gerente;El gerente ha dimitido.
+de:noun:das:Gewerbe;negocio, actividad comercial, oficio;Ha dado de alta una actividad comercial.
+de:noun:das:Gleichgewicht;equilibrio;He perdido el equilibrio.
+de:noun:der:Haushaltsartikel;artículo del hogar, artículo doméstico;En el sótano hay artículos del hogar.
+de:noun:die:Herausforderung;desafío, reto;Es un gran reto.
+de:noun:die:Hilfsbereitschaft;disposición a ayudar, solidaridad;¡Gracias por tu disposición a ayudar!
+de:noun:der:Hinterhof;patio trasero, patio interior;El taller está en el patio trasero.
+de:noun:der:Höhepunkt;punto culminante, momento cumbre, apogeo;El concierto fue el momento cumbre de la noche.
+de:noun:die:Inhaltsangabe;resumen (del contenido);Escriba un resumen del contenido.
+de:noun:das:Inserat;anuncio (clasificado);He puesto un anuncio.
+de:noun:das:Jugendamt;oficina de protección de menores, servicios sociales de menores;La oficina de protección de menores se ocupa del niño.
+de:noun:die:Kehrseite;reverso, cara oculta, lado negativo;Es la otra cara de la moneda.
+de:noun:die:Kleinigkeit;pequeñez, nimiedad, minucia;No es más que una nimiedad.
+de:noun:das:Klischee;cliché, tópico, estereotipo;Eso no es más que un tópico.
+de:noun:die:Kommunikationsfähigkeit;capacidad de comunicación, habilidades comunicativas;La capacidad de comunicación es importante en el trabajo.
+de:noun:der:Kontoauszug;extracto bancario, extracto de cuenta;Imprimo mi extracto bancario.
+de:noun:die:Kosmetik;cosmética, cosméticos;Ella solo usa cosméticos naturales.
+de:noun:der:Kratzer;arañazo, rasguño, rayón;El coche tiene un arañazo.
+de:noun:der:Kummer;pena, preocupación, disgusto;Tiene disgustos con su hijo.
+de:noun:der:Kündigungsschutz;protección contra el despido;Las embarazadas gozan de una protección especial contra el despido.
+de:noun:der:Lebenspartner;pareja, compañero sentimental;Vive con su pareja.
+de:noun:die:Lieferzeit;plazo de entrega;El plazo de entrega es de tres días.
+de:noun:die:Mehrsprachigkeit;plurilingüismo, multilingüismo;El plurilingüismo es una ventaja.
+de:noun:die:Mitgliedschaft;afiliación, condición de socio, membresía;La cuota de socio cuesta 50 euros al año.
+de:noun:der:Mitmensch;prójimo, semejante;Deberíamos ayudar a nuestro prójimo.
+de:noun:der:Müllcontainer;contenedor de basura;El contenedor de basura está lleno.
+de:noun:die:Nachbarschaftshilfe;ayuda entre vecinos;Aquí la ayuda entre vecinos está muy extendida.
+de:noun:das:Nachsehen;quedarse con las ganas (das Nachsehen haben), salir perdiendo;El que llega tarde se queda con las ganas.
+de:noun:die:Nebensache;cosa secundaria, detalle sin importancia;Para él el dinero es algo secundario.
+de:noun:der:Neuanfang;nuevo comienzo, borrón y cuenta nueva;Tras la separación se atreve a empezar de nuevo.
+de:noun:die:Niederlage;derrota;El equipo ha sufrido una derrota.
+de:noun:der:Notausgang;salida de emergencia;La salida de emergencia está al fondo a la izquierda.
+de:noun:die:Öffnung;apertura, abertura;La apertura de las fronteras fue un acontecimiento histórico.
+de:noun:die:Panik;pánico;¡Que no cunda el pánico!
+de:noun:der:Pfandautomat;máquina de devolución de envases;Llevo las botellas a la máquina de devolución de envases.
+de:noun:die:Pflegekraft;cuidador, auxiliar de enfermería, personal de enfermería;Faltan cuidadores en los hospitales.
+de:noun:das:Pflegeheim;residencia de ancianos, residencia asistida;La abuela vive en una residencia de ancianos.
+de:noun:die:Postfiliale;oficina de correos, sucursal de correos;El paquete está en la oficina de correos.
+de:noun:die:Pünktlichkeit;puntualidad;En Alemania la puntualidad es muy importante.
+de:noun:die:Rache;venganza;Planea vengarse.
+de:noun:der:Ratgeber;guía (libro), consejero;He comprado una guía para padres.
+de:noun:der:Rauch;humo;Huele a humo.
+de:noun:die:Rechtschreibung;ortografía;¡Cuidado con la ortografía!
+de:noun:die:Rede;discurso;Pronunció un discurso estupendo.
+de:noun:die:Reihenfolge;orden, secuencia;Ponga las frases en el orden correcto.
+de:noun:der:Rettungsdienst;servicio de emergencias, servicio de ambulancias;El servicio de emergencias llegó rápidamente al lugar.
+de:noun:die:Rückerstattung;reembolso, devolución;Todavía estoy esperando el reembolso.
+de:noun:die:Rückmeldung;respuesta, comentarios, feedback;Quedo a la espera de su respuesta.
+de:noun:der:Rückweg;camino de vuelta, vuelta;A la vuelta compro pan.
+de:noun:der:Rundgang;recorrido, visita, vuelta;Hacemos un recorrido por el casco antiguo.
+de:noun:die:Scheidung;divorcio;Después del divorcio se fue de casa.
+de:noun:das:Schicksal;destino, suerte;Fue el destino.
+de:noun:der:Schlüsselbund;manojo de llaves, llavero;He perdido mi manojo de llaves.
+de:noun:die:Schwierigkeit;dificultad, problema;Tenemos algunas dificultades.
+de:noun:die:Selbstbeherrschung;autocontrol, dominio de sí mismo;Perdió el autocontrol.
+de:noun:das:Selbstvertrauen;confianza en sí mismo, seguridad en sí mismo;El deporte me da confianza en mí mismo.
+de:noun:die:Senkung;reducción, rebaja, bajada;El Gobierno planea una bajada de impuestos.
+de:noun:die:Sicherung;fusible, copia de seguridad;Ha saltado el fusible.
+de:noun:die:Skepsis;escepticismo;Lo veo con escepticismo.
+de:noun:das:Sonderangebot;oferta especial, oferta;Hoy el café está de oferta.
+de:noun:der:Spender;donante;Buscamos donantes para el proyecto.
+de:noun:die:Sprechweise;forma de hablar, manera de hablar;Habla muy deprisa.
+de:noun:der:Stadtrand;afueras, periferia;Vivimos en las afueras.
+de:noun:die:Steigerung;aumento, incremento;Esperamos un aumento de las ventas.
+de:noun:die:Stornierung;cancelación, anulación;La cancelación es gratuita.
+de:noun:die:Störung;avería, fallo, interrupción;Hay una avería en la red.
+de:noun:die:Strafanzeige;denuncia;Presentó una denuncia.
+de:noun:der:Streitpunkt;punto de discordia, motivo de disputa;El dinero es el principal punto de discordia.
+de:noun:die:Stromrechnung;factura de la luz, factura de electricidad;La factura de la luz es muy alta.
+de:noun:die:Tagesmutter;cuidadora de niños, madre de día;Nuestro hijo va a casa de una cuidadora.
+de:noun:der:Teilerfolg;éxito parcial;Al menos es un éxito parcial.
+de:noun:die:Trennung;separación, ruptura;La separación fue dura para los niños.
+de:noun:der:Trost;consuelo;Es un pobre consuelo.
+de:noun:die:Übereinstimmung;acuerdo, coincidencia, concordancia;Hay coincidencia de opiniones.
+de:noun:der:Übergang;transición, paso;Es solo una solución transitoria.
+de:noun:die:Überlegung;reflexión, consideración;Tras mucho reflexionar, me he decidido.
+de:noun:die:Übersicht;resumen, visión general, panorámica;Aquí tiene un resumen de los costes.
+de:noun:die:Überzeugung;convicción;Es mi firme convicción.
+de:noun:der:Umgangston;tono (en el trato), trato;En el equipo el trato es cordial.
+de:noun:der:Umweg;rodeo, desvío;Hemos dado un rodeo.
+de:noun:der:Unfallort;lugar del accidente;La policía está en el lugar del accidente.
+de:noun:die:Unterbrechung;interrupción, pausa;Tras una breve interrupción, continuamos.
+de:noun:der:Unterhalt;pensión alimenticia, manutención;Paga la pensión alimenticia de sus hijos.
+de:noun:die:Unvernunft;insensatez, imprudencia;Fue una pura insensatez.
+de:noun:der:Urlaubsantrag;solicitud de vacaciones;He entregado la solicitud de vacaciones.
+de:noun:die:Verabschiedung;aprobación (de una ley), despedida;La aprobación de la ley es en junio.
+de:noun:die:Verachtung;desprecio, menosprecio;Lo miró con desprecio.
+de:noun:die:Verbreitung;propagación, difusión;Hay que frenar la propagación del virus.
+de:noun:der:Verdienst;ganancia, sueldo, ingresos;El sueldo no está mal.
+de:noun:die:Vereinbarung;acuerdo, convenio;Hemos llegado a un acuerdo.
+de:noun:die:Verfügbarkeit;disponibilidad;Comprobamos ahora mismo la disponibilidad de las habitaciones.
+de:noun:die:Verkehrsregel;norma de tráfico, regla de circulación;¡Respeta las normas de tráfico!
+de:noun:die:Verlegenheit;apuro, aprieto, vergüenza;Se vio en un apuro.
+de:noun:die:Vermeidung;prevención, evitación;Para evitar errores, lea con atención.
+de:noun:die:Vermittlung;mediación, intermediación;La intermediación del piso cuesta dinero.
+de:noun:die:Vernachlässigung;descuido, desatención, abandono;Es un descuido del deber.
+de:noun:der:Verstand;juicio, razón, entendimiento;¿Has perdido el juicio?
+de:noun:das:Versprechen;promesa;Cumplo mi promesa.
+de:noun:die:Verzweiflung;desesperación;Desesperada, llamó a la policía.
+de:noun:die:Vorahnung;presentimiento, corazonada;Tuve un mal presentimiento.
+de:noun:der:Vorfall;incidente, suceso;Se está investigando el incidente.
+de:noun:die:Vorfreude;ilusión, expectación (alegre);La ilusión por las vacaciones es enorme.
+de:noun:der:Vorgänger;predecesor, antecesor;Mi predecesor dejó la empresa.
+de:noun:der:Nachfolger;sucesor;¿Quién será su sucesor?
+de:noun:die:Vorlage;plantilla, modelo;Utilice la plantilla para la carta.
+de:noun:die:Vorliebe;predilección, preferencia, debilidad (por algo);Tiene debilidad por el chocolate.
+de:noun:der:Vorrang;prioridad, preferencia;La seguridad tiene prioridad.
+de:noun:der:Vorsatz;propósito, intención;Tengo buenos propósitos para el año nuevo.
+de:noun:die:Vorschrift;norma, reglamento, disposición;Eso va contra las normas.
+de:noun:die:Vorstellungskraft;imaginación, capacidad de imaginación;Eso supera mi imaginación.
+de:noun:der:Wartebereich;zona de espera, sala de espera;Por favor, espere en la zona de espera.
+de:noun:die:Warteschlange;cola, fila;La cola es muy larga.
+de:noun:der:Wechsel;cambio;Un cambio de trabajo puede ser bueno.
+de:noun:der:Wegweiser;señal indicadora, poste indicador;Siga la señal.
+de:noun:der:Wettbewerbsvorteil;ventaja competitiva;Un buen dominio de idiomas es una ventaja competitiva.
+de:noun:die:Wiedervereinigung;reunificación;La reunificación de Alemania fue en 1990.
+de:noun:die:Willkür;arbitrariedad;Eso es pura arbitrariedad.
+de:noun:der:Wohnungsmarkt;mercado de la vivienda, mercado inmobiliario;El mercado de la vivienda está tensionado.
+de:noun:die:Zärtlichkeit;ternura, cariño;Los niños necesitan cariño.
+de:noun:der:Zeitaufwand;tiempo invertido, tiempo necesario, dedicación;El tiempo necesario es enorme.
+de:noun:die:Zeitverschwendung;pérdida de tiempo;Eso es una pura pérdida de tiempo.
+de:noun:der:Zusammenstoß;choque, colisión;Hubo un choque entre dos coches.
+de:noun:das:Zuhause;hogar, casa;Aquí está mi hogar.
+de:noun:die:Zwischenzeit;entretanto, mientras tanto;Mientras tanto, puede tomarse un café.
+de:verb::abdecken;cubrir;El seguro cubre todos los daños.
+de:verb::abfinden;resignarse, conformarse (sich abfinden);Me he resignado a ello.
+de:verb::ablaufen;vencer, caducar, expirar;Mi visado vence pronto.
+de:verb::ablegen;aprobar (un examen), realizar (un examen);Aprobó el examen con éxito.
+de:verb::abmelden;darse de baja, dar de baja;Tengo que darme de baja en la oficina.
+de:verb::abreisen;partir, salir de viaje, marcharse;Nos vamos mañana temprano.
+de:verb::abschicken;enviar, mandar;Ya he enviado la carta.
+de:verb::absetzen;dejar (a alguien en un lugar);¿Puedes dejarme en la estación?
+de:verb::abspielen;ocurrir, suceder (sich abspielen);¿Qué ha pasado aquí?
+de:verb::anhören;sonar (sich anhören), escuchar;Eso suena bien.
+de:verb::anlocken;atraer;La fiesta atrae a muchos turistas.
+de:verb::annähern;acercarse, aproximarse (sich annähern);Las posturas se han acercado.
+de:verb::anrichten;causar, ocasionar (un daño);La tormenta causó grandes daños.
+de:verb::ansammeln;acumularse (sich ansammeln), acumular;En el sótano se ha acumulado mucha basura.
+de:verb::anstecken;contagiar;Me contagió la gripe.
+de:verb::anweisen;ordenar, dar instrucciones;El jefe me ordenó que me ocupara de eso.
+de:verb::anzweifeln;poner en duda, cuestionar;Nadie pone en duda su competencia.
+de:verb::aufatmen;respirar aliviado, respirar tranquilo;Después del examen por fin pude respirar tranquilo.
+de:verb::aufbrechen;partir, ponerse en camino;Partimos temprano por la mañana.
+de:verb::auffassen;interpretar, entender, tomarse;¿Cómo debo interpretar eso?
+de:verb::aufhalten;entretener, retener;No quiero entretenerte más.
+de:verb::aufkommen;responder (de), hacerse cargo (de);¿Quién se hace cargo de los daños?
+de:verb::auflegen;colgar (el teléfono);Simplemente colgó.
+de:verb::aufsuchen;acudir a, visitar;Debería acudir a un médico.
+de:verb::aufteilen;repartir, dividir;Nos repartimos el trabajo.
+de:verb::aufziehen;criar;Crió sola a tres hijos.
+de:verb::ausdehnen;alargar, prolongar, extender;Alargamos el paseo.
+de:verb::auseinandergehen;divergir, diferir;Aquí las opiniones divergen.
+de:verb::ausrutschen;resbalar, resbalarse;Me resbalé en el hielo.
+de:verb::aussprechen;pronunciar;¿Cómo se pronuncia esta palabra?
+de:verb::ausstellen;expedir, emitir;El pasaporte fue expedido en 2020.
+de:verb::auszahlen;merecer la pena, compensar (sich auszahlen);El duro trabajo ha merecido la pena.
+de:verb::bedrücken;agobiar, preocupar, abatir;¿Qué te preocupa?
+de:verb::befolgen;seguir, cumplir, acatar;Por favor, siga las instrucciones.
+de:verb::befragen;encuestar, interrogar, consultar;Hemos encuestado a 1000 personas.
+de:verb::begehen;cometer;Cometió un grave error.
+de:verb::beglückwünschen;felicitar;Le felicitamos por su éxito.
+de:verb::behindern;dificultar, obstaculizar, entorpecer;La nieve dificulta el tráfico.
+de:verb::beherrschen;dominar;Domina tres idiomas.
+de:verb::bekennen;reconocer, admitir, confesar;Reconoce su error.
+de:verb::beklagen;quejarse (sich beklagen), lamentar;Se queja del ruido.
+de:verb::berufen;remitirse, apelar (sich berufen auf);Me remito a la ley.
+de:verb::beschaffen;conseguir, procurar, obtener;¿Puedes conseguirme los documentos?
+de:verb::bestehen auf;insistir en;Insisto en una explicación.
+de:verb::bestehen aus;consistir en, estar compuesto de;El equipo está compuesto por cinco personas.
+de:verb::beten;rezar, orar;Reza todas las noches.
+de:verb::beunruhigen;inquietar, preocupar;La noticia me inquieta.
+de:verb::bevorstehen;avecinarse, estar por venir, aguardar;Nos aguarda una época difícil.
+de:verb::bewegen;mover, inducir, impulsar (a hacer algo);¿Qué te movió a hacerlo?
+de:verb::bezwingen;conquistar, vencer, dominar;Conquistaron la montaña.
+de:verb::dämpfen;cocer al vapor;La verdura se cuece al vapor.
+de:verb::darlegen;exponer, explicar;Expuso sus razones.
+de:verb::dokumentieren;documentar;Todos los pasos se documentan.
+de:verb::dringen;penetrar, filtrarse;El agua se filtraba por el tejado.
+de:verb::durchschauen;calar, ver las intenciones de alguien;¡Te he calado!
+de:verb::einbauen;instalar, montar;Vamos a hacer instalar una cocina nueva.
+de:verb::eingestehen;admitir, reconocer, confesar;Tuvo que admitir su error.
+de:verb::einlösen;cumplir (una promesa), canjear;Cumplió su promesa.
+de:verb::einprägen;memorizar, grabarse (en la memoria);Me he grabado bien el camino.
+de:verb::einsammeln;recoger;El profesor recoge los cuadernos.
+de:verb::einspringen;sustituir, cubrir (a alguien);¿Puedes sustituirme mañana?
+de:verb::einstufen;clasificar, asignar un nivel;Tras la prueba se le asignará un nivel.
+de:verb::eintauchen;sumergirse, adentrarse;Nos sumergimos en la cultura.
+de:verb::einteilen;organizar, distribuir, administrar;Tienes que organizar bien tu tiempo.
+de:verb::entgegennehmen;recibir, aceptar, tomar (un pedido);Con gusto tomamos su pedido.
+de:verb::entkräften;refutar, desmentir, rebatir;Pudo refutar las acusaciones.
+de:verb::erblicken;divisar, ver, avistar;Lo divisó entre la multitud.
+de:verb::erbringen;aportar, presentar (una prueba);Tiene que aportar una prueba.
+de:verb::erkunden;explorar, recorrer;Exploramos la ciudad a pie.
+de:verb::erlassen;promulgar, dictar;El Gobierno ha promulgado una nueva ley.
+de:verb::ermäßigen;reducir, rebajar;Para los niños la entrada es reducida.
+de:verb::erschöpfen;agotar;El trabajo me ha dejado completamente agotado.
+de:adj::abgelaufen;caducado, vencido;La leche está caducada.
+de:adj::abstrakt;abstracto;Eso es demasiado abstracto para mí.
+de:adj::alltagstauglich;práctico (para el día a día), apto para el uso diario;Los zapatos son muy prácticos para el día a día.
+de:adj::altmodisch;anticuado, pasado de moda;El vestido es bastante anticuado.
+de:adj::angeblich;supuestamente, al parecer;Supuestamente estaba enfermo.
+de:adj::angespannt;tenso;La situación es muy tensa.
+de:adj::ängstlich;miedoso, temeroso, asustadizo;El niño es muy miedoso.
+de:adj::anonym;anónimo;La encuesta es anónima.
+de:adj::arrogant;arrogante;Parece algo arrogante.
+de:adj::aufdringlich;insistente, pesado, impertinente;El vendedor era muy insistente.
+de:adj::aufgeschlossen;abierto, receptivo;Es abierta a las nuevas ideas.
+de:adj::aufrichtig;sincero;Fue una disculpa sincera.
+de:adj::ausdrücklich;expresamente, explícitamente;Lo prohibió expresamente.
+de:adj::aussichtslos;desesperado, sin salida, sin esperanza;La situación no es desesperada.
+de:adj::authentisch;auténtico;El restaurante ofrece auténtica cocina italiana.
+de:adj::befreundet;amigos (ser amigos);Somos amigos desde hace años.
+de:adj::beleidigt;ofendido;Está ofendida porque no la llamé.
+de:adj::benötigt;necesario, requerido;Todos los documentos necesarios están disponibles.
+de:adj::bescheuert;estúpido, idiota, absurdo;¡Eso es una estupidez!
+de:adj::bevorstehend;próximo, inminente;El próximo examen me da miedo.
+de:adj::bewölkt;nublado;Mañana estará nublado.
+de:adj::bitter;amargo;El café está muy amargo.
+de:adj::dauernd;constantemente, todo el tiempo;Está todo el tiempo con el móvil.
+de:adj::dezent;discreto, sutil;Lleva un maquillaje discreto.
+de:adj::diskret;discreto;Por favor, sea discreto.
+de:adj::durchgehend;ininterrumpidamente, sin interrupción;La tienda abre sin interrupción.
+de:adj::eigenartig;extraño, raro, peculiar;Es una sensación extraña.
+de:adj::eingebildet;engreído, presumido, creído;Es bastante engreído.
+de:adj::einseitig;desequilibrado, unilateral, parcial;La alimentación es demasiado desequilibrada.
+de:adj::einverstanden;de acuerdo, conforme;¿Estás de acuerdo con eso?
+de:adj::entbehrlich;prescindible;Nadie es prescindible.
+de:adj::erholsam;reparador, relajante;Las vacaciones fueron muy reparadoras.
+de:adj::erwünscht;deseado, bienvenido;Aquí no se permite fumar.
+de:adj::exotisch;exótico;Me gustan las frutas exóticas.
+de:adj::fahrlässig;negligente, imprudente;Fue una negligencia grave.
+de:adj::fällig;pagadero, vencido (un pago);El alquiler se paga el día uno.
+de:adj::feucht;húmedo;El sótano es muy húmedo.
+de:adj::förmlich;formal;La carta es muy formal.
+de:adj::frech;descarado, insolente, fresco;¡No seas tan descarado!
+de:adj::fürsorglich;atento, solícito, protector;Es una madre muy atenta.
+de:adj::gebildet;culto, instruido;Es un hombre muy culto.
+de:adj::geizig;tacaño, avaro;Es muy tacaño.
+de:adj::gemischt;mezclado, encontrado (sentimientos);Tengo sentimientos encontrados.
+de:adj::geschmackvoll;con buen gusto, de buen gusto;El piso está decorado con buen gusto.
+de:adj::gespannt;expectante, intrigado, con curiosidad;Tengo curiosidad por ver cómo sigue.
+de:adj::gewalttätig;violento;Se puso violento.
+de:adj::glatt;resbaladizo;La carretera está resbaladiza.
+de:adj::gleichberechtigt;con igualdad de derechos, en igualdad de condiciones;Hombres y mujeres tienen los mismos derechos.
+de:adj::herzlos;despiadado, sin corazón, cruel;¿Cómo puedes ser tan despiadado?
+de:adj::hinreichend;suficiente, suficientemente;Eso es suficientemente conocido.
+de:adj::illegal;ilegal;Eso es ilegal.
+de:adj::legal;legal;¿Es eso siquiera legal?
+de:adj::irreführend;engañoso;La publicidad es engañosa.
+de:adj::kinderfreundlich;apto para niños, pensado para niños;El hotel está muy bien pensado para niños.
+de:adj::kleinlich;mezquino, quisquilloso;¡No seas tan quisquilloso!
+de:adj::knapp;escaso, justo;El dinero escasea.
+de:adj::kompromissbereit;dispuesto a llegar a un acuerdo, conciliador;Ambas partes están dispuestas a llegar a un acuerdo.
+de:adj::leistungsstark;potente, de alto rendimiento;El motor es muy potente.
+de:adj::lösbar;solucionable, resoluble;El problema tiene solución.
+de:adj::malerisch;pintoresco;El pueblo es muy pintoresco.
+de:adj::misstrauisch;desconfiado, receloso;Desconfía de todo el mundo.
+de:adj::mitfühlend;compasivo, comprensivo;Es muy compasiva.
+de:adj::nachdenklich;pensativo, reflexivo;La película me dejó pensativo.
+de:adj::nachlässig;descuidado, negligente;Trabaja de forma muy descuidada.
+de:adj::neidisch;envidioso;Tengo un poco de envidia.
+de:adj::offenherzig;franco, abierto, sincero;Es una persona muy franca.
+de:adj::planmäßig;según lo previsto, puntual, según el horario;El tren sale según el horario previsto.
+de:adj::rätselhaft;enigmático, misterioso;Su comportamiento es enigmático.
+de:adj::rechthaberisch;sabelotodo, que siempre quiere tener razón;Siempre quiere tener la razón.
+de:adj::reif;maduro;Los tomates están maduros.
+de:adj::schadenfroh;que se alegra del mal ajeno;¡No te alegres tanto del mal ajeno!
+de:adj::scheinbar;aparentemente, en apariencia;El problema solo es sencillo en apariencia.
+de:adj::schlagfertig;ocurrente, de respuesta rápida, ingenioso;Tiene mucha chispa para responder.
+de:adj::selbstkritisch;autocrítico;Es muy autocrítico.
+de:adj::sinnlos;absurdo, sin sentido, inútil;Eso no tiene ningún sentido.
+de:adj::spürbar;perceptible, notable, palpable;El cambio se nota.
+de:adj::stur;terco, testarudo, cabezota;¡Es tan terco!
+de:adj::tabu;tabú;El tema es tabú.
+de:adj::taktvoll;con tacto, delicado, discreto;Reaccionó con mucho tacto.
+de:adj::tatkräftig;activo, enérgico, eficaz;¡Gracias por el apoyo activo!
+de:adj::trostlos;desolador, deprimente, desolado;La zona es bastante desoladora.
+de:adj::überraschend;sorprendente, inesperado;Eso fue muy inesperado.
+de:adj::überschaubar;limitado, asumible, abarcable;Los costes son asumibles.
+de:adj::umständlich;engorroso, complicado, enrevesado;Eso es demasiado engorroso.
+de:adj::unbeliebt;impopular, mal visto;El nuevo jefe es muy impopular.
+de:adj::unentschlossen;indeciso;Todavía estoy indeciso.
+de:adj::unersetzlich;insustituible, irreemplazable;Ella es insustituible para nosotros.
+de:adj::unvermeidlich;inevitable;Una discusión era inevitable.
+de:adj::unverschämt;descarado, insolente, impertinente;¡Es una pregunta impertinente!
+de:adj::unwahrscheinlich;improbable, poco probable;Eso es muy improbable.
+de:adj::verlässlich;fiable, de confianza;Es un socio fiable.
+de:adj::verpflichtet;obligado;Está obligado a notificarlo.
+de:adj::verschwiegen;discreto, reservado, callado;Es muy discreto.
+de:adj::verwöhnt;mimado, consentido;El niño está muy mimado.
+de:adj::wohlhabend;acomodado, adinerado, pudiente;La familia es muy acomodada.
+de:adj::zeitaufwendig;que requiere mucho tiempo, laborioso;Eso requiere mucho tiempo.
+de:adj::zerbrechlich;frágil;¡Cuidado, es frágil!
+de:adj::zugänglich;accesible;El museo es accesible para todos.
+de:adj::zutreffend;pertinente, correcto, aplicable;Por favor, marque lo que corresponda.
+de:verb::fortbilden;formarse, actualizarse (sich fortbilden), perfeccionarse;Me formo con regularidad.
+de:verb::freisprechen;absolver;El acusado fue absuelto.
+de:verb::herabsetzen;rebajar, reducir;Se rebajaron los precios.
+de:verb::heranwachsen;crecer, criarse;Los niños se crían en el campo.
+de:verb::herausbringen;lanzar, sacar (al mercado), publicar;La empresa lanza un nuevo modelo.
+de:verb::herausgeben;dar el cambio, devolver (el cambio);¿Me puede dar cambio de 50 euros?
+de:verb::hervorgehen;desprenderse, deducirse (de algo);De ello se desprende claramente que tiene razón.
+de:verb::hinauswerfen;echar, expulsar;Lo echaron del piso.
+de:verb::hineinpassen;caber;Todo cabe en la maleta.
+de:verb::irritieren;desconcertar, irritar;Su comportamiento me desconcertó.
+de:verb::jammern;quejarse, lamentarse, lloriquear;¡Deja de quejarte!
+de:verb::kapieren;pillar, captar, entender;¿Lo has pillado?
+de:verb::kassieren;llevarse, recibir (coloq.), cobrar;Le pusieron una multa.
+de:verb::kränken;herir, ofender;Sus palabras me hirieron.
+de:verb::lauten;ser (rezar), decir;¿Cuál es su dirección?
+de:verb::löschen;borrar, eliminar;He borrado el archivo.
+de:verb::mahnen;reclamar (un pago), requerir;El banco me reclama el pago de la factura.
+de:verb::manipulieren;manipular;Los datos fueron manipulados.
+de:verb::markieren;marcar, señalar;Marque la respuesta correcta.
+de:verb::nachlesen;consultar, leer;Eso lo puedes consultar en internet.
+de:verb::niederlassen;establecerse, instalarse (sich niederlassen);El médico se estableció en Berlín.
+de:verb::nörgeln;refunfuñar, quejarse, rezongar;Se queja constantemente.
+de:verb::quälen;atormentar, torturar;La pregunta me atormenta.
+de:verb::rasen;ir a toda velocidad, correr;El coche atravesó la ciudad a toda velocidad.
+de:verb::reizen;atraer, tentar;La tarea me atrae mucho.
+de:verb::rügen;reprender, amonestar;El jefe lo reprendió.
+de:verb::sanieren;rehabilitar, reformar, sanear;Se está rehabilitando la casa antigua.
+de:verb::schwanken;fluctuar, oscilar;Los precios fluctúan mucho.
+de:verb::signalisieren;indicar, señalar, mostrar;Mostró interés.
+de:verb::spekulieren;especular;Solo podemos especular.
+de:verb::sperren;cortar (una calle), cerrar, bloquear;La calle está cortada.
+de:verb::stagnieren;estancarse;La economía está estancada.
+de:verb::stornieren;cancelar, anular;Quiero cancelar mi reserva.
+de:verb::strapazieren;poner a prueba, agotar;Estás poniendo a prueba mi paciencia.
+de:verb::tadeln;reprender, regañar, censurar;El profesor reprende al alumno.
+de:verb::täuschen;equivocarse (sich täuschen), engañar;Ahí te has equivocado.
+de:verb::überfallen;asaltar, atracar;Atracaron el banco.
+de:verb::überfordern;exigir demasiado, desbordar, superar;La tarea lo supera.
+de:verb::übergeben;entregar;Me entregó las llaves.
+de:verb::überlassen;dejar (en manos de), ceder;Dejo la decisión en tus manos.
+de:verb::überschätzen;sobrestimar, sobrevalorar;Se sobrestima.
+de:verb::unterschätzen;subestimar, infravalorar;¡No lo subestimes!
+de:verb::umbauen;reformar, remodelar;Estamos reformando la casa.
+de:verb::umdenken;cambiar de mentalidad, replantearse las cosas;Tenemos que cambiar de mentalidad.
+de:verb::umkehren;dar la vuelta, volver atrás;Tuvimos que dar la vuelta por el tiempo.
+de:verb::umleiten;desviar;El tráfico se desvía.
+de:verb::umstellen;cambiar (a), pasarse (a);Nos pasamos a un nuevo sistema.
+de:verb::umtauschen;cambiar, descambiar;¿Puedo cambiar los pantalones?
+de:verb::unterbringen;alojar, hospedar;Los invitados se alojan en el hotel.
+de:verb::untergehen;ponerse (el sol), hundirse;El sol se pone a las 20:00.
+de:verb::verbreiten;difundirse, propagarse (sich verbreiten), difundir;La noticia se difundió rápidamente.
+de:verb::verdeutlichen;aclarar, ilustrar, poner de manifiesto;Un ejemplo debería aclararlo.
+de:verb::verfehlen;fallar, errar, no alcanzar;Falló el objetivo por poco.
+de:verb::vergeuden;desperdiciar, malgastar, derrochar;¡No malgastes tu tiempo!
+de:verb::verheimlichen;ocultar, esconder;Me ocultó algo.
+de:verb::verkraften;superar, asimilar, sobrellevar;No ha superado la pérdida.
+de:verb::verlagern;trasladar, deslocalizar;La producción se trasladó al extranjero.
+de:verb::vermarkten;comercializar;El producto se comercializa bien.
+de:verb::verschweigen;callar, ocultar, silenciar;Ocultó la verdad.
+de:verb::verstoßen;infringir, contravenir, ir en contra de;Eso va en contra de las reglas.
+de:verb::vertagen;aplazar, posponer;La sesión fue aplazada.
+de:verb::vervollständigen;completar;Por favor, complete las frases.
+de:verb::verweigern;negarse a, rehusar;Se negó a declarar.
+de:verb::verwöhnen;mimar, consentir;Los abuelos miman a los nietos.
+de:verb::vorankommen;avanzar, progresar;Estamos avanzando bien.
+de:verb::vorbeikommen;pasar (por casa de alguien), pasarse;¡Pásate un día!
+de:verb::vorführen;presentar, hacer una demostración;Hace una demostración del nuevo aparato.
+de:verb::vorgeben;fingir, pretextar, aparentar;Finge estar enfermo.
+de:verb::vormerken;apuntar, anotar, reservar;Lo apunto para el martes.
+de:verb::wegwerfen;tirar, desechar;¡No tires eso!
+de:verb::weitergeben;transmitir, pasar, comunicar;Transmito la información.
+de:verb::widerlegen;refutar, rebatir;La tesis fue refutada.
+de:verb::wiedergeben;reproducir, resumir, expresar;Resuma el contenido con sus propias palabras.
+de:verb::zerreißen;romper, rasgar, despedazar;Rompió la carta.
+de:verb::zitieren;citar;Le gusta citar a Goethe.
+de:verb::zuordnen;relacionar, asignar, emparejar;Relacione las imágenes con los textos.
+de:verb::zurückhalten;contenerse (sich zurückhalten), retener;No pude contenerme.
+de:verb::zusagen;prometer, comprometerse a;Me prometió su ayuda.
+de:verb::zuschauen;mirar, observar, ver;Miro cómo cocinan.
+de:verb::zuspitzen;agravarse, recrudecerse (sich zuspitzen);La situación se ha agravado.
+de:verb::zutrauen;creer capaz (a alguien de algo);No lo habría creído capaz de eso.
+de:noun:die:Achtsamkeit;atención plena, mindfulness;La atención plena ayuda contra el estrés.
+de:noun:die:Altersvorsorge;previsión para la jubilación, plan de jubilación;Hay que pensar pronto en la previsión para la jubilación.
+de:noun:die:Anpassung;adaptación;La adaptación al nuevo país lleva tiempo.
+de:noun:die:Arbeitsteilung;reparto del trabajo, división del trabajo;En casa tenemos un reparto claro de las tareas.
+de:noun:der:Aufenthaltstitel;permiso de residencia;Su permiso de residencia caduca pronto.
+de:noun:die:Ausländerbehörde;oficina de extranjería;Tengo una cita en la oficina de extranjería.
+de:noun:die:Barriere;barrera;El idioma puede ser una barrera.
+de:noun:die:Bescheidenheit;modestia, humildad;La modestia es una virtud.
+de:noun:die:Bürgerinitiative;iniciativa ciudadana, plataforma vecinal;Una plataforma vecinal lucha contra la construcción.
+de:noun:das:Bürgeramt;oficina de atención al ciudadano, registro municipal;El cambio de empadronamiento se hace en la oficina de atención al ciudadano.
+de:noun:die:Chancengleichheit;igualdad de oportunidades;Exigimos igualdad de oportunidades para todos.
+de:noun:der:Ehrenamtliche;voluntario;Muchos voluntarios ayudan en el refugio de animales.
+de:noun:die:Einbürgerung;naturalización, nacionalización;Ha solicitado la naturalización.
+de:noun:der:Einbürgerungstest;examen de naturalización, examen de nacionalidad;Aprobó el examen de nacionalidad.
+de:noun:die:Eingewöhnung;adaptación, periodo de adaptación;El periodo de adaptación en la guardería dura dos semanas.
+de:noun:die:Fairness;juego limpio, deportividad, equidad;El juego limpio es importante en el deporte.
+de:noun:die:Fluggesellschaft;aerolínea, compañía aérea;¿Qué aerolínea vuela a Moscú?
+de:noun:die:Freizügigkeit;libre circulación;En la UE rige la libre circulación.
+de:noun:die:Fremdenfeindlichkeit;xenofobia;Estamos en contra de la xenofobia.
+de:noun:das:Führungszeugnis;certificado de antecedentes penales;Para el puesto necesita un certificado de antecedentes penales.
+de:noun:die:Gesetzgebung;legislación;La legislación ha cambiado.
+de:noun:die:Gewerbefreiheit;libertad de empresa, libertad de comercio;En Alemania rige la libertad de empresa.
+de:noun:die:Haushaltskasse;presupuesto doméstico, dinero para gastos de la casa;El dinero para los gastos de la casa se ha acabado.
+de:noun:der:Hausrat;enseres domésticos, ajuar doméstico;El seguro cubre los enseres domésticos.
+de:noun:die:Höflichkeitsform;forma de cortesía, tratamiento de cortesía;En alemán se usa «Sie» como forma de cortesía.
+de:noun:der:Interessenkonflikt;conflicto de intereses;Aquí hay un conflicto de intereses.
+de:noun:die:Jugendarbeitslosigkeit;desempleo juvenil, paro juvenil;El desempleo juvenil ha bajado.
+de:noun:die:Konsumgesellschaft;sociedad de consumo;Vivimos en una sociedad de consumo.
+de:noun:die:Lebensgemeinschaft;pareja de hecho, unión de hecho, convivencia;Viven como pareja de hecho.
+de:noun:der:Leistungsdruck;presión por rendir, presión por el rendimiento;Los alumnos están sometidos a una gran presión por rendir.
+de:noun:das:Lieferdatum;fecha de entrega;La fecha de entrega es el 15 de mayo.
+de:noun:die:Massentierhaltung;ganadería intensiva, cría industrial de animales;Muchos critican la ganadería intensiva.
+de:noun:die:Meinungsverschiedenheit;desacuerdo, discrepancia, diferencia de opiniones;Tuvimos un pequeño desacuerdo.
+de:noun:das:Mobbing;acoso (laboral o escolar), mobbing;El acoso laboral es un problema grave.
+de:noun:der:Nebenjob;trabajo extra, trabajo a tiempo parcial, empleo secundario;Tiene un trabajo extra de camarero.
+de:noun:der:Niedriglohn;salario bajo, sueldo bajo;Muchos trabajan por un sueldo bajo.
+de:noun:der:Notstand;situación de emergencia, estado de emergencia, crisis;Hay una situación de emergencia en el sector de los cuidados.
+de:noun:der:Ökostrom;electricidad verde, energía verde;Consumimos electricidad verde.
+de:noun:die:Pflegestufe;grado de dependencia;Mi abuela tiene grado de dependencia 2.
+de:noun:die:Privatsphäre;privacidad, intimidad, vida privada;Todo el mundo tiene derecho a la privacidad.
+de:noun:die:Rechtsberatung;asesoramiento jurídico, asesoría legal;Necesito asesoramiento jurídico.
+de:noun:der:Schulabschluss;título escolar, graduado escolar;Sin título escolar es difícil encontrar trabajo.
+de:noun:die:Schulpflicht;escolarización obligatoria, enseñanza obligatoria;En Alemania la escolarización es obligatoria.
+de:noun:der:Schwarzfahrer;viajero sin billete, polizón;Los que viajan sin billete tienen que pagar 60 euros.
+de:noun:die:Schwarzarbeit;trabajo en negro, economía sumergida;El trabajo en negro está prohibido.
+de:noun:die:Selbstverwirklichung;realización personal, autorrealización;Para muchos, la profesión es una forma de realización personal.
+de:noun:der:Sozialstaat;Estado social, Estado del bienestar;Alemania es un Estado social.
+de:noun:die:Sozialhilfe;ayuda social, asistencia social, prestación social;Vive de la ayuda social.
+de:noun:das:Stadtviertel;barrio;Es un barrio tranquilo.
+de:noun:die:Stellenausschreibung;oferta de empleo, convocatoria de empleo;He leído la oferta de empleo.
+de:noun:die:Steuerklasse;clase tributaria, categoría fiscal;Después de casarse cambia la clase tributaria.
+de:noun:der:Stromverbrauch;consumo de electricidad, consumo eléctrico;Nuestro consumo de electricidad ha bajado.
+de:noun:der:Strukturwandel;cambio estructural, transformación estructural;La región está viviendo un cambio estructural.
+de:noun:die:Teilzeitstelle;empleo a tiempo parcial, puesto a media jornada;Busca un empleo a tiempo parcial.
+de:noun:der:Tierschutz;protección de los animales;Colabora en la protección de los animales.
+de:noun:das:Tierheim;refugio de animales, protectora de animales;Adoptamos al gato en el refugio de animales.
+de:noun:die:Ummeldung;cambio de empadronamiento, cambio de domicilio (registro);Tras la mudanza es necesario cambiar el empadronamiento.
+de:noun:die:Umschulung;reciclaje profesional, reconversión profesional;Está haciendo un reciclaje profesional para ser cuidador de ancianos.
+de:noun:die:Unabhängigkeit;independencia;Para mí es importante la independencia económica.
+de:noun:das:Verantwortungsbewusstsein;sentido de la responsabilidad;Tiene un gran sentido de la responsabilidad.
+de:noun:die:Verbraucherzentrale;asociación de consumidores, oficina del consumidor;La asociación de consumidores asesora gratuitamente.
+de:noun:die:Verkehrswende;transformación de la movilidad, transición en el transporte;La ciudad planea una transformación de la movilidad.
+de:noun:die:Verschwendung;derroche, despilfarro, desperdicio;Eso es un desperdicio de comida.
+de:noun:die:Vollmacht;poder (notarial), autorización, apoderamiento;Te doy un poder.
+de:noun:die:Wegwerfgesellschaft;sociedad de usar y tirar;Vivimos en una sociedad de usar y tirar.
+de:noun:die:Wahlbeteiligung;participación electoral;La participación electoral fue baja.
+de:noun:das:Wahlrecht;derecho al voto, derecho de sufragio;A partir de los 18 años se tiene derecho al voto.
+de:noun:das:Wohngeld;ayuda para la vivienda, subsidio de vivienda;Recibe una ayuda para la vivienda del Estado.
+de:noun:die:Zivilcourage;valor cívico, coraje cívico;Demostró valor cívico.
+de:noun:die:Zuwanderung;inmigración;Alemania necesita inmigración.
+de:noun:die:Zweitwohnung;segunda residencia, segunda vivienda;Tiene una segunda residencia en Berlín.
+de:noun:die:Zwischenprüfung;examen intermedio, examen parcial;El examen intermedio fue difícil.
+de:noun:der:Zwiespalt;dilema, conflicto interno;Estoy en un dilema.
+de:noun:der:Alltagsstress;estrés cotidiano, estrés del día a día;El yoga me ayuda contra el estrés del día a día.
+de:noun:die:Ausdauer;resistencia, aguante, perseverancia;Para un maratón se necesita resistencia.
+de:noun:die:Entfaltung;desarrollo, despliegue;Los niños necesitan espacio para desarrollarse libremente.
+de:noun:die:Gelegenheitsarbeit;trabajo ocasional, chapuza (coloq.);Vive de trabajos ocasionales.
+de:noun:die:Kreativität;creatividad;El trabajo exige mucha creatividad.
+de:noun:die:Lebensfreude;alegría de vivir, ganas de vivir;Irradia mucha alegría de vivir.
+de:noun:der:Leistungssport;deporte de competición, deporte de alto rendimiento;Antes hacía deporte de competición.
+de:noun:die:Selbstdisziplin;autodisciplina;Para estudiar se necesita autodisciplina.
+de:noun:die:Teamfähigkeit;capacidad de trabajo en equipo;La capacidad de trabajo en equipo es una cualidad importante.
+de:noun:die:Belastbarkeit;resistencia (al estrés), capacidad de trabajo bajo presión;Esperamos una gran capacidad de trabajo bajo presión.
+de:noun:die:Zielstrebigkeit;determinación, tenacidad;Con determinación se consigue mucho.
+de:noun:die:Wertschätzung;reconocimiento, aprecio, estima;Los empleados necesitan reconocimiento.
+de:noun:die:Zuneigung;cariño, afecto;Le muestra su cariño.
+de:noun:die:Verbundenheit;vínculo, apego, unión;Siento un profundo vínculo con mi tierra natal.
+de:noun:die:Abwägung;ponderación, valoración, consideración;Tras una cuidadosa valoración, decidimos no hacerlo.
+de:noun:die:Akribie;meticulosidad, minuciosidad;Trabaja con gran meticulosidad.
+de:noun:die:Ambivalenz;ambivalencia;La ambivalencia de sus sentimientos lo confunde.
+de:noun:die:Angemessenheit;proporcionalidad, adecuación;Se debate la proporcionalidad de la pena.
+de:noun:die:Annäherung;acercamiento, aproximación;Hubo un cauteloso acercamiento entre los dos países.
+de:noun:die:Anschuldigung;acusación, inculpación;Rechaza todas las acusaciones.
+de:noun:die:Ausprägung;grado, intensidad, manifestación;La enfermedad se presenta con distinta intensidad.
+de:noun:die:Ausnahmesituation;situación excepcional;Es una situación excepcional para todos.
+de:noun:die:Aussagekraft;valor informativo, significación, relevancia;El estudio tiene escaso valor informativo.
+de:noun:die:Authentizität;autenticidad;Se está comprobando la autenticidad del documento.
+de:noun:die:Befugnis;autorización, competencia, facultad;No tengo autorización para eso.
+de:noun:die:Begebenheit;suceso, hecho, acontecimiento;La película se basa en hechos reales.
+de:noun:die:Beharrlichkeit;perseverancia, constancia, tenacidad;Con perseverancia alcanzó su objetivo.
+de:noun:die:Beklemmung;angustia, opresión, desasosiego;Le invadió una sensación de angustia.
+de:noun:der:Beweggrund;motivo, móvil;¿Cuáles eran sus motivos?
+de:noun:die:Bewältigung;superación, gestión, afrontamiento;La superación de la crisis llevará años.
+de:noun:die:Bürde;carga, peso;La responsabilidad es una carga pesada.
+de:noun:der:Defizit;déficit;La empresa tiene un déficit elevado.
+de:noun:das:Dilemma;dilema;Estoy en un verdadero dilema.
+de:noun:die:Diskrepanz;discrepancia, desfase;Hay una discrepancia entre la teoría y la práctica.
+de:noun:die:Dynamik;dinámica;La dinámica del equipo ha cambiado.
+de:noun:die:Eigenverantwortung;responsabilidad propia, responsabilidad personal;Cada uno es responsable de su propia salud.
+de:noun:die:Einbuße;pérdida, merma;La empresa tuvo que asumir grandes pérdidas.
+de:noun:die:Eingebung;inspiración, ocurrencia, corazonada;Siguiendo una inspiración repentina, lo llamó.
+de:noun:die:Einschätzung;valoración, evaluación, opinión;En mi opinión, eso es demasiado arriesgado.
+de:noun:die:Empathie;empatía;Para esta profesión se necesita mucha empatía.
+de:noun:die:Entfremdung;distanciamiento, alejamiento, alienación;El distanciamiento entre ellos era cada vez mayor.
+de:noun:die:Entrüstung;indignación;La decisión provocó una indignación general.
+de:noun:das:Ermessen;criterio, discreción, juicio;Eso queda a su criterio.
+de:noun:die:Erwägung;consideración;Contemplamos esa posibilidad.
+de:noun:die:Faszination;fascinación;La fascinación por el universo lo acompaña desde la infancia.
+de:noun:die:Fehleinschätzung;error de apreciación, valoración errónea;Fue un claro error de apreciación.
+de:noun:die:Fluktuation;rotación (de personal), fluctuación;La rotación de personal en la empresa es alta.
+de:noun:die:Folgerung;conclusión, deducción;¿Qué conclusión saca de ello?
+de:noun:die:Fürsorge;cuidado, atención, solicitud;Cuida de su madre con gran dedicación.
+de:noun:das:Gefälle;desnivel, diferencia, brecha;Existe una fuerte brecha social.
+de:noun:die:Gepflogenheit;costumbre, usanza, hábito;Hay que respetar las costumbres locales.
+de:noun:die:Geringschätzung;desprecio, menosprecio, desdén;Habla con desprecio de sus compañeros.
+de:noun:die:Gewissenhaftigkeit;escrupulosidad, minuciosidad, responsabilidad;Su escrupulosidad es muy apreciada.
+de:noun:die:Glaubwürdigkeit;credibilidad;El escándalo destruyó su credibilidad.
+de:noun:die:Grauzone;zona gris;Desde el punto de vista legal, eso se mueve en una zona gris.
+de:noun:die:Gratwanderung;equilibrio delicado, cuerda floja;Es un equilibrio muy delicado.
+de:noun:die:Habgier;codicia, avaricia;Su codicia no tiene límites.
+de:noun:die:Hemmschwelle;umbral de inhibición, reparo;En internet hay menos reparos.
+de:noun:die:Hingabe;dedicación, entrega;Cuida su jardín con gran dedicación.
+de:noun:die:Hürde;obstáculo, escollo;El idioma es el mayor obstáculo.
+de:noun:die:Implikation;implicación, consecuencia;Las implicaciones de esta decisión son enormes.
+de:noun:das:Indiz;indicio;Es un claro indicio de su culpabilidad.
+de:noun:die:Integrität;integridad;Nadie duda de su integridad.
+de:noun:die:Intention;intención;Esa no era mi intención.
+de:noun:die:Intuition;intuición;Me fío de mi intuición.
+de:noun:der:Irrtum;error, equivocación;Es un error muy extendido.
+de:noun:die:Kehrtwende;giro radical, cambio de rumbo, giro de 180 grados;El Gobierno dio un giro de 180 grados.
+de:noun:die:Kernaussage;mensaje central, idea principal;¿Cuál es la idea principal del texto?
+de:noun:die:Kluft;brecha, abismo;La brecha entre ricos y pobres crece.
+de:noun:der:Konsens;consenso;Hemos llegado a un consenso.
+de:noun:die:Kontinuität;continuidad;Damos importancia a la continuidad.
+de:noun:die:Konfrontation;confrontación, enfrentamiento;No busca el enfrentamiento.
+de:noun:die:Korruption;corrupción;La corrupción en el país es un gran problema.
+de:noun:die:Lebenseinstellung;actitud ante la vida, filosofía de vida;Tiene una actitud positiva ante la vida.
+de:noun:die:Leichtfertigkeit;imprudencia, ligereza, irresponsabilidad;Su imprudencia le costó mucho dinero.
+de:noun:das:Leitbild;ideario, misión, modelo;El ideario de la empresa es la sostenibilidad.
+de:noun:die:Missbilligung;desaprobación, reprobación;Expresó su desaprobación.
+de:noun:der:Missstand;irregularidad, abuso, situación anómala;El periódico destapó numerosas irregularidades.
+de:noun:die:Mündigkeit;madurez (cívica), autonomía, mayoría de edad;La educación conduce a la madurez cívica de los ciudadanos.
+de:noun:die:Nachsicht;indulgencia, comprensión, benevolencia;Le pido su comprensión.
+de:noun:die:Nuance;matiz;Entiende cada matiz del idioma.
+de:noun:die:Ohnmacht;impotencia;La invadió una sensación de impotencia.
+de:noun:die:Paradoxie;paradoja;La paradoja de la situación es evidente.
+de:noun:die:Pauschalisierung;generalización;Tales generalizaciones son peligrosas.
+de:noun:die:Pflichterfüllung;cumplimiento del deber;Considera su trabajo como el cumplimiento de un deber.
+de:noun:die:Präferenz;preferencia;Cada uno tiene preferencias distintas.
+de:noun:die:Prämisse;premisa;Bajo esa premisa, estoy de acuerdo.
+de:noun:die:Rechenschaft;cuentas (rendir cuentas), responsabilidad;Tiene que rendir cuentas de sus actos.
+de:noun:die:Resignation;resignación;Había resignación en su voz.
+de:noun:der:Respekt;respeto;Goza de un gran respeto.
+de:noun:die:Rivalität;rivalidad;Entre los dos clubes existe una antigua rivalidad.
+de:noun:die:Rücksichtnahme;consideración, respeto (hacia los demás);La consideración mutua es importante.
+de:noun:der:Scharfsinn;perspicacia, agudeza, sagacidad;Resolvió el enigma con gran perspicacia.
+de:noun:die:Schattenseite;lado oscuro, cara oculta, inconveniente;El éxito también tiene su lado oscuro.
+de:noun:die:Scheu;reparo, timidez, miedo;No tiene reparo en hacer preguntas.
+de:noun:die:Schlussfolgerung;conclusión;¿A qué conclusión ha llegado?
+de:noun:die:Selbstüberschätzung;exceso de confianza, sobrevaloración de uno mismo;El exceso de confianza suele llevar a errores.
+de:noun:die:Sensibilität;sensibilidad, tacto;El tema requiere mucha sensibilidad.
+de:noun:die:Solidarität;solidaridad;Mostramos nuestra solidaridad con las víctimas.
+de:noun:die:Sorgfaltspflicht;deber de diligencia, obligación de diligencia;El médico incumplió su deber de diligencia.
+de:noun:die:Spannweite;abanico, amplitud, gama;El abanico de opiniones es amplio.
+de:noun:der:Stellenwert;importancia, valor, lugar;La familia tiene una gran importancia para él.
+de:noun:die:Stichhaltigkeit;solidez, validez, consistencia;Se pone en duda la solidez de los argumentos.
+de:noun:die:Tatkraft;energía, dinamismo, empuje;Levantó la empresa con mucho empuje.
+de:noun:die:Teilhabe;participación, inclusión;El objetivo es la participación social de todas las personas.
+de:noun:die:Tragweite;alcance, trascendencia;No era consciente del alcance de esta decisión.
+de:noun:die:Transparenz;transparencia;Los ciudadanos exigen más transparencia.
+de:noun:die:Trägheit;pereza, desidia, inercia;Hay que luchar contra la propia pereza.
+de:noun:die:Überforderung;exceso de exigencia, agobio, sobrecarga;Muchos profesores se quejan de sobrecarga.
+de:noun:der:Überdruss;hastío, saciedad, hartazgo;Ha escuchado la canción hasta la saciedad.
+de:noun:die:Überheblichkeit;arrogancia, soberbia, prepotencia;Su arrogancia lo hace impopular.
+de:noun:die:Umsicht;prudencia, cautela, previsión;Actuó con gran prudencia.
+de:noun:die:Unbefangenheit;naturalidad, desenvoltura, espontaneidad;Los niños se acercan a los demás con gran naturalidad.
+de:noun:das:Unbehagen;malestar, incomodidad, desasosiego;La situación me causaba malestar.
+de:noun:das:Unverständnis;incomprensión;La decisión fue recibida con incomprensión.
+de:noun:die:Unvoreingenommenheit;imparcialidad, objetividad;Un juez debe mostrar imparcialidad.
+de:noun:der:Unwille;disgusto, enfado, desagrado;Reaccionó con disgusto a las críticas.
+de:noun:die:Urteilskraft;juicio, capacidad de juicio, discernimiento;El estrés afecta a la capacidad de juicio.
+de:noun:die:Verantwortlichkeit;responsabilidad, competencia;Las responsabilidades están claramente repartidas.
+de:noun:die:Verbindlichkeit;deuda, obligación (financiera), pasivo;La empresa tiene grandes deudas.
+de:noun:die:Verdrängung;desplazamiento, expulsión;El desplazamiento de las pequeñas tiendas por las cadenas avanza.
+de:noun:die:Vereinsamung;aislamiento, soledad;El aislamiento de las personas mayores va en aumento.
+de:noun:die:Verflechtung;entramado, interconexión, interdependencia;Las interconexiones económicas son complejas.
+de:noun:das:Vergehen;delito, falta, infracción;Es un delito grave.
+de:noun:die:Verharmlosung;minimización, trivialización;Es una peligrosa minimización del problema.
+de:noun:die:Verhältnismäßigkeit;proporcionalidad;Debe mantenerse la proporcionalidad de las medidas.
+de:noun:die:Verlässlichkeit;fiabilidad, formalidad, seriedad;La fiabilidad es fundamental en una relación de pareja.
+de:noun:die:Vermessenheit;osadía, presunción, temeridad;Sería una osadía predecir el resultado.
+de:noun:die:Versuchung;tentación;No pudo resistir la tentación.
+de:noun:die:Verwirrung;confusión, desconcierto;La nueva norma creó confusión.
+de:noun:der:Vorbehalt;reserva, reparo;Tengo ciertas reservas sobre este plan.
+de:noun:die:Voreingenommenheit;parcialidad, prejuicio;Juzga sin prejuicios.
+de:noun:der:Vorwand;pretexto, excusa;Con un pretexto abandonó la reunión.
+de:noun:die:Wechselwirkung;interacción;Hay una interacción entre los medicamentos.
+de:noun:der:Werdegang;trayectoria, carrera;Háblenos de su trayectoria profesional.
+de:noun:die:Wissbegierde;sed de conocimiento, curiosidad intelectual, afán de saber;Los niños tienen un afán natural de saber.
+de:noun:die:Zerrissenheit;desgarro interior, conflicto interno, división;Sentía un desgarro interior.
+de:noun:die:Zurückweisung;rechazo;El rechazo le afectó mucho.
+de:noun:die:Zuversicht;confianza, optimismo;Miramos al futuro con confianza.
+de:noun:der:Zwang;coacción, obligación, presión;Actuó bajo coacción.
+de:noun:die:Abschreckung;disuasión;Las penas severas deben servir como disuasión.
+de:noun:der:Ansehensverlust;pérdida de prestigio, desprestigio;El escándalo supuso una gran pérdida de prestigio.
+de:noun:das:Ansehen;prestigio, reputación, consideración;Goza de gran prestigio en la ciudad.
+de:noun:der:Antrieb;motivación, impulso, estímulo;La curiosidad es un fuerte impulso.
+de:noun:der:Aufschub;aplazamiento, prórroga;Pidió un aplazamiento del pago.
+de:noun:der:Ausschlag;factor decisivo (den Ausschlag geben: ser decisivo);Eso fue decisivo para mi decisión.
+de:noun:die:Beeinträchtigung;perjuicio, menoscabo, deterioro;El ruido conlleva un deterioro de la calidad de vida.
+de:noun:die:Befangenheit;parcialidad;El juez fue recusado por parcialidad.
+de:noun:die:Belange;intereses, asuntos;Defiende los intereses de los inquilinos.
+de:noun:die:Bemühung;esfuerzo, empeño;A pesar de todos los esfuerzos, el proyecto fracasó.
+de:noun:die:Bereicherung;enriquecimiento, aporte valioso;La nueva compañera es un gran aporte para el equipo.
+de:noun:die:Beschaffenheit;naturaleza, características, composición;Las características del suelo son ideales.
+de:noun:die:Besonnenheit;serenidad, sensatez, prudencia;Reaccionó con gran serenidad.
+de:noun:die:Bestrebung;esfuerzo, iniciativa, aspiración;Hay iniciativas para cambiar la ley.
+de:noun:die:Bevormundung;paternalismo, tutela;Muchos lo perciben como paternalismo.
+de:noun:die:Bewandtnis;razón de ser, explicación (damit hat es folgende Bewandtnis);La explicación es la siguiente.
+de:noun:das:Blickfeld;campo de visión, foco de atención;El tema pasa a ser el foco de atención del público.
+de:noun:der:Drahtzieher;cerebro (de una operación), instigador;¿Quién fue el cerebro del plan?
+de:noun:der:Eigensinn;terquedad, obstinación, cabezonería;Su terquedad dificulta la colaboración.
+de:noun:die:Einflussnahme;injerencia, influencia;No se permite la injerencia política.
+de:noun:die:Eintönigkeit;monotonía;La monotonía del trabajo lo aburre.
+de:noun:das:Einvernehmen;mutuo acuerdo, consenso, entendimiento;La separación se produjo de mutuo acuerdo.
+de:noun:die:Empfänglichkeit;receptividad, sensibilidad;Los niños tienen una gran receptividad para los idiomas.
+de:noun:die:Entlohnung;remuneración, retribución;La remuneración depende del rendimiento.
+de:noun:die:Entschlossenheit;determinación, resolución;Mostró una gran determinación.
+de:noun:die:Erschwernis;dificultad, complicación;El tiempo supuso una dificultad añadida.
+de:noun:das:Fingerspitzengefühl;tacto, mano izquierda, sensibilidad;Para eso hace falta mucha mano izquierda.
+de:noun:das:Fazit;conclusión, balance;Mi conclusión: ha merecido la pena.
+de:noun:die:Gegebenheit;circunstancia, condición, realidad;Tenemos que adaptarnos a las circunstancias locales.
+de:noun:das:Gemüt;ánimo, espíritu;La noticia caldeó los ánimos.
+de:noun:das:Geschick;habilidad, destreza, maña;Resolvió el problema con mucha habilidad.
+de:noun:die:Gesinnung;ideología, convicciones, mentalidad;Su ideología política es conocida.
+de:noun:die:Grundhaltung;actitud básica, actitud de fondo;Tiene una actitud básicamente optimista.
+de:noun:der:Handlungsbedarf;necesidad de actuar, necesidad de intervenir;Hay una necesidad urgente de actuar.
+de:noun:der:Handlungsspielraum;margen de maniobra, margen de actuación;Nuestro margen de maniobra es limitado.
+de:noun:die:Heuchelei;hipocresía;Eso es pura hipocresía.
+de:noun:die:Hinterlist;alevosía, perfidia, astucia;Actuó con alevosía.
+de:noun:die:Hochachtung;gran respeto, alta estima, admiración;Siento un gran respeto por su logro.
+de:noun:der:Interessent;interesado, persona interesada;Hay muchos interesados en el piso.
+de:noun:die:Klarheit;claridad;Necesitamos claridad sobre los costes.
+de:noun:die:Kränkung;ofensa, agravio, humillación;Nunca olvidó esa ofensa.
+de:noun:der:Leichtsinn;imprudencia, temeridad, insensatez;Por imprudencia condujo sin casco.
+de:noun:das:Lob;elogio, alabanza;Recibió muchos elogios por su trabajo.
+de:noun:die:Machtergreifung;toma del poder, llegada al poder;La toma del poder se produjo en 1933.
+de:noun:die:Mäßigung;moderación, mesura, templanza;Hizo un llamamiento a la moderación.
+de:noun:die:Mehrdeutigkeit;ambigüedad;La ambigüedad de la frase da lugar a malentendidos.
+de:noun:der:Missmut;mal humor, disgusto, descontento;Recibió la noticia con disgusto.
+de:noun:die:Nachwirkung;secuela, efecto posterior, repercusión;Las secuelas de la crisis todavía se notan.
+de:noun:die:Neugründung;nueva empresa, creación de empresas;El número de nuevas empresas ha aumentado.
+de:noun:die:Offenheit;franqueza, sinceridad, apertura;Aprecio tu franqueza.
+de:verb::abklären;aclarar, consultar, consensuar;Primero tengo que consultarlo con mi jefe.
+de:verb::abmildern;atenuar, mitigar, suavizar;Las medidas deben mitigar las consecuencias.
+de:verb::abrunden;completar, redondear, rematar;Un postre completa el menú.
+de:verb::abschweifen;desviarse, divagar, irse por las ramas;Por favor, no se desvíe del tema.
+de:verb::abspeisen;despachar (a alguien con algo), contentar;No se deja despachar con promesas vacías.
+de:verb::abverlangen;exigir, pedir;El trabajo me exige mucho.
+de:verb::abwenden;evitar, impedir, conjurar;La catástrofe pudo evitarse por los pelos.
+de:verb::abwerten;menospreciar, desvalorizar, devaluar;Menosprecia constantemente el trabajo de los demás.
+de:verb::anfechten;impugnar, recurrir;Quiere recurrir la sentencia.
+de:verb::anprangern;denunciar, criticar públicamente;La organización denuncia las irregularidades.
+de:verb::anstiften;instigar, incitar, inducir;¿Quién lo incitó a hacerlo?
+de:verb::anvisieren;apuntar a, fijarse como objetivo;La empresa apunta a nuevos mercados.
+de:verb::aufarbeiten;asumir, afrontar, revisar (críticamente);Hay que afrontar el pasado.
+de:verb::aufbegehren;rebelarse, sublevarse;La juventud se rebela contra las normas.
+de:verb::aufdrängen;imponer;No quiero imponerte mi opinión.
+de:verb::aufwerten;revalorizar, mejorar, realzar;El nuevo parque revaloriza el barrio.
+de:verb::ausblenden;ignorar, apartar (de la mente), ocultar;Simplemente ignora los problemas.
+de:verb::ausloten;sondear, explorar, tantear;Estamos sondeando las posibilidades.
+de:verb::ausschöpfen;agotar, aprovechar al máximo;Hemos agotado todas las posibilidades.
+de:verb::aussetzen;poner reparos, criticar (etwas auszusetzen haben);Le pone pegas a todo.
+de:verb::bagatellisieren;minimizar, quitar importancia, trivializar;No se debería minimizar el problema.
+de:verb::beanspruchen;requerir, ocupar, exigir;El trabajo requiere mucho tiempo.
+de:verb::beanstanden;reclamar, objetar, poner reparos;El cliente ha reclamado por el envío.
+de:verb::beeinträchtigen;afectar, perjudicar, mermar;El ruido afecta a la concentración.
+de:verb::begünstigen;favorecer, propiciar;El tiempo cálido favorece el crecimiento.
+de:verb::beharren;insistir, persistir, obstinarse;Se obstina en su opinión.
+de:verb::beimessen;atribuir, conceder (importancia);No habría que concederle mucha importancia.
+de:verb::beipflichten;dar la razón, estar de acuerdo;En eso tengo que darle la razón.
+de:verb::bekräftigen;reafirmar, confirmar, ratificar;Reafirmó su intención.
+de:verb::bemängeln;criticar, objetar, poner reparos;Los inspectores criticaron la seguridad.
+de:verb::beschönigen;maquillar, edulcorar, embellecer;No hay que maquillar la situación.
+de:verb::bestreiten;negar, rechazar, refutar;Niega las acusaciones.
+de:verb::betören;cautivar, seducir, embelesar;Su voz cautivó a todos.
+de:verb::bevormunden;tratar con paternalismo, tutelar, decirle a alguien lo que tiene que hacer;No dejo que nadie me diga lo que tengo que hacer.
+de:verb::bezwecken;pretender, perseguir (un fin);¿Qué pretendes con eso?
+de:verb::billigen;aprobar, aceptar;No puedo aprobar tu comportamiento.
+de:verb::brüskieren;desairar, ofender, hacer un desaire;Desairó a sus anfitriones.
+de:verb::dementieren;desmentir;El Gobierno desmintió las informaciones.
+de:verb::differenzieren;diferenciar, distinguir, matizar;Aquí hay que matizar con precisión.
+de:verb::dominieren;dominar, predominar;El tema domina las noticias.
+de:verb::eindämmen;contener, frenar;Hay que contener la propagación del virus.
+de:verb::einbüßen;perder;El partido ha perdido muchos votos.
+de:verb::eingrenzen;delimitar, acotar, restringir;Tenemos que acotar el tema.
+de:verb::einlenken;ceder, transigir;Tras largas negociaciones, cedió.
+de:verb::einschreiten;intervenir;La policía tuvo que intervenir.
+de:verb::einwilligen;consentir, dar su consentimiento, aceptar;Dio su consentimiento para la operación.
+de:verb::entgegenwirken;contrarrestar, combatir, hacer frente a;Queremos combatir la escasez de mano de obra cualificada.
+de:verb::entziehen;retirar, privar de;Le retiraron el carné de conducir.
+de:verb::erachten;considerar, estimar;Lo considero necesario.
+de:verb::ergründen;averiguar, indagar, desentrañar;Intentamos averiguar la causa.
+de:verb::erörtern;debatir, discutir, analizar;Tenemos que debatir el problema a fondo.
+de:verb::erschließen;abrir, conquistar (mercados), explotar;La empresa quiere abrir nuevos mercados.
+de:verb::erwirken;obtener, conseguir (por vía legal);El abogado obtuvo una medida cautelar.
+de:verb::fesseln;cautivar, atrapar, fascinar;El libro me atrapó desde el principio.
+de:verb::fingieren;fingir, simular;El accidente fue simulado.
+de:verb::florieren;prosperar, florecer;El negocio prospera.
+de:verb::fokussieren;centrarse, concentrarse (sich fokussieren);Deberíamos centrarnos en lo esencial.
+de:verb::gutheißen;aprobar, dar por bueno;No puedo aprobar eso.
+de:verb::hadern;rebelarse (contra), no conformarse (con), estar en desacuerdo (con);No se conforma con su destino.
+de:verb::herbeiführen;provocar, propiciar, conseguir;Queremos propiciar una decisión.
+de:verb::herunterspielen;restar importancia, minimizar;Le resta importancia al problema.
+de:verb::hinauszögern;retrasar, demorar, aplazar;Retrasa una y otra vez la decisión.
