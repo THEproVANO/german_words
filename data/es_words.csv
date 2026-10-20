@@ -5422,3 +5422,727 @@ C2;adv;;sin ambages;;;;;без обиняков, прямо;Le dijo **sin ambage
 C2;adv;;ostensiblemente;;;;;заметно, явно;La situación ha mejorado **ostensiblemente**.;Ситуация заметно улучшилась.
 C2;adv;;ineluctablemente;;;;;неизбежно, неотвратимо;El imperio caminaba **ineluctablemente** hacia su fin.;Империя неотвратимо шла к своему концу.
 C2;adv;;subrepticiamente;;;;;тайком, исподтишка;Introdujeron **subrepticiamente** una cláusula en el contrato.;В договор тайком внесли пункт.
+C2;noun;la;trifulca;;;;;свара, перепалка;La reunión acabó en una **trifulca** monumental.;Собрание закончилось грандиозной сварой.
+C2;noun;la;gresca;;;;;потасовка, гвалт;Los hinchas armaron una **gresca** en la plaza.;Болельщики устроили потасовку на площади.
+C2;noun;la;refriega;;;;;стычка, схватка;Dos soldados murieron en la **refriega**.;В стычке погибли двое солдат.
+C2;noun;la;escaramuza;;;;;перестрелка, стычка;Fue solo una **escaramuza** sin importancia.;Это была лишь незначительная стычка.
+C2;noun;la;contienda;;;;;схватка, борьба, состязание;La **contienda** electoral se presenta muy reñida.;Предвыборная борьба обещает быть очень напряжённой.
+C2;noun;la;discordia;-;;;;раздор, разлад;La herencia sembró la **discordia** entre los hermanos.;Наследство посеяло раздор между братьями.
+C2;noun;la;capitulación;;;;;капитуляция;La ciudad firmó la **capitulación** sin condiciones.;Город подписал безоговорочную капитуляцию.
+C2;noun;la;claudicación;;;;;отступничество, сдача позиций;Aceptar esa propuesta sería una **claudicación**.;Принять это предложение означало бы сдать позиции.
+C2;noun;la;abdicación;;;;;отречение от престола;La **abdicación** del rey sorprendió a todo el país.;Отречение короля удивило всю страну.
+C2;noun;la;sublevación;;;;;восстание, мятеж;La **sublevación** fue sofocada en pocos días.;Восстание было подавлено за несколько дней.
+C2;noun;la;asonada;;;;;бунт, путч;Los militares protagonizaron una **asonada** fallida.;Военные устроили неудавшийся путч.
+C2;noun;la;insurrección;;;;;восстание;La **insurrección** se extendió por todo el norte.;Восстание распространилось по всему северу.
+C2;noun;la;sedición;;;;;мятеж, подстрекательство к мятежу;Fueron juzgados por un delito de **sedición**.;Их судили за подстрекательство к мятежу.
+C2;noun;el;motín;;;;;бунт, мятеж;Estalló un **motín** en la cárcel provincial.;В провинциальной тюрьме вспыхнул бунт.
+C2;noun;el;escarmiento;;;;;наказание в назидание, урок;Aquella multa le sirvió de **escarmiento**.;Этот штраф послужил ему уроком.
+C2;noun;el;ultimátum;;;;;ультиматум;El gobierno lanzó un **ultimátum** a los rebeldes.;Правительство предъявило ультиматум мятежникам.
+C2;noun;la;hegemonía;;;;;гегемония, господство;Ese país busca la **hegemonía** en la región.;Эта страна стремится к господству в регионе.
+C2;noun;la;injerencia;;;;;вмешательство;Rechazan cualquier **injerencia** extranjera en sus asuntos.;Они отвергают любое иностранное вмешательство в свои дела.
+C2;noun;la;potestad;;;;;полномочие, власть;El alcalde no tiene **potestad** para cerrar la fábrica.;У мэра нет полномочий закрыть фабрику.
+C2;noun;la;prerrogativa;;;;;прерогатива, привилегия;Indultar es una **prerrogativa** del jefe del Estado.;Помилование — прерогатива главы государства.
+C2;noun;el;fuero;;;;;особое право, привилегия;Los diputados gozan de un **fuero** especial.;Депутаты пользуются особым правовым статусом.
+C2;noun;el;mandatario;;;;;глава государства, руководитель;Los **mandatarios** europeos se reunieron en Bruselas.;Европейские лидеры встретились в Брюсселе.
+C2;noun;el;edil;;;;;член муниципалитета, мэр;El **edil** inauguró el nuevo parque municipal.;Член горсовета открыл новый муниципальный парк.
+C2;noun;el;consistorio;;;;;муниципальный совет, мэрия;El **consistorio** aprobó los presupuestos del año.;Муниципальный совет утвердил бюджет на год.
+C2;noun;el;tránsfuga;;;;;перебежчик (в политике);El **tránsfuga** dio la mayoría a la oposición.;Перебежчик обеспечил большинство оппозиции.
+C2;noun;el;demagogo;;;;;демагог;Ese político es un **demagogo** sin escrúpulos.;Этот политик — беспринципный демагог.
+C2;noun;el;autoritarismo;-;;;;авторитаризм;Denunció el creciente **autoritarismo** del régimen.;Он осудил растущий авторитаризм режима.
+C2;noun;la;oligarquía;;;;;олигархия;Una pequeña **oligarquía** controla la economía del país.;Небольшая олигархия контролирует экономику страны.
+C2;noun;la;plutocracia;;;;;плутократия;Critican que el sistema se ha convertido en una **plutocracia**.;Критикуют то, что система превратилась в плутократию.
+C2;noun;el;pundonor;-;;;;чувство чести, самолюбие;Jugaron con **pundonor** hasta el último minuto.;Они играли с чувством собственного достоинства до последней минуты.
+C2;noun;la;mojigatería;-;;;;ханжество, показная скромность;Su **mojigatería** resulta insoportable a sus amigos.;Его ханжество невыносимо для друзей.
+C2;noun;la;doblez;-;;;;двуличие, лицемерие;Actuó con **doblez** para engañar a sus socios.;Он действовал двулично, чтобы обмануть партнёров.
+C2;noun;la;perfidia;-;;;;вероломство, коварство;Nunca le perdonó aquella **perfidia**.;Он так и не простил ему того вероломства.
+C2;noun;la;insidia;;;;;коварство, злой умысел;Sus palabras estaban cargadas de **insidia**.;Его слова были полны злого умысла.
+C2;noun;la;cizaña;-;;;;раздор, смута;Siempre anda metiendo **cizaña** entre los compañeros.;Он вечно сеет раздор между коллегами.
+C2;noun;la;impericia;-;;;;неумелость, неопытность;El accidente se debió a la **impericia** del piloto.;Авария произошла из-за неопытности пилота.
+C2;noun;la;desfachatez;-;;;;наглость, бесстыдство;Tuvo la **desfachatez** de pedirme más dinero.;У него хватило наглости попросить у меня ещё денег.
+C2;noun;el;descaro;-;;;;нахальство, дерзость;Mintió con un **descaro** increíble.;Он солгал с невероятным нахальством.
+C2;noun;el;denuedo;-;;;;отвага, рвение;Defendieron la ciudad con **denuedo**.;Они отважно защищали город.
+C2;noun;la;gallardía;-;;;;доблесть, статность;Aceptó la derrota con **gallardía**.;Он принял поражение с достоинством.
+C2;noun;el;garbo;-;;;;грация, лихость;Caminaba por la calle con mucho **garbo**.;Она шла по улице с большой грацией.
+C2;noun;la;apostura;-;;;;статность, привлекательность;Todos admiraban la **apostura** del joven oficial.;Все восхищались статностью молодого офицера.
+C2;noun;la;prestancia;-;;;;представительность, импозантность;El edificio conserva toda su **prestancia** original.;Здание сохранило всю свою изначальную импозантность.
+C2;noun;el;temple;-;;;;самообладание, закалка;Demostró un gran **temple** en la final.;В финале он проявил большое самообладание.
+C2;noun;la;tesitura;;;;;положение, ситуация;En esta **tesitura**, no podemos arriesgarnos.;В таком положении мы не можем рисковать.
+C2;noun;el;atolladero;;;;;тупик, затруднительное положение;No sé cómo salir de este **atolladero**.;Не знаю, как выбраться из этого тупика.
+C2;noun;el;brete;;;;;затруднение, переплёт;Su pregunta me puso en un **brete**.;Его вопрос поставил меня в трудное положение.
+C2;noun;el;aprieto;;;;;затруднение, трудное положение;Me sacó de un buen **aprieto** prestándome dinero.;Он выручил меня из трудного положения, одолжив денег.
+C2;noun;el;trance;;;;;трудный момент, транс;Pasó un mal **trance** tras el divorcio.;После развода он пережил тяжёлый момент.
+C2;noun;el;descalabro;;;;;провал, крах;Las elecciones fueron un **descalabro** para el partido.;Выборы стали для партии провалом.
+C2;noun;la;debacle;;;;;разгром, крах;La **debacle** de la bolsa arruinó a miles de inversores.;Крах биржи разорил тысячи инвесторов.
+C2;noun;la;hecatombe;;;;;катастрофа, бойня;La sequía fue una **hecatombe** para la agricultura.;Засуха стала катастрофой для сельского хозяйства.
+C2;noun;el;cataclismo;;;;;катаклизм;Aquella crisis fue un auténtico **cataclismo** económico.;Тот кризис стал настоящим экономическим катаклизмом.
+C2;noun;la;vorágine;;;;;водоворот, круговерть;Vivimos atrapados en la **vorágine** de la ciudad.;Мы живём, захваченные круговертью города.
+C2;noun;el;marasmo;-;;;;застой, оцепенение;La economía sigue sumida en el **marasmo**.;Экономика по-прежнему находится в застое.
+C2;noun;el;anquilosamiento;-;;;;закостенелость, застой;Critican el **anquilosamiento** de las instituciones.;Критикуют закостенелость институтов.
+C2;noun;el;ademán;;;;;жест, движение;Hizo un **ademán** de marcharse, pero se quedó.;Он сделал движение, будто собирается уйти, но остался.
+C2;noun;el;mohín;;;;;гримаса, ужимка;Hizo un **mohín** de disgusto al probar la sopa.;Попробовав суп, он недовольно поморщился.
+C2;noun;el;rictus;;;;;застывшая гримаса;Un **rictus** de amargura se dibujó en su cara.;На его лице застыла гримаса горечи.
+C2;noun;el;semblante;;;;;выражение лица, облик;Su **semblante** se ensombreció al oír la noticia.;Услышав новость, он помрачнел.
+C2;noun;el;talle;;;;;талия, фигура;Llevaba un vestido ceñido al **talle**.;На ней было платье, облегающее талию.
+C2;noun;la;tez;-;;;;цвет лица, кожа лица;Tenía la **tez** morena por el sol.;У него было смуглое от солнца лицо.
+C2;noun;el;ceño;;;;;нахмуренные брови;Frunció el **ceño** al leer la carta.;Читая письмо, он нахмурился.
+C2;noun;la;comisura;;;;;уголок губ;Tenía una herida en la **comisura** de los labios.;У него была ранка в уголке губ.
+C2;noun;el;lóbulo;;;;;мочка уха, доля;Lleva un pendiente en el **lóbulo** izquierdo.;У него серьга в левой мочке уха.
+C2;noun;el;tabique nasal;;;;;носовая перегородка;Se rompió el **tabique nasal** jugando al fútbol.;Он сломал носовую перегородку, играя в футбол.
+C2;noun;la;coronilla;;;;;макушка;Se le está quedando calva la **coronilla**.;У него лысеет макушка.
+C2;noun;el;cogote;;;;;затылок;Le dio una colleja en el **cogote**.;Он дал ему подзатыльник.
+C2;noun;la;digresión;;;;;отступление (от темы);Perdonad esta pequeña **digresión**, vuelvo al tema.;Простите это небольшое отступление, возвращаюсь к теме.
+C2;noun;el;exordio;;;;;вступление (к речи);Tras un largo **exordio**, entró por fin en materia.;После долгого вступления он наконец перешёл к сути.
+C2;noun;el;proemio;;;;;предисловие, пролог;El autor explica sus intenciones en el **proemio**.;Автор объясняет свои намерения в предисловии.
+C2;noun;la;apostilla;;;;;примечание, пометка на полях;Añadió una **apostilla** irónica al final del artículo.;Он добавил ироничное примечание в конце статьи.
+C2;noun;el;colofón;;;;;завершение, венец;El concierto fue el **colofón** perfecto a las fiestas.;Концерт стал идеальным завершением праздника.
+C2;noun;la;metonimia;;;;;метонимия;"""Leer a Cervantes"" es un ejemplo de **metonimia**.";«Читать Сервантеса» — пример метонимии.
+C2;noun;la;sinécdoque;;;;;синекдоха;"Decir ""techo"" por ""casa"" es una **sinécdoque**.";Сказать «крыша» вместо «дом» — это синекдоха.
+C2;noun;la;aliteración;;;;;аллитерация;El poema juega con la **aliteración** de la erre.;Стихотворение играет на аллитерации звука «р».
+C2;noun;la;anáfora;;;;;анафора;El discurso usa la **anáfora** para reforzar el mensaje.;В речи используется анафора, чтобы усилить посыл.
+C2;noun;el;pleonasmo;;;;;плеоназм;"""Subir arriba"" es un **pleonasmo** muy común.";«Подняться наверх» — очень распространённый плеоназм.
+C2;noun;el;barbarismo;;;;;варваризм, неправильное слово;El profesor corrigió varios **barbarismos** en mi redacción.;Учитель исправил в моём сочинении несколько варваризмов.
+C2;noun;el;arcaísmo;;;;;архаизм;"""Maguer"" es un **arcaísmo** que ya nadie usa.";«Maguer» — архаизм, который уже никто не использует.
+C2;noun;el;latinajo;;;;;латинское словечко (ирон.);Le encanta adornar sus discursos con **latinajos**.;Он обожает украшать свои речи латинскими словечками.
+C2;noun;la;verborrea;-;;;;многословие, словоизлияние;Su **verborrea** aburre a todo el auditorio.;Его словоизлияния утомляют всю аудиторию.
+C2;noun;la;locuacidad;-;;;;говорливость, болтливость;Su **locuacidad** contrastaba con el silencio de su mujer.;Его говорливость контрастировала с молчанием жены.
+C2;noun;la;perorata;;;;;длинная речь, разглагольствование;Tuvimos que aguantar su **perorata** sobre la juventud.;Нам пришлось выслушать его разглагольствования о молодёжи.
+C2;noun;la;arenga;;;;;призывная речь;El capitán dirigió una **arenga** a sus soldados.;Капитан обратился к солдатам с призывной речью.
+C2;noun;la;homilía;;;;;проповедь;El obispo pronunció una **homilía** sobre el perdón.;Епископ произнёс проповедь о прощении.
+C2;noun;la;soflama;;;;;пламенная речь, воззвание;Lanzó una **soflama** nacionalista ante sus seguidores.;Он произнёс перед сторонниками пламенную националистическую речь.
+C2;noun;el;panegírico;;;;;панегирик, восхваление;El libro es un **panegírico** del dictador.;Книга — панегирик диктатору.
+C2;noun;el;encomio;;;;;похвала, восхваление;Su labor es digna de **encomio**.;Его работа заслуживает похвалы.
+C2;noun;la;loa;;;;;хвала, восхваление;El poema es una **loa** a la vida sencilla.;Стихотворение — хвала простой жизни.
+C2;noun;el;ditirambo;;;;;дифирамб;La prensa dedicó **ditirambos** a la nueva película.;Пресса пела дифирамбы новому фильму.
+C2;noun;la;perogrullada;;;;;банальность, очевидная истина;Decir que el agua moja es una **perogrullada**.;Сказать, что вода мокрая, — банальность.
+C2;noun;la;muletilla;;;;;слово-паразит;"""O sea"" es su **muletilla** favorita.";«То есть» — его любимое слово-паразит.
+C2;noun;el;dicterio;;;;;оскорбление, брань;Le lanzó toda clase de **dicterios**.;Он осыпал его всевозможной бранью.
+C2;noun;el;sambenito;;;;;клеймо, дурная слава;Le colgaron el **sambenito** de vago.;На него навесили ярлык лентяя.
+C2;noun;el;baldón;;;;;позор, бесчестье;Aquel escándalo fue un **baldón** para la familia.;Тот скандал стал позором для семьи.
+C2;noun;el;oprobio;-;;;;позор, бесчестье;Cubrió de **oprobio** el nombre de su familia.;Он покрыл позором имя своей семьи.
+C2;noun;el;ludibrio;-;;;;посмешище, издевательство;Se convirtió en el **ludibrio** de toda la corte.;Он стал посмешищем всего двора.
+C2;noun;la;befa;;;;;насмешка, издёвка;Hacía **befa** de los defectos ajenos.;Он насмехался над чужими недостатками.
+C2;noun;el;vilipendio;;;;;поношение, унижение;Sufrió el **vilipendio** de sus antiguos amigos.;Он подвергся поношению со стороны бывших друзей.
+C2;noun;la;ignominia;;;;;позор, бесчестие;La derrota fue vivida como una **ignominia**.;Поражение было воспринято как позор.
+C2;noun;el;deshonor;-;;;;бесчестье, позор;Prefería la muerte al **deshonor**.;Он предпочитал смерть бесчестью.
+C2;noun;el;exhorto;;;;;судебное поручение;El juez envió un **exhorto** a un tribunal extranjero.;Судья направил судебное поручение в иностранный суд.
+C2;noun;el;auto;;;;;судебное постановление;El juez dictó un **auto** de prisión provisional.;Судья вынес постановление о предварительном заключении.
+C2;noun;la;providencia;;;;;распоряжение суда, провидение;Lo dejamos todo en manos de la **providencia**.;Мы всё оставили в руках провидения.
+C2;noun;el;recurso de amparo;;;;;конституционная жалоба;Presentó un **recurso de amparo** ante el Constitucional.;Он подал конституционную жалобу в Конституционный суд.
+C2;noun;la;casación;;;;;кассация;El caso llegó en **casación** al Tribunal Supremo.;Дело дошло в кассационном порядке до Верховного суда.
+C2;noun;la;instancia;;;;;инстанция, прошение;Fue absuelto en primera **instancia**.;В первой инстанции он был оправдан.
+C2;noun;el;perjurio;;;;;лжесвидетельство;Cometer **perjurio** ante un tribunal es delito.;Лжесвидетельство в суде — преступление.
+C2;noun;el;peculado;;;;;растрата казённых средств;El ministro fue juzgado por **peculado**.;Министра судили за растрату казённых средств.
+C2;noun;el;testaferro;;;;;подставное лицо;Usaba a su cuñado como **testaferro**.;Он использовал шурина как подставное лицо.
+C2;noun;el;paraíso fiscal;;;;;налоговый рай, офшор;Ocultaba su fortuna en un **paraíso fiscal**.;Он прятал своё состояние в офшоре.
+C2;noun;la;elusión;;;;;уход (от налогов), обход;La **elusión** fiscal es legal, pero poco ética.;Уход от налогов законен, но не очень этичен.
+C2;noun;el;tributo;;;;;налог, дань;Los ciudadanos pagan numerosos **tributos** locales.;Граждане платят множество местных налогов.
+C2;noun;la;exención;;;;;освобождение (от налога, обязанности);Solicitó la **exención** del pago de tasas.;Он попросил освободить его от уплаты сборов.
+C2;noun;la;desgravación;;;;;налоговый вычет;Puedes pedir una **desgravación** por la compra de vivienda.;Можно получить налоговый вычет за покупку жилья.
+C2;noun;el;devengo;;;;;начисление (налога, процентов);El **devengo** del impuesto se produce el uno de enero.;Начисление налога происходит первого января.
+C2;noun;el;saneamiento;;;;;оздоровление, санация;El plan de **saneamiento** salvó al banco.;План оздоровления спас банк.
+C2;noun;la;quita;;;;;списание части долга;Los acreedores aceptaron una **quita** del treinta por ciento.;Кредиторы согласились списать тридцать процентов долга.
+C2;noun;la;deflación;;;;;дефляция;La **deflación** puede paralizar el consumo.;Дефляция может парализовать потребление.
+C2;noun;la;estanflación;;;;;стагфляция;Los expertos temen un periodo de **estanflación**.;Эксперты опасаются периода стагфляции.
+C2;noun;el;usurero;;;;;ростовщик;Pidió dinero a un **usurero** y se arruinó.;Он занял денег у ростовщика и разорился.
+C2;noun;la;usura;-;;;;ростовщичество;La **usura** estaba castigada por la Iglesia.;Ростовщичество осуждалось Церковью.
+C2;noun;el;pagaré;;;;;долговая расписка, вексель;Firmó un **pagaré** a noventa días.;Он подписал вексель на девяносто дней.
+C2;noun;el;albarán;;;;;накладная;El repartidor me pidió firmar el **albarán**.;Курьер попросил меня подписать накладную.
+C2;noun;el;estipendio;;;;;вознаграждение, плата;Recibía un pequeño **estipendio** por sus clases.;Он получал небольшое вознаграждение за свои уроки.
+C2;noun;el;peculio;;;;;личные сбережения;Pagó el viaje de su propio **peculio**.;Он оплатил поездку из собственных средств.
+C2;noun;el;caudal;;;;;состояние, расход (воды);El río lleva poco **caudal** este verano.;Этим летом в реке мало воды.
+C2;noun;el;otero;;;;;холм, пригорок;Desde el **otero** se veía todo el valle.;С холма была видна вся долина.
+C2;noun;el;cerro;;;;;холм, сопка;Subimos al **cerro** para ver la puesta de sol.;Мы поднялись на холм, чтобы посмотреть на закат.
+C2;noun;la;sierra;;;;;горная гряда;Pasamos el fin de semana en la **sierra**.;Мы провели выходные в горах.
+C2;noun;el;collado;;;;;седловина, перевал;Acampamos en un **collado** entre dos picos.;Мы разбили лагерь на седловине между двумя вершинами.
+C2;noun;el;risco;;;;;утёс, скала;Una cabra trepaba por los **riscos**.;Коза карабкалась по скалам.
+C2;noun;el;peñasco;;;;;утёс, большая скала;El castillo se alza sobre un **peñasco**.;Замок возвышается на утёсе.
+C2;noun;el;guijarro;;;;;галька, булыжник;La playa está llena de **guijarros**.;Пляж полон гальки.
+C2;noun;la;grava;-;;;;гравий;El camino estaba cubierto de **grava**.;Дорога была засыпана гравием.
+C2;noun;el;pedregal;;;;;каменистое место;Tuvimos que cruzar un **pedregal** inmenso.;Нам пришлось пересечь огромную каменистую пустошь.
+C2;noun;la;dehesa;;;;;пастбище с дубами;Los cerdos ibéricos pastan en la **dehesa**.;Иберийские свиньи пасутся на дубовом пастбище.
+C2;noun;la;vega;;;;;плодородная долина;La **vega** del río es muy fértil.;Долина реки очень плодородна.
+C2;noun;la;campiña;;;;;сельская местность, нива;Nos alojamos en una casa en plena **campiña**.;Мы остановились в доме посреди сельской местности.
+C2;noun;el;secano;;;;;неорошаемая земля;En esta zona predomina el cultivo de **secano**.;В этом районе преобладает богарное земледелие.
+C2;noun;el;regadío;;;;;орошаемая земля;Transformaron el secano en tierras de **regadío**.;Они превратили засушливые земли в орошаемые.
+C2;noun;el;barbecho;;;;;пар (поле под паром);Dejaron el campo en **barbecho** un año.;Они оставили поле под паром на год.
+C2;noun;el;surco;;;;;борозда;El arado abría **surcos** en la tierra.;Плуг прокладывал борозды в земле.
+C2;noun;la;linde;;;;;межа, граница участка;El olivo está justo en la **linde** de las dos fincas.;Олива стоит прямо на меже двух участков.
+C2;noun;la;acequia;;;;;оросительный канал, арык;El agua llega a los huertos por una **acequia**.;Вода поступает к огородам по арыку.
+C2;noun;el;aljibe;;;;;цистерна, водосборник;Recogían el agua de lluvia en un **aljibe**.;Они собирали дождевую воду в цистерну.
+C2;noun;la;noria;;;;;водяное колесо, колесо обозрения;Los niños quisieron subir a la **noria**.;Дети захотели прокатиться на колесе обозрения.
+C2;noun;la;albufera;;;;;лагуна;Paseamos en barca por la **albufera** de Valencia.;Мы катались на лодке по валенсийской лагуне.
+C2;noun;la;marisma;;;;;приморское болото;Miles de aves invernan en las **marismas**.;Тысячи птиц зимуют на приморских болотах.
+C2;noun;el;cauce;;;;;русло;El río se desbordó de su **cauce**.;Река вышла из берегов.
+C2;noun;el;torrente;;;;;горный поток;El **torrente** arrastró piedras enormes.;Горный поток тащил огромные камни.
+C2;noun;la;riada;;;;;паводок, наводнение;La **riada** inundó todo el pueblo.;Паводок затопил всю деревню.
+C2;noun;la;crecida;;;;;разлив реки;La **crecida** del río obligó a evacuar a los vecinos.;Разлив реки вынудил эвакуировать жителей.
+C2;noun;el;estiaje;;;;;межень, маловодье;En época de **estiaje** el río casi se seca.;В период маловодья река почти пересыхает.
+C2;noun;la;rompiente;;;;;прибой, место разбивания волн;Los surfistas esperaban en la **rompiente**.;Сёрферы ждали у линии прибоя.
+C2;noun;el;oleaje;-;;;;волнение (на море);El fuerte **oleaje** impidió salir a los pescadores.;Сильное волнение не дало рыбакам выйти в море.
+C2;noun;la;bajamar;-;;;;отлив, малая вода;Con la **bajamar** se puede llegar andando a la isla.;Во время отлива до острова можно дойти пешком.
+C2;noun;la;pleamar;-;;;;полная вода, прилив;Durante la **pleamar** la playa desaparece.;Во время прилива пляж исчезает.
+C2;noun;el;arrecife;;;;;риф;El **arrecife** de coral está en peligro.;Коралловый риф находится под угрозой.
+C2;noun;el;islote;;;;;островок;Frente a la costa hay un pequeño **islote**.;Напротив побережья есть небольшой островок.
+C2;noun;el;istmo;;;;;перешеек;El **istmo** de Panamá une dos continentes.;Панамский перешеек соединяет два континента.
+C2;noun;la;ensenada;;;;;бухта, залив;Fondeamos el barco en una **ensenada** tranquila.;Мы бросили якорь в тихой бухте.
+C2;noun;la;cala;;;;;маленькая бухта;Descubrimos una **cala** de aguas cristalinas.;Мы нашли бухточку с кристально чистой водой.
+C2;noun;el;médano;;;;;дюна;El viento mueve los **médanos** de la costa.;Ветер передвигает прибрежные дюны.
+C2;noun;la;estepa;;;;;степь;La **estepa** se extiende hasta el horizonte.;Степь простирается до горизонта.
+C2;noun;el;matorral;;;;;кустарник, заросли;El conejo se escondió en el **matorral**.;Кролик спрятался в кустарнике.
+C2;noun;la;maleza;-;;;;заросли, сорняки;El jardín estaba invadido por la **maleza**.;Сад зарос сорняками.
+C2;noun;la;hojarasca;-;;;;опавшая листва;Pisábamos la **hojarasca** del otoño.;Мы ступали по опавшей осенней листве.
+C2;noun;el;follaje;-;;;;листва;El sol apenas atravesaba el espeso **follaje**.;Солнце едва пробивалось сквозь густую листву.
+C2;noun;la;fronda;;;;;густая листва, заросли;Se perdieron entre la **fronda** del bosque.;Они заблудились в лесной чаще.
+C2;noun;la;espesura;;;;;чаща;El ciervo desapareció en la **espesura**.;Олень скрылся в чаще.
+C2;noun;el;sotobosque;-;;;;подлесок;El **sotobosque** arde con mucha facilidad.;Подлесок очень легко загорается.
+C2;noun;el;brezo;;;;;вереск;Las colinas estaban cubiertas de **brezo**.;Холмы были покрыты вереском.
+C2;noun;la;retama;;;;;дрок, ракитник;La **retama** florece en primavera con flores amarillas.;Ракитник цветёт весной жёлтыми цветами.
+C2;noun;la;jara;;;;;ладанник;El monte huele a **jara** en verano.;Летом горы пахнут ладанником.
+C2;noun;el;tomillo;;;;;тимьян, чабрец;Añade una ramita de **tomillo** al guiso.;Добавь в рагу веточку тимьяна.
+C2;noun;la;encina;;;;;каменный дуб;Descansamos a la sombra de una **encina**.;Мы отдохнули в тени каменного дуба.
+C2;noun;el;alcornoque;;;;;пробковый дуб;El corcho se extrae del **alcornoque**.;Пробку добывают из пробкового дуба.
+C2;noun;el;sauce;;;;;ива;Un **sauce** llorón crecía junto al estanque.;У пруда росла плакучая ива.
+C2;noun;el;álamo;;;;;тополь;Los **álamos** bordean el camino del río.;Тополя растут вдоль дороги у реки.
+C2;noun;el;abedul;;;;;берёза;El **abedul** abunda en los bosques de Rusia.;Берёза широко распространена в лесах России.
+C2;noun;el;tejo;;;;;тис;El **tejo** puede vivir más de mil años.;Тис может жить более тысячи лет.
+C2;noun;el;castaño;;;;;каштан (дерево);Recogimos castañas bajo un viejo **castaño**.;Мы собирали каштаны под старым каштановым деревом.
+C2;noun;el;avellano;;;;;лещина, орешник;Plantó un **avellano** en el huerto.;Он посадил в огороде лещину.
+C2;noun;el;menester;;;;;необходимость, занятие;Es **menester** actuar con rapidez.;Необходимо действовать быстро.
+C2;noun;el;enser;;;;;предмет домашней утвари;Perdieron todos sus **enseres** en el incendio.;Они потеряли всё своё имущество при пожаре.
+C2;noun;el;cachivache;;;;;хлам, безделушка;El desván está lleno de **cachivaches** inútiles.;Чердак полон бесполезного хлама.
+C2;noun;el;trasto;;;;;хлам, старая вещь;Tira esos **trastos** viejos de una vez.;Выброси наконец этот старый хлам.
+C2;noun;el;cacharro;;;;;посудина, старьё;Friega los **cacharros** antes de irte.;Помой посуду перед уходом.
+C2;noun;el;artilugio;;;;;приспособление, хитрое устройство;Inventó un curioso **artilugio** para pelar naranjas.;Он изобрёл любопытное приспособление для чистки апельсинов.
+C2;noun;el;artefacto;;;;;устройство, взрывное устройство;La policía desactivó el **artefacto** explosivo.;Полиция обезвредила взрывное устройство.
+C2;noun;la;baratija;;;;;безделушка, дешёвка;En el mercadillo solo venden **baratijas**.;На барахолке продают только безделушки.
+C2;noun;la;fruslería;;;;;пустяк, безделица;No discutáis por esa **fruslería**.;Не спорьте из-за этого пустяка.
+C2;noun;el;aldabón;;;;;дверной молоток;Golpeó la puerta con el **aldabón** de hierro.;Он постучал в дверь железным молотком.
+C2;noun;el;pestillo;;;;;щеколда, задвижка;Echa el **pestillo** antes de dormir.;Задвинь щеколду перед сном.
+C2;noun;el;quicio;;;;;дверной косяк (со стороны петель);Esa actitud me saca de **quicio**.;Такое поведение выводит меня из себя.
+C2;noun;el;tirador;;;;;ручка (ящика, двери);Se ha caído el **tirador** del cajón.;Отвалилась ручка ящика.
+C2;noun;el;visillo;;;;;тюль, лёгкая занавеска;La vecina nos espiaba detrás del **visillo**.;Соседка подглядывала за нами из-за занавески.
+C2;noun;el;toldo;;;;;навес, тент;Pusimos un **toldo** en la terraza.;Мы повесили тент на террасе.
+C2;noun;el;felpudo;;;;;коврик у двери;La llave está debajo del **felpudo**.;Ключ лежит под ковриком.
+C2;noun;el;edredón;;;;;пуховое одеяло;En invierno duermo con un **edredón** nórdico.;Зимой я сплю под пуховым одеялом.
+C2;noun;la;colcha;;;;;покрывало;Cubrió la cama con una **colcha** de ganchillo.;Она застелила кровать вязаным покрывалом.
+C2;noun;la;mecedora;;;;;кресло-качалка;La abuela se sentaba en su **mecedora**.;Бабушка садилась в своё кресло-качалку.
+C2;noun;el;aparador;;;;;буфет, сервант;La vajilla buena está en el **aparador**.;Хорошая посуда стоит в серванте.
+C2;noun;la;vitrina;;;;;витрина, стеклянный шкаф;Las copas de cristal están en la **vitrina**.;Хрустальные бокалы стоят в стеклянном шкафу.
+C2;noun;el;escabel;;;;;скамеечка для ног;Apoyó los pies en un **escabel**.;Он поставил ноги на скамеечку.
+C2;noun;el;brasero;;;;;жаровня;Nos calentábamos con el **brasero** bajo la mesa.;Мы грелись жаровней под столом.
+C2;noun;el;fogón;;;;;очаг, конфорка;La olla hervía sobre el **fogón**.;Кастрюля кипела на плите.
+C2;noun;el;atizador;;;;;кочерга;Removió las brasas con el **atizador**.;Он поворошил угли кочергой.
+C2;noun;la;brasa;;;;;горящий уголь, жар;Asamos la carne a la **brasa**.;Мы жарили мясо на углях.
+C2;noun;el;cucharón;;;;;половник;Sirvió la sopa con un **cucharón**.;Он разлил суп половником.
+C2;noun;la;espumadera;;;;;шумовка;Saca las patatas con la **espumadera**.;Достань картошку шумовкой.
+C2;noun;el;rodillo;;;;;скалка, валик;Extiende la masa con el **rodillo**.;Раскатай тесто скалкой.
+C2;noun;el;colador;;;;;дуршлаг, ситечко;Escurre la pasta en el **colador**.;Слей макароны в дуршлаг.
+C2;noun;el;embudo;;;;;воронка;Usa un **embudo** para no derramar el aceite.;Используй воронку, чтобы не пролить масло.
+C2;noun;el;mortero;;;;;ступка;Machaca el ajo en el **mortero**.;Растолки чеснок в ступке.
+C2;noun;el;cazo;;;;;ковшик, сотейник;Calienta la leche en un **cazo**.;Подогрей молоко в ковшике.
+C2;noun;la;cazuela;;;;;глиняный горшок, кастрюля;Preparó el arroz en una **cazuela** de barro.;Он приготовил рис в глиняной кастрюле.
+C2;noun;el;puchero;;;;;горшок, похлёбка;Huele a **puchero** en toda la casa.;По всему дому пахнет похлёбкой.
+C2;noun;la;vasija;;;;;сосуд;Encontraron una **vasija** romana en la excavación.;На раскопках нашли римский сосуд.
+C2;noun;el;cántaro;;;;;кувшин;Llevaba un **cántaro** de agua en la cabeza.;Она несла на голове кувшин с водой.
+C2;noun;la;tinaja;;;;;большой глиняный кувшин;El vino fermentaba en grandes **tinajas**.;Вино бродило в больших глиняных кувшинах.
+C2;noun;el;botijo;;;;;глиняный кувшин с носиком;En verano bebíamos agua fresca del **botijo**.;Летом мы пили прохладную воду из кувшина-ботихо.
+C2;noun;la;alforja;;;;;перемётная сума;Llevaba el pan en las **alforjas** del burro.;Он вёз хлеб в перемётных сумах на осле.
+C2;noun;el;zurrón;;;;;пастушья сумка;El pastor sacó queso de su **zurrón**.;Пастух достал сыр из своей сумки.
+C2;noun;el;fardo;;;;;тюк, узел;Cargaban **fardos** de paja en el carro.;Они грузили тюки соломы на телегу.
+C2;noun;el;hatillo;;;;;узелок;Se marchó con un **hatillo** de ropa.;Он ушёл с узелком одежды.
+C2;noun;el;arcón;;;;;большой сундук, ларь;Guardaban las mantas en un **arcón** de madera.;Одеяла хранили в деревянном ларе.
+C2;noun;el;joyero;;;;;шкатулка для драгоценностей, ювелир;Dejó el anillo en el **joyero**.;Она положила кольцо в шкатулку.
+C2;noun;el;relicario;;;;;медальон, ковчег для мощей;Llevaba un **relicario** con una foto de su madre.;Он носил медальон с фотографией матери.
+C2;noun;el;abalorio;;;;;бусина, побрякушка;Hacía pulseras con **abalorios** de colores.;Она делала браслеты из цветных бусин.
+C2;noun;el;dije;;;;;кулон, подвеска;Le regaló un **dije** de plata.;Он подарил ей серебряный кулон.
+C2;noun;el;gemelo;;;;;запонка, близнец;Se puso unos **gemelos** de oro para la boda.;На свадьбу он надел золотые запонки.
+C2;noun;el;dobladillo;;;;;подшивка, подгиб;Hay que coger el **dobladillo** del pantalón.;Нужно подшить брюки.
+C2;noun;el;remiendo;;;;;заплата, латка;Los pantalones tenían **remiendos** en las rodillas.;На коленях брюк были заплаты.
+C2;noun;el;jirón;;;;;лоскут, клочок;La bandera quedó hecha **jirones**.;Флаг превратился в лохмотья.
+C2;noun;el;harapo;;;;;лохмотья, тряпьё;El mendigo iba vestido con **harapos**.;Нищий был одет в лохмотья.
+C2;noun;el;andrajo;;;;;лохмотья, рвань;Llegó a casa con la ropa hecha **andrajos**.;Он пришёл домой в изодранной одежде.
+C2;noun;el;dedal;;;;;напёрсток;Cose siempre con un **dedal** de metal.;Она всегда шьёт с металлическим напёрстком.
+C2;noun;el;ovillo;;;;;клубок;El gato jugaba con un **ovillo** de lana.;Кот играл с клубком шерсти.
+C2;noun;la;madeja;;;;;моток, клубок;Desenredar esta **madeja** me llevará horas.;Распутать этот моток займёт у меня несколько часов.
+C2;noun;el;silogismo;;;;;силлогизм;El razonamiento tiene forma de **silogismo**.;Рассуждение имеет форму силлогизма.
+C2;noun;la;dicotomía;;;;;дихотомия, противопоставление;Rechaza la **dicotomía** entre razón y emoción.;Он отвергает противопоставление разума и чувств.
+C2;noun;la;antinomia;;;;;антиномия, противоречие;Existe una **antinomia** entre libertad y seguridad.;Между свободой и безопасностью существует противоречие.
+C2;noun;el;epítome;;;;;воплощение, краткое изложение;Es el **epítome** de la elegancia.;Он — воплощение элегантности.
+C2;noun;el;arquetipo;;;;;архетип, прообраз;Don Juan es el **arquetipo** del seductor.;Дон Жуан — архетип соблазнителя.
+C2;noun;el;dechado;;;;;образец, пример;Su hermana es un **dechado** de virtudes.;Его сестра — образец добродетели.
+C2;noun;el;parangón;;;;;сравнение, ровня;Es una obra sin **parangón** en su época.;Это произведение не имеет себе равных в своё время.
+C2;noun;la;analogía;;;;;аналогия;Usó una **analogía** para explicar el concepto.;Он использовал аналогию, чтобы объяснить понятие.
+C2;noun;la;elucidación;;;;;разъяснение, выяснение;La **elucidación** del caso llevó años.;Выяснение обстоятельств дела заняло годы.
+C2;noun;la;exégesis;;;;;толкование, экзегеза;Hizo una **exégesis** minuciosa del texto bíblico.;Он сделал подробное толкование библейского текста.
+C2;noun;la;hermenéutica;-;;;;герменевтика;Estudia **hermenéutica** en la facultad de filosofía.;Он изучает герменевтику на философском факультете.
+C2;noun;la;epistemología;-;;;;эпистемология, теория познания;La **epistemología** estudia los límites del conocimiento.;Эпистемология изучает границы познания.
+C2;noun;la;ontología;;;;;онтология;Es un tratado de **ontología** muy complejo.;Это очень сложный трактат по онтологии.
+C2;noun;la;teleología;-;;;;телеология;La **teleología** explica las cosas por su finalidad.;Телеология объясняет вещи через их цель.
+C2;noun;el;solipsismo;-;;;;солипсизм;Su visión del mundo roza el **solipsismo**.;Его мировоззрение граничит с солипсизмом.
+C2;noun;el;relativismo;-;;;;релятивизм;El **relativismo** moral domina el debate actual.;Моральный релятивизм доминирует в нынешних дебатах.
+C2;noun;el;nihilismo;-;;;;нигилизм;La novela refleja el **nihilismo** de la posguerra.;Роман отражает послевоенный нигилизм.
+C2;noun;el;hedonismo;-;;;;гедонизм;Vive entregado al **hedonismo** más absoluto.;Он живёт, предаваясь полнейшему гедонизму.
+C2;noun;el;estoicismo;-;;;;стоицизм;Soportó el dolor con **estoicismo**.;Он перенёс боль со стоицизмом.
+C2;noun;el;libre albedrío;-;;;;свобода воли;¿Existe realmente el **libre albedrío**?;Существует ли на самом деле свобода воли?
+C2;noun;el;determinismo;-;;;;детерминизм;El **determinismo** niega la libertad humana.;Детерминизм отрицает свободу человека.
+C2;noun;el;albedrío;-;;;;воля, произвол;Lo dejó todo a su **albedrío**.;Он оставил всё на его усмотрение.
+C2;noun;la;potencialidad;;;;;потенциальная возможность;Cada niño tiene **potencialidades** por desarrollar.;У каждого ребёнка есть возможности, которые нужно развить.
+C2;noun;la;inmanencia;-;;;;имманентность;El filósofo defiende la **inmanencia** de lo divino.;Философ отстаивает имманентность божественного.
+C2;noun;la;aleatoriedad;-;;;;случайность;Los resultados dependen de la **aleatoriedad** de la muestra.;Результаты зависят от случайности выборки.
+C2;noun;la;falsabilidad;-;;;;фальсифицируемость;Popper defendió la **falsabilidad** como criterio científico.;Поппер отстаивал фальсифицируемость как научный критерий.
+C2;noun;la;nomenclatura;;;;;номенклатура, терминология;Aprendimos la **nomenclatura** de la química orgánica.;Мы изучили номенклатуру органической химии.
+C2;noun;el;compendio;;;;;сборник, краткое изложение;El libro es un **compendio** de sus mejores artículos.;Книга — сборник его лучших статей.
+C2;noun;el;opúsculo;;;;;небольшое сочинение, брошюра;Publicó un **opúsculo** sobre la tolerancia.;Он опубликовал небольшое сочинение о терпимости.
+C2;noun;el;florilegio;;;;;антология, сборник;Es un **florilegio** de poesía medieval.;Это антология средневековой поэзии.
+C2;noun;el;incunable;;;;;инкунабула;La biblioteca conserva varios **incunables**.;В библиотеке хранятся несколько инкунабул.
+C2;noun;el;códice;;;;;кодекс, древняя рукопись;Descubrieron un **códice** medieval en el monasterio.;В монастыре обнаружили средневековую рукопись.
+C2;noun;el;palimpsesto;;;;;палимпсест;La ciudad es un **palimpsesto** de culturas.;Город — палимпсест культур.
+C2;noun;el;pergamino;;;;;пергамент;El documento estaba escrito sobre **pergamino**.;Документ был написан на пергаменте.
+C2;noun;el;amanuense;;;;;писец, переписчик;Un **amanuense** copiaba los textos a mano.;Писец переписывал тексты вручную.
+C2;noun;el;erudito;;;;;эрудит, учёный;Es un **erudito** en historia medieval.;Он большой знаток средневековой истории.
+C2;noun;el;polímata;;;;;энциклопедист, полимат;Leonardo da Vinci fue un auténtico **polímata**.;Леонардо да Винчи был настоящим энциклопедистом.
+C2;noun;el;autodidacta;;;;;самоучка;Aprendió a tocar el piano como **autodidacta**.;Он научился играть на пианино самоучкой.
+C2;noun;el;neófito;;;;;новичок, неофит;Soy un **neófito** en temas de informática.;Я новичок в вопросах информатики.
+C2;noun;el;lego;;;;;профан, мирянин;Para un **lego** en la materia, el texto es incomprensible.;Для профана в этой области текст непонятен.
+C2;noun;el;diletante;;;;;дилетант, любитель;Es un **diletante** que no profundiza en nada.;Он дилетант, который ни во что не вникает глубоко.
+C2;noun;el;advenedizo;;;;;выскочка;Los aristócratas despreciaban al **advenedizo**.;Аристократы презирали выскочку.
+C2;noun;el;arribista;;;;;карьерист, выскочка;Es un **arribista** capaz de todo por un cargo.;Он карьерист, готовый на всё ради должности.
+C2;noun;el;trepa;;;;;карьерист, подхалим (разг.);En la oficina todos saben que es un **trepa**.;В офисе все знают, что он карьерист.
+C2;noun;el;chivato;;;;;доносчик, ябеда;Algún **chivato** se lo contó al profesor.;Какой-то ябеда рассказал об этом учителю.
+C2;noun;el;soplón;;;;;стукач, доносчик;La policía tenía un **soplón** dentro de la banda.;У полиции был стукач внутри банды.
+C2;noun;el;delator;;;;;доносчик, осведомитель;El **delator** recibió una recompensa.;Доносчик получил вознаграждение.
+C2;noun;el;tunante;;;;;плут, мошенник;Ese **tunante** me ha vuelto a engañar.;Этот плут снова меня обманул.
+C2;noun;el;bribón;;;;;плут, негодник;¡Ven aquí, pequeño **bribón**!;Иди сюда, маленький негодник!
+C2;noun;el;truhan;;;;;жулик, проходимец;Se fió de un **truhan** y perdió sus ahorros.;Он доверился проходимцу и потерял сбережения.
+C2;noun;el;pícaro;;;;;плут, хитрец;El **pícaro** es un personaje típico de la novela española.;Плут — типичный персонаж испанского романа.
+C2;noun;el;embaucador;;;;;обманщик, шарлатан;Un **embaucador** le vendió un terreno inexistente.;Мошенник продал ему несуществующий участок.
+C2;noun;el;charlatán;;;;;шарлатан, болтун;No hagas caso a ese **charlatán**.;Не обращай внимания на этого шарлатана.
+C2;noun;el;farsante;;;;;притворщик, лицемер;Descubrieron que el supuesto médico era un **farsante**.;Выяснилось, что так называемый врач был самозванцем.
+C2;noun;el;impostor;;;;;самозванец, обманщик;El **impostor** se hacía pasar por un príncipe.;Самозванец выдавал себя за принца.
+C2;noun;el;fanfarrón;;;;;хвастун, бахвал;Es un **fanfarrón** que exagera todas sus hazañas.;Он хвастун, преувеличивающий все свои подвиги.
+C2;noun;el;bravucón;;;;;задира, хвастун;Ese **bravucón** solo se mete con los débiles.;Этот задира пристаёт только к слабым.
+C2;noun;el;pendenciero;;;;;драчун, забияка;Era un **pendenciero** conocido en todo el barrio.;Он был известным на весь район забиякой.
+C2;noun;el;mequetrefe;;;;;пустой человек, вертопрах;No pienso obedecer a ese **mequetrefe**.;Я не собираюсь подчиняться этому ничтожеству.
+C2;noun;el;botarate;;;;;ветрогон, легкомысленный человек;Su hijo es un **botarate** que derrocha el dinero.;Его сын — легкомысленный человек, транжирящий деньги.
+C2;noun;el;zascandil;;;;;вертопрах, бездельник;Ese **zascandil** nunca termina nada.;Этот вертопрах ничего не доводит до конца.
+C2;noun;el;mentecato;;;;;глупец, простофиля;Solo un **mentecato** creería esa historia.;Только простофиля поверит в эту историю.
+C2;noun;el;zoquete;;;;;тупица, болван;No seas **zoquete** y lee las instrucciones.;Не будь тупицей и прочитай инструкцию.
+C2;noun;el;despecho;-;;;;досада, обида;Lo hizo por **despecho**, no por amor.;Он сделал это из досады, а не из любви.
+C2;noun;el;desencanto;;;;;разочарование, утрата иллюзий;Hay un profundo **desencanto** con la política.;Существует глубокое разочарование в политике.
+C2;noun;el;sinsabor;;;;;огорчение, неприятность;La vida le trajo muchos **sinsabores**.;Жизнь принесла ему много огорчений.
+C2;noun;el;quebranto;;;;;ущерб, урон, горе;La crisis causó un grave **quebranto** económico.;Кризис нанёс серьёзный экономический ущерб.
+C2;noun;el;desmedro;-;;;;ущерб, ухудшение;Aceptó el cargo con **desmedro** de su vida familiar.;Он принял должность в ущерб семейной жизни.
+C2;noun;el;estrago;;;;;опустошение, урон;La tormenta causó **estragos** en la costa.;Буря опустошила побережье.
+C2;noun;la;devastación;-;;;;опустошение, разорение;El terremoto dejó una **devastación** total.;Землетрясение оставило после себя полное опустошение.
+C2;noun;el;desmán;;;;;бесчинство, злоупотребление;Denunciaron los **desmanes** de la policía.;Они осудили бесчинства полиции.
+C2;noun;el;atropello;;;;;произвол, наезд;Ese despido es un **atropello** a sus derechos.;Это увольнение — грубое нарушение его прав.
+C2;noun;el;desafuero;;;;;беззаконие, произвол;Cometió todo tipo de **desafueros** durante su mandato.;За время своего правления он совершал всевозможные беззакония.
+C2;noun;el;dislate;;;;;нелепость, вздор;Lo que propones es un **dislate**.;То, что ты предлагаешь, — нелепость.
+C2;noun;el;despropósito;;;;;нелепость, несуразность;Construir ahí un aeropuerto es un **despropósito**.;Строить там аэропорт — нелепость.
+C2;noun;el;desatino;;;;;оплошность, безрассудство;Fue un **desatino** venderlo todo.;Продать всё было безрассудством.
+C2;noun;el;sinsentido;;;;;бессмыслица;La guerra es un **sinsentido**.;Война — это бессмыслица.
+C2;noun;la;sandez;;;;;глупость, вздор;No digas **sandeces**, por favor.;Не говори глупостей, пожалуйста.
+C2;noun;la;memez;;;;;глупость;Eso es la mayor **memez** que he oído.;Это самая большая глупость, которую я слышал.
+C2;noun;la;majadería;;;;;глупость, чушь;Deja de decir **majaderías**.;Перестань нести чушь.
+C2;noun;el;disparate;;;;;нелепость, абсурд;Lo que has hecho es un **disparate**.;То, что ты сделал, — абсурд.
+C2;noun;el;embrollo;;;;;путаница, неразбериха;Me he metido en un buen **embrollo**.;Я влип в хорошую неразбериху.
+C2;noun;el;berenjenal;;;;;передряга, неразбериха;¿En qué **berenjenal** te has metido ahora?;В какую передрягу ты влип теперь?
+C2;noun;el;galimatías;;;;;галиматья, тарабарщина;Su explicación fue un auténtico **galimatías**.;Его объяснение было настоящей галиматьёй.
+C2;noun;el;batiburrillo;;;;;мешанина, неразбериха;El programa es un **batiburrillo** de ideas.;Программа — мешанина идей.
+C2;noun;el;maremágnum;;;;;столпотворение, сумятица;Me perdí en el **maremágnum** de la estación.;Я потерялся в столпотворении на вокзале.
+C2;noun;el;trajín;;;;;суета, беготня;Con tanto **trajín** no he podido llamarte.;Из-за такой суеты я не смог тебе позвонить.
+C2;noun;la;bulla;;;;;шум, гам;Los niños armaban mucha **bulla** en el patio.;Дети сильно шумели во дворе.
+C2;noun;la;batahola;;;;;гвалт, суматоха;Se armó una **batahola** tremenda en el mercado.;На рынке поднялся страшный гвалт.
+C2;noun;el;fragor;;;;;гул, грохот;Se oía el **fragor** de la batalla.;Был слышен грохот битвы.
+C2;noun;el;chirrido;;;;;скрип, скрежет;Me despertó el **chirrido** de los frenos.;Меня разбудил скрежет тормозов.
+C2;noun;el;crujido;;;;;хруст, скрип;Se oía el **crujido** de la madera vieja.;Слышался скрип старого дерева.
+C2;noun;el;chasquido;;;;;щелчок, треск;Oyó el **chasquido** de un látigo.;Он услышал щелчок кнута.
+C2;noun;el;zumbido;;;;;жужжание, гул;Tengo un **zumbido** en los oídos.;У меня звенит в ушах.
+C2;noun;el;bisbiseo;;;;;бормотание, шушуканье;El **bisbiseo** de las vecinas no cesaba.;Шушуканье соседок не прекращалось.
+C2;noun;el;gemido;;;;;стон;Desde la habitación llegaban **gemidos** de dolor.;Из комнаты доносились стоны боли.
+C2;noun;el;sollozo;;;;;рыдание, всхлип;Entre **sollozos** nos contó lo ocurrido.;Сквозь рыдания она рассказала нам, что случилось.
+C2;noun;el;alarido;;;;;вопль, крик;Lanzó un **alarido** de terror.;Он издал вопль ужаса.
+C2;noun;el;aullido;;;;;вой;Se oían los **aullidos** de los lobos.;Был слышен вой волков.
+C2;noun;el;graznido;;;;;карканье, гоготание;El **graznido** de los cuervos rompía el silencio.;Карканье воронов нарушало тишину.
+C2;noun;el;relincho;;;;;ржание;El caballo dio un **relincho** de miedo.;Лошадь испуганно заржала.
+C2;noun;el;balido;;;;;блеяние;Desde el corral llegaban **balidos** de ovejas.;Со скотного двора доносилось блеяние овец.
+C2;noun;el;mugido;;;;;мычание;Se oía el **mugido** de las vacas.;Было слышно мычание коров.
+C2;noun;el;rebuzno;;;;;ослиный рёв;El **rebuzno** del burro despertó a todos.;Рёв осла разбудил всех.
+C2;noun;el;gorjeo;;;;;щебет, трель;Me despierta el **gorjeo** de los pájaros.;Меня будит щебет птиц.
+C2;noun;el;trino;;;;;трель;Escuchábamos el **trino** del ruiseñor.;Мы слушали трель соловья.
+C2;noun;el;ronroneo;;;;;мурлыканье;El **ronroneo** del gato me relaja.;Мурлыканье кота меня успокаивает.
+C2;noun;el;tañido;;;;;звон (колоколов);Oímos el **tañido** de las campanas.;Мы услышали звон колоколов.
+C2;noun;el;repique;;;;;перезвон;El **repique** de campanas anunció la boda.;Перезвон колоколов возвестил о свадьбе.
+C2;noun;el;redoble;;;;;барабанная дробь;Hubo un **redoble** de tambor antes del salto.;Перед прыжком прозвучала барабанная дробь.
+C2;noun;el;tintineo;;;;;звон, позвякивание;Se oía el **tintineo** de las copas.;Слышался звон бокалов.
+C2;noun;el;centelleo;;;;;мерцание, сверкание;El **centelleo** de las estrellas era precioso.;Мерцание звёзд было прекрасным.
+C2;noun;el;fulgor;;;;;сияние, блеск;El **fulgor** del relámpago iluminó la casa.;Вспышка молнии осветила дом.
+C2;noun;la;lobreguez;-;;;;мрачность, темнота;Nos asustó la **lobreguez** del sótano.;Нас напугала мрачность подвала.
+C2;noun;la;tiniebla;;;;;мрак, тьма;Caminaban entre **tinieblas** sin ver nada.;Они шли во тьме, ничего не видя.
+C2;noun;el;tornasol;;;;;переливы цвета;La tela tenía reflejos de **tornasol**.;Ткань переливалась разными оттенками.
+C2;noun;el;vasallaje;-;;;;вассальная зависимость;Los nobles debían **vasallaje** al rey.;Дворяне находились в вассальной зависимости от короля.
+C2;noun;el;feudo;;;;;феод, вотчина;La ciudad es un **feudo** del partido conservador.;Город — вотчина консервативной партии.
+C2;noun;el;señorío;;;;;владение, власть, достоинство;El castillo era el centro del **señorío**.;Замок был центром владения.
+C2;noun;el;diezmo;;;;;десятина;Los campesinos pagaban el **diezmo** a la Iglesia.;Крестьяне платили церкви десятину.
+C2;noun;la;gleba;-;;;;крепостные (земля);Los siervos de la **gleba** no podían abandonar la tierra.;Крепостные не могли покинуть землю.
+C2;noun;el;hidalgo;;;;;идальго, дворянин;Don Quijote era un **hidalgo** de la Mancha.;Дон Кихот был идальго из Ламанчи.
+C2;noun;el;escudero;;;;;оруженосец;Sancho Panza fue el fiel **escudero** de don Quijote.;Санчо Панса был верным оруженосцем Дон Кихота.
+C2;noun;el;juglar;;;;;хуглар, странствующий певец;El **juglar** recitaba poemas en las plazas.;Хуглар декламировал стихи на площадях.
+C2;noun;el;trovador;;;;;трубадур;Los **trovadores** cantaban al amor cortés.;Трубадуры воспевали куртуазную любовь.
+C2;noun;el;bufón;;;;;шут;El **bufón** divertía al rey con sus bromas.;Шут развлекал короля своими шутками.
+C2;noun;el;heraldo;;;;;глашатай, вестник;Las golondrinas son **heraldos** de la primavera.;Ласточки — вестники весны.
+C2;noun;el;pregonero;;;;;глашатай;El **pregonero** leía los bandos del alcalde.;Глашатай зачитывал указы мэра.
+C2;noun;el;bando;;;;;указ, лагерь (сторона);Luchó en el **bando** republicano durante la guerra.;Во время войны он сражался на стороне республиканцев.
+C2;noun;la;mesnada;;;;;дружина, отряд;El Cid partió al destierro con su **mesnada**.;Сид отправился в изгнание со своей дружиной.
+C2;noun;la;hueste;;;;;войско, рать;Las **huestes** enemigas cruzaron el río.;Вражеское войско переправилось через реку.
+C2;noun;el;destierro;;;;;изгнание, ссылка;Pasó diez años en el **destierro**.;Он провёл десять лет в изгнании.
+C2;noun;el;ostracismo;-;;;;остракизм, забвение;Tras el escándalo cayó en el **ostracismo**.;После скандала он был предан забвению.
+C2;noun;la;proscripción;;;;;запрет, изгнание;Decretaron la **proscripción** del partido.;Был издан указ о запрете партии.
+C2;noun;la;abjuración;;;;;отречение (от веры);Le exigieron la **abjuración** de sus creencias.;От него потребовали отречься от своих убеждений.
+C2;noun;la;excomunión;;;;;отлучение от церкви;El Papa decretó su **excomunión**.;Папа объявил о его отлучении от церкви.
+C2;noun;el;anatema;;;;;анафема, проклятие;Hablar de subir impuestos es **anatema** para el partido.;Говорить о повышении налогов для партии — табу.
+C2;noun;la;indulgencia;;;;;снисходительность, индульгенция;Trata a sus nietos con excesiva **indulgencia**.;Он слишком снисходительно относится к внукам.
+C2;noun;la;contrición;-;;;;раскаяние;Mostró una sincera **contrición** por sus actos.;Он искренне раскаялся в своих поступках.
+C2;noun;la;hagiografía;;;;;житие, агиография;El libro es más una **hagiografía** que una biografía.;Книга скорее житие святого, чем биография.
+C2;noun;la;cofradía;;;;;братство;La **cofradía** organiza la procesión de Semana Santa.;Братство организует процессию Страстной недели.
+C2;noun;el;cenobio;;;;;монастырь, обитель;Los monjes vivían aislados en el **cenobio**.;Монахи жили уединённо в обители.
+C2;noun;el;eremita;;;;;отшельник;Vive como un **eremita** en la montaña.;Он живёт как отшельник в горах.
+C2;noun;el;anacoreta;;;;;анахорет, отшельник;Desde que se jubiló vive como un **anacoreta**.;С тех пор как он вышел на пенсию, живёт отшельником.
+C2;noun;el;prelado;;;;;прелат;Varios **prelados** asistieron a la ceremonia.;На церемонии присутствовали несколько прелатов.
+C2;noun;el;clérigo;;;;;священнослужитель;El **clérigo** bendijo a los fieles.;Священнослужитель благословил верующих.
+C2;noun;el;feligrés;;;;;прихожанин;El cura conoce a todos sus **feligreses**.;Священник знает всех своих прихожан.
+C2;noun;la;parroquia;;;;;приход;Se casaron en la **parroquia** del barrio.;Они обвенчались в приходской церкви квартала.
+C2;noun;la;sacristía;;;;;ризница;El cura se cambió en la **sacristía**.;Священник переоделся в ризнице.
+C2;noun;el;campanario;;;;;колокольня;Las cigüeñas anidan en el **campanario**.;Аисты гнездятся на колокольне.
+C2;noun;la;ermita;;;;;часовня, скит;Subimos andando a la **ermita** del monte.;Мы поднялись пешком к часовне на горе.
+C2;noun;la;romería;;;;;паломничество, народное гулянье;Todo el pueblo va a la **romería** en mayo.;В мае вся деревня отправляется на гулянье-паломничество.
+C2;noun;el;exvoto;;;;;приношение по обету;La ermita está llena de **exvotos** de cera.;Часовня полна восковых приношений по обету.
+C2;noun;el;sahumerio;;;;;курение благовоний, дым;El **sahumerio** de incienso llenaba la iglesia.;Дым ладана наполнял церковь.
+C2;noun;la;efigie;;;;;изображение, образ;Su **efigie** aparece en las monedas.;Его изображение есть на монетах.
+C2;noun;el;sepelio;;;;;погребение, похороны;El **sepelio** tendrá lugar mañana a las doce.;Погребение состоится завтра в двенадцать.
+C2;noun;el;deceso;;;;;кончина, смерть;La familia comunicó el **deceso** del actor.;Семья сообщила о кончине актёра.
+C2;noun;el;óbito;;;;;кончина;El certificado recoge la fecha del **óbito**.;В свидетельстве указана дата кончины.
+C2;noun;el;sepulcro;;;;;гробница, склеп;Visitamos el **sepulcro** de los reyes.;Мы посетили гробницу королей.
+C2;noun;el;panteón;;;;;пантеон, семейный склеп;Lo enterraron en el **panteón** familiar.;Его похоронили в семейном склепе.
+C2;noun;el;mausoleo;;;;;мавзолей;Construyeron un **mausoleo** para el emperador.;Для императора построили мавзолей.
+C2;noun;el;epitafio;;;;;эпитафия;En su **epitafio** se lee una frase de Cervantes.;На его надгробии написана фраза Сервантеса.
+C2;noun;el;cenotafio;;;;;кенотаф;Un **cenotafio** recuerda a los soldados desaparecidos.;Кенотаф напоминает о пропавших без вести солдатах.
+C2;noun;el;réquiem;;;;;реквием;El coro interpretó un **réquiem** de Mozart.;Хор исполнил реквием Моцарта.
+C2;noun;la;plañidera;;;;;плакальщица;Contrataban **plañideras** para llorar en los entierros.;На похороны нанимали плакальщиц.
+C2;noun;la;exequias;pl;;;;похороны, отпевание;Las **exequias** se celebraron en la catedral.;Отпевание прошло в соборе.
+C2;noun;la;desidia;-;;;;небрежность, лень, апатия;La **desidia** de las autoridades agravó el problema.;Небрежность властей усугубила проблему.
+C2;noun;la;entereza;-;;;;стойкость, твёрдость духа;Afrontó la enfermedad con admirable **entereza**.;Он встретил болезнь с поразительной стойкостью.
+C2;noun;la;templanza;-;;;;умеренность, сдержанность;La **templanza** es una virtud poco valorada hoy.;Умеренность — добродетель, которую сегодня мало ценят.
+C2;noun;la;parsimonia;-;;;;неторопливость, медлительность;Se sirvió el café con exasperante **parsimonia**.;Он наливал себе кофе с раздражающей неторопливостью.
+C2;noun;la;displicencia;-;;;;пренебрежение, холодность;Nos trató con una **displicencia** ofensiva.;Он обошёлся с нами с оскорбительным пренебрежением.
+C2;noun;la;altivez;-;;;;высокомерие, надменность;Respondió con **altivez** a las preguntas del periodista.;Он надменно ответил на вопросы журналиста.
+C2;noun;la;soberbia;-;;;;гордыня, высокомерие;Su **soberbia** le impidió reconocer el error.;Гордыня не позволила ему признать ошибку.
+C2;noun;la;vanagloria;-;;;;тщеславие, бахвальство;Lo hizo por pura **vanagloria**, no por altruismo.;Он сделал это из чистого тщеславия, а не из альтруизма.
+C2;noun;la;jactancia;-;;;;хвастовство, бахвальство;Habló de sus logros sin la menor **jactancia**.;Он говорил о своих достижениях без малейшего хвастовства.
+C2;noun;la;petulancia;-;;;;самонадеянность, заносчивость;Su **petulancia** irritaba a todos sus compañeros.;Его заносчивость раздражала всех коллег.
+C2;noun;la;fatuidad;-;;;;самодовольство, глупое тщеславие;La **fatuidad** de sus discursos era evidente.;Самодовольство его речей было очевидным.
+C2;noun;la;mezquindad;;;;;мелочность, подлость;No soporto la **mezquindad** de algunos políticos.;Я не выношу мелочности некоторых политиков.
+C2;noun;la;ruindad;;;;;низость, подлость;Aquella traición fue una **ruindad** imperdonable.;То предательство было непростительной подлостью.
+C2;noun;la;vileza;;;;;низость, гнусность;Nadie esperaba semejante **vileza** de su parte.;Никто не ожидал от него такой низости.
+C2;noun;la;felonía;;;;;вероломство, предательство;Lo acusaron de **felonía** contra su propio señor.;Его обвинили в вероломстве по отношению к собственному господину.
+C2;noun;la;alevosía;-;;;;коварство, умысел (юр.);El asesinato se cometió con **alevosía**.;Убийство было совершено с коварным умыслом.
+C2;noun;el;ensañamiento;-;;;;жестокость, особая жестокость;El tribunal apreció **ensañamiento** en el crimen.;Суд признал в преступлении особую жестокость.
+C2;noun;la;saña;-;;;;ярость, лютая злоба;Lo golpearon con una **saña** incomprensible.;Его избили с непостижимой злобой.
+C2;noun;el;encono;-;;;;злоба, ожесточение;El **encono** entre ambas familias duró décadas.;Ожесточение между двумя семьями длилось десятилетиями.
+C2;noun;la;inquina;-;;;;неприязнь, злоба;Le tiene **inquina** desde que perdió el puesto.;Он затаил на него злобу с тех пор, как потерял должность.
+C2;noun;la;ojeriza;-;;;;неприязнь, предубеждение;El profesor le tenía **ojeriza** a mi hermano.;Учитель недолюбливал моего брата.
+C2;noun;el;resquemor;;;;;горечь, затаённая обида;Aún guarda cierto **resquemor** por aquella discusión.;Он всё ещё таит некоторую обиду из-за того спора.
+C2;noun;la;congoja;;;;;тоска, скорбь, мука;Sintió una profunda **congoja** al despedirse.;Прощаясь, он почувствовал глубокую тоску.
+C2;noun;la;zozobra;;;;;тревога, беспокойство;Vivimos semanas de **zozobra** esperando noticias.;Мы прожили недели в тревоге в ожидании новостей.
+C2;noun;el;desasosiego;;;;;беспокойство, тревога;Un extraño **desasosiego** le impedía dormir.;Странное беспокойство не давало ему спать.
+C2;noun;la;desazón;;;;;беспокойство, досада;Aquella carta le dejó una gran **desazón**.;То письмо оставило у него сильное беспокойство.
+C2;noun;el;sosiego;-;;;;покой, безмятежность;Busca el **sosiego** del campo para escribir.;Он ищет деревенского покоя, чтобы писать.
+C2;noun;la;placidez;-;;;;безмятежность, спокойствие;Disfrutaba de la **placidez** de la tarde.;Он наслаждался безмятежностью вечера.
+C2;noun;la;añoranza;;;;;тоска, ностальгия;Siente **añoranza** de su tierra natal.;Он тоскует по родной земле.
+C2;noun;la;morriña;-;;;;тоска по родине;Los gallegos emigrados sufrían de **morriña**.;Галисийские эмигранты страдали от тоски по родине.
+C2;noun;el;hastío;-;;;;пресыщение, скука, отвращение;La rutina le producía un **hastío** insoportable.;Рутина вызывала у него невыносимую скуку.
+C2;noun;el;tedio;-;;;;скука, тоска;La conferencia era de un **tedio** mortal.;Лекция была смертельно скучной.
+C2;noun;el;desaliento;-;;;;уныние, упадок духа;No hay que dejarse vencer por el **desaliento**.;Нельзя поддаваться унынию.
+C2;noun;la;abulia;-;;;;безволие, апатия;Cayó en una **abulia** de la que no salía.;Он впал в апатию, из которой не мог выбраться.
+C2;noun;la;pesadumbre;-;;;;печаль, скорбь;Recibió la noticia con evidente **pesadumbre**.;Он встретил новость с явной печалью.
+C2;noun;la;aflicción;;;;;скорбь, горе;Compartimos la **aflicción** de la familia.;Мы разделяем скорбь семьи.
+C2;noun;la;consternación;-;;;;потрясение, смятение;La noticia causó **consternación** en todo el país.;Новость вызвала потрясение во всей стране.
+C2;noun;el;estupor;-;;;;оцепенение, изумление;Escuchamos sus palabras con **estupor**.;Мы слушали его слова в оцепенении.
+C2;noun;el;pasmo;-;;;;изумление, оторопь;Para **pasmo** de todos, aceptó la propuesta.;К изумлению всех, он принял предложение.
+C2;noun;el;embeleso;-;;;;восхищение, очарование;Los niños miraban el espectáculo con **embeleso**.;Дети смотрели представление с восхищением.
+C2;noun;el;arrobamiento;-;;;;экстаз, упоение;Escuchaba la música en pleno **arrobamiento**.;Он слушал музыку в полном упоении.
+C2;noun;el;regocijo;-;;;;ликование, веселье;La victoria fue recibida con gran **regocijo**.;Победу встретили с большим ликованием.
+C2;noun;el;júbilo;-;;;;ликование, восторг;El pueblo celebró con **júbilo** la independencia.;Народ с ликованием праздновал независимость.
+C2;noun;el;alborozo;-;;;;ликование, бурная радость;Los aficionados recibieron el gol con **alborozo**.;Болельщики встретили гол бурной радостью.
+C2;noun;la;algarabía;;;;;гам, галдёж;Desde la calle llegaba una alegre **algarabía**.;С улицы доносился весёлый гам.
+C2;noun;el;barullo;;;;;суматоха, неразбериха;Con tanto **barullo** no se oía nada.;В такой суматохе ничего не было слышно.
+C2;noun;el;guirigay;;;;;гвалт, неразбериха;La reunión acabó en un auténtico **guirigay**.;Собрание закончилось настоящим гвалтом.
+C2;noun;el;jolgorio;;;;;гулянье, веселье;El **jolgorio** duró hasta el amanecer.;Гулянье продолжалось до рассвета.
+C2;noun;la;francachela;;;;;пирушка, попойка;Tras el examen montaron una buena **francachela**.;После экзамена они устроили хорошую пирушку.
+C2;noun;el;sarao;;;;;вечеринка, праздник;Menudo **sarao** montaron en la boda.;Ну и праздник они устроили на свадьбе.
+C2;noun;el;ágape;;;;;банкет, угощение;Tras la ceremonia se ofreció un **ágape** a los invitados.;После церемонии гостям предложили угощение.
+C2;noun;el;convite;;;;;угощение, пиршество;Nos invitaron a un **convite** tras el bautizo.;После крестин нас пригласили на угощение.
+C2;noun;el;festín;;;;;пир, пиршество;Aquella cena fue un verdadero **festín**.;Тот ужин был настоящим пиром.
+C2;noun;la;bacanal;;;;;вакханалия, оргия;La fiesta degeneró en una **bacanal**.;Вечеринка выродилась в вакханалию.
+C2;noun;la;gula;-;;;;чревоугодие, обжорство;La **gula** es uno de los siete pecados capitales.;Чревоугодие — один из семи смертных грехов.
+C2;noun;la;glotonería;-;;;;обжорство;Comió por pura **glotonería**, sin tener hambre.;Он ел из чистого обжорства, не будучи голодным.
+C2;noun;la;lujuria;-;;;;похоть, сладострастие;El sermón condenaba la **lujuria** y la avaricia.;Проповедь осуждала похоть и алчность.
+C2;noun;la;codicia;-;;;;алчность, жадность;La **codicia** de los bancos provocó la crisis.;Алчность банков спровоцировала кризис.
+C2;noun;la;avaricia;-;;;;скупость, алчность;Su **avaricia** no tenía límites.;Его скупость не знала границ.
+C2;noun;la;tacañería;-;;;;скупость, жадность;Su **tacañería** era famosa en todo el barrio.;Его скупость была известна на весь район.
+C2;noun;la;prodigalidad;-;;;;расточительность, щедрость;Gastaba con una **prodigalidad** escandalosa.;Он тратил деньги со скандальной расточительностью.
+C2;noun;el;dispendio;;;;;растрата, чрезмерные расходы;El **dispendio** en la boda fue escandaloso.;Траты на свадьбу были скандальными.
+C2;noun;la;dilapidación;;;;;растрата, расточение;Lo acusan de **dilapidación** del patrimonio familiar.;Его обвиняют в растрате семейного состояния.
+C2;noun;el;chanchullo;;;;;махинация, афера;Descubrieron un **chanchullo** en las cuentas del club.;В счетах клуба обнаружили махинацию.
+C2;noun;el;amaño;;;;;подтасовка, махинация;Investigan el **amaño** de varios partidos de fútbol.;Расследуют договорные махинации в нескольких футбольных матчах.
+C2;noun;el;tejemaneje;;;;;интриги, тёмные делишки;No me gustan los **tejemanejes** de la directiva.;Мне не нравятся интриги руководства.
+C2;noun;la;componenda;;;;;сделка (тёмная), сговор;Todo se decidió mediante una **componenda** política.;Всё решилось путём политического сговора.
+C2;noun;la;connivencia;-;;;;попустительство, сговор;Actuaron con la **connivencia** de la policía.;Они действовали при попустительстве полиции.
+C2;noun;el;contubernio;;;;;сговор, заговор;Denunció un **contubernio** entre empresarios y políticos.;Он разоблачил сговор между предпринимателями и политиками.
+C2;noun;la;confabulación;;;;;заговор, сговор;Creía ser víctima de una **confabulación**.;Он считал себя жертвой заговора.
+C2;noun;la;intriga;;;;;интрига, козни;La corte estaba llena de **intrigas** y traiciones.;Двор был полон интриг и предательств.
+C2;noun;la;artimaña;;;;;уловка, хитрость;Usó todas sus **artimañas** para convencerla.;Он пустил в ход все свои уловки, чтобы убедить её.
+C2;noun;el;ardid;;;;;хитрость, уловка;Ganaron la batalla gracias a un ingenioso **ardid**.;Они выиграли битву благодаря хитроумной уловке.
+C2;noun;la;añagaza;;;;;приманка, уловка;No caigas en esa **añagaza** tan burda.;Не попадайся на эту грубую уловку.
+C2;noun;la;patraña;;;;;выдумка, враньё;Todo lo que contó era una **patraña**.;Всё, что он рассказал, было враньём.
+C2;noun;el;embuste;;;;;ложь, обман;No creas sus **embustes**.;Не верь его вранью.
+C2;noun;el;sofisma;;;;;софизм;Ese razonamiento no es más que un **sofisma**.;Это рассуждение — не более чем софизм.
+C2;noun;el;subterfugio;;;;;увёртка, отговорка;Buscó un **subterfugio** para no pagar la deuda.;Он искал увёртку, чтобы не платить долг.
+C2;noun;la;evasiva;;;;;уклончивый ответ, отговорка;Respondió con **evasivas** a todas las preguntas.;На все вопросы он отвечал уклончиво.
+C2;noun;el;circunloquio;;;;;околичности, иносказание;Déjate de **circunloquios** y dime la verdad.;Хватит ходить вокруг да около, скажи мне правду.
+C2;noun;el;eufemismo;;;;;эвфемизм;"""Reajuste"" es un **eufemismo** para decir despidos.";«Корректировка» — это эвфемизм для увольнений.
+C2;noun;la;perífrasis;;;;;перифраз, описательное выражение;El autor abusa de la **perífrasis**.;Автор злоупотребляет перифразами.
+C2;noun;la;hipérbole;;;;;гипербола, преувеличение;Decir que esperó un siglo es una **hipérbole**.;Сказать, что он ждал целый век, — гипербола.
+C2;noun;la;aporía;;;;;апория, неразрешимое противоречие;El filósofo planteó una **aporía** sin solución aparente.;Философ сформулировал апорию без видимого решения.
+C2;noun;el;oxímoron;;;;;оксюморон;"""Silencio atronador"" es un **oxímoron** clásico.";«Оглушительная тишина» — классический оксюморон.
+C2;noun;la;tautología;;;;;тавтология;"Decir ""subir arriba"" es una **tautología**.";Сказать «подняться наверх» — тавтология.
+C2;noun;la;disquisición;;;;;рассуждение, отступление;Se perdió en largas **disquisiciones** filosóficas.;Он погрузился в долгие философские рассуждения.
+C2;noun;la;elucubración;;;;;умствование, домыслы;Eso son meras **elucubraciones** sin fundamento.;Это лишь беспочвенные домыслы.
+C2;noun;la;entelequia;;;;;химера, нечто нереальное;La paz perpetua parecía una **entelequia**.;Вечный мир казался химерой.
+C2;noun;la;quimera;;;;;химера, несбыточная мечта;Persiguió durante años una **quimera**.;Годами он гнался за несбыточной мечтой.
+C2;noun;la;utopía;;;;;утопия;Para muchos, la igualdad total es una **utopía**.;Для многих полное равенство — утопия.
+C2;noun;el;espejismo;;;;;мираж, иллюзия;La prosperidad resultó ser un **espejismo**.;Процветание оказалось миражом.
+C2;noun;el;entresijo;;;;;подоплёка, тонкости;Conoce todos los **entresijos** de la política local.;Он знает все тонкости местной политики.
+C2;noun;el;vericueto;;;;;закоулок, хитросплетение;Se perdió en los **vericuetos** de la burocracia.;Он заблудился в хитросплетениях бюрократии.
+C2;noun;el;recoveco;;;;;закоулок, изгиб, тайник души;Conocía cada **recoveco** del viejo castillo.;Он знал каждый закоулок старого замка.
+C2;noun;el;meollo;;;;;суть, сердцевина;Vayamos al **meollo** de la cuestión.;Перейдём к сути вопроса.
+C2;noun;la;enjundia;-;;;;содержательность, суть;Es un libro breve pero de mucha **enjundia**.;Это короткая, но очень содержательная книга.
+C2;noun;la;quintaesencia;-;;;;квинтэссенция, суть;Ese plato es la **quintaesencia** de la cocina andaluza.;Это блюдо — квинтэссенция андалусской кухни.
+C2;noun;el;quid;-;;;;суть, загвоздка;Ahí está el **quid** de la cuestión.;Вот в чём суть вопроса.
+C2;noun;el;intríngulis;;;;;загвоздка, подвох, суть;El **intríngulis** del asunto es quién paga.;Загвоздка в том, кто будет платить.
+C2;noun;el;busilis;-;;;;загвоздка, суть;Ahí está el **busilis** del problema.;Вот в чём загвоздка.
+C2;noun;el;atisbo;;;;;проблеск, признак;No hay ni un **atisbo** de mejora.;Нет ни малейшего проблеска улучшения.
+C2;noun;el;vislumbre;;;;;проблеск, отблеск;Se percibía un **vislumbre** de esperanza.;Ощущался проблеск надежды.
+C2;noun;el;ápice;;;;;капля, йота (ни на йоту);No cedió ni un **ápice** en la negociación.;Он не уступил ни на йоту в переговорах.
+C2;noun;el;vestigio;;;;;след, остаток;Quedan pocos **vestigios** de la antigua muralla.;От древней стены осталось мало следов.
+C2;noun;el;rescoldo;;;;;тлеющие угли, остаток (чувства);Aún quedaba algún **rescoldo** de su antiguo amor.;Ещё тлели остатки его былой любви.
+C2;noun;el;remanente;;;;;остаток, излишек;El **remanente** del presupuesto se destinará a becas.;Остаток бюджета будет направлен на стипендии.
+C2;noun;el;excedente;;;;;излишек, избыток;Exportan el **excedente** de la producción de trigo.;Излишек пшеницы экспортируют.
+C2;noun;la;plétora;-;;;;избыток, изобилие;Hay una **plétora** de ofertas en el mercado.;На рынке избыток предложений.
+C2;noun;la;profusión;-;;;;обилие, изобилие;El texto incluye una **profusión** de detalles.;Текст содержит обилие подробностей.
+C2;noun;la;pléyade;;;;;плеяда;Una **pléyade** de artistas asistió al estreno.;На премьере присутствовала плеяда артистов.
+C2;noun;la;caterva;;;;;толпа, сборище;Llegó acompañado de una **caterva** de aduladores.;Он пришёл в сопровождении толпы подхалимов.
+C2;noun;la;retahíla;;;;;вереница, длинный перечень;Soltó una **retahíla** de excusas.;Он выдал целую вереницу оправданий.
+C2;noun;la;sarta;;;;;вереница, куча (глупостей);Eso es una **sarta** de mentiras.;Это куча лжи.
+C2;noun;la;ristra;;;;;связка, вереница;Colgaron una **ristra** de ajos en la cocina.;На кухне повесили связку чеснока.
+C2;noun;el;sinfín;-;;;;бесчисленное множество;Hay un **sinfín** de razones para quedarse.;Есть бесчисленное множество причин остаться.
+C2;noun;el;cúmulo;;;;;скопление, стечение;Fue un **cúmulo** de circunstancias desafortunadas.;Это было стечение неудачных обстоятельств.
+C2;noun;el;legado;;;;;наследие;El **legado** de Cervantes sigue vivo.;Наследие Сервантеса живо до сих пор.
+C2;noun;el;abolengo;-;;;;знатное происхождение, род;Procede de una familia de rancio **abolengo**.;Он происходит из старинного знатного рода.
+C2;noun;la;alcurnia;-;;;;знатность, родовитость;Se casó con una dama de alta **alcurnia**.;Он женился на даме знатного рода.
+C2;noun;el;linaje;;;;;род, родословная;Presumía de su **linaje** aristocrático.;Он хвастался своим аристократическим родом.
+C2;noun;la;estirpe;;;;;род, порода;Era el último de una **estirpe** de marinos.;Он был последним из рода моряков.
+C2;noun;la;prosapia;-;;;;родословная, знатность;Una familia de mucha **prosapia** y poco dinero.;Семья с богатой родословной и малыми деньгами.
+C2;noun;el;vástago;;;;;отпрыск, потомок;Es el único **vástago** de una familia noble.;Он единственный отпрыск знатной семьи.
+C2;noun;el;primogénito;;;;;первенец;El **primogénito** heredó todo el patrimonio.;Первенец унаследовал всё состояние.
+C2;noun;el;benjamín;;;;;младший ребёнок, младшенький;Pablo es el **benjamín** de la familia.;Пабло — младший в семье.
+C2;noun;el;progenitor;;;;;родитель, прародитель;Ambos **progenitores** deben firmar la autorización.;Оба родителя должны подписать разрешение.
+C2;noun;la;prole;-;;;;потомство, дети;Llegó con toda su **prole** a la fiesta.;Он пришёл на праздник со всем своим потомством.
+C2;noun;el;parentesco;;;;;родство;No existe **parentesco** entre ellos.;Между ними нет родства.
+C2;noun;el;consuegro;;;;;сват;Mi padre se lleva muy bien con su **consuegro**.;Мой отец прекрасно ладит со своим сватом.
+C2;noun;el;hijastro;;;;;пасынок;Trata a su **hijastro** como a un hijo propio.;Он относится к пасынку как к родному сыну.
+C2;noun;el;fideicomiso;;;;;доверительное управление, траст;Los bienes quedaron en **fideicomiso** para los niños.;Имущество передали в доверительное управление в пользу детей.
+C2;noun;la;enajenación;;;;;отчуждение, помешательство;Alegó **enajenación** mental transitoria.;Он сослался на временное помешательство.
+C2;noun;el;dictamen;;;;;заключение, вердикт;Esperamos el **dictamen** de los expertos.;Мы ждём заключения экспертов.
+C2;noun;el;sobreseimiento;;;;;прекращение дела;El juez acordó el **sobreseimiento** de la causa.;Судья постановил прекратить дело.
+C2;noun;el;agravio;;;;;обида, оскорбление, ущерб;Consideró la decisión un **agravio** personal.;Он счёл это решение личным оскорблением.
+C2;noun;el;desagravio;;;;;возмещение, удовлетворение (за обиду);Exigió un acto público de **desagravio**.;Он потребовал публичного извинения.
+C2;noun;el;resarcimiento;;;;;возмещение (ущерба);Reclaman el **resarcimiento** de los daños.;Они требуют возмещения ущерба.
+C2;noun;el;impago;;;;;неуплата;Lo demandaron por **impago** del alquiler.;На него подали в суд за неуплату аренды.
+C2;noun;el;moroso;;;;;должник, неплательщик;Su nombre figura en la lista de **morosos**.;Его имя значится в списке неплательщиков.
+C2;noun;la;dádiva;;;;;подарок, подношение;No aceptaba **dádivas** de nadie.;Он ни от кого не принимал подношений.
+C2;noun;la;prebenda;;;;;синекура, привилегия;Obtuvo el cargo como **prebenda** política.;Он получил должность как политическую синекуру.
+C2;noun;la;canonjía;;;;;синекура, тёплое местечко;Ese puesto es una **canonjía** bien pagada.;Эта должность — хорошо оплачиваемое тёплое местечко.
+C2;noun;la;sinecura;;;;;синекура;Consiguió una **sinecura** en el ministerio.;Он получил синекуру в министерстве.
+C2;noun;el;cacique;;;;;местный воротила, касик;El **cacique** del pueblo controlaba los votos.;Местный воротила контролировал голоса избирателей.
+C2;noun;el;prócer;;;;;выдающийся деятель, герой нации;Una estatua honra al **prócer** de la independencia.;Статуя чтит героя борьбы за независимость.
+C2;noun;el;caudillo;;;;;вождь, каудильо;El **caudillo** gobernó el país con mano de hierro.;Вождь правил страной железной рукой.
+C2;noun;el;déspota;;;;;деспот;Se comportaba como un **déspota** con sus empleados.;Он вёл себя со своими сотрудниками как деспот.
+C2;noun;el;sátrapa;;;;;сатрап, тиран;Aquel gobernador era un auténtico **sátrapa**.;Тот губернатор был настоящим сатрапом.
+C2;noun;el;valido;;;;;фаворит (короля);El duque de Lerma fue **valido** de Felipe III.;Герцог Лерма был фаворитом Филиппа III.
+C2;noun;el;acólito;;;;;приспешник, служка;Llegó rodeado de sus fieles **acólitos**.;Он прибыл в окружении верных приспешников.
+C2;noun;el;secuaz;;;;;приспешник, сообщник;El jefe y sus **secuaces** fueron detenidos.;Главарь и его приспешники были задержаны.
+C2;noun;el;esbirro;;;;;наёмник, приспешник;Los **esbirros** del dictador sembraban el terror.;Приспешники диктатора сеяли террор.
+C2;noun;el;lacayo;;;;;лакей, прислужник;No quiero ser el **lacayo** de nadie.;Я не хочу быть ничьим лакеем.
+C2;noun;el;adulador;;;;;льстец, подхалим;Estaba rodeado de **aduladores**.;Он был окружён льстецами.
+C2;noun;la;lisonja;;;;;лесть, комплимент;No se dejaba engañar por **lisonjas**.;Его не обманывала лесть.
+C2;noun;la;zalamería;;;;;заискивание, лесть;Con **zalamerías** consiguió lo que quería.;Ласковой лестью она добилась своего.
+C2;noun;el;halago;;;;;похвала, лесть;Recibió el **halago** con modestia.;Он принял похвалу со скромностью.
+C2;noun;el;vituperio;;;;;брань, поношение;Fue objeto de toda clase de **vituperios**.;Он подвергся всевозможным поношениям.
+C2;noun;el;improperio;;;;;брань, ругательство;Le lanzó una sarta de **improperios**.;Он осыпал его потоком ругательств.
+C2;noun;el;denuesto;;;;;оскорбление, поношение;Soportó los **denuestos** sin responder.;Он сносил оскорбления, не отвечая.
+C2;noun;el;exabrupto;;;;;резкость, грубая выходка;Su **exabrupto** sorprendió a todos los presentes.;Его резкая выходка удивила всех присутствующих.
+C2;noun;la;diatriba;;;;;гневная речь, обличение;Pronunció una dura **diatriba** contra el gobierno.;Он произнёс резкую обличительную речь против правительства.
+C2;noun;la;invectiva;;;;;инвектива, резкий выпад;Sus columnas estaban llenas de **invectivas**.;Его колонки были полны резких выпадов.
+C2;noun;la;filípica;;;;;гневная отповедь, нотация;El jefe nos soltó una **filípica** por el retraso.;Начальник устроил нам разнос за опоздание.
+C2;noun;la;reprimenda;;;;;выговор, нагоняй;Recibió una severa **reprimenda** de su padre.;Он получил суровый выговор от отца.
+C2;noun;el;rapapolvo;;;;;взбучка, нагоняй;Menudo **rapapolvo** le echó la profesora.;Ну и взбучку устроила ему учительница.
+C2;noun;la;amonestación;;;;;предупреждение, замечание;El árbitro le mostró una **amonestación**.;Судья вынес ему предупреждение.
+C2;noun;el;despeñadero;;;;;обрыв, пропасть;El coche cayó por un **despeñadero**.;Машина упала в пропасть.
+C2;noun;el;barranco;;;;;овраг, ущелье;Las lluvias inundaron el **barranco**.;Дожди затопили овраг.
+C2;noun;la;hondonada;;;;;низина, лощина;El pueblo se asienta en una **hondonada**.;Деревня расположена в низине.
+C2;noun;el;desfiladero;;;;;ущелье, теснина;El camino atraviesa un estrecho **desfiladero**.;Дорога проходит через узкое ущелье.
+C2;noun;la;quebrada;;;;;ущелье, расщелина;Bajamos por la **quebrada** hasta el río.;Мы спустились по ущелью к реке.
+C2;noun;la;sima;;;;;пропасть, бездна;Los espeleólogos exploraron una **sima** profunda.;Спелеологи исследовали глубокую пропасть.
+C2;noun;el;abismo;;;;;бездна, пропасть;Hay un **abismo** entre ricos y pobres.;Между богатыми и бедными — пропасть.
+C2;noun;la;oquedad;;;;;впадина, полость;El agua se acumula en las **oquedades** de la roca.;Вода скапливается во впадинах скалы.
+C2;noun;la;hendidura;;;;;трещина, расщелина;Una planta crecía en la **hendidura** del muro.;В трещине стены росло растение.
+C2;noun;la;grieta;;;;;трещина;Han aparecido **grietas** en la pared del salón.;На стене гостиной появились трещины.
+C2;noun;el;ribazo;;;;;откос, насыпь;Nos sentamos en el **ribazo** junto al camino.;Мы сели на откос у дороги.
+C2;noun;la;loma;;;;;пригорок, холм;Desde la **loma** se veía todo el valle.;С пригорка была видна вся долина.
+C2;noun;el;altozano;;;;;холм, возвышенность;La ermita se alza en un **altozano**.;Часовня стоит на возвышенности.
+C2;noun;el;páramo;;;;;пустошь, плоскогорье;Cruzaron un **páramo** frío y desolado.;Они пересекли холодную пустынную равнину.
+C2;noun;el;yermo;;;;;пустошь, необработанная земля;Aquella tierra era un **yermo** sin vida.;Та земля была безжизненной пустошью.
+C2;noun;el;erial;;;;;пустошь, залежь;Convirtieron el **erial** en un huerto fértil.;Они превратили пустошь в плодородный огород.
+C2;noun;el;baldío;;;;;пустырь;Los niños jugaban al fútbol en un **baldío**.;Дети играли в футбол на пустыре.
+C2;noun;el;marjal;;;;;болотистая низина;Las aves anidan en el **marjal**.;Птицы гнездятся на болотистой низине.
+C2;noun;la;ciénaga;;;;;топь, трясина;El caballo se hundió en la **ciénaga**.;Лошадь увязла в трясине.
+C2;noun;el;lodazal;;;;;грязь, топкое место;La lluvia convirtió el camino en un **lodazal**.;Дождь превратил дорогу в грязное месиво.
+C2;noun;el;fango;-;;;;грязь, ил;Las botas se quedaron atrapadas en el **fango**.;Сапоги застряли в грязи.
+C2;noun;el;cieno;-;;;;ил, тина;El fondo del estanque está lleno de **cieno**.;Дно пруда покрыто илом.
+C2;noun;el;limo;-;;;;ил;El río deposita **limo** en las orillas.;Река откладывает ил на берегах.
+C2;noun;el;remanso;;;;;заводь, тихий уголок;El molino es un **remanso** de paz.;Мельница — тихий уголок покоя.
+C2;noun;el;meandro;;;;;излучина, меандр;El río forma un amplio **meandro** junto al pueblo.;Река образует широкую излучину у деревни.
+C2;noun;el;afluente;;;;;приток;El Jarama es un **afluente** del Tajo.;Харама — приток Тахо.
+C2;noun;el;estuario;;;;;эстуарий, устье;El **estuario** es rico en especies marinas.;Эстуарий богат морскими видами.
+C2;noun;el;venero;;;;;источник, жила;Este archivo es un **venero** de información.;Этот архив — источник ценной информации.
+C2;noun;la;escorrentía;;;;;сток, поверхностный сток;La **escorrentía** arrastra la tierra fértil.;Поверхностный сток уносит плодородную почву.
+C2;noun;el;aguacero;;;;;ливень;Nos sorprendió un **aguacero** de camino a casa.;По дороге домой нас застал ливень.
+C2;noun;el;chaparrón;;;;;ливень (короткий);Cayó un **chaparrón** y luego salió el sol.;Пролился ливень, а потом выглянуло солнце.
+C2;noun;la;llovizna;;;;;морось;Una fina **llovizna** caía sobre la ciudad.;Над городом моросил мелкий дождь.
+C2;noun;la;ventisca;;;;;метель, вьюга;La **ventisca** nos obligó a volver al refugio.;Метель вынудила нас вернуться в приют.
+C2;noun;la;escarcha;-;;;;иней;Por la mañana los coches estaban cubiertos de **escarcha**.;Утром машины были покрыты инеем.
+C2;noun;la;calima;-;;;;мгла, пыльная дымка;La **calima** cubría el cielo de Canarias.;Пыльная мгла затянула небо Канар.
+C2;noun;la;canícula;;;;;самый жаркий период лета, зной;Durante la **canícula** nadie sale a la calle.;В самую жару никто не выходит на улицу.
+C2;noun;el;bochorno;;;;;духота, стыд;Hace un **bochorno** insoportable esta tarde.;Сегодня днём невыносимая духота.
+C2;noun;el;relente;-;;;;ночная сырость;Ponte una chaqueta, que cae el **relente**.;Надень куртку, наступает ночная сырость.
+C2;noun;el;rocío;-;;;;роса;Las flores amanecieron cubiertas de **rocío**.;Цветы утром были покрыты росой.
+C2;noun;el;crepúsculo;;;;;сумерки;Paseamos por la playa al **crepúsculo**.;Мы гуляли по пляжу в сумерках.
+C2;noun;el;ocaso;;;;;закат, упадок;Aquella derrota marcó el **ocaso** del imperio.;То поражение ознаменовало закат империи.
+C2;noun;el;albor;;;;;рассвет, начало;Esto ocurrió en los **albores** del siglo XX.;Это случилось на заре XX века.
+C2;noun;el;alba;;;;;рассвет, заря;Partieron al **alba** hacia la montaña.;На рассвете они отправились в горы.
+C2;noun;el;arrebol;;;;;багрянец (зари), румянец;El cielo se tiñó de **arrebol** al atardecer.;На закате небо окрасилось багрянцем.
+C2;noun;el;plenilunio;;;;;полнолуние;Las mareas son más fuertes en el **plenilunio**.;В полнолуние приливы сильнее.
+C2;noun;el;solsticio;;;;;солнцестояние;El **solsticio** de verano es el 21 de junio.;Летнее солнцестояние — 21 июня.
+C2;noun;el;equinoccio;;;;;равноденствие;En el **equinoccio** el día y la noche duran igual.;В равноденствие день и ночь равны.
+C2;noun;el;firmamento;-;;;;небосвод;Miles de estrellas brillaban en el **firmamento**.;Тысячи звёзд сияли на небосводе.
+C2;noun;la;bóveda;;;;;свод;La **bóveda** de la catedral es impresionante.;Свод собора впечатляет.
+C2;noun;el;cenit;-;;;;зенит;El sol estaba en el **cenit**.;Солнце было в зените.
+C2;noun;el;nadir;-;;;;надир, низшая точка;Su carrera tocó el **nadir** aquel año.;В тот год его карьера достигла низшей точки.
+C2;noun;el;apogeo;-;;;;апогей, расцвет;La ciudad vivió su **apogeo** en el siglo XVI.;Город пережил свой расцвет в XVI веке.
+C2;noun;el;padecimiento;;;;;страдание, болезнь;Su **padecimiento** se prolongó durante meses.;Его страдания длились месяцами.
+C2;noun;el;desvanecimiento;;;;;обморок;Sufrió un **desvanecimiento** por el calor.;Из-за жары он упал в обморок.
+C2;noun;el;soponcio;;;;;обморок (разг.), потрясение;Casi le da un **soponcio** al ver la factura.;Его чуть удар не хватил, когда он увидел счёт.
+C2;noun;el;vahído;;;;;головокружение, дурнота;Sintió un **vahído** y tuvo que sentarse.;У него закружилась голова, и ему пришлось сесть.
+C2;noun;el;sopor;-;;;;сонливость, оцепенение;Después de comer me entra un **sopor** terrible.;После еды на меня нападает ужасная сонливость.
+C2;noun;la;modorra;-;;;;дремота, сонливость;El calor de la siesta provoca **modorra**.;Послеобеденная жара навевает дремоту.
+C2;noun;el;letargo;;;;;летаргия, спячка, оцепенение;La economía salió por fin de su **letargo**.;Экономика наконец вышла из спячки.
+C2;noun;la;pesadilla;;;;;кошмар;El viaje se convirtió en una **pesadilla**.;Поездка превратилась в кошмар.
+C2;noun;la;magulladura;;;;;ушиб, синяк;Salió del accidente con algunas **magulladuras**.;Он отделался в аварии несколькими ушибами.
+C2;noun;el;rasguño;;;;;царапина;Solo tiene un par de **rasguños**.;У него всего пара царапин.
+C2;noun;la;llaga;;;;;язва, рана;Tenía **llagas** en la boca.;У него были язвочки во рту.
+C2;noun;el;callo;;;;;мозоль;Tiene **callos** en las manos de trabajar.;У него мозоли на руках от работы.
+C2;noun;la;tumefacción;;;;;опухоль, припухлость;La **tumefacción** de la rodilla no disminuye.;Припухлость колена не спадает.
+C2;noun;el;flemón;;;;;флюс;Tengo un **flemón** y no puedo comer.;У меня флюс, и я не могу есть.
+C2;noun;el;orzuelo;;;;;ячмень (на глазу);Me ha salido un **orzuelo** en el ojo.;У меня на глазу вскочил ячмень.
+C2;noun;la;tortícolis;;;;;кривошея, защемление шеи;Me levanté con **tortícolis**.;Я проснулся с защемлённой шеей.
+C2;noun;el;lumbago;;;;;люмбаго, прострел;El **lumbago** no me deja ni agacharme.;Из-за прострела я не могу даже нагнуться.
+C2;noun;la;luxación;;;;;вывих;El médico le colocó la **luxación** del hombro.;Врач вправил ему вывих плеча.
+C2;noun;la;escayola;;;;;гипс (повязка);Llevó la pierna en **escayola** un mes.;Он месяц ходил с ногой в гипсе.
+C2;noun;la;muleta;;;;;костыль;Tuvo que andar con **muletas** varias semanas.;Несколько недель ему пришлось ходить на костылях.
+C2;noun;la;dentadura;;;;;зубы, зубной протез;Mi abuela lleva **dentadura** postiza.;Моя бабушка носит зубной протез.
+C2;noun;la;encía;;;;;десна;Me sangran las **encías** al cepillarme.;У меня кровоточат дёсны, когда я чищу зубы.
+C2;noun;el;paladar;;;;;нёбо, вкус;Este vino tiene un sabor agradable al **paladar**.;У этого вина приятный вкус.
+C2;noun;la;nuca;;;;;затылок;Recibió un golpe en la **nuca**.;Он получил удар по затылку.
+C2;noun;la;sien;;;;;висок;Tenía canas en las **sienes**.;У него была седина на висках.
+C2;noun;el;pómulo;;;;;скула;Tiene los **pómulos** muy marcados.;У неё очень выраженные скулы.
+C2;noun;el;entrecejo;;;;;переносица, межбровье;Frunció el **entrecejo** con disgusto.;Он недовольно нахмурил брови.
+C2;noun;el;párpado;;;;;веко;Le pesaban los **párpados** de sueño.;От сонливости у него слипались веки.
+C2;noun;la;axila;;;;;подмышка;El termómetro se pone en la **axila**.;Градусник ставят под мышку.
+C2;noun;el;sobaco;;;;;подмышка (разг.);Llevaba el periódico bajo el **sobaco**.;Он нёс газету под мышкой.
+C2;noun;la;ingle;;;;;пах;Sintió un tirón en la **ingle**.;Он почувствовал растяжение в паху.
+C2;noun;la;pantorrilla;;;;;икра (ноги);Me dio un calambre en la **pantorrilla**.;У меня свело икру.
+C2;noun;la;corva;;;;;подколенная впадина;Le dolía la **corva** al flexionar la pierna.;У него болело под коленом, когда он сгибал ногу.
+C2;noun;el;talón;;;;;пятка;Me hacen daño los zapatos en el **talón**.;Туфли натирают мне пятку.
+C2;noun;el;empeine;;;;;подъём (стопы);Golpeó el balón con el **empeine**.;Он ударил по мячу подъёмом стопы.
+C2;noun;la;yema;;;;;подушечка пальца, желток;Tocó la tela con la **yema** de los dedos.;Он коснулся ткани кончиками пальцев.
+C2;noun;el;nudillo;;;;;костяшка пальца;Llamó a la puerta con los **nudillos**.;Он постучал в дверь костяшками пальцев.
+C2;noun;la;falange;;;;;фаланга;Se rompió una **falange** del dedo índice.;Он сломал фалангу указательного пальца.
+C2;noun;la;clavícula;;;;;ключица;Se fracturó la **clavícula** en una caída.;Он сломал ключицу при падении.
+C2;noun;el;omóplato;;;;;лопатка;Me duele justo debajo del **omóplato**.;У меня болит прямо под лопаткой.
+C2;noun;la;rótula;;;;;коленная чашечка;Se lesionó la **rótula** esquiando.;Он повредил коленную чашечку, катаясь на лыжах.
+C2;noun;el;tuétano;-;;;;костный мозг, суть;Estaba mojado hasta los **tuétanos**.;Он промок до мозга костей.
+C2;noun;la;médula;;;;;мозг (костный, спинной);Necesita un trasplante de **médula** ósea.;Ему нужна пересадка костного мозга.
+C2;noun;el;páncreas;;;;;поджелудочная железа;El **páncreas** produce insulina.;Поджелудочная железа вырабатывает инсулин.
+C2;noun;la;cornisa;;;;;карниз;Una paloma se posó en la **cornisa**.;На карниз сел голубь.
+C2;noun;el;alféizar;;;;;подоконник;Dejó la tarta enfriándose en el **alféizar**.;Она оставила торт остывать на подоконнике.
+C2;noun;el;dintel;;;;;перемычка (над дверью);Tuvo que agacharse para no darse con el **dintel**.;Ему пришлось пригнуться, чтобы не удариться о притолоку.
+C2;noun;el;umbral;;;;;порог;Se quedó parado en el **umbral** de la puerta.;Он застыл на пороге.
+C2;noun;el;zaguán;;;;;прихожая, вестибюль;Esperamos en el **zaguán** a que dejara de llover.;Мы ждали в прихожей, пока не прекратится дождь.
+C2;noun;el;vestíbulo;;;;;вестибюль, холл;Nos citamos en el **vestíbulo** del hotel.;Мы договорились встретиться в холле отеля.
+C2;noun;la;buhardilla;;;;;мансарда;Vivía en una **buhardilla** llena de libros.;Он жил в мансарде, полной книг.
+C2;noun;el;desván;;;;;чердак;Guardamos los trastos viejos en el **desván**.;Мы храним старый хлам на чердаке.
+C2;noun;la;bodega;;;;;винный погреб, винодельня;Visitamos una **bodega** en La Rioja.;Мы посетили винодельню в Риохе.
+C2;noun;la;alacena;;;;;стенной шкаф, буфет;Las conservas están en la **alacena**.;Консервы в стенном шкафу.
+C2;noun;el;cobertizo;;;;;навес, сарай;Guardaba las herramientas en el **cobertizo**.;Он хранил инструменты в сарае.
+C2;noun;el;tabique;;;;;перегородка;Tiraron el **tabique** para ampliar el salón.;Они снесли перегородку, чтобы расширить гостиную.
+C2;noun;la;viga;;;;;балка;Las **vigas** de madera dan calidez al techo.;Деревянные балки придают потолку уют.
+C2;noun;el;andamio;;;;;строительные леса;Los obreros trabajaban sobre un **andamio**.;Рабочие трудились на строительных лесах.
+C2;noun;el;azulejo;;;;;изразец, кафель;La cocina tiene **azulejos** de Talavera.;На кухне изразцы из Талаверы.
+C2;noun;el;zócalo;;;;;цоколь, плинтус;Pintaron el **zócalo** de color azul.;Цоколь покрасили в синий цвет.
+C2;noun;la;argamasa;-;;;;строительный раствор;Unieron las piedras con **argamasa**.;Камни скрепили строительным раствором.
+C2;noun;el;adobe;;;;;саман, необожжённый кирпич;Las casas del pueblo son de **adobe**.;Дома в деревне из самана.
+C2;noun;el;sillar;;;;;тёсаный камень;La iglesia está construida con **sillares** de granito.;Церковь построена из тёсаного гранита.
+C2;noun;el;contrafuerte;;;;;контрфорс;Los **contrafuertes** sostienen los muros góticos.;Контрфорсы поддерживают готические стены.
+C2;noun;el;pórtico;;;;;портик;Se refugiaron bajo el **pórtico** de la iglesia.;Они укрылись под портиком церкви.
+C2;noun;el;claustro;;;;;клуатр, монастырский двор;Paseamos por el **claustro** del monasterio.;Мы прогулялись по монастырскому дворику.
+C2;noun;la;atalaya;;;;;сторожевая башня;Desde la **atalaya** vigilaban la costa.;Со сторожевой башни следили за побережьем.
+C2;noun;la;almena;;;;;зубец (крепостной стены);Las **almenas** del castillo se veían desde lejos.;Зубцы замка были видны издалека.
+C2;noun;el;foso;;;;;ров;Un **foso** rodeaba la fortaleza.;Крепость окружал ров.
+C2;noun;la;mazmorra;;;;;темница;Lo encerraron en una **mazmorra** oscura.;Его заточили в тёмную темницу.
+C2;noun;el;calabozo;;;;;камера, карцер;Pasó la noche en el **calabozo** de la comisaría.;Он провёл ночь в камере полицейского участка.
+C2;noun;la;celda;;;;;камера, келья;El preso compartía **celda** con otros dos.;Заключённый делил камеру с двумя другими.
+C2;noun;el;cadalso;;;;;эшафот;El rey subió al **cadalso** con dignidad.;Король взошёл на эшафот с достоинством.
+C2;noun;el;patíbulo;;;;;эшафот, виселица;Lo condujeron al **patíbulo** al amanecer.;На рассвете его повели на эшафот.
+C2;noun;el;verdugo;;;;;палач;El **verdugo** llevaba el rostro cubierto.;Лицо палача было закрыто.
+C2;noun;el;grillete;;;;;кандалы, оковы;Le pusieron **grilletes** en los tobillos.;Ему надели кандалы на лодыжки.
+C2;noun;la;argolla;;;;;кольцо (металлическое);Ataron el barco a una **argolla** del muelle.;Лодку привязали к кольцу на причале.
+C2;noun;el;cerrojo;;;;;засов, задвижка;Echó el **cerrojo** antes de acostarse.;Перед сном он задвинул засов.
+C2;noun;la;aldaba;;;;;дверной молоток;Llamó a la puerta con la **aldaba**.;Он постучал в дверь дверным молотком.
+C2;noun;la;bisagra;;;;;петля (дверная), шарнир;Hay que engrasar las **bisagras** de la puerta.;Надо смазать дверные петли.
+C2;noun;el;picaporte;;;;;дверная ручка, щеколда;Giró el **picaporte** muy despacio.;Он очень медленно повернул дверную ручку.
+C2;noun;la;rendija;;;;;щель;La luz entraba por una **rendija** de la persiana.;Свет проникал через щель в жалюзи.
+C2;noun;el;postigo;;;;;ставня, калитка;Cerró los **postigos** para que no entrara el sol.;Он закрыл ставни, чтобы не проникало солнце.
+C2;noun;la;celosía;;;;;решётчатые ставни, жалюзи;Miraba la calle a través de la **celosía**.;Она смотрела на улицу сквозь решётчатые ставни.
+C2;noun;el;tragaluz;;;;;слуховое окно, световой люк;Un **tragaluz** iluminaba el pasillo.;Световой люк освещал коридор.
+C2;noun;la;claraboya;;;;;потолочное окно, световой люк;La **claraboya** deja pasar mucha luz.;Потолочное окно пропускает много света.
+C2;noun;el;tizón;;;;;головешка;Removió los **tizones** con un palo.;Он поворошил головешки палкой.
+C2;noun;la;ceniza;;;;;пепел, зола;Solo quedaron **cenizas** del incendio.;От пожара остался только пепел.
+C2;noun;el;hollín;-;;;;сажа, копоть;Las paredes estaban negras de **hollín**.;Стены почернели от копоти.
+C2;noun;la;pavesa;;;;;искра, летящий пепел;El viento levantaba **pavesas** de la hoguera.;Ветер поднимал искры от костра.
+C2;noun;la;yesca;-;;;;трут;Encendieron el fuego con **yesca** y pedernal.;Они развели огонь трутом и кремнём.
+C2;noun;el;pedernal;;;;;кремень;Era duro como el **pedernal**.;Он был твёрд как кремень.
+C2;noun;el;candil;;;;;масляная лампа, светильник;Leía a la luz de un **candil**.;Он читал при свете масляной лампы.
+C2;noun;la;candela;;;;;свеча, огонь;Encendieron una **candela** en la capilla.;В часовне зажгли свечу.
+C2;noun;el;pabilo;;;;;фитиль;Cortó el **pabilo** de la vela.;Он подрезал фитиль свечи.
+C2;noun;el;velador;;;;;столик на одной ножке;Dejó el libro sobre el **velador**.;Он положил книгу на столик.
