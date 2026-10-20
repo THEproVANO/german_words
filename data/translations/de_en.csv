@@ -3741,3 +3741,1203 @@ BIZ:de:adj::leistungsstark;powerful, high-performance;We need a powerful server.
 BIZ:de:adj::drahtlos;wireless, wirelessly;The data is transmitted wirelessly.
 BIZ:de:adj::cloudbasiert;cloud-based;We use a cloud-based solution for accounting.
 BIZ:de:adj::remote;remote, remotely;Our team works fully remotely.
+de:noun:die:Vorfreude;anticipation, looking forward;We're really looking forward to the holiday.
+de:noun:der:Vorgänger;predecessor;My predecessor has left the company.
+de:noun:der:Nachfolger;successor;Who will be his successor?
+de:noun:die:Vorlage;template, model;Use the template for the letter.
+de:noun:die:Vorliebe;preference, fondness, liking;He has a fondness for chocolate.
+de:noun:der:Vorrang;priority, precedence;Safety takes priority.
+de:noun:der:Vorsatz;resolution, intention;I've made good resolutions for the new year.
+de:noun:die:Vorschrift;regulation, rule;That's against the regulations.
+de:noun:die:Vorstellungskraft;imagination;That's beyond my imagination.
+de:noun:der:Wartebereich;waiting area;Please wait in the waiting area.
+de:noun:die:Warteschlange;queue, line;The queue is very long.
+de:noun:der:Wechsel;change, switch;A change of job can be good.
+de:noun:der:Wegweiser;signpost, sign;Follow the signpost.
+de:noun:der:Wettbewerbsvorteil;competitive advantage, competitive edge;Good language skills are a competitive advantage.
+de:noun:die:Wiedervereinigung;reunification;German reunification was in 1990.
+de:noun:die:Willkür;arbitrariness, despotism;That's completely arbitrary.
+de:noun:der:Wohnungsmarkt;housing market;The housing market is tight.
+de:noun:die:Zärtlichkeit;tenderness, affection;Children need affection.
+de:noun:der:Zeitaufwand;time required, time spent;The time required is enormous.
+de:noun:die:Zeitverschwendung;waste of time;That's a complete waste of time.
+de:noun:der:Zusammenstoß;collision, crash, clash;There was a collision between two cars.
+de:noun:das:Zuhause;home;This is my home.
+de:noun:die:Zwischenzeit;meantime, meanwhile;In the meantime you can have a coffee.
+de:verb::abdecken;cover;The insurance covers all damage.
+de:verb::abfinden;come to terms with, accept (sich abfinden mit);I've come to terms with it.
+de:verb::ablaufen;expire, run out;My visa expires soon.
+de:verb::ablegen;take (an exam), take off (clothes);She passed the exam successfully.
+de:verb::abmelden;deregister, sign out, log off;I have to deregister at the registration office.
+de:verb::abreisen;leave, depart;We're leaving early tomorrow morning.
+de:verb::abschicken;send, send off, post;I've already sent the letter.
+de:verb::absetzen;drop off, take off, cancel;Can you drop me off at the station?
+de:verb::abspielen;play (sich abspielen: happen, take place);What happened here?
+de:verb::anhören;listen to (sich anhören: sound);That sounds good.
+de:verb::anlocken;attract, lure;The festival attracts lots of tourists.
+de:verb::annähern;bring closer (sich annähern: draw closer, converge);The positions have moved closer together.
+de:verb::anrichten;cause (damage), prepare (food);The storm caused a lot of damage.
+de:verb::ansammeln;accumulate, collect, pile up;A lot of rubbish has piled up in the basement.
+de:verb::anstecken;infect;He gave me the flu.
+de:verb::anweisen;instruct, direct, transfer (money);My boss instructed me to take care of it.
+de:verb::anzweifeln;question, doubt;Nobody questions his competence.
+de:verb::aufatmen;breathe a sigh of relief;After the exam I could finally breathe a sigh of relief.
+de:verb::aufbrechen;set off, set out, break open;We set off early in the morning.
+de:verb::auffassen;take, understand, interpret;How am I supposed to take that?
+de:verb::aufhalten;hold up, delay (sich aufhalten: stay);I don't want to hold you up any longer.
+de:verb::aufkommen;arise, pay for (für);Who will pay for the damage?
+de:verb::auflegen;hang up (the phone);He just hung up.
+de:verb::aufsuchen;see, visit, consult;You should see a doctor.
+de:verb::aufteilen;divide, split, share out;We're splitting up the work.
+de:verb::aufziehen;raise, bring up, wind up;She raised three children on her own.
+de:verb::ausdehnen;extend, expand, stretch;We extended our walk.
+de:verb::auseinandergehen;differ, diverge, part;Opinions differ on this.
+de:verb::ausrutschen;slip;I slipped on the ice.
+de:verb::aussprechen;pronounce, express;How do you pronounce this word?
+de:verb::ausstellen;issue (a document), exhibit;The passport was issued in 2020.
+de:verb::auszahlen;pay out (sich auszahlen: pay off);The hard work has paid off.
+de:verb::bedrücken;weigh on, depress, trouble;What's troubling you?
+de:verb::befolgen;follow, obey, comply with;Please follow the instructions.
+de:verb::befragen;survey, question, interview;We surveyed 1000 people.
+de:verb::begehen;commit (a crime, mistake);He made a serious mistake.
+de:verb::beglückwünschen;congratulate;We congratulate you on your success.
+de:verb::behindern;hinder, obstruct, impede;The snow is hindering traffic.
+de:verb::beherrschen;master, have a command of, rule;She speaks three languages fluently.
+de:verb::bekennen;admit, confess (sich bekennen zu: own up to);He admits his mistake.
+de:verb::beklagen;lament (sich beklagen: complain);He complains about the noise.
+de:verb::berufen;appoint (sich berufen auf: refer to, cite);I'm citing the law.
+de:verb::beschaffen;get, obtain, procure;Can you get me the documents?
+de:verb::bestehen auf;insist on;I insist on an explanation.
+de:verb::bestehen aus;consist of, be made up of;The team consists of five people.
+de:verb::beten;pray;She prays every evening.
+de:verb::beunruhigen;worry, trouble, alarm;The news worries me.
+de:verb::bevorstehen;lie ahead, be imminent;Hard times lie ahead of us.
+de:verb::bewegen;move, induce, prompt;What made you do that?
+de:verb::bezwingen;conquer, defeat, overcome;They conquered the mountain.
+de:verb::dämpfen;steam (food), muffle, dampen;The vegetables are steamed.
+de:verb::darlegen;explain, set out, present;He set out his reasons.
+de:verb::dokumentieren;document;All steps are documented.
+de:verb::dringen;penetrate, get through, insist (auf);Water came through the roof.
+de:verb::durchschauen;see through;I've seen through you!
+de:verb::einbauen;install, fit, build in;We're having a new kitchen fitted.
+de:verb::eingestehen;admit, confess;He had to admit his mistake.
+de:verb::einlösen;keep (a promise), redeem, cash;He kept his promise.
+de:verb::einprägen;memorize (sich einprägen), imprint;I memorized the route well.
+de:verb::einsammeln;collect, gather;The teacher collects the exercise books.
+de:verb::einspringen;stand in, fill in, cover;Can you fill in for me tomorrow?
+de:verb::einstufen;classify, grade, place (in a level);After the test you'll be placed in a level.
+de:verb::eintauchen;immerse oneself, dive into, dip;We immersed ourselves in the culture.
+de:verb::einteilen;divide up, organize, plan;You need to plan your time well.
+de:verb::entgegennehmen;accept, receive, take (an order);We'll be happy to take your order.
+de:verb::entkräften;refute, invalidate, weaken;He was able to refute the accusations.
+de:verb::erblicken;catch sight of, spot, see;She spotted him in the crowd.
+de:verb::erbringen;provide, produce, render (a service);You have to provide proof.
+de:verb::erkunden;explore;We're exploring the city on foot.
+de:verb::erlassen;issue, enact (a law), waive;The government has passed a new law.
+de:verb::ermäßigen;reduce (a price);Admission is reduced for children.
+de:verb::erschöpfen;exhaust, wear out;The work completely exhausted me.
+de:adj::abgelaufen;expired, out of date;The milk is past its use-by date.
+de:adj::abstrakt;abstract;That's too abstract for me.
+de:adj::alltagstauglich;suitable for everyday use, practical;The shoes are very practical for everyday wear.
+de:adj::altmodisch;old-fashioned;The dress is rather old-fashioned.
+de:adj::angeblich;supposedly, allegedly, alleged;He was supposedly ill.
+de:adj::angespannt;tense, strained;The situation is very tense.
+de:adj::ängstlich;anxious, timid, fearful;The child is very timid.
+de:adj::anonym;anonymous;The survey is anonymous.
+de:adj::arrogant;arrogant;He comes across as a bit arrogant.
+de:adj::aufdringlich;pushy, intrusive;The salesman was very pushy.
+de:adj::aufgeschlossen;open-minded, open;She is open to new ideas.
+de:adj::aufrichtig;sincere, honest;That was a sincere apology.
+de:adj::ausdrücklich;explicit, express, expressly;He expressly forbade it.
+de:adj::aussichtslos;hopeless;The situation is not hopeless.
+de:adj::authentisch;authentic;The restaurant offers authentic Italian cuisine.
+de:adj::befreundet;friends (with), friendly;We've been friends for years.
+de:adj::beleidigt;offended, hurt;She's offended because I didn't call.
+de:adj::benötigt;required, needed;All the required documents are available.
+de:adj::bescheuert;stupid, daft (colloquial);That's just stupid!
+de:adj::bevorstehend;upcoming, forthcoming, impending;The upcoming exam scares me.
+de:adj::bewölkt;cloudy, overcast;It will be cloudy tomorrow.
+de:adj::bitter;bitter;The coffee is very bitter.
+de:adj::dauernd;constant, constantly, all the time;He's on his phone all the time.
+de:adj::dezent;subtle, discreet, understated;She wears subtle make-up.
+de:adj::diskret;discreet;Please be discreet.
+de:adj::durchgehend;continuous, all day (opening hours);The shop is open all day.
+de:adj::eigenartig;strange, peculiar, odd;It's a strange feeling.
+de:adj::eingebildet;conceited, imaginary;He's rather conceited.
+de:adj::einseitig;one-sided, unbalanced;The diet is too unbalanced.
+de:adj::einverstanden;agreed, in agreement;Are you okay with that?
+de:adj::entbehrlich;dispensable, expendable;Nobody is dispensable.
+de:adj::erholsam;restful, relaxing;The holiday was very relaxing.
+de:adj::erwünscht;desired, welcome, wanted;Smoking is not welcome here.
+de:adj::exotisch;exotic;I like exotic fruit.
+de:adj::fahrlässig;negligent, careless;That was grossly negligent.
+de:adj::fällig;due, payable, overdue;The rent is due on the first.
+de:adj::feucht;damp, moist, humid;The basement is very damp.
+de:adj::förmlich;formal;The letter is very formal.
+de:adj::frech;cheeky, impudent, rude;Don't be so cheeky!
+de:adj::fürsorglich;caring, considerate;She's a very caring mother.
+de:adj::gebildet;educated, cultured;He's a very educated man.
+de:adj::geizig;stingy, mean, tight-fisted;He's very stingy.
+de:adj::gemischt;mixed;I have mixed feelings.
+de:adj::geschmackvoll;tasteful, tastefully;The flat is tastefully furnished.
+de:adj::gespannt;eager, curious, excited;I can't wait to see what happens next.
+de:adj::gewalttätig;violent;He became violent.
+de:adj::glatt;slippery, smooth;The road is slippery.
+de:adj::gleichberechtigt;equal, having equal rights;Men and women have equal rights.
+de:adj::herzlos;heartless;How can you be so heartless?
+de:adj::hinreichend;sufficient, adequate, sufficiently;That is sufficiently well known.
+de:adj::illegal;illegal;That's illegal.
+de:adj::legal;legal;Is that even legal?
+de:adj::irreführend;misleading;The advertising is misleading.
+de:adj::kinderfreundlich;child-friendly, family-friendly;The hotel is very child-friendly.
+de:adj::kleinlich;petty, small-minded, fussy;Don't be so petty!
+de:adj::knapp;scarce, tight, short;Money is tight.
+de:adj::kompromissbereit;willing to compromise;Both sides are willing to compromise.
+de:adj::leistungsstark;powerful, high-performance;The engine is very powerful.
+de:adj::lösbar;solvable, soluble;The problem can be solved.
+de:adj::malerisch;picturesque;The village is very picturesque.
+de:adj::misstrauisch;suspicious, distrustful;He's suspicious of everyone.
+de:adj::mitfühlend;compassionate, sympathetic;She is very compassionate.
+de:adj::nachdenklich;thoughtful, pensive;The film made me thoughtful.
+de:adj::nachlässig;careless, negligent, sloppy;He works very carelessly.
+de:adj::neidisch;envious, jealous;I'm a little jealous.
+de:adj::offenherzig;open, frank, candid;She's a very open person.
+de:adj::planmäßig;scheduled, on schedule, as planned;The train departs on schedule.
+de:adj::rätselhaft;mysterious, puzzling, enigmatic;His behaviour is puzzling.
+de:adj::rechthaberisch;self-righteous, know-it-all, always wanting to be right;He always has to be right.
+de:adj::reif;ripe, mature;The tomatoes are ripe.
+de:adj::schadenfroh;gloating, malicious;Don't gloat like that!
+de:adj::scheinbar;seemingly, apparently, apparent;The problem only seems simple.
+de:adj::schlagfertig;quick-witted, quick at repartee;She's very quick-witted.
+de:adj::selbstkritisch;self-critical;He is very self-critical.
+de:adj::sinnlos;pointless, senseless, meaningless;That's completely pointless.
+de:adj::spürbar;noticeable, perceptible, tangible;The change is noticeable.
+de:adj::stur;stubborn, obstinate, pig-headed;He's so stubborn!
+de:adj::tabu;taboo;The subject is taboo.
+de:adj::taktvoll;tactful;He reacted very tactfully.
+de:adj::tatkräftig;active, energetic, practical (support);Thanks for the active support!
+de:adj::trostlos;bleak, dreary, desolate;The area is pretty bleak.
+de:adj::überraschend;surprising, unexpected, unexpectedly;That came as a big surprise.
+de:adj::überschaubar;manageable, limited, modest;The costs are manageable.
+de:adj::umständlich;complicated, cumbersome, long-winded;That's far too complicated.
+de:adj::unbeliebt;unpopular;The new boss is very unpopular.
+de:adj::unentschlossen;undecided, indecisive;I'm still undecided.
+de:adj::unersetzlich;irreplaceable, indispensable;She is irreplaceable to us.
+de:adj::unvermeidlich;inevitable, unavoidable;An argument was inevitable.
+de:adj::unverschämt;outrageous, impertinent, shameless;That's an impertinent question!
+de:adj::unwahrscheinlich;unlikely, improbable;That's very unlikely.
+de:adj::verlässlich;reliable, dependable;He's a reliable partner.
+de:adj::verpflichtet;obliged, required;You are obliged to report it.
+de:adj::verschwiegen;discreet, tight-lipped, secretive;He's very discreet.
+de:adj::verwöhnt;spoilt, spoiled;The child is very spoilt.
+de:adj::wohlhabend;wealthy, well-off, affluent;The family is very wealthy.
+de:adj::zeitaufwendig;time-consuming;That's very time-consuming.
+de:adj::zerbrechlich;fragile;Careful, that's fragile!
+de:adj::zugänglich;accessible, open (to);The museum is accessible to everyone.
+de:adj::zutreffend;applicable, accurate, correct;Please tick where applicable.
+de:verb::fortbilden;train further (sich fortbilden: take further training);I regularly take further training.
+de:verb::freisprechen;acquit;The defendant was acquitted.
+de:verb::herabsetzen;reduce, lower, belittle;The prices have been reduced.
+de:verb::heranwachsen;grow up;The children are growing up in the countryside.
+de:verb::herausbringen;bring out, launch, release;The company is bringing out a new model.
+de:verb::herausgeben;give change, publish, hand over;Do you have change for 50 euros?
+de:verb::hervorgehen;emerge, follow, be clear (from);This makes it clear that he is right.
+de:verb::hinauswerfen;throw out, kick out;He was thrown out of the flat.
+de:verb::hineinpassen;fit in, fit into;Everything fits into the suitcase.
+de:verb::irritieren;confuse, put off, irritate;His behaviour confused me.
+de:verb::jammern;moan, whine, complain;Stop moaning!
+de:verb::kapieren;get, understand (colloquial);Did you get that?
+de:verb::kassieren;collect (money), get (a fine);He got a parking ticket.
+de:verb::kränken;hurt, offend;His words hurt me.
+de:verb::lauten;be, read, go (of wording);What is your address?
+de:verb::löschen;delete, put out (a fire);I deleted the file.
+de:verb::mahnen;remind (of payment), warn, urge;The bank is sending me reminders about the bill.
+de:verb::manipulieren;manipulate, tamper with;The data was manipulated.
+de:verb::markieren;mark, highlight;Mark the correct answer.
+de:verb::nachlesen;read up, look up;You can read up on that online.
+de:verb::niederlassen;settle, set up practice (sich niederlassen);The doctor has set up practice in Berlin.
+de:verb::nörgeln;grumble, moan, nag;He's constantly grumbling.
+de:verb::quälen;torment, torture;The question torments me.
+de:verb::rasen;race, speed, tear;The car raced through the town.
+de:verb::reizen;appeal to, tempt, irritate;The task really appeals to me.
+de:verb::rügen;reprimand, rebuke;The boss reprimanded him.
+de:verb::sanieren;renovate, refurbish, restructure;The old house is being renovated.
+de:verb::schwanken;fluctuate, sway, waver;Prices fluctuate a lot.
+de:verb::signalisieren;signal, indicate;He has signalled interest.
+de:verb::spekulieren;speculate;We can only speculate.
+de:verb::sperren;close, block, lock;The road is closed.
+de:verb::stagnieren;stagnate;The economy is stagnating.
+de:verb::stornieren;cancel (a booking, order);I'd like to cancel my booking.
+de:verb::strapazieren;strain, try (patience), wear out;You're trying my patience.
+de:verb::tadeln;reprimand, scold, criticize;The teacher reprimands the pupil.
+de:verb::täuschen;deceive (sich täuschen: be mistaken);You were mistaken there.
+de:verb::überfallen;attack, raid, rob;The bank was robbed.
+de:verb::überfordern;overwhelm, overtax, ask too much of;The task is too much for him.
+de:verb::übergeben;hand over, give;He handed me the keys.
+de:verb::überlassen;leave (to), let have;I'll leave the decision to you.
+de:verb::überschätzen;overestimate;He overestimates himself.
+de:verb::unterschätzen;underestimate;Don't underestimate him!
+de:verb::umbauen;convert, rebuild, remodel;We're converting the house.
+de:verb::umdenken;rethink, change one's thinking;We need to rethink.
+de:verb::umkehren;turn back, turn around;We had to turn back because of the weather.
+de:verb::umleiten;divert, redirect, reroute;Traffic is being diverted.
+de:verb::umstellen;switch (to), change over, rearrange;We're switching to a new system.
+de:verb::umtauschen;exchange;Can I exchange the trousers?
+de:verb::unterbringen;accommodate, house, put up;The guests are being put up in a hotel.
+de:verb::untergehen;set (of the sun), sink, go down;The sun sets at 8 p.m.
+de:verb::verbreiten;spread, distribute;The news spread quickly.
+de:verb::verdeutlichen;illustrate, clarify, make clear;An example should make this clear.
+de:verb::verfehlen;miss;He narrowly missed the target.
+de:verb::vergeuden;waste, squander;Don't waste your time!
+de:verb::verheimlichen;hide, keep secret, conceal;He's been keeping something from me.
+de:verb::verkraften;cope with, get over;She never got over the loss.
+de:verb::verlagern;relocate, shift, move;Production was relocated abroad.
+de:verb::vermarkten;market;The product is well marketed.
+de:verb::verschweigen;conceal, keep quiet about;He concealed the truth.
+de:verb::verstoßen;violate, breach (gegen);That violates the rules.
+de:verb::vertagen;adjourn, postpone;The meeting was adjourned.
+de:verb::vervollständigen;complete;Please complete the sentences.
+de:verb::verweigern;refuse, deny;He refused to testify.
+de:verb::verwöhnen;spoil, pamper;The grandparents spoil their grandchildren.
+de:verb::vorankommen;make progress, get on;We're making good progress.
+de:verb::vorbeikommen;come by, drop by, stop by;Come by sometime!
+de:verb::vorführen;demonstrate, present, show;He's demonstrating the new device.
+de:verb::vorgeben;pretend, set (a target), specify;He's pretending to be ill.
+de:verb::vormerken;put down, make a note of, pencil in;I'll put you down for Tuesday.
+de:verb::wegwerfen;throw away;Don't throw that away!
+de:verb::weitergeben;pass on;I'll pass on the information.
+de:verb::widerlegen;refute, disprove;The theory was disproved.
+de:verb::wiedergeben;render, reproduce, reflect;Summarize the content in your own words.
+de:verb::zerreißen;tear up, rip up;She tore up the letter.
+de:verb::zitieren;quote, cite;He likes to quote Goethe.
+de:verb::zuordnen;match, assign, classify;Match the pictures to the texts.
+de:verb::zurückhalten;hold back (sich zurückhalten: restrain oneself);I couldn't restrain myself.
+de:verb::zusagen;promise, accept, appeal to;He promised me his help.
+de:verb::zuschauen;watch, look on;I watch while someone cooks.
+de:verb::zuspitzen;sharpen (sich zuspitzen: come to a head, escalate);The situation has come to a head.
+de:verb::zutrauen;believe capable of, credit with;I wouldn't have thought him capable of that.
+de:noun:die:Achtsamkeit;mindfulness, attentiveness;Mindfulness helps against stress.
+de:noun:die:Altersvorsorge;retirement provision, pension planning;You should think about saving for retirement early.
+de:noun:die:Anpassung;adjustment, adaptation;Adjusting to the new country takes time.
+de:noun:die:Arbeitsteilung;division of labour;We have a clear division of labour.
+de:noun:der:Aufenthaltstitel;residence permit, residence title;Your residence permit expires soon.
+de:noun:die:Ausländerbehörde;immigration office, foreigners' registration office;I have an appointment at the immigration office.
+de:noun:die:Barriere;barrier;Language can be a barrier.
+de:noun:die:Bescheidenheit;modesty;Modesty is a virtue.
+de:noun:die:Bürgerinitiative;citizens' action group, grassroots campaign;A citizens' action group is fighting the construction.
+de:noun:das:Bürgeramt;citizens' office, local registration office;You register a change of address at the citizens' office.
+de:noun:die:Chancengleichheit;equal opportunities, equality of opportunity;We demand equal opportunities for all.
+de:noun:der:Ehrenamtliche;volunteer;Many volunteers help at the animal shelter.
+de:noun:die:Einbürgerung;naturalization;He has applied for naturalization.
+de:noun:der:Einbürgerungstest;citizenship test, naturalization test;She passed the citizenship test.
+de:noun:die:Eingewöhnung;settling in, acclimatization;Settling in at nursery takes two weeks.
+de:noun:die:Fairness;fairness, fair play;Fair play is important in sport.
+de:noun:die:Fluggesellschaft;airline;Which airline flies to Moscow?
+de:noun:die:Freizügigkeit;freedom of movement;Freedom of movement applies in the EU.
+de:noun:die:Fremdenfeindlichkeit;xenophobia;We are against xenophobia.
+de:noun:das:Führungszeugnis;certificate of good conduct, criminal record check;You need a certificate of good conduct for the job.
+de:noun:die:Gesetzgebung;legislation;The legislation has been changed.
+de:noun:die:Gewerbefreiheit;freedom of trade, freedom to do business;Freedom of trade applies in Germany.
+de:noun:die:Haushaltskasse;housekeeping money, household budget;The housekeeping money has run out.
+de:noun:der:Hausrat;household contents, household goods;The insurance pays for household contents.
+de:noun:die:Höflichkeitsform;polite form, formal form of address;"In German, ""Sie"" is used as the polite form."
+de:noun:der:Interessenkonflikt;conflict of interest;There's a conflict of interest here.
+de:noun:die:Jugendarbeitslosigkeit;youth unemployment;Youth unemployment has fallen.
+de:noun:die:Konsumgesellschaft;consumer society;We live in a consumer society.
+de:noun:die:Lebensgemeinschaft;cohabitation, domestic partnership;They live together as partners.
+de:noun:der:Leistungsdruck;pressure to perform, pressure to succeed;Pupils are under a lot of pressure to perform.
+de:noun:das:Lieferdatum;delivery date;The delivery date is 15 May.
+de:noun:die:Massentierhaltung;factory farming, intensive livestock farming;Many people criticize factory farming.
+de:noun:die:Meinungsverschiedenheit;disagreement, difference of opinion;We had a minor disagreement.
+de:noun:das:Mobbing;bullying, harassment;Bullying in the workplace is a serious problem.
+de:noun:der:Nebenjob;side job, part-time job;He has a side job as a waiter.
+de:noun:der:Niedriglohn;low wage, low pay;Many people work for low wages.
+de:noun:der:Notstand;state of emergency, crisis;There's a crisis in the care sector.
+de:noun:der:Ökostrom;green electricity, renewable electricity;We get green electricity.
+de:noun:die:Pflegestufe;care level (degree of care needed);My grandma has care level 2.
+de:noun:die:Privatsphäre;privacy;Everyone has a right to privacy.
+de:noun:die:Rechtsberatung;legal advice;I need legal advice.
+de:noun:der:Schulabschluss;school-leaving qualification, diploma;Without a school-leaving qualification it's hard to find work.
+de:noun:die:Schulpflicht;compulsory schooling, compulsory education;Schooling is compulsory in Germany.
+de:noun:der:Schwarzfahrer;fare dodger;Fare dodgers have to pay 60 euros.
+de:noun:die:Schwarzarbeit;illicit work, undeclared work, moonlighting;Undeclared work is illegal.
+de:noun:die:Selbstverwirklichung;self-realization, self-fulfilment;For many people, their job is a form of self-fulfilment.
+de:noun:der:Sozialstaat;welfare state;Germany is a welfare state.
+de:noun:die:Sozialhilfe;welfare, social assistance, benefits;He lives on welfare.
+de:noun:das:Stadtviertel;district, neighbourhood, quarter;It's a quiet neighbourhood.
+de:noun:die:Stellenausschreibung;job advertisement, job posting;I read the job advertisement.
+de:noun:die:Steuerklasse;tax bracket, tax class;Your tax class changes after you get married.
+de:noun:der:Stromverbrauch;electricity consumption, power consumption;Our electricity consumption has gone down.
+de:noun:der:Strukturwandel;structural change;The region is undergoing structural change.
+de:noun:die:Teilzeitstelle;part-time job, part-time position;She's looking for a part-time job.
+de:noun:der:Tierschutz;animal welfare, animal protection;She is active in animal welfare.
+de:noun:das:Tierheim;animal shelter;We got the cat from the animal shelter.
+de:noun:die:Ummeldung;registration of change of address;After moving you need to register your new address.
+de:noun:die:Umschulung;retraining;He is retraining as a geriatric nurse.
+de:noun:die:Unabhängigkeit;independence;Financial independence is important to me.
+de:noun:das:Verantwortungsbewusstsein;sense of responsibility;He has a strong sense of responsibility.
+de:noun:die:Verbraucherzentrale;consumer advice centre, consumer protection agency;The consumer advice centre gives free advice.
+de:noun:die:Verkehrswende;transport transition (to sustainable transport);The city is planning a transport transition.
+de:noun:die:Verschwendung;waste, wastefulness;That's a waste of food.
+de:noun:die:Vollmacht;power of attorney, authorization;I'm giving you power of attorney.
+de:noun:die:Wegwerfgesellschaft;throwaway society;We live in a throwaway society.
+de:noun:die:Wahlbeteiligung;voter turnout, turnout;Turnout was low.
+de:noun:das:Wahlrecht;right to vote, suffrage;You have the right to vote from the age of 18.
+de:noun:das:Wohngeld;housing benefit, housing allowance;She receives housing benefit from the state.
+de:noun:die:Zivilcourage;moral courage, civil courage;He showed moral courage.
+de:noun:die:Zuwanderung;immigration;Germany needs immigration.
+de:noun:die:Zweitwohnung;second home, second residence;He has a second home in Berlin.
+de:noun:die:Zwischenprüfung;intermediate exam, midterm exam;The intermediate exam was difficult.
+de:noun:der:Zwiespalt;dilemma, inner conflict;I'm torn.
+de:noun:der:Alltagsstress;everyday stress, daily stress;Yoga helps me cope with everyday stress.
+de:noun:die:Ausdauer;stamina, endurance, perseverance;You need stamina for a marathon.
+de:noun:die:Entfaltung;development, self-expression, unfolding;Children need room to develop freely.
+de:noun:die:Gelegenheitsarbeit;casual work, odd job;He lives off odd jobs.
+de:noun:die:Kreativität;creativity;The job requires a lot of creativity.
+de:noun:die:Lebensfreude;zest for life, joie de vivre;She radiates a real zest for life.
+de:noun:der:Leistungssport;competitive sport, professional sport;He used to do competitive sport.
+de:noun:die:Selbstdisziplin;self-discipline;Studying requires self-discipline.
+de:noun:die:Teamfähigkeit;ability to work in a team, teamwork skills;Being a good team player is an important quality.
+de:noun:die:Belastbarkeit;resilience, ability to work under pressure;We expect a high degree of resilience.
+de:noun:die:Zielstrebigkeit;determination, single-mindedness;With determination you can achieve a lot.
+de:noun:die:Wertschätzung;appreciation, esteem, recognition;Employees need appreciation.
+de:noun:die:Zuneigung;affection, fondness;He shows her his affection.
+de:noun:die:Verbundenheit;bond, attachment, connection;I feel a deep bond with my homeland.
+de:noun:die:Abwägung;weighing up, consideration;After careful consideration, we decided against it.
+de:noun:die:Akribie;meticulousness, precision;He works with great meticulousness.
+de:noun:die:Ambivalenz;ambivalence;The ambivalence of his feelings confuses him.
+de:noun:die:Angemessenheit;appropriateness, proportionality, adequacy;The appropriateness of the punishment is being debated.
+de:noun:die:Annäherung;rapprochement, approach, convergence;There was a cautious rapprochement between the two countries.
+de:noun:die:Anschuldigung;accusation, allegation;He rejects all the accusations.
+de:noun:die:Ausprägung;form, degree, manifestation;The disease occurs in varying degrees of severity.
+de:noun:die:Ausnahmesituation;exceptional situation, emergency;This is an exceptional situation for everyone.
+de:noun:die:Aussagekraft;significance, explanatory power, meaningfulness;The study is of only limited significance.
+de:noun:die:Authentizität;authenticity;The authenticity of the document is being checked.
+de:noun:die:Befugnis;authority, power, authorization;I don't have the authority to do that.
+de:noun:die:Begebenheit;event, incident, occurrence;The film is based on a true story.
+de:noun:die:Beharrlichkeit;persistence, perseverance, tenacity;She achieved her goal through persistence.
+de:noun:die:Beklemmung;oppression, anxiety, unease;A feeling of unease came over him.
+de:noun:der:Beweggrund;motive, reason;What were his motives?
+de:noun:die:Bewältigung;coping (with), overcoming, handling;Overcoming the crisis will take years.
+de:noun:die:Bürde;burden;Responsibility is a heavy burden.
+de:noun:der:Defizit;deficit, shortfall, deficiency;The company has a large deficit.
+de:noun:das:Dilemma;dilemma;I'm in a real dilemma.
+de:noun:die:Diskrepanz;discrepancy, gap;There is a discrepancy between theory and practice.
+de:noun:die:Dynamik;dynamics, momentum;The dynamics in the team have changed.
+de:noun:die:Eigenverantwortung;personal responsibility, self-responsibility;Everyone bears personal responsibility for their health.
+de:noun:die:Einbuße;loss, losses;The company had to accept heavy losses.
+de:noun:die:Eingebung;inspiration, sudden idea, intuition;On a sudden impulse, she called him.
+de:noun:die:Einschätzung;assessment, estimation, opinion;In my assessment, that's too risky.
+de:noun:die:Empathie;empathy;This profession requires a lot of empathy.
+de:noun:die:Entfremdung;alienation, estrangement;The estrangement between them grew ever greater.
+de:noun:die:Entrüstung;indignation, outrage;The decision sparked widespread outrage.
+de:noun:das:Ermessen;discretion, judgement;That is at your discretion.
+de:noun:die:Erwägung;consideration;We are considering this possibility.
+de:noun:die:Faszination;fascination;His fascination with space has been with him since childhood.
+de:noun:die:Fehleinschätzung;misjudgement, miscalculation;That was a clear misjudgement.
+de:noun:die:Fluktuation;staff turnover, fluctuation;Staff turnover at the company is high.
+de:noun:die:Folgerung;conclusion, inference;What conclusion do you draw from this?
+de:noun:die:Fürsorge;care, concern, welfare;She looks after her mother with great care.
+de:noun:das:Gefälle;gap, disparity, gradient;There is a large social divide.
+de:noun:die:Gepflogenheit;custom, practice, convention;You should respect local customs.
+de:noun:die:Geringschätzung;disdain, contempt, disregard;He speaks about his colleagues with disdain.
+de:noun:die:Gewissenhaftigkeit;conscientiousness;Her conscientiousness is greatly appreciated.
+de:noun:die:Glaubwürdigkeit;credibility;The scandal has destroyed his credibility.
+de:noun:die:Grauzone;grey area;Legally, that's a grey area.
+de:noun:die:Gratwanderung;balancing act, tightrope walk;It's a difficult balancing act.
+de:noun:die:Habgier;greed, avarice;His greed knows no bounds.
+de:noun:die:Hemmschwelle;inhibition threshold, inhibitions;People's inhibitions are lower on the internet.
+de:noun:die:Hingabe;devotion, dedication;She tends her garden with great devotion.
+de:noun:die:Hürde;hurdle, obstacle;Language is the biggest hurdle.
+de:noun:die:Implikation;implication;The implications of this decision are enormous.
+de:noun:das:Indiz;indication, sign, circumstantial evidence;That is a clear indication of his guilt.
+de:noun:die:Integrität;integrity;No one doubts her integrity.
+de:noun:die:Intention;intention;That wasn't my intention.
+de:noun:die:Intuition;intuition;I rely on my intuition.
+de:noun:der:Irrtum;error, mistake, misconception;That's a widespread misconception.
+de:noun:die:Kehrtwende;U-turn, about-face, reversal;The government did a U-turn.
+de:noun:die:Kernaussage;key message, main point;What is the key message of the text?
+de:noun:die:Kluft;gap, gulf, divide;The gap between rich and poor is growing.
+de:noun:der:Konsens;consensus, agreement;We have reached a consensus.
+de:noun:die:Kontinuität;continuity;We value continuity.
+de:noun:die:Konfrontation;confrontation;He isn't looking for a confrontation.
+de:noun:die:Korruption;corruption;Corruption in the country is a big problem.
+de:noun:die:Lebenseinstellung;outlook on life, attitude to life;She has a positive outlook on life.
+de:noun:die:Leichtfertigkeit;recklessness, carelessness, frivolity;His recklessness has cost him a lot of money.
+de:noun:das:Leitbild;mission statement, guiding principle, model;The company's guiding principle is sustainability.
+de:noun:die:Missbilligung;disapproval;She expressed her disapproval.
+de:noun:der:Missstand;abuse, grievance, deplorable state of affairs;The newspaper uncovered numerous abuses.
+de:noun:die:Mündigkeit;maturity, independence, (legal) majority;Education leads to citizens becoming mature and independent.
+de:noun:die:Nachsicht;leniency, forbearance, indulgence;I ask for your indulgence.
+de:noun:die:Nuance;nuance;He understands every nuance of the language.
+de:noun:die:Ohnmacht;powerlessness, helplessness, faint;A feeling of powerlessness came over her.
+de:noun:die:Paradoxie;paradox, paradoxical nature;The paradox of the situation is obvious.
+de:noun:die:Pauschalisierung;generalization, sweeping generalization;Such sweeping generalizations are dangerous.
+de:noun:die:Pflichterfüllung;fulfilment of duty, doing one's duty;He sees his work as doing his duty.
+de:noun:die:Präferenz;preference;Everyone has different preferences.
+de:noun:die:Prämisse;premise;On that premise, I agree.
+de:noun:die:Rechenschaft;account, accountability;He must answer for his actions.
+de:noun:die:Resignation;resignation (acceptance);There was resignation in his voice.
+de:noun:der:Respekt;respect;He is highly respected.
+de:noun:die:Rivalität;rivalry;There is a long-standing rivalry between the two clubs.
+de:noun:die:Rücksichtnahme;consideration, consideration for others;Mutual consideration is important.
+de:noun:der:Scharfsinn;astuteness, shrewdness, acumen;He solved the puzzle with great astuteness.
+de:noun:die:Schattenseite;downside, dark side;Success has its downsides too.
+de:noun:die:Scheu;shyness, reluctance, fear;He's not afraid to ask questions.
+de:noun:die:Schlussfolgerung;conclusion;What conclusion have you come to?
+de:noun:die:Selbstüberschätzung;overconfidence, overestimation of oneself;Overconfidence often leads to mistakes.
+de:noun:die:Sensibilität;sensitivity;The topic requires a lot of sensitivity.
+de:noun:die:Solidarität;solidarity;We show solidarity with the victims.
+de:noun:die:Sorgfaltspflicht;duty of care;The doctor breached his duty of care.
+de:noun:die:Spannweite;range, spectrum, span;The range of opinions is wide.
+de:noun:der:Stellenwert;importance, significance, status;Family is very important to him.
+de:noun:die:Stichhaltigkeit;soundness, validity, cogency;The soundness of the arguments is in doubt.
+de:noun:die:Tatkraft;drive, energy, vigour;He built up the company with great drive.
+de:noun:die:Teilhabe;participation, inclusion;The goal is social participation for everyone.
+de:noun:die:Tragweite;scope, implications, consequences;He wasn't aware of the full implications of this decision.
+de:noun:die:Transparenz;transparency;Citizens are demanding more transparency.
+de:noun:die:Trägheit;inertia, sluggishness, laziness;You have to fight your own laziness.
+de:noun:die:Überforderung;excessive demands, being overwhelmed;Many teachers complain of being overwhelmed.
+de:noun:der:Überdruss;weariness, surfeit, boredom;He listened to the song until he was sick of it.
+de:noun:die:Überheblichkeit;arrogance, conceit;His arrogance makes him unpopular.
+de:noun:die:Umsicht;prudence, circumspection, level-headedness;She acted with great prudence.
+de:noun:die:Unbefangenheit;openness, lack of inhibition, impartiality;Children approach others with great openness.
+de:noun:das:Unbehagen;unease, discomfort;The situation made me feel uneasy.
+de:noun:das:Unverständnis;incomprehension, lack of understanding;The decision met with incomprehension.
+de:noun:die:Unvoreingenommenheit;impartiality, open-mindedness;A judge must show impartiality.
+de:noun:der:Unwille;displeasure, indignation, reluctance;He reacted to the criticism with displeasure.
+de:noun:die:Urteilskraft;judgement, discernment;Stress impairs judgement.
+de:noun:die:Verantwortlichkeit;responsibility, accountability;Responsibilities are clearly assigned.
+de:noun:die:Verbindlichkeit;liability (debt), commitment, binding nature;The company has large liabilities.
+de:noun:die:Verdrängung;displacement, crowding out, repression;The displacement of small shops by chains continues.
+de:noun:die:Vereinsamung;isolation, loneliness;Isolation among older people is increasing.
+de:noun:die:Verflechtung;interconnection, interdependence, entanglement;The economic interconnections are complex.
+de:noun:das:Vergehen;offence, misdemeanour;That is a serious offence.
+de:noun:die:Verharmlosung;trivialization, playing down;That is a dangerous trivialization of the problem.
+de:noun:die:Verhältnismäßigkeit;proportionality;The proportionality of the measures must be maintained.
+de:noun:die:Verlässlichkeit;reliability, dependability;Reliability is crucial in a relationship.
+de:noun:die:Vermessenheit;presumption, presumptuousness, hubris;It would be presumptuous to predict the result.
+de:noun:die:Versuchung;temptation;He couldn't resist the temptation.
+de:noun:die:Verwirrung;confusion;The new rule caused confusion.
+de:noun:der:Vorbehalt;reservation;I have certain reservations about this plan.
+de:noun:die:Voreingenommenheit;bias, prejudice;He judges without bias.
+de:noun:der:Vorwand;pretext, excuse;He left the meeting on a pretext.
+de:noun:die:Wechselwirkung;interaction;There is an interaction between the medications.
+de:noun:der:Werdegang;career, background, development;Tell us about your professional background.
+de:noun:die:Wissbegierde;thirst for knowledge, curiosity;Children have a natural thirst for knowledge.
+de:noun:die:Zerrissenheit;inner turmoil, conflict, being torn;He felt inwardly torn.
+de:noun:die:Zurückweisung;rejection, rebuff;The rejection hit him hard.
+de:noun:die:Zuversicht;confidence, optimism;We look to the future with confidence.
+de:noun:der:Zwang;coercion, compulsion, pressure;He acted under duress.
+de:noun:die:Abschreckung;deterrence, deterrent;Severe penalties are meant to act as a deterrent.
+de:noun:der:Ansehensverlust;loss of reputation, loss of prestige;The scandal meant a major loss of reputation.
+de:noun:das:Ansehen;reputation, standing, prestige;He is highly regarded in the town.
+de:noun:der:Antrieb;drive, motivation, propulsion;Curiosity is a strong motivation.
+de:noun:der:Aufschub;postponement, deferral, delay;He asked for a deferral of the payment.
+de:noun:der:Ausschlag;deciding factor (den Ausschlag geben), rash;That was the deciding factor in my decision.
+de:noun:die:Beeinträchtigung;impairment, detriment, adverse effect;Noise leads to a reduced quality of life.
+de:noun:die:Befangenheit;bias, partiality, self-consciousness;The judge was challenged on grounds of bias.
+de:noun:die:Belange;concerns, interests, matters;He represents the interests of tenants.
+de:noun:die:Bemühung;effort, endeavour;Despite all efforts, the project failed.
+de:noun:die:Bereicherung;asset, enrichment;The new colleague is an asset to the team.
+de:noun:die:Beschaffenheit;nature, condition, composition;The condition of the soil is ideal.
+de:noun:die:Besonnenheit;level-headedness, prudence, composure;She reacted with great composure.
+de:noun:die:Bestrebung;effort, endeavour, aspiration;There are efforts to change the law.
+de:noun:die:Bevormundung;paternalism, being patronized, tutelage;Many people see this as paternalism.
+de:noun:die:Bewandtnis;reason, explanation (es hat damit eine Bewandtnis);The explanation for this is as follows.
+de:noun:das:Blickfeld;field of vision, focus, view;The issue is coming into the public eye.
+de:noun:der:Drahtzieher;mastermind, wire-puller;Who was the mastermind behind the plan?
+de:noun:der:Eigensinn;stubbornness, wilfulness, obstinacy;His stubbornness makes it hard to work with him.
+de:noun:die:Einflussnahme;exertion of influence, interference;Political interference is not permitted.
+de:noun:die:Eintönigkeit;monotony, tedium;The monotony of the work bores him.
+de:noun:das:Einvernehmen;agreement, consent, accord;The separation was by mutual consent.
+de:noun:die:Empfänglichkeit;receptiveness, susceptibility;Children are very receptive to languages.
+de:noun:die:Entlohnung;pay, remuneration;Pay is performance-related.
+de:noun:die:Entschlossenheit;determination, resolve;She showed great determination.
+de:noun:die:Erschwernis;difficulty, complication, hardship;The weather was an additional complication.
+de:noun:das:Fingerspitzengefühl;tact, sensitivity, finesse;That requires a great deal of tact.
+de:noun:das:Fazit;conclusion, summing-up, bottom line;My conclusion: it was worth it.
+de:noun:die:Gegebenheit;condition, circumstance, (given) situation;We have to adapt to local conditions.
+de:noun:das:Gemüt;mind, temperament, feelings;The news inflamed passions.
+de:noun:das:Geschick;skill, dexterity, knack;She solved the problem with great skill.
+de:noun:die:Gesinnung;convictions, views, attitude;His political views are well known.
+de:noun:die:Grundhaltung;basic attitude, fundamental outlook;He has an optimistic basic attitude.
+de:noun:der:Handlungsbedarf;need for action;There is an urgent need for action.
+de:noun:der:Handlungsspielraum;room for manoeuvre, scope for action, leeway;Our room for manoeuvre is limited.
+de:noun:die:Heuchelei;hypocrisy;That's pure hypocrisy.
+de:noun:die:Hinterlist;deceit, cunning, treachery;He acted deceitfully.
+de:noun:die:Hochachtung;high esteem, deep respect;I have great respect for her achievement.
+de:noun:der:Interessent;interested party, prospective buyer, applicant;There are many interested parties for the flat.
+de:noun:die:Klarheit;clarity;We need clarity about the costs.
+de:noun:die:Kränkung;insult, slight, offence;He never forgot this slight.
+de:noun:der:Leichtsinn;carelessness, recklessness, thoughtlessness;He carelessly rode without a helmet.
+de:noun:das:Lob;praise;She received a lot of praise for her work.
+de:noun:die:Machtergreifung;seizure of power;The seizure of power took place in 1933.
+de:noun:die:Mäßigung;moderation, restraint;He called for restraint.
+de:noun:die:Mehrdeutigkeit;ambiguity;The ambiguity of the sentence leads to misunderstandings.
+de:noun:der:Missmut;displeasure, ill humour, sullenness;He received the news with displeasure.
+de:noun:die:Nachwirkung;after-effect, aftermath, repercussion;The after-effects of the crisis can still be felt.
+de:noun:die:Neugründung;start-up, new business, new foundation;The number of new businesses has risen.
+de:noun:die:Offenheit;openness, frankness, candour;I appreciate your frankness.
+de:verb::abklären;clarify, check, sort out;I need to check that with my boss first.
+de:verb::abmildern;mitigate, soften, cushion;The measures are intended to mitigate the consequences.
+de:verb::abrunden;round off, round (a number);A dessert rounds off the meal.
+de:verb::abschweifen;digress, stray (from the subject);Please don't stray from the subject.
+de:verb::abspeisen;fob off;He won't be fobbed off with empty promises.
+de:verb::abverlangen;demand (of), require (of);The job demands a lot of me.
+de:verb::abwenden;avert, prevent, turn away;The disaster was only just averted.
+de:verb::abwerten;belittle, devalue, disparage;He constantly belittles other people's achievements.
+de:verb::anfechten;contest, challenge, appeal against;He wants to appeal against the verdict.
+de:verb::anprangern;denounce, condemn publicly;The organization denounces the abuses.
+de:verb::anstiften;incite, instigate, put up to;Who put him up to it?
+de:verb::anvisieren;target, aim at, set one's sights on;The company is targeting new markets.
+de:verb::aufarbeiten;come to terms with, work through, deal with;The past must be come to terms with.
+de:verb::aufbegehren;rebel, revolt, protest;Young people are rebelling against the rules.
+de:verb::aufdrängen;force on, impose on, push on;I don't want to force my opinion on you.
+de:verb::aufwerten;upgrade, enhance, boost the value of;The new park is upgrading the neighbourhood.
+de:verb::ausblenden;block out, ignore, fade out;He simply blocks out the problems.
+de:verb::ausloten;sound out, explore, gauge;We're exploring the possibilities.
+de:verb::ausschöpfen;exhaust, make full use of;We have exhausted all possibilities.
+de:verb::aussetzen;find fault (etwas auszusetzen haben), expose, suspend;He finds fault with everything.
+de:verb::bagatellisieren;play down, trivialize;You shouldn't play down the problem.
+de:verb::beanspruchen;take up, claim, demand;The work takes up a lot of time.
+de:verb::beanstanden;complain about, object to;The customer complained about the delivery.
+de:verb::beeinträchtigen;impair, affect, interfere with;Noise impairs concentration.
+de:verb::begünstigen;favour, promote, encourage;The warm weather promotes growth.
+de:verb::beharren;insist (auf), persist;He insists on his opinion.
+de:verb::beimessen;attach (importance), attribute;You shouldn't attach too much importance to it.
+de:verb::beipflichten;agree with, concur;I have to agree with you there.
+de:verb::bekräftigen;affirm, reaffirm, reinforce;He reaffirmed his intention.
+de:verb::bemängeln;criticize, find fault with;The inspectors criticized the safety.
+de:verb::beschönigen;gloss over, sugar-coat, whitewash;You shouldn't sugar-coat the situation.
+de:verb::bestreiten;deny, dispute, pay for (costs);He denies the accusations.
+de:verb::betören;bewitch, beguile, enchant;Her voice enchanted everyone.
+de:verb::bevormunden;patronize, treat like a child, boss around;I won't be told what to do.
+de:verb::bezwecken;aim at, intend, achieve;What are you trying to achieve with that?
+de:verb::billigen;approve of, sanction;I can't approve of your behaviour.
+de:verb::brüskieren;snub, offend, affront;He snubbed his hosts.
+de:verb::dementieren;deny (officially);The government denied the reports.
+de:verb::differenzieren;differentiate, distinguish, make distinctions;You have to make careful distinctions here.
+de:verb::dominieren;dominate;The topic is dominating the news.
+de:verb::eindämmen;contain, curb, stem;The spread of the virus must be contained.
+de:verb::einbüßen;lose, forfeit;The party has lost a lot of votes.
+de:verb::eingrenzen;narrow down, limit, delimit;We need to narrow down the topic.
+de:verb::einlenken;give in, back down, relent;After long negotiations he gave in.
+de:verb::einschreiten;intervene, step in;The police had to intervene.
+de:verb::einwilligen;consent (to), agree (to);He consented to the operation.
+de:verb::entgegenwirken;counteract, combat, counter;We want to counter the shortage of skilled workers.
+de:verb::entziehen;revoke, withdraw, take away;His driving licence was revoked.
+de:verb::erachten;consider, deem, regard as;I consider that necessary.
+de:verb::ergründen;fathom, get to the bottom of, explore;We're trying to get to the bottom of the cause.
+de:verb::erörtern;discuss, debate;We need to discuss the problem in detail.
+de:verb::erschließen;open up, develop, tap into;The company wants to open up new markets.
+de:verb::erwirken;obtain, secure (a ruling);The lawyer obtained an injunction.
+de:verb::fesseln;captivate, grip, tie up;The book gripped me from the start.
+de:verb::fingieren;fake, stage, feign;The accident was staged.
+de:verb::florieren;flourish, thrive, boom;Business is booming.
+de:verb::fokussieren;focus (sich fokussieren: concentrate);We should focus on the essentials.
+de:verb::gutheißen;approve of, endorse;I can't approve of that.
+de:verb::hadern;quarrel with, be at odds with (mit);He is at odds with his fate.
+de:verb::herbeiführen;bring about, cause, lead to;We want to bring about a decision.
+de:verb::herunterspielen;play down, downplay;He's playing down the problem.
+de:verb::hinauszögern;delay, put off, drag out;He keeps putting off the decision.
+BIZ:de:noun:die:Aktiengesellschaft;public limited company, joint-stock company, corporation;The public limited company publishes its figures every quarter.
+BIZ:de:noun:die:GmbH;limited liability company, private limited company;He founded a limited liability company last year.
+BIZ:de:noun:die:Tochtergesellschaft;subsidiary;The subsidiary in Poland is growing very fast.
+BIZ:de:noun:die:Niederlassung;branch, office;We are opening a new branch in Vienna.
+BIZ:de:noun:die:Filiale;branch, outlet;The bank is closing several branches in rural areas.
+BIZ:de:noun:der:Standort;site, location;The new site is right next to the motorway.
+BIZ:de:noun:die:Zentrale;head office, headquarters;The decision comes straight from head office.
+BIZ:de:noun:der:Hauptsitz;headquarters, head office;The group's headquarters are in Frankfurt.
+BIZ:de:noun:die:Abteilung;department;She works in the purchasing department.
+BIZ:de:noun:die:Personalabteilung;HR department, personnel department;Please send the documents to the HR department.
+BIZ:de:noun:die:Buchhaltung;accounting, accounts department, bookkeeping;The accounts department checks all invoices carefully.
+BIZ:de:noun:der:Vertrieb;sales, distribution;He has been working in sales for five years.
+BIZ:de:noun:der:Einkauf;purchasing, procurement;Purchasing is negotiating with new suppliers.
+BIZ:de:noun:die:Geschäftsführung;management, executive management;The management has set new targets.
+BIZ:de:noun:der:Geschäftsführer;managing director, CEO;The managing director will present the strategy tomorrow.
+BIZ:de:noun:der:Vorstand;executive board, board of directors;The executive board has approved the merger.
+BIZ:de:noun:der:Aufsichtsrat;supervisory board;The supervisory board meets twice a year.
+BIZ:de:noun:die:Führungskraft;manager, executive, leader;Good managers listen to their employees.
+BIZ:de:noun:der:Vorgesetzte;superior, boss, line manager;I need to discuss that with my boss.
+BIZ:de:noun:der:Chef;boss, head;The boss is on a business trip today.
+BIZ:de:noun:der:Mitarbeiter;employee, member of staff, co-worker;Every employee gets their own laptop.
+BIZ:de:noun:der:Kollege;colleague, co-worker;My colleague is covering for me while I'm on holiday.
+BIZ:de:noun:der:Angestellte;employee, salaried employee;He is an employee at an insurance company.
+BIZ:de:noun:der:Arbeitnehmer;employee, worker;The employee is entitled to paid leave.
+BIZ:de:noun:der:Arbeitgeber;employer;My employer pays a subsidy towards my public transport pass.
+BIZ:de:noun:das:Personal;staff, personnel;The hotel urgently needs new staff.
+BIZ:de:noun:die:Belegschaft;workforce, staff;The workforce was informed about the plans.
+BIZ:de:noun:der:Betriebsrat;works council;The works council represents the interests of the employees.
+BIZ:de:noun:die:Gewerkschaft;trade union, labor union;The union is demanding higher wages.
+BIZ:de:noun:der:Streik;strike;Because of the strike, many trains were cancelled.
+BIZ:de:noun:die:Branche;industry, sector;Competition is very fierce in our industry.
+BIZ:de:noun:der:Mittelstand;small and medium-sized businesses, SMEs;German small and medium-sized businesses are considered very innovative.
+BIZ:de:noun:die:Hierarchie;hierarchy;This start-up has flat hierarchies.
+BIZ:de:noun:die:Unternehmenskultur;corporate culture, company culture;An open corporate culture is important to us.
+BIZ:de:noun:die:Fusion;merger;The merger of the two banks was approved.
+BIZ:de:noun:die:Übernahme;takeover, acquisition;The takeover cost almost two billion euros.
+BIZ:de:noun:die:Umstrukturierung;restructuring, reorganization;After the restructuring there are fewer departments.
+BIZ:de:noun:der:Konkurrent;competitor, rival;Our biggest competitor has cut its prices.
+BIZ:de:noun:die:Konkurrenz;competition, competitors;The competition never sleeps.
+BIZ:de:noun:der:Wettbewerb;competition, contest;Competition in the market is getting tougher and tougher.
+BIZ:de:noun:der:Wettbewerber;competitor;We analyse our competitors' products.
+BIZ:de:noun:der:Partner;partner;We are looking for a reliable partner in Asia.
+BIZ:de:noun:die:Partnerschaft;partnership;The partnership has existed for ten years.
+BIZ:de:noun:der:Inhaber;owner, proprietor;The owner of the business is in the shop himself.
+BIZ:de:noun:der:Eigentümer;owner, proprietor;The owner wants to sell the company.
+BIZ:de:noun:der:Dienstleister;service provider;We work with an external service provider.
+BIZ:de:noun:die:Dienstleistung;service;We offer services in the field of logistics.
+BIZ:de:noun:das:Gewerbe;trade, business;She has registered a business with the authorities.
+BIZ:de:noun:die:Industrie;industry;The chemical industry is very strong in the region.
+BIZ:de:noun:das:Werk;plant, factory, works;The plant produces five hundred cars a day.
+BIZ:de:noun:die:Produktion;production;Production runs around the clock.
+BIZ:de:noun:das:Team;team;Our team consists of eight people.
+BIZ:de:noun:der:Teamleiter;team leader;The team leader assigns the tasks.
+BIZ:de:noun:der:Abteilungsleiter;head of department, department manager;The head of department has approved the leave.
+BIZ:de:noun:der:Beruf;occupation, profession, job;What do you do for a living?
+BIZ:de:noun:die:Stelle;position, job, vacancy;The position is to be filled immediately.
+BIZ:de:noun:die:Stellenanzeige;job advertisement, job ad;I found the job advertisement online.
+BIZ:de:noun:die:Bewerbung;application, job application;We have received over a hundred applications.
+BIZ:de:noun:der:Bewerber;applicant, candidate;The applicant made a very good impression.
+BIZ:de:noun:das:Anschreiben;cover letter, covering letter;In the cover letter you explain your motivation.
+BIZ:de:noun:der:Lebenslauf;CV, résumé;Please send us your CV.
+BIZ:de:noun:das:Zeugnis;reference (from an employer), certificate;The reference from my last employer is very good.
+BIZ:de:noun:das:Vorstellungsgespräch;job interview, interview;Tomorrow I have a job interview at Siemens.
+BIZ:de:noun:die:Qualifikation;qualification;Your qualifications are a perfect fit for the position.
+BIZ:de:noun:die:Berufserfahrung;work experience, professional experience;She has ten years of professional experience in marketing.
+BIZ:de:noun:die:Kenntnis;knowledge, skills;A good knowledge of English is required.
+BIZ:de:noun:die:Fähigkeit;ability, skill;Being a team player is an important skill.
+BIZ:de:noun:die:Einstellung;hiring, recruitment;The hiring of new employees is planned.
+BIZ:de:noun:die:Kündigung;resignation, notice, dismissal;He handed in his resignation yesterday.
+BIZ:de:noun:die:Kündigungsfrist;notice period, period of notice;The notice period is three months.
+BIZ:de:noun:die:Entlassung;dismissal, layoff, redundancy;The company is planning numerous layoffs.
+BIZ:de:noun:der:Arbeitsvertrag;employment contract, contract of employment;Please sign the employment contract by Monday.
+BIZ:de:noun:der:Vertrag;contract, agreement;We signed the contract yesterday.
+BIZ:de:noun:die:Probezeit;probationary period, probation;The probationary period lasts six months.
+BIZ:de:noun:die:Vollzeit;full-time;She works full-time as an engineer.
+BIZ:de:noun:die:Teilzeit;part-time;After his parental leave he works part-time.
+BIZ:de:noun:die:Arbeitszeit;working hours, working time;We have flexible working hours.
+BIZ:de:noun:die:Überstunde;overtime hour, overtime;I did ten hours of overtime this week.
+BIZ:de:noun:die:Schicht;shift;Today he is working the shift from six to two.
+BIZ:de:noun:das:Homeoffice;working from home, home office;On Fridays I usually work from home.
+BIZ:de:noun:das:Gehalt;salary, pay;The salary is transferred at the end of the month.
+BIZ:de:noun:der:Lohn;wage, wages, pay;Wages rose last year.
+BIZ:de:noun:die:Gehaltserhöhung;pay rise, raise, salary increase;I would like to talk about a pay rise.
+BIZ:de:noun:die:Gehaltsvorstellung;salary expectations;Please state your salary expectations.
+BIZ:de:noun:der:Mindestlohn;minimum wage;The minimum wage has been raised again.
+BIZ:de:noun:die:Prämie;bonus;There is a bonus for the good result.
+BIZ:de:noun:der:Bonus;bonus;At the end of the year everyone gets a bonus.
+BIZ:de:noun:die:Sozialleistung;employee benefit, fringe benefit, social benefit;The company offers attractive employee benefits.
+BIZ:de:noun:der:Urlaub;holiday, vacation, leave;I get thirty days' holiday a year.
+BIZ:de:noun:die:Krankmeldung;sick note, notification of illness;Please send the sick note to the HR department.
+BIZ:de:noun:die:Elternzeit;parental leave;She is taking a year of parental leave.
+BIZ:de:noun:die:Karriere;career;He made a career for himself at the bank.
+BIZ:de:noun:die:Beförderung;promotion;After three years she got a promotion.
+BIZ:de:noun:die:Weiterbildung;further training, professional development;The company is paying for my further training.
+BIZ:de:noun:die:Schulung;training, training course;All employees must take part in the training.
+BIZ:de:noun:die:Ausbildung;vocational training, apprenticeship;He is doing an apprenticeship as an industrial clerk.
+BIZ:de:noun:der:Auszubildende;apprentice, trainee;Our apprentice learns quickly.
+BIZ:de:noun:das:Praktikum;internship, work placement;I'm doing an internship at an advertising agency.
+BIZ:de:noun:der:Praktikant;intern, trainee;The intern is helping with the research.
+BIZ:de:noun:die:Fachkraft;skilled worker, specialist, qualified professional;Germany is short of many skilled workers.
+BIZ:de:noun:der:Fachkräftemangel;skills shortage, shortage of skilled workers;The skills shortage is a big problem.
+BIZ:de:noun:der:Arbeitsplatz;job, workplace;The new factory is creating 500 jobs.
+BIZ:de:noun:die:Arbeitslosigkeit;unemployment;Unemployment has fallen slightly.
+BIZ:de:noun:der:Arbeitsmarkt;labour market, job market;The job market for engineers is very good.
+BIZ:de:noun:die:Stellenbeschreibung;job description;The job description lists all the tasks.
+BIZ:de:noun:die:Zielvereinbarung;target agreement, objectives agreement;The target agreement sets out the goals for this year.
+BIZ:de:noun:das:Mitarbeitergespräch;performance review, appraisal interview;A performance review takes place once a year.
+BIZ:de:noun:die:Leistung;performance, achievement;Your performance this year was outstanding.
+BIZ:de:noun:die:Rente;pension, retirement;He is retiring next year.
+BIZ:de:noun:der:Ruhestand;retirement;After 40 years she is going into retirement.
+BIZ:de:noun:die:Geschäftsreise;business trip;He is often away on business trips.
+BIZ:de:noun:das:Büro;office;I'll be in the office until six today.
+BIZ:de:noun:die:Besprechung;meeting, discussion;The meeting starts at ten o'clock.
+BIZ:de:noun:die:Sitzung;meeting, session;The meeting has been postponed to Thursday.
+BIZ:de:noun:das:Meeting;meeting;I have three meetings back to back today.
+BIZ:de:noun:der:Termin;appointment, meeting;Can we move the appointment to tomorrow?
+BIZ:de:noun:die:Tagesordnung;agenda;The first item on the agenda is the budget.
+BIZ:de:noun:das:Protokoll;minutes, record;Who is taking the minutes today?
+BIZ:de:noun:die:Konferenz;conference;She is giving a talk at the conference.
+BIZ:de:noun:die:Präsentation;presentation;The presentation won the customers over.
+BIZ:de:noun:der:Vortrag;talk, presentation, lecture;Her talk on market analysis was very interesting.
+BIZ:de:noun:die:Frist;deadline, time limit;The deadline for the offer expires tomorrow.
+BIZ:de:noun:die:Deadline;deadline;We can only meet the deadline by working overtime.
+BIZ:de:noun:die:Aufgabe;task, assignment;This task has top priority.
+BIZ:de:noun:die:Priorität;priority;We need to set clear priorities.
+BIZ:de:noun:das:Projekt;project;The project must be finished by the end of June.
+BIZ:de:noun:der:Projektleiter;project manager, project leader;The project manager reports directly to the board.
+BIZ:de:noun:der:Meilenstein;milestone;We reached the first milestone on time.
+BIZ:de:noun:der:Zeitplan;schedule, timetable;The schedule is very ambitious.
+BIZ:de:noun:der:Bericht;report;The monthly report is on your desk.
+BIZ:de:noun:die:Unterlage;documents, papers (usually plural);Please bring all the documents with you.
+BIZ:de:noun:das:Dokument;document;The document still has to be signed.
+BIZ:de:noun:die:Akte;file, record;The file is in the boss's cabinet.
+BIZ:de:noun:das:Formular;form;Please fill in this form.
+BIZ:de:noun:die:Unterschrift;signature;Without a signature the contract is invalid.
+BIZ:de:noun:die:Anfrage;inquiry, request;Thank you for your inquiry.
+BIZ:de:noun:die:Rückmeldung;feedback, response, reply;I'm still waiting for a response from the client.
+BIZ:de:noun:der:Empfang;reception, front desk;Please report to reception.
+BIZ:de:noun:die:Visitenkarte;business card;May I give you my business card?
+BIZ:de:noun:der:Ansprechpartner;contact person, point of contact;Your contact person is Mr Weber.
+BIZ:de:noun:die:Zuständigkeit;responsibility, remit, area of responsibility;That's not within my remit.
+BIZ:de:noun:die:Verantwortung;responsibility;She is responsible for the whole team.
+BIZ:de:noun:die:Vertretung;cover, deputy, stand-in;While I'm on holiday, Ms Lenz will be covering for me.
+BIZ:de:noun:das:Management;management;The management has announced new goals.
+BIZ:de:noun:die:Führung;leadership, management;Under her leadership, sales have risen.
+BIZ:de:noun:die:Strategie;strategy;The new strategy focuses on sustainability.
+BIZ:de:noun:das:Ziel;goal, aim, target;Our goal is to become the market leader.
+BIZ:de:noun:die:Entscheidung;decision;The decision will be made next week.
+BIZ:de:noun:die:Planung;planning;Planning for next year is already under way.
+BIZ:de:noun:die:Maßnahme;measure, action;We must take action immediately.
+BIZ:de:noun:die:Umsetzung;implementation;Implementing the plan will take two years.
+BIZ:de:noun:das:Controlling;controlling, management accounting;The controlling department monitors all costs.
+BIZ:de:noun:die:Kennzahl;key figure, metric, indicator;The most important key figures are pointing upwards.
+BIZ:de:noun:die:Effizienz;efficiency;We want to increase the efficiency of our processes.
+BIZ:de:noun:die:Produktivität;productivity;Productivity has risen by five percent.
+BIZ:de:noun:der:Prozess;process;We are optimising our internal processes.
+BIZ:de:noun:die:Qualitätssicherung;quality assurance;Quality assurance checks every product.
+BIZ:de:noun:das:Risiko;risk;The risk is too high for us.
+BIZ:de:noun:die:Herausforderung;challenge;Digitalization is a major challenge.
+BIZ:de:noun:die:Lösung;solution;We're sure to find a solution.
+BIZ:de:noun:der:Engpass;bottleneck, shortage;There is a shortage of raw materials.
+BIZ:de:noun:die:Kompetenz;expertise, competence;She has a lot of expertise in finance.
+BIZ:de:noun:die:Zusammenarbeit;cooperation, collaboration;We look forward to working with you.
+BIZ:de:noun:die:Motivation;motivation;Motivation in the team is very high.
+BIZ:de:noun:die:Rücksprache;consultation, discussion;I'll let you know after consulting with my boss.
+BIZ:de:noun:die:Finanzen;finances;She is responsible for the company's finances.
+BIZ:de:noun:der:Umsatz;turnover, sales, revenue;Turnover has increased by ten percent.
+BIZ:de:noun:der:Gewinn;profit;The company has made a large profit.
+BIZ:de:noun:der:Verlust;loss;There was a loss in the third quarter.
+BIZ:de:noun:die:Kosten;costs, expenses;We need to cut costs.
+BIZ:de:noun:die:Ausgabe;expenditure, expense, spending;Spending on advertising has increased.
+BIZ:de:noun:die:Einnahme;income, revenue, receipts;The income doesn't cover the costs.
+BIZ:de:noun:das:Budget;budget;The budget for the project is limited.
+BIZ:de:noun:die:Bilanz;balance sheet, results;The balance sheet will be published in March.
+BIZ:de:noun:der:Jahresabschluss;annual financial statements, year-end accounts;The tax adviser prepares the annual financial statements.
+BIZ:de:noun:das:Geschäftsjahr;financial year, fiscal year;The financial year ends on 30 September.
+BIZ:de:noun:das:Quartal;quarter;Business went well in the second quarter.
+BIZ:de:noun:die:Rechnung;invoice, bill;The invoice is payable within 14 days.
+BIZ:de:noun:die:Zahlung;payment;We have received your payment.
+BIZ:de:noun:das:Zahlungsziel;payment terms, payment deadline;The payment terms are thirty days.
+BIZ:de:noun:die:Mahnung;reminder (for payment), dunning letter;The customer has already received the second reminder.
+BIZ:de:noun:die:Überweisung;bank transfer, transfer;The transfer takes one to two days.
+BIZ:de:noun:die:Quittung;receipt;Please keep the receipt.
+BIZ:de:noun:der:Beleg;receipt, voucher, proof;We need a receipt for every expense.
+BIZ:de:noun:die:Steuer;tax;The company pays high taxes every year.
+BIZ:de:noun:die:Mehrwertsteuer;value added tax, VAT;All prices include VAT.
+BIZ:de:noun:die:Steuererklärung;tax return;The tax return must be submitted by July.
+BIZ:de:noun:der:Steuerberater;tax adviser, tax consultant;Our tax adviser takes care of the accounts.
+BIZ:de:noun:die:Investition;investment;The investment in new machinery pays off.
+BIZ:de:noun:der:Investor;investor;The start-up is looking for a new investor.
+BIZ:de:noun:das:Kapital;capital;To set up a company you need enough capital.
+BIZ:de:noun:der:Kredit;loan, credit;The bank has granted us a loan.
+BIZ:de:noun:das:Darlehen;loan;The loan must be repaid within five years.
+BIZ:de:noun:der:Zins;interest, interest rate;Interest rates are very low at the moment.
+BIZ:de:noun:die:Schuld;debt;The company owes the bank a lot of money.
+BIZ:de:noun:die:Aktie;share, stock;The share fell by three percent today.
+BIZ:de:noun:der:Aktionär;shareholder, stockholder;The shareholders receive a higher dividend.
+BIZ:de:noun:die:Dividende;dividend;The dividend will be paid out in May.
+BIZ:de:noun:die:Börse;stock exchange, stock market;The company is going public next year.
+BIZ:de:noun:die:Rendite;return, yield;The return on this investment is four percent.
+BIZ:de:noun:die:Liquidität;liquidity;The company's liquidity is secure.
+BIZ:de:noun:die:Abschreibung;depreciation, write-off;The machines are depreciated over ten years.
+BIZ:de:noun:die:Buchung;booking (accounting entry), posting, entry;Every entry must be backed up by a receipt.
+BIZ:de:noun:das:Konto;account, bank account;Please transfer the amount to our account.
+BIZ:de:noun:der:Betrag;amount, sum;The amount has already been debited.
+BIZ:de:noun:der:Wirtschaftsprüfer;auditor, chartered accountant;The auditor has checked the balance sheet.
+BIZ:de:noun:die:Prüfung;audit, inspection, examination;The audit of the books takes a week.
+BIZ:de:noun:die:Kalkulation;calculation, costing;The calculation shows that the project is worthwhile.
+BIZ:de:noun:der:Kostenvoranschlag;estimate, quote, cost estimate;Could you send us an estimate?
+BIZ:de:noun:die:Spesen;expenses, business expenses;Expenses are reimbursed by the company.
+BIZ:de:noun:die:Insolvenz;insolvency, bankruptcy;The company had to file for insolvency.
+BIZ:de:noun:die:Pleite;bankruptcy, collapse, bust (colloquial);After the bankruptcy everyone lost their jobs.
+BIZ:de:noun:der:Verkauf;sale, sales;Sales of the new models begin in May.
+BIZ:de:noun:der:Absatz;sales, sales volume;Sales in China have risen sharply.
+BIZ:de:noun:der:Verkäufer;salesperson, seller, sales assistant;The salesperson explained the product to me.
+BIZ:de:noun:der:Außendienst;field sales, field service;He works in field sales and travels a lot.
+BIZ:de:noun:das:Marketing;marketing;In marketing we work a lot with social media.
+BIZ:de:noun:die:Werbung;advertising, advertisement;The company invests a lot of money in advertising.
+BIZ:de:noun:die:Werbekampagne;advertising campaign, ad campaign;The new advertising campaign starts in the autumn.
+BIZ:de:noun:die:Zielgruppe;target group, target audience;Our target group is young families.
+BIZ:de:noun:die:Marke;brand, make;This brand is known worldwide.
+BIZ:de:noun:das:Image;image, public image;The company wants to improve its image.
+BIZ:de:noun:die:Marktforschung;market research;Market research shows strong demand.
+BIZ:de:noun:der:Marktanteil;market share;Our market share is twenty percent.
+BIZ:de:noun:der:Marktführer;market leader;The company is the market leader in Europe.
+BIZ:de:noun:die:Markteinführung;market launch, product launch;The product's market launch is in the spring.
+BIZ:de:noun:das:Produkt;product;Our new product is going down well.
+BIZ:de:noun:das:Sortiment;range, product range, assortment;We are expanding our range to include organic products.
+BIZ:de:noun:der:Preis;price;The price is negotiable.
+BIZ:de:noun:der:Rabatt;discount;For large quantities we give a ten percent discount.
+BIZ:de:noun:das:Skonto;cash discount, early payment discount;There is a two percent cash discount for payment within ten days.
+BIZ:de:noun:die:Messe;trade fair, trade show;We are presenting our product at the trade fair.
+BIZ:de:noun:die:Pressemitteilung;press release;The press release comes out tomorrow morning.
+BIZ:de:noun:der:Kunde;customer, client;The customer is very satisfied with the service.
+BIZ:de:noun:der:Kundenstamm;customer base, clientele;We have a large and loyal customer base.
+BIZ:de:noun:der:Kundendienst;customer service, after-sales service;Please contact our customer service.
+BIZ:de:noun:die:Reklamation;complaint, claim (about defective goods);The complaint was dealt with quickly.
+BIZ:de:noun:die:Beschwerde;complaint;We take every complaint seriously.
+BIZ:de:noun:die:Garantie;guarantee, warranty;The device comes with a two-year warranty.
+BIZ:de:noun:der:Auftrag;order, contract, assignment;We have received a large order from China.
+BIZ:de:noun:der:Auftraggeber;client, customer;The client is satisfied with the result.
+BIZ:de:noun:die:Bestellung;order;Your order will be shipped tomorrow.
+BIZ:de:noun:das:Angebot;offer, quotation, quote;We will be happy to send you a quotation.
+BIZ:de:noun:die:Nachfrage;demand;Demand for electric cars is rising.
+BIZ:de:noun:die:Auftragsbestätigung;order confirmation;You will receive the order confirmation by email.
+BIZ:de:noun:die:Verhandlung;negotiation, negotiations;The negotiations with the supplier were difficult.
+BIZ:de:noun:der:Kompromiss;compromise;In the end we found a compromise.
+BIZ:de:noun:die:Vereinbarung;agreement, arrangement;We are sticking to the agreement.
+BIZ:de:noun:die:Bedingung;condition, term;We cannot deliver under these conditions.
+BIZ:de:noun:die:Konditionen;terms, terms and conditions;The terms of the offer are very good.
+BIZ:de:noun:der:Lieferant;supplier;We have a new supplier for packaging.
+BIZ:de:noun:die:Lieferung;delivery, shipment;The delivery is expected to arrive on Tuesday.
+BIZ:de:noun:die:Lieferzeit;delivery time, lead time;The delivery time is about two weeks.
+BIZ:de:noun:die:Logistik;logistics;Logistics is an important cost factor.
+BIZ:de:noun:das:Lager;warehouse, stock, storage;The goods are no longer in stock.
+BIZ:de:noun:der:Lagerbestand;stock, inventory, stock level;We need to reduce our inventory.
+BIZ:de:noun:die:Ware;goods, merchandise;The goods were damaged in transit.
+BIZ:de:noun:die:Sendung;shipment, consignment, parcel;The shipment is already on its way.
+BIZ:de:noun:der:Versand;shipping, dispatch;Shipping is free on orders over 50 euros.
+BIZ:de:noun:die:Spedition;freight forwarder, haulage company;The freight forwarder is collecting the pallets tomorrow.
+BIZ:de:noun:der:Lieferschein;delivery note, packing slip;Please check the goods against the delivery note.
+BIZ:de:noun:die:Lieferkette;supply chain;The supply chain was disrupted by the crisis.
+BIZ:de:noun:der:Zoll;customs, customs duty, tariff;High duties are charged on these goods.
+BIZ:de:noun:der:Export;export, exports;Exports to Asia have doubled.
+BIZ:de:noun:der:Import;import, imports;Importing raw materials is becoming more expensive.
+BIZ:de:noun:die:Wirtschaft;economy;The German economy is growing again.
+BIZ:de:noun:der:Markt;market;We want to open up new markets.
+BIZ:de:noun:das:Wachstum;growth;Economic growth has slowed down.
+BIZ:de:noun:die:Inflation;inflation;Inflation is at three percent.
+BIZ:de:noun:die:Konjunktur;economy, economic situation, business cycle;The economy has recovered significantly.
+BIZ:de:noun:die:Rezession;recession;Experts are warning of a recession.
+BIZ:de:noun:die:Krise;crisis;Many companies have come through the crisis well.
+BIZ:de:noun:der:Handel;trade, commerce;Trade with China is very important.
+BIZ:de:noun:der:Einzelhandel;retail, retail trade;Retail is suffering from online shopping.
+BIZ:de:noun:der:Großhandel;wholesale, wholesale trade;We buy the goods wholesale.
+BIZ:de:noun:die:Globalisierung;globalization;Globalization is changing the world of work.
+BIZ:de:noun:die:Nachhaltigkeit;sustainability;Sustainability is playing an increasingly important role.
+BIZ:de:noun:das:Recht;right, law;Every employee has the right to paid leave.
+BIZ:de:noun:das:Gesetz;law, act;The new law comes into force in January.
+BIZ:de:noun:die:Klausel;clause;This clause in the contract is unclear.
+BIZ:de:noun:die:Haftung;liability;Liability is limited to the company's assets.
+BIZ:de:noun:die:Vollmacht;power of attorney, authorization;He has power of attorney over the account.
+BIZ:de:noun:der:Anwalt;lawyer, attorney, solicitor;Our lawyer is reviewing the contract.
+BIZ:de:noun:die:Rechtsabteilung;legal department;The legal department has to give its approval.
+BIZ:de:noun:das:Handelsregister;commercial register, register of companies;The company is entered in the commercial register.
+BIZ:de:noun:der:Datenschutz;data protection, data privacy;Data protection rules must be observed.
+BIZ:de:noun:der:Schadensersatz;damages, compensation;The customer is demanding damages.
+BIZ:de:noun:die:Vertragsstrafe;contractual penalty, penalty clause;A contractual penalty applies in case of delay.
+BIZ:de:noun:die:Geheimhaltungsvereinbarung;non-disclosure agreement, NDA, confidentiality agreement;Please sign the non-disclosure agreement first.
+BIZ:de:noun:der:Gründer;founder;The founders have known each other since university.
+BIZ:de:noun:die:Gründung;founding, establishment, setting up;Setting up a company takes time and money.
+BIZ:de:noun:das:Start-up;start-up;She works at a start-up in Berlin.
+BIZ:de:noun:der:Unternehmer;entrepreneur, business owner;As an entrepreneur you take on a big risk.
+BIZ:de:noun:die:Selbstständigkeit;self-employment;The move into self-employment was a bold one.
+BIZ:de:noun:der:Geschäftsplan;business plan;The bank wants to see the business plan first.
+BIZ:de:noun:das:Geschäftsmodell;business model;The business model is based on subscriptions.
+BIZ:de:noun:die:Finanzierung;financing, funding;Funding for the project has been secured.
+BIZ:de:noun:die:Förderung;funding, support, subsidy;There is government funding for founders.
+BIZ:de:noun:der:Geschäftspartner;business partner;Our business partners are from Japan.
+BIZ:de:noun:das:Geschäft;business, trade;Business is going well.
+BIZ:de:noun:der:Abschluss;conclusion, signing (of a deal), closing;The signing of the contract is planned for June.
+BIZ:de:verb::arbeiten;work;She works at a big bank.
+BIZ:de:verb::sich bewerben;apply (for a job);She is applying for a job.
+BIZ:de:verb::einstellen;hire, employ, take on;We are hiring three engineers in the autumn.
+BIZ:de:verb::kündigen;resign, quit, give notice;He quit after two years.
+BIZ:de:verb::entlassen;dismiss, lay off, fire;The company had to lay off fifty employees.
+BIZ:de:verb::befördern;promote;She was promoted to head of department.
+BIZ:de:verb::verdienen;earn;How much does an engineer earn?
+BIZ:de:verb::beschäftigen;employ;The company employs 300 people.
+BIZ:de:verb::einarbeiten;train (a new employee), show the ropes;Ms Klein is training the new colleague.
+BIZ:de:verb::vertreten;stand in for, cover for, represent;Who is covering for you while you're on holiday?
+BIZ:de:verb::leiten;head, manage, run;She has been heading marketing for three years.
+BIZ:de:verb::führen;run, manage, lead;He runs the family business in the third generation.
+BIZ:de:verb::delegieren;delegate;A good boss delegates tasks.
+BIZ:de:verb::planen;plan;We are planning a new branch in Leipzig.
+BIZ:de:verb::organisieren;organize;Who is organizing the Christmas party?
+BIZ:de:verb::entscheiden;decide;The executive board decides on the budget.
+BIZ:de:verb::umsetzen;implement, put into practice;We have to implement the plan quickly.
+BIZ:de:verb::verantworten;be responsible for, be in charge of;She is responsible for all purchasing.
+BIZ:de:verb::koordinieren;coordinate;He coordinates the work of the three teams.
+BIZ:de:verb::besprechen;discuss, talk over;We'll discuss that at the next meeting.
+BIZ:de:verb::vereinbaren;arrange, agree on;We have arranged an appointment for Monday.
+BIZ:de:verb::verschieben;postpone, put off, reschedule;The meeting has been postponed to Friday.
+BIZ:de:verb::absagen;cancel, call off;Unfortunately I have to cancel the appointment.
+BIZ:de:verb::teilnehmen;take part, participate, attend;I'm attending the conference.
+BIZ:de:verb::präsentieren;present;Tomorrow we will present the results.
+BIZ:de:verb::vorstellen;introduce, present;May I introduce our new colleague?
+BIZ:de:verb::berichten;report;She reports directly to the managing director.
+BIZ:de:verb::erledigen;take care of, deal with, get done;I'll get that done by this evening.
+BIZ:de:verb::bearbeiten;process, handle, deal with;We will process your inquiry as quickly as possible.
+BIZ:de:verb::weiterleiten;forward, pass on;I have forwarded your email to my colleague.
+BIZ:de:verb::unterschreiben;sign;Please sign here at the bottom.
+BIZ:de:verb::genehmigen;approve, authorize;The boss has approved my leave.
+BIZ:de:verb::zustimmen;agree, approve, consent;The supervisory board has approved the plan.
+BIZ:de:verb::ablehnen;reject, decline, turn down;The customer has turned down our offer.
+BIZ:de:verb::verhandeln;negotiate;We are still negotiating the price.
+BIZ:de:verb::anbieten;offer;We can offer you a discount.
+BIZ:de:verb::bestellen;order;The customer has ordered 200 units.
+BIZ:de:verb::liefern;deliver, supply;We deliver within three days.
+BIZ:de:verb::verschicken;send, ship, dispatch;The goods will be shipped today.
+BIZ:de:verb::verkaufen;sell;We sell our products all over Europe.
+BIZ:de:verb::einkaufen;buy, purchase, source;We purchase the raw materials in Asia.
+BIZ:de:verb::reklamieren;complain about, make a claim about;The customer complained about the defective goods.
+BIZ:de:verb::sich beschweren;complain;A customer has complained about the service.
+BIZ:de:verb::betreuen;look after, take care of, manage (clients);She looks after our most important clients.
+BIZ:de:verb::werben;advertise, promote;The company advertises with low prices.
+BIZ:de:verb::vermarkten;market;We market the product mainly online.
+BIZ:de:verb::zahlen;pay;The customer hasn't paid yet.
+BIZ:de:verb::überweisen;transfer (money), wire;I'll transfer the amount today.
+BIZ:de:verb::mahnen;send a reminder (for payment), chase up;We had to send the customer two reminders.
+BIZ:de:verb::investieren;invest;We are investing in new technologies.
+BIZ:de:verb::finanzieren;finance, fund;The bank is financing the project.
+BIZ:de:verb::kalkulieren;calculate, cost;We need to recalculate the prices.
+BIZ:de:verb::sparen;save;The new software saves us a lot of time.
+BIZ:de:verb::senken;reduce, lower, cut;We want to cut costs by ten percent.
+BIZ:de:verb::steigern;increase, boost;We have increased sales significantly.
+BIZ:de:verb::wachsen;grow;The company has grown considerably.
+BIZ:de:verb::erzielen;achieve, make (a profit), generate;We have made a record profit.
+BIZ:de:verb::sich lohnen;be worthwhile, pay off, be worth it;The investment has paid off.
+BIZ:de:verb::abrechnen;claim (expenses), settle, invoice;I'll claim my travel expenses next week.
+BIZ:de:verb::buchen;book;Please book me a flight to Berlin.
+BIZ:de:verb::gründen;found, set up, establish;She founded her company in 2015.
+BIZ:de:verb::expandieren;expand;The start-up wants to expand into France.
+BIZ:de:verb::fusionieren;merge;The two companies have merged.
+BIZ:de:verb::übernehmen;take over, acquire, take on;The group has taken over the small company.
+BIZ:de:verb::produzieren;produce, manufacture;We manufacture exclusively in Germany.
+BIZ:de:verb::herstellen;manufacture, produce, make;The company manufactures car parts.
+BIZ:de:verb::exportieren;export;We export to over forty countries.
+BIZ:de:verb::importieren;import;The company imports coffee from Brazil.
+BIZ:de:verb::lagern;store, warehouse;The goods are stored in Hamburg.
+BIZ:de:verb::haften;be liable;The supplier is liable for damage.
+BIZ:de:verb::abschließen;conclude, sign (a contract), complete;We signed a contract yesterday.
+BIZ:de:verb::beraten;advise, consult;We advise companies on tax matters.
+BIZ:de:verb::sich einigen;agree, come to an agreement;We have agreed on a price.
+BIZ:de:verb::erhöhen;raise, increase;The supplier has raised its prices.
+BIZ:de:verb::kürzen;cut, reduce;The budget has been cut by half.
+BIZ:de:verb::erstatten;reimburse, refund;Your travel expenses will be reimbursed.
+BIZ:de:verb::prüfen;check, examine, review;We are reviewing your application carefully.
+BIZ:de:verb::kontrollieren;check, inspect, monitor;Quality is checked regularly.
+BIZ:de:verb::optimieren;optimize, streamline;We are optimizing the workflows in the warehouse.
+BIZ:de:verb::kooperieren;cooperate, collaborate;We cooperate closely with the university.
+BIZ:de:adj::beruflich;professional, work-related, on business;I'm often in Asia on business.
+BIZ:de:adj::geschäftlich;business, on business;He is on a business call right now.
+BIZ:de:adj::befristet;fixed-term, temporary;I have a fixed-term contract.
+BIZ:de:adj::unbefristet;permanent, open-ended;After the probationary period she got a permanent contract.
+BIZ:de:adj::selbstständig;self-employed, independent;She has been self-employed for two years.
+BIZ:de:adj::angestellt;employed, on the payroll;He is employed by an insurance company.
+BIZ:de:adj::arbeitslos;unemployed, out of work;After the bankruptcy he was unemployed for three months.
+BIZ:de:adj::zuständig;responsible, in charge;Who is responsible for the invoices?
+BIZ:de:adj::verantwortlich;responsible, in charge;She is responsible for marketing.
+BIZ:de:adj::erfahren;experienced;We are looking for an experienced project manager.
+BIZ:de:adj::qualifiziert;qualified;She is highly qualified for this position.
+BIZ:de:adj::belastbar;resilient, able to work under pressure;The applicant should be able to work under pressure and be flexible.
+BIZ:de:adj::zuverlässig;reliable, dependable;He is a very reliable employee.
+BIZ:de:adj::teamfähig;able to work in a team, team-oriented;We are looking for colleagues who are good team players.
+BIZ:de:adj::flexibel;flexible;Our working hours are very flexible.
+BIZ:de:adj::wirtschaftlich;economic, economical, cost-effective;The economic situation is difficult.
+BIZ:de:adj::rentabel;profitable, cost-effective;The new plant is already profitable after two years.
+BIZ:de:adj::profitabel;profitable;The business is very profitable.
+BIZ:de:adj::wettbewerbsfähig;competitive;Our prices must remain competitive.
+BIZ:de:adj::kostenlos;free, free of charge;The consultation is free of charge for you.
+BIZ:de:adj::kostengünstig;inexpensive, cost-effective, low-cost;We are looking for a cost-effective solution.
+BIZ:de:adj::brutto;gross, before tax;He earns 5,000 euros gross a month.
+BIZ:de:adj::netto;net, after tax;The price is 100 euros net.
+BIZ:de:adj::fällig;due, payable;The invoice is due on 15 May.
+BIZ:de:adj::zahlungsunfähig;insolvent, unable to pay;Unfortunately the customer is insolvent.
+BIZ:de:adj::vertraulich;confidential;This information is strictly confidential.
+BIZ:de:adj::verbindlich;binding;The offer is binding until the end of the month.
+BIZ:de:adj::unverbindlich;non-binding, without obligation;We'd be happy to send you a no-obligation quote.
+BIZ:de:adj::gesetzlich;statutory, legal;The statutory holiday entitlement is 20 days.
+BIZ:de:adj::international;international;We work in an international team.
+BIZ:de:adj::dringend;urgent;I have an urgent question about the contract.
+BIZ:de:adj::termingerecht;on time, on schedule;The delivery was made on time.
+BIZ:de:adj::nachhaltig;sustainable;We focus on sustainable production.
+BIZ:de:adj::erfolgreich;successful;The project was very successful.
+BIZ:de:adv::voraussichtlich;probably, expected to, presumably;The goods are expected to arrive on Monday.
+BIZ:de:adv::umgehend;immediately, promptly, without delay;Please reply immediately.
+BIZ:de:noun:der:Computer;computer;My computer is starting up very slowly today.
+BIZ:de:noun:der:Rechner;computer, PC;The computer in the office needs to be restarted.
+BIZ:de:noun:der:Laptop;laptop;Today I'm working from home on my laptop.
+BIZ:de:noun:das:Notebook;laptop, notebook;The new laptop has a very fast processor.
+BIZ:de:noun:das:Tablet;tablet;In meetings I take notes on my tablet.
+BIZ:de:noun:das:Smartphone;smartphone;The app runs on any smartphone.
+BIZ:de:noun:das:Gerät;device, appliance;Please connect the device to the Wi-Fi.
+BIZ:de:noun:die:Hardware;hardware;The hardware is already five years old.
+BIZ:de:noun:der:Bildschirm;screen, monitor, display;I like working with two screens.
+BIZ:de:noun:der:Monitor;monitor;The monitor has been flickering since this morning.
+BIZ:de:noun:die:Tastatur;keyboard;The Z key is missing on this keyboard.
+BIZ:de:noun:die:Taste;key, button;Press the Enter key.
+BIZ:de:noun:die:Maus;mouse (computer);The wireless mouse needs new batteries.
+BIZ:de:noun:der:Drucker;printer;The printer on the second floor has run out of paper.
+BIZ:de:noun:der:Scanner;scanner;Put the document in the scanner.
+BIZ:de:noun:der:Prozessor;processor, CPU;The processor is running at full capacity on this task.
+BIZ:de:noun:der:Arbeitsspeicher;RAM, memory;We need more RAM for the software.
+BIZ:de:noun:der:Speicher;storage, memory;The storage on my phone is almost full.
+BIZ:de:noun:die:Festplatte;hard drive, hard disk;Unfortunately the hard drive has broken.
+BIZ:de:noun:der:USB-Stick;USB stick, flash drive;I have the presentation on a USB stick.
+BIZ:de:noun:das:Kabel;cable, lead;Which cable goes with the monitor?
+BIZ:de:noun:der:Anschluss;port, connection;The laptop only has two USB ports.
+BIZ:de:noun:der:Akku;battery, rechargeable battery;The battery only lasts two hours now.
+BIZ:de:noun:das:Ladegerät;charger;Do you have a charger for my phone?
+BIZ:de:noun:die:Webcam;webcam;My webcam doesn't work in Teams.
+BIZ:de:noun:das:Headset;headset;I use a headset for video calls.
+BIZ:de:noun:das:Mikrofon;microphone, mic;Your microphone is still muted.
+BIZ:de:noun:der:Lautsprecher;speaker, loudspeaker;No sound is coming out of the speaker.
+BIZ:de:noun:die:Grafikkarte;graphics card, GPU;For AI training you need a powerful graphics card.
+BIZ:de:noun:die:Platine;circuit board, PCB;A component on the circuit board has burned out.
+BIZ:de:noun:das:Laufwerk;drive;The files are on the S drive.
+BIZ:de:noun:der:Server;server;The server has been unreachable for an hour.
+BIZ:de:noun:das:Rechenzentrum;data center;Our data center is in Frankfurt.
+BIZ:de:noun:der:Router;router;Please restart the router.
+BIZ:de:noun:die:Schnittstelle;interface, API;The two systems communicate via an interface.
+BIZ:de:noun:das:Peripheriegerät;peripheral, peripheral device;Printers and scanners are peripherals.
+BIZ:de:noun:die:Dockingstation;docking station, dock;I connect the laptop to the docking station.
+BIZ:de:noun:der:Beamer;projector;The projector in the conference room is already on.
+BIZ:de:noun:der:Touchscreen;touchscreen;The terminal has a large touchscreen.
+BIZ:de:noun:das:Betriebssystem;operating system, OS;Which operating system does your computer run?
+BIZ:de:noun:die:Software;software;We are buying new accounting software.
+BIZ:de:noun:das:Programm;program, application;The program crashes when saving.
+BIZ:de:noun:die:Anwendung;application, app;This application only runs on Windows.
+BIZ:de:noun:die:App;app;Download the app from the store.
+BIZ:de:noun:das:Update;update;The update will be installed tonight.
+BIZ:de:noun:die:Aktualisierung;update, upgrade;After the update everything works again.
+BIZ:de:noun:die:Version;version;Please always use the latest version.
+BIZ:de:noun:die:Lizenz;license;We need ten more licenses for the tool.
+BIZ:de:noun:die:Installation;installation;The installation takes about ten minutes.
+BIZ:de:noun:die:Benutzeroberfläche;user interface, UI;The new user interface is much clearer.
+BIZ:de:noun:die:Datei;file;I'll send you the file by email.
+BIZ:de:noun:der:Ordner;folder;Save the document in the right folder.
+BIZ:de:noun:das:Verzeichnis;directory;The script is in the scripts directory.
+BIZ:de:noun:der:Desktop;desktop;The shortcut is on the desktop.
+BIZ:de:noun:das:Fenster;window;Please close all open windows.
+BIZ:de:noun:das:Symbol;icon, symbol;Click the icon at the top right.
+BIZ:de:noun:das:Menü;menu;You'll find the settings in the Tools menu.
+BIZ:de:noun:die:Funktion;feature, function;This feature is only available in the Pro version.
+BIZ:de:noun:das:Tool;tool;We plan our sprints with this tool.
+BIZ:de:noun:das:Werkzeug;tool;Git is an important tool for developers.
+BIZ:de:noun:der:Browser;browser;Open the link in a different browser.
+BIZ:de:noun:die:Erweiterung;extension, add-on;The extension blocks ads in the browser.
+BIZ:de:noun:das:Plug-in;plug-in;There is a useful plug-in for the editor.
+BIZ:de:noun:die:Tabelle;table, spreadsheet;The data is in an Excel spreadsheet.
+BIZ:de:noun:die:Vorlage;template;Please use the template for bug reports.
+BIZ:de:noun:das:Format;format;The file format is not supported.
+BIZ:de:noun:die:Verknüpfung;shortcut, link;I'll create a shortcut on the desktop.
+BIZ:de:noun:der:Cursor;cursor;Move the cursor to the end of the line.
+BIZ:de:noun:der:Klick;click;The report is created with a single click.
+BIZ:de:noun:die:Zwischenablage;clipboard;The text is now on the clipboard.
+BIZ:de:noun:der:Papierkorb;recycle bin, trash;The deleted file is still in the recycle bin.
+BIZ:de:noun:die:Sicherungskopie;backup, backup copy;Make a backup of the database first.
+BIZ:de:noun:das:Backup;backup;The backup runs automatically every night.
+BIZ:de:noun:das:Internet;internet;We can't work today without the internet.
+BIZ:de:noun:das:Netz;network, internet;The network is extremely slow today.
+BIZ:de:noun:das:Netzwerk;network;The printer is not visible on the network.
+BIZ:de:noun:das:WLAN;Wi-Fi, wireless network;What's the Wi-Fi password?
+BIZ:de:noun:die:Verbindung;connection;The connection to the server was interrupted.
+BIZ:de:noun:die:Internetverbindung;internet connection;My internet connection keeps dropping out.
+BIZ:de:noun:die:Bandbreite;bandwidth;You need enough bandwidth for video conferences.
+BIZ:de:noun:der:Provider;provider, internet service provider;We are switching to a new provider.
+BIZ:de:noun:die:Website;website;The website is currently being revamped.
+BIZ:de:noun:die:Webseite;web page, website;You'll find the documentation on this web page.
+BIZ:de:noun:die:Homepage;website, homepage;The contact details are on our website.
+BIZ:de:noun:der:Link;link;Please send me the link to the meeting.
+BIZ:de:noun:die:Domain;domain;We have registered a new domain.
+BIZ:de:noun:die:IP-Adresse;IP address;Every device gets its own IP address.
+BIZ:de:noun:der:Download;download;The download will take a few more minutes.
+BIZ:de:noun:der:Upload;upload;The video upload failed.
+BIZ:de:noun:die:Suchmaschine;search engine;Our site should rank higher in the search engine.
+BIZ:de:noun:das:Firmennetz;corporate network, company network;From home you can only access the company network via VPN.
+BIZ:de:noun:das:VPN;VPN;Connect to the VPN first.
+BIZ:de:noun:das:Intranet;intranet;You'll find the forms on the intranet.
+BIZ:de:noun:der:Zugang;access;I don't have access to the system yet.
+BIZ:de:noun:der:Zugriff;access;Only admins have access to this data.
+BIZ:de:noun:der:Port;port;The service runs on port 8080.
+BIZ:de:noun:die:Firewall;firewall;The firewall is blocking this connection.
+BIZ:de:noun:die:Störung;fault, outage, disruption;The network went down because of a fault.
+BIZ:de:noun:der:Ausfall;outage, failure, downtime;The server outage lasted two hours.
+BIZ:de:noun:die:Ladezeit;loading time, load time;We need to reduce the page's loading time.
+BIZ:de:noun:der:Traffic;traffic (web);On Monday we had a lot of traffic on the site.
+BIZ:de:noun:der:Hotspot;hotspot;I'm working via my phone's hotspot.
+BIZ:de:noun:der:Stream;stream, livestream;The conference livestream starts at nine.
+BIZ:de:noun:der:Code;code;The code is well documented.
+BIZ:de:noun:der:Quellcode;source code;The source code is on GitHub.
+BIZ:de:noun:der:Programmierer;programmer, developer;We are looking for an experienced Java programmer.
+BIZ:de:noun:die:Programmiererin;programmer (female), developer;The programmer found the bug quickly.
+BIZ:de:noun:der:Entwickler;developer;Two developers are working on the new app.
+BIZ:de:noun:die:Entwicklerin;developer (female);She works as a developer at a start-up.
+BIZ:de:noun:die:Softwareentwicklung;software development;He has ten years of experience in software development.
+BIZ:de:noun:die:Programmiersprache;programming language;Python is a popular programming language.
+BIZ:de:noun:der:Fehler;error, bug, mistake;There's still a small bug in the code.
+BIZ:de:noun:der:Bug;bug;The bug only occurs on Android.
+BIZ:de:noun:die:Fehlermeldung;error message;Please send me a screenshot of the error message.
+BIZ:de:noun:die:Fehlerbehebung;bug fixing, troubleshooting, debugging;Fixing the bug took longer than planned.
+BIZ:de:noun:der:Absturz;crash;After the crash all the data was gone.
+BIZ:de:noun:der:Algorithmus;algorithm;The algorithm sorts the results by relevance.
+BIZ:de:noun:die:Variable;variable;This variable isn't used anywhere.
+BIZ:de:noun:die:Schleife;loop;The program is stuck in an infinite loop.
+BIZ:de:noun:die:Bibliothek;library (software);We use an external library for charts.
+BIZ:de:noun:das:Framework;framework;Which framework do you use for the frontend?
+BIZ:de:noun:das:Frontend;frontend, front end;She is responsible for the frontend.
+BIZ:de:noun:das:Backend;backend, back end;The backend is written in Go.
+BIZ:de:noun:die:Datenbankabfrage;database query;The database query is far too slow.
+BIZ:de:noun:das:Skript;script;A small script does that automatically.
+BIZ:de:noun:die:Codezeile;line of code;The project has over a hundred thousand lines of code.
+BIZ:de:noun:der:Test;test;All the tests passed successfully.
+BIZ:de:noun:das:Testing;testing;A separate team is responsible for testing.
+BIZ:de:noun:der:Tester;tester, QA engineer;The tester has reported three new bugs.
+BIZ:de:noun:das:Release;release;The next release is planned for May.
+BIZ:de:noun:das:Deployment;deployment;Deployment runs automatically through the pipeline.
+BIZ:de:noun:die:Entwicklungsumgebung;development environment, IDE;I use Visual Studio Code as my development environment.
+BIZ:de:noun:die:Testumgebung;test environment, staging environment;Test the change in the test environment first.
+BIZ:de:noun:der:Branch;branch (in Git);Create a separate branch for each feature.
+BIZ:de:noun:der:Commit;commit;The last commit broke the build.
+BIZ:de:noun:das:Repository;repository, repo;The repository is only accessible internally.
+BIZ:de:noun:die:Versionskontrolle;version control;Nobody here works without version control.
+BIZ:de:noun:das:Code-Review;code review;Every change needs a code review.
+BIZ:de:noun:die:Dokumentation;documentation;Unfortunately the documentation is out of date.
+BIZ:de:noun:das:Feature;feature;The new feature is going down well with users.
+BIZ:de:noun:der:Prototyp;prototype;By Friday we'll show a first prototype.
+BIZ:de:noun:die:Architektur;architecture;The system architecture is too complicated.
+BIZ:de:noun:die:Programmierung;programming, coding;Programming the interface will take two weeks.
+BIZ:de:noun:der:Compiler;compiler;The compiler is showing a warning.
+BIZ:de:noun:die:Abhängigkeit;dependency;We need to update the project's dependencies.
+BIZ:de:noun:die:Daten;data;The data is transmitted in encrypted form.
+BIZ:de:noun:die:Datenbank;database;All customers are stored in the database.
+BIZ:de:noun:der:Datensatz;record, data record, dataset;The table contains over a million records.
+BIZ:de:noun:die:Abfrage;query;With this query you can find all open tickets.
+BIZ:de:noun:die:Spalte;column;Add a new column to the table.
+BIZ:de:noun:die:Zeile;line, row;The error is on line 42.
+BIZ:de:noun:das:Feld;field;This field must not be left empty.
+BIZ:de:noun:die:Datenmenge;volume of data, amount of data;The volume of data grows sharply every year.
+BIZ:de:noun:die:Datenanalyse;data analysis;We use Python for data analysis.
+BIZ:de:noun:die:Datenverarbeitung;data processing;Data is processed only within the EU.
+BIZ:de:noun:die:Datenübertragung;data transmission, data transfer;Data transmission is end-to-end encrypted.
+BIZ:de:noun:die:Speicherkapazität;storage capacity;We need more storage capacity in the cloud.
+BIZ:de:noun:die:Migration;migration;The data migration is scheduled for the weekend.
+BIZ:de:noun:der:Speicherplatz;storage space, disk space;There's hardly any free space left on the drive.
+BIZ:de:noun:die:Statistik;statistics;The statistics show the number of active users.
+BIZ:de:noun:das:Diagramm;chart, diagram, graph;The chart shows the server load per hour.
+BIZ:de:noun:die:Auswertung;analysis, evaluation;The analysis of the log data is still in progress.
+BIZ:de:noun:das:Logfile;log file, log;The exact error message is in the log file.
+BIZ:de:noun:die:Cloud;cloud;All our documents are in the cloud.
+BIZ:de:noun:der:Cloud-Speicher;cloud storage;The cloud storage is available to all employees.
+BIZ:de:noun:der:Anbieter;provider, vendor, supplier;We are currently comparing several cloud providers.
+BIZ:de:noun:der:Dienst;service;The service is temporarily unavailable.
+BIZ:de:noun:das:Hosting;hosting, web hosting;Hosting costs us twenty euros a month.
+BIZ:de:noun:die:Synchronisierung;synchronization, sync;Syncing with the phone takes a while.
+BIZ:de:noun:die:Skalierbarkeit;scalability;Scalability is very important for our platform.
+BIZ:de:noun:die:Plattform;platform;The platform now has two million users.
+BIZ:de:noun:die:Virtualisierung;virtualization;Virtualization saves us a lot of servers.
+BIZ:de:noun:die:Sicherheit;security, safety;The security of our data is our top priority.
+BIZ:de:noun:die:IT-Sicherheit;IT security, cybersecurity;He is responsible for IT security here.
+BIZ:de:noun:das:Passwort;password;Your password must be at least twelve characters long.
+BIZ:de:noun:das:Kennwort;password;Please change your password every three months.
+BIZ:de:noun:der:Benutzername;username, user name;Enter your username and password.
+BIZ:de:noun:der:Account;account, user account;You need your own account for the tool.
+BIZ:de:noun:die:Anmeldung;login, sign-in;Login only works with the company account.
+BIZ:de:noun:die:Verschlüsselung;encryption;All emails are protected with strong encryption.
+BIZ:de:noun:die:Zwei-Faktor-Authentifizierung;two-factor authentication, 2FA;Please enable two-factor authentication.
+BIZ:de:noun:die:Berechtigung;permission, access rights, authorization;You don't have permission for this folder.
+BIZ:de:noun:das:Virus;virus (computer);The attachment contained a dangerous virus.
