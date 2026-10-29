@@ -21,19 +21,18 @@ ALL_LEVELS = LEVELS + TOPICS
 TRANSLATION_LANGS = ["en", "es"]
 LANGUAGES = ["de", "en", "es"]
 
-# Расписание слов по умолчанию: по одному слову каждые INTERVAL минут с DAY_START до DAY_END,
-# но не больше WORDS_PER_DAY в день. Пользователь может изменить это в профиле
-INTERVAL = 30
-WORDS_PER_DAY = 15
+# Рассылка: слова приходят по одному каждые WORD_INTERVAL минут, начиная с day_start,
+# всего words_per_day в день; тест дня — в quiz_time (минуты от полуночи).
+# Пользователь меняет это в профиле: начало → число слов → время теста
+WORD_INTERVAL = 30
 DAY_START = 9
-DAY_END = 21
-INTERVAL_OPTIONS = [30, 60, 120]
+WORDS_PER_DAY = 15
+QUIZ_TIME = 22 * 60
+DAY_START_OPTIONS = [8, 9, 10, 11, 12]
 WORDS_PER_DAY_OPTIONS = [5, 10, 15, 20, 25, 30]
-DAY_START_OPTIONS = [6, 7, 8, 9, 10, 11, 12]
-DAY_END_OPTIONS = [17, 18, 19, 20, 21]
+# Самое позднее время теста; рассылка должна закончиться хотя бы на полчаса раньше
+LATEST_QUIZ_TIME = 22 * 60
 
-# Время дневного теста. Слова, полученные после этого часа, относятся к следующему дню
-QUIZ_HOUR = 22
 DAILY_QUIZ_SIZE = 10
 WEEKLY_QUIZ_SIZE = 40
 
@@ -63,4 +62,4 @@ TICK_SECONDS = 30
 
 # Версия интерфейса. Если поднять число, после запуска бот разошлёт всем пользователям
 # «Бот обновлён» со свежим меню — чтобы не просить их писать /start после обновления
-BOT_VERSION = 1
+BOT_VERSION = 2

@@ -1,7 +1,7 @@
 import sqlite3
 from datetime import date, datetime, timezone
 
-from .config import (ALL_LEVELS, BOT_VERSION, DAY_END, DAY_START, DB_PATH, INTERVAL, LEVELS, TOPICS,
+from .config import (ALL_LEVELS, BOT_VERSION, DAY_START, DB_PATH, LEVELS, QUIZ_TIME, TOPICS,
                      TRANSLATION_LANGS, WORDS_PER_DAY)
 
 SCHEMA = """
@@ -66,8 +66,9 @@ conn.executescript(SCHEMA)
 
 # Колонки, добавленные после первого запуска: дописываем их в уже существующую базу
 _user_columns = {r["name"] for r in conn.execute("PRAGMA table_info(users)")}
-for _name, _default in (("interval_min", INTERVAL), ("words_per_day", WORDS_PER_DAY),
-                        ("day_start", DAY_START), ("day_end", DAY_END)):
+# interval_min и day_end больше не используются (интервал фиксированный), колонки остаются от старых версий
+for _name, _default in (("interval_min", 30), ("words_per_day", WORDS_PER_DAY),
+                        ("day_start", DAY_START), ("day_end", 21), ("quiz_time", QUIZ_TIME)):
     if _name not in _user_columns:
         conn.execute(f"ALTER TABLE users ADD COLUMN {_name} INTEGER NOT NULL DEFAULT {_default}")
 if "include_lower" not in _user_columns:

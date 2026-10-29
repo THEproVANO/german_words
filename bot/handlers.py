@@ -4,7 +4,7 @@ from aiogram.types import CallbackQuery, Message
 
 from . import db, keyboards, service
 from .config import (ADMIN_IDS, ALL_LEVELS, DAILY_QUIZ_SIZE, DEFAULT_TZ, DEFAULT_TZ_BY_UI, LANGUAGES,
-                     LEVELS, QUIZ_HOUR, TIMEZONES, TOPICS, WEEKLY_QUIZ_SIZE)
+                     LEVELS, TIMEZONES, TOPICS, WEEKLY_QUIZ_SIZE)
 from .i18n import CHOOSE_UI, UI_LANGUAGES, all_variants, city, level_name, t
 
 router = Router()
@@ -12,7 +12,8 @@ router = Router()
 
 def rules_text(user) -> str:
     lang = user["ui_lang"]
-    return t(lang, "rules", schedule=service.schedule_text(user), quiz_hour=QUIZ_HOUR,
+    return t(lang, "rules", schedule=service.schedule_text(user),
+             quiz_time=service.fmt_time(user["quiz_time"]),
              answer_rules=t(lang, f"answer_rules_{user['lang']}"),
              card_rules=t(lang, f"card_rules_{user['lang']}"),
              tr_note=t(lang, "tr_note") if db.tr_lang(user) == "ru" else "",
@@ -242,9 +243,7 @@ async def profile_action(call: CallbackQuery, bot: Bot) -> None:
             "level": ("ask_level", keyboards.levels(lang, db.available_levels(user["lang"], db.tr_lang(user)))),
             "learn": ("ask_learn", keyboards.languages(lang)),
             "tz": ("ask_tz", keyboards.timezones(lang)),
-            "interval": ("ask_interval", keyboards.intervals(lang)),
-            "limit": ("ask_limit", keyboards.words_per_day),
-            "hours": ("ask_start", keyboards.day_starts),
+            "schedule": ("ask_start", keyboards.day_starts),
         }[action]
         await call.message.answer(t(lang, text), reply_markup=markup)
     await call.answer()
@@ -262,24 +261,39 @@ async def choose_tz(call: CallbackQuery) -> None:
     await call.answer()
 
 
-@router.callback_query(F.data.startswith("set:"))
-async def change_setting(call: CallbackQuery) -> None:
-    _, name, value = call.data.split(":")
+@router.callback_query(F.data.startswith("sch:"))
+async def change_schedule(call: CallbackQuery) -> None:
+    """Настройка рассылки в три шага: начало → число слов → время теста.
+    Выбор копится в callback-данных и сохраняется только на последнем шаге."""
+    step, *values = call.data.split(":")[1:]
     user_id = call.from_user.id
     lang = db.get_user(user_id)["ui_lang"]
-    if name == "start":
-        # Время рассылки выбирается в два шага: сначала начало, потом конец
-        db.update_user(user_id, day_start=int(value))
-        await call.message.edit_text(t(lang, "ask_end", start=value),
-                                     reply_markup=keyboards.day_ends)
-        await call.answer()
-        return
-    column = {"interval": "interval_min", "limit": "words_per_day", "end": "day_end"}[name]
-    async with service.user_locks[user_id]:
-        db.update_user(user_id, **{column: int(value)})
-        service.reset_schedule(user_id)
-    schedule = service.schedule_text(db.get_user(user_id))
-    await call.message.edit_text(t(lang, "schedule_set", schedule=schedule))
+    start = int(values[0])
+    if step == "s":
+        await call.message.edit_text(
+            t(lang, "ask_count", start=service.fmt_time(start * 60)),
+            reply_markup=keyboards.word_counts(start, service.count_options(start)))
+    elif step == "c":
+        count = int(values[1])
+        await call.message.edit_text(
+            t(lang, "ask_quiz", start=service.fmt_time(start * 60), count=count,
+              end=service.fmt_time(service.last_word_time(start, count))),
+            reply_markup=keyboards.quiz_times(start, count, service.quiz_options(start, count)))
+    else:
+        count, quiz_time = int(values[1]), int(values[2])
+        async with service.user_locks[user_id]:
+            db.update_user(user_id, day_start=start, words_per_day=count, quiz_time=quiz_time)
+            service.reset_schedule(user_id)
+        schedule = service.schedule_text(db.get_user(user_id))
+        await call.message.edit_text(t(lang, "schedule_set", schedule=schedule))
+    await call.answer()
+
+
+@router.callback_query(F.data.startswith("set:"))
+async def old_setting(call: CallbackQuery) -> None:
+    """Кнопки старых настроек в прежних сообщениях — открываем новую настройку рассылки."""
+    lang = db.get_user(call.from_user.id)["ui_lang"]
+    await call.message.answer(t(lang, "ask_start"), reply_markup=keyboards.day_starts)
     await call.answer()
 
 

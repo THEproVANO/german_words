@@ -14,7 +14,8 @@ from aiogram.exceptions import TelegramForbiddenError
 
 from . import db, keyboards, words
 from .i18n import level_name, t
-from .config import BOT_VERSION, DAILY_QUIZ_SIZE, QUIZ_HOUR, TICK_SECONDS, WEEKLY_QUIZ_SIZE
+from .config import (BOT_VERSION, DAILY_QUIZ_SIZE, LATEST_QUIZ_TIME, TICK_SECONDS, WEEKLY_QUIZ_SIZE,
+                     WORD_INTERVAL, WORDS_PER_DAY_OPTIONS)
 
 log = logging.getLogger(__name__)
 
@@ -22,26 +23,49 @@ log = logging.getLogger(__name__)
 user_locks: defaultdict[int, asyncio.Lock] = defaultdict(asyncio.Lock)
 
 
+def fmt_time(minutes: int) -> str:
+    return f"{minutes // 60}:{minutes % 60:02d}"
+
+
+def last_word_time(start_hour: int, count: int) -> int:
+    """Время последнего слова (минуты от полуночи) при старте в start_hour и count словах."""
+    return start_hour * 60 + (count - 1) * WORD_INTERVAL
+
+
+def count_options(start_hour: int) -> list[int]:
+    """Сколько слов можно выбрать: рассылка должна закончиться до самого позднего теста."""
+    return [n for n in WORDS_PER_DAY_OPTIONS
+            if last_word_time(start_hour, n) + WORD_INTERVAL <= LATEST_QUIZ_TIME]
+
+
+def quiz_options(start_hour: int, count: int) -> list[int]:
+    """Время теста: каждые полчаса после последнего слова и до самого позднего теста."""
+    first = last_word_time(start_hour, count) + WORD_INTERVAL
+    return list(range(first, LATEST_QUIZ_TIME + 1, WORD_INTERVAL))
+
+
 def slots(user: sqlite3.Row) -> list[int]:
-    """Время отправки слов (в минутах от полуночи) по настройкам пользователя."""
-    times = range(user["day_start"] * 60, user["day_end"] * 60 + 1, user["interval_min"])
-    return list(times)[: user["words_per_day"]]
+    """Время отправки слов (в минутах от полуночи) по настройкам пользователя: каждые
+    WORD_INTERVAL минут с начала рассылки, но не позже времени теста."""
+    times = (user["day_start"] * 60 + i * WORD_INTERVAL for i in range(user["words_per_day"]))
+    return [m for m in times if m < user["quiz_time"]]
 
 
 def schedule_text(user: sqlite3.Row) -> str:
     lang = user["ui_lang"]
-    return t(lang, "schedule", interval=t(lang, f"every_{user['interval_min']}"),
-             start=user["day_start"], end=user["day_end"], limit=user["words_per_day"])
+    times = slots(user)
+    return t(lang, "schedule", limit=len(times), start=fmt_time(times[0]) if times else "—",
+             end=fmt_time(times[-1]) if times else "—", quiz=fmt_time(user["quiz_time"]))
 
 
 def local_now(user: sqlite3.Row) -> datetime:
     return datetime.now(ZoneInfo(user["tz"]))
 
 
-def study_date(local: datetime) -> date:
+def study_date(user: sqlite3.Row, local: datetime) -> date:
     """Учебный день: слова после времени теста относятся к следующему дню."""
     d = local.date()
-    return d + timedelta(days=1) if local.hour >= QUIZ_HOUR else d
+    return d + timedelta(days=1) if local.hour * 60 + local.minute >= user["quiz_time"] else d
 
 
 def slot_index(user: sqlite3.Row, local: datetime) -> int:
@@ -66,7 +90,7 @@ async def send_new_word(bot: Bot, user: sqlite3.Row) -> bool:
     word = db.pick_new_word(user)
     if word is None:
         return False
-    db.mark_sent(user["id"], word["id"], study_date(local_now(user)))
+    db.mark_sent(user["id"], word["id"], study_date(user, local_now(user)))
     lang = user["ui_lang"]
     await bot.send_message(user["id"], words.format_card(word, lang, db.tr_lang(user)))
     if db.pick_new_word(user) is None:
@@ -113,7 +137,7 @@ async def ensure_quizzes(bot: Bot, user: sqlite3.Row) -> None:
     """Запускает тесты за последний завершившийся учебный день, если их ещё не было."""
     if db.get_active_quiz(user["id"]):
         return
-    d = study_date(local_now(user)) - timedelta(days=1)
+    d = study_date(user, local_now(user)) - timedelta(days=1)
     if not db.get_quiz(user["id"], "daily", d):
         if await start_quiz(bot, user, "daily", d, db.words_for_dates(user["id"], user["lang"], d, d)):
             return
@@ -126,7 +150,7 @@ async def start_test(bot: Bot, user: sqlite3.Row, weekly: bool) -> None:
     if quiz:
         await send_question(bot, user, quiz["id"])
         return
-    d = study_date(local_now(user))
+    d = study_date(user, local_now(user))
     word_ids = db.words_for_dates(user["id"], user["lang"], d - timedelta(days=6 if weekly else 0), d)
     if not word_ids:
         await bot.send_message(user["id"], t(user["ui_lang"], "test_no_words"))
@@ -139,7 +163,7 @@ async def start_test(bot: Bot, user: sqlite3.Row, weekly: bool) -> None:
 def _quiz_day(user: sqlite3.Row, quiz: sqlite3.Row) -> date:
     """Учебный день, к которому относится тест (у пробного — сегодняшний)."""
     if quiz["kind"].startswith("test_"):
-        return study_date(local_now(user))
+        return study_date(user, local_now(user))
     return date.fromisoformat(quiz["study_date"])
 
 

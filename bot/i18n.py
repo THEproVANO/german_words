@@ -189,22 +189,12 @@ TEXTS = {
     },
     "status_active": {"ru": "✅ активен", "en": "✅ active", "es": "✅ activo"},
     "schedule": {
-        "ru": "{interval} с {start}:00 до {end}:00, не больше {limit} в день",
-        "en": "{interval} from {start}:00 to {end}:00, up to {limit} a day",
-        "es": "{interval} de {start}:00 a {end}:00, máximo {limit} al día",
+        "ru": "{limit} слов с {start} до {end} (каждые 30 минут), тест дня в {quiz}",
+        "en": "{limit} words from {start} to {end} (every 30 minutes), daily quiz at {quiz}",
+        "es": "{limit} palabras de {start} a {end} (cada 30 minutos), test del día a las {quiz}",
     },
-    "every_30": {"ru": "каждые 30 минут", "en": "every 30 minutes",
-                 "es": "cada 30 minutos"},
-    "every_60": {"ru": "каждый час", "en": "every hour",
-                 "es": "cada hora"},
-    "every_120": {"ru": "каждые 2 часа", "en": "every 2 hours",
-                  "es": "cada 2 horas"},
-    "btn_interval": {"ru": "⏱ Интервал", "en": "⏱ Interval",
-                     "es": "⏱ Intervalo"},
-    "btn_limit": {"ru": "🔢 Слов в день", "en": "🔢 Words per day",
-                  "es": "🔢 Palabras al día"},
-    "btn_hours": {"ru": "🕘 Время рассылки", "en": "🕘 Delivery hours",
-                  "es": "🕘 Horario de envío"},
+    "btn_schedule": {"ru": "📬 Рассылка и тест", "en": "📬 Schedule & quiz",
+                     "es": "📬 Envío y test"},
     "btn_tz": {"ru": "🕒 Часовой пояс", "en": "🕒 Time zone",
                "es": "🕒 Zona horaria"},
     "btn_level": {"ru": "📚 Сменить уровень", "en": "📚 Change level",
@@ -237,25 +227,23 @@ TEXTS = {
                "es": "Elige tu zona horaria:"},
     "tz_set": {"ru": "Часовой пояс: {tz} ✅", "en": "Time zone: {tz} ✅",
                "es": "Zona horaria: {tz} ✅"},
-    "ask_interval": {
-        "ru": "Как часто присылать слова?",
-        "en": "How often should I send words?",
-        "es": "¿Cada cuánto envío las palabras?",
-    },
-    "ask_limit": {
-        "ru": "Сколько слов присылать в день?",
-        "en": "How many words per day?",
-        "es": "¿Cuántas palabras al día?",
-    },
     "ask_start": {
-        "ru": "С какого часа присылать слова?",
-        "en": "From what time should I send words?",
-        "es": "¿Desde qué hora envío las palabras?",
+        "ru": "📬 <b>Рассылка</b>\n\nВо сколько присылать первое слово?",
+        "en": "📬 <b>Schedule</b>\n\nWhen should the first word arrive?",
+        "es": "📬 <b>Envío</b>\n\n¿A qué hora envío la primera palabra?",
     },
-    "ask_end": {
-        "ru": "Начало: {start}:00\n\nДо какого часа присылать слова?",
-        "en": "Start: {start}:00\n\nUntil what time should I send words?",
-        "es": "Inicio: {start}:00\n\n¿Hasta qué hora envío las palabras?",
+    "ask_count": {
+        "ru": "📬 Начало: <b>{start}</b>\n\nСколько слов присылать в день? Слова приходят каждые 30 минут.",
+        "en": "📬 Start: <b>{start}</b>\n\nHow many words a day? Words arrive every 30 minutes.",
+        "es": "📬 Inicio: <b>{start}</b>\n\n¿Cuántas palabras al día? Llegan cada 30 minutos.",
+    },
+    "ask_quiz": {
+        "ru": "📬 Начало: <b>{start}</b>\nСлов в день: <b>{count}</b>\nПоследнее слово: <b>{end}</b>\n\n"
+              "Во сколько проводить тест дня?",
+        "en": "📬 Start: <b>{start}</b>\nWords a day: <b>{count}</b>\nLast word: <b>{end}</b>\n\n"
+              "What time should the daily quiz be?",
+        "es": "📬 Inicio: <b>{start}</b>\nPalabras al día: <b>{count}</b>\nÚltima palabra: <b>{end}</b>\n\n"
+              "¿A qué hora hacemos el test del día?",
     },
     "schedule_set": {
         "ru": "✅ Рассылка: {schedule}",
@@ -423,14 +411,14 @@ TEXTS = {
               "{card_rules}\n\n"
               "➕ <b>«Ещё слово»</b> присылает новое слово вне очереди, в дневной лимит оно "
               "не входит.\n\n"
-              "📝 <b>Тест дня</b> в {quiz_hour}:00: до {daily} случайных слов из полученных "
+              "📝 <b>Тест дня</b> в {quiz_time}: до {daily} случайных слов из полученных "
               "за день. Бот пишет перевод, а ты вводишь слово {answer_rules} Синоним с тем же переводом ошибкой не считается — бот подскажет, какое слово загадано. После второй ошибки бот покажет подсказку, после третьей можно "
               "посмотреть ответ, но тогда слово спросят ещё раз в конце теста.\n\n"
               "🏆 <b>Недельный тест</b> по воскресеньям сразу после теста дня: до {weekly} "
               "слов за неделю.\n\n"
               "⛔ Пока тест не пройден, новые слова не приходят. Расписание продолжится сразу "
               "после прохождения теста.\n\n"
-              "⚙️ В профиле можно изменить интервал, количество слов в день, время рассылки, "
+              "⚙️ В профиле можно изменить начало рассылки, количество слов в день, время теста, "
               "часовой пояс, уровень, изучаемый язык и язык бота, а также поставить бота на паузу.{tr_note}",
         "en": "ℹ️ <b>How the bot works</b>\n\n"
               "📩 <b>New words</b> arrive one at a time: {schedule}. Words are picked at random "
@@ -439,7 +427,7 @@ TEXTS = {
               "{card_rules}\n\n"
               "➕ <b>“One more word”</b> sends an extra word right away; it doesn't count toward "
               "the daily limit.\n\n"
-              "📝 <b>Daily quiz</b> at {quiz_hour}:00: up to {daily} random words from the ones "
+              "📝 <b>Daily quiz</b> at {quiz_time}: up to {daily} random words from the ones "
               "you got that day. The bot shows the translation and you type the word {answer_rules} A synonym with the same translation isn't counted as a mistake — the bot will hint which word it means. "
               "After the second mistake you get "
               "a hint; after the third you can see the answer, but then the word will be asked "
@@ -448,7 +436,7 @@ TEXTS = {
               "from the week.\n\n"
               "⛔ No new words arrive until you pass the quiz. The schedule resumes right after "
               "you pass it.\n\n"
-              "⚙️ In your profile you can change the interval, words per day, delivery hours, "
+              "⚙️ In your profile you can change the start time, words per day, quiz time, "
               "time zone, level, language to learn and bot language, or pause the bot.{tr_note}",
         "es": "ℹ️ <b>Cómo funciona el bot</b>\n\n"
               "📩 <b>Las palabras nuevas</b> llegan de una en una: {schedule}. Se eligen al azar "
@@ -457,7 +445,7 @@ TEXTS = {
               "{card_rules}\n\n"
               "➕ <b>«Otra palabra»</b> envía una palabra extra al momento; no cuenta para el "
               "límite diario.\n\n"
-              "📝 <b>Test del día</b> a las {quiz_hour}:00: hasta {daily} palabras al azar de las "
+              "📝 <b>Test del día</b> a las {quiz_time}: hasta {daily} palabras al azar de las "
               "que recibiste ese día. El bot muestra la traducción y tú escribes la palabra "
               "{answer_rules} Un sinónimo con la misma traducción no cuenta como error: el bot te indicará qué palabra busca. Tras el segundo "
               "error recibes una pista; tras el tercero puedes ver la respuesta, pero entonces "
@@ -466,8 +454,8 @@ TEXTS = {
               "{weekly} palabras de la semana.\n\n"
               "⛔ Hasta que no superes el test, no llegarán palabras nuevas. El horario continúa "
               "en cuanto lo superes.\n\n"
-              "⚙️ En tu perfil puedes cambiar el intervalo, las palabras al día, el horario de "
-              "envío, la zona horaria, el nivel, el idioma que aprendes y el idioma del bot, o poner el bot en pausa.{tr_note}",
+              "⚙️ En tu perfil puedes cambiar la hora de inicio, las palabras al día, la hora del "
+              "test, la zona horaria, el nivel, el idioma que aprendes y el idioma del bot, o poner el bot en pausa.{tr_note}",
     },
 }
 

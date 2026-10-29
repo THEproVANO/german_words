@@ -2,9 +2,7 @@ from aiogram.types import (InlineKeyboardButton, InlineKeyboardMarkup, KeyboardB
                            ReplyKeyboardMarkup)
 
 from . import db
-from .config import (DAY_END_OPTIONS, DAY_START_OPTIONS, INTERVAL_OPTIONS, LANGUAGES, TIMEZONES,
-                     TOPICS, TRANSLATION_LANGS,
-                     WORDS_PER_DAY_OPTIONS)
+from .config import DAY_START_OPTIONS, LANGUAGES, TIMEZONES, TOPICS, TRANSLATION_LANGS
 from .i18n import UI_LANGUAGES, city, level_name, t
 
 
@@ -59,32 +57,29 @@ def timezones(lang: str) -> InlineKeyboardMarkup:
     ])
 
 
-def intervals(lang: str) -> InlineKeyboardMarkup:
-    return InlineKeyboardMarkup(inline_keyboard=[
-        [_button(t(lang, f"every_{m}").capitalize(), f"set:interval:{m}")]
-        for m in INTERVAL_OPTIONS
-    ])
+def _rows(buttons: list[InlineKeyboardButton], per_row: int) -> list[list[InlineKeyboardButton]]:
+    return [buttons[i:i + per_row] for i in range(0, len(buttons), per_row)]
 
-
-words_per_day = InlineKeyboardMarkup(inline_keyboard=[
-    [_button(str(n), f"set:limit:{n}") for n in WORDS_PER_DAY_OPTIONS],
-])
 
 day_starts = InlineKeyboardMarkup(inline_keyboard=[
-    [_button(f"{h}:00", f"set:start:{h}") for h in DAY_START_OPTIONS],
+    [_button(f"{h}:00", f"sch:s:{h}") for h in DAY_START_OPTIONS],
 ])
 
-day_ends = InlineKeyboardMarkup(inline_keyboard=[
-    [_button(f"{h}:00", f"set:end:{h}") for h in DAY_END_OPTIONS],
-])
+
+def word_counts(start: int, options: list[int]) -> InlineKeyboardMarkup:
+    return InlineKeyboardMarkup(inline_keyboard=_rows(
+        [_button(str(n), f"sch:c:{start}:{n}") for n in options], 6))
+
+
+def quiz_times(start: int, count: int, options: list[int]) -> InlineKeyboardMarkup:
+    return InlineKeyboardMarkup(inline_keyboard=_rows(
+        [_button(f"{m // 60}:{m % 60:02d}", f"sch:q:{start}:{count}:{m}") for m in options], 4))
 
 
 def profile(lang: str, paused: bool) -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(inline_keyboard=[
-        [_button(t(lang, "btn_interval"), "profile:interval"),
-         _button(t(lang, "btn_limit"), "profile:limit")],
-        [_button(t(lang, "btn_hours"), "profile:hours"),
-         _button(t(lang, "btn_tz"), "profile:tz")],
+        [_button(t(lang, "btn_schedule"), "profile:schedule")],
+        [_button(t(lang, "btn_tz"), "profile:tz")],
         [_button(t(lang, "btn_level"), "profile:level"),
          _button(t(lang, "btn_learn"), "profile:learn")],
         [_button(t(lang, "btn_ui"), "profile:ui")],
