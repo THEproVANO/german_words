@@ -13,7 +13,7 @@ from aiogram import Bot
 from aiogram.exceptions import TelegramForbiddenError
 
 from . import db, keyboards, words
-from .i18n import level_name, t
+from .i18n import TEXTS, level_name, t
 from .config import (BOT_VERSION, DAILY_QUIZ_SIZE, LATEST_QUIZ_TIME, TICK_SECONDS, WEEKLY_QUIZ_SIZE,
                      WORD_INTERVAL, WORDS_PER_DAY_OPTIONS)
 
@@ -290,13 +290,21 @@ async def process_user(bot: Bot, user: sqlite3.Row) -> None:
     await send_new_word(bot, user)
 
 
+def update_text(lang: str) -> str:
+    """«Бот обновлён» и, если есть, короткое описание изменений этой версии."""
+    text = t(lang, "bot_updated")
+    if f"whats_new_{BOT_VERSION}" in TEXTS:
+        text += "\n\n" + t(lang, f"whats_new_{BOT_VERSION}")
+    return text
+
+
 async def notify_update(bot: Bot) -> None:
     """После обновления версии: всем пользователям — сообщение и свежее меню.
     С паузами, чтобы не упереться в ограничения Telegram на частоту сообщений."""
     for user in db.users_to_notify_update():
         lang = user["ui_lang"]
         try:
-            await bot.send_message(user["id"], t(lang, "bot_updated"),
+            await bot.send_message(user["id"], update_text(lang),
                                    reply_markup=keyboards.main_menu(lang))
         except TelegramForbiddenError:
             db.update_user(user["id"], blocked=1)

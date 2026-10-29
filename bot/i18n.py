@@ -126,6 +126,29 @@ TEXTS = {
         "es": "🔄 El bot se ha actualizado: el menú y los botones están al día. "
               "Tu progreso y tus ajustes se mantienen.",
     },
+    # Что нового — по номеру BOT_VERSION, добавляется к сообщению «Бот обновлён»
+    "whats_new_2": {
+        "ru": "<b>Что нового:</b>\n"
+              "📬 Новая настройка «Рассылка и тест» в профиле: выбери начало рассылки, "
+              "сколько слов в день и время теста дня (с 15:00 до 22:00, в зависимости от рассылки)\n"
+              "📚 После теста дня — список всех слов за день с переводами\n"
+              "🇩🇪🇬🇧🇪🇸 У каждого слова флажок языка; в тест попадают только слова изучаемого языка\n"
+              "💼 Новый уровень «Работа, бизнес и IT», а для английского и испанского — уровни C1 и C2",
+        "en": "<b>What's new:</b>\n"
+              "📬 New “Schedule & quiz” setting in your profile: choose when words start, "
+              "how many a day and the time of the daily quiz\n"
+              "📚 After the daily quiz you get a list of all today's words with translations\n"
+              "🇩🇪🇪🇸 Every word shows its language flag; quizzes include only the language you're learning\n"
+              "🇬🇧 German and Spanish words now come with English translations and examples\n"
+              "💼 New level “Work, business & IT”, plus C1 and C2 for Spanish",
+        "es": "<b>Novedades:</b>\n"
+              "📬 Nuevo ajuste «Envío y test» en tu perfil: elige la hora de inicio, "
+              "cuántas palabras al día y la hora del test del día\n"
+              "📚 Después del test del día recibes la lista de palabras de hoy con su traducción\n"
+              "🇩🇪🇬🇧 Cada palabra muestra la bandera de su idioma; el test solo incluye el idioma que aprendes\n"
+              "🇪🇸 Las palabras en alemán e inglés ahora tienen traducción y ejemplos en español\n"
+              "💼 Nuevo nivel «Trabajo, negocios e IT», y niveles C1 y C2 de inglés",
+    },
     "welcome_back": {
         "ru": "С возвращением! 👋",
         "en": "Welcome back! 👋",
