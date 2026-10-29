@@ -39,9 +39,10 @@ def count_options(start_hour: int) -> list[int]:
 
 
 def quiz_options(start_hour: int, count: int) -> list[int]:
-    """Время теста: каждые полчаса после последнего слова и до самого позднего теста."""
-    first = last_word_time(start_hour, count) + WORD_INTERVAL
-    return list(range(first, LATEST_QUIZ_TIME + 1, WORD_INTERVAL))
+    """Время теста: каждый час, начиная с первого целого часа не раньше чем через полчаса
+    после последнего слова, и до самого позднего теста."""
+    first = math.ceil((last_word_time(start_hour, count) + WORD_INTERVAL) / 60) * 60
+    return list(range(first, LATEST_QUIZ_TIME + 1, 60))
 
 
 def slots(user: sqlite3.Row) -> list[int]:
